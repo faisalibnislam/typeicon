@@ -12,7 +12,7 @@ const SAMPLE = ["home", "search", "settings", "user", "bell", "heart", "mail", "
 export default async function Home() {
   const [stats, release, samples, categories] = await Promise.all([getStats(), getLatestRelease(), getCoreSamples(SAMPLE), listCategories()]);
   const fontFace = release
-    ? ["Filled", "Line", "Rounded"]
+    ? ["Filled", "Line", "Rounded", "Thin"]
         .map((s) => `@font-face{font-family:"TypeIcon ${s}";src:url("/api/files/releases/${release.version}/webfonts/TypeIcon${s}-Regular.woff2") format("woff2");font-display:block}`)
         .join("")
     : "";

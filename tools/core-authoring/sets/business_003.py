@@ -1078,7 +1078,7 @@ def _(S):
     ]
 
 
-@icon("brand-guidelines", CAT, "Open book with colour swatches on the left page and a logo mark on the right page",
+@icon("style-guide-book", CAT, "Open book with colour swatches on the left page and a logo mark on the right page",
       tags=["brand book", "style guide", "brand guide", "brand identity", "design system", "visual identity"])
 def _(S):
     book = ("M12 5.5C10 4 6 3.5 2.5 4V19.5C6 19 10 19.5 12 21C14 19.5 18 19 21.5 19.5V4C18 3.5 14 4 12 5.5Z")

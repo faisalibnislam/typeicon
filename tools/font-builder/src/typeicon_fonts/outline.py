@@ -17,6 +17,7 @@ import re
 from dataclasses import dataclass, field
 
 from fontTools.misc.transform import Transform
+from fontTools.pens.recordingPen import RecordingPen
 from fontTools.pens.transformPen import TransformPen
 from fontTools.svgLib.path import parse_path
 from pathops import FillType, LineCap, LineJoin, Path, PathOp, op
@@ -158,6 +159,45 @@ def _uniform_scale(m: Transform) -> float | None:
 _NUDGES = [(0.05, 0.0), (0.0, 0.05), (-0.05, 0.0), (0.0, -0.05), (0.05, 0.05)]  # font units: invisible
 
 
+def _flatten(path: Path, steps: int = 16) -> Path:
+    """The same centre line made of short straight segments. Stroking that is slightly less smooth but always
+    resolves in Skia, so it is the fallback when stroking the original curves fails."""
+    rec = RecordingPen()
+    path.draw(rec)
+    out = Path()
+    pen = out.getPen()
+    cur = (0.0, 0.0)
+    for verb, args in rec.value:
+        if verb == "moveTo":
+            pen.moveTo(args[0])
+            cur = args[0]
+        elif verb == "lineTo":
+            pen.lineTo(args[0])
+            cur = args[0]
+        elif verb in ("qCurveTo", "curveTo"):
+            pts = [cur, *args]
+            if verb == "qCurveTo" and len(pts) > 3:  # TrueType-style run of off-curve points
+                pen.lineTo(args[-1])
+                cur = args[-1]
+                continue
+            for i in range(1, steps + 1):
+                t = i / steps
+                if len(pts) == 3:
+                    x = (1 - t) ** 2 * pts[0][0] + 2 * (1 - t) * t * pts[1][0] + t * t * pts[2][0]
+                    y = (1 - t) ** 2 * pts[0][1] + 2 * (1 - t) * t * pts[1][1] + t * t * pts[2][1]
+                else:
+                    u = 1 - t
+                    x = u ** 3 * pts[0][0] + 3 * u * u * t * pts[1][0] + 3 * u * t * t * pts[2][0] + t ** 3 * pts[3][0]
+                    y = u ** 3 * pts[0][1] + 3 * u * u * t * pts[1][1] + 3 * u * t * t * pts[2][1] + t ** 3 * pts[3][1]
+                pen.lineTo((x, y))
+            cur = args[-1]
+        elif verb == "closePath":
+            pen.closePath()
+        elif verb == "endPath":
+            pen.endPath()
+    return out
+
+
 def _union(a: Path | None, b: Path) -> Path:
     """Union that checks Skia's answer. Skia can return a wrong union (and a wrong intersection) without raising
     when edges coincide exactly, e.g. a solid band flush with a stroked frame. Each attempt must satisfy
@@ -237,16 +277,24 @@ def svg_to_outline(svg: bytes | str, upm: int = UPM, ascent: int = ASCENT, desce
                     if k is None:
                         raise OutlineError("stroke under non-uniform transform is not supported")
                     sp = _path_from_d(d, m)
+                    centre = Path(sp)  # kept in case stroking the curves needs the flattened fallback
                     dash = local.get("stroke-dasharray", "none")
                     dash_arr = None if dash in ("none", "") else [v * k for v in _points(dash)]
                     if dash_arr and sum(dash_arr) <= 0:
                         dash_arr = None
                     cap = _CAPS.get(local.get("stroke-linecap", "butt"), LineCap.BUTT_CAP)
                     join = _JOINS.get(local.get("stroke-linejoin", "miter"), LineJoin.MITER_JOIN)
-                    sp.stroke(width * k, cap, join, _f(local.get("stroke-miterlimit"), 4.0),
-                              dash_array=dash_arr, dash_offset=_f(local.get("stroke-dashoffset")) * k)
-                    sp.convertConicsToQuads()
-                    sp.simplify(fix_winding=True)
+                    def stroked(src: Path) -> Path:
+                        out = Path(src)
+                        out.stroke(width * k, cap, join, _f(local.get("stroke-miterlimit"), 4.0),
+                                   dash_array=dash_arr, dash_offset=_f(local.get("stroke-dashoffset")) * k)
+                        out.convertConicsToQuads()
+                        out.simplify(fix_winding=True)
+                        return out
+                    try:
+                        sp = stroked(sp)
+                    except Exception:  # noqa: BLE001 - Skia sometimes cannot clean up a stroke of long curves
+                        sp = stroked(_flatten(centre))
                     result = _union(result, sp)
         else:
             return None

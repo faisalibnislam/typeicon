@@ -76,9 +76,3 @@ bash scripts/dev-db.sh start && pnpm dev   # site on :3107
 pnpm worker                               # jobs
 pnpm test && pnpm test:e2e                # all tests
 ```
-
-## Pending for release 0.4.0 (Thin style)
-
-Once a release that contains the Thin font family is built and loaded, add `thin` to `FAMILIES` in
-`apps/web/src/components/home/keyword-demo.tsx` and to the `@font-face` list in `apps/web/src/app/page.tsx`.
-Release 0.3.0 has no Thin family, so adding them earlier would request font files that do not exist.

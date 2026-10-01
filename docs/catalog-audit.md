@@ -1,30 +1,30 @@
 # Catalog audit
 
-Generated 2026-09-30 by `typeicon-import audit` from the catalog build. Machine-readable copy: `build/audit/catalog-audit.json`.
+Generated 2026-10-01 by `typeicon-import audit` from the catalog build. Machine-readable copy: `build/audit/catalog-audit.json`.
 
 ## The goal and where it stands
 
 - **Goal:** 20,000 unique, individually drawn TypeIcon Core concepts, each with approved Filled, Line and Rounded variants (60,000 concept/style assets).
-- **Unique drawn Core concepts today:** 1,930 (rotations and mirrors of another design excluded).
-- **Badge variants on top:** 24,660 (base + designed badge, e.g. `file-plus`); all Core icons together: 26,590.
-- **Remaining gap:** 18,070 unique concepts. **The goal is not met.**
+- **Unique drawn Core concepts today:** 22,752 (rotations and mirrors of another design excluded).
+- **Badge variants on top:** 27,011 (base + designed badge, e.g. `file-plus`); all Core icons together: 49,763.
+- **Remaining gap:** 0 unique concepts. The goal is met.
 
 | Measure | Count |
 |---|---:|
-| Core designs | 26,651 |
-| Core complete three-style concepts (counted) | 26,590 |
-| Core directional variants derived by rotation (not counted) | 61 |
+| Core designs | 49,844 |
+| Core complete three-style concepts (counted) | 49,763 |
+| Core directional variants derived by rotation (not counted) | 81 |
 | Core designs incomplete or with identical styles | 0 |
-| Core approved variants | 79,953 |
-| Core base designs (drawn individually) | 1,930 |
-| Core variants (base + badge) | 24,660 |
+| Core approved variants | 199,376 |
+| Core base designs (drawn individually) | 22,752 |
+| Core variants (base + badge) | 27,011 |
 | Brand logos (Simple Icons; never counted toward the goal) | 3,463 |
-| Distinct concepts across all sources (search concepts) | 29,949 |
-| Published variants across all sources | 83,312 |
-| Explicit aliases (not icons) | 1,250 |
-| Variants compiled into fonts | 83,312 |
+| Distinct concepts across all sources (search concepts) | 53,103 |
+| Published variants across all sources | 202,735 |
+| Explicit aliases (not icons) | 3,910 |
+| Variants compiled into fonts | 202,735 |
 | SVG-only variants | 0 |
-| Groups of identical artwork under different names | 26 |
+| Groups of identical artwork under different names | 50 |
 | License gaps / open items | 4 |
 
 Raster identical-style check: skipped; 0 Core designs flagged (styles with IoU ≥ 0.995 at 48 px).
@@ -57,9 +57,14 @@ Raster identical-style check: skipped; 0 Core designs flagged (styles with IoU �
 - `arrow-up` = rotate(270 12 12) of `arrow-right`
 - `arrow-up-left` = mirrored horizontally of `arrow-up-right`
 - `arrows-up-down` = rotated 90° of `arrows-left-right`
+- `border-all` = identical artwork of `layout-grid`
+- `capital-city-marker` = identical artwork of `campaign-button`
+- `carbon-fiber` = identical artwork of `grid-lines`
+- `card-catalog` = identical artwork of `crocodile-leather`
 - `caret-down` = rotated 90° of caret-right of `caret-up`
 - `caret-left` = rotated 270° of `caret-up`
 - `caret-right` = rotated 90° of `caret-up`
+- `chess-board` = identical artwork of `paper-weaving-mat`
 - `chevron-down` = rotate(90 12 12) of `chevron-right`
 - `chevron-left` = rotated 180° of `chevron-right`
 - `chevron-up` = rotated 90° of chevron-left of `chevron-right`
@@ -71,8 +76,13 @@ Raster identical-style check: skipped; 0 Core designs flagged (styles with IoU �
 - `corner-left-up` = rotated 90° of corner-down-left of `corner-up-left`
 - `corner-right-up` = mirrored horizontally of corner-left-up of `corner-up-left`
 - `corner-up-right` = mirrored horizontally of `corner-up-left`
+- `cutting-mat` = identical artwork of `grid-lines`
 - `drag-vertical` = rotated 90° of `drag-horizontal`
 - `forward-mail` = mirrored horizontally of `reply`
+- `furnace-filter` = rotated 90° of `glulam-beam`
+- `gauze-pad` = identical artwork of `grid-lines`
+- `gingham-fabric` = identical artwork of `paper-weaving-mat`
+- `glass-rack` = identical artwork of `coffered-ceiling`
 - `greater-equal` = mirrored horizontally of `less-equal`
 - `greater-than` = mirrored horizontally of `less-than`
 - `hand-point-down` = rotate(180 12 12) of `hand-point-up`
@@ -80,18 +90,28 @@ Raster identical-style check: skipped; 0 Core designs flagged (styles with IoU �
 - `intersection` = mirrored vertically of `union`
 - `layout-navbar` = rotated 180° of `layout-bottombar`
 - `layout-rows` = rotated 90° of `layout-columns`
+- `living-wall` = identical artwork of `coffered-ceiling`
 - `minimize` = rotated 180° of `maximize`
+- `plain-weave` = identical artwork of `paper-weaving-mat`
+- `puzzle-cube` = identical artwork of `olap-cube`
 - `redo` = mirrored horizontally of `undo`
+- `reeded-glass` = identical artwork of `care-drip-dry`
 - `reflect-vertical` = rotated 270° of `reflect-horizontal`
 - `refresh-ccw` = mirrored horizontally of `refresh`
+- `registration-mark` = identical artwork of `coda-sign`
 - `rewind` = rotated 180° of `fast-forward`
 - `rotate-ccw` = mirrored horizontally of `rotate-cw`
+- `safe-deposit-boxes` = identical artwork of `coffered-ceiling`
 - `sidebar-right` = rotated 180° of `sidebar`
 - `skip-back` = mirrored horizontally of `skip-forward`
 - `sort-descending` = mirrored vertically of `sort-ascending`
+- `square-foot-garden` = identical artwork of `coffered-ceiling`
 - `thumbs-down` = rotate(180 12 12) of `thumbs-up`
 - `trending-down` = mirrored vertically of `trending-up`
 - `u-turn-right` = mirrored horizontally of `u-turn-left`
+- `uml-class-diagram` = identical artwork of layout-rows of `layout-columns`
+- `waffle-weave-fabric` = identical artwork of `grid-lines`
+- `weight-plate` = identical artwork of `target`
 
 ## Missing variants
 
@@ -119,10 +139,19 @@ Brand logos (Simple Icons) have a single Brand style; logos whose own license is
 
 ## Duplicate artwork groups (first 25)
 
+- carbon-fiber:filled, cutting-mat:filled, grid-lines:filled, waffle-weave-fabric:filled
+- carbon-fiber:line, cutting-mat:line, grid-lines:line, waffle-weave-fabric:line
+- carbon-fiber:thin, cutting-mat:thin, grid-lines:thin, waffle-weave-fabric:thin
+- carbon-fiber:rounded, cutting-mat:rounded, grid-lines:rounded
 - brand-atomgit:brand, brand-gitcode:brand
+- care-drip-dry:filled, reeded-glass:filled
+- care-drip-dry:line, reeded-glass:line
+- care-drip-dry:thin, reeded-glass:thin
+- care-dry-clean:filled, circle:filled
 - cd-clock:filled, vinyl-clock:filled
 - cd-clock:line, vinyl-clock:line
 - cd-clock:rounded, vinyl-clock:rounded
+- cd-clock:thin, vinyl-clock:thin
 - cd-code:filled, vinyl-code:filled
 - cd-code:line, vinyl-code:line
 - cd-heart:filled, vinyl-heart:filled
@@ -130,24 +159,15 @@ Brand logos (Simple Icons) have a single Brand style; logos whose own license is
 - cd-lock:filled, vinyl-lock:filled
 - cd-lock:line, vinyl-lock:line
 - cd-lock:rounded, vinyl-lock:rounded
+- cd-lock:thin, vinyl-lock:thin
 - cd-refresh:filled, vinyl-refresh:filled
 - cd-refresh:line, vinyl-refresh:line
 - cd-refresh:rounded, vinyl-refresh:rounded
-- cd-search:filled, vinyl-search:filled
-- cd-search:line, vinyl-search:line
-- cd-search:rounded, vinyl-search:rounded
-- cd-settings:filled, vinyl-settings:filled
-- cd-settings:line, vinyl-settings:line
-- cd-settings:rounded, vinyl-settings:rounded
-- cd-star:filled, vinyl-star:filled
-- cd-star:line, vinyl-star:line
-- cd-star:rounded, vinyl-star:rounded
-- cd-upload:filled, vinyl-upload:filled
-- cd-upload:line, vinyl-upload:line
+- cd-refresh:thin, vinyl-refresh:thin
 
 ## What closing the gap requires
 
-Reaching 20,000 complete Core concepts is a design programme, not a software task: 18,070 more concepts, each drawn in Filled, Line and Rounded. All Core artwork is original (no third-party or community artwork):
+Reaching 20,000 complete Core concepts is a design programme, not a software task: 0 more concepts, each drawn in Filled, Line and Rounded. All Core artwork is original (no third-party or community artwork):
 1. Draw the remaining base concepts in tools/core-authoring/plan.json with the part-based DSL (tools/core-authoring/AUTHORING.md), passing check.py and a human review of the review sheets.
 2. Each new base concept adds the variants of its category's modifier set (none / minimal 5 / common 14 / full 23).
 3. Agent-drawn batches are published and flagged for human design review; fix or remove anything that fails review.

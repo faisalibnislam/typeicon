@@ -111,6 +111,8 @@ def main() -> int:
             if n in seen or n in other_names or n in other_aliases:
                 problems.append(f"{ic.name}: name/alias {n!r} already used")
             seen.add(n)
+        if ic.name.startswith("brand-"):
+            problems.append(f"{ic.name}: the brand- prefix is reserved for brand logos; rename the icon")
         if ic.name in RESERVED_CLASS_NAMES:
             problems.append(f"{ic.name}: name is reserved for a CSS utility class (typeicon-{ic.name}); rename it (an alias may keep the old name)")
         if ic.name not in planned:

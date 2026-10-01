@@ -80,7 +80,7 @@ def test_core_is_complete_and_font_ready(designs):
     assert len(core) >= 70
     for d in core:
         styles = {v["style"]: v for v in d["variants"] if v["status"] == "published"}
-        assert set(styles) == {"filled", "line", "rounded"}, d["name"]
+        assert set(styles) - {"thin"} == {"filled", "line", "rounded"}, d["name"]  # Thin only where it differs from Line
         assert all(v["route"] == "font" for v in styles.values())
 
 

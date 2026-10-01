@@ -63,6 +63,8 @@ def _process(args: tuple[str, str]) -> dict:
         o = svg_to_outline(san.svg)
     except (OutlineError, SvgRejected) as e:
         return {**out, "route": "svg-only", "reasons": [f"outline: {e}"]}
+    except Exception as e:  # noqa: BLE001 - a geometry-library fault on one icon must not stop the whole build
+        return {**out, "route": "svg-only", "reasons": [f"outline: {type(e).__name__}: {e}"]}
     pen = SVGPathPen(None, ntos=_fmt)
     o.path.draw(pen)
     outline = {"key": key, "d": pen.getCommands(), "advance": o.advance,

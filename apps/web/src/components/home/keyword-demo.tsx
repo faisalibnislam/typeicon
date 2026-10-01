@@ -6,6 +6,7 @@ const FAMILIES = [
   { style: "filled", family: "TypeIcon Filled" },
   { style: "line", family: "TypeIcon Line" },
   { style: "rounded", family: "TypeIcon Rounded" },
+  { style: "thin", family: "TypeIcon Thin" },
 ] as const;
 
 /**

@@ -16,10 +16,24 @@ function inner(svg) {
   const attrs = Object.fromEntries([...m[1].matchAll(/([\w:-]+)="([^"]*)"/g)].map((a) => [a[1], a[2]]));
   return { attrs, body: m[2].replace(/\n\s*/g, "").trim() };
 }
+// The site UI uses a few dozen icons by name. Only icons whose name appears as a quoted string somewhere in the
+// site source are included, so the module stays small however large the Core library grows.
+function sourceFiles(dir) {
+  return readdirSync(dir, { withFileTypes: true }).flatMap((e) => {
+    const p = path.join(dir, e.name);
+    if (e.isDirectory()) return e.name === "generated" ? [] : sourceFiles(p);
+    return /\.(tsx?|mjs)$/.test(e.name) ? [p] : [];
+  });
+}
+const quoted = new Set();
+for (const f of sourceFiles(path.resolve(here, "../src"))) {
+  for (const m of readFileSync(f, "utf8").matchAll(/["'`]([a-z][a-z0-9-]{1,63})["'`]/g)) quoted.add(m[1]);
+}
 const icons = {};
 for (const style of ["line", "filled"]) {
   const dir = path.join(root, "assets/core/svg", style);
   for (const f of readdirSync(dir).sort()) {
+    if (!quoted.has(f.replace(/\.svg$/, ""))) continue;
     const { attrs, body } = inner(readFileSync(path.join(dir, f), "utf8"));
     const keep = Object.fromEntries(Object.entries(attrs).filter(([k]) => !["xmlns", "width", "height"].includes(k)));
     icons[`${style}/${f.replace(/\.svg$/, "")}`] = { attrs: keep, body };

@@ -8,8 +8,8 @@ import pytest
 
 from typeicon_import.sources import repo_root
 
-REL = repo_root() / "dist/releases/0.3.0"
-pytestmark = pytest.mark.skipif(not (REL / "archives/index.json").exists(), reason="release 0.3.0 not built")
+REL = repo_root() / "dist/releases/0.4.0"
+pytestmark = pytest.mark.skipif(not (REL / "archives/index.json").exists(), reason="release 0.4.0 not built")
 
 
 def test_checksums_match():

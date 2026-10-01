@@ -101,9 +101,12 @@ export const getDesign = cache(async (name: string): Promise<DesignDetail | null
     SELECT v.id, v.style, v.native_style, v.native_label, v.status, v.route, v.reasons, v.svg, v.svg_sha256, v.view_box,
            v.source_path, v.source_sha256, v.font_supported, fb.family, fb.slug AS font_slug, fb.css_class, ga.keywords
     FROM variants v
-    LEFT JOIN glyph_assignments ga ON ga.variant_id = v.id
+    LEFT JOIN (
+      SELECT ga2.variant_id, ga2.keywords, ga2.font_bundle_id FROM glyph_assignments ga2
+      JOIN font_bundles fb2 ON fb2.id = ga2.font_bundle_id
+        AND fb2.release_id = (SELECT id FROM releases WHERE status = 'published' ORDER BY release_date DESC, created_at DESC LIMIT 1)
+    ) ga ON ga.variant_id = v.id
     LEFT JOIN font_bundles fb ON fb.id = ga.font_bundle_id
-      AND fb.release_id = (SELECT id FROM releases WHERE status = 'published' ORDER BY release_date DESC, created_at DESC LIMIT 1)
     WHERE v.design_id = ${d.id as string} AND v.status = 'published'
     ORDER BY array_position(ARRAY['filled','line','rounded']::text[], v.style)`);
   return {

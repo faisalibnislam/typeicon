@@ -92,13 +92,15 @@ def _raster_check(fam: Family, font_file: Path, sample: int | None) -> dict:
             # resvg and FreeType round partly covered edge pixels differently; for small shapes on fractional
             # coordinates that alone costs several % at 96 px. A real outline error persists at 384 px.
             iou = compare_aligned(v["svg"], str(font_file), d["codepoint"], px=384, max_shift=1)
+            if iou < RASTER_RECHECK_BELOW:  # many tiny shapes: edge pixels weigh more, so look at twice the size
+                iou = compare_aligned(v["svg"], str(font_file), d["codepoint"], px=768, max_shift=1)
             rechecked += 1
         total += iou
         worst.append((round(iou, 4), d["name"]))
     worst.sort()
     return {"checked": len(entries), "minIoU": worst[0][0] if worst else None,
             "meanIoU": round(total / max(1, len(entries)), 4), "worst": worst[:5], "px": 96,
-            "recheckedAt384px": rechecked}
+            "recheckedAtLargerSize": rechecked}
 
 
 def _css_for(families: list[Family], designs_by_family: dict[str, list[dict]], font_url: str, core: bool) -> str:
