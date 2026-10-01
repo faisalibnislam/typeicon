@@ -1,0 +1,482 @@
+[
+ {
+  "name": "quarry",
+  "category": "landscape",
+  "draw": "Stepped terraced pit cut into rock with blocky bench levels.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fossil-ammonite",
+  "category": "landscape",
+  "draw": "Coiled spiral ammonite shell with rib lines radiating across its coil.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fossil-trilobite",
+  "category": "landscape",
+  "draw": "Oval segmented trilobite with three lengthwise lobes and a rounded head shield.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fossil-leaf",
+  "category": "landscape",
+  "draw": "Leaf imprint pressed into a flat stone slab.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fossil-fish",
+  "category": "landscape",
+  "draw": "Fish skeleton outline with spine and ribs pressed into a stone slab.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "dinosaur-footprint",
+  "category": "landscape",
+  "draw": "Large three-toed track imprint with claw points.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "petrified-wood",
+  "category": "landscape",
+  "draw": "Cut log section showing tree rings turned to stone with crack lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "dinosaur-skull-fossil",
+  "category": "landscape",
+  "draw": "Side view of a long toothy dinosaur skull with an eye socket.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fossil-dig-site",
+  "category": "landscape",
+  "draw": "Grid of square pegs and strings over ground with a bone partly exposed.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "excavation-brush",
+  "category": "landscape",
+  "draw": "Small flat bristle brush sweeping dust off a partly exposed bone.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "stone-arrowhead",
+  "category": "landscape",
+  "draw": "Knapped flint point with flake scars and a notched base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "geode",
+  "category": "landscape",
+  "draw": "Split round rock showing a hollow center lined with pointed crystals.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "basalt-columns",
+  "category": "landscape",
+  "draw": "Tight cluster of hexagonal stone columns of stepped heights seen at an angle.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "marble-slab",
+  "category": "landscape",
+  "draw": "Rectangular stone slab with flowing vein lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "slate-rock",
+  "category": "landscape",
+  "draw": "Stack of thin flat splitting rock sheets with offset edges.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sandstone",
+  "category": "landscape",
+  "draw": "Rounded rock with fine horizontal banding and dotted grain.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "granite-rock",
+  "category": "landscape",
+  "draw": "Blocky rock speckled with scattered dots and small flecks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "conglomerate-rock",
+  "category": "landscape",
+  "draw": "Rock filled with many rounded embedded pebbles.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "limestone",
+  "category": "landscape",
+  "draw": "Pale block with small embedded shell fragments and pits.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "coal-lump",
+  "category": "landscape",
+  "draw": "Angular faceted lump with flat shiny planes.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "standing-stones",
+  "category": "landscape",
+  "draw": "Ring of upright stone slabs with a lintel across two of them.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "menhir",
+  "category": "landscape",
+  "draw": "Single tall upright standing stone tapering upward on a ground line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "quartz-crystal",
+  "category": "landscape",
+  "draw": "Single six-sided prism crystal with a pointed pyramidal tip.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "crystal-cluster",
+  "category": "landscape",
+  "draw": "Group of several pointed prism crystals of varied heights rising from a base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "amethyst-geode",
+  "category": "landscape",
+  "draw": "Tall half geode cave shape filled with many small pointed crystals.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "double-terminated-crystal",
+  "category": "landscape",
+  "draw": "Six-sided crystal pointed at both ends, lying diagonally.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pyrite-cubes",
+  "category": "landscape",
+  "draw": "Stack of interlocking cubes with fine striation lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fluorite-octahedron",
+  "category": "landscape",
+  "draw": "Eight-faced diamond-like octahedron crystal with visible facets.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "calcite-rhomb",
+  "category": "landscape",
+  "draw": "Slanted rhombohedral crystal block with parallelogram faces.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "salt-crystal",
+  "category": "landscape",
+  "draw": "Cube crystal with stepped hopper-shaped hollow faces.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "desert-rose",
+  "category": "landscape",
+  "draw": "Rosette of flat bladed petal-like crystal plates clustered together.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mica-sheets",
+  "category": "landscape",
+  "draw": "Stack of thin flexible peeling sheets with a curling top layer.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tourmaline",
+  "category": "landscape",
+  "draw": "Long striated prism crystal with lengthwise grooves and a flat end.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "raw-gemstone",
+  "category": "landscape",
+  "draw": "Rough irregular faceted rock with a few flat polished faces.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cabochon",
+  "category": "landscape",
+  "draw": "Smooth domed oval gem in side view with a highlight.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pearl-oyster",
+  "category": "landscape",
+  "draw": "Open oyster shell with a round pearl resting inside.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pearl",
+  "category": "landscape",
+  "draw": "Single round pearl with a soft highlight and shadow arc.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "jade-stone",
+  "category": "landscape",
+  "draw": "Smooth rounded pebble-like jade carving with a hole through it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "round-brilliant-cut",
+  "category": "landscape",
+  "draw": "Top view of a round gem with a central octagon table and radiating facets.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "emerald-cut",
+  "category": "landscape",
+  "draw": "Top view of a rectangular gem with clipped corners and stepped concentric facets.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "princess-cut",
+  "category": "landscape",
+  "draw": "Top view of a square gem with facets radiating from the center to corners.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pear-cut",
+  "category": "landscape",
+  "draw": "Top view of a teardrop shaped gem with facet lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "marquise-cut",
+  "category": "landscape",
+  "draw": "Top view of a pointed football-shaped gem with facet lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "oval-cut",
+  "category": "landscape",
+  "draw": "Top view of an oval gem with a central table and facet lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cushion-cut",
+  "category": "landscape",
+  "draw": "Top view of a rounded square gem with soft corners and facets.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "trillion-cut",
+  "category": "landscape",
+  "draw": "Top view of a triangular gem with curved sides and facets.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "baguette-cut",
+  "category": "landscape",
+  "draw": "Top view of a long narrow rectangular gem with step facets.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "heart-shaped-gem",
+  "category": "landscape",
+  "draw": "Top view of a faceted gem in a heart outline.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "gem-side-profile",
+  "category": "landscape",
+  "draw": "Side profile of a faceted gem showing flat table, crown slope and pointed pavilion.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mineral-specimen",
+  "category": "landscape",
+  "draw": "Rock specimen on a small display base with a label card.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "aurora",
+  "category": "landscape",
+  "draw": "Wavy vertical curtains of light ribbons hanging above a dark hill line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sun-halo",
+  "category": "landscape",
+  "draw": "Sun disk surrounded by a large thin ring with a small gap from the sun.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sun-dog",
+  "category": "landscape",
+  "draw": "Sun disk with two bright spots on either side on a faint ring.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "light-pillar",
+  "category": "landscape",
+  "draw": "Tall vertical beam of light rising from a horizon glow.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "crepuscular-rays",
+  "category": "landscape",
+  "draw": "Sun behind a cloud with straight rays fanning down to the ground.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "double-rainbow",
+  "category": "landscape",
+  "draw": "Two concentric rainbow arcs with a wider outer arc.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "moonrise",
+  "category": "landscape",
+  "draw": "Moon half above a horizon line with a small upward arrow notch beside it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "golden-hour",
+  "category": "landscape",
+  "draw": "Low sun near the horizon with long horizontal glow bands.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "blue-hour",
+  "category": "landscape",
+  "draw": "Horizon line with a faint sun below it and a few stars above.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "midnight-sun",
+  "category": "landscape",
+  "draw": "Sun hovering just above the horizon with a clock face showing midnight.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "polar-night",
+  "category": "landscape",
+  "draw": "Dark horizon with stars and a moon, no sun, over snowy ground.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "summer-solstice",
+  "category": "landscape",
+  "draw": "Sun high on a tall arc path over the horizon with a peak marker.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "winter-solstice",
+  "category": "landscape",
+  "draw": "Sun on a short low arc over the horizon with a snowflake.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "equinox",
+  "category": "landscape",
+  "draw": "Circle split exactly in half, one half with sun rays and the other with a moon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "horizon",
+  "category": "landscape",
+  "draw": "Straight horizon line with a half sun and a few ground marks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "zenith",
+  "category": "landscape",
+  "draw": "Dome arc over a ground line with a point marked at the top and a vertical dashed line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "star-trails",
+  "category": "landscape",
+  "draw": "Concentric circular arcs around a single central point over a horizon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mackerel-sky",
+  "category": "landscape",
+  "draw": "Rows of small puffy cloudlets arranged in a rippled pattern.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cumulus-cloud",
+  "category": "landscape",
+  "draw": "Tall puffy cauliflower cloud with a flat base line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cumulonimbus",
+  "category": "landscape",
+  "draw": "Towering storm cloud with a flat anvil-shaped top spreading sideways.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cirrus-cloud",
+  "category": "landscape",
+  "draw": "Thin wispy hooked cloud streaks high in the sky.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "stratus-cloud",
+  "category": "landscape",
+  "draw": "Flat uniform layered cloud bands stretched across the icon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lenticular-cloud",
+  "category": "landscape",
+  "draw": "Stacked smooth lens-shaped cloud discs hovering over a mountain peak.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mammatus-cloud",
+  "category": "landscape",
+  "draw": "Cloud base with rows of hanging pouch-like bulges.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "shelf-cloud",
+  "category": "landscape",
+  "draw": "Low wedge-shaped cloud bank with a sloping front edge over the horizon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "atmosphere-layers",
+  "category": "landscape",
+  "draw": "Curved Earth edge with stacked arced bands for the layers of the atmosphere.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ozone-layer",
+  "category": "landscape",
+  "draw": "Globe with a protective arc shell and sun rays deflecting off it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ozone-hole",
+  "category": "landscape",
+  "draw": "Globe viewed from the pole with a dark oval hole in its outer shell ring.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rain-shadow",
+  "category": "landscape",
+  "draw": "Mountain with clouds and rain on one side and a bare dry slope on the other.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "dust-devil",
+  "category": "landscape",
+  "draw": "Narrow twisting column of dust spiraling up from flat ground.",
+  "domain": "landscape-geology-sky"
+ }
+]

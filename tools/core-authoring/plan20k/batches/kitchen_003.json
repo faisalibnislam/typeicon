@@ -1,0 +1,482 @@
+[
+ {
+  "name": "dish-towel",
+  "category": "kitchen",
+  "draw": "Rectangular cloth hanging from a hook with a stripe band near the bottom.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-convection-fan",
+  "category": "kitchen",
+  "draw": "Square frame with a three-blade fan in the center.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-top-heat",
+  "category": "kitchen",
+  "draw": "Square frame with a bold bar along the inside top edge.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-bottom-heat",
+  "category": "kitchen",
+  "draw": "Square frame with a bold bar along the inside bottom edge.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-top-bottom-heat",
+  "category": "kitchen",
+  "draw": "Square frame with bold bars along both the inside top and bottom edges.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-grill-element",
+  "category": "kitchen",
+  "draw": "Square frame with a zigzag heating element along the inside top.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-light",
+  "category": "kitchen",
+  "draw": "Square frame with a small light bulb in the center.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "keep-warm",
+  "category": "kitchen",
+  "draw": "Plate with a dome cover and wavy heat lines rising above it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "dishwasher-safe",
+  "category": "kitchen",
+  "draw": "Plate and glass standing in a rack with water droplets falling above.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-safe",
+  "category": "kitchen",
+  "draw": "Dish inside a square oven outline with a small flame below.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "freezer-safe",
+  "category": "kitchen",
+  "draw": "Snowflake above a small lidded container.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "food-safe-symbol",
+  "category": "kitchen",
+  "draw": "Wine glass and fork drawn side by side.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "induction-compatible",
+  "category": "kitchen",
+  "draw": "Horizontal coil loop spiral drawn under a pan base line.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "colander",
+  "category": "kitchen",
+  "draw": "Deep bowl with rows of small holes, two side handles and a ring foot.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "mesh-strainer",
+  "category": "kitchen",
+  "draw": "Round bowl-shaped fine mesh strainer with crosshatch lines, a long handle and a rim hook.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "service-bell",
+  "category": "kitchen",
+  "draw": "Dome counter bell with a small push button on top sitting on a flat round base.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "dough-whisk",
+  "category": "kitchen",
+  "draw": "Wooden handle with a flat wire coil of loops at the end.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "cake-leveler",
+  "category": "kitchen",
+  "draw": "U-shaped wire frame on two small feet with a thin cutting wire stretched across.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "herb-scissors",
+  "category": "kitchen",
+  "draw": "Scissors with five parallel stacked blades and loop handles.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "lemon-squeezer",
+  "category": "kitchen",
+  "draw": "Two hinged handles with a bowl-shaped cup at the hinge holding a lemon half.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "rotary-grater",
+  "category": "kitchen",
+  "draw": "Drum grater with a crank handle on one side and a clamp grip handle below.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "vegetable-dicer",
+  "category": "kitchen",
+  "draw": "Box container with a hinged lid whose underside is a grid of blades.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "campfire-pot",
+  "category": "kitchen",
+  "draw": "Pot hanging from a chain under a tripod of three poles over small flames.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "vertical-rotisserie",
+  "category": "kitchen",
+  "draw": "Tall cone of stacked meat on a vertical spit in front of a heating panel.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "cereal-dispenser",
+  "category": "kitchen",
+  "draw": "Tall clear cylinder on a stand with a turning knob at the bottom above a bowl.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "tiered-fruit-basket",
+  "category": "kitchen",
+  "draw": "Three wire baskets of decreasing size hanging one above another from a chain.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "napkin-holder",
+  "category": "kitchen",
+  "draw": "Upright holder with paper napkins fanned inside it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "rinsing-produce",
+  "category": "kitchen",
+  "draw": "Colander full of vegetables under a faucet with falling water drops.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "washing-dishes",
+  "category": "kitchen",
+  "draw": "Stack of plates in a sink basin with soap bubbles and a sponge.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-fan-grill",
+  "category": "kitchen",
+  "draw": "Square frame with a zigzag element along the top and a small fan in the center.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-ring-heat",
+  "category": "kitchen",
+  "draw": "Square frame with a fan in the center surrounded by a circular ring element.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-fan-bottom-heat",
+  "category": "kitchen",
+  "draw": "Square frame with a small fan in the center and a bold bar along the inside bottom.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-defrost",
+  "category": "kitchen",
+  "draw": "Square frame with a small fan and a water droplet beside it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "oven-steam-mode",
+  "category": "kitchen",
+  "draw": "Square frame with three wavy steam lines rising inside it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "chef-jacket",
+  "category": "kitchen",
+  "draw": "Double-breasted jacket with a stand collar and two vertical rows of round buttons.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "order-ticket-rail",
+  "category": "kitchen",
+  "draw": "Horizontal metal rail with three paper order tickets hanging down from it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "recipe-box",
+  "category": "kitchen",
+  "draw": "Small box with its lid open showing index cards with raised divider tabs.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "knife-sharpener",
+  "category": "kitchen",
+  "draw": "Handheld block with a V-shaped slot on top and a grip handle, a blade drawn through the slot.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "knife-roll",
+  "category": "kitchen",
+  "draw": "Unrolled fabric wrap with pockets holding knife handles in a row and a tie strap.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "rising-dough",
+  "category": "kitchen",
+  "draw": "Bowl covered with a cloth, a domed mound of dough pushing up under it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "meat-claws",
+  "category": "kitchen",
+  "draw": "Pair of claw-shaped handles each with a row of long pointed tines.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "chestnut-pan",
+  "category": "kitchen",
+  "draw": "Round pan with holes in the base and a long handle, chestnuts inside.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "soft-serve-machine",
+  "category": "kitchen",
+  "draw": "Box machine with pull levers on the front and a swirled cone under the nozzle.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "plate-stack",
+  "category": "kitchen",
+  "draw": "Stack of several plates seen from the side, each rim edge visible.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "pulling-noodles",
+  "category": "kitchen",
+  "draw": "Two hands stretching a bundle of long noodle strands between them.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "grill-press",
+  "category": "kitchen",
+  "draw": "Flat rectangular iron weight with ridges underneath and a handle on top.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "sizzling-platter",
+  "category": "kitchen",
+  "draw": "Oval cast iron plate set on a wooden base with steam lines rising.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "kitchen-counter",
+  "category": "kitchen",
+  "draw": "Base cabinets with a countertop and sink, upper wall cabinets above.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "cornbread-pan",
+  "category": "kitchen",
+  "draw": "Tray with a row of corn-cob-shaped wells with kernel dots.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "korean-bbq-grill",
+  "category": "kitchen",
+  "draw": "Round domed grill plate with grooves and a drain channel sitting on a burner.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "ladling-soup",
+  "category": "kitchen",
+  "draw": "Ladle tilted over a bowl with soup pouring from it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "bottle-carrier",
+  "category": "kitchen",
+  "draw": "Open box with a center divider handle holding four bottles.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "taco-holder",
+  "category": "kitchen",
+  "draw": "Stand with W-shaped slots holding two upright tacos.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "sticky-rice-steamer",
+  "category": "kitchen",
+  "draw": "Cone-shaped woven basket sitting in the mouth of a tall pot.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "chimney-starter",
+  "category": "kitchen",
+  "draw": "Cylinder with a side handle and flames rising from the top.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "utensil-rail",
+  "category": "kitchen",
+  "draw": "Horizontal wall rail with a ladle, a spatula and a whisk hanging from hooks.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "cookbook-stand",
+  "category": "kitchen",
+  "draw": "Slanted stand holding an open book upright.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "squeezing-lemon",
+  "category": "kitchen",
+  "draw": "Hand squeezing a lemon half with juice drops falling below.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "stove-lighter",
+  "category": "kitchen",
+  "draw": "Long thin wand lighter with a trigger grip and a small flame at the tip.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "mesh-food-cover",
+  "category": "kitchen",
+  "draw": "Collapsible mesh dome umbrella cover over a plate with a small top knob.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "dumpling-press",
+  "category": "kitchen",
+  "draw": "Hinged half-moon mold with a crimped edge and two handles, opened flat.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "fish-scaler",
+  "category": "kitchen",
+  "draw": "Short handle with a rectangular head covered in rows of small teeth, a few scales flying off.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "corn-holders",
+  "category": "kitchen",
+  "draw": "Two small handles each with twin prongs pushed into the ends of a corn cob.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "spaghetti-measure",
+  "category": "kitchen",
+  "draw": "Flat disc with a handle and round holes of increasing size.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "ice-sphere-mold",
+  "category": "kitchen",
+  "draw": "Two-part round mold with a seam around its middle and a small fill hole on top.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "citrus-zester",
+  "category": "kitchen",
+  "draw": "Short handle with a small flat head with a row of tiny holes, thin zest curls coming off.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "pineapple-corer",
+  "category": "kitchen",
+  "draw": "Tall cylinder with a spiral blade and a T-shaped handle on top above a pineapple ring.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "molinillo",
+  "category": "kitchen",
+  "draw": "Carved wooden stick whisk with a bulbous ringed head and loose rings around it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "mooncake-mold",
+  "category": "kitchen",
+  "draw": "Plunger press with a top handle and a round patterned stamp face below.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "spit-roast",
+  "category": "kitchen",
+  "draw": "Roast on a horizontal spit resting on two forked posts over a campfire with a crank at one end.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "noodle-basket",
+  "category": "kitchen",
+  "draw": "Deep cylindrical wire basket on a long straight handle.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "salt-block",
+  "category": "kitchen",
+  "draw": "Rectangular salt slab with a crystal texture and a thin slice of meat on top.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "grilling-plank",
+  "category": "kitchen",
+  "draw": "Rectangular wooden plank with grain lines and a fish fillet lying on it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "metate",
+  "category": "kitchen",
+  "draw": "Sloped flat grinding stone on three short legs with a cylindrical hand stone across it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "roti-rolling-board",
+  "category": "kitchen",
+  "draw": "Round raised board on short feet with a thin tapered rolling pin lying across it.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "rice-ball-mold",
+  "category": "kitchen",
+  "draw": "Triangular mold with a matching press lid and a rice ball below.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "sushi-rice-tub",
+  "category": "kitchen",
+  "draw": "Wide shallow round wooden tub with two metal bands and a flat paddle resting on the rim.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "bamboo-wok-brush",
+  "category": "kitchen",
+  "draw": "Bundle of thin bamboo strips tied together with a band near the top.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "coconut-scraper",
+  "category": "kitchen",
+  "draw": "Low stool with a serrated round blade sticking out from one end.",
+  "domain": "kitchen-and-cooking"
+ },
+ {
+  "name": "spaetzle-maker",
+  "category": "kitchen",
+  "draw": "Flat perforated plate with a handle and a square hopper box that slides along it.",
+  "domain": "kitchen-and-cooking"
+ }
+]

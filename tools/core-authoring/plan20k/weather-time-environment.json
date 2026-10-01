@@ -1,0 +1,1607 @@
+[
+  {
+    "name": "sun-shower",
+    "category": "environment",
+    "draw": "Sun peeking from behind a cloud with three short slanted rain streaks below the cloud."
+  },
+  {
+    "name": "heavy-rain",
+    "category": "environment",
+    "draw": "Dark cloud outline with five dense long slanted rain lines beneath it."
+  },
+  {
+    "name": "rain-thunderstorm",
+    "category": "environment",
+    "draw": "Cloud with a lightning bolt in the center flanked by two slanted rain streaks."
+  },
+  {
+    "name": "snow-shower",
+    "category": "environment",
+    "draw": "Sun partly behind a cloud with two small snowflakes falling below."
+  },
+  {
+    "name": "heavy-snow",
+    "category": "environment",
+    "draw": "Cloud with a dense grid of six snowflake asterisks falling beneath it."
+  },
+  {
+    "name": "light-snow",
+    "category": "environment",
+    "draw": "Cloud with two small widely spaced snowflake dots beneath it."
+  },
+  {
+    "name": "moon-rain",
+    "category": "environment",
+    "draw": "Crescent moon behind a cloud with two rain streaks beneath."
+  },
+  {
+    "name": "moon-snow",
+    "category": "environment",
+    "draw": "Crescent moon behind a cloud with two small snowflakes beneath."
+  },
+  {
+    "name": "moon-thunderstorm",
+    "category": "environment",
+    "draw": "Crescent moon behind a cloud with a lightning bolt beneath."
+  },
+  {
+    "name": "windy-cloud",
+    "category": "environment",
+    "draw": "Cloud with three curling horizontal wind lines sweeping out from its lower edge."
+  },
+  {
+    "name": "snow-wind",
+    "category": "environment",
+    "draw": "Snowflake with two curling horizontal wind lines blowing past it."
+  },
+  {
+    "name": "smoke-haze",
+    "category": "environment",
+    "draw": "Dim sun behind rising wavy smoke plumes drifting from the bottom edge."
+  },
+  {
+    "name": "freezing-fog",
+    "category": "environment",
+    "draw": "Three horizontal fog bars with a small snowflake above them."
+  },
+  {
+    "name": "black-ice",
+    "category": "environment",
+    "draw": "Road surface in perspective with a glossy patch and a small snowflake above it."
+  },
+  {
+    "name": "rime-ice",
+    "category": "environment",
+    "draw": "Thin branch coated on one side with a row of spiky ice needles."
+  },
+  {
+    "name": "dew-drops",
+    "category": "environment",
+    "draw": "Blade of grass bending with three round droplets beaded along it."
+  },
+  {
+    "name": "puddle",
+    "category": "environment",
+    "draw": "Flat oval puddle with a single raindrop splash crown rising from it."
+  },
+  {
+    "name": "rain-on-window",
+    "category": "environment",
+    "draw": "Window frame with vertical wavy rain trails and droplets running down the glass."
+  },
+  {
+    "name": "snow-accumulation",
+    "category": "environment",
+    "draw": "Ground line with a thick rounded mound of snow and flakes falling above it."
+  },
+  {
+    "name": "virga",
+    "category": "environment",
+    "draw": "Cloud with wispy curved rain streaks that fade out before reaching a ground line."
+  },
+  {
+    "name": "wall-cloud",
+    "category": "environment",
+    "draw": "Wide flat cloud base with a lowered blocky step of cloud beneath its center."
+  },
+  {
+    "name": "supercell",
+    "category": "environment",
+    "draw": "Tall rotating storm cloud with spiral banding lines and a flat anvil top."
+  },
+  {
+    "name": "squall-line",
+    "category": "environment",
+    "draw": "Row of three storm clouds side by side with rain beneath all of them."
+  },
+  {
+    "name": "microburst",
+    "category": "environment",
+    "draw": "Cloud with a downward rain shaft that splays outward in curls along the ground."
+  },
+  {
+    "name": "noctilucent-cloud",
+    "category": "environment",
+    "draw": "Crescent moon over thin rippled glowing cloud bands above a dark horizon."
+  },
+  {
+    "name": "altocumulus",
+    "category": "environment",
+    "draw": "Sky filled with rows of small puffy rounded cloudlets in a regular pattern."
+  },
+  {
+    "name": "nimbostratus",
+    "category": "environment",
+    "draw": "Thick flat grey cloud layer with a veil of steady rain lines beneath."
+  },
+  {
+    "name": "fogbow",
+    "category": "environment",
+    "draw": "Wide pale arc drawn with dashed lines over horizontal fog bars."
+  },
+  {
+    "name": "monsoon",
+    "category": "environment",
+    "draw": "Heavy cloud with dense rain over a palm tree bending in the wind."
+  },
+  {
+    "name": "whiteout",
+    "category": "environment",
+    "draw": "Square frame filled with diagonal snow streaks and a faint figure silhouette inside."
+  },
+  {
+    "name": "dew-point",
+    "category": "environment",
+    "draw": "Thermometer with a single water droplet forming at its bulb."
+  },
+  {
+    "name": "uv-index",
+    "category": "environment",
+    "draw": "Sun with rays around the letters UV in its center."
+  },
+  {
+    "name": "pollen-count",
+    "category": "environment",
+    "draw": "Flower head releasing a cloud of small dots drifting to the side."
+  },
+  {
+    "name": "air-quality-index",
+    "category": "environment",
+    "draw": "Semicircle gauge with graded segments and a needle pointing to the middle."
+  },
+  {
+    "name": "precipitation-chance",
+    "category": "environment",
+    "draw": "Open umbrella with a small percent sign beside its handle."
+  },
+  {
+    "name": "wind-speed",
+    "category": "environment",
+    "draw": "Three horizontal wind lines of different lengths with a small speedometer arc."
+  },
+  {
+    "name": "wind-gust",
+    "category": "environment",
+    "draw": "Two sharp curling wind lines bursting from the left with speed dashes."
+  },
+  {
+    "name": "wind-direction",
+    "category": "environment",
+    "draw": "Compass circle with N marker and a wind arrow crossing it with a feathered tail."
+  },
+  {
+    "name": "wind-chill",
+    "category": "environment",
+    "draw": "Thermometer with curling wind lines blowing across it and a snowflake."
+  },
+  {
+    "name": "heat-index",
+    "category": "environment",
+    "draw": "Thermometer with high mercury and a water droplet beside it."
+  },
+  {
+    "name": "feels-like-temperature",
+    "category": "environment",
+    "draw": "Human head profile beside a thermometer."
+  },
+  {
+    "name": "air-pressure",
+    "category": "environment",
+    "draw": "Round barometric dial with a needle and the letters hPa beneath."
+  },
+  {
+    "name": "daylight-hours",
+    "category": "environment",
+    "draw": "Sun half above a horizon line with a small clock face beside it."
+  },
+  {
+    "name": "temperature-high-low",
+    "category": "environment",
+    "draw": "Thermometer with a small triangle mark at top and another at bottom beside the scale."
+  },
+  {
+    "name": "weather-forecast",
+    "category": "environment",
+    "draw": "Calendar page with a sun and cloud drawn on it."
+  },
+  {
+    "name": "weekly-forecast",
+    "category": "environment",
+    "draw": "Row of three small squares showing sun, cloud and rain symbols."
+  },
+  {
+    "name": "hourly-forecast",
+    "category": "environment",
+    "draw": "Clock face with a small cloud overlapping its lower corner."
+  },
+  {
+    "name": "cold-front",
+    "category": "environment",
+    "draw": "Horizontal curved line with solid triangles spaced along one side."
+  },
+  {
+    "name": "warm-front",
+    "category": "environment",
+    "draw": "Horizontal curved line with solid semicircles spaced along one side."
+  },
+  {
+    "name": "occluded-front",
+    "category": "environment",
+    "draw": "Curved line with alternating triangles and semicircles on the same side."
+  },
+  {
+    "name": "stationary-front",
+    "category": "environment",
+    "draw": "Line with triangles on one side and semicircles on the opposite side, alternating."
+  },
+  {
+    "name": "high-pressure",
+    "category": "environment",
+    "draw": "Bold capital H centered inside concentric oval isobar rings."
+  },
+  {
+    "name": "low-pressure",
+    "category": "environment",
+    "draw": "Bold capital L centered inside concentric oval isobar rings."
+  },
+  {
+    "name": "isobars",
+    "category": "environment",
+    "draw": "Several nested irregular closed contour lines like a pressure chart."
+  },
+  {
+    "name": "weather-map",
+    "category": "environment",
+    "draw": "Folded map outline with a sun symbol and a front line with triangles on it."
+  },
+  {
+    "name": "wind-barb",
+    "category": "environment",
+    "draw": "Straight shaft with a circle at one end and two feather ticks at the other."
+  },
+  {
+    "name": "beaufort-scale",
+    "category": "environment",
+    "draw": "Horizontal bar split into rising steps with a wind line above it."
+  },
+  {
+    "name": "storm-warning-flag",
+    "category": "environment",
+    "draw": "Flagpole with a square red style flag that has a black square in its center."
+  },
+  {
+    "name": "hurricane-warning-flags",
+    "category": "environment",
+    "draw": "Flagpole flying two stacked square flags each with a black center square."
+  },
+  {
+    "name": "barograph",
+    "category": "environment",
+    "draw": "Rotating drum with a zigzag line trace and a pen arm touching it."
+  },
+  {
+    "name": "pyranometer",
+    "category": "environment",
+    "draw": "Small glass dome on a flat round base with a leveling foot."
+  },
+  {
+    "name": "weather-radar",
+    "category": "environment",
+    "draw": "Round radome dome on top of a lattice tower."
+  },
+  {
+    "name": "radar-sweep",
+    "category": "environment",
+    "draw": "Circular radar screen with concentric rings, a sweeping wedge and a few blobs."
+  },
+  {
+    "name": "weather-satellite",
+    "category": "environment",
+    "draw": "Satellite body with two solar panel wings and a round sensor facing down to an earth arc."
+  },
+  {
+    "name": "snow-gauge",
+    "category": "environment",
+    "draw": "Tall ruler stake planted in a snow mound with numbered marks."
+  },
+  {
+    "name": "storm-glass",
+    "category": "environment",
+    "draw": "Sealed glass teardrop bottle on a stand with feathery crystals inside."
+  },
+  {
+    "name": "weather-house",
+    "category": "environment",
+    "draw": "Tiny chalet with two doorways, one showing a figure with an umbrella."
+  },
+  {
+    "name": "weather-buoy",
+    "category": "environment",
+    "draw": "Floating buoy on wavy water with a mast carrying a small anemometer."
+  },
+  {
+    "name": "lightning-detector",
+    "category": "environment",
+    "draw": "Handheld box with an antenna and a small lightning bolt display."
+  },
+  {
+    "name": "ceilometer",
+    "category": "environment",
+    "draw": "Box instrument firing a vertical dashed beam up to a cloud."
+  },
+  {
+    "name": "four-seasons",
+    "category": "environment",
+    "draw": "Circle split into four quadrants holding a flower, sun, leaf and snowflake."
+  },
+  {
+    "name": "harvest-moon",
+    "category": "environment",
+    "draw": "Large full moon low over a horizon with a wheat sheaf silhouette."
+  },
+  {
+    "name": "hibernation",
+    "category": "environment",
+    "draw": "Sleeping bear curled up inside a cave opening with a small Z above."
+  },
+  {
+    "name": "rainy-season",
+    "category": "environment",
+    "draw": "Calendar page with a cloud and dense rain drawn on it."
+  },
+  {
+    "name": "daylight-saving-time",
+    "category": "environment",
+    "draw": "Clock face with a curved arrow looping around its edge and a sun at top."
+  },
+  {
+    "name": "water-clock",
+    "category": "environment",
+    "draw": "Two stacked vessels with water dripping from the upper into the lower which has hour marks."
+  },
+  {
+    "name": "candle-clock",
+    "category": "environment",
+    "draw": "Tall candle with evenly spaced hour lines marked down its side."
+  },
+  {
+    "name": "incense-clock",
+    "category": "environment",
+    "draw": "Long box with a winding incense trail groove and small bells on threads."
+  },
+  {
+    "name": "astronomical-clock",
+    "category": "environment",
+    "draw": "Ornate clock face with an inner ring of zodiac style arcs and sun and moon hands."
+  },
+  {
+    "name": "chess-clock",
+    "category": "environment",
+    "draw": "Box with two round clock faces side by side and two push buttons on top."
+  },
+  {
+    "name": "lap-timer",
+    "category": "environment",
+    "draw": "Stopwatch with a flag icon on its face."
+  },
+  {
+    "name": "twenty-four-hour-clock",
+    "category": "environment",
+    "draw": "Clock face with 24 tick marks and a single hour hand."
+  },
+  {
+    "name": "jet-lag",
+    "category": "environment",
+    "draw": "Airplane beside a clock face with tired half closed eye above."
+  },
+  {
+    "name": "wall-calendar",
+    "category": "environment",
+    "draw": "Hanging calendar page with a nail loop at the top and a grid of days."
+  },
+  {
+    "name": "lunar-calendar",
+    "category": "environment",
+    "draw": "Calendar page with a crescent moon in place of the date number."
+  },
+  {
+    "name": "advent-calendar",
+    "category": "environment",
+    "draw": "Grid of small numbered doors with one door opened."
+  },
+  {
+    "name": "leap-year",
+    "category": "environment",
+    "draw": "Calendar page with the number 29 and a small frog leaping over it."
+  },
+  {
+    "name": "calendar-year",
+    "category": "environment",
+    "draw": "Twelve tiny month squares arranged in a 4 by 3 grid."
+  },
+  {
+    "name": "calendar-quarter",
+    "category": "environment",
+    "draw": "Calendar page with the letter Q and a number 1 in its body."
+  },
+  {
+    "name": "calendar-agenda",
+    "category": "environment",
+    "draw": "Calendar page with three stacked horizontal bars like a list of events."
+  },
+  {
+    "name": "date-time",
+    "category": "environment",
+    "draw": "Calendar page with a small clock face overlapping its lower corner."
+  },
+  {
+    "name": "meeting-time",
+    "category": "environment",
+    "draw": "Two person silhouettes in front of a clock face."
+  },
+  {
+    "name": "open-24-hours",
+    "category": "environment",
+    "draw": "Circle with the number 24 and a small arrow wrapping around it."
+  },
+  {
+    "name": "rush-hour",
+    "category": "environment",
+    "draw": "Clock face with two car silhouettes stacked in front of it."
+  },
+  {
+    "name": "lunch-break",
+    "category": "environment",
+    "draw": "Clock face with a fork and knife crossed in front of it."
+  },
+  {
+    "name": "coffee-break",
+    "category": "environment",
+    "draw": "Coffee cup with steam next to a small clock face."
+  },
+  {
+    "name": "overtime",
+    "category": "environment",
+    "draw": "Clock face with a plus sign and a briefcase silhouette."
+  },
+  {
+    "name": "vacation-days",
+    "category": "environment",
+    "draw": "Calendar page with a small palm tree drawn on it."
+  },
+  {
+    "name": "shift-schedule",
+    "category": "environment",
+    "draw": "Grid chart with horizontal bars in staggered rows like work shifts."
+  },
+  {
+    "name": "night-shift",
+    "category": "environment",
+    "draw": "Crescent moon beside a hard hat."
+  },
+  {
+    "name": "time-tracking",
+    "category": "environment",
+    "draw": "Clock face with a small bar chart overlapping its corner."
+  },
+  {
+    "name": "time-management",
+    "category": "environment",
+    "draw": "Clock face with a checklist sheet behind it."
+  },
+  {
+    "name": "pomodoro-timer",
+    "category": "environment",
+    "draw": "Tomato shaped kitchen timer with a leaf top and tick marks around its middle."
+  },
+  {
+    "name": "time-blocking",
+    "category": "environment",
+    "draw": "Day column with three solid colored rectangular blocks of different heights."
+  },
+  {
+    "name": "time-slot",
+    "category": "environment",
+    "draw": "Clock face with a highlighted pie wedge between two hands."
+  },
+  {
+    "name": "waiting-time",
+    "category": "environment",
+    "draw": "Seated person silhouette beside an hourglass."
+  },
+  {
+    "name": "estimated-arrival",
+    "category": "environment",
+    "draw": "Map pin with a small clock face inside its head."
+  },
+  {
+    "name": "on-time",
+    "category": "environment",
+    "draw": "Clock face with a check styled tick shape formed by its two hands."
+  },
+  {
+    "name": "late-arrival",
+    "category": "environment",
+    "draw": "Running person silhouette beside a clock with hands at the top."
+  },
+  {
+    "name": "time-flies",
+    "category": "environment",
+    "draw": "Clock face with a pair of feathered wings on each side."
+  },
+  {
+    "name": "time-is-money",
+    "category": "environment",
+    "draw": "Clock face overlapping a stack of coins."
+  },
+  {
+    "name": "time-capsule",
+    "category": "environment",
+    "draw": "Capsule shaped canister half buried in the ground with a date tag."
+  },
+  {
+    "name": "time-loop",
+    "category": "environment",
+    "draw": "Clock face enclosed in an infinity loop."
+  },
+  {
+    "name": "midday",
+    "category": "environment",
+    "draw": "Sun directly above a vertical stick with no shadow under it."
+  },
+  {
+    "name": "midnight",
+    "category": "environment",
+    "draw": "Clock face with both hands at twelve and a small crescent moon."
+  },
+  {
+    "name": "decade",
+    "category": "environment",
+    "draw": "Calendar page with the number 10 and a small stacked pages effect."
+  },
+  {
+    "name": "century",
+    "category": "environment",
+    "draw": "Stack of calendar pages with the number 100 on the front."
+  },
+  {
+    "name": "millennium",
+    "category": "environment",
+    "draw": "Hourglass with the number 1000 on a banner across it."
+  },
+  {
+    "name": "day-counter",
+    "category": "environment",
+    "draw": "Box with a large two digit number and small up and down tick buttons."
+  },
+  {
+    "name": "streak-counter",
+    "category": "environment",
+    "draw": "Flame shape with a number in its center."
+  },
+  {
+    "name": "habit-tracker",
+    "category": "environment",
+    "draw": "Grid of small squares with some filled and a checkmark on the top row."
+  },
+  {
+    "name": "daily-planner",
+    "category": "environment",
+    "draw": "Open spiral notebook with a clock face on one page and lines on the other."
+  },
+  {
+    "name": "expiry-date",
+    "category": "environment",
+    "draw": "Carton label with a calendar page and small printed date lines."
+  },
+  {
+    "name": "best-before",
+    "category": "environment",
+    "draw": "Jar with a label showing a calendar page icon."
+  },
+  {
+    "name": "clock-radio",
+    "category": "environment",
+    "draw": "Rectangular box with a digital time display and a speaker grille."
+  },
+  {
+    "name": "sleep-schedule",
+    "category": "environment",
+    "draw": "Crescent moon beside a bed with a small clock above."
+  },
+  {
+    "name": "global-warming",
+    "category": "environment",
+    "draw": "Globe with a thermometer rising beside it and heat wave lines above."
+  },
+  {
+    "name": "climate-change",
+    "category": "environment",
+    "draw": "Globe split in half, one side with a leaf and the other with a sun and cracks."
+  },
+  {
+    "name": "greenhouse-effect",
+    "category": "environment",
+    "draw": "Earth under a dome arc with sun rays bouncing back down from the arc."
+  },
+  {
+    "name": "melting-ice-cap",
+    "category": "environment",
+    "draw": "Iceberg top dripping two droplets into a water line."
+  },
+  {
+    "name": "polar-bear-on-ice",
+    "category": "environment",
+    "draw": "Polar bear standing on a small shrinking ice floe on water."
+  },
+  {
+    "name": "warming-stripes",
+    "category": "environment",
+    "draw": "Square filled with vertical bars that get progressively denser to the right."
+  },
+  {
+    "name": "temperature-anomaly",
+    "category": "environment",
+    "draw": "Line chart with a zero baseline and a rising jagged curve crossing it."
+  },
+  {
+    "name": "carbon-emissions",
+    "category": "environment",
+    "draw": "Chimney releasing a cloud labeled with the letters CO2."
+  },
+  {
+    "name": "methane-emissions",
+    "category": "environment",
+    "draw": "Cow silhouette with a small gas cloud behind it."
+  },
+  {
+    "name": "clear-cut",
+    "category": "environment",
+    "draw": "Hillside of stumps with a single felled log in front."
+  },
+  {
+    "name": "desertification",
+    "category": "environment",
+    "draw": "Half green grass and half cracked earth with a dune on the cracked side."
+  },
+  {
+    "name": "habitat-loss",
+    "category": "environment",
+    "draw": "House silhouette pushing into a tree with a bird flying away."
+  },
+  {
+    "name": "carbon-neutral",
+    "category": "environment",
+    "draw": "Circle with the text CO2 and a balance scale line beneath."
+  },
+  {
+    "name": "carbon-offset",
+    "category": "environment",
+    "draw": "Tree beside a CO2 cloud with an equal sign between them."
+  },
+  {
+    "name": "carbon-credit",
+    "category": "environment",
+    "draw": "Certificate card with a leaf and CO2 printed on it."
+  },
+  {
+    "name": "carbon-tax",
+    "category": "environment",
+    "draw": "Price tag with CO2 printed on it."
+  },
+  {
+    "name": "carbon-sink",
+    "category": "environment",
+    "draw": "Tree with arrows made of dots flowing down into its roots from a CO2 cloud."
+  },
+  {
+    "name": "climate-action",
+    "category": "environment",
+    "draw": "Raised fist holding a leaf."
+  },
+  {
+    "name": "climate-protest-sign",
+    "category": "environment",
+    "draw": "Placard on a stick showing a globe with a thermometer."
+  },
+  {
+    "name": "melting-glacier",
+    "category": "environment",
+    "draw": "Glacier tongue with water droplets and a stream flowing from its snout."
+  },
+  {
+    "name": "sea-ice-loss",
+    "category": "environment",
+    "draw": "Two ice floes of shrinking size with water gaps between them."
+  },
+  {
+    "name": "climate-migration",
+    "category": "environment",
+    "draw": "Person with a bundle walking away from a cracked earth patch."
+  },
+  {
+    "name": "air-pollution",
+    "category": "environment",
+    "draw": "Factory chimney with a dark curling cloud above buildings."
+  },
+  {
+    "name": "smokestack-pollution",
+    "category": "environment",
+    "draw": "Two tall chimneys emitting thick dark smoke puffs."
+  },
+  {
+    "name": "exhaust-fumes",
+    "category": "environment",
+    "draw": "Car rear with puffs of smoke billowing from a tailpipe."
+  },
+  {
+    "name": "water-pollution",
+    "category": "environment",
+    "draw": "Water surface with a factory pipe dripping into it and a dead fish beneath."
+  },
+  {
+    "name": "oiled-bird",
+    "category": "environment",
+    "draw": "Bird silhouette dripping dark droplets from its wings."
+  },
+  {
+    "name": "plastic-pollution",
+    "category": "environment",
+    "draw": "Wave with a plastic bottle and a bag floating on it."
+  },
+  {
+    "name": "plastic-bag",
+    "category": "environment",
+    "draw": "Single use carrier bag with two loop handles and crumple lines."
+  },
+  {
+    "name": "six-pack-rings",
+    "category": "environment",
+    "draw": "Six connected ring holes arranged in a 3 by 2 grid."
+  },
+  {
+    "name": "noise-pollution",
+    "category": "environment",
+    "draw": "Building with loud sound wave arcs and a covered ear."
+  },
+  {
+    "name": "soil-contamination",
+    "category": "environment",
+    "draw": "Soil layer cross section with a leaking barrel sunk into it."
+  },
+  {
+    "name": "toxic-waste-barrel",
+    "category": "environment",
+    "draw": "Steel drum with a skull symbol and a leaking drip."
+  },
+  {
+    "name": "e-waste",
+    "category": "environment",
+    "draw": "Pile of a broken phone, a cable and a circuit board."
+  },
+  {
+    "name": "landfill",
+    "category": "environment",
+    "draw": "Mound of mixed rubbish with a bird circling above."
+  },
+  {
+    "name": "sewage-outfall",
+    "category": "environment",
+    "draw": "Large pipe outlet pouring dirty water into a river."
+  },
+  {
+    "name": "polluted-river",
+    "category": "environment",
+    "draw": "River with a pollution cloud and a dead fish floating belly up."
+  },
+  {
+    "name": "dead-fish",
+    "category": "environment",
+    "draw": "Fish drawn belly up with X eyes."
+  },
+  {
+    "name": "particulate-matter",
+    "category": "environment",
+    "draw": "Cloud with a scatter of tiny dots of different sizes and the text PM."
+  },
+  {
+    "name": "pm2-5",
+    "category": "environment",
+    "draw": "Dotted circle containing the text PM2.5."
+  },
+  {
+    "name": "fracking-rig",
+    "category": "environment",
+    "draw": "Tall derrick on the ground with drilling lines fanning out beneath."
+  },
+  {
+    "name": "cigarette-butt-litter",
+    "category": "environment",
+    "draw": "Cigarette butt on the ground with a small smoke curl."
+  },
+  {
+    "name": "light-trespass",
+    "category": "environment",
+    "draw": "Streetlight shining a cone into a bedroom window."
+  },
+  {
+    "name": "chemical-runoff",
+    "category": "environment",
+    "draw": "Farm field sloping into water with droplets running downhill."
+  },
+  {
+    "name": "recycle-code-pet",
+    "category": "environment",
+    "draw": "Chasing arrows triangle with the number 1 inside."
+  },
+  {
+    "name": "recycle-code-hdpe",
+    "category": "environment",
+    "draw": "Chasing arrows triangle with the number 2 inside."
+  },
+  {
+    "name": "recycle-code-pvc",
+    "category": "environment",
+    "draw": "Chasing arrows triangle with the number 3 inside."
+  },
+  {
+    "name": "recycle-code-ldpe",
+    "category": "environment",
+    "draw": "Chasing arrows triangle with the number 4 inside."
+  },
+  {
+    "name": "recycle-code-pp",
+    "category": "environment",
+    "draw": "Chasing arrows triangle with the number 5 inside."
+  },
+  {
+    "name": "recycle-code-ps",
+    "category": "environment",
+    "draw": "Chasing arrows triangle with the number 6 inside."
+  },
+  {
+    "name": "recycle-code-other",
+    "category": "environment",
+    "draw": "Chasing arrows triangle with the number 7 inside."
+  },
+  {
+    "name": "glass-recycling",
+    "category": "environment",
+    "draw": "Bin with a round opening and a wine bottle icon on its front."
+  },
+  {
+    "name": "paper-recycling",
+    "category": "environment",
+    "draw": "Bin with a slot opening and a folded newspaper icon on its front."
+  },
+  {
+    "name": "metal-recycling",
+    "category": "environment",
+    "draw": "Bin with a round opening and a tin can icon on its front."
+  },
+  {
+    "name": "plastic-recycling",
+    "category": "environment",
+    "draw": "Bin with a bottle icon and chasing arrows on its front."
+  },
+  {
+    "name": "battery-recycling",
+    "category": "environment",
+    "draw": "Battery with a chasing arrows loop around it."
+  },
+  {
+    "name": "e-waste-recycling",
+    "category": "environment",
+    "draw": "Smartphone outline with chasing arrows around it."
+  },
+  {
+    "name": "textile-recycling",
+    "category": "environment",
+    "draw": "T shirt with a chasing arrows loop beside it."
+  },
+  {
+    "name": "clothing-donation-bin",
+    "category": "environment",
+    "draw": "Large metal container with a pull down chute and a shirt icon."
+  },
+  {
+    "name": "reverse-vending-machine",
+    "category": "environment",
+    "draw": "Upright machine with a round bottle hole and a receipt slot."
+  },
+  {
+    "name": "deposit-return",
+    "category": "environment",
+    "draw": "Bottle with a coin and a circular arrow beside it."
+  },
+  {
+    "name": "worm-composting",
+    "category": "environment",
+    "draw": "Bin with soil layers and a wriggling worm."
+  },
+  {
+    "name": "food-waste",
+    "category": "environment",
+    "draw": "Apple core and a banana peel in a small bin."
+  },
+  {
+    "name": "zero-waste",
+    "category": "environment",
+    "draw": "Jar with a zero on its label."
+  },
+  {
+    "name": "reusable-bag",
+    "category": "environment",
+    "draw": "Cloth tote bag with long handles and a leaf printed on it."
+  },
+  {
+    "name": "reusable-cup",
+    "category": "environment",
+    "draw": "Cup with a sleeve band and a sip lid."
+  },
+  {
+    "name": "bamboo-toothbrush",
+    "category": "environment",
+    "draw": "Toothbrush with a segmented bamboo style handle."
+  },
+  {
+    "name": "beeswax-wrap",
+    "category": "environment",
+    "draw": "Folded square cloth wrap over a bowl with a small hexagon pattern."
+  },
+  {
+    "name": "bulk-food-jars",
+    "category": "environment",
+    "draw": "Row of three glass jars with scoops and grains inside."
+  },
+  {
+    "name": "metal-straw",
+    "category": "environment",
+    "draw": "Bent straw beside a thin cleaning brush."
+  },
+  {
+    "name": "upcycling",
+    "category": "environment",
+    "draw": "Tin can turned into a plant pot with a sprout."
+  },
+  {
+    "name": "repair-cafe",
+    "category": "environment",
+    "draw": "Wrench and needle crossed over a cup."
+  },
+  {
+    "name": "secondhand",
+    "category": "environment",
+    "draw": "Clothes hanger with a circular arrow around it."
+  },
+  {
+    "name": "circular-economy",
+    "category": "environment",
+    "draw": "Three curved arrows forming a closed circle with a leaf in the center."
+  },
+  {
+    "name": "reduce-reuse-recycle",
+    "category": "environment",
+    "draw": "Triangle of three icons: a down arrow, a loop and a chasing arrows symbol."
+  },
+  {
+    "name": "biodegradable",
+    "category": "environment",
+    "draw": "Leaf with a downward dotted arrow into a soil line."
+  },
+  {
+    "name": "compostable-packaging",
+    "category": "environment",
+    "draw": "Box with a leaf and a sprout growing from its top."
+  },
+  {
+    "name": "eco-label",
+    "category": "environment",
+    "draw": "Rosette badge with a leaf in its center."
+  },
+  {
+    "name": "sustainable-packaging",
+    "category": "environment",
+    "draw": "Cardboard box with a leaf printed on its side."
+  },
+  {
+    "name": "trash-sorting",
+    "category": "environment",
+    "draw": "Three bins side by side with different symbols on their fronts."
+  },
+  {
+    "name": "litter-picker",
+    "category": "environment",
+    "draw": "Long grabber tool with a claw end holding a crumpled can."
+  },
+  {
+    "name": "street-litter-bin",
+    "category": "environment",
+    "draw": "Post mounted bin with an open top and a slot opening."
+  },
+  {
+    "name": "solar-farm",
+    "category": "environment",
+    "draw": "Rows of tilted solar panel rectangles on a field with a sun above."
+  },
+  {
+    "name": "solar-charger",
+    "category": "environment",
+    "draw": "Folding solar panel connected by a cable to a phone."
+  },
+  {
+    "name": "solar-street-light",
+    "category": "environment",
+    "draw": "Street pole with a lamp head and a tilted solar panel at the top."
+  },
+  {
+    "name": "solar-roof",
+    "category": "environment",
+    "draw": "House roof covered with a grid of panel lines."
+  },
+  {
+    "name": "small-wind-turbine",
+    "category": "environment",
+    "draw": "Short turbine on a pole beside a house roof."
+  },
+  {
+    "name": "micro-hydro",
+    "category": "environment",
+    "draw": "Small pipe running down a slope into a turbine box with a bolt."
+  },
+  {
+    "name": "biomass",
+    "category": "environment",
+    "draw": "Pile of logs and pellets beside a small flame."
+  },
+  {
+    "name": "renewable-energy",
+    "category": "environment",
+    "draw": "Leaf with a lightning bolt inside it."
+  },
+  {
+    "name": "green-hydrogen",
+    "category": "environment",
+    "draw": "Leaf beside a gas bottle with the letter H."
+  },
+  {
+    "name": "micro-grid",
+    "category": "environment",
+    "draw": "Three small houses connected in a triangle with a solar panel and battery."
+  },
+  {
+    "name": "smart-grid",
+    "category": "environment",
+    "draw": "Power pylon with network nodes and linked dots around it."
+  },
+  {
+    "name": "off-grid-cabin",
+    "category": "environment",
+    "draw": "Small cabin with a solar panel on the roof and a wind turbine beside it."
+  },
+  {
+    "name": "energy-efficiency-label",
+    "category": "environment",
+    "draw": "Stepped horizontal bars of decreasing length with a letter A pointer."
+  },
+  {
+    "name": "home-insulation",
+    "category": "environment",
+    "draw": "House cross section with a zigzag batt layer inside its walls and roof."
+  },
+  {
+    "name": "draft-excluder",
+    "category": "environment",
+    "draw": "Long stuffed tube lying along the bottom of a door."
+  },
+  {
+    "name": "energy-audit",
+    "category": "environment",
+    "draw": "Clipboard with a lightning bolt and a check list."
+  },
+  {
+    "name": "energy-monitor",
+    "category": "environment",
+    "draw": "Small display unit with a bar graph and a bolt symbol."
+  },
+  {
+    "name": "standby-power",
+    "category": "environment",
+    "draw": "Power button symbol with a small crescent moon beside it."
+  },
+  {
+    "name": "greywater-recycling",
+    "category": "environment",
+    "draw": "Sink draining into a pipe that loops into a watering can."
+  },
+  {
+    "name": "low-flow-shower",
+    "category": "environment",
+    "draw": "Shower head with only three thin water lines."
+  },
+  {
+    "name": "dual-flush-toilet",
+    "category": "environment",
+    "draw": "Toilet tank lid with two round buttons of different size."
+  },
+  {
+    "name": "passive-house",
+    "category": "environment",
+    "draw": "House outline with thick walls and a sun shining in a large south window."
+  },
+  {
+    "name": "green-building",
+    "category": "environment",
+    "draw": "Office tower with leaves growing on its terraces."
+  },
+  {
+    "name": "bike-commute",
+    "category": "environment",
+    "draw": "Bicycle with a briefcase strapped to its rear rack."
+  },
+  {
+    "name": "walking-commute",
+    "category": "environment",
+    "draw": "Walking person with a leaf beside them."
+  },
+  {
+    "name": "eco-house",
+    "category": "environment",
+    "draw": "House outline with a leaf in place of its chimney."
+  },
+  {
+    "name": "green-city",
+    "category": "environment",
+    "draw": "City skyline with trees between buildings and a leaf above."
+  },
+  {
+    "name": "urban-farm",
+    "category": "environment",
+    "draw": "Rooftop with rows of plants in raised beds."
+  },
+  {
+    "name": "community-garden",
+    "category": "environment",
+    "draw": "Raised bed with plants and two small people figures beside it."
+  },
+  {
+    "name": "allotment",
+    "category": "environment",
+    "draw": "Fenced rectangular plot with rows of vegetables and a small shed."
+  },
+  {
+    "name": "plant-based-diet",
+    "category": "environment",
+    "draw": "Plate with a leaf and a carrot on it."
+  },
+  {
+    "name": "local-produce",
+    "category": "environment",
+    "draw": "Basket of vegetables with a map pin above it."
+  },
+  {
+    "name": "fair-trade",
+    "category": "environment",
+    "draw": "Two hands shaking over a leaf."
+  },
+  {
+    "name": "organic-label",
+    "category": "environment",
+    "draw": "Round seal with a leaf and a check shaped stem."
+  },
+  {
+    "name": "endangered-species",
+    "category": "environment",
+    "draw": "Rhino head silhouette inside a circle with a small warning mark."
+  },
+  {
+    "name": "wildlife-protection",
+    "category": "environment",
+    "draw": "Shield shape with a deer head inside."
+  },
+  {
+    "name": "nature-reserve",
+    "category": "environment",
+    "draw": "Signpost beside a tree and a bird."
+  },
+  {
+    "name": "tree-nursery",
+    "category": "environment",
+    "draw": "Row of small potted saplings on a bench."
+  },
+  {
+    "name": "seed-bank",
+    "category": "environment",
+    "draw": "Vault door with a seed icon on it."
+  },
+  {
+    "name": "bee-hotel",
+    "category": "environment",
+    "draw": "Wooden box with a roof filled with round tube openings."
+  },
+  {
+    "name": "pollinator-garden",
+    "category": "environment",
+    "draw": "Flower with a bee hovering over it."
+  },
+  {
+    "name": "rewilding",
+    "category": "environment",
+    "draw": "Fence with a gap and a deer walking through into tall grass."
+  },
+  {
+    "name": "wetland-restoration",
+    "category": "environment",
+    "draw": "Reeds rising from water with a sprout and a spade."
+  },
+  {
+    "name": "coral-restoration",
+    "category": "environment",
+    "draw": "Coral branch tied to a small frame with a sprout."
+  },
+  {
+    "name": "anti-poaching",
+    "category": "environment",
+    "draw": "Elephant silhouette inside a shield."
+  },
+  {
+    "name": "biodiversity",
+    "category": "environment",
+    "draw": "Circle holding a leaf, a fish and a bird around a center."
+  },
+  {
+    "name": "ecosystem",
+    "category": "environment",
+    "draw": "Tree, fish and sun connected by curved arrows in a cycle."
+  },
+  {
+    "name": "food-web",
+    "category": "environment",
+    "draw": "Nodes of animal dots joined by many crossing lines."
+  },
+  {
+    "name": "hedgerow",
+    "category": "environment",
+    "draw": "Long low bushy hedge along a field line with a small bird."
+  },
+  {
+    "name": "wildlife-pond",
+    "category": "environment",
+    "draw": "Oval pond with reeds and a frog on a lily pad."
+  },
+  {
+    "name": "peat-bog",
+    "category": "environment",
+    "draw": "Waterlogged ground with tufts of moss and cut peat blocks."
+  },
+  {
+    "name": "save-the-planet",
+    "category": "environment",
+    "draw": "Two hands cupping a globe."
+  },
+  {
+    "name": "earth-hour",
+    "category": "environment",
+    "draw": "Globe with a light switch beside it."
+  },
+  {
+    "name": "eco-warrior",
+    "category": "environment",
+    "draw": "Person silhouette with a leaf on their chest."
+  },
+  {
+    "name": "environmental-scientist-kit",
+    "category": "environment",
+    "draw": "Test tube with a leaf inside."
+  },
+  {
+    "name": "water-testing",
+    "category": "environment",
+    "draw": "Test tube dipped into wavy water with a drop above."
+  },
+  {
+    "name": "air-monitoring-station",
+    "category": "environment",
+    "draw": "Box on a pole with small vents and a cloud icon."
+  },
+  {
+    "name": "nature-trail-sign",
+    "category": "environment",
+    "draw": "Wooden arrow signpost with a leaf on it."
+  },
+  {
+    "name": "leave-no-trace",
+    "category": "environment",
+    "draw": "Footprint beside a leaf inside a circle."
+  },
+  {
+    "name": "no-littering",
+    "category": "environment",
+    "draw": "Person dropping trash into a bin drawn inside a circle."
+  },
+  {
+    "name": "do-not-feed-wildlife",
+    "category": "environment",
+    "draw": "Duck with a bread slice inside a circle."
+  },
+  {
+    "name": "thundersnow",
+    "category": "environment",
+    "draw": "Cloud with a lightning bolt on one side and a snowflake on the other beneath it."
+  },
+  {
+    "name": "breezy-day",
+    "category": "environment",
+    "draw": "Sun in the upper corner with two long curling wind lines sweeping beneath it."
+  },
+  {
+    "name": "window-frost",
+    "category": "environment",
+    "draw": "Window pane corner filled with branching feathery frost fern patterns."
+  },
+  {
+    "name": "tornado-siren",
+    "category": "environment",
+    "draw": "Tall pole topped with a round horn siren with sound arcs radiating out."
+  },
+  {
+    "name": "hurricane-shutters",
+    "category": "environment",
+    "draw": "House window covered by a corrugated panel with bolts at its corners."
+  },
+  {
+    "name": "snow-fence",
+    "category": "environment",
+    "draw": "Row of slatted fence posts with a sloping snow drift piled against one side."
+  },
+  {
+    "name": "hand-crank-radio",
+    "category": "environment",
+    "draw": "Compact radio with a telescopic antenna and a folding crank handle on its side."
+  },
+  {
+    "name": "snow-day",
+    "category": "environment",
+    "draw": "Calendar page with a large snowflake drawn in place of the date."
+  },
+  {
+    "name": "rain-check",
+    "category": "environment",
+    "draw": "Ticket stub with a notched edge and a small rain cloud printed on it."
+  },
+  {
+    "name": "sun-path",
+    "category": "environment",
+    "draw": "Dotted arc over a horizon line with three small sun positions along it."
+  },
+  {
+    "name": "window-thermometer",
+    "category": "environment",
+    "draw": "Round dial thermometer stuck to a window pane with a suction cup."
+  },
+  {
+    "name": "soil-thermometer",
+    "category": "environment",
+    "draw": "Round dial gauge on top of a long probe pushed into a soil line."
+  },
+  {
+    "name": "payday",
+    "category": "environment",
+    "draw": "Calendar page with a coin drawn on it."
+  },
+  {
+    "name": "work-week",
+    "category": "environment",
+    "draw": "Calendar row of seven squares with the first five filled."
+  },
+  {
+    "name": "timestamp",
+    "category": "environment",
+    "draw": "Rubber stamp with a small clock face on its handle and a printed mark below."
+  },
+  {
+    "name": "siesta",
+    "category": "environment",
+    "draw": "Hammock slung between two posts with a sun above it."
+  },
+  {
+    "name": "biological-clock",
+    "category": "environment",
+    "draw": "Human head profile with a small clock face inside it."
+  },
+  {
+    "name": "binary-clock",
+    "category": "environment",
+    "draw": "Grid of dots in columns with some dots filled like binary digits."
+  },
+  {
+    "name": "week-number",
+    "category": "environment",
+    "draw": "Calendar page with the letter W followed by a two digit number."
+  },
+  {
+    "name": "rain-garden",
+    "category": "environment",
+    "draw": "Sunken planted bed with reeds and a roof downspout pouring water into it."
+  },
+  {
+    "name": "permeable-paving",
+    "category": "environment",
+    "draw": "Grid of paver blocks with water drops sinking between the gaps."
+  },
+  {
+    "name": "urban-heat-island",
+    "category": "environment",
+    "draw": "City skyline with a thermometer rising above the buildings and heat lines."
+  },
+  {
+    "name": "cool-roof",
+    "category": "environment",
+    "draw": "House roof reflecting sun ray lines back up into the sky."
+  },
+  {
+    "name": "shade-tree",
+    "category": "environment",
+    "draw": "Round tree beside a small house casting a shadow over it."
+  },
+  {
+    "name": "water-footprint",
+    "category": "environment",
+    "draw": "Footprint shape made from a water drop outline."
+  },
+  {
+    "name": "peak-demand",
+    "category": "environment",
+    "draw": "Clock face with a lightning bolt and a sharp peak line across it."
+  },
+  {
+    "name": "power-outage",
+    "category": "environment",
+    "draw": "House silhouette with dark windows and a broken lightning bolt above it."
+  },
+  {
+    "name": "bycatch",
+    "category": "environment",
+    "draw": "Fishing net holding fish with a sea turtle caught among them."
+  },
+  {
+    "name": "monoculture",
+    "category": "environment",
+    "draw": "Field of identical small trees arranged in a rigid grid of rows."
+  },
+  {
+    "name": "green-data-center",
+    "category": "environment",
+    "draw": "Server rack with a leaf over its front panel."
+  },
+  {
+    "name": "climate-model",
+    "category": "environment",
+    "draw": "Globe covered in a square grid mesh with a small thermometer beside it."
+  },
+  {
+    "name": "water-scarcity",
+    "category": "environment",
+    "draw": "Dry tap with a single cracked water drop falling from its spout."
+  },
+  {
+    "name": "desalination-plant",
+    "category": "environment",
+    "draw": "Wave line flowing into a tank with a salt pile beside it and a tap on the other side."
+  },
+  {
+    "name": "agrivoltaics",
+    "category": "environment",
+    "draw": "Raised solar panels on posts above a row of crop plants."
+  },
+  {
+    "name": "floating-solar",
+    "category": "environment",
+    "draw": "Tilted solar panels resting on floats on wavy water."
+  },
+  {
+    "name": "solar-pump",
+    "category": "environment",
+    "draw": "Small solar panel connected to a pump pouring water into a trough."
+  },
+  {
+    "name": "ground-source-heat-pump",
+    "category": "environment",
+    "draw": "House with a looped pipe running down into the ground beneath it."
+  },
+  {
+    "name": "clothing-swap",
+    "category": "environment",
+    "draw": "Two shirts with a pair of curved arrows exchanging between them."
+  },
+  {
+    "name": "bokashi-bin",
+    "category": "environment",
+    "draw": "Lidded bucket with a small tap near its base and a leaf on its side."
+  },
+  {
+    "name": "wildlife-rescue",
+    "category": "environment",
+    "draw": "Two hands cradling a small bird with a bandage on its wing."
+  },
+  {
+    "name": "fire-danger-sign",
+    "category": "environment",
+    "draw": "Semicircle gauge sign on two posts with segments and a needle, a flame above."
+  },
+  {
+    "name": "drip-torch",
+    "category": "environment",
+    "draw": "Canister with a long curved spout and a small flame at its tip."
+  },
+  {
+    "name": "energy-consumption",
+    "category": "environment",
+    "draw": "Plug with a small rising bar chart beside it."
+  },
+  {
+    "name": "hybrid-car",
+    "category": "environment",
+    "draw": "Car silhouette with a leaf and a fuel drop above its roof."
+  },
+  {
+    "name": "snow-blower",
+    "category": "environment",
+    "draw": "Walk behind machine with an auger housing at the front and a curved chute throwing snow."
+  },
+  {
+    "name": "birthday-calendar",
+    "category": "environment",
+    "draw": "Calendar page with a small cake and a candle on it."
+  },
+  {
+    "name": "hurricane-track",
+    "category": "environment",
+    "draw": "Small hurricane spiral symbol at the end of a dotted curving path inside a widening cone outline."
+  },
+  {
+    "name": "cloud-seeding",
+    "category": "environment",
+    "draw": "Small airplane flying beneath a cloud releasing a trail of tiny dots up into it."
+  },
+  {
+    "name": "fog-harvesting",
+    "category": "environment",
+    "draw": "Rectangular mesh net on two poles with droplets collecting and dripping into a trough below."
+  },
+  {
+    "name": "eco-mode",
+    "category": "environment",
+    "draw": "Semicircle speed gauge with a needle pointing to a small leaf at its low end."
+  },
+  {
+    "name": "tree-hug",
+    "category": "environment",
+    "draw": "Person silhouette with both arms wrapped around a tree trunk."
+  },
+  {
+    "name": "snowmelt",
+    "category": "environment",
+    "draw": "Snow mound with drips falling from its edge into a small stream line below."
+  }
+]

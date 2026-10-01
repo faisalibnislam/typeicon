@@ -1,0 +1,482 @@
+[
+ {
+  "name": "steam-locomotive",
+  "category": "craft",
+  "draw": "Side view of a steam locomotive with a tall smokestack puffing a cloud, round boiler front, cab at the back and large spoked driving wheels.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "diesel-locomotive",
+  "category": "craft",
+  "draw": "Side view of a boxy diesel locomotive with a flat-nosed cab at one end, a long engine hood with vent grilles and two wheel bogies.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "electric-locomotive",
+  "category": "craft",
+  "draw": "Side view of a boxy electric locomotive with a diamond-shaped pantograph on the roof touching a single overhead wire line.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "shunting-locomotive",
+  "category": "craft",
+  "draw": "Small stubby switcher locomotive in side view with a tall cab at one end, a short low hood and a coupler hook sticking out at the front.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "streamlined-locomotive",
+  "category": "craft",
+  "draw": "Side view of a sleek art deco steam locomotive with a smooth rounded bullet-shaped casing hiding the boiler and a skirt over the wheels.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "maglev-train",
+  "category": "craft",
+  "draw": "Streamlined train nose hovering a small gap above a thick T-shaped guideway, with short magnetic field arcs drawn in the gap.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "vacuum-tube-train",
+  "category": "craft",
+  "draw": "A capsule-shaped pod travelling inside a long transparent tube raised on pillars, with speed lines behind the pod.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "double-decker-train",
+  "category": "craft",
+  "draw": "Side view of a tall passenger rail carriage with two stacked rows of windows and wheel bogies under each end.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "passenger-railcar",
+  "category": "craft",
+  "draw": "Side view of a single passenger rail carriage with a row of square windows, a door at each end and two wheel bogies.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "observation-car",
+  "category": "craft",
+  "draw": "Side view of a rail carriage with a raised glass dome of curved windows on top of the middle of its roof.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "sleeper-car",
+  "category": "craft",
+  "draw": "Side view of a rail carriage with its windows showing stacked bunk beds and a small crescent moon above the roof.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "dining-car",
+  "category": "craft",
+  "draw": "Side view of a rail carriage with one wide window showing a small table with a lamp and a fork and knife symbol on the side.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "flatcar",
+  "category": "craft",
+  "draw": "Side view of a flat rail wagon with no sides, just a long deck on two bogies with short upright stakes along the edges.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "container-wagon",
+  "category": "craft",
+  "draw": "Side view of a low rail wagon carrying a ribbed shipping container, with wheel bogies under each end.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "car-carrier-wagon",
+  "category": "craft",
+  "draw": "Side view of a two-level rail wagon with car silhouettes parked on each deck inside an open frame.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "caboose",
+  "category": "craft",
+  "draw": "Side view of a small rail van with a raised cupola lookout box on the roof and railed platforms at both ends.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "handcar",
+  "category": "craft",
+  "draw": "Side view of a flat rail trolley with a seesaw pump handle on a central post, pushed up and down to drive it along the rails.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "rail-bike",
+  "category": "craft",
+  "draw": "A pedal cart with a bicycle-style seat and handlebars sitting on small flanged wheels on a railway track.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "suspended-monorail",
+  "category": "craft",
+  "draw": "Rail carriage hanging below a single overhead beam from arms on its roof, the beam held up by tall supports.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "cable-tram",
+  "category": "craft",
+  "draw": "Open-sided vintage tram car with bench seats, a sloped roof and a driver lever, running on street rails up a hill.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "horse-drawn-tram",
+  "category": "craft",
+  "draw": "Side view of an open tram car on street rails pulled by a single horse walking in front.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "miniature-railway",
+  "category": "craft",
+  "draw": "Tiny ride-on steam engine pulling low open cars with riders sitting astride them, on a narrow track.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "railway-snowplow",
+  "category": "craft",
+  "draw": "Side view of a rail vehicle with a large round rotary blower on its front throwing an arc of snow to one side.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "rail-crane",
+  "category": "craft",
+  "draw": "Side view of a rail wagon with a lattice jib crane mounted on top, the hook hanging from the end of the jib.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "road-rail-truck",
+  "category": "craft",
+  "draw": "Side view of a pickup truck sitting on railway track with small flanged rail wheels lowered in front of its tires.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "train-wheel",
+  "category": "craft",
+  "draw": "Side view of a single flanged railway wheel on an axle stub, sitting on a rail cross section.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "train-coupler",
+  "category": "craft",
+  "draw": "Two knuckle couplers from facing rail wagons locked together, drawn close up from the side.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "cowcatcher",
+  "category": "craft",
+  "draw": "Front of an old steam locomotive with a wedge-shaped slatted grille pointing forward at track level below the headlamp.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "water-crane",
+  "category": "craft",
+  "draw": "Tall railway water column with a swinging horizontal arm ending in a drooping leather hose, beside a track.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "railway-lantern",
+  "category": "craft",
+  "draw": "Old handheld railway guard lamp with a wire bail handle, a cylindrical body and a round glowing lens on the front.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "jumbo-jet",
+  "category": "craft",
+  "draw": "Side view of a large four-engine wide-body airliner with a distinctive raised hump over the front upper deck.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "turboprop-plane",
+  "category": "craft",
+  "draw": "Side view of a regional plane with straight high wings and a propeller engine on each wing, blades shown as discs.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "light-aircraft",
+  "category": "craft",
+  "draw": "Side view of a small single-engine high-wing plane with a nose propeller, a wing strut and fixed wheels.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "biplane",
+  "category": "craft",
+  "draw": "Side view of a vintage plane with two stacked wings joined by struts, a nose propeller and an open cockpit.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "triplane",
+  "category": "craft",
+  "draw": "Side view of a vintage plane with three stacked wings joined by struts and a nose propeller.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "seaplane",
+  "category": "craft",
+  "draw": "Side view of a small propeller plane sitting on two long pontoon floats instead of wheels, with a waterline below.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "flying-boat",
+  "category": "craft",
+  "draw": "Side view of a plane whose boat-shaped hull rests in the water, with high wings, small wingtip floats and engines on top.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "glider-plane",
+  "category": "craft",
+  "draw": "Side view of a sleek sailplane with very long thin wings, a bubble canopy and no engine.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "hang-glider",
+  "category": "craft",
+  "draw": "Triangular delta fabric wing seen from the front with a small pilot hanging below from a triangular control bar.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "paraglider",
+  "category": "craft",
+  "draw": "Wide curved arc-shaped canopy with many thin lines converging down to a small seated pilot.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "paramotor",
+  "category": "craft",
+  "draw": "Pilot seen from the side wearing a caged propeller fan on the back, hanging from a curved paraglider wing.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "microlight",
+  "category": "craft",
+  "draw": "Small open trike with three wheels and a pusher propeller, hanging under a triangular hang glider style wing.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "fighter-jet",
+  "category": "craft",
+  "draw": "Top view of a jet fighter with sharply swept delta wings, twin tail fins and a pointed nose.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "flying-wing",
+  "category": "craft",
+  "draw": "Top view of a tailless aircraft shaped like a wide boomerang with a jagged sawtooth back edge.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "jump-jet",
+  "category": "craft",
+  "draw": "Side view of a jet fighter hovering in place with two nozzles on its side pointing straight down blasting air.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "cargo-plane",
+  "category": "craft",
+  "draw": "Side view of a bulky high-wing transport plane with a T-tail and a lowered loading ramp at the rear with a crate.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "supersonic-airliner",
+  "category": "craft",
+  "draw": "Side view of a slender airliner with a drooped needle nose and large delta wings, sitting nose-down on long landing gear.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "private-jet",
+  "category": "craft",
+  "draw": "Side view of a small business jet with two engines mounted on the rear fuselage and a T-shaped tail.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "firefighting-aircraft",
+  "category": "craft",
+  "draw": "Side view of a propeller plane dropping a curtain of water from its belly onto flames below.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "tiltrotor",
+  "category": "craft",
+  "draw": "Front view of an aircraft with a wing on each side ending in an upright engine pod with a huge rotor on top.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "autogyro",
+  "category": "craft",
+  "draw": "Side view of a small open two-seat gyroplane with a free-spinning rotor on a mast and a pusher propeller at the back.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "airship",
+  "category": "craft",
+  "draw": "Side view of a long cigar-shaped airship with tail fins at the rear and a small gondola cabin under its belly.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "weather-balloon",
+  "category": "craft",
+  "draw": "Large round balloon rising on a long string with a small instrument box and a tiny parachute hanging below.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "jetpack",
+  "category": "craft",
+  "draw": "Back view of a jetpack harness with twin rocket tubes side by side, each blasting a short flame downward.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "flying-car",
+  "category": "craft",
+  "draw": "Side view of a small car with a rotor on each corner raised on short arms above the roof.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "air-taxi",
+  "category": "craft",
+  "draw": "Small passenger cabin pod with several rotors on arms around it, seen at a slight angle, hovering.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "banner-towing-plane",
+  "category": "craft",
+  "draw": "Small propeller plane in side view pulling a long rectangular banner on a line behind it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "aerial-refueling",
+  "category": "craft",
+  "draw": "Tanker plane seen from the side with a long boom trailing back and down to a smaller jet flying close behind it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "radar-aircraft",
+  "category": "craft",
+  "draw": "Side view of an airliner-shaped plane with a large flat disc radar dome mounted on struts above the rear fuselage.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "solar-powered-aircraft",
+  "category": "craft",
+  "draw": "Top view of a slender aircraft with extremely long straight wings covered in a grid of solar cells and several small propellers.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "ground-effect-vehicle",
+  "category": "craft",
+  "draw": "Side view of a big boat-like aircraft with short stubby wings skimming just above the waves, with spray behind it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "ornithopter",
+  "category": "craft",
+  "draw": "Side view of a wooden flying machine with large bat-like flapping wings of ribs and fabric around a seated pilot.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "air-show",
+  "category": "craft",
+  "draw": "Small jet trailing a smoke trail that curls into a full loop behind it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "contrail",
+  "category": "craft",
+  "draw": "Airliner high in the sky seen from below with two long parallel vapor trails streaming from its engines.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "sonic-boom",
+  "category": "craft",
+  "draw": "Jet in side view piercing a cone-shaped shock wave drawn as nested curved arcs around its nose.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "air-turbulence",
+  "category": "craft",
+  "draw": "Airliner in side view tilted slightly over a series of wavy bumpy air lines beneath it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "aircraft-propeller",
+  "category": "craft",
+  "draw": "Front view of a three-blade airplane propeller with long twisted blades around a pointed spinner hub.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "landing-gear",
+  "category": "craft",
+  "draw": "Side view of an aircraft wheel strut with a hinged shock absorber leg and two wheels side by side.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "aircraft-tail",
+  "category": "craft",
+  "draw": "Side view of an airliner tail: a tall swept vertical fin with a rudder line and a horizontal stabilizer at its base.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "control-yoke",
+  "category": "craft",
+  "draw": "Airplane control yoke seen from the pilot seat: a ram-horn shaped wheel with two grips on a column.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "aircraft-throttle",
+  "category": "craft",
+  "draw": "Cockpit throttle quadrant with two parallel levers with knobs pushed forward in curved slots.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "attitude-indicator",
+  "category": "craft",
+  "draw": "Round cockpit gauge showing an artificial horizon split into sky and ground halves, with a fixed wings symbol in the center.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "flight-recorder",
+  "category": "craft",
+  "draw": "Rectangular crash-proof box with rounded edges and stripes, a cylindrical memory module and a carrying handle on top.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "ejection-seat",
+  "category": "craft",
+  "draw": "Cockpit seat shooting upward on a rocket flame with a small drogue parachute trailing above it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "pilot-helmet",
+  "category": "craft",
+  "draw": "Side view of a jet pilot helmet with a tinted visor pulled down and an oxygen mask with a hose at the front.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "aircraft-window",
+  "category": "craft",
+  "draw": "Rounded oval airplane cabin window with a pull-down shade half lowered and a cloud visible outside.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "airplane-seat",
+  "category": "craft",
+  "draw": "Side view of a reclining airline seat with a headrest, armrest and a fold-down tray table on the seat back.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "overhead-bin",
+  "category": "craft",
+  "draw": "Airplane overhead luggage compartment with its curved door swung open and a small bag inside.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "airline-trolley",
+  "category": "craft",
+  "draw": "Narrow tall airline service cart on small wheels with stacked drawers and a bottle and cups on top.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "airsickness-bag",
+  "category": "craft",
+  "draw": "Paper sick bag with a folded top and a small printed wavy face symbol on the front.",
+  "domain": "rail-air-sea-space-craft"
+ }
+]

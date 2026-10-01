@@ -1,0 +1,482 @@
+[
+ {
+  "name": "pipe-manifold",
+  "category": "industry",
+  "draw": "Horizontal header pipe with four short branch pipes below, each with a small valve handle.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "oil-pipeline",
+  "category": "industry",
+  "draw": "Long raised pipe on H-shaped supports running across the ground into the distance.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "venturi-tube",
+  "category": "industry",
+  "draw": "Tube that narrows in the middle, with two small upright gauge tubes showing different liquid heights.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "spherical-storage-tank",
+  "category": "industry",
+  "draw": "Large sphere tank on a ring of straight legs with a stair spiraling up its side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "oil-drum",
+  "category": "industry",
+  "draw": "Steel drum standing upright with two raised rings around its middle and a small bung on the lid.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "ibc-tote",
+  "category": "industry",
+  "draw": "Cube plastic tank inside a metal grid cage on a pallet, with a valve at the bottom front.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "bulk-bag",
+  "category": "industry",
+  "draw": "Large square woven sack with a lifting loop at each top corner.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "air-cargo-container",
+  "category": "industry",
+  "draw": "Aircraft cargo container with one slanted top corner and a curtain door on the front.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "rail-tank-car",
+  "category": "industry",
+  "draw": "Railway wagon carrying a long cylindrical tank with a dome on top, on two wheel bogies.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "hopper-wagon",
+  "category": "industry",
+  "draw": "Open railway wagon with sloping ends narrowing to chutes underneath, on two wheel bogies.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "radioactive-waste-drum",
+  "category": "industry",
+  "draw": "Steel drum with a radiation trefoil symbol on its side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "robotic-arm",
+  "category": "industry",
+  "draw": "Industrial arm on a round base with two jointed segments and a claw gripper at the end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "robotic-gripper",
+  "category": "industry",
+  "draw": "Two-finger parallel gripper closing on a small cube.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "vacuum-gripper",
+  "category": "industry",
+  "draw": "Robot wrist with a row of suction cups lifting a flat box.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "robotic-hand",
+  "category": "industry",
+  "draw": "Mechanical hand with jointed segmented fingers and visible pivot dots at each knuckle.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "scara-robot",
+  "category": "industry",
+  "draw": "Short column with two horizontal arm links hinged end to end and a vertical spindle at the tip.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "delta-robot",
+  "category": "industry",
+  "draw": "Triangular top plate with three thin parallelogram arms coming down to a small tool plate.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "automated-guided-vehicle",
+  "category": "industry",
+  "draw": "Low flat robot cart on small wheels carrying a box, with a sensor window on the front.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "delivery-robot",
+  "category": "industry",
+  "draw": "Small six-wheeled box robot with a lid and a thin flag antenna.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "robot-dog",
+  "category": "industry",
+  "draw": "Four-legged robot with a boxy body, a sensor head and jointed legs bent backward.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "teach-pendant",
+  "category": "industry",
+  "draw": "Handheld robot controller with a screen, a grid of keys and an emergency stop button on the top corner.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "programmable-logic-controller",
+  "category": "industry",
+  "draw": "Rail-mounted module block with rows of screw terminals on top and bottom and a column of status lights.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "proximity-sensor",
+  "category": "industry",
+  "draw": "Threaded cylindrical sensor with two lock nuts, a cable out the back and waves in front of its face.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "limit-switch",
+  "category": "industry",
+  "draw": "Small box switch with a pivoting lever arm and a roller wheel at its end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "emergency-stop-button",
+  "category": "industry",
+  "draw": "Large mushroom-head push button on a round plate, seen at an angle.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "start-stop-buttons",
+  "category": "industry",
+  "draw": "Small control box with two round push buttons stacked vertically, one marked I and one marked O.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "safety-light-curtain",
+  "category": "industry",
+  "draw": "Two vertical posts facing each other with many horizontal beams drawn between them.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "rfid-tag",
+  "category": "industry",
+  "draw": "Thin card with a coiled rectangular antenna and a tiny chip in the middle.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "offshore-wind-turbine",
+  "category": "industry",
+  "draw": "Three-blade wind turbine on a tall tower rising out of wavy water lines.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "vertical-axis-wind-turbine",
+  "category": "industry",
+  "draw": "Tall mast with curved blades bowing out and joined at top and bottom like an eggbeater.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "solar-power-tower",
+  "category": "industry",
+  "draw": "Tall tower with a glowing receiver on top and a row of mirror panels on the ground tilted toward it.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "pelton-wheel",
+  "category": "industry",
+  "draw": "Wheel with double cup buckets around its rim and a straight water jet hitting one bucket.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "tidal-turbine",
+  "category": "industry",
+  "draw": "Two-blade turbine on a pillar standing on the seabed with wave lines above it.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "geothermal-plant",
+  "category": "industry",
+  "draw": "Low plant building with steam plumes rising from vents and pipes going down into the ground toward heat.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "nuclear-reactor",
+  "category": "industry",
+  "draw": "Domed containment building with a small radiation trefoil symbol on its front.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "nuclear-fuel-rods",
+  "category": "industry",
+  "draw": "Bundle of long thin rods held together by two horizontal grid spacers.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "tokamak",
+  "category": "industry",
+  "draw": "Donut-shaped fusion chamber seen at an angle, wrapped in evenly spaced coil rings.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "hydrogen-fuel-cell",
+  "category": "industry",
+  "draw": "Stack of thin plates between two thick end plates, with H2 entering one side and a water drop leaving the other.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "hydrogen-tank",
+  "category": "industry",
+  "draw": "Tall capsule-shaped pressure tank with a valve on top and H2 lettered on its side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "grid-battery-storage",
+  "category": "industry",
+  "draw": "Container-sized box with a vent grille on one end and a large battery symbol on its side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "biofuel",
+  "category": "industry",
+  "draw": "Oil drop with a small leaf growing from its side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "power-transformer",
+  "category": "industry",
+  "draw": "Utility transformer box with cooling fins down both sides and three insulator bushings sticking up from the top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "electrical-substation",
+  "category": "industry",
+  "draw": "Fenced yard with two lattice frames, a transformer box between them and wires strung overhead.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "ceramic-insulator",
+  "category": "industry",
+  "draw": "Vertical stack of ribbed disc insulators hanging from a bracket with a wire clamp at the bottom.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "knife-switch",
+  "category": "industry",
+  "draw": "Hinged metal blade lever on an insulating base, swinging down into a spring clip.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "three-phase-plug",
+  "category": "industry",
+  "draw": "Round industrial plug with a thick collar and five pins arranged in a circle on its face.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "tesla-coil",
+  "category": "industry",
+  "draw": "Tall coil tower topped by a donut ring with jagged lightning bolts arcing out.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "geiger-counter",
+  "category": "industry",
+  "draw": "Handheld box with a dial meter and a wand probe connected by a coiled cable.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "thermocouple",
+  "category": "industry",
+  "draw": "Thin probe with two wires twisted together at the tip and a flat two-pin plug at the other end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "mine-headframe",
+  "category": "industry",
+  "draw": "Tall A-frame steel tower with two large wheels on top over a vertical shaft opening.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "miner-safety-lamp",
+  "category": "industry",
+  "draw": "Old flame safety lamp with a mesh cylinder chimney, a brass base and a ring hook on top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "sluice-box",
+  "category": "industry",
+  "draw": "Long sloping trough with riffle bars across its bottom and water running down it.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "bucket-wheel-excavator",
+  "category": "industry",
+  "draw": "Long boom on a crawler base with a large wheel of buckets turning at the far end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "metal-ingot",
+  "category": "industry",
+  "draw": "Stack of three trapezoid metal bars, two on the bottom and one on top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "pump-jack",
+  "category": "industry",
+  "draw": "Nodding oil pump: walking beam on an A-frame with a curved horse head at one end and a counterweight crank at the other.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "offshore-oil-platform",
+  "category": "industry",
+  "draw": "Platform deck on tall legs standing in water with a derrick on top and a flare boom sticking out.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "wellhead",
+  "category": "industry",
+  "draw": "Christmas tree: stack of valves on a pipe from the ground, with handwheels branching off to both sides.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "tricone-drill-bit",
+  "category": "industry",
+  "draw": "Drill bit with three toothed cones clustered at the bottom of a threaded shank.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "roll-cage",
+  "category": "industry",
+  "draw": "Tall wire mesh cage cart on four casters with shelves and open sides.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "stacking-bin",
+  "category": "industry",
+  "draw": "Open-fronted plastic storage bin with a hand hole cut in the front lip, stacked on a second bin.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "straddle-carrier",
+  "category": "industry",
+  "draw": "Tall narrow frame on wheels straddling a shipping container lifted between its legs.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "reach-stacker",
+  "category": "industry",
+  "draw": "Heavy wheeled vehicle with a long angled boom holding a container from above at its tip.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "stretch-wrap-roll",
+  "category": "industry",
+  "draw": "Roll of clear plastic film on a core with handles at both ends, film unwinding to one side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "packing-tape-gun",
+  "category": "industry",
+  "draw": "Handheld tape dispenser with a pistol grip, a large tape roll and a serrated cutting edge.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "this-way-up",
+  "category": "industry",
+  "draw": "Packaging handling mark: two upward pointing arrows standing on a short horizontal base line.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "center-of-gravity",
+  "category": "industry",
+  "draw": "Circle divided into four quarters with opposite quarters filled.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "flow-meter",
+  "category": "industry",
+  "draw": "Short pipe section with flanges at both ends and a round dial display mounted on top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "u-tube-manometer",
+  "category": "industry",
+  "draw": "U-shaped glass tube with liquid standing at different heights in each arm and a scale behind it.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "sight-glass",
+  "category": "industry",
+  "draw": "Vertical glass tube between two small valves on a tank wall, showing a liquid level line.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "coordinate-measuring-machine",
+  "category": "industry",
+  "draw": "Granite table with a bridge frame over it and a vertical probe ending in a small ball tip.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "circular-knitting-machine",
+  "category": "industry",
+  "draw": "Round rack of thread cones held above a cylinder, with a knitted fabric tube coming out beneath.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "pick-and-place-machine",
+  "category": "industry",
+  "draw": "Circuit board on a bed with a gantry head above it holding a tiny chip on a suction nozzle.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "electric-arc-furnace",
+  "category": "industry",
+  "draw": "Round furnace vessel with a domed lid and three thick electrodes sticking down through it, sparks below.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "parabolic-trough-collector",
+  "category": "industry",
+  "draw": "Long curved mirror trough on a stand with a thin receiver pipe running along its focal line.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "wave-energy-converter",
+  "category": "industry",
+  "draw": "Chain of jointed floating tube segments riding over wave lines.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "pumped-hydro-storage",
+  "category": "industry",
+  "draw": "High reservoir and low reservoir on a hillside joined by a pipe running through a small turbine house.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "kaplan-turbine",
+  "category": "industry",
+  "draw": "Propeller-like runner with a few broad adjustable blades on the bottom of a vertical shaft.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "carbon-capture",
+  "category": "industry",
+  "draw": "Chimney with a CO2 label and an arrow going down from it through ground layers into storage below.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "electrolyzer",
+  "category": "industry",
+  "draw": "Tank of water with two electrodes, rising bubbles and two gas pipes leaving the top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "wood-pellets",
+  "category": "industry",
+  "draw": "Small heap of short cylindrical wood pellets with a few loose pellets in front.",
+  "domain": "industry-and-machinery"
+ }
+]

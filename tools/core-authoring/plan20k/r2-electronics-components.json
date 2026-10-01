@@ -1,0 +1,1302 @@
+[
+  {
+    "name": "resistor-symbol",
+    "category": "electronics",
+    "draw": "Resistor schematic symbol: a horizontal zigzag line with a straight lead on each end."
+  },
+  {
+    "name": "potentiometer-symbol",
+    "category": "electronics",
+    "draw": "Horizontal zigzag resistor with a third lead ending in an arrowhead pointing at its middle from above."
+  },
+  {
+    "name": "capacitor-symbol",
+    "category": "electronics",
+    "draw": "Capacitor schematic symbol: two short parallel vertical plates with a lead on each side."
+  },
+  {
+    "name": "variable-capacitor-symbol",
+    "category": "electronics",
+    "draw": "Two parallel capacitor plates with a diagonal arrow drawn through them."
+  },
+  {
+    "name": "inductor-symbol",
+    "category": "electronics",
+    "draw": "Inductor schematic symbol: a row of four humps along a line with a lead on each end."
+  },
+  {
+    "name": "iron-core-inductor-symbol",
+    "category": "electronics",
+    "draw": "Row of four inductor humps with two straight parallel lines drawn above them for the core."
+  },
+  {
+    "name": "diode-symbol",
+    "category": "electronics",
+    "draw": "Diode schematic symbol: a filled triangle pointing at a vertical bar on a horizontal line."
+  },
+  {
+    "name": "led-symbol",
+    "category": "electronics",
+    "draw": "Diode triangle and bar on a line with two small arrows pointing outward from it."
+  },
+  {
+    "name": "schottky-diode-symbol",
+    "category": "electronics",
+    "draw": "Diode triangle pointing at a bar whose ends are bent into small S hooks."
+  },
+  {
+    "name": "tunnel-diode-symbol",
+    "category": "electronics",
+    "draw": "Diode triangle pointing at a bar with short right angle flags at both ends forming a bracket."
+  },
+  {
+    "name": "varactor-diode-symbol",
+    "category": "electronics",
+    "draw": "Diode triangle and bar followed immediately by a second parallel bar like a capacitor plate."
+  },
+  {
+    "name": "tvs-diode-symbol",
+    "category": "electronics",
+    "draw": "Two diode triangles pointing at each other from both sides of a single bar with bent tips."
+  },
+  {
+    "name": "bridge-rectifier-symbol",
+    "category": "electronics",
+    "draw": "Diamond made of four small diode triangles with leads at all four corners."
+  },
+  {
+    "name": "npn-transistor-symbol",
+    "category": "electronics",
+    "draw": "Circle with a vertical base bar, two diagonal legs, and an arrow on the lower leg pointing out."
+  },
+  {
+    "name": "pnp-transistor-symbol",
+    "category": "electronics",
+    "draw": "Circle with a vertical base bar, two diagonal legs, and an arrow on the lower leg pointing in toward the bar."
+  },
+  {
+    "name": "mosfet-symbol",
+    "category": "electronics",
+    "draw": "Gate line beside a broken three segment channel bar with source and drain leads and a small arrow, all in a circle."
+  },
+  {
+    "name": "jfet-symbol",
+    "category": "electronics",
+    "draw": "Circle with a vertical channel bar, a gate lead with an arrow meeting it from the side and leads off the top and bottom."
+  },
+  {
+    "name": "igbt-symbol",
+    "category": "electronics",
+    "draw": "Transistor symbol with a separate gate line parallel to the base bar and an arrow on the emitter leg."
+  },
+  {
+    "name": "thyristor-symbol",
+    "category": "electronics",
+    "draw": "Diode triangle and bar with a short gate lead angled off the bar end."
+  },
+  {
+    "name": "triac-symbol",
+    "category": "electronics",
+    "draw": "Two opposing diode triangles stacked between two bars with a gate lead off one corner."
+  },
+  {
+    "name": "diac-symbol",
+    "category": "electronics",
+    "draw": "Two opposing diode triangles stacked between two parallel bars without a gate lead."
+  },
+  {
+    "name": "phototransistor-symbol",
+    "category": "electronics",
+    "draw": "Transistor symbol in a circle with two small arrows pointing inward at the base."
+  },
+  {
+    "name": "optocoupler-symbol",
+    "category": "electronics",
+    "draw": "Rectangle containing an LED symbol on the left and a phototransistor on the right with arrows between them."
+  },
+  {
+    "name": "photoresistor-symbol",
+    "category": "electronics",
+    "draw": "Resistor rectangle inside a circle with two arrows pointing at it from above."
+  },
+  {
+    "name": "varistor-symbol",
+    "category": "electronics",
+    "draw": "Resistor rectangle with a diagonal line through it bent into a short flat tail at the bottom."
+  },
+  {
+    "name": "spdt-switch-symbol",
+    "category": "electronics",
+    "draw": "Single pivot dot with a hinged lever touching one of two contact dots, the other left open."
+  },
+  {
+    "name": "dpdt-switch-symbol",
+    "category": "electronics",
+    "draw": "Two stacked changeover switches joined by a dashed line between their levers."
+  },
+  {
+    "name": "reed-switch-symbol",
+    "category": "electronics",
+    "draw": "Two overlapping switch contacts drawn inside an elongated capsule outline."
+  },
+  {
+    "name": "relay-coil-symbol",
+    "category": "electronics",
+    "draw": "Rectangle coil box linked by a dashed line to a switch contact beside it."
+  },
+  {
+    "name": "circuit-breaker-symbol",
+    "category": "electronics",
+    "draw": "Switch lever lifted off a contact with a small curved hook arc drawn above the gap."
+  },
+  {
+    "name": "speaker-symbol",
+    "category": "electronics",
+    "draw": "Loudspeaker schematic: a small rectangle attached to a flared trapezoid cone with two leads."
+  },
+  {
+    "name": "microphone-symbol",
+    "category": "electronics",
+    "draw": "Microphone schematic: a circle with a short straight bar along one side and two leads."
+  },
+  {
+    "name": "antenna-symbol",
+    "category": "electronics",
+    "draw": "Antenna schematic: a vertical lead ending in an upside down triangle made of three lines."
+  },
+  {
+    "name": "ammeter-symbol",
+    "category": "electronics",
+    "draw": "Circle with a capital A inside and a lead on each side."
+  },
+  {
+    "name": "voltmeter-symbol",
+    "category": "electronics",
+    "draw": "Circle with a capital V inside and a lead on each side."
+  },
+  {
+    "name": "signal-ground-symbol",
+    "category": "electronics",
+    "draw": "Signal ground: a vertical lead ending in a small solid downward pointing triangle."
+  },
+  {
+    "name": "xnor-gate",
+    "category": "electronics",
+    "draw": "OR gate shape with a double curved back line and a small bubble on the output tip."
+  },
+  {
+    "name": "buffer-gate",
+    "category": "electronics",
+    "draw": "Logic buffer: a plain triangle pointing right with one input line and one output line."
+  },
+  {
+    "name": "schmitt-trigger-symbol",
+    "category": "electronics",
+    "draw": "Triangle buffer with a small square hysteresis loop drawn inside."
+  },
+  {
+    "name": "tri-state-buffer-symbol",
+    "category": "electronics",
+    "draw": "Buffer triangle with an extra enable line entering from the top edge."
+  },
+  {
+    "name": "d-flip-flop",
+    "category": "electronics",
+    "draw": "Rectangle block with D and clock inputs on the left, a small clock wedge, and Q outputs on the right."
+  },
+  {
+    "name": "multiplexer-symbol",
+    "category": "electronics",
+    "draw": "Trapezoid block wider on the left with several input lines and one output line on the right."
+  },
+  {
+    "name": "comparator-symbol",
+    "category": "electronics",
+    "draw": "Triangle with plus and minus inputs and a small step waveform drawn in its body."
+  },
+  {
+    "name": "adc-converter",
+    "category": "electronics",
+    "draw": "Rectangle split by a diagonal line with a sine wave in one half and a stepped staircase in the other."
+  },
+  {
+    "name": "voltage-regulator-symbol",
+    "category": "electronics",
+    "draw": "Rectangle block labelled IN and OUT with a ground lead coming down from the bottom."
+  },
+  {
+    "name": "wire-junction-symbol",
+    "category": "electronics",
+    "draw": "Two lines crossing at right angles with a solid dot at the junction."
+  },
+  {
+    "name": "test-point-symbol",
+    "category": "electronics",
+    "draw": "Short lead ending in a small open circle marking a test point."
+  },
+  {
+    "name": "thermocouple-symbol",
+    "category": "electronics",
+    "draw": "Two lines of different weight meeting in a V with a dot at the junction and small plus and minus marks."
+  },
+  {
+    "name": "spark-gap-symbol",
+    "category": "electronics",
+    "draw": "Two leads ending in arrow points facing each other across a small gap."
+  },
+  {
+    "name": "neon-lamp-symbol",
+    "category": "electronics",
+    "draw": "Circle containing two short parallel electrodes and a small dot for the gas."
+  },
+  {
+    "name": "crystal-symbol",
+    "category": "electronics",
+    "draw": "Crystal schematic: a small rectangle between two parallel plates with a lead on each side."
+  },
+  {
+    "name": "transformer-symbol",
+    "category": "electronics",
+    "draw": "Two facing coils of humps with two parallel core lines drawn between them."
+  },
+  {
+    "name": "hall-sensor-symbol",
+    "category": "electronics",
+    "draw": "Rectangle with an X drawn through it and a lead on each of its four sides."
+  },
+  {
+    "name": "three-phase-symbol",
+    "category": "electronics",
+    "draw": "Three sine waves offset from each other along one horizontal line."
+  },
+  {
+    "name": "pwm-signal",
+    "category": "electronics",
+    "draw": "Pulse train with flat topped pulses of changing width above a baseline."
+  },
+  {
+    "name": "signal-noise",
+    "category": "electronics",
+    "draw": "Horizontal line with a jagged random spiky trace running along it."
+  },
+  {
+    "name": "am-modulation",
+    "category": "electronics",
+    "draw": "Fast sine wave whose peaks swell and shrink inside a slow wavy outline envelope."
+  },
+  {
+    "name": "fm-modulation",
+    "category": "electronics",
+    "draw": "Sine wave of constant height whose waves bunch tightly in the middle and spread out at the ends."
+  },
+  {
+    "name": "smd-resistor",
+    "category": "electronics",
+    "draw": "Tiny flat rectangular chip with metal caps on both ends and a three digit code on top."
+  },
+  {
+    "name": "resistor-network",
+    "category": "electronics",
+    "draw": "Flat single row package with a row of pins along its bottom edge and a dot at pin one."
+  },
+  {
+    "name": "ceramic-disc-capacitor",
+    "category": "electronics",
+    "draw": "Flat round disc with two thin legs coming out of the bottom."
+  },
+  {
+    "name": "film-capacitor",
+    "category": "electronics",
+    "draw": "Rectangular boxy block with rounded corners and two legs from its underside."
+  },
+  {
+    "name": "tantalum-capacitor",
+    "category": "electronics",
+    "draw": "Small teardrop shaped bead with a plus mark and two legs."
+  },
+  {
+    "name": "supercapacitor",
+    "category": "electronics",
+    "draw": "Wide squat coin shaped cylinder with two legs and a large plus sign."
+  },
+  {
+    "name": "trimmer-potentiometer",
+    "category": "electronics",
+    "draw": "Small square block with a round slotted screw adjuster on top and three pins below."
+  },
+  {
+    "name": "slide-potentiometer",
+    "category": "electronics",
+    "draw": "Long narrow track with a rectangular slider knob sitting midway along it."
+  },
+  {
+    "name": "rotary-switch",
+    "category": "electronics",
+    "draw": "Round switch body with a pointed knob and a ring of numbered position dots."
+  },
+  {
+    "name": "dip-switch",
+    "category": "electronics",
+    "draw": "Small rectangle with a row of tiny slide toggles, some up and some down."
+  },
+  {
+    "name": "tactile-switch",
+    "category": "electronics",
+    "draw": "Small square base with four legs and a round button on top."
+  },
+  {
+    "name": "slide-switch",
+    "category": "electronics",
+    "draw": "Small box with a short sliding nub in a slot and three pins below."
+  },
+  {
+    "name": "reed-switch",
+    "category": "electronics",
+    "draw": "Glass capsule with two thin metal reeds overlapping in the middle and leads out each end."
+  },
+  {
+    "name": "tilt-switch",
+    "category": "electronics",
+    "draw": "Small cylinder with a metal ball resting at one end inside and two leads."
+  },
+  {
+    "name": "selector-switch",
+    "category": "electronics",
+    "draw": "Round panel switch with a bar shaped handle across its face and two position marks."
+  },
+  {
+    "name": "panel-indicator-light",
+    "category": "electronics",
+    "draw": "Round panel indicator lamp with a domed lens on a short threaded bezel."
+  },
+  {
+    "name": "dip-chip",
+    "category": "electronics",
+    "draw": "Rectangular chip seen from above with a notch at one end and a row of legs on both long sides."
+  },
+  {
+    "name": "soic-chip",
+    "category": "electronics",
+    "draw": "Small low chip with short gull wing legs bent outward along two sides."
+  },
+  {
+    "name": "qfp-chip",
+    "category": "electronics",
+    "draw": "Square flat chip with fine legs along all four sides and a dot in one corner."
+  },
+  {
+    "name": "bga-chip",
+    "category": "electronics",
+    "draw": "Square chip seen from below with a grid of small round solder balls."
+  },
+  {
+    "name": "metal-can-transistor",
+    "category": "electronics",
+    "draw": "Short round metal can with a small tab on its rim and three legs underneath."
+  },
+  {
+    "name": "ic-socket",
+    "category": "electronics",
+    "draw": "Rectangular open frame socket with rows of holes along both long sides."
+  },
+  {
+    "name": "zif-socket",
+    "category": "electronics",
+    "draw": "Chip socket with a grid of holes and a side lever arm raised to release."
+  },
+  {
+    "name": "toroidal-inductor",
+    "category": "electronics",
+    "draw": "Ring shaped core with copper wire wound around it and two leads."
+  },
+  {
+    "name": "ferrite-bead",
+    "category": "electronics",
+    "draw": "Short thick tube bead threaded on a wire."
+  },
+  {
+    "name": "ferrite-choke",
+    "category": "electronics",
+    "draw": "Clip on cylinder split in two halves clamped around a cable."
+  },
+  {
+    "name": "seven-segment-display",
+    "category": "electronics",
+    "draw": "Rectangle showing a figure eight made of seven bar segments and a decimal dot."
+  },
+  {
+    "name": "led-matrix",
+    "category": "electronics",
+    "draw": "Square board filled with an eight by eight grid of round dots."
+  },
+  {
+    "name": "character-lcd",
+    "category": "electronics",
+    "draw": "Wide rectangular module with a screen of two text rows and a row of pins along the top."
+  },
+  {
+    "name": "oled-display-module",
+    "category": "electronics",
+    "draw": "Small board with a square black screen and four pins along its top edge."
+  },
+  {
+    "name": "e-paper-display",
+    "category": "electronics",
+    "draw": "Thin panel showing crisp text lines with a flat ribbon tail at the bottom."
+  },
+  {
+    "name": "led-bar-graph",
+    "category": "electronics",
+    "draw": "Rectangle with ten thin vertical bars side by side, some filled."
+  },
+  {
+    "name": "rgb-led",
+    "category": "electronics",
+    "draw": "LED dome with four legs of different lengths."
+  },
+  {
+    "name": "addressable-led-ring",
+    "category": "electronics",
+    "draw": "Ring of small square LED chips arranged in a circle on a thin board."
+  },
+  {
+    "name": "laser-diode-module",
+    "category": "electronics",
+    "draw": "Small brass cylinder with a lens at one end, two wires at the other and a beam line."
+  },
+  {
+    "name": "photoresistor",
+    "category": "electronics",
+    "draw": "Small round disc with a squiggly track across its face and two legs."
+  },
+  {
+    "name": "nixie-tube",
+    "category": "electronics",
+    "draw": "Tall glass tube with a glowing stacked numeral inside and pins at the base."
+  },
+  {
+    "name": "piezo-disc",
+    "category": "electronics",
+    "draw": "Round thin metal disc with a smaller inner disc and two wires attached."
+  },
+  {
+    "name": "piezo-buzzer",
+    "category": "electronics",
+    "draw": "Short cylinder with a small hole in the top center and two legs."
+  },
+  {
+    "name": "electret-microphone",
+    "category": "electronics",
+    "draw": "Small round capsule with a felt mesh face and two pins behind."
+  },
+  {
+    "name": "vibration-motor",
+    "category": "electronics",
+    "draw": "Flat coin shaped motor with two thin wires trailing out."
+  },
+  {
+    "name": "gear-motor",
+    "category": "electronics",
+    "draw": "Small cylindrical motor attached to a rectangular gearbox with a shaft out the side."
+  },
+  {
+    "name": "linear-actuator",
+    "category": "electronics",
+    "draw": "Long cylinder with a motor housing at one end and a rod extending from the other."
+  },
+  {
+    "name": "peltier-module",
+    "category": "electronics",
+    "draw": "Flat square ceramic tile with two wires leaving one edge."
+  },
+  {
+    "name": "case-fan",
+    "category": "electronics",
+    "draw": "Square frame with screw holes in the corners, a round hub and curved blades."
+  },
+  {
+    "name": "solid-state-relay",
+    "category": "electronics",
+    "draw": "Rectangular block with four screw terminals on its face and a small indicator light."
+  },
+  {
+    "name": "contactor",
+    "category": "electronics",
+    "draw": "Boxy block with a row of screw terminals along the top and bottom and a central window."
+  },
+  {
+    "name": "toroidal-transformer",
+    "category": "electronics",
+    "draw": "Thick donut coil with a bolt through the middle and wires coming out."
+  },
+  {
+    "name": "resettable-fuse",
+    "category": "electronics",
+    "draw": "Flat disc on two legs like a small lollipop."
+  },
+  {
+    "name": "fuse-holder",
+    "category": "electronics",
+    "draw": "Rectangular panel holder with a round screw cap on top and two solder tags underneath."
+  },
+  {
+    "name": "lipo-battery",
+    "category": "electronics",
+    "draw": "Flat rectangular pouch cell with two wires and a small plug at one end."
+  },
+  {
+    "name": "battery-holder",
+    "category": "electronics",
+    "draw": "Open plastic tray holding two cylindrical cells side by side with wires out the end."
+  },
+  {
+    "name": "coin-cell-holder",
+    "category": "electronics",
+    "draw": "Round holder with a coin cell half visible and a metal clip across it."
+  },
+  {
+    "name": "battery-snap",
+    "category": "electronics",
+    "draw": "Two snap fasteners on a small cap with two wires trailing off."
+  },
+  {
+    "name": "battery-tester",
+    "category": "electronics",
+    "draw": "Small meter with a needle dial and a sliding clamp for holding a cell."
+  },
+  {
+    "name": "buck-converter",
+    "category": "electronics",
+    "draw": "Small square board with a round coil, a chip and screw terminals at each end."
+  },
+  {
+    "name": "voltage-regulator",
+    "category": "electronics",
+    "draw": "Three legged component with a metal tab punched with a hole and a voltage label on its body."
+  },
+  {
+    "name": "bridge-rectifier",
+    "category": "electronics",
+    "draw": "Square flat block with four legs and a tilde, plus and minus marks on top."
+  },
+  {
+    "name": "capacitor-bank",
+    "category": "electronics",
+    "draw": "Row of three tall cylindrical capacitors joined by a bus bar across the tops."
+  },
+  {
+    "name": "busbar",
+    "category": "electronics",
+    "draw": "Flat metal bar with a row of evenly spaced bolt holes."
+  },
+  {
+    "name": "din-rail",
+    "category": "electronics",
+    "draw": "Short length of top hat metal rail with slotted mounting holes."
+  },
+  {
+    "name": "slip-ring",
+    "category": "electronics",
+    "draw": "Cylinder with stacked rings and a bundle of wires out each end."
+  },
+  {
+    "name": "magnetron",
+    "category": "electronics",
+    "draw": "Round finned body with a magnet ring and a short antenna post on top."
+  },
+  {
+    "name": "rheostat",
+    "category": "electronics",
+    "draw": "Cylinder of wound wire with a sliding contact on a bar above it."
+  },
+  {
+    "name": "decade-resistance-box",
+    "category": "electronics",
+    "draw": "Box lid with a row of round dials and two terminals."
+  },
+  {
+    "name": "variac",
+    "category": "electronics",
+    "draw": "Round box with a large dial knob on top marked with a scale and a pointer."
+  },
+  {
+    "name": "heating-cartridge",
+    "category": "electronics",
+    "draw": "Short metal rod with two wires coming out one end."
+  },
+  {
+    "name": "tube-socket",
+    "category": "electronics",
+    "draw": "Round socket with a ring of pin holes and a central key hole."
+  },
+  {
+    "name": "shield-can",
+    "category": "electronics",
+    "draw": "Small rectangular metal box with vent holes soldered onto a circuit board."
+  },
+  {
+    "name": "slot-optical-sensor",
+    "category": "electronics",
+    "draw": "U shaped block with a slot between two upright arms and legs underneath."
+  },
+  {
+    "name": "female-header",
+    "category": "electronics",
+    "draw": "Row of small square sockets on a black plastic strip."
+  },
+  {
+    "name": "jumper-cap",
+    "category": "electronics",
+    "draw": "Tiny rectangular cap bridging two header pins."
+  },
+  {
+    "name": "wire-to-board-connector",
+    "category": "electronics",
+    "draw": "Small keyed plastic plug with a row of wires entering the back."
+  },
+  {
+    "name": "lever-wire-connector",
+    "category": "electronics",
+    "draw": "Clear block with three lever tabs raised and wires inserted."
+  },
+  {
+    "name": "banana-plug",
+    "category": "electronics",
+    "draw": "Plug with a round grip body and a slotted spring pin tip."
+  },
+  {
+    "name": "bnc-connector",
+    "category": "electronics",
+    "draw": "Round metal plug with a bayonet collar and a slot along its side."
+  },
+  {
+    "name": "sma-connector",
+    "category": "electronics",
+    "draw": "Small threaded hex nut connector with a center pin."
+  },
+  {
+    "name": "test-hook-clip",
+    "category": "electronics",
+    "draw": "Pen shaped grabber with a thin hook extending from its tip."
+  },
+  {
+    "name": "spade-terminal",
+    "category": "electronics",
+    "draw": "Crimp terminal with a fork shaped tip and a round barrel."
+  },
+  {
+    "name": "butt-splice-connector",
+    "category": "electronics",
+    "draw": "Short tube with two wires entering from opposite ends."
+  },
+  {
+    "name": "bullet-connector",
+    "category": "electronics",
+    "draw": "Pair of round pin and sleeve crimp connectors about to join."
+  },
+  {
+    "name": "circular-connector",
+    "category": "electronics",
+    "draw": "Round connector face with several pins in a circle and a threaded coupling ring."
+  },
+  {
+    "name": "pogo-pin",
+    "category": "electronics",
+    "draw": "Thin spring loaded pin with a barrel and a pointed plunger."
+  },
+  {
+    "name": "micro-usb-connector",
+    "category": "electronics",
+    "draw": "Small trapezoid plug with a narrow slot and a short cable."
+  },
+  {
+    "name": "usb-type-b-connector",
+    "category": "electronics",
+    "draw": "Square plug with beveled top corners and a cable."
+  },
+  {
+    "name": "usb-type-a-connector",
+    "category": "electronics",
+    "draw": "Flat rectangular plug with a tongue inside and a cable."
+  },
+  {
+    "name": "fiber-optic-connector",
+    "category": "electronics",
+    "draw": "Square plug with a thin ferrule tip and a cable."
+  },
+  {
+    "name": "keystone-jack",
+    "category": "electronics",
+    "draw": "Small snap in jack module with a square port on its face and wire slots on top."
+  },
+  {
+    "name": "pcie-slot",
+    "category": "electronics",
+    "draw": "Long narrow slot on a board with a short and a long section and a latch at the end."
+  },
+  {
+    "name": "dimm-slot",
+    "category": "electronics",
+    "draw": "Long thin slot with clips at both ends on a board."
+  },
+  {
+    "name": "twisted-pair-cable",
+    "category": "electronics",
+    "draw": "Two wires twisted around each other in a regular helix."
+  },
+  {
+    "name": "coiled-cable",
+    "category": "electronics",
+    "draw": "Cable wound into a tight spring coil between two plugs."
+  },
+  {
+    "name": "y-splitter-cable",
+    "category": "electronics",
+    "draw": "Cable with one plug that splits into two branches each ending in a plug."
+  },
+  {
+    "name": "heat-shrink-tubing",
+    "category": "electronics",
+    "draw": "Short tube slipped over a wire joint with wavy heat lines above it."
+  },
+  {
+    "name": "braided-cable-sleeve",
+    "category": "electronics",
+    "draw": "Tube with a woven crosshatch pattern covering a bundle of wires."
+  },
+  {
+    "name": "cable-ferrule",
+    "category": "electronics",
+    "draw": "Small metal tube with a plastic collar crimped onto a wire end."
+  },
+  {
+    "name": "cable-harness",
+    "category": "electronics",
+    "draw": "Bundle of wires tied together branching out to several connectors."
+  },
+  {
+    "name": "cable-comb",
+    "category": "electronics",
+    "draw": "Flat plate with a grid of holes that wires pass through to keep them straight."
+  },
+  {
+    "name": "wire-marker",
+    "category": "electronics",
+    "draw": "Small printed sleeve with a number slipped over a wire."
+  },
+  {
+    "name": "ground-strap",
+    "category": "electronics",
+    "draw": "Flat braided strap with ring terminals at both ends."
+  },
+  {
+    "name": "grounding-clamp",
+    "category": "electronics",
+    "draw": "Metal clamp around a pipe with a wire attached to its bolt."
+  },
+  {
+    "name": "cable-tester",
+    "category": "electronics",
+    "draw": "Two small boxes each with a jack and a row of numbered lights."
+  },
+  {
+    "name": "tone-generator-probe",
+    "category": "electronics",
+    "draw": "Pen shaped probe with a pointed tip and sound waves coming from it."
+  },
+  {
+    "name": "wire-gauge",
+    "category": "electronics",
+    "draw": "Round metal disc with numbered slots cut around its edge."
+  },
+  {
+    "name": "punchdown-tool",
+    "category": "electronics",
+    "draw": "Pen shaped handle with a narrow blade tip pressing a wire into a slot."
+  },
+  {
+    "name": "perfboard",
+    "category": "electronics",
+    "draw": "Square board filled with a grid of small holes."
+  },
+  {
+    "name": "stripboard",
+    "category": "electronics",
+    "draw": "Board with holes along parallel copper strips and one strip cut."
+  },
+  {
+    "name": "breakout-board",
+    "category": "electronics",
+    "draw": "Small board with a single chip in the center and a row of pins along one edge."
+  },
+  {
+    "name": "development-board",
+    "category": "electronics",
+    "draw": "Long narrow board with pins down both sides and a USB port at one end."
+  },
+  {
+    "name": "fpga-chip",
+    "category": "electronics",
+    "draw": "Square chip with a grid of small cell squares printed inside and pins all around."
+  },
+  {
+    "name": "system-on-chip",
+    "category": "electronics",
+    "draw": "Square chip divided into several labeled blocks inside, with pins around the edge."
+  },
+  {
+    "name": "silicon-die",
+    "category": "electronics",
+    "draw": "Small square die with a grid of circuit patterns and bond pads around the rim."
+  },
+  {
+    "name": "pcb-panel",
+    "category": "electronics",
+    "draw": "Board divided into four identical small boards joined by break away tabs."
+  },
+  {
+    "name": "smd-reel",
+    "category": "electronics",
+    "draw": "Round plastic reel with tape of small parts wound on it and a strip trailing off."
+  },
+  {
+    "name": "reflow-oven",
+    "category": "electronics",
+    "draw": "Long conveyor oven with a board entering one end and heat waves above."
+  },
+  {
+    "name": "solder-paste-stencil",
+    "category": "electronics",
+    "draw": "Thin metal sheet with a pattern of small cutouts and a squeegee blade across it."
+  },
+  {
+    "name": "solder-paste-syringe",
+    "category": "electronics",
+    "draw": "Syringe with a bent needle tip squeezing out a small dab."
+  },
+  {
+    "name": "etching-tank",
+    "category": "electronics",
+    "draw": "Tall narrow tank of liquid with a circuit board hanging inside and bubbles rising."
+  },
+  {
+    "name": "pcb-holder",
+    "category": "electronics",
+    "draw": "Small clamp holder with two arms gripping the edges of a circuit board."
+  },
+  {
+    "name": "project-enclosure",
+    "category": "electronics",
+    "draw": "Rectangular plastic box with screw holes in its four corners and an open lid."
+  },
+  {
+    "name": "pcb-standoff",
+    "category": "electronics",
+    "draw": "Hexagonal threaded spacer with a screw at one end."
+  },
+  {
+    "name": "pcb-antenna",
+    "category": "electronics",
+    "draw": "Board corner with a meandering zigzag copper trace."
+  },
+  {
+    "name": "rf-module",
+    "category": "electronics",
+    "draw": "Small board with a metal shield can and a coiled spring antenna."
+  },
+  {
+    "name": "gps-module",
+    "category": "electronics",
+    "draw": "Small board with a square ceramic patch antenna on top."
+  },
+  {
+    "name": "infrared-receiver",
+    "category": "electronics",
+    "draw": "Small black body with a domed lens bump on its face and three legs."
+  },
+  {
+    "name": "real-time-clock-module",
+    "category": "electronics",
+    "draw": "Small board with a coin cell battery holder and a chip."
+  },
+  {
+    "name": "motor-driver-board",
+    "category": "electronics",
+    "draw": "Small board with a large finned heat sink and screw terminals on its edges."
+  },
+  {
+    "name": "relay-board",
+    "category": "electronics",
+    "draw": "Board with a row of box relays and screw terminals along one edge."
+  },
+  {
+    "name": "breadboard-power-module",
+    "category": "electronics",
+    "draw": "Small board with a barrel jack and pins that plug into a breadboard rail."
+  },
+  {
+    "name": "usb-to-serial-adapter",
+    "category": "electronics",
+    "draw": "Small board with a USB plug on one end and a row of pins on the other."
+  },
+  {
+    "name": "debug-probe",
+    "category": "electronics",
+    "draw": "Small box with a ribbon cable ending in a pin connector."
+  },
+  {
+    "name": "chip-programmer",
+    "category": "electronics",
+    "draw": "Box with a lever socket on top holding a chip and a cable."
+  },
+  {
+    "name": "el-wire",
+    "category": "electronics",
+    "draw": "Glowing thin flexible wire looped in a curve with a small battery pack."
+  },
+  {
+    "name": "humidity-sensor",
+    "category": "electronics",
+    "draw": "Small box with a grid of vents on its face and three pins."
+  },
+  {
+    "name": "gas-sensor",
+    "category": "electronics",
+    "draw": "Round sensor with a mesh dome cap on a small board."
+  },
+  {
+    "name": "pir-sensor",
+    "category": "electronics",
+    "draw": "Faceted dome sitting on a small board with three pins."
+  },
+  {
+    "name": "accelerometer",
+    "category": "electronics",
+    "draw": "Chip with three arrows labeled X, Y and Z coming from one corner."
+  },
+  {
+    "name": "magnetometer",
+    "category": "electronics",
+    "draw": "Chip with a small compass needle drawn on top."
+  },
+  {
+    "name": "hall-effect-sensor",
+    "category": "electronics",
+    "draw": "Small flat three legged sensor with a magnet beside it and field lines."
+  },
+  {
+    "name": "flex-sensor",
+    "category": "electronics",
+    "draw": "Long thin strip bent in a gentle curve with two pins at one end."
+  },
+  {
+    "name": "force-sensor",
+    "category": "electronics",
+    "draw": "Round pressure pad on a thin tail with two pins at the end."
+  },
+  {
+    "name": "load-cell",
+    "category": "electronics",
+    "draw": "Rectangular metal bar with a hole through its middle and wires out one end."
+  },
+  {
+    "name": "pressure-sensor",
+    "category": "electronics",
+    "draw": "Threaded fitting below a round sensor body with a cable out the top."
+  },
+  {
+    "name": "rain-sensor",
+    "category": "electronics",
+    "draw": "Rectangular board with two interlocking comb shaped traces and raindrops above."
+  },
+  {
+    "name": "sound-sensor",
+    "category": "electronics",
+    "draw": "Small board with a round microphone capsule and a tiny adjustment screw."
+  },
+  {
+    "name": "color-sensor",
+    "category": "electronics",
+    "draw": "Small board with a central sensor chip surrounded by four small lights."
+  },
+  {
+    "name": "image-sensor",
+    "category": "electronics",
+    "draw": "Square chip with a glass window showing a grid of pixels."
+  },
+  {
+    "name": "capacitive-touch-sensor",
+    "category": "electronics",
+    "draw": "Round pad on a small board with a fingertip touching it."
+  },
+  {
+    "name": "water-level-sensor",
+    "category": "electronics",
+    "draw": "Thin board with parallel traces and a wavy water line across its lower part."
+  },
+  {
+    "name": "flame-sensor",
+    "category": "electronics",
+    "draw": "Small board with a dark round receiver and a flame drawn beside it."
+  },
+  {
+    "name": "current-transformer",
+    "category": "electronics",
+    "draw": "Split ring clamp around a cable with two leads."
+  },
+  {
+    "name": "keypad-matrix",
+    "category": "electronics",
+    "draw": "Flat membrane pad with a four by four grid of keys and a ribbon tail."
+  },
+  {
+    "name": "spectrum-analyzer",
+    "category": "electronics",
+    "draw": "Instrument screen showing a row of sharp peaks above a baseline, with knobs beside it."
+  },
+  {
+    "name": "lcr-meter",
+    "category": "electronics",
+    "draw": "Handheld meter with a display and two clip leads, with L, C and R marks."
+  },
+  {
+    "name": "frequency-counter",
+    "category": "electronics",
+    "draw": "Box instrument with a long row of digits and a round input connector."
+  },
+  {
+    "name": "insulation-tester",
+    "category": "electronics",
+    "draw": "Handheld meter with a large dial and a lightning bolt warning mark."
+  },
+  {
+    "name": "test-leads",
+    "category": "electronics",
+    "draw": "Pair of pointed probes with wires ending in banana plugs."
+  },
+  {
+    "name": "oscilloscope-probe",
+    "category": "electronics",
+    "draw": "Slim probe body with a hook tip and a small ground clip wire."
+  },
+  {
+    "name": "logic-probe",
+    "category": "electronics",
+    "draw": "Pen shaped probe with two small indicator lights and a clip wire."
+  },
+  {
+    "name": "test-lamp",
+    "category": "electronics",
+    "draw": "Pointed metal probe with a clear handle holding a small bulb and a clip lead."
+  },
+  {
+    "name": "electronic-load",
+    "category": "electronics",
+    "draw": "Box instrument with a display, a knob and a large fan vent."
+  },
+  {
+    "name": "wattmeter",
+    "category": "electronics",
+    "draw": "Round analog meter with a needle and a W in the center."
+  },
+  {
+    "name": "esd-wrist-strap",
+    "category": "electronics",
+    "draw": "Wrist band with a coiled cord ending in a clip."
+  },
+  {
+    "name": "anti-static-bag",
+    "category": "electronics",
+    "draw": "Shiny resealable bag with a hand symbol crossed through."
+  },
+  {
+    "name": "anti-static-mat",
+    "category": "electronics",
+    "draw": "Flat work mat with a snap stud in one corner and a ground cord."
+  },
+  {
+    "name": "smith-chart",
+    "category": "electronics",
+    "draw": "Circle filled with overlapping arcs and circles tangent at the right edge."
+  },
+  {
+    "name": "bode-plot",
+    "category": "electronics",
+    "draw": "Two stacked graphs, the upper curve flat then sloping down, the lower curve dropping in an S."
+  },
+  {
+    "name": "eye-diagram",
+    "category": "electronics",
+    "draw": "Many overlapping waveform traces crossing to form an open eye shape in the middle."
+  },
+  {
+    "name": "karnaugh-map",
+    "category": "electronics",
+    "draw": "Four by four grid of zeros and ones with rounded loops grouping some cells."
+  },
+  {
+    "name": "timing-diagram",
+    "category": "electronics",
+    "draw": "Several stacked square pulse traces aligned in time with a dashed vertical marker."
+  },
+  {
+    "name": "desoldering-pump",
+    "category": "electronics",
+    "draw": "Long cylindrical plunger tool with a pointed nozzle and a push button on the side."
+  },
+  {
+    "name": "desoldering-braid",
+    "category": "electronics",
+    "draw": "Small spool with a flat braided copper strip unwinding."
+  },
+  {
+    "name": "soldering-iron-stand",
+    "category": "electronics",
+    "draw": "Spiral coil holder on a base with a sponge tray."
+  },
+  {
+    "name": "tip-cleaner",
+    "category": "electronics",
+    "draw": "Round cup filled with coiled brass wool."
+  },
+  {
+    "name": "flux-pen",
+    "category": "electronics",
+    "draw": "Marker shaped pen with a felt tip and a drop at the tip."
+  },
+  {
+    "name": "hot-air-station",
+    "category": "electronics",
+    "draw": "Box unit with a digital display and a handheld hot air wand with a nozzle."
+  },
+  {
+    "name": "soldering-gun",
+    "category": "electronics",
+    "draw": "Pistol shaped tool with a trigger and a loop shaped tip."
+  },
+  {
+    "name": "solder-joint",
+    "category": "electronics",
+    "draw": "Pad on a board with a lead coming through and a smooth cone of solder around it."
+  },
+  {
+    "name": "solder-pot",
+    "category": "electronics",
+    "draw": "Small round pot on a stand holding molten solder with heat waves above."
+  },
+  {
+    "name": "fume-extractor",
+    "category": "electronics",
+    "draw": "Small box fan unit with a filter grille and wisps of smoke being drawn in."
+  },
+  {
+    "name": "spudger",
+    "category": "electronics",
+    "draw": "Thin prying stick with a flat tip at one end and a pointed tip at the other."
+  },
+  {
+    "name": "ic-extractor",
+    "category": "electronics",
+    "draw": "U shaped spring tool with two hooked prongs gripping a chip."
+  },
+  {
+    "name": "wire-wrap-tool",
+    "category": "electronics",
+    "draw": "Pen shaped tool with a thin hollow tip wrapping wire around a square post."
+  },
+  {
+    "name": "din-rail-power-supply",
+    "category": "electronics",
+    "draw": "Narrow box clipped to a rail with vents and screw terminals."
+  },
+  {
+    "name": "solar-charge-controller",
+    "category": "electronics",
+    "draw": "Box with a small display and icons of a solar panel, battery and bulb."
+  },
+  {
+    "name": "power-distribution-unit",
+    "category": "electronics",
+    "draw": "Long rack mounted strip with a row of sockets and mounting ears."
+  },
+  {
+    "name": "battery-balancer",
+    "category": "electronics",
+    "draw": "Small board with several wires leading to a row of cell connectors."
+  },
+  {
+    "name": "short-circuit",
+    "category": "electronics",
+    "draw": "Two wires touching with a spark burst at the contact point."
+  },
+  {
+    "name": "open-circuit",
+    "category": "electronics",
+    "draw": "Circuit loop with a gap in one wire and the ends apart."
+  },
+  {
+    "name": "arc-flash",
+    "category": "electronics",
+    "draw": "Electrical panel with a bright jagged arc and a warning triangle."
+  },
+  {
+    "name": "pn-junction",
+    "category": "electronics",
+    "draw": "Rectangle split into P and N halves with small plus and minus charges on each side."
+  },
+  {
+    "name": "wheatstone-bridge",
+    "category": "electronics",
+    "draw": "Diamond of four resistors with a meter across the middle."
+  },
+  {
+    "name": "voltage-divider",
+    "category": "electronics",
+    "draw": "Two stacked resistors in series with an output tap between them."
+  },
+  {
+    "name": "h-bridge",
+    "category": "electronics",
+    "draw": "H shaped circuit of four switches with a motor circle in the crossbar."
+  },
+  {
+    "name": "farad-unit",
+    "category": "electronics",
+    "draw": "Capital F beside a small capacitor plate symbol."
+  },
+  {
+    "name": "electron-flow",
+    "category": "electronics",
+    "draw": "Wire with small minus charged dots moving along it with arrows."
+  },
+  {
+    "name": "pinout-diagram",
+    "category": "electronics",
+    "draw": "Chip outline with numbered labels beside each pin."
+  },
+  {
+    "name": "dipole-antenna",
+    "category": "electronics",
+    "draw": "Two straight rods extending in opposite directions from a central feed point on a mast."
+  },
+  {
+    "name": "helical-antenna",
+    "category": "electronics",
+    "draw": "Wire wound in a spiral coil standing on a round flat plate."
+  },
+  {
+    "name": "ferrite-rod-antenna",
+    "category": "electronics",
+    "draw": "Short dark rod with a coil of wire wound around its middle and two leads."
+  },
+  {
+    "name": "waveguide",
+    "category": "electronics",
+    "draw": "Hollow rectangular metal tube bent through a right angle with flanges at both ends."
+  },
+  {
+    "name": "crystal-earpiece",
+    "category": "electronics",
+    "draw": "Small round earpiece with a long thin cord."
+  }
+]

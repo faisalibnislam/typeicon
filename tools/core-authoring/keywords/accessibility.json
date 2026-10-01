@@ -1,0 +1,46 @@
+{
+  "accessibility-person": {
+    "context": "A person with outstretched arms inside a circle, the universal access symbol. Used for accessibility settings and menus, website accessibility statements, inclusive design pages and accessible services.",
+    "keywords": ["a11y", "universal access", "inclusive", "inclusion", "disability", "disabled", "accessible", "accessibility settings", "accessibility menu", "assistive", "assistive technology", "wcag", "inclusive design", "equal access", "human", "person", "special needs", "usability", "ada", "barrier free", "universal design"]
+  },
+  "audio-description": {
+    "context": "The letters AD with sound waves beside them. Marks audio-described films and TV, video player options, accessible theatre performances and museum audio guides.",
+    "keywords": ["ad", "described video", "video description", "narration", "narrator", "blind", "visually impaired", "low vision", "audio", "accessibility", "a11y", "accessible media", "voice over", "voiceover", "tv", "film", "theatre", "theater", "media player", "audio track", "spoken description"]
+  },
+  "blind-cane": {
+    "context": "A person walking with a long white cane. Used for blind and low-vision services, accessible routes and signage, accessibility settings and mobility training.",
+    "keywords": ["blind", "blindness", "visually impaired", "vision impairment", "sight loss", "white cane", "cane", "walking stick", "walking", "guide", "low vision", "accessibility", "a11y", "disability", "pedestrian", "mobility", "navigation", "sight impaired", "long cane", "orientation"]
+  },
+  "braille": {
+    "context": "A card with raised braille dots. Braille signage and documents, tactile reading, accessible packaging and services for blind readers use it.",
+    "keywords": ["blind", "tactile", "reading", "dots", "visually impaired", "raised dots", "touch reading", "accessibility", "a11y", "accessible format", "sight loss", "low vision", "embossed", "alphabet", "writing system", "literacy", "accessible documents", "signage", "tactile writing"]
+  },
+  "cognitive": {
+    "context": "A head in profile with a spiral inside, for cognitive accessibility. Used for learning and memory support, neurodiversity resources, dementia-friendly services and focus or simplify settings.",
+    "keywords": ["cognition", "cognitive accessibility", "learning", "learning disability", "neurodiversity", "neurodivergent", "mind", "memory", "understanding", "autism", "adhd", "dyslexia", "dementia", "brain", "thinking", "focus", "attention", "confusion", "mental", "processing", "a11y", "hidden disability"]
+  },
+  "easy-read": {
+    "context": "A page of small pictures next to short lines of text. Found on easy read versions of documents, plain language summaries, learning disability resources and simplified content toggles.",
+    "keywords": ["plain language", "plain english", "simple text", "simplified", "learning disability", "pictures", "document", "accessible information", "accessible document", "simple language", "symbols", "illustrated", "summary", "easy to read", "readability", "cognitive", "a11y", "accessibility", "simple version", "guide"]
+  },
+  "hearing-loop": {
+    "context": "An ear with the letter T, the sign for a hearing loop. Shown at counters, venues and ticket desks where an induction loop is fitted, and in accessibility guides.",
+    "keywords": ["induction loop", "loop system", "t-coil", "telecoil", "hearing aid", "deaf", "hard of hearing", "t switch", "assistive listening", "accessibility", "a11y", "audio loop", "counter", "venue", "theatre", "reception", "hearing impaired", "sign", "hearing assistance", "ear"]
+  },
+  "low-vision": {
+    "context": "An eye with a partly broken outline, for low vision. Used for low-vision settings, high contrast and large text modes, sight loss services and accessibility menus.",
+    "keywords": ["partially sighted", "visually impaired", "sight", "eye", "vision", "sight loss", "poor eyesight", "vision impairment", "high contrast", "large text", "magnifier", "zoom", "accessibility", "a11y", "blurry", "impaired vision", "sight impaired", "visual impairment", "eye condition", "macular degeneration"]
+  },
+  "mobility-aid": {
+    "context": "A wheeled walking frame, also called a rollator. Used for mobility equipment shops, elderly and home care services, step-free access notes and rehab or physiotherapy.",
+    "keywords": ["walker", "rollator", "walking frame", "walking aid", "mobility", "elderly", "senior", "older people", "frame", "wheels", "disability", "reduced mobility", "assistive", "support", "rehab", "physiotherapy", "home care", "aged care", "balance", "accessibility"]
+  },
+  "service-dog": {
+    "context": "A guide dog wearing a harness with a handle. Common on signs welcoming assistance dogs, blind and low-vision services, venue access policies and pet rules.",
+    "keywords": ["guide dog", "assistance dog", "blind", "harness", "dog", "working dog", "therapy dog", "dogs allowed", "dogs welcome", "visually impaired", "accessibility", "a11y", "disability", "animal", "pet", "support animal", "guide", "companion", "canine", "assistance animal"]
+  },
+  "sign-language": {
+    "context": "A hand in the middle of signing, with motion marks. Used for sign language interpretation, signed video content, deaf services and accessibility options at events and in media.",
+    "keywords": ["sign", "asl", "bsl", "deaf", "interpreter", "interpreting", "gesture", "hands", "signing", "signed", "deaf community", "hard of hearing", "accessibility", "a11y", "communication", "fingerspelling", "visual language", "hearing impaired", "language", "signed video"]
+  }
+}

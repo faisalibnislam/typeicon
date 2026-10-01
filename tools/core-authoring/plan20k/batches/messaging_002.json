@@ -1,0 +1,482 @@
+[
+ {
+  "name": "screen-recording",
+  "category": "messaging",
+  "draw": "Monitor with a filled record dot inside a ring on its screen.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "flip-camera",
+  "category": "messaging",
+  "draw": "Camera body with two curved arrows chasing each other around it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "virtual-background",
+  "category": "messaging",
+  "draw": "Head-and-shoulders figure in front of a rectangle showing a mountain scene.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "hybrid-meeting",
+  "category": "messaging",
+  "draw": "Table with two seated figures facing a wall screen that shows two faces.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "video-bar",
+  "category": "messaging",
+  "draw": "Long thin camera bar with a central lens mounted on top of a screen edge.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "watch-party",
+  "category": "messaging",
+  "draw": "Two head figures side by side in front of a screen with a play triangle.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "camcorder",
+  "category": "messaging",
+  "draw": "Handheld video camera with a lens at the front and a flip-out screen on its side.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "broadcast-camera",
+  "category": "messaging",
+  "draw": "Large studio television camera on a wheeled pedestal with a viewfinder on top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "film-cartridge",
+  "category": "messaging",
+  "draw": "Small cylindrical film roll with a spool knob and a tongue of film sticking out.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "video-timeline",
+  "category": "messaging",
+  "draw": "Horizontal tracks with rectangular clip blocks and a vertical playhead line.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "screenplay",
+  "category": "messaging",
+  "draw": "Stack of script pages held together by two round brass fasteners on the left edge.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "color-grading",
+  "category": "messaging",
+  "draw": "Three circular color wheels in a row, each with a small dot off centre.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "timecode-display",
+  "category": "messaging",
+  "draw": "Rectangle showing four pairs of digits separated by colons.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "cue-card",
+  "category": "messaging",
+  "draw": "Large card held up by a hand with bold text lines on it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "applause-sign",
+  "category": "messaging",
+  "draw": "Wide lit sign box with the word APPLAUSE across it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "video-switcher",
+  "category": "messaging",
+  "draw": "Control panel with rows of square buttons and a T-bar lever on the right.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "field-monitor",
+  "category": "messaging",
+  "draw": "Small monitor with a folding sunshade hood around its screen.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "film-projector",
+  "category": "messaging",
+  "draw": "Vintage movie projector with two reels on arms and a lens at the front.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "magic-lantern",
+  "category": "messaging",
+  "draw": "Old lantern-shaped projector with a chimney on top and a lens tube at the front.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "film-splicer",
+  "category": "messaging",
+  "draw": "Small block with a hinged cutting blade and a film strip held across it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "box-office",
+  "category": "messaging",
+  "draw": "Ticket booth window with an arched top and a small speaking hole in the glass.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "video-cassette-recorder",
+  "category": "messaging",
+  "draw": "Low box with a wide tape slot and a small clock display on its front.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "microfiche",
+  "category": "messaging",
+  "draw": "Rectangular card covered in a grid of tiny frames with a header strip.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "tv-guide",
+  "category": "messaging",
+  "draw": "Grid schedule with rows of channel blocks of different widths and a time bar on top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "slow-motion",
+  "category": "messaging",
+  "draw": "Play triangle followed by three fading copies trailing behind it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "360-video",
+  "category": "messaging",
+  "draw": "Play triangle inside a curved elliptical ring with an arrow head, like a surround view.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "hd-video",
+  "category": "messaging",
+  "draw": "Rounded rectangle containing the letters HD.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "4k-resolution",
+  "category": "messaging",
+  "draw": "Rounded rectangle containing the characters 4K.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "test-card",
+  "category": "messaging",
+  "draw": "Screen showing a circle drawn over vertical bars of different shades.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "static-noise",
+  "category": "messaging",
+  "draw": "Screen filled with scattered random dots like television snow.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "news-desk",
+  "category": "messaging",
+  "draw": "Curved desk with a figure seated behind it and a screen on the wall behind them.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "voice-over",
+  "category": "messaging",
+  "draw": "Microphone in front of a film frame with sound arcs coming from the microphone.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "transcript",
+  "category": "messaging",
+  "draw": "Document with short lines each starting with a tiny head icon, like a speaker-labelled text.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "ham-radio",
+  "category": "messaging",
+  "draw": "Radio transceiver box with a large tuning knob, a display and a hand microphone on a coiled cord.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "radio-tuner-dial",
+  "category": "messaging",
+  "draw": "Horizontal frequency scale with tick marks and a vertical needle.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "loop-antenna",
+  "category": "messaging",
+  "draw": "Large circular wire loop antenna on a small stand.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "signal-booster",
+  "category": "messaging",
+  "draw": "Small box with two upright antennas and signal arcs.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "cell-tower",
+  "category": "messaging",
+  "draw": "Tall lattice tower with rectangular panel antennas mounted near its top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "mobile-hotspot",
+  "category": "messaging",
+  "draw": "Smartphone emitting wifi arcs from its top edge.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "airplane-mode",
+  "category": "messaging",
+  "draw": "Small airplane silhouette inside a rounded square.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "submarine-cable",
+  "category": "messaging",
+  "draw": "Cable cross-section with concentric protective layers around a central core.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "telephone-pole",
+  "category": "messaging",
+  "draw": "Wooden pole with a crossarm carrying insulators and drooping wires.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "microwave-relay-tower",
+  "category": "messaging",
+  "draw": "Tower with two drum-shaped dish antennas pointing in opposite directions.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "satellite-uplink",
+  "category": "messaging",
+  "draw": "Ground dish angled upward with a dotted beam line reaching a small satellite.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "signal-interference",
+  "category": "messaging",
+  "draw": "Signal bars with a jagged zigzag line crossing over them.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "telegraph-key",
+  "category": "messaging",
+  "draw": "Morse key with a flat base, a lever arm and a round finger knob on top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "ticker-tape-machine",
+  "category": "messaging",
+  "draw": "Glass dome on a small pedestal with a paper tape strip curling out of it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "teletype",
+  "category": "messaging",
+  "draw": "Boxy teleprinter with a keyboard in front and a paper roll on top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "speaking-tube",
+  "category": "messaging",
+  "draw": "Curved voice pipe ending in a flared bell mouth with a hinged whistle cap.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "signal-fire",
+  "category": "messaging",
+  "draw": "Stacked log beacon on a stone pedestal with tall flames on top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "heliograph",
+  "category": "messaging",
+  "draw": "Round mirror mounted on a tripod with a sighting rod in front of it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "signal-lamp",
+  "category": "messaging",
+  "draw": "Box lamp with horizontal shutter slats across its front lens and a side handle.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "flare-gun",
+  "category": "messaging",
+  "draw": "Pistol with a short wide barrel and a small star burst at the muzzle.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "semaphore-telegraph",
+  "category": "messaging",
+  "draw": "Tall post with two long pivoting arms at the top, an optical telegraph.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "alarm-bell",
+  "category": "messaging",
+  "draw": "Round dome bell mounted on a wall plate with a small striker below it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "fire-alarm-pull",
+  "category": "messaging",
+  "draw": "Red wall box with a downward pull handle and a small flame symbol above it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "buzzer-button",
+  "category": "messaging",
+  "draw": "Flat round buzzer pad on a small box with a cable.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "cipher-disk",
+  "category": "messaging",
+  "draw": "Two concentric rings of letters with a small pointer, a disk used for secret codes.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "app-badge-count",
+  "category": "messaging",
+  "draw": "Rounded square app tile with a small circle holding a number at its top-right corner.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "ringtone",
+  "category": "messaging",
+  "draw": "Smartphone with a music note beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "reminder-string",
+  "category": "messaging",
+  "draw": "Index finger with a string bow tied around it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "digital-signage",
+  "category": "messaging",
+  "draw": "Tall vertical screen on a floor stand showing a picture block and text lines.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "press-camera",
+  "category": "messaging",
+  "draw": "Vintage press camera with a folding bellows lens and a large dish flash on its side.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "press-hat",
+  "category": "messaging",
+  "draw": "Brimmed hat with a small card marked PRESS tucked into its band.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "rolled-newspaper",
+  "category": "messaging",
+  "draw": "Newspaper rolled into a tube with a band around its middle.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "digital-newspaper",
+  "category": "messaging",
+  "draw": "Tablet showing a newspaper page with a headline bar and columns.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "newspaper-clipping",
+  "category": "messaging",
+  "draw": "Torn-out article with a jagged edge, a small headline and a picture block.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "breaking-news",
+  "category": "messaging",
+  "draw": "Television lower-third banner with a lightning bolt at its left end.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "news-ticker",
+  "category": "messaging",
+  "draw": "Long horizontal strip with text blocks and a small arrow at its right end.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "press-pass",
+  "category": "messaging",
+  "draw": "Lanyard badge with the word PRESS across it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "press-conference",
+  "category": "messaging",
+  "draw": "Podium with a cluster of several microphones on its top edge.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "interview-microphone",
+  "category": "messaging",
+  "draw": "Handheld microphone with a square station cube around its neck.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "reporter-notebook",
+  "category": "messaging",
+  "draw": "Tall narrow spiral pad bound at the top with lines of notes.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "classified-ads",
+  "category": "messaging",
+  "draw": "Page grid of many small boxed text blocks in columns.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "zine",
+  "category": "messaging",
+  "draw": "Small folded stapled booklet with a hand-drawn star on its cover.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "tear-off-flyer",
+  "category": "messaging",
+  "draw": "Sheet pinned at the top with a row of vertical tear-off tabs along its bottom edge.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "protest-sign",
+  "category": "messaging",
+  "draw": "Rectangular placard on a wooden stick with a bold line of text.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "skywriting",
+  "category": "messaging",
+  "draw": "Small plane trailing a looping smoke line behind it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "aerial-banner",
+  "category": "messaging",
+  "draw": "Small plane towing a long rectangular banner on a line.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "blog-post",
+  "category": "messaging",
+  "draw": "Browser window with a heading bar and a pen nib overlapping its corner.",
+  "domain": "communication-and-media"
+ }
+]

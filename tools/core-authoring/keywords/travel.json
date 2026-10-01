@@ -1,0 +1,162 @@
+{
+  "beach-umbrella": {
+    "context": "A tilted beach umbrella stuck into the sand. Used for beach holidays, summer deals, seaside hotel amenities, sun protection tips and vacation booking filters.",
+    "keywords": ["parasol", "sunshade", "beach", "seaside", "summer", "holiday", "vacation", "sun protection", "shade", "coast", "sand", "sunbathing", "beach holiday", "summer holiday", "seaside resort", "pool umbrella", "patio umbrella", "hot weather", "sunny", "leisure", "relax", "tourism", "travel", "beach club"]
+  },
+  "binoculars": {
+    "context": "A pair of binoculars with two barrels joined at the middle. Appears on sightseeing and nature guides, viewpoint markers on maps, birdwatching apps and buttons that mean look closer or explore.",
+    "keywords": ["field glasses", "sightseeing", "look", "explore", "birdwatching", "bird watching", "view", "viewpoint", "lookout", "observe", "zoom", "spy", "search", "discover", "safari", "wildlife", "nature", "scouting", "watch", "optics", "lenses", "see far", "scenic view", "discovery"]
+  },
+  "boarding-pass": {
+    "context": "A boarding pass showing a plane, flight details and a barcode. Used in airline apps, check-in screens, mobile wallet passes and trip itineraries.",
+    "keywords": ["boarding card", "flight", "check-in", "check in", "gate", "airline", "mobile pass", "airport", "plane ticket", "flight ticket", "e-ticket", "seat", "departure", "board", "boarding", "air travel", "wallet pass", "flight details", "trip", "online check-in", "travel document", "pass"]
+  },
+  "camper": {
+    "context": "A camper van with a boxy living section behind the cab. Shows up in road trip planners, campsite listings, vehicle rental apps and RV park maps.",
+    "keywords": ["camper van", "campervan", "motorhome", "motor home", "rv", "recreational vehicle", "caravan", "road trip", "camping", "van life", "vanlife", "rv park", "campsite", "caravan park", "trailer", "holiday", "vehicle rental", "overland", "travel", "mobile home", "touring", "glamping"]
+  },
+  "campfire": {
+    "context": "A flame burning over two crossed logs. Marks fire pits on campsite maps and is used for camping, outdoor cooking, bonfire nights and cosy or warmth themes.",
+    "keywords": ["bonfire", "fire", "camp fire", "fire pit", "firepit", "camping", "flame", "outdoors", "warmth", "logs", "firewood", "wood fire", "burn", "hot", "scouts", "campsite", "outdoor cooking", "barbecue", "cosy", "cozy", "wilderness", "hearth"]
+  },
+  "camping-tent": {
+    "context": "An A-frame tent with its door open. Used for campsites on maps, outdoor gear shops, festival camping, glamping listings and hiking trip planners.",
+    "keywords": ["tent", "camping", "campsite", "camp site", "campground", "outdoors", "camp", "shelter", "glamping", "festival", "hiking", "backpacking", "wilderness", "scouts", "camping gear", "pitch", "bivouac", "outdoor", "nature", "adventure", "overnight stay", "canvas"]
+  },
+  "crosswalk": {
+    "context": "Zebra crossing stripes laid between two kerbs. Used on maps and navigation for pedestrian crossings, road safety content, walking routes and street accessibility info.",
+    "keywords": ["zebra crossing", "pedestrian crossing", "crossing", "walk", "street", "pedestrian", "road crossing", "cross the road", "stripes", "road safety", "traffic", "walkway", "footpath", "sidewalk", "pavement", "kerb", "curb", "intersection", "city", "urban", "walking route", "safe crossing"]
+  },
+  "cruise": {
+    "context": "A cruise ship with stacked passenger decks and a funnel. Used for cruise bookings, ferry and sea travel, port guides, holiday packages and shore excursions.",
+    "keywords": ["cruise ship", "liner", "ocean liner", "voyage", "sea", "holiday", "ship", "boat", "ferry", "vessel", "sailing", "ocean", "port", "harbour", "harbor", "cruise holiday", "sea travel", "passenger ship", "maritime", "cabin", "deck", "shore excursion", "vacation", "nautical"]
+  },
+  "currency-exchange-travel": {
+    "context": "Two coins with arrows that swap one for the other. Marks bureaux de change at airports and on maps, and is used for travel money, foreign cash and exchange rate tools in trip apps.",
+    "keywords": ["money exchange", "bureau de change", "foreign currency", "forex", "exchange", "travel money", "currency converter", "exchange rate", "change money", "foreign exchange", "fx", "convert currency", "swap", "coins", "cash", "airport exchange", "exchange office", "money changer", "abroad", "holiday money", "currency", "conversion"]
+  },
+  "globe-earth": {
+    "context": "A globe drawn with a meridian and the equator. Used for language and region pickers, international shipping, worldwide availability, public web links and global settings.",
+    "keywords": ["globe", "world", "earth", "international", "global", "planet", "worldwide", "language", "region", "country", "internet", "web", "website", "public", "geography", "language selector", "change language", "locale", "international shipping", "world wide web", "online", "sphere", "travel"]
+  },
+  "gps": {
+    "context": "A satellite navigation unit on a mount with a direction arrow on its screen. Used for car navigation, turn-by-turn directions, route guidance and GPS tracking.",
+    "keywords": ["sat nav", "satnav", "navigator", "navigation", "gps device", "directions", "car navigation", "turn by turn", "route guidance", "navigate", "driving directions", "gps tracker", "tracking", "in-car", "dashboard", "car", "location", "route", "satellite navigation", "wayfinding", "trip", "road trip"]
+  },
+  "highway": {
+    "context": "A wide road with two dashed lane lines running into the distance. Used for motorway routes, avoid-highways settings in navigation, road trips, traffic reports and transport maps.",
+    "keywords": ["motorway", "freeway", "expressway", "lanes", "interstate", "road trip", "road", "dual carriageway", "multi-lane", "traffic", "driving", "route", "avoid highways", "avoid motorways", "toll road", "transport", "infrastructure", "commute", "journey", "asphalt", "lane markings", "turnpike"]
+  },
+  "hostel": {
+    "context": "A house with bunk beds inside. Used for hostels and budget stays in booking sites, dormitory rooms, backpacker guides and student housing.",
+    "keywords": ["dormitory", "dorm", "bunk beds", "bunk bed", "backpackers", "budget stay", "accommodation", "lodging", "youth hostel", "shared room", "cheap stay", "guesthouse", "hotel", "beds", "sleep", "student housing", "backpacking", "room", "stay", "bed and breakfast", "inn", "shared dorm"]
+  },
+  "island": {
+    "context": "A small island with a palm tree, surrounded by water. Used for tropical holidays, island destinations, beach getaways and remote or isolated places.",
+    "keywords": ["desert island", "tropical", "beach", "holiday", "ocean", "paradise", "palm tree", "islet", "atoll", "sea", "coast", "getaway", "vacation", "remote", "isolated", "castaway", "tropics", "caribbean", "shore", "summer", "destination", "escape"]
+  },
+  "luggage": {
+    "context": "A travel case with a carry handle and two straps. Used for baggage allowance, luggage storage, lost baggage, packing lists and hotel bag drop services.",
+    "keywords": ["baggage", "suitcase", "bags", "bag", "travel", "trip", "check-in", "baggage allowance", "checked bag", "luggage storage", "left luggage", "bag drop", "baggage claim", "lost luggage", "packing", "pack", "travel case", "holdall", "airport", "hand luggage", "valise", "journey"]
+  },
+  "map": {
+    "context": "An open paper map with a route leading to a marked spot. Used for directions, maps tabs in apps, route planning, store locators and treasure hunt style journeys.",
+    "keywords": ["paper map", "route", "directions", "atlas", "navigation", "trip", "location", "destination", "route planner", "find location", "store locator", "treasure map", "cartography", "chart", "journey", "path", "marked spot", "road map", "explore", "guide", "geography", "where"]
+  },
+  "map-folded": {
+    "context": "A paper map folded like an accordion into four panels. Used for travel guides, tourist maps, brochures, map views and open-map buttons.",
+    "keywords": ["folded map", "atlas", "travel", "guide", "brochure", "tourist map", "city map", "road map", "leaflet", "pamphlet", "map view", "open map", "navigation", "directions", "cartography", "tourist information", "street map", "trip planning", "location", "explore", "sightseeing", "travel guide"]
+  },
+  "milestone": {
+    "context": "A roadside milestone with a painted top and a carved line. Used for distance markers, progress checkpoints, project milestones, journey stages and historic routes.",
+    "keywords": ["marker stone", "mile marker", "distance", "road", "kilometre", "kilometer", "mile", "milepost", "waymarker", "checkpoint", "progress", "stage", "achievement", "project milestone", "roadside", "stone", "landmark", "distance marker", "route marker", "journey", "boundary stone", "mark"]
+  },
+  "mountain": {
+    "context": "A mountain range with one snow-capped peak. Used for hiking and ski destinations, outdoor apps, elevation and terrain views, and challenge or goal themes.",
+    "keywords": ["mountains", "peak", "hiking", "summit", "landscape", "alps", "hill", "range", "snow", "climbing", "mountaineering", "trekking", "ski", "skiing", "outdoors", "nature", "elevation", "altitude", "terrain", "national park", "scenery", "wilderness", "challenge"]
+  },
+  "palm-tree": {
+    "context": "A palm tree with drooping fronds. Used for tropical destinations, beach holidays, summer themes, resort amenities and hot-weather content.",
+    "keywords": ["palm", "tropical", "beach", "holiday", "island", "summer", "coconut tree", "coconut", "tropics", "paradise", "vacation", "seaside", "resort", "desert", "oasis", "hot", "sunny", "exotic", "travel", "getaway", "caribbean", "plant", "tree"]
+  },
+  "parking-meter": {
+    "context": "A parking meter standing on a post. Used for paid street parking, parking apps, pay-and-display zones, parking fees and city parking maps.",
+    "keywords": ["parking", "meter", "pay parking", "coin", "street", "car park", "pay and display", "paid parking", "parking fee", "parking ticket", "parking zone", "parking lot", "on-street parking", "time limit", "pay for parking", "curbside", "kerbside", "city", "driving", "car", "parking space", "fare"]
+  },
+  "pin-drop": {
+    "context": "A map pin dropping onto a spot on the ground. Used for dropping a pin, setting or sharing a location, marking a place on a map and delivery addresses.",
+    "keywords": ["drop pin", "location", "place", "marker", "set location", "point", "map pin", "pin", "location pin", "map marker", "pinpoint", "mark location", "share location", "current location", "address", "destination", "geolocation", "place marker", "here", "spot", "check in", "point of interest"]
+  },
+  "plane-ticket": {
+    "context": "A flight ticket with a small plane and a tear-off stub. Used for flight bookings, e-tickets, airfare deals, travel reservations and itinerary screens.",
+    "keywords": ["flight ticket", "air ticket", "airline", "booking", "flight", "e-ticket", "ticket", "airfare", "book flight", "flight booking", "reservation", "plane", "airplane", "aeroplane", "air travel", "boarding pass", "trip", "travel", "stub", "itinerary", "fare", "airport"]
+  },
+  "postcard-travel": {
+    "context": "A picture postcard with a sunset over the sea and a stamp in the corner. Used for holiday greetings, travel memories, sending postcards and destination photo galleries.",
+    "keywords": ["postcard", "holiday", "greetings", "wish you were here", "vacation", "mail", "post", "picture postcard", "send postcard", "stamp", "souvenir", "travel memories", "greeting card", "letter", "sunset", "sea view", "correspondence", "tourism", "trip", "keepsake", "note", "destination"]
+  },
+  "resort": {
+    "context": "A hotel block standing beside a palm tree. Used for holiday resorts, beach hotels, all-inclusive packages, spa stays and accommodation search results.",
+    "keywords": ["holiday", "vacation", "hotel", "beach resort", "getaway", "holiday resort", "all inclusive", "all-inclusive", "accommodation", "lodging", "spa", "stay", "tropical", "palm tree", "package holiday", "vacation rental", "villa", "beach hotel", "leisure", "tourism", "destination", "retreat"]
+  },
+  "road": {
+    "context": "A road stretching into the distance with a dashed centre line. Used for routes, driving directions, road trips, journeys and roadmap or progress themes.",
+    "keywords": ["street", "route", "drive", "lane", "journey", "asphalt", "driving", "road trip", "highway", "path", "way", "center line", "centre line", "travel", "commute", "roadmap", "direction", "tarmac", "pavement", "route planning", "trip", "distance"]
+  },
+  "route-pins": {
+    "context": "Two map pins joined by a dashed route. Used for trip routes, start and end points, delivery tracking, directions from A to B and itinerary planning.",
+    "keywords": ["route", "trip", "journey", "directions", "from to", "itinerary", "a to b", "start and end", "origin destination", "path", "route planner", "navigation", "waypoints", "distance", "delivery route", "tracking", "track order", "map pins", "road trip", "travel plan", "commute", "get directions"]
+  },
+  "satellite": {
+    "context": "An orbiting satellite with two solar panels. Used for satellite view on maps, GPS and positioning, satellite internet, space themes and communications.",
+    "keywords": ["orbit", "space", "gps", "communication", "spacecraft", "satellite view", "satellite map", "satellite internet", "broadcast", "signal", "telecom", "telecommunications", "solar panels", "space station", "positioning", "navigation", "aerospace", "remote sensing", "uplink", "transmission", "astronomy", "space tech"]
+  },
+  "signpost": {
+    "context": "A signpost with two boards pointing in opposite directions. Used for directions, wayfinding, choices and decisions, help or guide sections and trail markers.",
+    "keywords": ["directions", "crossroads", "way", "choice", "fingerpost", "sign post", "direction sign", "wayfinding", "guide", "decision", "options", "fork", "trail", "path", "which way", "navigation", "road sign", "junction", "route", "orientation", "help", "hiking trail"]
+  },
+  "souvenir": {
+    "context": "A keyring with a heart tag attached. Used for souvenir and gift shops, travel keepsakes, merchandise, key fobs and memento themes.",
+    "keywords": ["keepsake", "keyring", "key ring", "keychain", "key chain", "memento", "gift", "trinket", "holiday", "key fob", "gift shop", "souvenir shop", "merchandise", "merch", "tag", "heart", "memory", "present", "travel gift", "charm", "tourist", "love"]
+  },
+  "street-sign": {
+    "context": "A street name plate mounted on a post. Used for street names, addresses, locations, neighbourhood guides and address search fields.",
+    "keywords": ["street name", "road name", "address", "sign", "avenue", "corner", "road sign", "street plate", "name plate", "signpost", "location", "neighbourhood", "neighborhood", "city", "town", "wayfinding", "directions", "intersection", "boulevard", "lane", "block", "urban"]
+  },
+  "suitcase-rolling": {
+    "context": "An upright wheeled suitcase with a pull handle. Used for carry-on and cabin bags, trips and travel bookings, baggage rules, packing lists and hotel check-in.",
+    "keywords": ["trolley case", "roller bag", "carry-on", "carry on", "luggage", "wheels", "travel", "suitcase", "wheeled suitcase", "cabin bag", "hand luggage", "baggage", "trip", "packing", "airport", "business trip", "trolley bag", "roller case", "travel bag", "departure", "vacation", "journey"]
+  },
+  "sunrise": {
+    "context": "Half a sun rising over the horizon with an upward arrow. Used for sunrise times in weather apps, morning routines, alarms, dawn and early start schedules.",
+    "keywords": ["dawn", "morning", "daybreak", "sun up", "east", "sun rise", "first light", "early", "sunrise time", "wake up", "new day", "horizon", "sun", "weather", "am", "morning routine", "start of day", "daylight", "rising sun", "golden hour", "day"]
+  },
+  "sunset": {
+    "context": "Half a sun sinking below the horizon with a downward arrow. Used for sunset times in weather apps, evenings, night mode schedules and end of day summaries.",
+    "keywords": ["dusk", "evening", "sundown", "sun down", "west", "sun set", "twilight", "nightfall", "sunset time", "end of day", "horizon", "sun", "weather", "pm", "golden hour", "dark mode schedule", "night", "setting sun", "late", "day end", "wind down"]
+  },
+  "toll-booth": {
+    "context": "A toll booth with its barrier arm raised. Used for toll roads, road charges, avoid-tolls settings in navigation, parking exits and checkpoints.",
+    "keywords": ["toll", "tollgate", "toll gate", "toll road", "barrier", "highway", "payment", "checkpoint", "road charge", "avoid tolls", "toll plaza", "booth", "boom gate", "gate", "turnpike", "motorway", "fee", "border crossing", "car park exit", "parking barrier", "entry", "pay toll"]
+  },
+  "tour-bus": {
+    "context": "An open-top double-decker sightseeing bus. Used for city tours, hop-on hop-off services, excursions, group travel and tourist attractions.",
+    "keywords": ["sightseeing", "tour", "double decker", "double-decker", "coach", "city tour", "excursion", "sightseeing bus", "hop on hop off", "open top bus", "bus tour", "tourist", "tourism", "guided tour", "bus", "group travel", "day trip", "attractions", "transport", "coach trip", "city break", "vehicle"]
+  },
+  "traffic-light": {
+    "context": "A traffic light with red, amber and green lamps. Used for traffic signals on maps, status indicators, go or stop states, road safety and driving lessons.",
+    "keywords": ["traffic signal", "stoplight", "stop light", "signal", "intersection", "stop", "go", "red light", "green light", "amber", "yellow light", "traffic lights", "junction", "crossroads", "road safety", "driving", "status", "status indicator", "rag status", "wait", "traffic", "street"]
+  },
+  "travel-backpack": {
+    "context": "A hiking backpack with a sleeping mat rolled on top. Used for backpacking trips, hiking and trekking gear, outdoor shops and adventure travel.",
+    "keywords": ["hiking", "rucksack", "backpacking", "trekking", "camping", "pack", "backpack", "hiking backpack", "knapsack", "sleeping mat", "bedroll", "outdoor gear", "adventure", "gap year", "backpacker", "trail", "bag", "travel bag", "expedition", "mountaineering", "walking", "day pack"]
+  },
+  "visa": {
+    "context": "A travel document with an approval stamp on it. Used for visa applications, entry permits, immigration and border control steps, and travel document checklists.",
+    "keywords": ["entry permit", "immigration", "travel document", "approved", "border", "visa application", "passport", "passport stamp", "stamp", "entry visa", "work permit", "residence permit", "border control", "customs", "embassy", "consulate", "permission", "approval", "document", "travel requirements", "e-visa", "tourist visa"]
+  },
+  "world-map": {
+    "context": "A world map drawn as an oval projection with meridians and the equator. Used for global coverage, international offices, worldwide shipping, geography lessons and region selectors.",
+    "keywords": ["world", "projection", "atlas", "global", "geography", "earth map", "map of the world", "worldwide", "international", "continents", "countries", "global coverage", "locations", "regions", "earth", "planet", "cartography", "latitude", "longitude", "meridian", "equator", "globe"]
+  }
+}

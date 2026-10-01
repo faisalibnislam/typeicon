@@ -1,0 +1,162 @@
+{
+  "$comment": "TypeIcon source manifest. Every imported asset group is pinned here with provenance. Importers refuse sources whose integrity does not match. See docs/policies/sources-and-licenses.md.",
+  "manifestVersion": 1,
+  "sources": [
+    {
+      "slug": "typeicon-core",
+      "area": "core",
+      "displayName": "TypeIcon Core",
+      "namespace": "core",
+      "namePrefix": "",
+      "kind": "local",
+      "path": "assets/core",
+      "upstreamUrl": "https://typeicon.net",
+      "author": "TypeIcon",
+      "copyright": "Copyright (c) 2026 TypeIcon",
+      "version": "0.1.0",
+      "retrievedAt": "2026-09-30",
+      "license": {
+        "spdx": "LicenseRef-TypeIcon-Core-Draft",
+        "file": "assets/sources/licenses/typeicon-core/LICENSE.md",
+        "ownerDecisionRequired": true
+      },
+      "notices": [],
+      "attribution": {
+        "required": false,
+        "text": "TypeIcon Core icons"
+      },
+      "reservedFontNames": [],
+      "permissions": {
+        "redistributeSvg": true,
+        "modify": true,
+        "buildFonts": true,
+        "repackageUpstreamFonts": false
+      },
+      "styles": {
+        "filled": {
+          "style": "filled",
+          "dir": [
+            "svg/filled",
+            "svg-variants/filled"
+          ]
+        },
+        "line": {
+          "style": "line",
+          "dir": [
+            "svg/line",
+            "svg-variants/line"
+          ]
+        },
+        "rounded": {
+          "style": "rounded",
+          "dir": [
+            "svg/rounded",
+            "svg-variants/rounded"
+          ]
+        },
+        "thin": {
+          "style": "thin",
+          "dir": [
+            "svg/thin",
+            "svg-variants/thin"
+          ]
+        }
+      },
+      "review": {
+        "status": "approved",
+        "by": "bootstrap:claude-code",
+        "at": "2026-09-30",
+        "note": "Original artwork authored with tools/core-authoring. Batches are published immediately and flagged for human design review (owner decision 2026-09-30)."
+      },
+      "modificationHistory": []
+    },
+    {
+      "slug": "simple-icons",
+      "area": "brands",
+      "displayName": "Brand logos (Simple Icons)",
+      "namespace": "pack:brands",
+      "namePrefix": "brand",
+      "kind": "npm",
+      "package": "simple-icons",
+      "version": "16.33.0",
+      "tarball": "https://registry.npmjs.org/simple-icons/-/simple-icons-16.33.0.tgz",
+      "integrity": "sha512-z14u6A8ngAg9mgERRsNO8YkjIMefehIpBk7A8Dz3Gd91945qFP19MLPSHgV4z8P5u/MRYd5e07OTzaDoB4d6qA==",
+      "upstreamUrl": "https://github.com/simple-icons/simple-icons",
+      "author": "Simple Icons contributors",
+      "copyright": "Logos are trademarks of their respective owners; Simple Icons collection released under CC0-1.0",
+      "retrievedAt": "2026-09-30",
+      "license": {
+        "spdx": "CC0-1.0",
+        "file": "assets/sources/licenses/simple-icons/LICENSE.md",
+        "perIcon": true
+      },
+      "notices": [
+        "Simple Icons states that CC0 applies to the collection but not necessarily to every logo; per-logo license data is recorded where available and share-alike, non-commercial, GPL and custom-licensed logos are quarantined.",
+        "Brand logos are trademarks. Use them only to refer to the brand and follow each brand's guidelines (guidelines links are recorded per logo). See assets/sources/licenses/simple-icons/DISCLAIMER.md."
+      ],
+      "attribution": {
+        "required": false,
+        "text": "Brand logos from Simple Icons (CC0-1.0), https://simpleicons.org. Trademarks belong to their owners."
+      },
+      "reservedFontNames": [],
+      "permissions": {
+        "redistributeSvg": true,
+        "modify": false,
+        "buildFonts": true,
+        "repackageUpstreamFonts": false
+      },
+      "metadata": {
+        "file": "data/simple-icons.json"
+      },
+      "styles": {
+        "logo": {
+          "style": "brand",
+          "dir": "icons",
+          "nativeLabel": "Logo (single style)"
+        }
+      },
+      "styleMappingNote": "Brand logos are published in one style only. Logos are never redrawn as Filled, Line or Rounded variants.",
+      "review": {
+        "status": "approved",
+        "by": "owner decision 2026-09-30",
+        "at": "2026-09-30",
+        "note": "Owner chose to import Simple Icons as the single exception to the original-only rule. Brands never count toward the Core goal."
+      },
+      "modificationHistory": [
+        "SVGs sanitized (title removed, currentColor)",
+        "Converted to font outlines for the TypeIcon Brands font",
+        "Renamed with brand- prefix"
+      ],
+      "allowedLicenses": [
+        "CC0-1.0",
+        "Unlicense",
+        "MIT",
+        "Apache-2.0",
+        "BSD-3-Clause",
+        "CC-BY-2.5",
+        "CC-BY-3.0",
+        "CC-BY-4.0"
+      ]
+    }
+  ],
+  "removedSources": [
+    {
+      "slug": "tabler",
+      "version": "3.48.0",
+      "removedAt": "2026-09-30",
+      "reason": "Owner decision: TypeIcon ships only original Core icons plus a separate brand-logo area. Never publicly released."
+    },
+    {
+      "slug": "phosphor",
+      "version": "2.1.1",
+      "removedAt": "2026-09-30",
+      "reason": "Owner decision: TypeIcon ships only original Core icons plus a separate brand-logo area. Never publicly released."
+    },
+    {
+      "slug": "material",
+      "version": "0.47.5",
+      "removedAt": "2026-09-30",
+      "reason": "Owner decision: TypeIcon ships only original Core icons plus a separate brand-logo area. Never publicly released."
+    }
+  ]
+}

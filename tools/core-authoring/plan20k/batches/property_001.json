@@ -1,0 +1,482 @@
+[
+ {
+  "name": "split-level-house",
+  "category": "property",
+  "draw": "Front view of a house with two side-by-side sections whose floors and roofs are offset by half a storey.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "prairie-style-house",
+  "category": "property",
+  "draw": "Long, low horizontal house with a shallow hipped roof whose deep overhanging eaves shade a band of windows.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "basement-apartment",
+  "category": "property",
+  "draw": "House cross-section on a ground line with a unit below ground that has its own small step-down entrance and window.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "accessory-dwelling-unit",
+  "category": "property",
+  "draw": "Main house on the left with a much smaller separate cottage standing behind it on the same lot.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "carriage-house",
+  "category": "property",
+  "draw": "Two-storey outbuilding with two wide garage doors on the ground floor and a row of apartment windows above.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "mixed-use-building",
+  "category": "property",
+  "draw": "Three-storey building with a shop awning and display window at street level and apartment windows on the floors above.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "penthouse",
+  "category": "property",
+  "draw": "Tall apartment tower whose top floor is set back behind a railed roof terrace with a small tree.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "beach-house",
+  "category": "property",
+  "draw": "House raised on short stilts above wave lines with a palm tree leaning beside it.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "vacation-rental",
+  "category": "property",
+  "draw": "House with a wheeled suitcase standing in front of its door.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "timeshare",
+  "category": "property",
+  "draw": "House above a small calendar grid split into week blocks, with one block filled.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "modular-home",
+  "category": "property",
+  "draw": "Box-shaped house module hanging from a crane hook, being lowered onto a matching module below.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "foreclosed-house",
+  "category": "property",
+  "draw": "House with two planks nailed across its door in an X and a notice sheet pinned beside it.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "fixer-upper",
+  "category": "property",
+  "draw": "Run-down house with a crooked shutter, a gap in the roof tiles and a hammer leaning against the wall.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "chateau",
+  "category": "property",
+  "draw": "French country house with a steep slate roof and a conical turret at each corner.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "tenement-building",
+  "category": "property",
+  "draw": "Tall narrow brick apartment block with a zigzag fire escape running down its front.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "dream-home",
+  "category": "property",
+  "draw": "House inside a thought cloud with two small trailing bubbles below it.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "garden-office",
+  "category": "property",
+  "draw": "Small modern garden cabin with a full-height glass front showing a desk and chair inside.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "vacant-lot",
+  "category": "property",
+  "draw": "Empty plot between two building edges with tufts of grass and a small blank sign on a post.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "vacant-storefront",
+  "category": "property",
+  "draw": "Shopfront with papered-over window glass and a blank hanging sign above the door.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "housing-development",
+  "category": "property",
+  "draw": "Tower crane standing beside a row of half-built house frames.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "real-estate-office",
+  "category": "property",
+  "draw": "Shopfront whose window displays a grid of small house cards.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "barn-conversion",
+  "category": "property",
+  "draw": "Gambrel-roof barn with a large glazed front, domestic windows and a chimney on its roof.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "machiya-townhouse",
+  "category": "property",
+  "draw": "Narrow two-storey Japanese wooden townhouse with a slatted lattice facade and a small tiled roof over the ground floor.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "siheyuan",
+  "category": "property",
+  "draw": "Top view of a walled square courtyard compound with a building on each of its four sides and a gate in one corner.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "shophouse",
+  "category": "property",
+  "draw": "Narrow two-storey terrace building with a shop opening under a row of arches at ground level and shuttered windows above.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "warehouse-loft",
+  "category": "property",
+  "draw": "Brick industrial building with a flat roof and tall multi-pane arched windows converted into homes.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "hillside-house",
+  "category": "property",
+  "draw": "House perched on a steep slope with long stilts supporting its downhill side.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "shotgun-house",
+  "category": "property",
+  "draw": "Very narrow one-storey house seen from the front: steep front gable, a door and a single window side by side under a shallow porch roof.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "american-foursquare",
+  "category": "property",
+  "draw": "Boxy two-storey house with a hipped roof, a single central dormer and a full-width front porch.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "multi-family-home",
+  "category": "property",
+  "draw": "Two-storey house with a separate front door on each floor, the upper one reached by an outside staircase.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "loft-conversion",
+  "category": "property",
+  "draw": "House cross-section with a bed placed in the attic triangle beneath a new roof dormer.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "garage-conversion",
+  "category": "property",
+  "draw": "Garage building whose big door opening is filled in with a wall and a normal window.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "home-extension",
+  "category": "property",
+  "draw": "House with an added side wing drawn in dashed outline.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "door-swing-symbol",
+  "category": "property",
+  "draw": "Floor plan symbol: a gap in a thick wall line with a straight door leaf and a quarter-circle arc showing its swing.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "window-plan-symbol",
+  "category": "property",
+  "draw": "Floor plan symbol: a thick wall line interrupted by a thin rectangle crossed by three parallel lines.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "stairs-plan-symbol",
+  "category": "property",
+  "draw": "Floor plan symbol: a rectangle filled with parallel tread lines, a diagonal break line and an arrow running up the middle.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "isometric-floor-plan",
+  "category": "property",
+  "draw": "Isometric view of a roofless floor plan with raised walls dividing it into three rooms.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "site-plan",
+  "category": "property",
+  "draw": "Top view of a property boundary rectangle containing a house footprint, a driveway strip and the street edge along one side.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "ceiling-height",
+  "category": "property",
+  "draw": "Room cross-section with a vertical double-headed arrow reaching from the floor line to the ceiling line.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "corner-lot",
+  "category": "property",
+  "draw": "Top view of a square plot sitting where two streets meet at a right angle, with a small house footprint inside.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "flag-lot",
+  "category": "property",
+  "draw": "Top view of a flag-shaped plot: a wide rear parcel with a house joined to the street by a long narrow driveway strip.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "lot-subdivision",
+  "category": "property",
+  "draw": "Top view of a plot outline split by dashed lines into four smaller numbered parcels.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "property-easement",
+  "category": "property",
+  "draw": "Top view of two neighboring plots with a dashed path strip running across one of them to reach the other.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "building-setback",
+  "category": "property",
+  "draw": "Top view of a plot outline with an inner dashed line set in from the edges and a house footprint inside that line.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "building-floor-level",
+  "category": "property",
+  "draw": "Building of four stacked floors drawn as bands, with the third floor band filled.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "roof-pitch",
+  "category": "property",
+  "draw": "Roof triangle with a small right-angle rise and run marker and an angle arc at its base.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "load-bearing-wall",
+  "category": "property",
+  "draw": "Wall section with a beam resting on top and downward arrows pressing onto it.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "sun-orientation",
+  "category": "property",
+  "draw": "House under a dotted arc showing the sun's path from one side to the other, with a small sun on the arc.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "kitchen-work-triangle",
+  "category": "property",
+  "draw": "Plan of a sink, hob and fridge placed around a kitchen with a dashed triangle connecting them.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "galley-kitchen",
+  "category": "property",
+  "draw": "Floor plan of two long parallel counters with a narrow walkway between them, a sink on one and a hob on the other.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "jack-and-jill-bathroom",
+  "category": "property",
+  "draw": "Floor plan of a bathroom between two bedrooms, with a door opening into it from each side.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "en-suite-bathroom",
+  "category": "property",
+  "draw": "Floor plan of a bedroom with a bed and a connected bathroom with a tub reached through an internal door.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "guest-room",
+  "category": "property",
+  "draw": "Made single bed with a folded towel on it and a small suitcase standing at its foot.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "mudroom",
+  "category": "property",
+  "draw": "Wall bench with a pair of boots underneath and coats hanging on hooks above.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "utility-room",
+  "category": "property",
+  "draw": "Tall water heater tank standing beside a furnace cabinet with a duct rising from its top.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "half-bathroom",
+  "category": "property",
+  "draw": "Toilet next to a small pedestal sink, with no bathtub or shower.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "kitchenette",
+  "category": "property",
+  "draw": "Short single counter with a two-burner hob, a small sink and a mini fridge tucked underneath.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "breakfast-nook",
+  "category": "property",
+  "draw": "Corner bench seat under a window with a small round table in front of it.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "linen-closet",
+  "category": "property",
+  "draw": "Open cupboard door revealing shelves of stacked folded towels and sheets.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "safe-room",
+  "category": "property",
+  "draw": "House outline with a heavy vault door and round wheel handle inside it.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "wet-room",
+  "category": "property",
+  "draw": "Open tiled floor with a long linear drain and a wall-mounted shower head, with no tray or curtain.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "crawl-space",
+  "category": "property",
+  "draw": "House cross-section with a low empty space beneath the floor and a small vent grille in the foundation wall.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "indoor-pool",
+  "category": "property",
+  "draw": "Swimming pool with a ladder, enclosed under a pitched glass roof frame.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "cathedral-ceiling",
+  "category": "property",
+  "draw": "Room cross-section with a tall peaked ceiling following the roof line and a pendant light hanging from the apex.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "floor-to-ceiling-windows",
+  "category": "property",
+  "draw": "Wall of full-height glass panes running from floor to ceiling, with a small plant beside them for scale.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "sunken-living-room",
+  "category": "property",
+  "draw": "Section view of a sofa set in a lowered floor area with two steps leading down into it.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "clerestory-window",
+  "category": "property",
+  "draw": "House cross-section with a raised roof section holding a strip of small windows high on the wall.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "door-canopy",
+  "category": "property",
+  "draw": "Front door with a small pitched hood roof above it supported on two wall brackets.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "sidelight-entry-door",
+  "category": "property",
+  "draw": "Front door flanked by a narrow vertical glass panel on each side.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "sold-property-sign",
+  "category": "property",
+  "draw": "Hanging real estate sign panel on a post arm, with a diagonal band across the panel.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "for-rent-sign",
+  "category": "property",
+  "draw": "Hanging sign panel on a post arm with a key symbol on its face.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "price-reduced-home",
+  "category": "property",
+  "draw": "House with a price tag hanging from its roof and a downward arrow beside the tag.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "property-auction",
+  "category": "property",
+  "draw": "Auction gavel striking its block beside a small house.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "property-deal",
+  "category": "property",
+  "draw": "Handshake beneath a house roof outline.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "compare-homes",
+  "category": "property",
+  "draw": "Balance scale with a small house resting on each pan.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "aerial-property-photo",
+  "category": "property",
+  "draw": "Quadcopter drone with a camera hovering above a house roof.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "real-estate-photography",
+  "category": "property",
+  "draw": "Camera whose rear screen shows a small house.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "property-location-pin",
+  "category": "property",
+  "draw": "Map pin with a house shape cut out of its round head.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "flyer-box",
+  "category": "property",
+  "draw": "Clear brochure box fixed to a sign post with a stack of folded flyers inside.",
+  "domain": "r3-real-estate-property"
+ },
+ {
+  "name": "housewarming-party",
+  "category": "property",
+  "draw": "House with confetti and streamers bursting out from above its roof.",
+  "domain": "r3-real-estate-property"
+ }
+]

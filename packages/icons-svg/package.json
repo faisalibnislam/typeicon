@@ -1,0 +1,21 @@
+{
+  "name": "@typeicon/icons-svg",
+  "version": "0.1.0",
+  "description": "TypeIcon sanitized SVG files and per-pack SVG sprites.",
+  "private": true,
+  "license": "SEE LICENSE IN dist/licenses/ATTRIBUTION.md",
+  "sideEffects": false,
+  "exports": {
+    "./svg/*": "./dist/svg/*",
+    "./sprites/*": "./dist/sprites/*",
+    "./licenses/*": "./dist/licenses/*",
+    "./package.json": "./package.json",
+    "./*": "./dist/svg/*"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "generate": "node ../scripts/generate.mjs"
+  }
+}

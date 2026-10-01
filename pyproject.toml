@@ -1,0 +1,27 @@
+[project]
+name = "typeicon-workspace"
+version = "0.0.0"
+requires-python = ">=3.12,<3.13"
+description = "TypeIcon Python workspace root (pipeline, font builder, worker)"
+dependencies = []
+
+[tool.uv.workspace]
+members = ["tools/font-builder", "tools/importers", "apps/worker"]
+
+[tool.uv.sources]
+typeicon-fonts = { workspace = true }
+typeicon-import = { workspace = true }
+typeicon-worker = { workspace = true }
+
+[dependency-groups]
+dev = [
+    "pytest==8.4.2",
+    "Pillow==11.3.0",
+    "freetype-py==2.5.1",
+    "resvg-py==0.5.0",
+    "numpy==2.3.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tools/font-builder/tests", "tools/importers/tests", "apps/worker/tests"]
+addopts = "--import-mode=importlib"

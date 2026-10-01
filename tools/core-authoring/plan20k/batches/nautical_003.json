@@ -1,0 +1,320 @@
+[
+ {
+  "name": "gillnet",
+  "category": "nautical",
+  "draw": "Wall of net hanging vertically in the water, a row of floats along the top and weights along the bottom.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "purse-seine",
+  "category": "nautical",
+  "draw": "Circle of net seen from above surrounding a school of fish, with a boat at one side drawing it closed.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "purse-seiner",
+  "category": "nautical",
+  "draw": "Fishing boat with a tall mast and boom carrying a hanging pulley block, a small skiff on its stern.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "crab-boat",
+  "category": "nautical",
+  "draw": "Fishing boat with a wheelhouse forward and a stack of square cage pots on its open back deck.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "dory",
+  "category": "nautical",
+  "draw": "Small flat bottomed rowing boat with high flared sides and a narrow pointed stern, side view.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "glass-fishing-float",
+  "category": "nautical",
+  "draw": "Round glass ball wrapped in a diamond net of rope with a hanging loop.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fish-box",
+  "category": "nautical",
+  "draw": "Stackable open crate filled with ice and several fish tails sticking out over the edge.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "gaff-hook",
+  "category": "nautical",
+  "draw": "Long straight pole ending in a large sharp curved hook, used to land big fish.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "harpoon",
+  "category": "nautical",
+  "draw": "Long shaft with a barbed pointed head at one end and a rope tied near the other.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "netting-needle",
+  "category": "nautical",
+  "draw": "Flat elongated shuttle with a pointed tip, a central tongue and a notched tail, loaded with twine.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "trawl-door",
+  "category": "nautical",
+  "draw": "Heavy curved rectangular steel plate with a bridle chain and a towing wire, used to spread a trawl net.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "squid-jig",
+  "category": "nautical",
+  "draw": "Slim lure body with a crown of fine upturned hooks around its bottom end.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fighting-chair",
+  "category": "nautical",
+  "draw": "Swiveling boat chair with a footrest bar and a rod holder socket between the knees.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fish-weir",
+  "category": "nautical",
+  "draw": "Top view of a heart shaped fence of stakes in the water with a narrow entrance and a fish inside.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "net-drum",
+  "category": "nautical",
+  "draw": "Large horizontal reel with side flanges on a boat stern, wound with fishing net.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cantilever-fishing-net",
+  "category": "nautical",
+  "draw": "Large square net hanging from a tall wooden frame that leans out over the water on the shore, with stone counterweights.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "stilt-fishing",
+  "category": "nautical",
+  "draw": "Fisher perched on a small crossbar on a single wooden pole standing in the sea, holding a rod.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cormorant-fishing",
+  "category": "nautical",
+  "draw": "Small raft with a fisher holding a lantern at the front and a cormorant perched on the side.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fish-drying-rack",
+  "category": "nautical",
+  "draw": "Wooden A frame rack with rows of split fish hanging from its crossbars.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "squid-fishing-boat",
+  "category": "nautical",
+  "draw": "Fishing boat with long rows of big hanging light bulbs strung above its deck.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "handline-frame",
+  "category": "nautical",
+  "draw": "H shaped wooden winder frame wound with fishing line, a hook and sinker hanging from the end.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cutlass",
+  "category": "nautical",
+  "draw": "Short curved sword with a wide single edged blade and a cupped hand guard.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "doubloon",
+  "category": "nautical",
+  "draw": "Old gold coin with an irregular edge and a cross stamped in the center.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "scrimshaw",
+  "category": "nautical",
+  "draw": "Whale tooth carved with a small sailing ship engraving on its curved surface.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sailors-valentine",
+  "category": "nautical",
+  "draw": "Octagonal wooden box opened to show a mosaic of small shells arranged in a heart pattern.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "caulking-iron",
+  "category": "nautical",
+  "draw": "Wide flat chisel with a blunt edge beside a wooden mallet and a strand of oakum.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "hardtack",
+  "category": "nautical",
+  "draw": "Square cracker biscuit with a neat grid of small holes pricked across its surface.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "widows-walk",
+  "category": "nautical",
+  "draw": "House roof with a small railed flat platform on its peak looking out to sea.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "crossed-anchors",
+  "category": "nautical",
+  "draw": "Two anchors crossed diagonally over each other in an X, an emblem.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fouled-anchor",
+  "category": "nautical",
+  "draw": "Anchor with a rope wound loosely around its shank and stock, a classic maritime emblem.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "mariners-cross",
+  "category": "nautical",
+  "draw": "Cross whose lower end curves into the arms of an anchor, a Christian maritime symbol.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "powder-keg",
+  "category": "nautical",
+  "draw": "Small wooden barrel with metal bands and a lit fuse sticking out of the top.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "rolling-hitch",
+  "category": "nautical",
+  "draw": "Rope wrapped twice diagonally around a vertical pole in the same direction, then finished with a hitch above, gripping lengthwise pull.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "anchor-bend",
+  "category": "nautical",
+  "draw": "Rope taking two round turns through an anchor ring, the tail tucked under both turns and finished with a half hitch.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "highwaymans-hitch",
+  "category": "nautical",
+  "draw": "Series of rope bights looped through each other around a horizontal rail, with one short tail hanging free for quick release.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "palomar-knot",
+  "category": "nautical",
+  "draw": "Doubled fishing line passed through a hook eye and tied in an overhand knot, with the loop slipped over the hook.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ghost-ship",
+  "category": "nautical",
+  "draw": "Old sailing ship with tattered torn sails and a ragged hull, wisps of mist drifting around it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "dive-lift-bag",
+  "category": "nautical",
+  "draw": "Upside down open bottomed bag partly filled with air, rising underwater and lifting an object on straps below.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "oyster-tongs",
+  "category": "nautical",
+  "draw": "Two long wooden handles hinged like scissors with toothed rake baskets at their lower ends.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "push-net",
+  "category": "nautical",
+  "draw": "Wide triangular net on two crossed poles pushed ahead through shallow water by a wading figure.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "leeboard",
+  "category": "nautical",
+  "draw": "Side of a flat bottomed sailing barge with a large fan shaped wooden board pivoting down into the water.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "backstaff",
+  "category": "nautical",
+  "draw": "Wooden navigation instrument with two arcs of different sizes on a long staff and small vanes at the ends.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "nocturnal-star-dial",
+  "category": "nautical",
+  "draw": "Round dial with a hand grip below and a long pivoting pointer arm, a small sighting hole at its center.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "marine-loading-arm",
+  "category": "nautical",
+  "draw": "Jointed pipe arm on a jetty folded like an elbow, reaching over to connect to a tanker ship's deck.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "vessel-traffic-tower",
+  "category": "nautical",
+  "draw": "Tall harbor tower with a glass walled lookout room at the top and a rotating radar bar above it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "faith-hope-charity-symbol",
+  "category": "nautical",
+  "draw": "Emblem of a cross, an anchor and a heart combined in one stacked design.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "rope-frame",
+  "category": "nautical",
+  "draw": "Round frame made of thick twisted rope with its ends tied in a small knot at the bottom.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "rigid-inflatable-boat",
+  "category": "nautical",
+  "draw": "Side view of a boat with a thick inflatable tube running around a hard hull, a console and an outboard motor.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sterndrive",
+  "category": "nautical",
+  "draw": "Boat stern in side view with an inboard engine hatch and a drive leg bolted to the transom, propeller below.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ship-gunport",
+  "category": "nautical",
+  "draw": "Square hinged hatch open in the side of a wooden ship's hull with a cannon muzzle poking out.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "deck-prism",
+  "category": "nautical",
+  "draw": "Glass prism set flush in a ship's deck, a flat hexagon on top tapering to a point below, casting light down.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "quay-steps",
+  "category": "nautical",
+  "draw": "Stone steps cut into a harbor wall leading down into the water, with a small boat tied at the bottom.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "beach-seine",
+  "category": "nautical",
+  "draw": "Arc of net in the shallows with two long ropes running to the beach, hauled in by small figures.",
+  "domain": "r2-nautical-maritime"
+ }
+]

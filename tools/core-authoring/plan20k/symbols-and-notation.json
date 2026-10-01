@@ -1,0 +1,2297 @@
+[
+  {
+    "name": "zeta",
+    "category": "notation",
+    "draw": "Lowercase Greek zeta: a small top bar flowing into a steep diagonal and a curled tail under the baseline."
+  },
+  {
+    "name": "eta-letter",
+    "category": "notation",
+    "draw": "Lowercase Greek eta: an n shape whose right stem drops well below the baseline."
+  },
+  {
+    "name": "xi",
+    "category": "notation",
+    "draw": "Lowercase Greek xi: stacked wavy strokes like a squiggly 3 with a hooked tail below the baseline."
+  },
+  {
+    "name": "rho",
+    "category": "notation",
+    "draw": "Lowercase Greek rho: a round bowl with a straight stem descending from its left side below the baseline."
+  },
+  {
+    "name": "tau",
+    "category": "notation",
+    "draw": "Lowercase Greek tau: a short horizontal top bar with a single stem curving right at the foot."
+  },
+  {
+    "name": "chi",
+    "category": "notation",
+    "draw": "Lowercase Greek chi: a tall X whose one stroke is a gentle S curve and descends below the baseline."
+  },
+  {
+    "name": "psi",
+    "category": "notation",
+    "draw": "Greek psi: a trident shape, a U cup with a straight stem through the middle that extends below it."
+  },
+  {
+    "name": "kappa-letter",
+    "category": "notation",
+    "draw": "Lowercase Greek kappa: a short upright stem with two diagonal arms like a compact k."
+  },
+  {
+    "name": "aleph",
+    "category": "notation",
+    "draw": "Hebrew aleph used for infinite cardinals: a slanted diagonal stroke with an upper right arm and a lower left leg."
+  },
+  {
+    "name": "h-bar",
+    "category": "notation",
+    "draw": "Reduced Planck constant: an italic h with a short diagonal bar crossing its ascender."
+  },
+  {
+    "name": "partial-derivative",
+    "category": "notation",
+    "draw": "Partial derivative sign: a backward 6 shape, a round bowl with a stroke curling up and over to the left."
+  },
+  {
+    "name": "double-integral",
+    "category": "notation",
+    "draw": "Two tall integral signs side by side, each a long S shaped stroke with hooked ends."
+  },
+  {
+    "name": "triple-integral",
+    "category": "notation",
+    "draw": "Three tall slender integral signs side by side, tightly spaced."
+  },
+  {
+    "name": "contour-integral",
+    "category": "notation",
+    "draw": "A tall integral sign with a small circle threaded through the middle of its stroke."
+  },
+  {
+    "name": "absolute-value",
+    "category": "notation",
+    "draw": "An x between two tall vertical bars, one on each side."
+  },
+  {
+    "name": "floor-function",
+    "category": "notation",
+    "draw": "An x enclosed by two brackets that have only bottom feet, like two L shapes facing inward."
+  },
+  {
+    "name": "proportional-to",
+    "category": "notation",
+    "draw": "Proportionality sign: a sideways open loop like an alpha missing its right tail, open to the right."
+  },
+  {
+    "name": "congruent",
+    "category": "notation",
+    "draw": "Congruence sign: a tilde wave sitting above two parallel horizontal bars."
+  },
+  {
+    "name": "similar-to",
+    "category": "notation",
+    "draw": "Similarity sign: two small triangles side by side with a tilde between them."
+  },
+  {
+    "name": "perpendicular",
+    "category": "notation",
+    "draw": "Up tack perpendicular sign: a vertical line standing on a horizontal base line with a small right angle square in the corner."
+  },
+  {
+    "name": "parallel-lines-symbol",
+    "category": "notation",
+    "draw": "Parallel sign: two slanted parallel strokes side by side."
+  },
+  {
+    "name": "measured-angle",
+    "category": "notation",
+    "draw": "Measured angle sign: an angle made of two rays from a vertex with a small arc drawn across the opening."
+  },
+  {
+    "name": "arc-notation",
+    "category": "notation",
+    "draw": "Arc notation: two letters A and B with a smooth arc drawn over them."
+  },
+  {
+    "name": "line-segment-notation",
+    "category": "notation",
+    "draw": "Line segment notation: two letters A and B with a straight bar over them."
+  },
+  {
+    "name": "limit-notation",
+    "category": "notation",
+    "draw": "The letters lim above a small x with an arrow pointing to a, the limit of a function."
+  },
+  {
+    "name": "derivative-notation",
+    "category": "notation",
+    "draw": "Derivative written as a stacked fraction dy over dx with a horizontal division bar."
+  },
+  {
+    "name": "natural-numbers",
+    "category": "notation",
+    "draw": "Double struck capital N: a blackboard bold N with a doubled left stroke."
+  },
+  {
+    "name": "integers-set",
+    "category": "notation",
+    "draw": "Double struck capital Z: a blackboard bold Z with a doubled diagonal stroke."
+  },
+  {
+    "name": "rational-numbers",
+    "category": "notation",
+    "draw": "Double struck capital Q: a blackboard bold Q with a doubled left curve and a tail."
+  },
+  {
+    "name": "real-numbers",
+    "category": "notation",
+    "draw": "Double struck capital R: a blackboard bold R with a doubled stem."
+  },
+  {
+    "name": "complex-numbers",
+    "category": "notation",
+    "draw": "Double struck capital C: a blackboard bold C with a doubled inner curve."
+  },
+  {
+    "name": "logical-not",
+    "category": "notation",
+    "draw": "Logical negation sign: a horizontal bar with a short vertical hook dropping down at its right end."
+  },
+  {
+    "name": "implies",
+    "category": "notation",
+    "draw": "Implication sign: a double stroke arrow pointing right, two parallel shafts ending in one arrowhead."
+  },
+  {
+    "name": "if-and-only-if",
+    "category": "notation",
+    "draw": "Biconditional sign: a double stroke arrow with arrowheads at both ends."
+  },
+  {
+    "name": "maps-to",
+    "category": "notation",
+    "draw": "Maps to sign: a right pointing arrow whose tail ends in a short vertical bar."
+  },
+  {
+    "name": "binomial-coefficient",
+    "category": "notation",
+    "draw": "Binomial coefficient: a small n stacked above a k inside tall parentheses, with no fraction bar."
+  },
+  {
+    "name": "basis-point",
+    "category": "notation",
+    "draw": "Per ten thousand sign: a percent sign with three small circles below the slash instead of one."
+  },
+  {
+    "name": "modulo",
+    "category": "notation",
+    "draw": "The letters mod between a small a and b, the modular arithmetic operator."
+  },
+  {
+    "name": "system-of-equations",
+    "category": "notation",
+    "draw": "Two short stacked equations joined on the left by a tall curly brace."
+  },
+  {
+    "name": "quadratic-equation",
+    "category": "notation",
+    "draw": "An x with a small raised 2 followed by a plus sign and a parabola sketch beside it."
+  },
+  {
+    "name": "inequality-number-line",
+    "category": "notation",
+    "draw": "A number line with a hollow circle and a thick shaded ray extending right to an arrowhead."
+  },
+  {
+    "name": "dot-product",
+    "category": "notation",
+    "draw": "Two small vector letters with arrows above, separated by a bold centered dot."
+  },
+  {
+    "name": "function-composition",
+    "category": "notation",
+    "draw": "Two letters f and g separated by a small hollow ring operator."
+  },
+  {
+    "name": "transpose-matrix",
+    "category": "notation",
+    "draw": "A square bracket matrix with a small superscript T at its top right corner."
+  },
+  {
+    "name": "imaginary-unit",
+    "category": "notation",
+    "draw": "An italic lowercase i beside a small equation showing the square root of minus one."
+  },
+  {
+    "name": "euler-identity",
+    "category": "notation",
+    "draw": "The letter e with a raised i pi exponent followed by plus 1 equals 0."
+  },
+  {
+    "name": "conic-sections",
+    "category": "notation",
+    "draw": "A double cone cut by a tilted plane, with the elliptical cut outline shown on its side."
+  },
+  {
+    "name": "parabola",
+    "category": "notation",
+    "draw": "A U shaped parabola curve opening upward on a pair of x and y axes, with a small dot at its vertex."
+  },
+  {
+    "name": "hyperbola",
+    "category": "notation",
+    "draw": "Two mirrored curved branches opening left and right on crossed axes with dashed diagonal asymptotes."
+  },
+  {
+    "name": "ellipse-foci",
+    "category": "notation",
+    "draw": "A wide ellipse with two small dots marking its foci and lines from each focus to one point on the curve."
+  },
+  {
+    "name": "tangent-line",
+    "category": "notation",
+    "draw": "A circle with a straight line touching it at a single point, marked by a small dot."
+  },
+  {
+    "name": "unit-circle",
+    "category": "notation",
+    "draw": "A circle centered on crossed axes with one radius drawn to a point and the angle arc marked at the center."
+  },
+  {
+    "name": "polar-grid",
+    "category": "notation",
+    "draw": "Concentric circles crossed by radial spokes, a polar coordinate grid with one plotted point."
+  },
+  {
+    "name": "three-d-axes",
+    "category": "notation",
+    "draw": "Three axes from one origin: vertical, horizontal and a diagonal receding axis, each ending in an arrowhead."
+  },
+  {
+    "name": "slope-triangle",
+    "category": "notation",
+    "draw": "A rising straight line on a grid with a small right triangle underneath showing rise and run."
+  },
+  {
+    "name": "sierpinski-triangle",
+    "category": "notation",
+    "draw": "A triangle subdivided into smaller triangles with the middle ones left empty, two levels deep."
+  },
+  {
+    "name": "koch-snowflake",
+    "category": "notation",
+    "draw": "A six pointed fractal snowflake outline whose edges have smaller triangular bumps."
+  },
+  {
+    "name": "mandelbrot-set",
+    "category": "notation",
+    "draw": "The Mandelbrot set silhouette: a heart shaped cardioid with a round bulb attached on its left and tiny buds."
+  },
+  {
+    "name": "fractal-tree",
+    "category": "notation",
+    "draw": "A binary branching tree where each branch splits into two smaller branches, three levels deep."
+  },
+  {
+    "name": "mobius-strip",
+    "category": "notation",
+    "draw": "A twisted band with a single half twist forming a figure of eight like loop in perspective."
+  },
+  {
+    "name": "klein-bottle",
+    "category": "notation",
+    "draw": "A bottle whose long neck curves around and passes back into its own side, forming a closed surface."
+  },
+  {
+    "name": "trefoil-knot",
+    "category": "notation",
+    "draw": "A three lobed closed knot with over and under crossings visible at the three intersections."
+  },
+  {
+    "name": "tesseract",
+    "category": "notation",
+    "draw": "A small cube nested inside a larger cube with lines joining their matching corners."
+  },
+  {
+    "name": "octahedron",
+    "category": "notation",
+    "draw": "Two square pyramids joined base to base forming a diamond shaped solid with visible edges."
+  },
+  {
+    "name": "dodecahedron",
+    "category": "notation",
+    "draw": "A twelve faced solid made of pentagons, with a central pentagon face surrounded by five others."
+  },
+  {
+    "name": "icosahedron",
+    "category": "notation",
+    "draw": "A twenty faced solid of triangles with a triangular front face and a hexagonal outline."
+  },
+  {
+    "name": "frustum",
+    "category": "notation",
+    "draw": "A cone with its top sliced off flat, showing an elliptical top and bottom."
+  },
+  {
+    "name": "cube-net",
+    "category": "notation",
+    "draw": "An unfolded cube: six squares arranged in a cross shape."
+  },
+  {
+    "name": "circle-radius",
+    "category": "notation",
+    "draw": "A circle with a dot at its centre and a single line to the edge labelled r."
+  },
+  {
+    "name": "circle-circumference",
+    "category": "notation",
+    "draw": "A circle with a curved arrow running along its outer edge."
+  },
+  {
+    "name": "sector-of-circle",
+    "category": "notation",
+    "draw": "A circle with a pie slice sector outlined by two radii and the arc between them shaded."
+  },
+  {
+    "name": "inscribed-angle",
+    "category": "notation",
+    "draw": "A circle with two chords meeting at a point on the edge, forming an angle marked by a small arc."
+  },
+  {
+    "name": "heptagon",
+    "category": "notation",
+    "draw": "A regular seven sided polygon outline."
+  },
+  {
+    "name": "decagon",
+    "category": "notation",
+    "draw": "A regular ten sided polygon outline."
+  },
+  {
+    "name": "hexagonal-prism",
+    "category": "notation",
+    "draw": "A prism with hexagonal ends drawn in perspective."
+  },
+  {
+    "name": "hemisphere",
+    "category": "notation",
+    "draw": "Half a sphere sitting on its flat circular base, with an elliptical rim."
+  },
+  {
+    "name": "angle-bisector",
+    "category": "notation",
+    "draw": "An angle made of two rays with a dashed line splitting it into two equal arcs."
+  },
+  {
+    "name": "perpendicular-bisector",
+    "category": "notation",
+    "draw": "A line segment with a dashed line crossing it at its midpoint with a right angle mark."
+  },
+  {
+    "name": "line-of-symmetry",
+    "category": "notation",
+    "draw": "A simple leaf shape split down the middle by a vertical dashed line."
+  },
+  {
+    "name": "rotational-symmetry",
+    "category": "notation",
+    "draw": "A three bladed pinwheel shape with a curved arrow around its centre."
+  },
+  {
+    "name": "tessellation-pattern",
+    "category": "notation",
+    "draw": "Interlocking hexagon tiles covering a square area with no gaps."
+  },
+  {
+    "name": "sine-cosine-waves",
+    "category": "notation",
+    "draw": "Two overlapping waves on an axis, one solid sine and one dashed cosine, shifted by a quarter."
+  },
+  {
+    "name": "sigmoid-curve",
+    "category": "notation",
+    "draw": "An S shaped logistic curve rising from a low flat line to a high flat line on axes."
+  },
+  {
+    "name": "exponential-curve",
+    "category": "notation",
+    "draw": "A curve on axes that starts flat and rises steeply to the upper right."
+  },
+  {
+    "name": "logarithmic-curve",
+    "category": "notation",
+    "draw": "A curve on axes that rises steeply first and then flattens toward the right."
+  },
+  {
+    "name": "step-function",
+    "category": "notation",
+    "draw": "A staircase of horizontal steps on axes with filled and hollow dots at the jumps."
+  },
+  {
+    "name": "asymptote",
+    "category": "notation",
+    "draw": "A curve approaching a vertical dashed line without touching it."
+  },
+  {
+    "name": "vector-field",
+    "category": "notation",
+    "draw": "A grid of small arrows of varying directions forming a swirling field."
+  },
+  {
+    "name": "complex-plane",
+    "category": "notation",
+    "draw": "Crossed axes labelled Re and Im with an arrow from the origin to a plotted point."
+  },
+  {
+    "name": "light-cone",
+    "category": "notation",
+    "draw": "Two cones meeting tip to tip at an origin point on a vertical time axis."
+  },
+  {
+    "name": "feynman-diagram",
+    "category": "notation",
+    "draw": "Two straight arrows meeting at a vertex joined by a wavy photon line to another vertex with two arrows."
+  },
+  {
+    "name": "number-line",
+    "category": "notation",
+    "draw": "A horizontal line with evenly spaced tick marks and arrowheads at both ends, one tick labelled 0."
+  },
+  {
+    "name": "long-division",
+    "category": "notation",
+    "draw": "The long division bracket, a curved stroke joined to a top bar, with digits beneath and a quotient above."
+  },
+  {
+    "name": "column-addition",
+    "category": "notation",
+    "draw": "Two stacked numbers with a plus sign on the left and a horizontal line beneath them."
+  },
+  {
+    "name": "factor-tree",
+    "category": "notation",
+    "draw": "A number at the top branching down into pairs of smaller numbers, prime factors circled."
+  },
+  {
+    "name": "ten-frame",
+    "category": "notation",
+    "draw": "A two by five grid of squares with counters filling some of the cells."
+  },
+  {
+    "name": "number-bond",
+    "category": "notation",
+    "draw": "Three circles linked by lines, one whole at the top joined to two parts below."
+  },
+  {
+    "name": "pascals-triangle",
+    "category": "notation",
+    "draw": "Numbers arranged in a triangular stack, rows of 1, 1 1, 1 2 1, 1 3 3 1."
+  },
+  {
+    "name": "magic-square",
+    "category": "notation",
+    "draw": "A three by three grid of numbers where every row and column sums the same."
+  },
+  {
+    "name": "truth-table",
+    "category": "notation",
+    "draw": "A small grid with T and F entries in columns under headings p, q and a result column."
+  },
+  {
+    "name": "roman-numerals",
+    "category": "notation",
+    "draw": "The Roman numerals I V X written in serif capitals."
+  },
+  {
+    "name": "mayan-numerals",
+    "category": "notation",
+    "draw": "Mayan number glyphs: dots above horizontal bars, with a shell shape for zero."
+  },
+  {
+    "name": "eastern-arabic-numerals",
+    "category": "notation",
+    "draw": "Eastern Arabic digits one, two and three written side by side."
+  },
+  {
+    "name": "chinese-numerals",
+    "category": "notation",
+    "draw": "Chinese numerals one, two and three: one, two and three horizontal strokes stacked."
+  },
+  {
+    "name": "cuneiform-numerals",
+    "category": "notation",
+    "draw": "Babylonian cuneiform numerals: rows of small wedge shaped marks pressed as if into clay."
+  },
+  {
+    "name": "hundred-chart",
+    "category": "notation",
+    "draw": "A ten by ten grid of small squares with a few cells highlighted in a pattern."
+  },
+  {
+    "name": "place-value-chart",
+    "category": "notation",
+    "draw": "Three columns headed H, T and O with digit counters in each column."
+  },
+  {
+    "name": "decimal-point",
+    "category": "notation",
+    "draw": "A number with a clearly enlarged dot between digits, such as 3.14."
+  },
+  {
+    "name": "ordinal-number",
+    "category": "notation",
+    "draw": "A number 1 followed by a small raised st, the ordinal first."
+  },
+  {
+    "name": "odd-and-even",
+    "category": "notation",
+    "draw": "Two rows of counters, one row paired up evenly and the other with a single leftover counter."
+  },
+  {
+    "name": "function-machine",
+    "category": "notation",
+    "draw": "A box with an input arrow on the left, an output arrow on the right and f of x printed on the box."
+  },
+  {
+    "name": "turing-machine",
+    "category": "notation",
+    "draw": "A long tape of cells with a read and write head block and a small arrow above one cell."
+  },
+  {
+    "name": "probability-scale",
+    "category": "notation",
+    "draw": "A horizontal scale from 0 to 1 with a marker pointing at one half."
+  },
+  {
+    "name": "reuleaux-triangle",
+    "category": "notation",
+    "draw": "A curved triangle made of three circular arcs, each centered on the opposite corner."
+  },
+  {
+    "name": "interrobang",
+    "category": "notation",
+    "draw": "Interrobang: a question mark and an exclamation mark overlaid into one glyph sharing a single dot."
+  },
+  {
+    "name": "inverted-question-mark",
+    "category": "notation",
+    "draw": "Inverted question mark as used in Spanish: an upside down question mark with the dot on top."
+  },
+  {
+    "name": "inverted-exclamation-mark",
+    "category": "notation",
+    "draw": "Inverted exclamation mark as used in Spanish: a dot on top and a tapering bar below."
+  },
+  {
+    "name": "double-exclamation-mark",
+    "category": "notation",
+    "draw": "Two exclamation marks side by side, each a tapering bar above a dot."
+  },
+  {
+    "name": "exclamation-question-mark",
+    "category": "notation",
+    "draw": "An exclamation mark followed by a question mark side by side."
+  },
+  {
+    "name": "semicolon",
+    "category": "notation",
+    "draw": "A semicolon: a round dot above a comma with a short curved tail."
+  },
+  {
+    "name": "colon-punctuation",
+    "category": "notation",
+    "draw": "A colon: two round dots stacked vertically."
+  },
+  {
+    "name": "comma-punctuation",
+    "category": "notation",
+    "draw": "A single large comma: a round dot with a curved tail sweeping down and left."
+  },
+  {
+    "name": "guillemets",
+    "category": "notation",
+    "draw": "Double angle quotation marks: two pairs of small chevrons pointing outward on either side of a short line of text."
+  },
+  {
+    "name": "lenticular-brackets",
+    "category": "notation",
+    "draw": "Solid lenticular brackets: two thick bracket shapes with curved inner sides facing each other."
+  },
+  {
+    "name": "dagger",
+    "category": "notation",
+    "draw": "Dagger mark: a vertical stroke with a short crossbar near the top, like a slim cross."
+  },
+  {
+    "name": "double-dagger",
+    "category": "notation",
+    "draw": "Double dagger mark: a vertical stroke with two short crossbars, one near the top and one near the bottom."
+  },
+  {
+    "name": "asterism-mark",
+    "category": "notation",
+    "draw": "Asterism: three small asterisks arranged in a triangle, two below and one above."
+  },
+  {
+    "name": "hedera",
+    "category": "notation",
+    "draw": "Hedera ivy leaf dingbat: a heart shaped leaf with a curling stem."
+  },
+  {
+    "name": "numero-sign",
+    "category": "notation",
+    "draw": "Numero sign: a capital N followed by a small raised o with a bar under it."
+  },
+  {
+    "name": "care-of-sign",
+    "category": "notation",
+    "draw": "Care of sign: a small c above a diagonal slash above a small o."
+  },
+  {
+    "name": "sound-recording-copyright",
+    "category": "notation",
+    "draw": "Sound recording copyright symbol: a capital P inside a circle."
+  },
+  {
+    "name": "service-mark",
+    "category": "notation",
+    "draw": "Service mark: a small raised SM in superscript beside a short line of text."
+  },
+  {
+    "name": "copyleft",
+    "category": "notation",
+    "draw": "Copyleft symbol: a reversed capital C inside a circle, opening to the left."
+  },
+  {
+    "name": "ditto-mark",
+    "category": "notation",
+    "draw": "Ditto mark: two short slanted strokes placed under a word in a list."
+  },
+  {
+    "name": "tilde",
+    "category": "notation",
+    "draw": "A single large tilde: a smooth horizontal wave with one rise and one dip."
+  },
+  {
+    "name": "backslash",
+    "category": "notation",
+    "draw": "A backslash: a single stroke leaning from top left to bottom right."
+  },
+  {
+    "name": "vertical-bar",
+    "category": "notation",
+    "draw": "A vertical bar or pipe: one tall straight stroke with a small gap to show it is a glyph."
+  },
+  {
+    "name": "tironian-et",
+    "category": "notation",
+    "draw": "Tironian et: a shape like a 7 with a short foot, the old Latin sign for and."
+  },
+  {
+    "name": "prime-marks",
+    "category": "notation",
+    "draw": "Prime and double prime marks: one and two slanted ticks after a number, for feet and inches."
+  },
+  {
+    "name": "estimated-sign",
+    "category": "notation",
+    "draw": "Estimated sign: a slim lowercase e with a crossbar, used on packaging to mark average contents."
+  },
+  {
+    "name": "acute-accent",
+    "category": "notation",
+    "draw": "The letter e with a short slanted acute accent stroke above it."
+  },
+  {
+    "name": "circumflex-accent",
+    "category": "notation",
+    "draw": "The letter e with a small caret shaped circumflex above it."
+  },
+  {
+    "name": "diaeresis",
+    "category": "notation",
+    "draw": "The letter e with two dots side by side above it."
+  },
+  {
+    "name": "cedilla",
+    "category": "notation",
+    "draw": "The letter c with a small hooked cedilla tail below it."
+  },
+  {
+    "name": "macron",
+    "category": "notation",
+    "draw": "The letter a with a short flat bar above it."
+  },
+  {
+    "name": "breve",
+    "category": "notation",
+    "draw": "The letter a with a small cup shaped breve above it."
+  },
+  {
+    "name": "ring-above",
+    "category": "notation",
+    "draw": "The letter a with a small circle sitting above it."
+  },
+  {
+    "name": "tilde-accent",
+    "category": "notation",
+    "draw": "The letter n with a small wavy tilde above it."
+  },
+  {
+    "name": "ogonek",
+    "category": "notation",
+    "draw": "The letter e with a small hooked tail curling to the right at its base."
+  },
+  {
+    "name": "double-acute-accent",
+    "category": "notation",
+    "draw": "The letter o with two short slanted strokes above it."
+  },
+  {
+    "name": "schwa",
+    "category": "notation",
+    "draw": "Schwa: an upside down lowercase e, the neutral vowel of phonetics."
+  },
+  {
+    "name": "eszett",
+    "category": "notation",
+    "draw": "Eszett sharp s: a tall German letter like a B with an open lower bowl and a long left stem."
+  },
+  {
+    "name": "thorn-letter",
+    "category": "notation",
+    "draw": "Thorn letter: a tall vertical stem with a small bowl attached midway on the right."
+  },
+  {
+    "name": "eth-letter",
+    "category": "notation",
+    "draw": "Eth letter: a round bowl with a curved ascender crossed by a short bar."
+  },
+  {
+    "name": "ae-ligature",
+    "category": "notation",
+    "draw": "Ae ligature: a lowercase a and e joined into one glyph sharing a stroke."
+  },
+  {
+    "name": "oe-ligature",
+    "category": "notation",
+    "draw": "Oe ligature: a lowercase o and e joined into one glyph sharing a stroke."
+  },
+  {
+    "name": "fi-ligature",
+    "category": "notation",
+    "draw": "Fi ligature: an f whose hooked top joins the dot of the i in one connected glyph."
+  },
+  {
+    "name": "ipa-glottal-stop",
+    "category": "notation",
+    "draw": "Glottal stop symbol: a question mark shape without the dot, sitting on the baseline."
+  },
+  {
+    "name": "ipa-eng",
+    "category": "notation",
+    "draw": "Eng letter: a lowercase n whose right leg continues down below the baseline into a hook."
+  },
+  {
+    "name": "serif-font",
+    "category": "notation",
+    "draw": "A capital A in a serif typeface with clear bracketed serifs at its feet."
+  },
+  {
+    "name": "sans-serif-font",
+    "category": "notation",
+    "draw": "A capital A in a plain sans serif typeface with flat stroke ends."
+  },
+  {
+    "name": "monospace-font",
+    "category": "notation",
+    "draw": "Three letters in a fixed width typeface, each sitting in its own equal width cell."
+  },
+  {
+    "name": "script-font",
+    "category": "notation",
+    "draw": "A flowing handwritten capital letter with a looped swash tail."
+  },
+  {
+    "name": "blackletter-font",
+    "category": "notation",
+    "draw": "A capital A in angular blackletter gothic style with broken strokes."
+  },
+  {
+    "name": "slab-serif-font",
+    "category": "notation",
+    "draw": "A capital A with thick rectangular block serifs."
+  },
+  {
+    "name": "x-height",
+    "category": "notation",
+    "draw": "The letters x and h side by side with horizontal guide lines at baseline, x height and ascender height."
+  },
+  {
+    "name": "text-baseline",
+    "category": "notation",
+    "draw": "A short word sitting on a highlighted horizontal line, with a descender dipping below."
+  },
+  {
+    "name": "font-weight-scale",
+    "category": "notation",
+    "draw": "Three capital A letters in a row growing from thin to regular to heavy stroke weight."
+  },
+  {
+    "name": "kerning-pair",
+    "category": "notation",
+    "draw": "The letters A and V nudged close together with a small bracket measuring the gap between them."
+  },
+  {
+    "name": "typesetting-composing-stick",
+    "category": "notation",
+    "draw": "A composing stick tray holding a row of small metal type sorts."
+  },
+  {
+    "name": "dele-mark",
+    "category": "notation",
+    "draw": "Proofreading dele mark: a looped stroke with a curling tail used to delete text."
+  },
+  {
+    "name": "insertion-caret",
+    "category": "notation",
+    "draw": "Proofreading insertion caret: an upside down V under a line of text with a word written above it."
+  },
+  {
+    "name": "close-up-mark",
+    "category": "notation",
+    "draw": "Proofreading close up mark: two arcs, one above and one below, joining two separated letters."
+  },
+  {
+    "name": "cut-here-line",
+    "category": "notation",
+    "draw": "A dashed line with a small pair of open scissors at one end."
+  },
+  {
+    "name": "fold-here-line",
+    "category": "notation",
+    "draw": "A dashed line with a small curved arrow showing a paper corner folding over."
+  },
+  {
+    "name": "perforation-line",
+    "category": "notation",
+    "draw": "A horizontal row of small evenly spaced holes across a strip, the tear off perforation."
+  },
+  {
+    "name": "true-false",
+    "category": "notation",
+    "draw": "A check mark and a cross mark side by side, marking true and false."
+  },
+  {
+    "name": "cent-sign",
+    "category": "notation",
+    "draw": "Cent sign: a lowercase c with a vertical stroke passing through it top to bottom."
+  },
+  {
+    "name": "won-sign",
+    "category": "notation",
+    "draw": "Won sign: a capital W crossed by two horizontal bars."
+  },
+  {
+    "name": "franc-sign",
+    "category": "notation",
+    "draw": "Franc sign: a capital F with an extra horizontal stroke crossing its stem below the arms."
+  },
+  {
+    "name": "turkish-lira-sign",
+    "category": "notation",
+    "draw": "Turkish lira sign: an upright stem with two slanted bars across it and a curved foot sweeping right."
+  },
+  {
+    "name": "philippine-peso-sign",
+    "category": "notation",
+    "draw": "Philippine peso sign: a capital P with two horizontal bars across its bowl."
+  },
+  {
+    "name": "naira-sign",
+    "category": "notation",
+    "draw": "Naira sign: a capital N crossed by two horizontal bars."
+  },
+  {
+    "name": "shekel-sign",
+    "category": "notation",
+    "draw": "Shekel sign: two interlocking square hooks, one opening up and one opening down."
+  },
+  {
+    "name": "dong-sign",
+    "category": "notation",
+    "draw": "Dong sign: a lowercase d with a bar across its ascender and a line underneath."
+  },
+  {
+    "name": "kip-sign",
+    "category": "notation",
+    "draw": "Kip sign: a capital K with a horizontal bar crossing through its stem."
+  },
+  {
+    "name": "tugrik-sign",
+    "category": "notation",
+    "draw": "Tugrik sign: a capital T with two slanted strokes crossing its stem."
+  },
+  {
+    "name": "hryvnia-sign",
+    "category": "notation",
+    "draw": "Hryvnia sign: a reversed S shape crossed by two horizontal bars."
+  },
+  {
+    "name": "cedi-sign",
+    "category": "notation",
+    "draw": "Cedi sign: a capital C with a vertical stroke through it."
+  },
+  {
+    "name": "tenge-sign",
+    "category": "notation",
+    "draw": "Tenge sign: a capital T with a second parallel bar above its top."
+  },
+  {
+    "name": "ruble-sign",
+    "category": "notation",
+    "draw": "Ruble sign: a capital P with a horizontal bar across its stem below the bowl."
+  },
+  {
+    "name": "manat-sign",
+    "category": "notation",
+    "draw": "Manat sign: an upside down U arch with a vertical stroke rising through its centre."
+  },
+  {
+    "name": "lari-sign",
+    "category": "notation",
+    "draw": "Lari sign: a rounded letter shape like a sideways U opening down, with two short vertical strokes on top and a flat foot line."
+  },
+  {
+    "name": "baht-sign",
+    "category": "notation",
+    "draw": "Baht sign: a capital B with a vertical stroke passing through it top to bottom."
+  },
+  {
+    "name": "costa-rican-colon-sign",
+    "category": "notation",
+    "draw": "Colon currency sign: a capital C crossed by two slanted strokes."
+  },
+  {
+    "name": "guarani-sign",
+    "category": "notation",
+    "draw": "Guarani sign: a capital G with a vertical stroke passing through it."
+  },
+  {
+    "name": "taka-sign",
+    "category": "notation",
+    "draw": "Taka sign: a Bengali glyph like a 7 whose top bar has a hooked end and whose body hangs in a rounded loop."
+  },
+  {
+    "name": "afghani-sign",
+    "category": "notation",
+    "draw": "Afghani sign: a curling Arabic style hook like a reversed comma with a small loop at its top."
+  },
+  {
+    "name": "dram-sign",
+    "category": "notation",
+    "draw": "Dram sign: a Armenian letter shape like an upside down U with two horizontal bars across its legs."
+  },
+  {
+    "name": "riel-sign",
+    "category": "notation",
+    "draw": "Riel sign: a tall slender Khmer glyph, a vertical stroke with a looped curl at the top and a small flick at its base."
+  },
+  {
+    "name": "florin-sign",
+    "category": "notation",
+    "draw": "Florin sign: a slanted italic f with a hooked top and a tail descending below the baseline."
+  },
+  {
+    "name": "currency-sign",
+    "category": "notation",
+    "draw": "Generic currency sign: a small circle with four short rays at the diagonal corners."
+  },
+  {
+    "name": "peseta-sign",
+    "category": "notation",
+    "draw": "Peseta sign: a capital P followed by a small ts ligature."
+  },
+  {
+    "name": "brazilian-real-sign",
+    "category": "notation",
+    "draw": "Real currency sign: a capital R followed by a dollar sign."
+  },
+  {
+    "name": "zloty-sign",
+    "category": "notation",
+    "draw": "Zloty sign: a lowercase z followed by a l with a slanted stroke through it."
+  },
+  {
+    "name": "celsius",
+    "category": "notation",
+    "draw": "Degree Celsius: a small raised ring followed by a capital C."
+  },
+  {
+    "name": "fahrenheit",
+    "category": "notation",
+    "draw": "Degree Fahrenheit: a small raised ring followed by a capital F."
+  },
+  {
+    "name": "kelvin",
+    "category": "notation",
+    "draw": "Kelvin unit: a bold capital K with a small thermometer beside it."
+  },
+  {
+    "name": "angstrom-sign",
+    "category": "notation",
+    "draw": "Angstrom sign: a capital A with a small ring above it."
+  },
+  {
+    "name": "liter-sign",
+    "category": "notation",
+    "draw": "Liter sign: a cursive script lowercase l with a looped top."
+  },
+  {
+    "name": "decibel",
+    "category": "notation",
+    "draw": "Decibel unit: the letters dB beside three curved sound waves."
+  },
+  {
+    "name": "hertz",
+    "category": "notation",
+    "draw": "Hertz unit: the letters Hz above a short sine wave."
+  },
+  {
+    "name": "square-meter",
+    "category": "notation",
+    "draw": "Square meter: a lowercase m with a small raised 2."
+  },
+  {
+    "name": "cubic-meter",
+    "category": "notation",
+    "draw": "Cubic meter: a lowercase m with a small raised 3 beside a small cube outline."
+  },
+  {
+    "name": "kilogram-unit",
+    "category": "notation",
+    "draw": "Kilogram unit: a trapezoid weight shape with a handle loop and kg written on its face."
+  },
+  {
+    "name": "kilometer-per-hour",
+    "category": "notation",
+    "draw": "Speed unit: the letters km/h under a small speedometer arc."
+  },
+  {
+    "name": "watt-unit",
+    "category": "notation",
+    "draw": "Watt unit: a capital W beside a small lightning bolt."
+  },
+  {
+    "name": "volt-unit",
+    "category": "notation",
+    "draw": "Volt unit: a capital V inside a circle with plus and minus marks beside it."
+  },
+  {
+    "name": "ampere-unit",
+    "category": "notation",
+    "draw": "Ampere unit: a capital A inside a circle with an arrow along a wire."
+  },
+  {
+    "name": "newton-unit",
+    "category": "notation",
+    "draw": "Newton force unit: a capital N with a force arrow pushing against a small block."
+  },
+  {
+    "name": "joule-unit",
+    "category": "notation",
+    "draw": "Joule energy unit: a capital J beside a small flame."
+  },
+  {
+    "name": "rpm-unit",
+    "category": "notation",
+    "draw": "Revolutions per minute: the letters rpm under a circular arrow."
+  },
+  {
+    "name": "imperial-to-metric",
+    "category": "notation",
+    "draw": "A small ruler marked in inches on top and centimeters below with a double arrow between."
+  },
+  {
+    "name": "centerline-symbol",
+    "category": "notation",
+    "draw": "Centerline symbol: a capital C overlapping a capital L sharing a vertical stroke."
+  },
+  {
+    "name": "flatness-symbol",
+    "category": "notation",
+    "draw": "Flatness tolerance: a single slanted parallelogram outline inside a rectangular frame cell."
+  },
+  {
+    "name": "cylindricity-symbol",
+    "category": "notation",
+    "draw": "Cylindricity tolerance: a small circle between two slanted parallel lines."
+  },
+  {
+    "name": "concentricity-symbol",
+    "category": "notation",
+    "draw": "Concentricity tolerance: two concentric circles, one small inside one larger."
+  },
+  {
+    "name": "position-tolerance-symbol",
+    "category": "notation",
+    "draw": "Position tolerance: a circle with a plus shaped crosshair extending beyond its edge."
+  },
+  {
+    "name": "total-runout-symbol",
+    "category": "notation",
+    "draw": "Total runout tolerance: two slanted arrows side by side joined at their base by a horizontal line."
+  },
+  {
+    "name": "surface-profile-symbol",
+    "category": "notation",
+    "draw": "Surface profile tolerance: a closed semicircle, a dome shape with a flat base line."
+  },
+  {
+    "name": "line-profile-symbol",
+    "category": "notation",
+    "draw": "Line profile tolerance: an open semicircle arc with no base line."
+  },
+  {
+    "name": "angularity-symbol",
+    "category": "notation",
+    "draw": "Angularity tolerance: a small acute angle made of a horizontal line and a slanted line."
+  },
+  {
+    "name": "countersink-symbol",
+    "category": "notation",
+    "draw": "Countersink symbol: a wide V shape like a funnel opening upward."
+  },
+  {
+    "name": "counterbore-symbol",
+    "category": "notation",
+    "draw": "Counterbore symbol: a square cornered U shape, an open box facing upward."
+  },
+  {
+    "name": "spotface-symbol",
+    "category": "notation",
+    "draw": "Spotface symbol: a counterbore U shape with the letters SF inside it."
+  },
+  {
+    "name": "depth-symbol",
+    "category": "notation",
+    "draw": "Depth symbol: a vertical line ending in a downward arrowhead above a short horizontal bar."
+  },
+  {
+    "name": "datum-feature-symbol",
+    "category": "notation",
+    "draw": "Datum feature: a letter A in a square box joined by a stem to a filled triangle on a surface line."
+  },
+  {
+    "name": "feature-control-frame",
+    "category": "notation",
+    "draw": "Feature control frame: a long rectangle divided into three cells holding a symbol, a tolerance and a letter."
+  },
+  {
+    "name": "surface-finish-symbol",
+    "category": "notation",
+    "draw": "Surface texture symbol: a check mark shape with a longer right leg and a short horizontal bar."
+  },
+  {
+    "name": "fillet-weld-symbol",
+    "category": "notation",
+    "draw": "Fillet weld symbol: a small right triangle sitting on a reference line with an arrow leading off."
+  },
+  {
+    "name": "first-angle-projection",
+    "category": "notation",
+    "draw": "First angle projection symbol: a truncated cone side view next to two concentric circles on the right."
+  },
+  {
+    "name": "section-view-symbol",
+    "category": "notation",
+    "draw": "Section cutting plane: a dashed line with thick end strokes and arrows marked A at both ends."
+  },
+  {
+    "name": "dimension-line",
+    "category": "notation",
+    "draw": "Dimension line: a horizontal line with arrowheads at both ends between two short extension lines and a number above."
+  },
+  {
+    "name": "thread-callout",
+    "category": "notation",
+    "draw": "Screw thread callout: a leader arrow pointing at a threaded hole with the label M8."
+  },
+  {
+    "name": "radius-callout",
+    "category": "notation",
+    "draw": "Radius callout: a rounded corner with a leader line labelled R."
+  },
+  {
+    "name": "chamfer-callout",
+    "category": "notation",
+    "draw": "Chamfer callout: a beveled corner with a leader labelled 45 degrees."
+  },
+  {
+    "name": "weld-all-around",
+    "category": "notation",
+    "draw": "Weld all around symbol: a reference line with a small circle at the joint of the arrow."
+  },
+  {
+    "name": "ground-symbol",
+    "category": "notation",
+    "draw": "Electrical ground symbol: a vertical line ending in three horizontal bars of decreasing width."
+  },
+  {
+    "name": "chassis-ground-symbol",
+    "category": "notation",
+    "draw": "Chassis ground symbol: a vertical line ending in a horizontal bar with three short slanted teeth below."
+  },
+  {
+    "name": "protective-earth-symbol",
+    "category": "notation",
+    "draw": "Protective earth symbol: a ground symbol of three shrinking bars enclosed in a circle."
+  },
+  {
+    "name": "battery-cell-symbol",
+    "category": "notation",
+    "draw": "Battery cell schematic symbol: a long thin line beside a short thick line, with plus and minus marks."
+  },
+  {
+    "name": "ac-source-symbol",
+    "category": "notation",
+    "draw": "AC voltage source schematic symbol: a circle with a single sine wave inside and leads top and bottom."
+  },
+  {
+    "name": "dc-source-symbol",
+    "category": "notation",
+    "draw": "DC voltage source schematic symbol: a circle with a plus above and a minus below, with leads."
+  },
+  {
+    "name": "current-source-symbol",
+    "category": "notation",
+    "draw": "Current source schematic symbol: a circle with an upward arrow inside and leads top and bottom."
+  },
+  {
+    "name": "switch-symbol",
+    "category": "notation",
+    "draw": "Open switch schematic symbol: two small dots on a line with a hinged stroke lifted between them."
+  },
+  {
+    "name": "push-button-symbol",
+    "category": "notation",
+    "draw": "Push button schematic symbol: a bar above two contact dots with a small plunger stem on top."
+  },
+  {
+    "name": "fuse-symbol",
+    "category": "notation",
+    "draw": "Fuse schematic symbol: a small rectangle with a line running straight through it lengthwise."
+  },
+  {
+    "name": "lamp-symbol",
+    "category": "notation",
+    "draw": "Lamp schematic symbol: a circle with a small looped filament inside and leads on each side."
+  },
+  {
+    "name": "motor-symbol",
+    "category": "notation",
+    "draw": "Motor schematic symbol: a circle with a capital M inside and leads on both sides."
+  },
+  {
+    "name": "generator-symbol",
+    "category": "notation",
+    "draw": "Generator schematic symbol: a circle with a capital G inside and leads on both sides."
+  },
+  {
+    "name": "op-amp-symbol",
+    "category": "notation",
+    "draw": "Operational amplifier symbol: a triangle pointing right with plus and minus inputs on the left side."
+  },
+  {
+    "name": "zener-diode-symbol",
+    "category": "notation",
+    "draw": "Zener diode symbol: a triangle pointing at a bar whose ends bend into small hooks."
+  },
+  {
+    "name": "photodiode-symbol",
+    "category": "notation",
+    "draw": "Photodiode symbol: a diode triangle and bar with two small arrows pointing in toward it."
+  },
+  {
+    "name": "variable-resistor-symbol",
+    "category": "notation",
+    "draw": "Variable resistor symbol: a zigzag line with a diagonal arrow crossing through it."
+  },
+  {
+    "name": "polarized-capacitor-symbol",
+    "category": "notation",
+    "draw": "Polarized capacitor symbol: one straight plate and one curved plate facing each other with a plus mark."
+  },
+  {
+    "name": "junction-dot",
+    "category": "notation",
+    "draw": "Wire junction: two crossing lines with a solid dot at the intersection showing they connect."
+  },
+  {
+    "name": "wire-crossover",
+    "category": "notation",
+    "draw": "Wire crossover: a horizontal wire with a small hump jumping over a vertical wire."
+  },
+  {
+    "name": "thermistor-symbol",
+    "category": "notation",
+    "draw": "Thermistor symbol: a small rectangle with a diagonal line that bends flat at its lower end."
+  },
+  {
+    "name": "solar-cell-symbol",
+    "category": "notation",
+    "draw": "Solar cell schematic symbol: a battery cell symbol inside a circle with two arrows pointing in."
+  },
+  {
+    "name": "buzzer-symbol",
+    "category": "notation",
+    "draw": "Buzzer schematic symbol: a half circle dome sitting on a flat line with two leads."
+  },
+  {
+    "name": "direct-current-symbol",
+    "category": "notation",
+    "draw": "Direct current symbol: a solid horizontal line above a row of three short dashes."
+  },
+  {
+    "name": "double-insulation-symbol",
+    "category": "notation",
+    "draw": "Double insulation symbol: a small square centered inside a larger square."
+  },
+  {
+    "name": "dc-polarity-symbol",
+    "category": "notation",
+    "draw": "Center positive polarity symbol: a dot inside a C shape, with a plus on one side and a minus on the other."
+  },
+  {
+    "name": "electrostatic-discharge-symbol",
+    "category": "notation",
+    "draw": "Electrostatic sensitive symbol: a triangle with a hand reaching in and a slash across the hand."
+  },
+  {
+    "name": "triangle-wave",
+    "category": "notation",
+    "draw": "Triangle wave: a zigzag line of equal rising and falling slopes."
+  },
+  {
+    "name": "pulse-wave",
+    "category": "notation",
+    "draw": "Pulse wave: a flat line with narrow rectangular spikes at regular intervals."
+  },
+  {
+    "name": "benzene-ring",
+    "category": "notation",
+    "draw": "Benzene ring: a hexagon with a circle drawn inside it."
+  },
+  {
+    "name": "cyclohexane-chair",
+    "category": "notation",
+    "draw": "Cyclohexane chair: a zigzag six sided ring drawn in chair shaped perspective."
+  },
+  {
+    "name": "lewis-dot-structure",
+    "category": "notation",
+    "draw": "Lewis dot structure: a capital letter surrounded by pairs of dots on each of its four sides."
+  },
+  {
+    "name": "skeletal-formula",
+    "category": "notation",
+    "draw": "Skeletal formula: a zigzag carbon chain with an OH group at one end."
+  },
+  {
+    "name": "structural-formula",
+    "category": "notation",
+    "draw": "Structural formula: a central C with single bonds to four H letters above, below and on each side."
+  },
+  {
+    "name": "double-bond",
+    "category": "notation",
+    "draw": "Double bond: two letters C joined by two parallel horizontal lines."
+  },
+  {
+    "name": "triple-bond",
+    "category": "notation",
+    "draw": "Triple bond: two letters C joined by three parallel horizontal lines."
+  },
+  {
+    "name": "wedge-dash-bond",
+    "category": "notation",
+    "draw": "Stereochemistry bonds: a central atom with one solid wedge bond and one hashed wedge bond."
+  },
+  {
+    "name": "orbital-box-diagram",
+    "category": "notation",
+    "draw": "Orbital box diagram: three small squares in a row, each with an up and a down half arrow."
+  },
+  {
+    "name": "bra-ket-notation",
+    "category": "notation",
+    "draw": "Bra ket notation: a psi between a vertical bar and a right angle bracket."
+  },
+  {
+    "name": "magnetic-field-dots",
+    "category": "notation",
+    "draw": "Field out of page notation: a grid of small circles each with a dot at the centre."
+  },
+  {
+    "name": "male-symbol",
+    "category": "notation",
+    "draw": "Male symbol: a circle with an arrow pointing out from its upper right."
+  },
+  {
+    "name": "female-symbol",
+    "category": "notation",
+    "draw": "Female symbol: a circle with a small cross extending straight down from its bottom."
+  },
+  {
+    "name": "transgender-symbol",
+    "category": "notation",
+    "draw": "Transgender symbol: a circle with an arrow at the upper right, a cross below and a crossed arrow at the upper left."
+  },
+  {
+    "name": "nonbinary-symbol",
+    "category": "notation",
+    "draw": "Nonbinary symbol: a circle with a vertical stroke above it crossed by a small asterisk like X."
+  },
+  {
+    "name": "genderless-symbol",
+    "category": "notation",
+    "draw": "Genderless symbol: a plain circle with a short straight line extending from its top."
+  },
+  {
+    "name": "intersex-symbol",
+    "category": "notation",
+    "draw": "Intersex symbol: a circle with an arrow at the upper right and a short cross at the bottom joined into one glyph."
+  },
+  {
+    "name": "flowchart-terminator",
+    "category": "notation",
+    "draw": "Flowchart terminator: a stadium shape, a wide rectangle with fully rounded ends."
+  },
+  {
+    "name": "flowchart-document",
+    "category": "notation",
+    "draw": "Flowchart document shape: a rectangle whose bottom edge is a single wave."
+  },
+  {
+    "name": "flowchart-multiple-documents",
+    "category": "notation",
+    "draw": "Flowchart multiple documents: three wavy bottomed rectangles stacked and offset."
+  },
+  {
+    "name": "flowchart-predefined-process",
+    "category": "notation",
+    "draw": "Flowchart predefined process: a rectangle with an extra vertical line inside each end."
+  },
+  {
+    "name": "flowchart-manual-input",
+    "category": "notation",
+    "draw": "Flowchart manual input: a quadrilateral with a sloped top edge rising to the right."
+  },
+  {
+    "name": "flowchart-off-page-connector",
+    "category": "notation",
+    "draw": "Flowchart off page connector: a pentagon shaped like a home plate pointing down."
+  },
+  {
+    "name": "flowchart-delay",
+    "category": "notation",
+    "draw": "Flowchart delay: a D shape with a flat left side and a rounded right side."
+  },
+  {
+    "name": "flowchart-display",
+    "category": "notation",
+    "draw": "Flowchart display: a shape with a pointed left end and a rounded right end."
+  },
+  {
+    "name": "flowchart-punched-tape",
+    "category": "notation",
+    "draw": "Flowchart punched tape: a flag shaped rectangle with wavy top and bottom edges."
+  },
+  {
+    "name": "flowchart-decision-branch",
+    "category": "notation",
+    "draw": "Flowchart decision: a diamond with a yes arrow leaving from the bottom and a no arrow from the side."
+  },
+  {
+    "name": "uml-class-diagram",
+    "category": "notation",
+    "draw": "UML class box: a rectangle split into three stacked compartments for name, fields and methods."
+  },
+  {
+    "name": "uml-inheritance",
+    "category": "notation",
+    "draw": "UML inheritance: two boxes joined by a line ending in a hollow triangle arrowhead at the upper box."
+  },
+  {
+    "name": "uml-composition",
+    "category": "notation",
+    "draw": "UML composition: two boxes joined by a line ending in a filled diamond at one box."
+  },
+  {
+    "name": "uml-aggregation",
+    "category": "notation",
+    "draw": "UML aggregation: two boxes joined by a line ending in a hollow diamond at one box."
+  },
+  {
+    "name": "uml-use-case",
+    "category": "notation",
+    "draw": "UML use case: a horizontal ellipse with a short text line inside, linked to a stick figure."
+  },
+  {
+    "name": "uml-sequence-diagram",
+    "category": "notation",
+    "draw": "UML sequence diagram: two boxes with dashed lifelines down and horizontal message arrows between them."
+  },
+  {
+    "name": "uml-state-diagram",
+    "category": "notation",
+    "draw": "UML state diagram: a solid start dot, a rounded state box and a bullseye end state joined by arrows."
+  },
+  {
+    "name": "crows-foot-notation",
+    "category": "notation",
+    "draw": "Crows foot notation: a line between two boxes ending in a three pronged fork with a small bar."
+  },
+  {
+    "name": "petri-net",
+    "category": "notation",
+    "draw": "Petri net: two circles with tokens joined by arrows through a thin vertical bar transition."
+  },
+  {
+    "name": "bpmn-gateway",
+    "category": "notation",
+    "draw": "Process gateway: a diamond with a bold X inside, joined to incoming and outgoing arrows."
+  },
+  {
+    "name": "aries",
+    "category": "notation",
+    "draw": "Aries glyph: a ram's horns, two curls springing outward from a single central V stem."
+  },
+  {
+    "name": "taurus",
+    "category": "notation",
+    "draw": "Taurus glyph: a circle with a wide crescent of horns resting on top of it."
+  },
+  {
+    "name": "gemini",
+    "category": "notation",
+    "draw": "Gemini glyph: two vertical pillars joined by curved bars at top and bottom, like a Roman II."
+  },
+  {
+    "name": "cancer-zodiac",
+    "category": "notation",
+    "draw": "Cancer glyph: two small circles with curling tails, one at top left and one at bottom right, like a sideways 69."
+  },
+  {
+    "name": "leo",
+    "category": "notation",
+    "draw": "Leo glyph: a small circle at the lower left joined to a looping stroke that ends in a curled tail."
+  },
+  {
+    "name": "virgo",
+    "category": "notation",
+    "draw": "Virgo glyph: an m shape whose last leg crosses back over itself in a small loop."
+  },
+  {
+    "name": "libra",
+    "category": "notation",
+    "draw": "Libra glyph: a horizontal bar beneath a rounded hump that rises in the middle, like a setting sun on the horizon."
+  },
+  {
+    "name": "scorpio",
+    "category": "notation",
+    "draw": "Scorpio glyph: an m shape whose last leg ends in an upward pointing arrowhead tail."
+  },
+  {
+    "name": "sagittarius",
+    "category": "notation",
+    "draw": "Sagittarius glyph: a diagonal arrow pointing to the upper right with a short crossbar on its shaft."
+  },
+  {
+    "name": "capricorn",
+    "category": "notation",
+    "draw": "Capricorn glyph: a V shaped stroke flowing into a looped fish tail at the right."
+  },
+  {
+    "name": "aquarius",
+    "category": "notation",
+    "draw": "Aquarius glyph: two parallel zigzag lines stacked one above the other, like waves of water."
+  },
+  {
+    "name": "pisces",
+    "category": "notation",
+    "draw": "Pisces glyph: two outward facing arcs back to back joined by a horizontal bar through their middle."
+  },
+  {
+    "name": "ophiuchus",
+    "category": "notation",
+    "draw": "Ophiuchus glyph: a wavy serpent line stacked above a straight horizontal bar, like a snake held aloft."
+  },
+  {
+    "name": "zodiac-wheel",
+    "category": "notation",
+    "draw": "Zodiac wheel: a circle divided into twelve equal segments with small tick marks around an inner ring."
+  },
+  {
+    "name": "natal-chart",
+    "category": "notation",
+    "draw": "Natal chart: a circle with twelve house divisions and several small lines crossing the centre between points."
+  },
+  {
+    "name": "mercury-symbol",
+    "category": "notation",
+    "draw": "Mercury planetary symbol: a circle with a small cross beneath it and a crescent of horns on top."
+  },
+  {
+    "name": "earth-symbol",
+    "category": "notation",
+    "draw": "Earth planetary symbol: a circle with a small cross standing on top of it, the globus cruciger form."
+  },
+  {
+    "name": "jupiter-symbol",
+    "category": "notation",
+    "draw": "Jupiter planetary symbol: a numeral 4 like glyph with a curved left arm."
+  },
+  {
+    "name": "saturn-symbol",
+    "category": "notation",
+    "draw": "Saturn planetary symbol: a small cross whose stem curves down into a hooked h shaped tail."
+  },
+  {
+    "name": "uranus-symbol",
+    "category": "notation",
+    "draw": "Uranus planetary symbol: a circle with a dot at its centre and an upward arrow rising from its top."
+  },
+  {
+    "name": "neptune-symbol",
+    "category": "notation",
+    "draw": "Neptune planetary symbol: a trident with three prongs above a short crossbar on its handle."
+  },
+  {
+    "name": "pluto-symbol",
+    "category": "notation",
+    "draw": "Pluto planetary symbol: a small circle cradled in a crescent cup above a cross."
+  },
+  {
+    "name": "ceres-symbol",
+    "category": "notation",
+    "draw": "Ceres symbol: a sickle shaped hook on top of a short cross."
+  },
+  {
+    "name": "chiron-symbol",
+    "category": "notation",
+    "draw": "Chiron symbol: a small circle below a vertical stroke topped with a K shape, like a key."
+  },
+  {
+    "name": "conjunction-aspect",
+    "category": "notation",
+    "draw": "Conjunction aspect: a small circle with a short diagonal line rising from its upper right."
+  },
+  {
+    "name": "opposition-aspect",
+    "category": "notation",
+    "draw": "Opposition aspect: two small circles joined by a diagonal line between them."
+  },
+  {
+    "name": "quincunx-aspect",
+    "category": "notation",
+    "draw": "Quincunx aspect: a small Y shaped glyph with an extra bar across its base."
+  },
+  {
+    "name": "lunar-node",
+    "category": "notation",
+    "draw": "Lunar node symbol: a horseshoe shaped arch with a small circle at each foot."
+  },
+  {
+    "name": "black-moon-lilith",
+    "category": "notation",
+    "draw": "Black moon Lilith symbol: a filled crescent moon sitting above a small cross."
+  },
+  {
+    "name": "classical-elements",
+    "category": "notation",
+    "draw": "Four alchemical element triangles in a grid: fire up, water down, air up with a bar and earth down with a bar."
+  },
+  {
+    "name": "sulfur-alchemy",
+    "category": "notation",
+    "draw": "Alchemical sulfur: an upward triangle standing on top of a small cross."
+  },
+  {
+    "name": "salt-alchemy",
+    "category": "notation",
+    "draw": "Alchemical salt: a circle bisected by a single horizontal line."
+  },
+  {
+    "name": "philosophers-stone",
+    "category": "notation",
+    "draw": "Squared circle of the philosopher's stone: a circle inside a square inside a triangle inside a larger circle."
+  },
+  {
+    "name": "tria-prima",
+    "category": "notation",
+    "draw": "Tria prima: sulfur, mercury and salt glyphs arranged at the three corners of a triangle."
+  },
+  {
+    "name": "i-ching-hexagram",
+    "category": "notation",
+    "draw": "I Ching hexagram: six stacked horizontal lines, some solid and some broken in the middle."
+  },
+  {
+    "name": "wu-xing-cycle",
+    "category": "notation",
+    "draw": "Five phases cycle: five small circles at the points of a pentagon joined by arrows around the ring."
+  },
+  {
+    "name": "enneagram",
+    "category": "notation",
+    "draw": "Enneagram: a circle with nine points on its rim joined by a triangle and an irregular hexagonal star."
+  },
+  {
+    "name": "metatrons-cube",
+    "category": "notation",
+    "draw": "Metatron's cube: thirteen small circles joined by straight lines forming a star inside a hexagon."
+  },
+  {
+    "name": "ogham-script",
+    "category": "notation",
+    "draw": "Ogham script: a vertical stem line with groups of short strokes branching off both sides."
+  },
+  {
+    "name": "pendulum-dowsing",
+    "category": "notation",
+    "draw": "Dowsing pendulum: a pointed crystal weight hanging from a chain over a small arc."
+  },
+  {
+    "name": "high-voltage-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a jagged lightning bolt arrow striking downward inside."
+  },
+  {
+    "name": "slippery-surface-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure slipping backward, one leg kicked up, above a wavy floor line."
+  },
+  {
+    "name": "trip-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure stumbling forward over a low block on the floor."
+  },
+  {
+    "name": "fall-from-height-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure falling headfirst off the edge of a raised step."
+  },
+  {
+    "name": "overhead-load-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a crate hanging from a hook and cable above a small ground line."
+  },
+  {
+    "name": "falling-objects-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a small box dropping onto a figure's head."
+  },
+  {
+    "name": "forklift-traffic-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a side view forklift and raised forks inside."
+  },
+  {
+    "name": "hand-crush-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a hand caught between two rollers pressing together."
+  },
+  {
+    "name": "entanglement-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a hand reaching toward two meshing gear wheels."
+  },
+  {
+    "name": "cutting-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a hand and a straight blade edge slicing toward the fingers."
+  },
+  {
+    "name": "head-obstacle-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a head bumping into a low horizontal bar."
+  },
+  {
+    "name": "deep-water-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure submerged to the chin in wavy water."
+  },
+  {
+    "name": "explosive-atmosphere-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with the capital letters EX inside."
+  },
+  {
+    "name": "loud-noise-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with an ear and three curved sound waves beside it."
+  },
+  {
+    "name": "automatic-start-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a machine gear and a circular arrow around it."
+  },
+  {
+    "name": "step-down-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure stepping down a single stair edge."
+  },
+  {
+    "name": "hot-liquid-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a tilted cup spilling steaming liquid onto a hand."
+  },
+  {
+    "name": "steam-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with three wavy steam lines rising from a pipe outlet."
+  },
+  {
+    "name": "flying-debris-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with small fragments flying outward from a point toward a face."
+  },
+  {
+    "name": "guard-dog-warning",
+    "category": "notation",
+    "draw": "Warning triangle with the side view of a barking dog."
+  },
+  {
+    "name": "confined-space-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure crouching inside a narrow manhole opening."
+  },
+  {
+    "name": "asphyxiation-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a head in profile surrounded by a dense cloud."
+  },
+  {
+    "name": "thin-ice-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure breaking through a cracked ice sheet."
+  },
+  {
+    "name": "electric-fence-warning",
+    "category": "notation",
+    "draw": "Warning triangle with a fence wire strand and a lightning bolt along it."
+  },
+  {
+    "name": "wet-paint-warning",
+    "category": "notation",
+    "draw": "Warning triangle with a paintbrush and a drip falling from it."
+  },
+  {
+    "name": "pressure-vessel-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a rounded tank and a pressure gauge on top."
+  },
+  {
+    "name": "sharp-needle-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a syringe needle pointing at a fingertip."
+  },
+  {
+    "name": "carbon-monoxide-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with the letters CO above a small wavy gas cloud."
+  },
+  {
+    "name": "vehicle-reversing-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a small truck and a curved arrow behind it showing reversing."
+  },
+  {
+    "name": "hazard-stripes",
+    "category": "notation",
+    "draw": "A band of bold diagonal stripes alternating filled and empty, the hazard marking tape pattern."
+  },
+  {
+    "name": "wear-hard-hat-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a head and shoulders wearing a hard hat."
+  },
+  {
+    "name": "wear-ear-protection-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a head wearing ear defenders."
+  },
+  {
+    "name": "wear-gloves-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a gloved hand showing a cuff."
+  },
+  {
+    "name": "wear-safety-boots-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a pair of ankle safety boots."
+  },
+  {
+    "name": "wear-face-shield-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a head behind a full clear visor."
+  },
+  {
+    "name": "wear-respirator-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a head wearing a half mask respirator with filter cartridges."
+  },
+  {
+    "name": "wear-safety-harness-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a figure in a harness attached to a lanyard above."
+  },
+  {
+    "name": "wear-hi-vis-vest-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a sleeveless vest crossed by reflective bands."
+  },
+  {
+    "name": "wash-hands-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with two hands under a falling water droplet."
+  },
+  {
+    "name": "read-manual-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with an open book and a small letter i above it."
+  },
+  {
+    "name": "use-handrail-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a hand gripping a sloping rail above steps."
+  },
+  {
+    "name": "disconnect-power-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a plug pulled away from a socket."
+  },
+  {
+    "name": "wear-life-jacket-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a figure wearing a buoyant life vest."
+  },
+  {
+    "name": "wear-protective-clothing-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a long sleeved coverall suit."
+  },
+  {
+    "name": "wear-welding-mask-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a head behind a welding helmet with a dark window."
+  },
+  {
+    "name": "keep-door-closed-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a door and a small arrow pushing it shut."
+  },
+  {
+    "name": "refuge-point",
+    "category": "notation",
+    "draw": "Refuge point sign: a square with a wheelchair user inside a small safe zone outline."
+  },
+  {
+    "name": "fire-ladder-sign",
+    "category": "notation",
+    "draw": "Fire ladder sign: a square with a ladder leaning upward and a small flame at its base."
+  },
+  {
+    "name": "fire-telephone-sign",
+    "category": "notation",
+    "draw": "Fire telephone sign: a square with a telephone handset beside a small flame."
+  },
+  {
+    "name": "smoke-hood",
+    "category": "notation",
+    "draw": "Emergency smoke hood: a head covered by a clear bag hood with a filter at the mouth."
+  },
+  {
+    "name": "stacking-limit",
+    "category": "notation",
+    "draw": "Handling mark: three stacked boxes with a small number and a bar marking the maximum."
+  },
+  {
+    "name": "sling-here",
+    "category": "notation",
+    "draw": "Handling mark: a short length of chain links hanging in a U shape."
+  },
+  {
+    "name": "clamp-here",
+    "category": "notation",
+    "draw": "Handling mark: a box squeezed between two arrows pressing on its sides."
+  },
+  {
+    "name": "temperature-limit-symbol",
+    "category": "notation",
+    "draw": "Handling mark: a thermometer with short bars marking the upper and lower limits."
+  },
+  {
+    "name": "humidity-limit-symbol",
+    "category": "notation",
+    "draw": "Handling mark: an umbrella over a small water drop with a percent sign."
+  },
+  {
+    "name": "protect-from-light",
+    "category": "notation",
+    "draw": "Handling mark: a box covered by a roof shape with a sun and rays above it."
+  },
+  {
+    "name": "handle-with-care",
+    "category": "notation",
+    "draw": "Handling mark: a pair of open hands cupped under a box."
+  },
+  {
+    "name": "open-here",
+    "category": "notation",
+    "draw": "Packaging mark: a box with a pull tab strip and an arrow tearing along its edge."
+  },
+  {
+    "name": "tear-notch",
+    "category": "notation",
+    "draw": "Packaging mark: a pouch edge with a small V notch and a dashed tear line."
+  },
+  {
+    "name": "period-after-opening",
+    "category": "notation",
+    "draw": "Cosmetics mark: an open jar with its lid tilted off and 12M written on the jar."
+  },
+  {
+    "name": "keep-refrigerated",
+    "category": "notation",
+    "draw": "Packaging mark: a box beside a small thermometer with a snowflake."
+  },
+  {
+    "name": "tamper-evident-seal",
+    "category": "notation",
+    "draw": "Packaging mark: a jar lid with a band strip showing a torn seal line."
+  },
+  {
+    "name": "child-resistant-cap",
+    "category": "notation",
+    "draw": "Packaging mark: a bottle cap with a downward arrow and a curved turn arrow, push and turn."
+  },
+  {
+    "name": "small-parts-warning",
+    "category": "notation",
+    "draw": "Toy warning: a circle with a baby face and 0 to 3 age text, crossed by a slash."
+  },
+  {
+    "name": "plastic-bag-suffocation-warning",
+    "category": "notation",
+    "draw": "Packaging warning: a plastic bag with a small child's head inside it crossed out."
+  },
+  {
+    "name": "keep-out-of-reach-of-children",
+    "category": "notation",
+    "draw": "Packaging warning: a high shelf with a bottle on it and a small child reaching up from below."
+  },
+  {
+    "name": "stovetop-safe",
+    "category": "notation",
+    "draw": "Cookware mark: a pan resting on a stove burner with flame lines below."
+  },
+  {
+    "name": "hand-wash-dishes-only",
+    "category": "notation",
+    "draw": "Cookware mark: a hand holding a plate under a falling water drop."
+  },
+  {
+    "name": "recyclable-carton",
+    "category": "notation",
+    "draw": "Recycling mark: a drink carton inside a loop of chasing arrows."
+  },
+  {
+    "name": "litter-bin-symbol",
+    "category": "notation",
+    "draw": "Dispose tidily mark: a figure dropping a piece of litter into a bin."
+  },
+  {
+    "name": "recycled-content",
+    "category": "notation",
+    "draw": "Recycled content mark: a solid circle containing a white chasing arrows loop."
+  },
+  {
+    "name": "refillable-symbol",
+    "category": "notation",
+    "draw": "Refill mark: a bottle with a circular arrow and a small plus drop at its neck."
+  },
+  {
+    "name": "sharps-disposal",
+    "category": "notation",
+    "draw": "Waste sorting mark: a square box with a syringe inserted into its slotted lid."
+  },
+  {
+    "name": "oil-recycling",
+    "category": "notation",
+    "draw": "Recycling mark: a single oil drop inside a circle of chasing arrows."
+  },
+  {
+    "name": "austral-sign",
+    "category": "notation",
+    "draw": "Austral sign: a capital A crossed by two horizontal bars through its legs."
+  },
+  {
+    "name": "degrees-minutes-seconds",
+    "category": "notation",
+    "draw": "Angle in degrees, minutes and seconds: a number with a small degree ring, a single prime and a double prime."
+  },
+  {
+    "name": "power-set-symbol",
+    "category": "notation",
+    "draw": "Weierstrass p power set sign: a script lowercase p with a looped descender that curls back up."
+  },
+  {
+    "name": "laplace-transform",
+    "category": "notation",
+    "draw": "Laplace transform sign: a flowing script capital L with a looped top and a curled foot."
+  },
+  {
+    "name": "nabla",
+    "category": "notation",
+    "draw": "Nabla del operator: an upside down triangle outline, used for gradient, with a small f to its right."
+  },
+  {
+    "name": "cycloid",
+    "category": "notation",
+    "draw": "Cycloid: a circle rolling along a flat line leaving a trail of repeated arches behind it."
+  },
+  {
+    "name": "lissajous-curve",
+    "category": "notation",
+    "draw": "Lissajous curve: a smooth closed looping line crossing itself to form a knotted figure of eight pattern."
+  },
+  {
+    "name": "rose-curve",
+    "category": "notation",
+    "draw": "Rose curve: a four petal flower traced by one continuous polar curve crossing at the centre."
+  },
+  {
+    "name": "catenary",
+    "category": "notation",
+    "draw": "Catenary: a chain hanging in a smooth U curve between the tops of two short posts."
+  },
+  {
+    "name": "hilbert-curve",
+    "category": "notation",
+    "draw": "Hilbert curve: a single continuous line folding into a square maze of right angle turns."
+  },
+  {
+    "name": "voronoi-diagram",
+    "category": "notation",
+    "draw": "Voronoi diagram: a square split into irregular polygon cells, each with one dot inside."
+  },
+  {
+    "name": "optical-radiation-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a small sun like circle and bold rays radiating out from it."
+  },
+  {
+    "name": "lightning-strike-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure and a lightning bolt striking down from a small cloud."
+  },
+  {
+    "name": "fragile-roof-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a figure breaking through a cracked roof sheet below its feet."
+  },
+  {
+    "name": "door-finger-trap-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a hand whose fingers are caught in the hinge gap of a door edge."
+  },
+  {
+    "name": "robot-arm-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a jointed industrial robot arm swinging toward a small figure."
+  },
+  {
+    "name": "high-pressure-jet-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a nozzle spraying a straight jet of liquid onto a hand."
+  },
+  {
+    "name": "radio-frequency-hazard",
+    "category": "notation",
+    "draw": "Warning triangle with a small mast antenna emitting curved radio waves on both sides."
+  },
+  {
+    "name": "wear-face-mask-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a head wearing a pleated face mask over nose and mouth."
+  },
+  {
+    "name": "use-hand-sanitizer-sign",
+    "category": "notation",
+    "draw": "Mandatory sign: a circle with a pump bottle dispensing a drop onto an open palm."
+  },
+  {
+    "name": "shake-well",
+    "category": "notation",
+    "draw": "Packaging mark: an upright bottle with curved motion lines on both sides showing shaking."
+  },
+  {
+    "name": "peel-here",
+    "category": "notation",
+    "draw": "Packaging mark: a film lid with one corner curling back and a small arrow showing where to peel."
+  },
+  {
+    "name": "resealable-pack",
+    "category": "notation",
+    "draw": "Packaging mark: a pouch with a zip seal track across its top and a small closing arrow."
+  },
+  {
+    "name": "pierce-film-lid",
+    "category": "notation",
+    "draw": "Packaging mark: a tray covered by film with a fork piercing small holes in it."
+  },
+  {
+    "name": "manufacturer-symbol",
+    "category": "notation",
+    "draw": "Medical device manufacturer symbol: a solid factory outline with a sawtooth roof and a chimney."
+  },
+  {
+    "name": "lot-number-symbol",
+    "category": "notation",
+    "draw": "Batch code symbol: the letters LOT inside a small rectangle."
+  },
+  {
+    "name": "single-use-symbol",
+    "category": "notation",
+    "draw": "Do not reuse symbol: a numeral 2 inside a circle crossed by a diagonal slash."
+  },
+  {
+    "name": "sterile-symbol",
+    "category": "notation",
+    "draw": "Sterile symbol: the word STERILE inside a rectangle with a small divider on the left."
+  },
+  {
+    "name": "pattern-blocks",
+    "category": "notation",
+    "draw": "Pattern blocks: a hexagon, a trapezoid, a rhombus and a triangle fitted together into a larger hexagon."
+  },
+  {
+    "name": "fraction-strips",
+    "category": "notation",
+    "draw": "Fraction strips: stacked bars of equal length split into one whole, two halves and three thirds."
+  },
+  {
+    "name": "multiplication-array",
+    "category": "notation",
+    "draw": "Multiplication array: a grid of dots arranged in three rows of four for counting a times table."
+  },
+  {
+    "name": "bar-model",
+    "category": "notation",
+    "draw": "Bar model: a long bar split into labelled parts with a bracket above showing the total."
+  }
+]

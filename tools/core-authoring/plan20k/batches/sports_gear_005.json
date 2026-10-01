@@ -1,0 +1,482 @@
+[
+ {
+  "name": "wheelbarrow-race",
+  "category": "sports-gear",
+  "draw": "Figure walking on hands while another holds up its legs.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "softball-pitcher",
+  "category": "sports-gear",
+  "draw": "Figure with arm swinging underhand in a windmill pitch.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "hockey-goalie",
+  "category": "sports-gear",
+  "draw": "Crouched figure in large leg pads and mask in front of a net.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ultimate-disc",
+  "category": "sports-gear",
+  "draw": "Figure leaping sideways to catch a flying disc.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "wheelchair-rugby",
+  "category": "sports-gear",
+  "draw": "Two armored sports wheelchairs colliding with a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "coxswain",
+  "category": "sports-gear",
+  "draw": "Small figure seated at the stern of a rowing boat calling through a megaphone.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "diving-tower",
+  "category": "sports-gear",
+  "draw": "Tall tower with platforms at three heights above a pool.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "golf-driving-range",
+  "category": "sports-gear",
+  "draw": "Figure hitting a ball from a mat toward distance flags.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "baseball-dugout",
+  "category": "sports-gear",
+  "draw": "Half-sunken covered bench shelter beside the field.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "trophy-cabinet",
+  "category": "sports-gear",
+  "draw": "Glass-fronted cabinet with trophies on its shelves.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "medal-hanger",
+  "category": "sports-gear",
+  "draw": "Wall bar with several medals hanging from ribbons.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "umpire-chair",
+  "category": "sports-gear",
+  "draw": "Tall high chair with a ladder at the side of a net post.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "starting-stalls",
+  "category": "sports-gear",
+  "draw": "Row of narrow gated stalls for horses at a race start.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "guide-runner",
+  "category": "sports-gear",
+  "draw": "Two runners side by side joined at the wrist by a short tether.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "aid-station",
+  "category": "sports-gear",
+  "draw": "Table lined with cups and a runner reaching to grab one.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "running-singlet",
+  "category": "sports-gear",
+  "draw": "Sleeveless running top with a diagonal sash across it.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "running-armband",
+  "category": "sports-gear",
+  "draw": "Phone held in a strap band on an upper arm.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "slam-dunk",
+  "category": "sports-gear",
+  "draw": "Figure hanging from a hoop rim after dunking a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "basketball-dribble",
+  "category": "sports-gear",
+  "draw": "Figure bent low bouncing a ball beside the knee.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "field-goal-kick",
+  "category": "sports-gear",
+  "draw": "Figure kicking an oval ball held upright by a crouching teammate.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cricket-wicketkeeper",
+  "category": "sports-gear",
+  "draw": "Crouched figure with large gloves behind the stumps.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "golf-putting",
+  "category": "sports-gear",
+  "draw": "Figure bent over a putter lining up a ball with the hole.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "grind-rail",
+  "category": "sports-gear",
+  "draw": "Low metal rail on two legs for skate tricks.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "victory-lap",
+  "category": "sports-gear",
+  "draw": "Runner jogging with a large flag held up behind the shoulders.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "trophy-lift",
+  "category": "sports-gear",
+  "draw": "Figure lifting a large cup trophy high overhead.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "darts-player",
+  "category": "sports-gear",
+  "draw": "Figure with arm cocked holding a dart at eye level.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "canicross",
+  "category": "sports-gear",
+  "draw": "Runner attached by a waist line to a running dog.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "skijoring",
+  "category": "sports-gear",
+  "draw": "Skier holding a line pulled by a running horse.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bubble-football",
+  "category": "sports-gear",
+  "draw": "Two figures inside inflatable bubbles bumping near a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "strike-zone",
+  "category": "sports-gear",
+  "draw": "Three by three grid rectangle floating above home plate.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "roller-hockey",
+  "category": "sports-gear",
+  "draw": "Figure on inline skates with a stick driving a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "kayak-roll",
+  "category": "sports-gear",
+  "draw": "Paddler upside down in a kayak halfway through rolling upright.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "stick-fighting",
+  "category": "sports-gear",
+  "draw": "Figure holding two short sticks raised in a fighting stance.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "truck-pull",
+  "category": "sports-gear",
+  "draw": "Figure leaning forward pulling a truck with a rope harness.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "handball-court",
+  "category": "sports-gear",
+  "draw": "Top view of a court with D-shaped goal areas at each end.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "golf-hole-map",
+  "category": "sports-gear",
+  "draw": "Top view of a fairway curving from a tee to a green with a flag.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sports-injury",
+  "category": "sports-gear",
+  "draw": "Seated figure holding an ankle with a small burst of pain lines.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sports-kit",
+  "category": "sports-gear",
+  "draw": "Shirt with matching shorts and a pair of long socks laid out together.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rebounder-net",
+  "category": "sports-gear",
+  "draw": "Angled square frame with a taut net bouncing a ball back.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "wall-bars",
+  "category": "sports-gear",
+  "draw": "Tall wooden ladder of horizontal rungs fixed flat against a wall.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "vaulting-box",
+  "category": "sports-gear",
+  "draw": "Stacked trapezoid wooden box sections with a padded top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "backstroke-flags",
+  "category": "sports-gear",
+  "draw": "Line of small triangular pennant flags strung across above a pool.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "signed-ball",
+  "category": "sports-gear",
+  "draw": "Ball with a scribbled signature across its surface.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "live-match",
+  "category": "sports-gear",
+  "draw": "Screen showing a ball with a small dot and the word LIVE in a corner.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "championship-ring",
+  "category": "sports-gear",
+  "draw": "Large chunky ring with a raised gem top and engraved sides.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "stadium-seat",
+  "category": "sports-gear",
+  "draw": "Folding plastic seat with a flip-up bottom and a number on the back.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "line-marker-cart",
+  "category": "sports-gear",
+  "draw": "Small wheeled cart painting a white line on grass.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "wheelchair-fencing",
+  "category": "sports-gear",
+  "draw": "Two figures in fixed wheelchairs facing each other with thin swords.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cycle-ball",
+  "category": "sports-gear",
+  "draw": "Bicycle rearing up with its front wheel striking a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "team-mascot",
+  "category": "sports-gear",
+  "draw": "Costumed figure with a large round animal head waving one arm.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "climbing-wall",
+  "category": "sports-gear",
+  "draw": "Tall wall panel covered with scattered holds of different shapes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "swim-pace-timer",
+  "category": "sports-gear",
+  "draw": "Large round wall timer with a single sweep hand and big numbers.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "timing-chip",
+  "category": "sports-gear",
+  "draw": "Small plastic tag laced onto the top of a running shoe.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "volleyball-court",
+  "category": "sports-gear",
+  "draw": "Top view of a rectangle split by a center line with one attack line on each side.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rugby-pitch",
+  "category": "sports-gear",
+  "draw": "Top view of a field with H-shaped posts drawn at each end and a halfway line.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "wrestling-mask",
+  "category": "sports-gear",
+  "draw": "Full head mask with large eye cutouts and bold flame patterns.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "mallakhamb",
+  "category": "sports-gear",
+  "draw": "Figure balancing upside down on top of a tall wooden pole.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "racket-bag",
+  "category": "sports-gear",
+  "draw": "Long padded bag with two racket handles sticking out the end.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "goal-scored",
+  "category": "sports-gear",
+  "draw": "Ball bulging into the back of a goal net with motion lines.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bowling-strike",
+  "category": "sports-gear",
+  "draw": "Ball crashing into a set of pins sending them flying.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "netball-player",
+  "category": "sports-gear",
+  "draw": "Figure pivoting on one foot holding a ball up high with both hands.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "squash-player",
+  "category": "sports-gear",
+  "draw": "Figure lunging low with a racket toward a ball near a wall.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "horseback-archery",
+  "category": "sports-gear",
+  "draw": "Rider on a galloping horse drawing a bow sideways.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "equestrian-vaulting",
+  "category": "sports-gear",
+  "draw": "Figure standing with arms out on the back of a cantering horse.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "water-jetpack",
+  "category": "sports-gear",
+  "draw": "Figure hovering above the water on a board lifted by two water jets.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "aerial-hoop",
+  "category": "sports-gear",
+  "draw": "Figure posed inside a large ring hanging from a single rope.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "human-flag",
+  "category": "sports-gear",
+  "draw": "Figure gripping a vertical pole with body held straight out sideways.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "outfielder-catch",
+  "category": "sports-gear",
+  "draw": "Figure leaping with a gloved hand raised to catch a high ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "golf-rangefinder",
+  "category": "sports-gear",
+  "draw": "Compact monocular device with a small flag shown in its view window.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "golf-headcover",
+  "category": "sports-gear",
+  "draw": "Knitted cover with a pom-pom pulled over a club head.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pump-track",
+  "category": "sports-gear",
+  "draw": "Looping dirt track of rolling bumps with a small rider on it.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bmx-start-gate",
+  "category": "sports-gear",
+  "draw": "Sloped starting ramp with a hinged gate at the front.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "score-cards",
+  "category": "sports-gear",
+  "draw": "Three hands raising number cards to score a performance.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "recurve-bow",
+  "category": "sports-gear",
+  "draw": "Bow with tips curving away from the archer and a long stabilizer rod.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "nose-clip",
+  "category": "sports-gear",
+  "draw": "Small U-shaped clip with padded ends pinching a nose.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "skateboard-truck",
+  "category": "sports-gear",
+  "draw": "T-shaped metal axle with a wheel on each end and a baseplate.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "tailgate-party",
+  "category": "sports-gear",
+  "draw": "Open pickup tailgate with a small grill and a cooler on it.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "footgolf",
+  "category": "sports-gear",
+  "draw": "Figure kicking a soccer ball toward a flag in a large hole.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "shuffleboard-court",
+  "category": "sports-gear",
+  "draw": "Long narrow court with a triangular scoring zone and a disc pushed by a forked cue.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "wing-chun-dummy",
+  "category": "sports-gear",
+  "draw": "Upright wooden post with three short arms and a leg sticking out.",
+  "domain": "sports-equipment-activities"
+ }
+]

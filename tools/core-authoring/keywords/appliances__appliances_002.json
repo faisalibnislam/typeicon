@@ -1,0 +1,1588 @@
+{
+ "radiator-valve": {
+  "context": "A thermostatic radiator valve with a ribbed control head on a valve body between two pipes. Use it for heating controls, room temperature settings and plumbing guides.",
+  "keywords": [
+   "radiator valve",
+   "thermostatic radiator valve",
+   "trv",
+   "thermostatic valve",
+   "radiator thermostat",
+   "heating valve",
+   "central heating",
+   "radiator",
+   "heating control",
+   "room temperature",
+   "valve head",
+   "plumbing",
+   "boiler",
+   "heating",
+   "temperature control",
+   "energy saving"
+  ]
+ },
+ "water-heater": {
+  "context": "A tall hot water tank with two pipes on top and a control box near the bottom. Use it for water heaters, hot water cylinders, plumbing services and home energy topics.",
+  "keywords": [
+   "water heater",
+   "hot water heater",
+   "hot water tank",
+   "hot water cylinder",
+   "boiler",
+   "geyser",
+   "immersion heater",
+   "storage heater",
+   "tank water heater",
+   "hot water",
+   "plumbing",
+   "utilities",
+   "home appliance",
+   "heating",
+   "calorifier",
+   "water tank"
+  ]
+ },
+ "tankless-water-heater": {
+  "context": "A slim wall-mounted heater box with a small display, a flame mark and two pipes below. Use it for on-demand water heaters, combi boilers and instant hot water.",
+  "keywords": [
+   "tankless water heater",
+   "on demand water heater",
+   "instant water heater",
+   "instantaneous water heater",
+   "combi boiler",
+   "gas water heater",
+   "wall heater",
+   "hot water",
+   "boiler",
+   "flow heater",
+   "continuous flow",
+   "water heater",
+   "plumbing",
+   "heating",
+   "utilities",
+   "gas boiler"
+  ]
+ },
+ "solar-water-heater": {
+  "context": "A sloping solar collector panel of tubes with a hot water tank above it. Use it for solar thermal systems, rooftop water heating and renewable energy at home.",
+  "keywords": [
+   "solar water heater",
+   "solar thermal",
+   "solar collector",
+   "solar hot water",
+   "evacuated tube",
+   "solar geyser",
+   "rooftop tank",
+   "renewable energy",
+   "green energy",
+   "solar panel",
+   "hot water",
+   "water heating",
+   "sustainable home",
+   "eco home",
+   "solar heating"
+  ]
+ },
+ "water-softener": {
+  "context": "A tall resin tank piped to a shorter salt tank marked with a water drop. Use it for water softeners, hard water treatment and limescale prevention.",
+  "keywords": [
+   "water softener",
+   "softener",
+   "hard water",
+   "soft water",
+   "limescale",
+   "scale",
+   "brine tank",
+   "salt tank",
+   "resin tank",
+   "water treatment",
+   "water conditioner",
+   "ion exchange",
+   "plumbing",
+   "water quality",
+   "softening salt"
+  ]
+ },
+ "under-sink-water-filter": {
+  "context": "Two filter canisters hanging from a bracket and fed by pipes. Use it for under-sink water filters, drinking water purification and filter cartridge changes.",
+  "keywords": [
+   "under sink water filter",
+   "water filter",
+   "water filtration",
+   "filter cartridge",
+   "drinking water",
+   "water purifier",
+   "reverse osmosis",
+   "ro system",
+   "canister filter",
+   "kitchen filter",
+   "clean water",
+   "filter change",
+   "water treatment",
+   "plumbing",
+   "purification"
+  ]
+ },
+ "sump-pump": {
+  "context": "A pump sitting in a pit below the floor with a float and a pipe rising out. Use it for basement flooding, drainage, sump pits and waterproofing services.",
+  "keywords": [
+   "sump pump",
+   "sump pit",
+   "basement",
+   "basement flooding",
+   "flood",
+   "drainage",
+   "dewatering",
+   "submersible pump",
+   "float switch",
+   "water pump",
+   "waterproofing",
+   "cellar",
+   "groundwater",
+   "plumbing",
+   "pump"
+  ]
+ },
+ "water-pump": {
+  "context": "A centrifugal pump with a round housing joined to a finned motor on a base. Use it for water pumps, booster pumps, irrigation and plumbing equipment.",
+  "keywords": [
+   "water pump",
+   "pump",
+   "centrifugal pump",
+   "booster pump",
+   "electric pump",
+   "motor pump",
+   "irrigation pump",
+   "well pump",
+   "pressure pump",
+   "circulation pump",
+   "water supply",
+   "plumbing",
+   "pumping",
+   "motor",
+   "equipment"
+  ]
+ },
+ "stopcock": {
+  "context": "An in-line water valve on a pipe with a round wheel handle on top. Use it for shutting off the water supply, plumbing emergencies and leak guides.",
+  "keywords": [
+   "stopcock",
+   "stop tap",
+   "stop valve",
+   "shut off valve",
+   "shutoff valve",
+   "water valve",
+   "main water valve",
+   "gate valve",
+   "water shut off",
+   "valve",
+   "wheel valve",
+   "plumbing",
+   "leak",
+   "burst pipe",
+   "mains water",
+   "water supply"
+  ]
+ },
+ "gas-valve": {
+  "context": "A valve on a gas pipe with its flat lever handle lying along the pipe. Use it for gas shut off points, gas safety and appliance connections.",
+  "keywords": [
+   "gas valve",
+   "gas shut off",
+   "gas shutoff valve",
+   "gas tap",
+   "ball valve",
+   "lever valve",
+   "quarter turn valve",
+   "gas supply",
+   "gas pipe",
+   "gas safety",
+   "gas leak",
+   "valve",
+   "plumbing",
+   "isolation valve",
+   "gas line"
+  ]
+ },
+ "water-meter": {
+  "context": "A round water meter on a pipe with a counter window and a water drop. Use it for water usage, meter readings, water bills and utility accounts.",
+  "keywords": [
+   "water meter",
+   "meter",
+   "meter reading",
+   "water usage",
+   "water consumption",
+   "water bill",
+   "utility",
+   "utilities",
+   "water supply",
+   "flow meter",
+   "smart water meter",
+   "usage tracking",
+   "water",
+   "consumption",
+   "billing"
+  ]
+ },
+ "gas-meter": {
+  "context": "A gas meter box with a counter window and a flame mark, with pipes entering the top. Use it for gas usage, meter readings, gas bills and utility accounts.",
+  "keywords": [
+   "gas meter",
+   "meter",
+   "meter reading",
+   "gas usage",
+   "gas consumption",
+   "gas bill",
+   "utility",
+   "utilities",
+   "natural gas",
+   "smart meter",
+   "energy usage",
+   "energy bill",
+   "gas supply",
+   "billing",
+   "consumption"
+  ]
+ },
+ "prepaid-meter": {
+  "context": "A wall meter with a power bolt, a small display and a keypad for entering top up codes. Use it for prepaid electricity, token meters and pay as you go energy.",
+  "keywords": [
+   "prepaid meter",
+   "prepayment meter",
+   "pay as you go",
+   "token meter",
+   "keypad meter",
+   "top up",
+   "electricity credit",
+   "prepaid electricity",
+   "energy credit",
+   "smart meter",
+   "utility",
+   "utilities",
+   "meter",
+   "electricity meter",
+   "recharge",
+   "vending code"
+  ]
+ },
+ "propane-tank": {
+  "context": "A propane gas cylinder with a protective collar, a valve on top and a foot ring. Use it for bottled gas, barbecue fuel, gas refills and camping.",
+  "keywords": [
+   "propane tank",
+   "propane",
+   "gas cylinder",
+   "gas bottle",
+   "lpg",
+   "lpg cylinder",
+   "butane",
+   "bottled gas",
+   "bbq gas",
+   "barbecue",
+   "gas refill",
+   "cooking gas",
+   "camping gas",
+   "fuel",
+   "gas tank",
+   "cylinder"
+  ]
+ },
+ "heating-oil-tank": {
+  "context": "A horizontal oil tank on legs with a fill pipe, a gauge and an oil drop. Use it for heating oil deliveries, fuel storage and oil fired boilers.",
+  "keywords": [
+   "heating oil tank",
+   "oil tank",
+   "heating oil",
+   "fuel tank",
+   "kerosene",
+   "fuel oil",
+   "diesel tank",
+   "oil storage",
+   "storage tank",
+   "oil delivery",
+   "boiler fuel",
+   "oil heating",
+   "fuel storage",
+   "tank level",
+   "home heating"
+  ]
+ },
+ "rainwater-tank": {
+  "context": "A rain barrel fed by a downpipe with a small tap near the bottom. Use it for rainwater harvesting, water saving and garden watering.",
+  "keywords": [
+   "rainwater tank",
+   "rain barrel",
+   "water butt",
+   "rainwater harvesting",
+   "rain water",
+   "downpipe",
+   "downspout",
+   "water collection",
+   "water saving",
+   "garden",
+   "watering",
+   "sustainability",
+   "eco",
+   "water storage",
+   "gutter"
+  ]
+ },
+ "electric-shower": {
+  "context": "A wall shower unit with a dial, a hose and a hand-held shower head. Use it for electric showers, bathroom fittings and instant hot water.",
+  "keywords": [
+   "electric shower",
+   "shower unit",
+   "instant shower",
+   "power shower",
+   "shower",
+   "shower head",
+   "handheld shower",
+   "bathroom",
+   "hot water",
+   "shower heater",
+   "electric heater",
+   "bath",
+   "plumbing",
+   "bathroom fitting",
+   "wash"
+  ]
+ },
+ "home-battery": {
+  "context": "A wall-mounted home battery with a charge bolt and a row of level bars. Use it for home energy storage, solar batteries and backup power.",
+  "keywords": [
+   "home battery",
+   "house battery",
+   "battery storage",
+   "energy storage",
+   "solar battery",
+   "backup power",
+   "wall battery",
+   "battery backup",
+   "stored energy",
+   "off grid",
+   "power storage",
+   "charge level",
+   "renewable energy",
+   "home energy",
+   "storage system"
+  ]
+ },
+ "portable-generator": {
+  "context": "An engine box with a power bolt and sockets under a carry frame. Use it for portable generators, backup power during outages, camping and job sites.",
+  "keywords": [
+   "portable generator",
+   "generator",
+   "genset",
+   "backup generator",
+   "petrol generator",
+   "gasoline generator",
+   "diesel generator",
+   "power outage",
+   "blackout",
+   "backup power",
+   "camping power",
+   "job site",
+   "emergency power",
+   "standby generator",
+   "off grid"
+  ]
+ },
+ "ups-power-supply": {
+  "context": "A tower backup power unit with a battery display and a power button. Use it for uninterruptible power supplies, computer backup power and server rooms.",
+  "keywords": [
+   "ups",
+   "uninterruptible power supply",
+   "battery backup",
+   "backup power",
+   "power backup",
+   "surge protection",
+   "power outage",
+   "blackout",
+   "server power",
+   "computer power",
+   "standby power",
+   "power supply",
+   "it equipment",
+   "battery",
+   "power protection"
+  ]
+ },
+ "power-inverter": {
+  "context": "The inverter symbol: a box split by a diagonal with direct current marks on one side and a sine wave on the other. Use it for inverters, DC to AC conversion and solar systems.",
+  "keywords": [
+   "power inverter",
+   "inverter",
+   "dc to ac",
+   "dc ac converter",
+   "converter",
+   "solar inverter",
+   "car inverter",
+   "sine wave",
+   "alternating current",
+   "direct current",
+   "power conversion",
+   "off grid",
+   "electrical symbol",
+   "power supply",
+   "battery inverter"
+  ]
+ },
+ "fuse-box": {
+  "context": "A wall panel with a row of breaker switches under a top strip. Use it for fuse boxes, consumer units, breaker panels and electrical safety checks.",
+  "keywords": [
+   "fuse box",
+   "consumer unit",
+   "breaker panel",
+   "circuit breaker panel",
+   "electrical panel",
+   "distribution board",
+   "panel board",
+   "fuses",
+   "breakers",
+   "mains",
+   "trip switch",
+   "electrician",
+   "electrical safety",
+   "wiring",
+   "power cut"
+  ]
+ },
+ "circuit-breaker": {
+  "context": "A single breaker module with a toggle lever and screw terminals top and bottom. Use it for circuit breakers, tripped circuits and electrical installations.",
+  "keywords": [
+   "circuit breaker",
+   "breaker",
+   "mcb",
+   "miniature circuit breaker",
+   "rcd",
+   "rcbo",
+   "trip switch",
+   "tripped breaker",
+   "overload",
+   "din rail",
+   "electrical protection",
+   "fuse",
+   "electrician",
+   "reset breaker",
+   "short circuit"
+  ]
+ },
+ "electrical-fuse": {
+  "context": "A cartridge fuse with metal end caps and a thin wire filament inside. Use it for fuses, blown fuse checks, electronics repair and overcurrent protection.",
+  "keywords": [
+   "fuse",
+   "electrical fuse",
+   "cartridge fuse",
+   "glass fuse",
+   "blown fuse",
+   "fuse wire",
+   "overcurrent",
+   "circuit protection",
+   "electronics",
+   "repair",
+   "amp fuse",
+   "replacement fuse",
+   "plug fuse",
+   "safety",
+   "electrical"
+  ]
+ },
+ "junction-box": {
+  "context": "A square electrical box with a screwed lid and cables entering from two sides. Use it for junction boxes, wiring connections and electrical installation.",
+  "keywords": [
+   "junction box",
+   "connection box",
+   "electrical box",
+   "wiring box",
+   "enclosure",
+   "cable joint",
+   "terminal box",
+   "wiring",
+   "cables",
+   "connections",
+   "electrician",
+   "electrical installation",
+   "conduit",
+   "splice box",
+   "weatherproof box"
+  ]
+ },
+ "power-strip": {
+  "context": "A power strip with a row of sockets, an on off switch and a cord. Use it for extension leads, surge protectors and plugging in several devices.",
+  "keywords": [
+   "power strip",
+   "extension lead",
+   "extension cord",
+   "power board",
+   "multi socket",
+   "multiple outlets",
+   "surge protector",
+   "gang socket",
+   "outlet strip",
+   "power bar",
+   "sockets",
+   "plug in",
+   "switch",
+   "cable",
+   "desk power"
+  ]
+ },
+ "extension-reel": {
+  "context": "A round cable drum with a socket on its hub, a crank handle and feet. Use it for cable reels, outdoor power and long extension cables.",
+  "keywords": [
+   "extension reel",
+   "cable reel",
+   "cable drum",
+   "extension cable",
+   "extension cord",
+   "reel",
+   "drum",
+   "outdoor power",
+   "garden power",
+   "long cable",
+   "power lead",
+   "workshop",
+   "site power",
+   "winding reel",
+   "portable socket"
+  ]
+ },
+ "travel-adapter": {
+  "context": "A cube adapter with plug pins on two faces and a socket on the front. Use it for travel adapters, using devices abroad and international plug types.",
+  "keywords": [
+   "travel adapter",
+   "travel plug",
+   "plug adapter",
+   "universal adapter",
+   "power adapter",
+   "international adapter",
+   "adaptor",
+   "travel adaptor",
+   "abroad",
+   "overseas",
+   "foreign socket",
+   "plug converter",
+   "holiday",
+   "luggage",
+   "electrical adapter"
+  ]
+ },
+ "multi-plug": {
+  "context": "A plug adapter with pins on top and three sockets on the front. Use it for multi-plugs, double adapters and socket splitters.",
+  "keywords": [
+   "multi plug",
+   "multiplug",
+   "plug adapter",
+   "socket adapter",
+   "double adapter",
+   "triple adapter",
+   "splitter",
+   "socket splitter",
+   "multiway adapter",
+   "adaptor",
+   "outlets",
+   "overloaded socket",
+   "plug in",
+   "power adapter",
+   "multiple sockets"
+  ]
+ },
+ "timer-socket": {
+  "context": "A plug-in socket unit with a round dial of timing pins and a clock hand. Use it for plug timers, scheduling lamps and automatic switching.",
+  "keywords": [
+   "timer socket",
+   "plug timer",
+   "timer plug",
+   "time switch",
+   "socket timer",
+   "24 hour timer",
+   "mechanical timer",
+   "schedule",
+   "scheduled power",
+   "lamp timer",
+   "automatic switch",
+   "on off timer",
+   "energy saving",
+   "holiday lights",
+   "programmable plug"
+  ]
+ },
+ "smart-plug": {
+  "context": "A plug-in module with a socket face and a wireless signal above it. Use it for smart plugs, home automation and remote control of appliances.",
+  "keywords": [
+   "smart plug",
+   "wifi plug",
+   "smart socket",
+   "connected plug",
+   "home automation",
+   "smart home",
+   "remote control",
+   "app control",
+   "wireless plug",
+   "voice control",
+   "schedule",
+   "energy monitoring",
+   "iot",
+   "plug in",
+   "outlet"
+  ]
+ },
+ "usb-outlet": {
+  "context": "A wall socket plate with one power outlet and two USB charging ports. Use it for USB sockets, wall chargers and charging phones at home.",
+  "keywords": [
+   "usb outlet",
+   "usb socket",
+   "usb wall socket",
+   "usb charger",
+   "wall charger",
+   "charging port",
+   "usb port",
+   "phone charging",
+   "charging point",
+   "outlet",
+   "receptacle",
+   "power socket",
+   "wall plate",
+   "electrical outlet",
+   "usb c"
+  ]
+ },
+ "gfci-outlet": {
+  "context": "An outlet plate with two sockets and test and reset buttons between them. Use it for GFCI and RCD protected outlets in kitchens, bathrooms and outdoors.",
+  "keywords": [
+   "gfci outlet",
+   "gfi outlet",
+   "gfci",
+   "ground fault",
+   "ground fault outlet",
+   "rcd socket",
+   "safety outlet",
+   "test button",
+   "reset button",
+   "bathroom outlet",
+   "kitchen outlet",
+   "receptacle",
+   "electrical safety",
+   "shock protection",
+   "outlet"
+  ]
+ },
+ "outdoor-outlet": {
+  "context": "A weatherproof socket with its hinged cover flipped up. Use it for outdoor and garden sockets, patio power and exterior electrical work.",
+  "keywords": [
+   "outdoor outlet",
+   "outdoor socket",
+   "outside socket",
+   "garden socket",
+   "weatherproof outlet",
+   "waterproof socket",
+   "exterior outlet",
+   "patio socket",
+   "ip rated socket",
+   "cover",
+   "flip cover",
+   "outlet",
+   "receptacle",
+   "garden power",
+   "outside power"
+  ]
+ },
+ "floor-outlet": {
+  "context": "A socket box set into the floor with its lid flipped open. Use it for floor boxes, office floor power and flush floor sockets.",
+  "keywords": [
+   "floor outlet",
+   "floor socket",
+   "floor box",
+   "pop up socket",
+   "flush socket",
+   "recessed outlet",
+   "office power",
+   "under floor",
+   "floor power",
+   "hidden outlet",
+   "desk power",
+   "lid",
+   "receptacle",
+   "conference room",
+   "outlet"
+  ]
+ },
+ "plug-type-a": {
+  "context": "The face of a type A plug with two flat parallel blades and a cord. Use it for plug type guides, travel to North America or Japan and adapter shopping.",
+  "keywords": [
+   "plug type a",
+   "type a plug",
+   "us plug",
+   "american plug",
+   "nema 1-15",
+   "two prong plug",
+   "flat pins",
+   "japan plug",
+   "north american plug",
+   "plug type",
+   "electrical plug",
+   "travel",
+   "power plug",
+   "plug",
+   "mains plug"
+  ]
+ },
+ "plug-type-c": {
+  "context": "The face of a type C Europlug with two round pins and a cord. Use it for plug type guides, travel in Europe and adapter shopping.",
+  "keywords": [
+   "plug type c",
+   "type c plug",
+   "europlug",
+   "european plug",
+   "eu plug",
+   "two pin plug",
+   "round pins",
+   "continental plug",
+   "plug type",
+   "electrical plug",
+   "travel",
+   "europe",
+   "power plug",
+   "plug",
+   "mains plug"
+  ]
+ },
+ "plug-type-g": {
+  "context": "The face of a type G plug with three rectangular pins and a cord. Use it for plug type guides, travel to the UK and adapter shopping.",
+  "keywords": [
+   "plug type g",
+   "type g plug",
+   "uk plug",
+   "british plug",
+   "bs 1363",
+   "three pin plug",
+   "13 amp plug",
+   "rectangular pins",
+   "plug type",
+   "electrical plug",
+   "travel",
+   "united kingdom",
+   "power plug",
+   "plug",
+   "mains plug"
+  ]
+ },
+ "plug-type-i": {
+  "context": "The face of a type I plug with two angled blades, a vertical earth blade and a cord. Use it for plug type guides and travel to Australia, New Zealand or China.",
+  "keywords": [
+   "plug type i",
+   "type i plug",
+   "australian plug",
+   "new zealand plug",
+   "chinese plug",
+   "as 3112",
+   "angled pins",
+   "three pin plug",
+   "plug type",
+   "electrical plug",
+   "travel",
+   "australia",
+   "power plug",
+   "plug",
+   "mains plug"
+  ]
+ },
+ "socket-type-a": {
+  "context": "A duplex wall outlet with two pairs of flat slots. Use it for socket type guides, North American outlets and travel planning.",
+  "keywords": [
+   "socket type a",
+   "type a socket",
+   "us outlet",
+   "american outlet",
+   "duplex outlet",
+   "two prong outlet",
+   "receptacle",
+   "wall outlet",
+   "nema outlet",
+   "socket type",
+   "power socket",
+   "travel",
+   "electrical outlet",
+   "wall socket",
+   "outlet"
+  ]
+ },
+ "socket-type-f": {
+  "context": "A Schuko style socket with a round recess, two pin holes and earth clips. Use it for socket type guides and travel in Germany and much of Europe.",
+  "keywords": [
+   "socket type f",
+   "type f socket",
+   "schuko",
+   "schuko socket",
+   "german socket",
+   "european socket",
+   "eu socket",
+   "earth clips",
+   "grounded socket",
+   "socket type",
+   "power socket",
+   "travel",
+   "europe",
+   "wall socket",
+   "outlet"
+  ]
+ },
+ "socket-type-g": {
+  "context": "A switched type G socket with three rectangular holes and a rocker switch. Use it for socket type guides and travel to the UK, Ireland and other countries.",
+  "keywords": [
+   "socket type g",
+   "type g socket",
+   "uk socket",
+   "british socket",
+   "switched socket",
+   "three pin socket",
+   "13 amp socket",
+   "bs 1363",
+   "socket type",
+   "power socket",
+   "travel",
+   "united kingdom",
+   "wall socket",
+   "outlet",
+   "plug socket"
+  ]
+ },
+ "socket-type-i": {
+  "context": "A wall socket with two angled slots and a vertical slot below. Use it for socket type guides and travel to Australia, New Zealand or China.",
+  "keywords": [
+   "socket type i",
+   "type i socket",
+   "australian socket",
+   "power point",
+   "chinese socket",
+   "new zealand socket",
+   "angled slots",
+   "three pin socket",
+   "socket type",
+   "power socket",
+   "travel",
+   "australia",
+   "wall socket",
+   "outlet",
+   "gpo"
+  ]
+ },
+ "dimmer-switch": {
+  "context": "A square wall plate with a round rotary knob. Use it for dimmer switches, light level control and mood lighting.",
+  "keywords": [
+   "dimmer switch",
+   "dimmer",
+   "light dimmer",
+   "rotary dimmer",
+   "rotary switch",
+   "dial switch",
+   "brightness",
+   "dim lights",
+   "light control",
+   "mood lighting",
+   "wall switch",
+   "lighting",
+   "knob",
+   "electrical",
+   "switch"
+  ]
+ },
+ "double-light-switch": {
+  "context": "A wall plate with two rocker switches, one up and one down. Use it for two gang switches, controlling two lights and electrical fittings.",
+  "keywords": [
+   "double light switch",
+   "double switch",
+   "two gang switch",
+   "2 gang switch",
+   "twin switch",
+   "light switch",
+   "wall switch",
+   "rocker switch",
+   "switch plate",
+   "lights",
+   "on off",
+   "lighting",
+   "electrical",
+   "switch",
+   "fitting"
+  ]
+ },
+ "pull-cord-switch": {
+  "context": "A ceiling switch box with a hanging cord ending in a bead. Use it for bathroom pull switches, ceiling switches and shower lights.",
+  "keywords": [
+   "pull cord switch",
+   "pull switch",
+   "cord switch",
+   "bathroom switch",
+   "ceiling switch",
+   "light pull",
+   "string switch",
+   "pull cord",
+   "bathroom light",
+   "shower switch",
+   "pull chain",
+   "lighting",
+   "switch",
+   "electrical",
+   "ceiling"
+  ]
+ },
+ "bulb-socket": {
+  "context": "A threaded lamp holder hanging from its flex cord with a skirt ring at the opening. Use it for lamp holders, pendant fittings and replacing light sockets.",
+  "keywords": [
+   "bulb socket",
+   "light socket",
+   "lamp holder",
+   "lampholder",
+   "bulb holder",
+   "e27",
+   "e26",
+   "screw socket",
+   "pendant fitting",
+   "light fitting",
+   "lamp socket",
+   "lighting",
+   "electrical",
+   "bulb",
+   "ceiling light"
+  ]
+ },
+ "doorbell-chime": {
+  "context": "A wall chime box with two tone bars and a music note. Use it for doorbell chimes, door chime settings and ringer sounds.",
+  "keywords": [
+   "doorbell chime",
+   "chime",
+   "door chime",
+   "doorbell",
+   "bell",
+   "ding dong",
+   "chime box",
+   "ringer",
+   "doorbell sound",
+   "wireless chime",
+   "visitor",
+   "front door",
+   "ring tone",
+   "music note",
+   "alert"
+  ]
+ },
+ "telephone-socket": {
+  "context": "A wall plate with a small phone jack and a handset mark. Use it for telephone sockets, landline connections and broadband wall points.",
+  "keywords": [
+   "telephone socket",
+   "phone socket",
+   "phone jack",
+   "telephone jack",
+   "rj11",
+   "landline",
+   "phone line",
+   "wall jack",
+   "telephone point",
+   "broadband socket",
+   "dsl",
+   "master socket",
+   "telecom",
+   "phone",
+   "connection"
+  ]
+ },
+ "coaxial-connector": {
+  "context": "An F type coaxial connector with a hex nut, a threaded end and a centre pin. Use it for TV aerial cables, satellite and cable TV connections.",
+  "keywords": [
+   "coaxial connector",
+   "coax connector",
+   "coax",
+   "f connector",
+   "f type connector",
+   "tv aerial",
+   "antenna cable",
+   "cable tv",
+   "satellite",
+   "coaxial cable",
+   "rf connector",
+   "aerial lead",
+   "tv cable",
+   "broadband",
+   "connector"
+  ]
+ },
+ "audio-jack": {
+  "context": "A 3.5 mm jack plug with a banded tip, a grip and a cable. Use it for headphone jacks, aux cables and audio connections.",
+  "keywords": [
+   "audio jack",
+   "headphone jack",
+   "3.5mm jack",
+   "mini jack",
+   "aux",
+   "aux cable",
+   "trs",
+   "trrs",
+   "jack plug",
+   "audio plug",
+   "headphones",
+   "earphones",
+   "audio cable",
+   "sound",
+   "connector"
+  ]
+ },
+ "rca-connector": {
+  "context": "A pair of RCA phono plugs with round collars and centre pins on cables. Use it for stereo audio, composite video and home cinema connections.",
+  "keywords": [
+   "rca connector",
+   "rca cable",
+   "phono plug",
+   "phono cable",
+   "composite",
+   "composite video",
+   "stereo cable",
+   "audio video",
+   "av cable",
+   "left right audio",
+   "cinch",
+   "home theater",
+   "home cinema",
+   "connector",
+   "cable"
+  ]
+ },
+ "optical-audio-connector": {
+  "context": "An optical audio plug with a square tip and a light dot, on a cable. Use it for digital optical audio, soundbars and home cinema connections.",
+  "keywords": [
+   "optical audio",
+   "optical cable",
+   "optical connector",
+   "spdif",
+   "s/pdif",
+   "digital audio",
+   "fibre optic",
+   "fiber optic",
+   "soundbar",
+   "home cinema",
+   "home theater",
+   "audio cable",
+   "surround sound",
+   "connector",
+   "digital optical"
+  ]
+ },
+ "led-bulb": {
+  "context": "An LED bulb with a dome, a tapered heat sink neck, a screw base and an LED chip. Use it for LED lighting, energy saving bulbs and smart lighting.",
+  "keywords": [
+   "led bulb",
+   "led lamp",
+   "led light",
+   "led",
+   "energy saving bulb",
+   "low energy bulb",
+   "light bulb",
+   "lightbulb",
+   "efficient lighting",
+   "smart bulb",
+   "screw bulb",
+   "e27",
+   "lighting",
+   "eco",
+   "lamp"
+  ]
+ },
+ "fluorescent-tube": {
+  "context": "A straight fluorescent tube with pin end caps, shining downward. Use it for tube lights, office and workshop lighting and lamp replacement.",
+  "keywords": [
+   "fluorescent tube",
+   "fluorescent light",
+   "tube light",
+   "strip light",
+   "t8",
+   "t5",
+   "neon tube",
+   "office light",
+   "workshop light",
+   "batten",
+   "lighting",
+   "lamp",
+   "ceiling light",
+   "tube lamp",
+   "garage light"
+  ]
+ },
+ "cfl-bulb": {
+  "context": "A compact fluorescent bulb with a spiral tube, a neck and a screw base. Use it for energy saving bulbs, CFL recycling and lighting guides.",
+  "keywords": [
+   "cfl bulb",
+   "cfl",
+   "compact fluorescent",
+   "energy saving bulb",
+   "low energy bulb",
+   "spiral bulb",
+   "fluorescent bulb",
+   "light bulb",
+   "lightbulb",
+   "eco bulb",
+   "efficient lighting",
+   "lamp",
+   "lighting",
+   "recycling",
+   "screw bulb"
+  ]
+ },
+ "halogen-bulb": {
+  "context": "A small halogen capsule bulb with a filament and two wire pins. Use it for halogen lamps, G4 and G9 bulbs and lamp replacement.",
+  "keywords": [
+   "halogen bulb",
+   "halogen",
+   "halogen lamp",
+   "capsule bulb",
+   "pin bulb",
+   "g4 bulb",
+   "g9 bulb",
+   "bi pin",
+   "filament",
+   "light bulb",
+   "lamp",
+   "lighting",
+   "replacement bulb",
+   "small bulb",
+   "mini bulb"
+  ]
+ },
+ "edison-bulb": {
+  "context": "A vintage Edison style bulb with a looping filament and a screw base. Use it for filament bulbs, retro and industrial lighting and decor.",
+  "keywords": [
+   "edison bulb",
+   "filament bulb",
+   "vintage bulb",
+   "retro bulb",
+   "antique bulb",
+   "squirrel cage",
+   "industrial lighting",
+   "exposed bulb",
+   "decorative bulb",
+   "light bulb",
+   "lightbulb",
+   "incandescent",
+   "lamp",
+   "decor",
+   "lighting"
+  ]
+ },
+ "spotlight-bulb": {
+  "context": "A reflector bulb with a round lens face, a cone body and two pins. Use it for GU10 and MR16 spot bulbs, downlights and track lights.",
+  "keywords": [
+   "spotlight bulb",
+   "spot bulb",
+   "reflector bulb",
+   "gu10",
+   "mr16",
+   "halogen spot",
+   "led spot",
+   "downlight bulb",
+   "spotlight",
+   "lamp",
+   "light bulb",
+   "pin bulb",
+   "lighting",
+   "replacement bulb",
+   "reflector lamp"
+  ]
+ },
+ "led-strip": {
+  "context": "A flexible ribbon with evenly spaced LED chips. Use it for LED strip lights, under cabinet lighting, backlighting and gaming setups.",
+  "keywords": [
+   "led strip",
+   "led tape",
+   "strip light",
+   "light strip",
+   "rgb strip",
+   "led ribbon",
+   "tape light",
+   "under cabinet light",
+   "backlight",
+   "rope light",
+   "accent lighting",
+   "gaming setup",
+   "lighting",
+   "led",
+   "flexible light"
+  ]
+ },
+ "recessed-light": {
+  "context": "A ceiling downlight with a flush trim ring and a cone of light below. Use it for recessed lighting, spotlights, can lights and ceiling plans.",
+  "keywords": [
+   "recessed light",
+   "downlight",
+   "down light",
+   "can light",
+   "pot light",
+   "recessed lighting",
+   "ceiling spotlight",
+   "spotlight",
+   "ceiling light",
+   "flush light",
+   "spot light",
+   "lighting plan",
+   "ceiling",
+   "lighting",
+   "light beam"
+  ]
+ },
+ "track-light": {
+  "context": "A ceiling rail with three spot heads angled downward. Use it for track lighting, gallery and shop lighting and kitchen spotlights.",
+  "keywords": [
+   "track light",
+   "track lighting",
+   "rail lights",
+   "spotlights",
+   "spot lights",
+   "ceiling spots",
+   "gallery lighting",
+   "shop lighting",
+   "accent lighting",
+   "adjustable lights",
+   "kitchen lighting",
+   "ceiling light",
+   "lighting",
+   "spots",
+   "rail"
+  ]
+ },
+ "wall-sconce": {
+  "context": "A backplate on the wall with a curved arm holding an upturned shade that lights upward. Use it for wall lights, sconces and hallway lighting.",
+  "keywords": [
+   "wall sconce",
+   "sconce",
+   "wall light",
+   "wall lamp",
+   "uplighter",
+   "up light",
+   "bracket light",
+   "hallway light",
+   "bedside wall light",
+   "wall fixture",
+   "lighting",
+   "lamp",
+   "interior lighting",
+   "fixture",
+   "wall mounted"
+  ]
+ },
+ "floodlight": {
+  "context": "An outdoor floodlight with a flat lens held in a U bracket, shining downward. Use it for security lighting, yard and driveway lights and site lighting.",
+  "keywords": [
+   "floodlight",
+   "flood light",
+   "security light",
+   "outdoor light",
+   "led floodlight",
+   "yard light",
+   "driveway light",
+   "garden light",
+   "site light",
+   "exterior light",
+   "motion light",
+   "spotlight",
+   "bright light",
+   "outdoor lighting",
+   "lamp"
+  ]
+ },
+ "night-light": {
+  "context": "A plug-in night light with a glowing crescent moon lens. Use it for nightlights, nursery and hallway lighting and sleep routines.",
+  "keywords": [
+   "night light",
+   "nightlight",
+   "plug in light",
+   "nursery light",
+   "kids room",
+   "baby room",
+   "sleep",
+   "bedtime",
+   "dark",
+   "moon",
+   "low light",
+   "hallway light",
+   "glow",
+   "lamp",
+   "soft light"
+  ]
+ },
+ "string-lights": {
+  "context": "A sagging wire with small bulbs hanging along it. Use it for fairy lights, festoon lights, party and garden decoration and holiday lights.",
+  "keywords": [
+   "string lights",
+   "fairy lights",
+   "festoon lights",
+   "party lights",
+   "christmas lights",
+   "holiday lights",
+   "garden lights",
+   "patio lights",
+   "bulb string",
+   "decorative lights",
+   "twinkle lights",
+   "bistro lights",
+   "decoration",
+   "festive",
+   "lights"
+  ]
+ },
+ "lava-lamp": {
+  "context": "A tapered glass lamp with floating blobs on a cone base and a small cap. Use it for retro decor, mood lighting and relaxing ambience.",
+  "keywords": [
+   "lava lamp",
+   "retro lamp",
+   "mood light",
+   "mood lamp",
+   "motion lamp",
+   "groovy",
+   "70s",
+   "psychedelic",
+   "decor",
+   "ambient light",
+   "novelty lamp",
+   "blobs",
+   "lamp",
+   "lighting",
+   "relaxing"
+  ]
+ },
+ "ring-light": {
+  "context": "A ring light on a tripod stand with a phone held in the centre. Use it for selfie lighting, streaming, video calls and makeup tutorials.",
+  "keywords": [
+   "ring light",
+   "ring lamp",
+   "selfie light",
+   "circle light",
+   "vlogging",
+   "streaming",
+   "video call",
+   "content creator",
+   "makeup light",
+   "photography light",
+   "phone holder",
+   "tripod",
+   "influencer",
+   "studio light",
+   "video light"
+  ]
+ },
+ "emergency-light": {
+  "context": "A wall box with twin angled lamps on top and an indicator light. Use it for emergency lighting, power failure backup and building safety.",
+  "keywords": [
+   "emergency light",
+   "emergency lighting",
+   "twin spot",
+   "twin head",
+   "power failure",
+   "power cut",
+   "blackout",
+   "backup light",
+   "exit light",
+   "escape lighting",
+   "safety light",
+   "fire safety",
+   "building safety",
+   "battery light",
+   "maintained light"
+  ]
+ },
+ "salt-lamp": {
+  "context": "A rough salt crystal rock on a small wooden base. Use it for salt lamps, mood lighting, wellness and home decor.",
+  "keywords": [
+   "salt lamp",
+   "himalayan salt lamp",
+   "rock salt lamp",
+   "salt rock",
+   "crystal lamp",
+   "pink salt",
+   "mood light",
+   "glow",
+   "wellness",
+   "relaxation",
+   "decor",
+   "night lamp",
+   "natural lamp",
+   "lamp",
+   "ambient light"
+  ]
+ },
+ "heat-lamp": {
+  "context": "An infrared heat lamp bulb with a wide domed face and heat waves below. Use it for heat lamps, brooders, reptile enclosures and warming stations.",
+  "keywords": [
+   "heat lamp",
+   "infrared lamp",
+   "heat bulb",
+   "infrared bulb",
+   "red light",
+   "brooder lamp",
+   "chick brooder",
+   "reptile lamp",
+   "basking lamp",
+   "warming lamp",
+   "food warmer",
+   "heat therapy",
+   "heating",
+   "warmth",
+   "lamp"
+  ]
+ },
+ "bug-zapper": {
+  "context": "A hanging lantern cage with a hook, vertical grid bars and a base. Use it for bug zappers, insect killers and pest control outdoors.",
+  "keywords": [
+   "bug zapper",
+   "insect zapper",
+   "insect killer",
+   "mosquito killer",
+   "fly killer",
+   "fly zapper",
+   "electric trap",
+   "uv trap",
+   "pest control",
+   "mosquitoes",
+   "flies",
+   "bugs",
+   "insects",
+   "lantern",
+   "outdoor"
+  ]
+ },
+ "grow-light": {
+  "context": "A lamp panel shining on a seedling in a pot. Use it for grow lights, indoor gardening, hydroponics and seed starting.",
+  "keywords": [
+   "grow light",
+   "grow lamp",
+   "plant light",
+   "led grow light",
+   "indoor garden",
+   "indoor plants",
+   "hydroponics",
+   "seedling",
+   "seed starting",
+   "horticulture",
+   "greenhouse",
+   "houseplants",
+   "plant growth",
+   "full spectrum",
+   "gardening"
+  ]
+ },
+ "solar-garden-light": {
+  "context": "A garden stake light with a small solar panel cap and a lit globe. Use it for solar path lights, garden lighting and outdoor decor.",
+  "keywords": [
+   "solar garden light",
+   "solar light",
+   "solar path light",
+   "garden light",
+   "path light",
+   "stake light",
+   "lawn light",
+   "pathway light",
+   "outdoor light",
+   "solar powered",
+   "landscape lighting",
+   "garden decor",
+   "yard light",
+   "patio",
+   "driveway"
+  ]
+ },
+ "porch-light": {
+  "context": "An outdoor wall lantern with glass panes and a peaked cap on a wall bracket. Use it for porch lights, front door lighting and exterior fittings.",
+  "keywords": [
+   "porch light",
+   "porch lamp",
+   "wall lantern",
+   "outdoor wall light",
+   "coach light",
+   "carriage light",
+   "front door light",
+   "exterior light",
+   "entrance light",
+   "outdoor lantern",
+   "outdoor lighting",
+   "porch",
+   "lantern",
+   "lamp",
+   "doorway"
+  ]
+ },
+ "arc-floor-lamp": {
+  "context": "A floor lamp with a weighted base and a long curved arm to a hanging dome shade. Use it for arc lamps, living room lighting and furniture listings.",
+  "keywords": [
+   "arc floor lamp",
+   "arc lamp",
+   "arched lamp",
+   "arching lamp",
+   "floor lamp",
+   "overhead lamp",
+   "reading lamp",
+   "living room lamp",
+   "standing lamp",
+   "curved lamp",
+   "modern lamp",
+   "lighting",
+   "furniture",
+   "lamp",
+   "sofa light"
+  ]
+ },
+ "led-candle": {
+  "context": "A flameless pillar candle with a flame-shaped bulb and a small switch. Use it for LED candles, battery candles and safe decorative lighting.",
+  "keywords": [
+   "led candle",
+   "flameless candle",
+   "battery candle",
+   "electric candle",
+   "fake candle",
+   "pillar candle",
+   "tea light",
+   "led tealight",
+   "candle light",
+   "decor",
+   "safe candle",
+   "flicker light",
+   "ambience",
+   "lighting",
+   "candle"
+  ]
+ },
+ "vanity-mirror": {
+  "context": "A rectangular mirror framed by round bulbs with a reflection glint. Use it for vanity and makeup mirrors, dressing tables and beauty salons.",
+  "keywords": [
+   "vanity mirror",
+   "makeup mirror",
+   "hollywood mirror",
+   "lighted mirror",
+   "bulb mirror",
+   "dressing table",
+   "dressing room",
+   "beauty",
+   "makeup",
+   "salon",
+   "backstage",
+   "mirror",
+   "lights",
+   "cosmetics",
+   "vanity"
+  ]
+ },
+ "automatic-soap-dispenser": {
+  "context": "A touch-free soap dispenser with a spout, a sensor and a drop of soap. Use it for touchless hand washing, hygiene and washroom supplies.",
+  "keywords": [
+   "automatic soap dispenser",
+   "touchless soap dispenser",
+   "touch free",
+   "sensor dispenser",
+   "soap dispenser",
+   "hand soap",
+   "liquid soap",
+   "hand wash",
+   "hand washing",
+   "hygiene",
+   "sanitizer",
+   "sanitiser",
+   "washroom",
+   "bathroom",
+   "no touch"
+  ]
+ }
+}

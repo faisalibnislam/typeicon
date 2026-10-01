@@ -1,0 +1,997 @@
+[
+  {
+    "name": "diplococcus",
+    "category": "biochem",
+    "draw": "Two small round cocci touching side by side as a pair, like a coffee-bean doublet."
+  },
+  {
+    "name": "tetrad-cocci",
+    "category": "biochem",
+    "draw": "Four round cocci arranged in a flat square of two by two."
+  },
+  {
+    "name": "streptobacillus",
+    "category": "biochem",
+    "draw": "A chain of three or four short rounded rods joined end to end."
+  },
+  {
+    "name": "vibrio-bacterium",
+    "category": "biochem",
+    "draw": "A curved comma-shaped rod with a single long wavy flagellum at one end."
+  },
+  {
+    "name": "peritrichous-bacterium",
+    "category": "biochem",
+    "draw": "A rod-shaped bacterium with many wavy flagella sprouting all around its outline."
+  },
+  {
+    "name": "bacterial-endospore",
+    "category": "biochem",
+    "draw": "A rod-shaped bacterium with a bold oval spore sitting inside at one end."
+  },
+  {
+    "name": "bacterial-capsule",
+    "category": "biochem",
+    "draw": "A rod bacterium surrounded by a thick soft halo outline, showing the slime capsule."
+  },
+  {
+    "name": "prokaryotic-cell",
+    "category": "biochem",
+    "draw": "A capsule-shaped cell cutaway with a tangled loop of DNA, a small plasmid ring, dotted ribosomes and a tail flagellum."
+  },
+  {
+    "name": "biofilm",
+    "category": "biochem",
+    "draw": "A cluster of small rod bacteria embedded in a wavy mound resting on a flat surface line."
+  },
+  {
+    "name": "bacterial-colony",
+    "category": "biochem",
+    "draw": "A single round dome colony seen from above with a scalloped irregular edge and a raised center."
+  },
+  {
+    "name": "magnetotactic-bacterium",
+    "category": "biochem",
+    "draw": "A curved rod bacterium with a straight line of small squares (magnet crystals) running along its length."
+  },
+  {
+    "name": "bacterial-flagellar-motor",
+    "category": "biochem",
+    "draw": "A rotary motor embedded in a two-line membrane: stacked rings at the base, a hook and a long whip filament rising up."
+  },
+  {
+    "name": "gut-microbiome",
+    "category": "biochem",
+    "draw": "A looped intestine outline with small rod and round bacteria scattered inside it."
+  },
+  {
+    "name": "caulobacter",
+    "category": "biochem",
+    "draw": "A crescent-shaped bacterium with a thin stalk at one end ending in a small holdfast foot."
+  },
+  {
+    "name": "quorum-sensing",
+    "category": "biochem",
+    "draw": "Three small rod bacteria in a triangle with tiny signal dots and short wave arcs passing between them."
+  },
+  {
+    "name": "root-nodule",
+    "category": "biochem",
+    "draw": "A branching root with several round swollen nodules clustered along it."
+  },
+  {
+    "name": "stromatolite",
+    "category": "biochem",
+    "draw": "A group of layered dome-shaped rock mounds in shallow water, each dome showing stacked curved bands."
+  },
+  {
+    "name": "winogradsky-column",
+    "category": "biochem",
+    "draw": "A tall clear cylinder filled with horizontal bands of mud and water in different shades, capped at the top."
+  },
+  {
+    "name": "bioremediation",
+    "category": "biochem",
+    "draw": "A large oil droplet being nibbled by small rod bacteria around its edge, with a sprout leaf beside it."
+  },
+  {
+    "name": "icosahedral-virus",
+    "category": "biochem",
+    "draw": "A twenty-sided geometric capsid seen as a hexagon with inner triangle facets and short knobbed fibers at the corners."
+  },
+  {
+    "name": "helical-virus",
+    "category": "biochem",
+    "draw": "A straight rigid rod made of stacked ring segments with a thin spiral RNA line running through it."
+  },
+  {
+    "name": "filovirus",
+    "category": "biochem",
+    "draw": "A long thread-like virus curled at one end into a shepherd's crook hook, with tiny spikes along its edge."
+  },
+  {
+    "name": "bullet-shaped-virus",
+    "category": "biochem",
+    "draw": "A bullet-shaped virus, flat at one end and rounded at the other, with short spikes around the outline."
+  },
+  {
+    "name": "poxvirus",
+    "category": "biochem",
+    "draw": "A rounded brick-shaped virus with a dumbbell-shaped core inside and a textured outer coat."
+  },
+  {
+    "name": "retrovirus",
+    "category": "biochem",
+    "draw": "A round enveloped virus with short spikes and a cone-shaped capsid inside holding two RNA squiggles."
+  },
+  {
+    "name": "spike-protein",
+    "category": "biochem",
+    "draw": "A single mushroom-shaped protein standing on a membrane line, a wide three-lobed head on a slim stalk."
+  },
+  {
+    "name": "prion",
+    "category": "biochem",
+    "draw": "A normal coiled protein beside a misfolded clump of stacked flat arrows, joined by a small arrow."
+  },
+  {
+    "name": "viral-replication",
+    "category": "biochem",
+    "draw": "A cell outline with one virus entering on one side and several new virus particles budding out of the other side."
+  },
+  {
+    "name": "giardia",
+    "category": "biochem",
+    "draw": "A pear-shaped protozoan seen face-on with two round nuclei like eyes and four pairs of trailing flagella."
+  },
+  {
+    "name": "didinium",
+    "category": "biochem",
+    "draw": "A barrel-shaped ciliate with two rings of cilia bands and a pointed snout at the top."
+  },
+  {
+    "name": "malaria-parasite",
+    "category": "biochem",
+    "draw": "A round red blood cell with a small signet-ring shaped parasite inside it."
+  },
+  {
+    "name": "toxoplasma",
+    "category": "biochem",
+    "draw": "A crescent-shaped banana-like cell with a pointed front end and a round nucleus in the middle."
+  },
+  {
+    "name": "trichomonas",
+    "category": "biochem",
+    "draw": "A teardrop-shaped cell with four flagella at the front and a wavy undulating membrane along one side."
+  },
+  {
+    "name": "choanoflagellate",
+    "category": "biochem",
+    "draw": "An oval cell with a funnel collar of fine lines on top and a single long flagellum rising from its center."
+  },
+  {
+    "name": "testate-amoeba",
+    "category": "biochem",
+    "draw": "A dome-shaped shell with a round opening at the bottom and a few blunt pseudopods poking out."
+  },
+  {
+    "name": "suctorian",
+    "category": "biochem",
+    "draw": "A round cell perched on a thin stalk, with many straight tentacles each ending in a small knob."
+  },
+  {
+    "name": "pennate-diatom",
+    "category": "biochem",
+    "draw": "A long narrow boat-shaped diatom with a central line and rows of fine stripe marks along both sides."
+  },
+  {
+    "name": "chlorella",
+    "category": "biochem",
+    "draw": "A cluster of three or four tiny round green-alga cells, each with a cup-shaped chloroplast inside."
+  },
+  {
+    "name": "pediastrum",
+    "category": "biochem",
+    "draw": "A flat star-shaped colony of cells in concentric rings, with twin-horned cells around the edge."
+  },
+  {
+    "name": "scenedesmus",
+    "category": "biochem",
+    "draw": "Four bean-shaped cells lined up side by side, the two end cells each with long curved spines."
+  },
+  {
+    "name": "closterium",
+    "category": "biochem",
+    "draw": "A slender crescent moon-shaped cell with a small nucleus in the middle and a dot at each tip."
+  },
+  {
+    "name": "micrasterias",
+    "category": "biochem",
+    "draw": "A flat symmetric disc cell deeply cut into many lobes, like a snowflake divided in half by a waist."
+  },
+  {
+    "name": "red-algae",
+    "category": "biochem",
+    "draw": "A branching feathery seaweed frond with finely divided flat branches."
+  },
+  {
+    "name": "bladderwrack",
+    "category": "biochem",
+    "draw": "A forked flat seaweed frond with a midrib and paired round air bladders along it."
+  },
+  {
+    "name": "hydrodictyon",
+    "category": "biochem",
+    "draw": "A net-like mesh of cells forming hexagonal openings, like a small fishing net."
+  },
+  {
+    "name": "stonewort",
+    "category": "biochem",
+    "draw": "An upright alga stem with whorls of straight thin branches spaced along it like a bottle brush."
+  },
+  {
+    "name": "candida-yeast",
+    "category": "biochem",
+    "draw": "A chain of elongated yeast cells forming a branching pseudohypha with round buds at the joints."
+  },
+  {
+    "name": "ascus",
+    "category": "biochem",
+    "draw": "A long sac shaped like a narrow pod holding eight round spores in a single row."
+  },
+  {
+    "name": "basidium",
+    "category": "biochem",
+    "draw": "A club-shaped cell with four small prongs on top, each bearing a round spore."
+  },
+  {
+    "name": "zygospore",
+    "category": "biochem",
+    "draw": "A dark round spiky-walled spore sitting between two short hyphae joining from each side."
+  },
+  {
+    "name": "chytrid-fungus",
+    "category": "biochem",
+    "draw": "A round spore body with thin root-like threads below and a single tail flagellum."
+  },
+  {
+    "name": "mycorrhiza",
+    "category": "biochem",
+    "draw": "A root tip wrapped in a web of fine fungal threads that spread out into the soil."
+  },
+  {
+    "name": "powdery-mildew",
+    "category": "biochem",
+    "draw": "A leaf covered with white powdery patches of fuzzy dots."
+  },
+  {
+    "name": "cell-nucleus",
+    "category": "biochem",
+    "draw": "A round nucleus with a double outline dotted with pores and a solid round nucleolus inside."
+  },
+  {
+    "name": "endoplasmic-reticulum",
+    "category": "biochem",
+    "draw": "Stacked, folded ribbon-like membrane layers wrapping around one side, studded with tiny ribosome dots."
+  },
+  {
+    "name": "lysosome",
+    "category": "biochem",
+    "draw": "A round membrane sac holding scattered small dots and tiny scissors-like enzyme marks."
+  },
+  {
+    "name": "peroxisome",
+    "category": "biochem",
+    "draw": "A round membrane sac with a small square crystal core in the center."
+  },
+  {
+    "name": "centriole",
+    "category": "biochem",
+    "draw": "Two short barrel cylinders set at right angles to each other, each showing ribbed walls."
+  },
+  {
+    "name": "cytoskeleton",
+    "category": "biochem",
+    "draw": "A round cell outline filled with a web of crossing straight and wavy filament lines radiating from the center."
+  },
+  {
+    "name": "microtubule",
+    "category": "biochem",
+    "draw": "A hollow cylinder built of rows of small beads in a spiral, shown with one open end."
+  },
+  {
+    "name": "actin-filament",
+    "category": "biochem",
+    "draw": "Two twisted strings of round beads winding around each other in a thin rope."
+  },
+  {
+    "name": "cilia",
+    "category": "biochem",
+    "draw": "A row of cells along a flat surface, each with many short hairs on top bending in a wave."
+  },
+  {
+    "name": "motor-protein",
+    "category": "biochem",
+    "draw": "A two-legged protein walking along a straight bead track while carrying a round vesicle on its back."
+  },
+  {
+    "name": "vesicle-transport",
+    "category": "biochem",
+    "draw": "A small round vesicle budding off a membrane with an arrow pointing toward another membrane."
+  },
+  {
+    "name": "exocytosis",
+    "category": "biochem",
+    "draw": "A round vesicle fused into a membrane line, opening outward and releasing small dots."
+  },
+  {
+    "name": "apoptosis",
+    "category": "biochem",
+    "draw": "A round cell breaking apart into several smaller round blebs with a crack across it."
+  },
+  {
+    "name": "dendritic-cell",
+    "category": "biochem",
+    "draw": "A cell body with many long branching arms spreading out in all directions like a star."
+  },
+  {
+    "name": "t-cell",
+    "category": "biochem",
+    "draw": "A round lymphocyte with a large nucleus and short Y-shaped receptors dotted around its surface."
+  },
+  {
+    "name": "mast-cell",
+    "category": "biochem",
+    "draw": "An oval cell packed with many round granules, a few granules bursting out of one side."
+  },
+  {
+    "name": "fat-cell",
+    "category": "biochem",
+    "draw": "A large round cell filled by one big droplet, with a small flattened nucleus pressed against the edge."
+  },
+  {
+    "name": "goblet-cell",
+    "category": "biochem",
+    "draw": "A wine-goblet shaped cell with a wide top full of mucus droplets and a narrow stem holding the nucleus."
+  },
+  {
+    "name": "epithelial-tissue",
+    "category": "biochem",
+    "draw": "A row of tall column-shaped cells standing side by side, each with an oval nucleus near the base."
+  },
+  {
+    "name": "rod-and-cone-cells",
+    "category": "biochem",
+    "draw": "Two slim upright photoreceptor cells side by side, one topped by a long rod and the other by a short cone."
+  },
+  {
+    "name": "myelinated-axon",
+    "category": "biochem",
+    "draw": "A long nerve fiber wrapped in a row of sausage-shaped sheath segments with small gaps between them."
+  },
+  {
+    "name": "sarcomere",
+    "category": "biochem",
+    "draw": "A striped muscle unit between two zigzag Z lines, with overlapping thick and thin filament bars."
+  },
+  {
+    "name": "root-hair-cell",
+    "category": "biochem",
+    "draw": "A long rectangular plant cell with a single long finger-like extension growing out of one side."
+  },
+  {
+    "name": "xylem-vessel",
+    "category": "biochem",
+    "draw": "A vertical tube with ring or spiral thickening lines along its walls, stacked from open-ended cells."
+  },
+  {
+    "name": "plasmolysis",
+    "category": "biochem",
+    "draw": "A rectangular plant cell wall with the shrunken inner membrane pulled away into a small rounded blob."
+  },
+  {
+    "name": "gap-junction",
+    "category": "biochem",
+    "draw": "Two membrane bands side by side joined by short paired tube channels running between them."
+  },
+  {
+    "name": "mitotic-spindle",
+    "category": "biochem",
+    "draw": "A lemon-shaped set of fiber lines stretching between two pole dots, with X-shaped chromosomes lined up in the middle."
+  },
+  {
+    "name": "endosymbiosis",
+    "category": "biochem",
+    "draw": "A large cell engulfing a smaller oval organelle-like cell, with a curved arrow showing it moving inside."
+  },
+  {
+    "name": "blastocyst",
+    "category": "biochem",
+    "draw": "A hollow ball ringed by a single layer of cells with a small clump of inner cells attached on one side."
+  },
+  {
+    "name": "nucleosome",
+    "category": "biochem",
+    "draw": "A short DNA strand wrapped twice around a round spool-like histone core, like thread on a bobbin."
+  },
+  {
+    "name": "dna-base-pair",
+    "category": "biochem",
+    "draw": "Two puzzle-like interlocking blocks joined by dashed hydrogen bonds, attached to two backbone rails."
+  },
+  {
+    "name": "dna-transcription",
+    "category": "biochem",
+    "draw": "A DNA double helix partly unzipped with a single RNA strand peeling away from the open bubble."
+  },
+  {
+    "name": "sex-chromosomes",
+    "category": "biochem",
+    "draw": "A large X-shaped chromosome beside a smaller Y-shaped chromosome."
+  },
+  {
+    "name": "dna-methylation",
+    "category": "biochem",
+    "draw": "A DNA helix with small round tags on short sticks attached at a few points."
+  },
+  {
+    "name": "dna-damage",
+    "category": "biochem",
+    "draw": "A double helix with one strand snapped, its broken ends pulled apart with a small jagged mark."
+  },
+  {
+    "name": "dna-repair",
+    "category": "biochem",
+    "draw": "A double helix with a small adhesive bandage patch wrapped across one section."
+  },
+  {
+    "name": "supercoiled-dna",
+    "category": "biochem",
+    "draw": "A circular DNA loop twisted over itself several times into a tight figure-eight coil."
+  },
+  {
+    "name": "rna-hairpin",
+    "category": "biochem",
+    "draw": "A single strand folding back on itself into a stem of paired rungs capped by a round loop."
+  },
+  {
+    "name": "gene-locus",
+    "category": "biochem",
+    "draw": "A single chromosome with one highlighted band and a small pin marker pointing at it."
+  },
+  {
+    "name": "operon",
+    "category": "biochem",
+    "draw": "A straight DNA line with a bent promoter arrow, a small operator box and three gene blocks in a row."
+  },
+  {
+    "name": "dna-barcoding",
+    "category": "biochem",
+    "draw": "A short double helix whose rungs turn into a row of vertical barcode stripes at one end."
+  },
+  {
+    "name": "bioinformatics",
+    "category": "biochem",
+    "draw": "A DNA double helix beside a pair of code brackets with a few lines of text between them."
+  },
+  {
+    "name": "mrna-vaccine",
+    "category": "biochem",
+    "draw": "A round lipid nanoparticle cutaway with a curly RNA strand inside it."
+  },
+  {
+    "name": "restriction-enzyme",
+    "category": "biochem",
+    "draw": "A double helix line cut by a staggered step-shaped break, leaving two sticky-end overhangs."
+  },
+  {
+    "name": "recombinant-dna",
+    "category": "biochem",
+    "draw": "A small DNA ring with an inserted shaded segment and short arrows showing the new piece joining."
+  },
+  {
+    "name": "glucose-molecule",
+    "category": "biochem",
+    "draw": "A hexagon ring with one oxygen corner and short OH side sticks around it."
+  },
+  {
+    "name": "fructose-molecule",
+    "category": "biochem",
+    "draw": "A pentagon ring with one oxygen corner and short OH and CH2OH side sticks around it."
+  },
+  {
+    "name": "sucrose-molecule",
+    "category": "biochem",
+    "draw": "A hexagon ring and a pentagon ring joined by a single bent oxygen bridge."
+  },
+  {
+    "name": "polysaccharide",
+    "category": "biochem",
+    "draw": "A chain of four hexagon sugar rings linked by short bridges, continuing off both ends."
+  },
+  {
+    "name": "atp-molecule",
+    "category": "biochem",
+    "draw": "A small base block joined to a pentagon sugar ring and a tail of three linked phosphate circles."
+  },
+  {
+    "name": "phospholipid",
+    "category": "biochem",
+    "draw": "A round head with two long wavy fatty tails hanging down, one tail with a kink."
+  },
+  {
+    "name": "triglyceride",
+    "category": "biochem",
+    "draw": "A short vertical backbone with three long zigzag chains extending to the right, like the letter E."
+  },
+  {
+    "name": "fatty-acid",
+    "category": "biochem",
+    "draw": "A long zigzag carbon chain with a small forked COOH group at one end."
+  },
+  {
+    "name": "cholesterol-molecule",
+    "category": "biochem",
+    "draw": "Four fused rings (three hexagons and one pentagon) with a short tail and a small OH on the left."
+  },
+  {
+    "name": "heme-group",
+    "category": "biochem",
+    "draw": "A large square ring of four small pentagons joined around a central iron atom dot."
+  },
+  {
+    "name": "chlorophyll-molecule",
+    "category": "biochem",
+    "draw": "A square ring of four pentagons around a central dot with a long wavy tail extending down."
+  },
+  {
+    "name": "dopamine-molecule",
+    "category": "biochem",
+    "draw": "A benzene hexagon with two OH groups on one side and a short chain ending in an NH2 group."
+  },
+  {
+    "name": "serotonin-molecule",
+    "category": "biochem",
+    "draw": "A hexagon fused to a pentagon ring with an OH on one side and a short chain ending in NH2."
+  },
+  {
+    "name": "insulin-molecule",
+    "category": "biochem",
+    "draw": "Two short bead chains, one above the other, linked by small S-S bridge bars."
+  },
+  {
+    "name": "collagen-triple-helix",
+    "category": "biochem",
+    "draw": "Three thin strands braided tightly together into a long rope."
+  },
+  {
+    "name": "vitamin-c-molecule",
+    "category": "biochem",
+    "draw": "A pentagon ring with a double bond and two OH groups, plus a short side chain with two more OH groups."
+  },
+  {
+    "name": "penicillin-molecule",
+    "category": "biochem",
+    "draw": "A small square ring fused to a pentagon ring, with a side chain on the square and a COOH on the pentagon."
+  },
+  {
+    "name": "hormone-receptor",
+    "category": "biochem",
+    "draw": "A cup-shaped receptor in a membrane band with a small key-shaped molecule dropping into it."
+  },
+  {
+    "name": "antigen",
+    "category": "biochem",
+    "draw": "A spiky round particle with a small highlighted notch and a Y-shaped antibody tip docking onto it."
+  },
+  {
+    "name": "ethanol-molecule",
+    "category": "biochem",
+    "draw": "Two linked carbon balls with small hydrogen balls around them and an O-H group at one end."
+  },
+  {
+    "name": "ammonia-molecule",
+    "category": "biochem",
+    "draw": "A central nitrogen ball with three hydrogen balls splayed below it like a tripod."
+  },
+  {
+    "name": "ozone-molecule",
+    "category": "biochem",
+    "draw": "Three oxygen balls joined in a bent V shape."
+  },
+  {
+    "name": "hydrogen-peroxide-molecule",
+    "category": "biochem",
+    "draw": "Two oxygen balls joined in the middle with a hydrogen ball on each end, twisted like an open book."
+  },
+  {
+    "name": "sulfuric-acid-molecule",
+    "category": "biochem",
+    "draw": "A central sulfur ball with four oxygen balls around it, two of them capped by small hydrogen balls."
+  },
+  {
+    "name": "ethylene-molecule",
+    "category": "biochem",
+    "draw": "Two carbon balls joined by a double bar with two small hydrogen balls fanned on each end."
+  },
+  {
+    "name": "acetic-acid-molecule",
+    "category": "biochem",
+    "draw": "A two-carbon skeleton with a doubled O on the upper right and an OH on the lower right."
+  },
+  {
+    "name": "naphthalene",
+    "category": "biochem",
+    "draw": "Two hexagon rings fused side by side sharing one edge, with inner double-bond lines."
+  },
+  {
+    "name": "cyclopentane-ring",
+    "category": "biochem",
+    "draw": "A single pentagon ring skeletal formula with a small carbon dot at each corner."
+  },
+  {
+    "name": "graphite-structure",
+    "category": "biochem",
+    "draw": "Three flat hexagon-mesh sheets stacked in parallel layers with dashed lines between them."
+  },
+  {
+    "name": "ferrocene",
+    "category": "biochem",
+    "draw": "An iron atom dot sandwiched between two flat pentagon rings, one above and one below."
+  },
+  {
+    "name": "dendrimer",
+    "category": "biochem",
+    "draw": "A central dot with branches that fork again and again outward, like a round snowflake tree."
+  },
+  {
+    "name": "rotaxane",
+    "category": "biochem",
+    "draw": "A dumbbell-shaped rod with big round stoppers at both ends and a ring threaded around its middle."
+  },
+  {
+    "name": "cross-linked-polymer",
+    "category": "biochem",
+    "draw": "Three parallel wavy chains joined at intervals by short vertical bridge bonds."
+  },
+  {
+    "name": "tetrahedral-molecule",
+    "category": "biochem",
+    "draw": "A single central ball with four bonds pointing to the corners of a tetrahedron, one wedge and one dashed bond."
+  },
+  {
+    "name": "octahedral-molecule",
+    "category": "biochem",
+    "draw": "A central ball with six bonds pointing up, down and to four corners of a square plane."
+  },
+  {
+    "name": "trigonal-planar-molecule",
+    "category": "biochem",
+    "draw": "A central ball with three bonds spread evenly at 120 degrees on a flat plane."
+  },
+  {
+    "name": "space-filling-model",
+    "category": "biochem",
+    "draw": "Three or four overlapping spheres fused together into one lumpy molecule shape."
+  },
+  {
+    "name": "dipole-molecule",
+    "category": "biochem",
+    "draw": "A bent three-ball molecule with small delta plus and delta minus marks and a crossed arrow beside it."
+  },
+  {
+    "name": "ion-atom",
+    "category": "biochem",
+    "draw": "A round atom with a bold plus sign on one side and a missing electron dot on its orbit."
+  },
+  {
+    "name": "free-radical",
+    "category": "biochem",
+    "draw": "A small molecule of two balls with a single unpaired dot beside it and a tiny spark mark."
+  },
+  {
+    "name": "polymerization",
+    "category": "biochem",
+    "draw": "Single small ring units on the left turning into a long linked chain on the right with an arrow."
+  },
+  {
+    "name": "resonance-structures",
+    "category": "biochem",
+    "draw": "Two hexagon rings with their alternating double bonds swapped, joined by a double-headed arrow."
+  },
+  {
+    "name": "cis-trans-isomers",
+    "category": "biochem",
+    "draw": "Two double-bond molecules side by side, one with both groups on the same side and one with them on opposite sides."
+  },
+  {
+    "name": "entropy",
+    "category": "biochem",
+    "draw": "A neat grid of dots on the left and the same dots scattered randomly on the right, with an arrow between."
+  },
+  {
+    "name": "salt-bridge",
+    "category": "biochem",
+    "draw": "An inverted U-shaped tube joining the tops of two beakers."
+  },
+  {
+    "name": "gram-stain",
+    "category": "biochem",
+    "draw": "A glass slide with small rod and round cells, some drawn solid and some drawn as outlines, and a drop above it."
+  },
+  {
+    "name": "coplin-jar",
+    "category": "biochem",
+    "draw": "A small upright ribbed glass jar with a lid and several microscope slides standing inside."
+  },
+  {
+    "name": "cell-spreader",
+    "category": "biochem",
+    "draw": "A thin rod bent into an L or hockey-stick shape, spreading liquid on an open petri dish."
+  },
+  {
+    "name": "serial-dilution",
+    "category": "biochem",
+    "draw": "A row of four test tubes, each lighter than the last, with small curved arrows between them."
+  },
+  {
+    "name": "colony-counter",
+    "category": "biochem",
+    "draw": "A round dish on a grid backlit pad with a magnifying lens on an arm above it."
+  },
+  {
+    "name": "replica-plating",
+    "category": "biochem",
+    "draw": "A round velvet-covered block stamp pressed down onto a petri dish with colony dots."
+  },
+  {
+    "name": "pipette-controller",
+    "category": "biochem",
+    "draw": "A pistol-grip pipette gun with a long thin graduated pipette fitted at the front."
+  },
+  {
+    "name": "cell-scraper",
+    "category": "biochem",
+    "draw": "A long handle ending in a small angled flat blade, like a tiny squeegee."
+  },
+  {
+    "name": "dounce-homogenizer",
+    "category": "biochem",
+    "draw": "A tall narrow glass tube with a round-ended glass pestle plunged inside it."
+  },
+  {
+    "name": "cell-strainer",
+    "category": "biochem",
+    "draw": "A small mesh cup sitting on top of the opening of a conical tube."
+  },
+  {
+    "name": "syringe-filter",
+    "category": "biochem",
+    "draw": "A small round disc filter fitted on the tip of a syringe, with a drop falling below."
+  },
+  {
+    "name": "heat-block",
+    "category": "biochem",
+    "draw": "A flat metal block with rows of holes holding small tubes, with a temperature display on the front."
+  },
+  {
+    "name": "flow-cytometry",
+    "category": "biochem",
+    "draw": "A thin stream with single round cells passing in a line through a laser beam, with a small detector beside it."
+  },
+  {
+    "name": "nanopore-sequencing",
+    "category": "biochem",
+    "draw": "A single DNA strand threading through a small pore in a membrane band, with a signal line below."
+  },
+  {
+    "name": "dna-sequencing-trace",
+    "category": "biochem",
+    "draw": "A row of overlapping sharp peaks with small letters A, C, G, T printed above them."
+  },
+  {
+    "name": "elisa-well",
+    "category": "biochem",
+    "draw": "A single well cutaway with antibodies stuck to the bottom, a captured antigen and a glowing tag on top."
+  },
+  {
+    "name": "pcr-tube-strip",
+    "category": "biochem",
+    "draw": "A row of eight small conical tubes joined in a strip with connected hinged caps."
+  },
+  {
+    "name": "spin-column",
+    "category": "biochem",
+    "draw": "A small column with a filter disc inserted inside a larger microtube, with a curved spin arrow."
+  },
+  {
+    "name": "gel-comb",
+    "category": "biochem",
+    "draw": "A flat bar with a row of evenly spaced teeth, used to form wells in a gel."
+  },
+  {
+    "name": "uv-transilluminator",
+    "category": "biochem",
+    "draw": "A flat light box with glowing lines under a gel slab showing bright bands, beneath a hinged cover."
+  },
+  {
+    "name": "centrifuge-pellet",
+    "category": "biochem",
+    "draw": "A conical tube with clear liquid above and a small solid pellet at the tip, with a curved spin arrow."
+  },
+  {
+    "name": "electroporation",
+    "category": "biochem",
+    "draw": "A round cell with small pores opening in its membrane beside a lightning bolt."
+  },
+  {
+    "name": "microfluidic-chip",
+    "category": "biochem",
+    "draw": "A small clear rectangular chip with thin winding channels connecting round inlet and outlet ports."
+  },
+  {
+    "name": "bioprinter",
+    "category": "biochem",
+    "draw": "A printer nozzle depositing a grid of small cell dots in layers onto a dish."
+  },
+  {
+    "name": "microscope-objective",
+    "category": "biochem",
+    "draw": "A stepped cylindrical microscope lens tapering to a small tip, with a colored band ring and a drop of oil under it."
+  },
+  {
+    "name": "tissue-cassette",
+    "category": "biochem",
+    "draw": "A small flat plastic box with a slanted writing edge and a grid of slots in its lid."
+  },
+  {
+    "name": "durham-tube",
+    "category": "biochem",
+    "draw": "A test tube of broth with a tiny inverted tube inside holding a trapped gas bubble at its top."
+  },
+  {
+    "name": "mcfarland-standard",
+    "category": "biochem",
+    "draw": "Three small tubes of increasing cloudiness lined up in front of a card with black lines."
+  },
+  {
+    "name": "loop-sterilizer",
+    "category": "biochem",
+    "draw": "A short cylindrical heater with an inoculation loop inserted into its glowing opening."
+  },
+  {
+    "name": "lab-mouse-cage",
+    "category": "biochem",
+    "draw": "A clear rectangular box cage with a wire lid, a water bottle and a small mouse inside."
+  },
+  {
+    "name": "fly-vial",
+    "category": "biochem",
+    "draw": "A narrow vial with a foam plug on top, food layer at the bottom and small flies inside."
+  },
+  {
+    "name": "cryo-electron-grid",
+    "category": "biochem",
+    "draw": "A tiny round mesh disc with a square grid pattern held by tweezers."
+  },
+  {
+    "name": "pycnometer",
+    "category": "biochem",
+    "draw": "A small pear-shaped glass bottle with a ground stopper that has a thin capillary hole."
+  },
+  {
+    "name": "thiele-tube",
+    "category": "biochem",
+    "draw": "A glass tube with a looped side arm holding a thermometer and a small capillary sample."
+  },
+  {
+    "name": "melting-point-apparatus",
+    "category": "biochem",
+    "draw": "A compact box with a small viewing lens on top and a slot holding three capillary tubes."
+  },
+  {
+    "name": "dean-stark-trap",
+    "category": "biochem",
+    "draw": "A vertical glass tube with a graduated side arm and stopcock, joining a flask below and a condenser above."
+  },
+  {
+    "name": "microbial-air-sampler",
+    "category": "biochem",
+    "draw": "A handheld device with a perforated round head placed over an agar plate."
+  },
+  {
+    "name": "water-sample-bottle",
+    "category": "biochem",
+    "draw": "A wide sterile bottle with a screw cap and a hatched label, held under a dripping tap."
+  },
+  {
+    "name": "roller-bottle",
+    "category": "biochem",
+    "draw": "A long cylindrical bottle lying on its side on two rollers with curved rotation arrows."
+  },
+  {
+    "name": "square-archaeon",
+    "category": "biochem",
+    "draw": "A flat perfectly square cell with thin walls and a few small oval gas vesicles inside."
+  },
+  {
+    "name": "myxobacteria-fruiting-body",
+    "category": "biochem",
+    "draw": "A short branching stalk topped by several round spore clusters, like a tiny tree of balls."
+  },
+  {
+    "name": "phage-plaque-assay",
+    "category": "biochem",
+    "draw": "A petri dish seen from above filled with a dotted bacterial lawn and several clear round holes."
+  },
+  {
+    "name": "bacterial-transformation",
+    "category": "biochem",
+    "draw": "A rod bacterium with a small DNA ring outside it and a curved arrow showing the ring moving inside."
+  },
+  {
+    "name": "spore-germination",
+    "category": "biochem",
+    "draw": "An oval spore split open at one end with a thin branching thread growing out of it."
+  },
+  {
+    "name": "nitrogen-cycle",
+    "category": "biochem",
+    "draw": "A circle of three curved arrows linking a small cloud, a sprouting plant and a soil clump with a tiny rod bacterium."
+  },
+  {
+    "name": "nuclear-pore",
+    "category": "biochem",
+    "draw": "A round ring with eight evenly spaced spokes around a central opening, set in a double membrane line."
+  },
+  {
+    "name": "proteasome",
+    "category": "biochem",
+    "draw": "A short barrel made of four stacked rings with a cap on each end, and a thin chain entering the top."
+  },
+  {
+    "name": "atp-synthase",
+    "category": "biochem",
+    "draw": "A membrane-spanning rotor ring with a central stalk rising to a round knob head made of lobes, and a curved rotation arrow."
+  },
+  {
+    "name": "krebs-cycle",
+    "category": "biochem",
+    "draw": "A circle of arrows with small molecule dots at each step and a short arrow feeding in at the top."
+  },
+  {
+    "name": "cellular-respiration",
+    "category": "biochem",
+    "draw": "A bean-shaped mitochondrion with a hexagon sugar arrow going in and a lightning bolt coming out."
+  },
+  {
+    "name": "oxytocin-molecule",
+    "category": "biochem",
+    "draw": "A small ring of six linked beads with an S-S bridge bar across it and a short tail of three beads."
+  },
+  {
+    "name": "reagent-reservoir",
+    "category": "biochem",
+    "draw": "A long shallow V-shaped trough with a sloped bottom, filled with liquid."
+  },
+  {
+    "name": "microplate-reader",
+    "category": "biochem",
+    "draw": "A boxy benchtop instrument with a small display and a drawer sliding out holding a well plate."
+  },
+  {
+    "name": "amplification-curve",
+    "category": "biochem",
+    "draw": "Several S-shaped curves rising from a flat baseline and crossing a horizontal dashed threshold line."
+  },
+  {
+    "name": "aseptic-technique",
+    "category": "biochem",
+    "draw": "A tilted test tube with its open mouth passing over a small flame, with its cap held aside."
+  },
+  {
+    "name": "dialysis-tubing",
+    "category": "biochem",
+    "draw": "A sausage-shaped membrane bag clipped at both ends, hanging in a beaker of liquid with small dots passing out."
+  }
+]

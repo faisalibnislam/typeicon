@@ -1,0 +1,482 @@
+[
+ {
+  "name": "recycle-code-pet",
+  "category": "environment",
+  "draw": "Chasing arrows triangle with the number 1 inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "recycle-code-hdpe",
+  "category": "environment",
+  "draw": "Chasing arrows triangle with the number 2 inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "recycle-code-pvc",
+  "category": "environment",
+  "draw": "Chasing arrows triangle with the number 3 inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "recycle-code-ldpe",
+  "category": "environment",
+  "draw": "Chasing arrows triangle with the number 4 inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "recycle-code-pp",
+  "category": "environment",
+  "draw": "Chasing arrows triangle with the number 5 inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "recycle-code-ps",
+  "category": "environment",
+  "draw": "Chasing arrows triangle with the number 6 inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "recycle-code-other",
+  "category": "environment",
+  "draw": "Chasing arrows triangle with the number 7 inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "glass-recycling",
+  "category": "environment",
+  "draw": "Bin with a round opening and a wine bottle icon on its front.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "paper-recycling",
+  "category": "environment",
+  "draw": "Bin with a slot opening and a folded newspaper icon on its front.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "metal-recycling",
+  "category": "environment",
+  "draw": "Bin with a round opening and a tin can icon on its front.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "plastic-recycling",
+  "category": "environment",
+  "draw": "Bin with a bottle icon and chasing arrows on its front.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "battery-recycling",
+  "category": "environment",
+  "draw": "Battery with a chasing arrows loop around it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "e-waste-recycling",
+  "category": "environment",
+  "draw": "Smartphone outline with chasing arrows around it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "textile-recycling",
+  "category": "environment",
+  "draw": "T shirt with a chasing arrows loop beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "clothing-donation-bin",
+  "category": "environment",
+  "draw": "Large metal container with a pull down chute and a shirt icon.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "reverse-vending-machine",
+  "category": "environment",
+  "draw": "Upright machine with a round bottle hole and a receipt slot.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "deposit-return",
+  "category": "environment",
+  "draw": "Bottle with a coin and a circular arrow beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "worm-composting",
+  "category": "environment",
+  "draw": "Bin with soil layers and a wriggling worm.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "food-waste",
+  "category": "environment",
+  "draw": "Apple core and a banana peel in a small bin.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "zero-waste",
+  "category": "environment",
+  "draw": "Jar with a zero on its label.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "reusable-bag",
+  "category": "environment",
+  "draw": "Cloth tote bag with long handles and a leaf printed on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "reusable-cup",
+  "category": "environment",
+  "draw": "Cup with a sleeve band and a sip lid.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "bamboo-toothbrush",
+  "category": "environment",
+  "draw": "Toothbrush with a segmented bamboo style handle.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "beeswax-wrap",
+  "category": "environment",
+  "draw": "Folded square cloth wrap over a bowl with a small hexagon pattern.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "bulk-food-jars",
+  "category": "environment",
+  "draw": "Row of three glass jars with scoops and grains inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "metal-straw",
+  "category": "environment",
+  "draw": "Bent straw beside a thin cleaning brush.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "upcycling",
+  "category": "environment",
+  "draw": "Tin can turned into a plant pot with a sprout.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "repair-cafe",
+  "category": "environment",
+  "draw": "Wrench and needle crossed over a cup.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "secondhand",
+  "category": "environment",
+  "draw": "Clothes hanger with a circular arrow around it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "circular-economy",
+  "category": "environment",
+  "draw": "Three curved arrows forming a closed circle with a leaf in the center.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "reduce-reuse-recycle",
+  "category": "environment",
+  "draw": "Triangle of three icons: a down arrow, a loop and a chasing arrows symbol.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "biodegradable",
+  "category": "environment",
+  "draw": "Leaf with a downward dotted arrow into a soil line.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "compostable-packaging",
+  "category": "environment",
+  "draw": "Box with a leaf and a sprout growing from its top.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "eco-label",
+  "category": "environment",
+  "draw": "Rosette badge with a leaf in its center.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "sustainable-packaging",
+  "category": "environment",
+  "draw": "Cardboard box with a leaf printed on its side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "trash-sorting",
+  "category": "environment",
+  "draw": "Three bins side by side with different symbols on their fronts.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "litter-picker",
+  "category": "environment",
+  "draw": "Long grabber tool with a claw end holding a crumpled can.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "street-litter-bin",
+  "category": "environment",
+  "draw": "Post mounted bin with an open top and a slot opening.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "solar-farm",
+  "category": "environment",
+  "draw": "Rows of tilted solar panel rectangles on a field with a sun above.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "solar-charger",
+  "category": "environment",
+  "draw": "Folding solar panel connected by a cable to a phone.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "solar-street-light",
+  "category": "environment",
+  "draw": "Street pole with a lamp head and a tilted solar panel at the top.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "solar-roof",
+  "category": "environment",
+  "draw": "House roof covered with a grid of panel lines.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "small-wind-turbine",
+  "category": "environment",
+  "draw": "Short turbine on a pole beside a house roof.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "micro-hydro",
+  "category": "environment",
+  "draw": "Small pipe running down a slope into a turbine box with a bolt.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "biomass",
+  "category": "environment",
+  "draw": "Pile of logs and pellets beside a small flame.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "renewable-energy",
+  "category": "environment",
+  "draw": "Leaf with a lightning bolt inside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "green-hydrogen",
+  "category": "environment",
+  "draw": "Leaf beside a gas bottle with the letter H.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "micro-grid",
+  "category": "environment",
+  "draw": "Three small houses connected in a triangle with a solar panel and battery.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "smart-grid",
+  "category": "environment",
+  "draw": "Power pylon with network nodes and linked dots around it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "off-grid-cabin",
+  "category": "environment",
+  "draw": "Small cabin with a solar panel on the roof and a wind turbine beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "energy-efficiency-label",
+  "category": "environment",
+  "draw": "Stepped horizontal bars of decreasing length with a letter A pointer.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "home-insulation",
+  "category": "environment",
+  "draw": "House cross section with a zigzag batt layer inside its walls and roof.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "draft-excluder",
+  "category": "environment",
+  "draw": "Long stuffed tube lying along the bottom of a door.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "energy-audit",
+  "category": "environment",
+  "draw": "Clipboard with a lightning bolt and a check list.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "energy-monitor",
+  "category": "environment",
+  "draw": "Small display unit with a bar graph and a bolt symbol.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "standby-power",
+  "category": "environment",
+  "draw": "Power button symbol with a small crescent moon beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "greywater-recycling",
+  "category": "environment",
+  "draw": "Sink draining into a pipe that loops into a watering can.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "low-flow-shower",
+  "category": "environment",
+  "draw": "Shower head with only three thin water lines.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "dual-flush-toilet",
+  "category": "environment",
+  "draw": "Toilet tank lid with two round buttons of different size.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "passive-house",
+  "category": "environment",
+  "draw": "House outline with thick walls and a sun shining in a large south window.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "green-building",
+  "category": "environment",
+  "draw": "Office tower with leaves growing on its terraces.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "bike-commute",
+  "category": "environment",
+  "draw": "Bicycle with a briefcase strapped to its rear rack.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "walking-commute",
+  "category": "environment",
+  "draw": "Walking person with a leaf beside them.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "eco-house",
+  "category": "environment",
+  "draw": "House outline with a leaf in place of its chimney.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "green-city",
+  "category": "environment",
+  "draw": "City skyline with trees between buildings and a leaf above.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "urban-farm",
+  "category": "environment",
+  "draw": "Rooftop with rows of plants in raised beds.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "community-garden",
+  "category": "environment",
+  "draw": "Raised bed with plants and two small people figures beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "allotment",
+  "category": "environment",
+  "draw": "Fenced rectangular plot with rows of vegetables and a small shed.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "plant-based-diet",
+  "category": "environment",
+  "draw": "Plate with a leaf and a carrot on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "local-produce",
+  "category": "environment",
+  "draw": "Basket of vegetables with a map pin above it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "fair-trade",
+  "category": "environment",
+  "draw": "Two hands shaking over a leaf.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "organic-label",
+  "category": "environment",
+  "draw": "Round seal with a leaf and a check shaped stem.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "endangered-species",
+  "category": "environment",
+  "draw": "Rhino head silhouette inside a circle with a small warning mark.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wildlife-protection",
+  "category": "environment",
+  "draw": "Shield shape with a deer head inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "nature-reserve",
+  "category": "environment",
+  "draw": "Signpost beside a tree and a bird.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "tree-nursery",
+  "category": "environment",
+  "draw": "Row of small potted saplings on a bench.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "seed-bank",
+  "category": "environment",
+  "draw": "Vault door with a seed icon on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "bee-hotel",
+  "category": "environment",
+  "draw": "Wooden box with a roof filled with round tube openings.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "pollinator-garden",
+  "category": "environment",
+  "draw": "Flower with a bee hovering over it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "rewilding",
+  "category": "environment",
+  "draw": "Fence with a gap and a deer walking through into tall grass.",
+  "domain": "weather-time-environment"
+ }
+]

@@ -1,0 +1,1107 @@
+[
+  {
+    "name": "map-legend",
+    "category": "geography",
+    "draw": "Small framed box with three rows, each a tiny symbol swatch (square, line, dot) beside a short text bar."
+  },
+  {
+    "name": "scale-bar",
+    "category": "geography",
+    "draw": "Horizontal map scale bar of alternating filled and empty segments with tick marks above each division."
+  },
+  {
+    "name": "north-arrow",
+    "category": "geography",
+    "draw": "Tall slim map arrow pointing up with a bold letter N above its tip."
+  },
+  {
+    "name": "map-inset",
+    "category": "geography",
+    "draw": "Rectangular map with a coastline and a small boxed inset map in one corner linked to a region by a thin line."
+  },
+  {
+    "name": "map-cartouche",
+    "category": "geography",
+    "draw": "Decorative scroll banner with curled ends framing a blank title plate, as on antique maps."
+  },
+  {
+    "name": "contour-lines",
+    "category": "geography",
+    "draw": "Four nested irregular closed loops like a hill seen on a topographic map."
+  },
+  {
+    "name": "survey-benchmark",
+    "category": "geography",
+    "draw": "Round survey marker disk seen from above with a central cross, a small triangle and a dotted rim."
+  },
+  {
+    "name": "map-grid-reference",
+    "category": "geography",
+    "draw": "Map square divided by grid lines with letters along the top, numbers down the side and one cell shaded."
+  },
+  {
+    "name": "boundary-line",
+    "category": "geography",
+    "draw": "Dash dot boundary line winding between two regions, one lightly shaded."
+  },
+  {
+    "name": "boundary-stone",
+    "category": "geography",
+    "draw": "Short upright stone with a rounded top and a carved line mark, standing on a ground line."
+  },
+  {
+    "name": "border-checkpoint",
+    "category": "geography",
+    "draw": "Small booth with a window beside a striped barrier arm lowered across a road."
+  },
+  {
+    "name": "tripoint",
+    "category": "geography",
+    "draw": "Three dash dot boundary lines meeting at a single short marker post in the center."
+  },
+  {
+    "name": "capital-city-marker",
+    "category": "geography",
+    "draw": "Map symbol of a five pointed star inside a circle."
+  },
+  {
+    "name": "city-marker",
+    "category": "geography",
+    "draw": "Map symbol of a solid dot inside a ring."
+  },
+  {
+    "name": "region-outline",
+    "category": "geography",
+    "draw": "Irregular territory shape with a dashed border and a small map pin inside it."
+  },
+  {
+    "name": "choropleth-map",
+    "category": "geography",
+    "draw": "Map divided into four adjacent irregular regions, each filled with a different hatching density."
+  },
+  {
+    "name": "land-parcel",
+    "category": "geography",
+    "draw": "Plan of several irregular property lots with corner dots and one lot shaded."
+  },
+  {
+    "name": "cartogram",
+    "category": "geography",
+    "draw": "World map built from stacked square blocks of different sizes instead of real coastlines."
+  },
+  {
+    "name": "flow-map",
+    "category": "geography",
+    "draw": "Simple map outline with curved arrows of different thicknesses flowing from one region to others."
+  },
+  {
+    "name": "voronoi-map",
+    "category": "geography",
+    "draw": "Square divided into irregular polygon cells, each with one small dot inside."
+  },
+  {
+    "name": "isochrone-map",
+    "category": "geography",
+    "draw": "Map pin at the center of three nested wobbly rings showing travel time bands."
+  },
+  {
+    "name": "map-centroid",
+    "category": "geography",
+    "draw": "Irregular region outline with a crosshair marking its center point."
+  },
+  {
+    "name": "raster-map",
+    "category": "geography",
+    "draw": "Map drawn as a coarse pixel grid with a blocky stepped coastline."
+  },
+  {
+    "name": "relief-map",
+    "category": "geography",
+    "draw": "Raised terrain block seen at an angle with shaded mountain ridges on top, like a 3D relief model."
+  },
+  {
+    "name": "nautical-chart",
+    "category": "geography",
+    "draw": "Rectangular sea chart with a coastline on one side, scattered tiny depth numbers and a small anchor."
+  },
+  {
+    "name": "portolan-chart",
+    "category": "geography",
+    "draw": "Old sea chart with a coastline and straight rhumb lines radiating from a small compass star."
+  },
+  {
+    "name": "t-and-o-map",
+    "category": "geography",
+    "draw": "Circle divided by a T shape into three parts, the medieval T and O world map."
+  },
+  {
+    "name": "street-map",
+    "category": "geography",
+    "draw": "Square city map with a grid of streets, one diagonal avenue and a map pin."
+  },
+  {
+    "name": "subway-map",
+    "category": "geography",
+    "draw": "Transit map with three crossing lines (solid, dashed, double) and round station dots at the junctions."
+  },
+  {
+    "name": "you-are-here-map",
+    "category": "geography",
+    "draw": "Map board on two legs with a bold dot and a small arrow marking the viewer's position."
+  },
+  {
+    "name": "trailhead-board",
+    "category": "geography",
+    "draw": "Wooden roofed notice board on two posts displaying a trail map with a dashed path."
+  },
+  {
+    "name": "mercator-projection",
+    "category": "geography",
+    "draw": "Rectangular world grid whose horizontal lines grow farther apart toward the top and bottom edges."
+  },
+  {
+    "name": "globe-gores",
+    "category": "geography",
+    "draw": "Row of pointed lens shaped map strips, like peeled orange segments, that wrap into a globe."
+  },
+  {
+    "name": "azimuthal-projection",
+    "category": "geography",
+    "draw": "Circular map with the pole at the center, concentric rings and straight lines radiating outward."
+  },
+  {
+    "name": "conic-projection",
+    "category": "geography",
+    "draw": "Fan shaped map segment with curved parallel arcs and straight meridians converging above it."
+  },
+  {
+    "name": "interrupted-projection",
+    "category": "geography",
+    "draw": "World map split into several rounded lobes joined along the equator, like a peeled globe laid flat."
+  },
+  {
+    "name": "icosahedral-map",
+    "category": "geography",
+    "draw": "Flat world map made of joined triangles unfolded from a polyhedron."
+  },
+  {
+    "name": "satellite-view",
+    "category": "geography",
+    "draw": "Square map tile filled with an irregular photo like field pattern and a tiny satellite in one corner."
+  },
+  {
+    "name": "map-perspective",
+    "category": "geography",
+    "draw": "Map plane tilted in perspective with small 3D building blocks rising from it."
+  },
+  {
+    "name": "indoor-map",
+    "category": "geography",
+    "draw": "Building floor plan with several rooms and a map pin standing in one room."
+  },
+  {
+    "name": "live-location",
+    "category": "geography",
+    "draw": "Map pin with two curved signal arcs radiating from each side."
+  },
+  {
+    "name": "nearby-radius",
+    "category": "geography",
+    "draw": "Solid dot at the center of two dashed concentric circles."
+  },
+  {
+    "name": "geofence",
+    "category": "geography",
+    "draw": "Dashed circle boundary on a map with a map pin at its center."
+  },
+  {
+    "name": "location-heading",
+    "category": "geography",
+    "draw": "Solid dot with a wide cone shaped beam spreading from one side, showing the direction faced."
+  },
+  {
+    "name": "map-pins-cluster",
+    "category": "geography",
+    "draw": "Three overlapping map pins of different sizes grouped together."
+  },
+  {
+    "name": "gps-track",
+    "category": "geography",
+    "draw": "Squiggly recorded track line starting at a hollow circle and ending at a solid dot."
+  },
+  {
+    "name": "measure-distance",
+    "category": "geography",
+    "draw": "Two map pins joined by a straight line with a small ruler beneath it."
+  },
+  {
+    "name": "map-bounding-box",
+    "category": "geography",
+    "draw": "Dashed rectangle with square corner handles framing a small coastline shape."
+  },
+  {
+    "name": "compass-calibration",
+    "category": "geography",
+    "draw": "Phone outline with a figure eight loop path drawn around it."
+  },
+  {
+    "name": "map-tiles",
+    "category": "geography",
+    "draw": "Square map split into a 2 by 2 grid of tiles, one tile lifted and offset."
+  },
+  {
+    "name": "geo-coordinates",
+    "category": "geography",
+    "draw": "Globe with one latitude line and one longitude line crossing at a marked dot."
+  },
+  {
+    "name": "longitude-lines",
+    "category": "geography",
+    "draw": "Globe outline filled with several curved vertical meridians meeting at the poles, no horizontal lines."
+  },
+  {
+    "name": "international-date-line",
+    "category": "geography",
+    "draw": "Globe with a jagged zigzag line running from pole to pole."
+  },
+  {
+    "name": "antipode",
+    "category": "geography",
+    "draw": "Globe with two dots on opposite sides joined by a dashed line through the center."
+  },
+  {
+    "name": "great-circle-route",
+    "category": "geography",
+    "draw": "Globe with a dashed arc curving between two dots on its surface."
+  },
+  {
+    "name": "rhumb-line",
+    "category": "geography",
+    "draw": "Globe with a spiral line winding toward the pole, crossing each meridian at the same angle."
+  },
+  {
+    "name": "climate-zones",
+    "category": "geography",
+    "draw": "Globe divided into horizontal bands with different hatching for polar, temperate and tropical zones."
+  },
+  {
+    "name": "coriolis-effect",
+    "category": "geography",
+    "draw": "Globe with curved arrows bending one way in the top half and the opposite way in the bottom half."
+  },
+  {
+    "name": "earth-magnetic-field",
+    "category": "geography",
+    "draw": "Small globe with looping field lines arching from pole to pole on both sides."
+  },
+  {
+    "name": "magnetic-declination",
+    "category": "geography",
+    "draw": "Two lines from one point, one tipped with a star for true north and one with a half arrowhead, with an angle arc between."
+  },
+  {
+    "name": "compass-bearing",
+    "category": "geography",
+    "draw": "Vertical north line and a second line to a target dot with a curved angle arc between them."
+  },
+  {
+    "name": "triangulation",
+    "category": "geography",
+    "draw": "Two sighting lines from two base points meeting at a third point to form a triangle."
+  },
+  {
+    "name": "trilateration",
+    "category": "geography",
+    "draw": "Three overlapping circles whose rings all cross at one marked point."
+  },
+  {
+    "name": "earth-circumference",
+    "category": "geography",
+    "draw": "Globe with a measuring tape wrapped around its middle."
+  },
+  {
+    "name": "elevation-above-sea-level",
+    "category": "geography",
+    "draw": "Mountain on a wavy sea line with a vertical dimension arrow from the water to the peak."
+  },
+  {
+    "name": "slope-gradient",
+    "category": "geography",
+    "draw": "Right triangle slope with an angle arc at its base and a small percent sign."
+  },
+  {
+    "name": "viewshed",
+    "category": "geography",
+    "draw": "Eye on a hilltop with a shaded cone showing the visible area below."
+  },
+  {
+    "name": "halfway-point",
+    "category": "geography",
+    "draw": "Two map pins joined by a line with a small star at its midpoint."
+  },
+  {
+    "name": "waypoint",
+    "category": "geography",
+    "draw": "Diamond shaped marker sitting on a dashed route line between two end dots."
+  },
+  {
+    "name": "pangaea",
+    "category": "geography",
+    "draw": "Globe showing one single large merged supercontinent shape."
+  },
+  {
+    "name": "population-pyramid",
+    "category": "geography",
+    "draw": "Horizontal bars stacked into a pyramid shape on both sides of a center line, widest at the bottom."
+  },
+  {
+    "name": "treeline",
+    "category": "geography",
+    "draw": "Mountain slope with small conifers below a dashed line and bare rock above it."
+  },
+  {
+    "name": "strait",
+    "category": "geography",
+    "draw": "Narrow channel of water between two land masses that almost touch."
+  },
+  {
+    "name": "polder",
+    "category": "geography",
+    "draw": "Low flat field sitting below the water level of a canal, held back by a raised dike."
+  },
+  {
+    "name": "alluvial-fan",
+    "category": "geography",
+    "draw": "Fan shaped spread of branching streams opening out from a mountain gap onto a plain."
+  },
+  {
+    "name": "rift-valley",
+    "category": "geography",
+    "draw": "Valley floor dropped between two steep parallel fault cliffs."
+  },
+  {
+    "name": "inselberg",
+    "category": "geography",
+    "draw": "Lone rounded rock mountain rising abruptly from a flat plain."
+  },
+  {
+    "name": "tidal-causeway",
+    "category": "geography",
+    "draw": "Small island joined to the shore by a narrow road across water."
+  },
+  {
+    "name": "cloud-forest",
+    "category": "geography",
+    "draw": "Mountain slope with trees wrapped in a horizontal band of cloud."
+  },
+  {
+    "name": "slot-canyon",
+    "category": "geography",
+    "draw": "Very narrow deep canyon with smooth curving walls and a thin sliver of sky at the top."
+  },
+  {
+    "name": "moorland",
+    "category": "geography",
+    "draw": "Low rolling hills with tufts of heather and a lone boulder."
+  },
+  {
+    "name": "africa-continent",
+    "category": "geography",
+    "draw": "Solid silhouette of the African continent."
+  },
+  {
+    "name": "antarctica-continent",
+    "category": "geography",
+    "draw": "Solid silhouette of Antarctica seen from above the South Pole."
+  },
+  {
+    "name": "asia-continent",
+    "category": "geography",
+    "draw": "Solid silhouette of the Asian continent."
+  },
+  {
+    "name": "australia-continent",
+    "category": "geography",
+    "draw": "Solid silhouette of the Australian continent."
+  },
+  {
+    "name": "europe-continent",
+    "category": "geography",
+    "draw": "Solid silhouette of the European continent with its peninsulas."
+  },
+  {
+    "name": "north-america-continent",
+    "category": "geography",
+    "draw": "Solid silhouette of North America including Central America."
+  },
+  {
+    "name": "south-america-continent",
+    "category": "geography",
+    "draw": "Solid silhouette of South America tapering to a point."
+  },
+  {
+    "name": "globe-americas",
+    "category": "geography",
+    "draw": "Globe showing North and South America facing the viewer."
+  },
+  {
+    "name": "globe-europe-africa",
+    "category": "geography",
+    "draw": "Globe showing Europe and Africa facing the viewer."
+  },
+  {
+    "name": "globe-asia-australia",
+    "category": "geography",
+    "draw": "Globe showing Asia and Australia facing the viewer."
+  },
+  {
+    "name": "globe-pacific",
+    "category": "geography",
+    "draw": "Globe mostly covered by ocean with scattered small islands and continent edges at the rims."
+  },
+  {
+    "name": "celestial-globe",
+    "category": "geography",
+    "draw": "Globe on a stand covered with stars and constellation lines instead of land."
+  },
+  {
+    "name": "around-the-world",
+    "category": "geography",
+    "draw": "Globe with a small airplane flying on a dashed orbit around it."
+  },
+  {
+    "name": "wall-map",
+    "category": "geography",
+    "draw": "Pull down classroom map hanging from a roller bar with a pull cord at the bottom."
+  },
+  {
+    "name": "tactile-map",
+    "category": "geography",
+    "draw": "Map outline covered with raised dots and a row of braille style dots along the bottom."
+  },
+  {
+    "name": "baseplate-compass",
+    "category": "geography",
+    "draw": "Rectangular baseplate with a direction of travel arrow and a round rotating compass housing."
+  },
+  {
+    "name": "lensatic-compass",
+    "category": "geography",
+    "draw": "Folding compass with an upright hinged lid holding a sighting wire over a round dial."
+  },
+  {
+    "name": "binnacle",
+    "category": "geography",
+    "draw": "Ship's compass on a waist high pedestal with a domed glass top and two iron balls on its sides."
+  },
+  {
+    "name": "wrist-compass",
+    "category": "geography",
+    "draw": "Small round compass dial mounted on a watch strap."
+  },
+  {
+    "name": "compass-rose",
+    "category": "geography",
+    "draw": "Eight pointed star with long cardinal points, shorter intercardinal points and N at the top."
+  },
+  {
+    "name": "wind-rose",
+    "category": "geography",
+    "draw": "Circular diagram with spokes of different lengths radiating from the center showing wind directions."
+  },
+  {
+    "name": "quadrant-instrument",
+    "category": "geography",
+    "draw": "Quarter circle plate with a degree scale on its arc and a plumb bob hanging from the corner."
+  },
+  {
+    "name": "cross-staff",
+    "category": "geography",
+    "draw": "Long straight staff with a sliding crossbar mounted across it, an old navigation tool."
+  },
+  {
+    "name": "marine-chronometer",
+    "category": "geography",
+    "draw": "Round clock dial set in a square wooden box with its lid open."
+  },
+  {
+    "name": "sounding-line",
+    "category": "geography",
+    "draw": "Rope with knot marks ending in a heavy bell shaped lead weight."
+  },
+  {
+    "name": "radar-screen",
+    "category": "geography",
+    "draw": "Round scope with range rings, a rotating sweep line and a few echo dots."
+  },
+  {
+    "name": "sonar-ping",
+    "category": "geography",
+    "draw": "Ship hull on the water surface sending curved sound arcs down to the seabed."
+  },
+  {
+    "name": "chart-dividers",
+    "category": "geography",
+    "draw": "Two legged navigation dividers with both legs ending in sharp points, opened in an upside down V."
+  },
+  {
+    "name": "parallel-rulers",
+    "category": "geography",
+    "draw": "Two straight rulers joined by two pivoting arms."
+  },
+  {
+    "name": "opisometer",
+    "category": "geography",
+    "draw": "Small handheld map measurer with a tiny wheel at the tip and a round distance dial."
+  },
+  {
+    "name": "clinometer",
+    "category": "geography",
+    "draw": "Handheld box with a sighting hole and a round window showing a slope angle scale."
+  },
+  {
+    "name": "heading-indicator",
+    "category": "geography",
+    "draw": "Round aircraft gauge with a compass card and a small airplane silhouette fixed in the center."
+  },
+  {
+    "name": "artificial-horizon",
+    "category": "geography",
+    "draw": "Round aircraft gauge split into sky and ground halves by a tilted horizon line with a fixed wing symbol."
+  },
+  {
+    "name": "chart-plotter",
+    "category": "geography",
+    "draw": "Marine display screen with buttons below, showing a coastline and a boat symbol."
+  },
+  {
+    "name": "locator-beacon",
+    "category": "geography",
+    "draw": "Small handheld emergency beacon with a stubby antenna and a strobe light on top."
+  },
+  {
+    "name": "stick-chart",
+    "category": "geography",
+    "draw": "Lattice of crossed curved sticks tied together with small shells at the joints, a Marshall Islands navigation chart."
+  },
+  {
+    "name": "spoon-compass",
+    "category": "geography",
+    "draw": "Lodestone spoon resting on a square bronze plate marked with direction rings, the ancient Chinese south pointer."
+  },
+  {
+    "name": "luopan-compass",
+    "category": "geography",
+    "draw": "Round dial with many concentric marked rings and a small central needle, set on a square base plate."
+  },
+  {
+    "name": "qibla-compass",
+    "category": "geography",
+    "draw": "Round compass dial with a needle and a small mosque dome marker on the rim."
+  },
+  {
+    "name": "tide-clock",
+    "category": "geography",
+    "draw": "Round clock dial marked high tide at the top and low tide at the bottom with a single hand."
+  },
+  {
+    "name": "ground-control-target",
+    "category": "geography",
+    "draw": "Square ground marker split into a black and white checkerboard of four squares, seen from above."
+  },
+  {
+    "name": "lidar-scan",
+    "category": "geography",
+    "draw": "Small aircraft emitting a fan of laser lines down onto dotted terrain."
+  },
+  {
+    "name": "survey-gps-antenna",
+    "category": "geography",
+    "draw": "Round dome antenna mounted on top of a tripod for precise survey positioning."
+  },
+  {
+    "name": "stereoscope",
+    "category": "geography",
+    "draw": "Folding mirror stereoscope on four short legs over two side by side aerial photos."
+  },
+  {
+    "name": "planimeter",
+    "category": "geography",
+    "draw": "Two jointed arms with a pointer tip and a small measuring wheel for measuring map areas."
+  },
+  {
+    "name": "buoy",
+    "category": "geography",
+    "draw": "Navigation buoy floating on water with a tapered body, a lattice top and a light."
+  },
+  {
+    "name": "channel-markers",
+    "category": "geography",
+    "draw": "Two posts in water, one topped with a flat can shape and one with a cone."
+  },
+  {
+    "name": "lightship",
+    "category": "geography",
+    "draw": "Short ship hull with a tall central lattice mast carrying a big lamp."
+  },
+  {
+    "name": "ships-wheel",
+    "category": "geography",
+    "draw": "Wooden ship's steering wheel with eight spokes ending in handles around the rim."
+  },
+  {
+    "name": "windsock",
+    "category": "geography",
+    "draw": "Striped cone windsock on a pole, blowing out horizontally."
+  },
+  {
+    "name": "weather-vane",
+    "category": "geography",
+    "draw": "Rooftop weather vane with a rooster on an arrow above crossed N E S W arms."
+  },
+  {
+    "name": "gyroscope",
+    "category": "geography",
+    "draw": "Spinning disc inside nested gimbal rings on a small stand."
+  },
+  {
+    "name": "wind-head",
+    "category": "geography",
+    "draw": "Round face with puffed cheeks blowing a stream of air lines, as drawn in old map corners."
+  },
+  {
+    "name": "flight-route",
+    "category": "geography",
+    "draw": "Dashed curved arc between two dots with a small airplane on the arc."
+  },
+  {
+    "name": "holding-pattern",
+    "category": "geography",
+    "draw": "Racetrack shaped oval flight path with an arrowhead and a small plane on it."
+  },
+  {
+    "name": "sea-route",
+    "category": "geography",
+    "draw": "Dashed wavy line across water between two harbors with a small ship on it."
+  },
+  {
+    "name": "cycling-route",
+    "category": "geography",
+    "draw": "Dashed path winding from a bicycle to a map pin."
+  },
+  {
+    "name": "walking-route",
+    "category": "geography",
+    "draw": "Line of alternating footprints leading to a map pin."
+  },
+  {
+    "name": "bus-route",
+    "category": "geography",
+    "draw": "Bus on a route line with round stop dots along it."
+  },
+  {
+    "name": "ar-navigation",
+    "category": "geography",
+    "draw": "Phone held up with a large arrow floating over the street scene on its screen."
+  },
+  {
+    "name": "crossroads",
+    "category": "geography",
+    "draw": "Top view of two roads crossing at right angles with dashed center lines."
+  },
+  {
+    "name": "t-junction",
+    "category": "geography",
+    "draw": "Top view of a road ending at a perpendicular through road, forming a T."
+  },
+  {
+    "name": "roundabout",
+    "category": "geography",
+    "draw": "Top view of a circular island with four roads meeting the ring around it."
+  },
+  {
+    "name": "cul-de-sac",
+    "category": "geography",
+    "draw": "Top view of a dead end street ending in a round turning bulb."
+  },
+  {
+    "name": "cloverleaf-interchange",
+    "category": "geography",
+    "draw": "Top view of two highways crossing with four looping ramps forming a clover shape."
+  },
+  {
+    "name": "ring-road",
+    "category": "geography",
+    "draw": "Circular road looping around a small cluster of buildings with roads radiating out."
+  },
+  {
+    "name": "highway-exit",
+    "category": "geography",
+    "draw": "Top view of a straight highway with an exit ramp curving off one side."
+  },
+  {
+    "name": "lane-merge",
+    "category": "geography",
+    "draw": "Top view of two lanes narrowing into one with converging lane lines."
+  },
+  {
+    "name": "lane-guidance",
+    "category": "geography",
+    "draw": "Three road lanes with arrows painted in them and one lane highlighted."
+  },
+  {
+    "name": "divided-highway",
+    "category": "geography",
+    "draw": "Top view of two parallel roadways separated by a grassy median strip."
+  },
+  {
+    "name": "overpass",
+    "category": "geography",
+    "draw": "Top view of one road passing over another on a short bridge deck with side rails."
+  },
+  {
+    "name": "highway-gantry-sign",
+    "category": "geography",
+    "draw": "Wide rectangular sign on a gantry spanning the lanes, with down arrows over each lane."
+  },
+  {
+    "name": "bike-lane",
+    "category": "geography",
+    "draw": "Road lane with a bicycle symbol painted on it beside a solid edge line."
+  },
+  {
+    "name": "road-tunnel",
+    "category": "geography",
+    "draw": "Road entering an arched tunnel opening cut into a hillside."
+  },
+  {
+    "name": "alternative-route",
+    "category": "geography",
+    "draw": "Two separate paths leaving one dot and rejoining at a map pin."
+  },
+  {
+    "name": "round-trip-route",
+    "category": "geography",
+    "draw": "Closed loop route that starts and ends at the same map pin."
+  },
+  {
+    "name": "traffic-jam",
+    "category": "geography",
+    "draw": "Row of small cars bumper to bumper, the front car larger and the rest overlapping behind."
+  },
+  {
+    "name": "level-crossing",
+    "category": "geography",
+    "draw": "Railway track crossing a road with a crossbuck X sign on a post beside it."
+  },
+  {
+    "name": "orienteering-flag",
+    "category": "geography",
+    "draw": "Hanging square prism marker divided diagonally into two halves, on a short stake."
+  },
+  {
+    "name": "map-and-compass",
+    "category": "geography",
+    "draw": "Folded paper map with a baseplate compass resting on top."
+  },
+  {
+    "name": "geocache",
+    "category": "geography",
+    "draw": "Small ammo style box with a latched lid and a map pin above it."
+  },
+  {
+    "name": "waymarker-post",
+    "category": "geography",
+    "draw": "Short wooden post with a small arrow disc near its top."
+  },
+  {
+    "name": "summit-cross",
+    "category": "geography",
+    "draw": "Tall cross standing on a pointed mountain peak."
+  },
+  {
+    "name": "mountain-hut",
+    "category": "geography",
+    "draw": "Small alpine hut with a steep roof set on a rocky slope."
+  },
+  {
+    "name": "via-ferrata",
+    "category": "geography",
+    "draw": "Steep rock face with a steel cable and metal rungs climbing up it."
+  },
+  {
+    "name": "stile",
+    "category": "geography",
+    "draw": "Wooden step stile with two steps crossing over a fence rail."
+  },
+  {
+    "name": "cattle-guard",
+    "category": "geography",
+    "draw": "Top view of a road crossed by a row of parallel metal bars set in a pit."
+  },
+  {
+    "name": "river-ford",
+    "category": "geography",
+    "draw": "Road dipping into shallow river water and rising out on the far bank, with a depth post."
+  },
+  {
+    "name": "boardwalk",
+    "category": "geography",
+    "draw": "Raised wooden plank walkway on short posts crossing reeds and wet ground."
+  },
+  {
+    "name": "meeting-point",
+    "category": "geography",
+    "draw": "Four short arrows pointing inward to a central dot."
+  },
+  {
+    "name": "dam",
+    "category": "geography",
+    "draw": "Curved concrete dam wall holding back a reservoir with water spilling out below."
+  },
+  {
+    "name": "canal-lock",
+    "category": "geography",
+    "draw": "Canal with two sets of lock gates holding water at two different levels."
+  },
+  {
+    "name": "aqueduct",
+    "category": "geography",
+    "draw": "Tall stone bridge of repeated arches carrying a water channel along its top."
+  },
+  {
+    "name": "ancient-ruins",
+    "category": "geography",
+    "draw": "Broken column stubs and a partial arch standing on a stone base."
+  },
+  {
+    "name": "atlas-book",
+    "category": "geography",
+    "draw": "Thick book with a globe on the cover."
+  },
+  {
+    "name": "map-tube",
+    "category": "geography",
+    "draw": "Long cylindrical map carrying tube with an end cap and a shoulder strap."
+  },
+  {
+    "name": "map-case",
+    "category": "geography",
+    "draw": "Clear square map pouch with a folded map inside and a neck cord."
+  },
+  {
+    "name": "map-cabinet",
+    "category": "geography",
+    "draw": "Wide low cabinet with several shallow flat drawers stacked one above another."
+  },
+  {
+    "name": "pinned-travel-map",
+    "category": "geography",
+    "draw": "World map on a board with several push pins joined by a string."
+  },
+  {
+    "name": "cartographer",
+    "category": "geography",
+    "draw": "Person bending over a large map spread on a table, holding a pen."
+  },
+  {
+    "name": "pocket-globe",
+    "category": "geography",
+    "draw": "Small globe sitting in an opened round hinged case whose lid is lined with a star map."
+  },
+  {
+    "name": "water-compass",
+    "category": "geography",
+    "draw": "Magnetized needle floating on a small leaf in a shallow bowl of water."
+  },
+  {
+    "name": "shadow-stick-compass",
+    "category": "geography",
+    "draw": "Stick upright in the ground with its shadow and two pebbles marking the shadow tip at different times."
+  },
+  {
+    "name": "distance-sign",
+    "category": "geography",
+    "draw": "Rectangular road sign with three text lines, each ending in a number for the distance."
+  },
+  {
+    "name": "runway-layout",
+    "category": "geography",
+    "draw": "Top view of two crossing airport runways with threshold stripes at their ends."
+  },
+  {
+    "name": "geoid",
+    "category": "geography",
+    "draw": "Lumpy uneven globe shape with a smooth dashed ellipse drawn around it."
+  },
+  {
+    "name": "enclave",
+    "category": "geography",
+    "draw": "Small region shape entirely surrounded by a larger region, both with dashed borders."
+  },
+  {
+    "name": "taiga",
+    "category": "geography",
+    "draw": "Snowy ground with rows of narrow spire shaped conifers."
+  },
+  {
+    "name": "braided-river",
+    "category": "geography",
+    "draw": "River splitting into many interwoven channels around small sandbars."
+  },
+  {
+    "name": "shortcut-route",
+    "category": "geography",
+    "draw": "Long curved road with a dashed straight line cutting directly across it."
+  },
+  {
+    "name": "hub-and-spoke-routes",
+    "category": "geography",
+    "draw": "Central dot on a map with straight lines reaching out to several outer dots."
+  },
+  {
+    "name": "railroad-track",
+    "category": "geography",
+    "draw": "Top view of two rails on evenly spaced crossties curving into the distance."
+  },
+  {
+    "name": "stepping-stones",
+    "category": "geography",
+    "draw": "Row of flat round stones crossing a small stream."
+  },
+  {
+    "name": "rope-bridge",
+    "category": "geography",
+    "draw": "Sagging plank bridge with rope handrails spanning a gap between two cliffs."
+  },
+  {
+    "name": "globe-polar-view",
+    "category": "geography",
+    "draw": "Globe seen from directly above the pole with continents arranged around a central ice cap."
+  },
+  {
+    "name": "globe-in-hand",
+    "category": "geography",
+    "draw": "Open hand palm up holding a small globe."
+  },
+  {
+    "name": "burial-mound",
+    "category": "geography",
+    "draw": "Low dome shaped grassy earth mound with a small stone entrance at its base."
+  },
+  {
+    "name": "hill-fort",
+    "category": "geography",
+    "draw": "Hilltop ringed by concentric earthwork ditches and banks."
+  },
+  {
+    "name": "dead-reckoning",
+    "category": "geography",
+    "draw": "Dashed course line with time ticks running from a start dot to a small triangle marking the estimated position."
+  },
+  {
+    "name": "search-pattern",
+    "category": "geography",
+    "draw": "Square spiral path expanding outward from a center dot, a search and rescue pattern."
+  },
+  {
+    "name": "south-pole-marker",
+    "category": "geography",
+    "draw": "Short striped ceremonial pole topped with a mirrored ball, standing on flat snow."
+  },
+  {
+    "name": "tissot-indicatrix",
+    "category": "geography",
+    "draw": "Rectangular world grid dotted with circles that stretch into larger ellipses toward the top and bottom."
+  },
+  {
+    "name": "satellite-ground-track",
+    "category": "geography",
+    "draw": "Wavy sine curve crossing a flat rectangular world map with a small satellite on the curve."
+  },
+  {
+    "name": "migration-route",
+    "category": "geography",
+    "draw": "Three small flying birds following a long curved dashed arrow."
+  },
+  {
+    "name": "caravan-route",
+    "category": "geography",
+    "draw": "Camel walking along a dashed line across sand dunes toward a map pin."
+  },
+  {
+    "name": "protected-area",
+    "category": "geography",
+    "draw": "Region outline with a hatched border filled with small tree symbols."
+  },
+  {
+    "name": "plane-table",
+    "category": "geography",
+    "draw": "Flat drawing board on a tripod with a sighting ruler lying on top."
+  },
+  {
+    "name": "chip-log",
+    "category": "geography",
+    "draw": "Wooden quarter circle float tied to a knotted line wound on a hand reel."
+  },
+  {
+    "name": "mapping-car",
+    "category": "geography",
+    "draw": "Car with a tall pole on its roof topped by a round camera ball."
+  },
+  {
+    "name": "dashboard-compass",
+    "category": "geography",
+    "draw": "Ball compass in a clear dome on a small angled dashboard mount."
+  },
+  {
+    "name": "dot-density-map",
+    "category": "geography",
+    "draw": "Region outline filled with scattered small dots, crowded in one part and sparse in another."
+  },
+  {
+    "name": "bubble-map",
+    "category": "geography",
+    "draw": "Map outline with circles of clearly different sizes placed over its regions."
+  },
+  {
+    "name": "hexbin-map",
+    "category": "geography",
+    "draw": "Map shape built from hexagon tiles with some tiles filled and others empty."
+  },
+  {
+    "name": "strip-map",
+    "category": "geography",
+    "draw": "Tall narrow map strip with a road running down the middle and small landmarks along its sides."
+  },
+  {
+    "name": "territorial-waters",
+    "category": "geography",
+    "draw": "Coastline with a dashed offshore boundary line running parallel to it out at sea."
+  },
+  {
+    "name": "earth-curvature",
+    "category": "geography",
+    "draw": "Gently curved horizon line with a ship half hidden below it."
+  },
+  {
+    "name": "dirt-track",
+    "category": "geography",
+    "draw": "Two parallel wheel ruts with a grass strip between them curving into the distance."
+  },
+  {
+    "name": "tree-lined-avenue",
+    "category": "geography",
+    "draw": "Straight road running into the distance with rows of round trees on both sides."
+  },
+  {
+    "name": "orientation-table",
+    "category": "geography",
+    "draw": "Round engraved table on a stone pedestal with lines pointing to surrounding peaks."
+  },
+  {
+    "name": "walled-city",
+    "category": "geography",
+    "draw": "Cluster of rooftops enclosed by a ring of fortified walls with small round towers."
+  }
+]

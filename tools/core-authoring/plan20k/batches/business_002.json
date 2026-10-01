@@ -1,0 +1,482 @@
+[
+ {
+  "name": "t-account",
+  "category": "business",
+  "draw": "Large T shape drawn as a heading bar over a vertical line with short entries on each side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "expense-report",
+  "category": "business",
+  "draw": "Clipboard form with two small receipts stapled to the top corner.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "scan-receipt",
+  "category": "business",
+  "draw": "Smartphone with camera frame corners around a receipt shown on screen.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "e-receipt",
+  "category": "business",
+  "draw": "Smartphone screen showing a receipt with a zigzag bottom edge.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "green-eyeshade",
+  "category": "business",
+  "draw": "Visor cap with a wide curved translucent brim and a thin headband, seen from the front angle.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "raci-matrix",
+  "category": "business",
+  "draw": "Grid table with the letters R, A, C and I placed in different cells.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "five-forces-diagram",
+  "category": "business",
+  "draw": "Central box with four boxes around it on each side, each joined to the center by an arrow.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "value-proposition-canvas",
+  "category": "business",
+  "draw": "Square on the left and a circle on the right, each split into three sections.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "nine-box-grid",
+  "category": "business",
+  "draw": "Three by three grid with a small person head in the top right cell.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "value-chain",
+  "category": "business",
+  "draw": "Row of chevron arrows pointing right, joined edge to edge.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "business-model-canvas",
+  "category": "business",
+  "draw": "Wide rectangle divided into nine blocks: five tall ones on top and two wide ones below.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "stakeholder-map",
+  "category": "business",
+  "draw": "Central circle with a ring of small person heads connected to it by lines.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "game-plan",
+  "category": "business",
+  "draw": "Small board with X and O marks and curved arrows showing plays.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "bottleneck",
+  "category": "business",
+  "draw": "Bottle on its side with many arrows entering the wide end and one arrow leaving the neck.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "360-degree-feedback",
+  "category": "business",
+  "draw": "Person head in the center with arrows pointing inward from all around a circle.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "business-merger",
+  "category": "business",
+  "draw": "Two circles overlapping with small arrows pushing them together from each side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "acquisition",
+  "category": "business",
+  "draw": "Large fish with open mouth about to swallow a small fish.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "franchise",
+  "category": "business",
+  "draw": "Three identical small shop fronts with awnings in a row.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "branch-offices",
+  "category": "business",
+  "draw": "One tall building connected by lines to two small buildings on either side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "global-business",
+  "category": "business",
+  "draw": "Globe with a briefcase in front of its lower right side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "leadership",
+  "category": "business",
+  "draw": "Larger figure in front holding a small flag with two smaller figures behind.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "glass-ceiling",
+  "category": "business",
+  "draw": "Figure reaching up to a horizontal pane cracked above its hands.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "elevator-pitch",
+  "category": "business",
+  "draw": "Elevator doors with a speech bubble between them.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "business-networking",
+  "category": "business",
+  "draw": "Three person heads at the corners of a triangle joined by lines.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "hybrid-work",
+  "category": "business",
+  "draw": "Small house and office building with two arrows cycling between them.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "digital-nomad",
+  "category": "business",
+  "draw": "Laptop open on a small table under a leaning palm tree.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "employee-of-the-month",
+  "category": "business",
+  "draw": "Framed portrait of a person with a star rosette on the frame corner.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "career-ladder",
+  "category": "business",
+  "draw": "Ladder leaning upward with a small figure carrying a briefcase on a middle rung.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "mentorship",
+  "category": "business",
+  "draw": "Tall figure with a hand on the shoulder of a smaller figure beside it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "leaving-job-box",
+  "category": "business",
+  "draw": "Cardboard box carried with a small plant and a picture frame sticking out the top.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "coworking-table",
+  "category": "business",
+  "draw": "Long shared table with laptops open at several seats on both sides.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "welcome-kit",
+  "category": "business",
+  "draw": "Open box holding a mug, a notebook and a pen for a new employee.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "workload",
+  "category": "business",
+  "draw": "Figure carrying a tall teetering stack of files in both arms.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "award-plaque",
+  "category": "business",
+  "draw": "Shield shaped wooden plaque with a small engraved plate in the center.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "word-of-mouth",
+  "category": "business",
+  "draw": "Two face profiles facing each other with sound waves between their mouths.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "referral",
+  "category": "business",
+  "draw": "Two person heads connected by a chain link.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "target-audience",
+  "category": "business",
+  "draw": "Target of concentric rings with a small person head in the center.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "buyer-persona",
+  "category": "business",
+  "draw": "Profile card with an avatar on the left and a short bulleted list on the right.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "customer-journey",
+  "category": "business",
+  "draw": "Winding dashed path from a person head to a shopping bag with dots along it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "customer-segments",
+  "category": "business",
+  "draw": "Pie chart with a tiny person head in each of three slices.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "ab-test",
+  "category": "business",
+  "draw": "Two side by side panels, one with a letter A and one with a letter B.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "banner-ad",
+  "category": "business",
+  "draw": "Browser window with a wide rectangle across the top containing the letters AD.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "inflatable-tube-man",
+  "category": "business",
+  "draw": "Tall wavy inflatable figure with flailing arms rising from a round fan base.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "cardboard-display-stand",
+  "category": "business",
+  "draw": "Stepped cardboard stand with three shelves of small product boxes and a header card on top.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "step-and-repeat-banner",
+  "category": "business",
+  "draw": "Wide backdrop covered in a repeating grid of small square marks on two feet.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "price-comparison",
+  "category": "business",
+  "draw": "Two price tags hanging from opposite pans of a balance scale.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "auction-paddle",
+  "category": "business",
+  "draw": "Round bidding paddle on a short handle with a number on its face.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "upsell",
+  "category": "business",
+  "draw": "Small box with an arrow pointing to a larger box beside it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "sales-territory",
+  "category": "business",
+  "draw": "Map outline divided into regions with a pin in one region.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "online-store",
+  "category": "business",
+  "draw": "Browser window with a small shop awning drawn across the top of the page.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "mobile-shopping",
+  "category": "business",
+  "draw": "Smartphone with a shopping bag on its screen.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "product-card",
+  "category": "business",
+  "draw": "Card with an image area on top, a title line, a price line and a small button.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "curbside-pickup",
+  "category": "business",
+  "draw": "Car with its trunk open and a shopping bag being placed inside.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "in-store-pickup",
+  "category": "business",
+  "draw": "Shop front with an awning and a parcel box sitting in front of its door.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "order-tracking",
+  "category": "business",
+  "draw": "Dashed route line from a parcel box to a small house with a pin on the route.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "missed-delivery-card",
+  "category": "business",
+  "draw": "Small card sliding through a door letter slot.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "delivery-backpack",
+  "category": "business",
+  "draw": "Boxy insulated cube backpack with shoulder straps and a zip lid.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "product-exchange",
+  "category": "business",
+  "draw": "Two parcel boxes with two curved swap arrows between them.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "subscription-box",
+  "category": "business",
+  "draw": "Cardboard box with a ribbon across the lid and a circular repeat arrow on the side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "product-bundle",
+  "category": "business",
+  "draw": "Two boxes of different sizes tied together with a ribbon and bow.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "vip-pass",
+  "category": "business",
+  "draw": "Lanyard pass card with a small crown on its face.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "shop-mannequin",
+  "category": "business",
+  "draw": "Full body display mannequin with a smooth head on a pole stand base.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "garment-rack",
+  "category": "business",
+  "draw": "Rolling rail with several hangers carrying shirts hanging from it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "store-aisle",
+  "category": "business",
+  "draw": "Two shelving units in perspective receding toward a vanishing point with products on the shelves.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "self-checkout",
+  "category": "business",
+  "draw": "Kiosk with a tilted screen on top, a scanning bed and a bag stand beside it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "checkout-conveyor",
+  "category": "business",
+  "draw": "Checkout counter with a belt carrying two items and a divider bar between them.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "anti-theft-tag",
+  "category": "business",
+  "draw": "Round plastic security tag with a pin sticking up through its center.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "empty-shelf",
+  "category": "business",
+  "draw": "Two tier store shelf with empty space and just one box left on the end.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "barcode-scanner",
+  "category": "business",
+  "draw": "Handheld scanner gun with a trigger and a scan line fanning out of its head.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "price-labeler",
+  "category": "business",
+  "draw": "Handheld price label gun with a grip trigger and a roll of labels on top.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "tagging-gun",
+  "category": "business",
+  "draw": "Pistol grip tool with a long hollow needle and a clip of plastic tag fasteners.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "shelf-price-label",
+  "category": "business",
+  "draw": "Thin strip label on a shelf edge with a barcode on the left and a large price on the right.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "display-counter",
+  "category": "business",
+  "draw": "Waist high glass topped counter with a shelf of items visible inside.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "roll-cage-trolley",
+  "category": "business",
+  "draw": "Tall mesh cage on four wheels with a gate side and boxes inside.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "platform-trolley",
+  "category": "business",
+  "draw": "Flat low platform on four wheels with a single upright push handle.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "bargain-bin",
+  "category": "business",
+  "draw": "Open bin filled with a jumble of items and a tag hanging on its side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "rolling-basket",
+  "category": "business",
+  "draw": "Shopping basket on two small wheels with a long telescopic handle.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "shopping-trolley-bag",
+  "category": "business",
+  "draw": "Tall fabric bag on a two wheeled frame with a curved handle on top.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "cash-on-delivery",
+  "category": "business",
+  "draw": "Parcel box with a banknote leaning against its front.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "store-locator",
+  "category": "business",
+  "draw": "Map pin with a small shop awning inside its round head.",
+  "domain": "business-finance-legal"
+ }
+]

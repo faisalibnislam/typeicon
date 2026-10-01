@@ -1,0 +1,482 @@
+[
+ {
+  "name": "miniature-figure",
+  "category": "play",
+  "draw": "Small painted figure of a cloaked adventurer standing on a round base.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "hex-grid-map",
+  "category": "play",
+  "draw": "Cluster of connected hexagon tiles forming a patch of map, a few tiles filled.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dungeon-door",
+  "category": "play",
+  "draw": "Arched wooden door with vertical planks, iron bands and a ring pull, set in a stone arch.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "wall-torch",
+  "category": "play",
+  "draw": "Flaming torch in an iron wall bracket with a flame on top of a wrapped handle.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "quest-board",
+  "category": "play",
+  "draw": "Wooden notice board on two posts with several pinned paper notes on it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tavern-sign",
+  "category": "play",
+  "draw": "Hanging signboard on a bracket arm with a tankard shape painted on it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "coin-pouch",
+  "category": "play",
+  "draw": "Small drawstring pouch cinched at the top with a couple of coins spilling beside it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "amulet",
+  "category": "play",
+  "draw": "Pendant on a chain with a round setting and a gem in the middle.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "scepter",
+  "category": "play",
+  "draw": "Royal rod with an orb and small cross on top and a decorated grip.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "lockpick",
+  "category": "play",
+  "draw": "Slim pick with a hooked tip crossed with an L shaped tension wrench.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "crossed-swords",
+  "category": "play",
+  "draw": "Two swords crossed in an X with their hilts at the bottom.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "war-hammer",
+  "category": "play",
+  "draw": "Long handled hammer with a flat square head on one side and a spike on the other.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "crossbow",
+  "category": "play",
+  "draw": "Crossbow seen from above: a horizontal bow limb across a stock with a string and loaded bolt.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "quiver",
+  "category": "play",
+  "draw": "Tall cylindrical quiver with a shoulder strap and three arrow fletchings poking out of the top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "catapult",
+  "category": "play",
+  "draw": "Wooden siege catapult with a wheeled base and a throwing arm ending in a cup.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "cannon",
+  "category": "play",
+  "draw": "Old cannon barrel resting on a two wheeled wooden carriage with a ball beside it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "knight-helmet",
+  "category": "play",
+  "draw": "Closed great helm with a flat top, a horizontal eye slit and breathing holes.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "horned-helmet",
+  "category": "play",
+  "draw": "Round metal helmet with a nose guard and a curved horn sticking out on each side.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "chestplate",
+  "category": "play",
+  "draw": "Front view of a metal breastplate with shoulder guards and a center ridge.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "gauntlet",
+  "category": "play",
+  "draw": "Armored glove with segmented finger plates and a flared cuff.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "chainmail-shirt",
+  "category": "play",
+  "draw": "Short sleeved shirt shape filled with a small ring mesh pattern.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "life-counter",
+  "category": "play",
+  "draw": "Round dial with a large number window and small arrows on either side for adding or removing points.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "photo-booth-props",
+  "category": "play",
+  "draw": "Mustache and pair of glasses each on a thin stick, crossed.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "blindfold",
+  "category": "play",
+  "draw": "Cloth band tied around a face outline covering the eyes, with its knot ends trailing at the side.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "bobbing-for-apples",
+  "category": "play",
+  "draw": "Tub of water with wavy surface lines and two apples floating in it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "charades",
+  "category": "play",
+  "draw": "Figure miming with one arm raised and a question mark in a speech bubble beside it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "truth-or-dare",
+  "category": "play",
+  "draw": "Two overlapping cards, one marked with a T and one with a D.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "spin-the-bottle",
+  "category": "play",
+  "draw": "Bottle lying on its side with a circular arrow around it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "hot-potato",
+  "category": "play",
+  "draw": "Potato with wavy heat lines rising from it, tossed between two open hands.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "egg-toss",
+  "category": "play",
+  "draw": "Egg flying in a dotted arc between two open hands.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "kick-the-can",
+  "category": "play",
+  "draw": "Tin can knocked mid air above the ground with a foot swinging behind it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "capture-the-flag",
+  "category": "play",
+  "draw": "Field split by a center line with a flag standing on each side.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "king-of-the-hill",
+  "category": "play",
+  "draw": "Small figure standing on the top of a rounded mound with a crown above its head.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dodgeball",
+  "category": "play",
+  "draw": "Figure leaning away from a ball flying at it with motion lines behind the ball.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "gaga-pit",
+  "category": "play",
+  "draw": "Octagonal walled pit seen from above with a ball in the middle.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "obstacle-course",
+  "category": "play",
+  "draw": "Row of a tire, a traffic cone and a low hurdle on a ground line with a dotted path through them.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "button-whirligig",
+  "category": "play",
+  "draw": "Large button spinning on a looped string stretched between two hands.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "croquet-set",
+  "category": "play",
+  "draw": "Croquet mallet leaning beside a wire hoop with a ball in front of it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "bocce-balls",
+  "category": "play",
+  "draw": "Two large balls resting beside a small target ball on the ground line.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "kubb",
+  "category": "play",
+  "draw": "Row of small wooden blocks with a taller crowned king block standing in the middle.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "shuffleboard-table",
+  "category": "play",
+  "draw": "Long narrow table with scoring zones marked at the far end and a weighted puck sliding toward them.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "ladder-toss",
+  "category": "play",
+  "draw": "Ladder frame with three rungs and a bola of two balls on a cord wrapped around one rung.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "roundnet",
+  "category": "play",
+  "draw": "Small round trampoline net on short legs with a ball bouncing above it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "high-striker",
+  "category": "play",
+  "draw": "Tall tower with a bell at the top, a sliding puck on a track and a mallet at the base pad.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "bottle-knockdown",
+  "category": "play",
+  "draw": "Pyramid of six milk bottles on a stand with a ball flying toward them.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dunk-tank",
+  "category": "play",
+  "draw": "Tank of water with a seat above it and a round target on an arm at the side.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "mole-whacking-game",
+  "category": "play",
+  "draw": "Mole head popping out of a round hole with a soft mallet raised above it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "game-booth",
+  "category": "play",
+  "draw": "Carnival stall with a striped scalloped awning and prize shelves under it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "haunted-house",
+  "category": "play",
+  "draw": "Crooked two story house with a pointed turret, a tilted door and a small ghost at the window.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "drop-tower-ride",
+  "category": "play",
+  "draw": "Very tall slim tower with a ring of seats partway up and a small cap on top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "log-flume-ride",
+  "category": "play",
+  "draw": "Hollow log boat tilting down a steep chute with a splash at the bottom.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "hopper-ball",
+  "category": "play",
+  "draw": "Bouncy ball with two horn shaped handles sticking up from the top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "jianzi",
+  "category": "play",
+  "draw": "Feather shuttlecock toy: a weighted round base disc with a tall fan of feathers rising from it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "daruma-otoshi",
+  "category": "play",
+  "draw": "Stack of wooden discs topped by a round headed doll with a small mallet knocking out the bottom disc.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "gilli-danda",
+  "category": "play",
+  "draw": "Short tapered wooden peg lying on the ground with a longer stick poised to strike its tip.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "slingshot",
+  "category": "play",
+  "draw": "Y shaped wooden fork with a rubber band and a pouch pulled back.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "boomerang",
+  "category": "play",
+  "draw": "Curved V shaped boomerang with rounded tips and a small spin arc.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "footbag",
+  "category": "play",
+  "draw": "Small round knitted beanbag ball with stitched panel seams.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "plate-spinning",
+  "category": "play",
+  "draw": "Plate spinning flat on top of a thin upright stick with curved motion lines.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "cup-stacking",
+  "category": "play",
+  "draw": "Pyramid of stacked plastic cups, three on the bottom row, two above and one on top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "paper-football",
+  "category": "play",
+  "draw": "Folded paper triangle flicked toward goalposts formed by two hands with thumbs touching.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "milk-caps",
+  "category": "play",
+  "draw": "Short stack of round cardboard caps with a thicker slammer disc on top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "model-kit-sprue",
+  "category": "play",
+  "draw": "Rectangular plastic frame with small parts attached by thin gates inside it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "whoopee-cushion",
+  "category": "play",
+  "draw": "Flat round rubber cushion with a short neck spout and puff lines coming out.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "christmas-cracker",
+  "category": "play",
+  "draw": "Tube wrapped in paper twisted closed at both ends like a large sweet.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "eight-ball",
+  "category": "play",
+  "draw": "Solid ball with a small white circle holding the number 8.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "billiard-triangle",
+  "category": "play",
+  "draw": "Triangular rack frame with balls packed tightly inside it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "cue-chalk",
+  "category": "play",
+  "draw": "Small chalk cube with a shallow hollow on top where the cue tip rubs.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "pool-cue",
+  "category": "play",
+  "draw": "Long tapered cue stick drawn diagonally with a thick wrapped butt and a small tip.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "throwing-dart",
+  "category": "play",
+  "draw": "Single dart pointing diagonally with a slim barrel, a needle tip and four tail flights.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-up-sleeve",
+  "category": "play",
+  "draw": "Shirt cuff at a wrist with the top of a playing card peeking out from inside the sleeve.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-trick",
+  "category": "play",
+  "draw": "Deck held in an open hand with one card rising out of the middle and a small sparkle above it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "graded-card-slab",
+  "category": "play",
+  "draw": "Trading card sealed in a thick rigid clear case with a label strip across the top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "game-of-goose",
+  "category": "play",
+  "draw": "Spiral track of numbered spaces winding inward to a center goal with a small goose silhouette on it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "logic-grid",
+  "category": "play",
+  "draw": "Square grid split into blocks with some cells marked by small X marks and one cell by a dot.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "word-wheel",
+  "category": "play",
+  "draw": "Circle of letters in segments around a central highlighted letter.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dialogue-tree",
+  "category": "play",
+  "draw": "Speech bubble at the top branching down by lines into two smaller speech bubbles.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "battle-standard",
+  "category": "play",
+  "draw": "Tall pole with a crossbar holding a hanging banner with a swallowtail notched bottom.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "siege-tower",
+  "category": "play",
+  "draw": "Tall wooden tower on four wheels with a hinged drop ramp near its top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "trebuchet",
+  "category": "play",
+  "draw": "Tall A frame with a long throwing arm, a heavy counterweight box on the short end and a sling on the long end.",
+  "domain": "games-and-play"
+ }
+]

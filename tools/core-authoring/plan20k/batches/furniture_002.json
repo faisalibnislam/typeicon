@@ -1,0 +1,482 @@
+[
+ {
+  "name": "sleigh-bed",
+  "category": "furniture",
+  "draw": "Side view of a bed whose headboard and footboard curl outward like a sleigh.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "water-bed",
+  "category": "furniture",
+  "draw": "Side view of a bed frame whose mattress has wavy water lines inside.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "twin-beds",
+  "category": "furniture",
+  "draw": "Two single beds side by side with a small nightstand between them.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "double-bed",
+  "category": "furniture",
+  "draw": "Front view of a wide bed with two pillows side by side against the headboard.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "futon",
+  "category": "furniture",
+  "draw": "Japanese floor bedding: a thin mattress laid flat on the floor with a folded quilt and pillow.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "charpai",
+  "category": "furniture",
+  "draw": "Traditional woven bed with a crisscross rope lattice stretched on a wooden frame with four legs.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "bassinet",
+  "category": "furniture",
+  "draw": "Small oval baby basket with a hood at one end, standing on a stand with legs.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "cradle",
+  "category": "furniture",
+  "draw": "Wooden baby bed with slatted sides sitting on two curved rockers.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "playpen",
+  "category": "furniture",
+  "draw": "Square mesh-sided baby play enclosure with a ball inside.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "baby-mobile",
+  "category": "furniture",
+  "draw": "Hanging crib mobile with a stick arm and three small shapes dangling on strings.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "baby-gate",
+  "category": "furniture",
+  "draw": "Short gate of vertical bars with a latch, fitted between two wall posts.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "display-cabinet",
+  "category": "furniture",
+  "draw": "Tall cabinet with glass doors showing plates standing on shelves inside.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "toy-box",
+  "category": "furniture",
+  "draw": "Open wooden chest with a propped lid and a ball and teddy ear poking out.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "magazine-rack",
+  "category": "furniture",
+  "draw": "Small floor rack with curved slats holding rolled magazines.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "cube-storage",
+  "category": "furniture",
+  "draw": "Square shelving unit divided into a grid of cubbies, some with fabric bins.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "ladder-shelf",
+  "category": "furniture",
+  "draw": "Leaning ladder-shaped shelf with three shelves narrowing toward the top.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "corner-shelf",
+  "category": "furniture",
+  "draw": "Quarter-round shelves mounted into a wall corner, holding a small plant.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "bookends",
+  "category": "furniture",
+  "draw": "Two L-shaped bookends holding a short row of upright books between them.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "storage-basket",
+  "category": "furniture",
+  "draw": "Woven basket with a crosshatch weave and two side handles.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "key-rack",
+  "category": "furniture",
+  "draw": "Small wall plaque with a row of hooks holding two keys.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "valet-stand",
+  "category": "furniture",
+  "draw": "Standing suit valet with a shaped hanger for a jacket and a bar for trousers.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "blanket-ladder",
+  "category": "furniture",
+  "draw": "Wooden ladder leaning on a wall with a folded blanket draped over a rung.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "folding-screen",
+  "category": "furniture",
+  "draw": "Three-panel folding room divider standing in a zigzag.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "shoji-door",
+  "category": "furniture",
+  "draw": "Japanese sliding door with a fine wooden grid over translucent paper panels.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "wall-cabinet",
+  "category": "furniture",
+  "draw": "Wall-hung kitchen-style upper cabinet with two doors mounted above a counter line.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "paper-lantern",
+  "category": "furniture",
+  "draw": "Round ribbed paper lantern hanging from a cord with a small cap at the top.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "tripod-lamp",
+  "category": "furniture",
+  "draw": "Floor lamp with a drum shade on three splayed wooden legs.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "neon-sign",
+  "category": "furniture",
+  "draw": "Glowing tube light bent into a heart shape inside a thin frame on a wall.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "cage-light",
+  "category": "furniture",
+  "draw": "Hanging pendant bulb surrounded by a wire cage guard.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "hurricane-lamp",
+  "category": "furniture",
+  "draw": "Kerosene lantern with a glass chimney on a metal base and a wire handle.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "candelabra",
+  "category": "furniture",
+  "draw": "Branched candle holder with three arms each holding a lit candle.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "tealight",
+  "category": "furniture",
+  "draw": "Small round tea light candle in a shallow metal cup with a flame.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "lampshade",
+  "category": "furniture",
+  "draw": "Empty drum lampshade with a tapered shape and a small ring fitting at the top.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "sputnik-chandelier",
+  "category": "furniture",
+  "draw": "Ceiling light with a central ball and many straight arms radiating out, each with a bulb.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "mushroom-lamp",
+  "category": "furniture",
+  "draw": "Small table lamp shaped like a mushroom with a dome cap over a short stem.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "plasma-ball",
+  "category": "furniture",
+  "draw": "Glass globe on a base with forked lightning lines reaching from the center to the glass.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "garden-torch",
+  "category": "furniture",
+  "draw": "Bamboo torch on a tall pole with a flame burning in its top cup.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "round-rug",
+  "category": "furniture",
+  "draw": "Circular rug with concentric ring patterns and a short fringe.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "sheepskin-rug",
+  "category": "furniture",
+  "draw": "Irregular fluffy hide-shaped rug with wavy wool edges.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "shag-rug",
+  "category": "furniture",
+  "draw": "Rectangular rug with long shaggy pile strands drawn as dense vertical squiggles.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "braided-rug",
+  "category": "furniture",
+  "draw": "Oval rug made of a tight spiral of braided coils.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "rolled-rug",
+  "category": "furniture",
+  "draw": "Carpet partly rolled up into a thick cylinder with the flat end lying in front.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "prayer-rug",
+  "category": "furniture",
+  "draw": "Rectangular prayer mat with a pointed arch niche motif at one end and a fringe.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "tatami-mat",
+  "category": "furniture",
+  "draw": "Rectangular Japanese straw floor mat with fine lengthwise lines and bound long edges.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "play-mat",
+  "category": "furniture",
+  "draw": "Kids play mat printed with a winding road, a small house and a tree.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "roller-blind",
+  "category": "furniture",
+  "draw": "Window covered by a smooth blind pulled down from a roller at the top with a pull cord.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "venetian-blind",
+  "category": "furniture",
+  "draw": "Window covered by many thin horizontal slats with a cord and tilt wand at the side.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "roman-blind",
+  "category": "furniture",
+  "draw": "Fabric window blind folded up in soft horizontal pleats near the top.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "vertical-blinds",
+  "category": "furniture",
+  "draw": "Row of tall vertical slats hanging from a track across a window.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "window-shutters",
+  "category": "furniture",
+  "draw": "Window flanked by two open louvered shutters on each side.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "cafe-curtain",
+  "category": "furniture",
+  "draw": "Short curtain covering only the lower half of a window on a middle rod.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "curtain-rod",
+  "category": "furniture",
+  "draw": "Horizontal rod with ball finials at each end and rings along it.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "bead-curtain",
+  "category": "furniture",
+  "draw": "Doorway curtain made of many vertical strings of beads.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "noren",
+  "category": "furniture",
+  "draw": "Japanese split doorway curtain hanging from a rod in three short fabric panels.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "blackout-curtain",
+  "category": "furniture",
+  "draw": "Closed dark curtains fully covering a window with a crescent moon beside them.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "cheval-mirror",
+  "category": "furniture",
+  "draw": "Full-length oval mirror swiveling between two uprights on a floor stand.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "sunburst-mirror",
+  "category": "furniture",
+  "draw": "Round mirror surrounded by radiating spikes like sun rays.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "trifold-mirror",
+  "category": "furniture",
+  "draw": "Three-panel mirror with a large center panel and two angled side wings.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-cuckoo",
+  "category": "furniture",
+  "draw": "Carved house-shaped wall clock with a small bird popping out of a door and pinecone weights.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-grandfather",
+  "category": "furniture",
+  "draw": "Tall floor-standing longcase clock with a clock face on top and a pendulum window below.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-mantel",
+  "category": "furniture",
+  "draw": "Wide wooden clock with an arched top and a round dial sitting on a mantel shelf.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-carriage",
+  "category": "furniture",
+  "draw": "Small rectangular brass clock with glass sides and a carry handle on top.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-flip",
+  "category": "furniture",
+  "draw": "Retro clock with two split-flap number cards showing digits on a small stand.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-station",
+  "category": "furniture",
+  "draw": "Double-sided clock hanging from a bracket above a platform, seen at an angle.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-sunburst",
+  "category": "furniture",
+  "draw": "Wall clock with a small round face surrounded by long radiating rays.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-anniversary",
+  "category": "furniture",
+  "draw": "Clock under a glass dome with a spinning disc pendulum visible below the dial.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "clock-skeleton",
+  "category": "furniture",
+  "draw": "Clock with an open face showing interlocking gears through the dial.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "bud-vase",
+  "category": "furniture",
+  "draw": "Tall very slender vase holding a single stem with one flower.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "amphora",
+  "category": "furniture",
+  "draw": "Tall ancient jar with two looped handles on the neck and a pointed base.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "ginger-jar",
+  "category": "furniture",
+  "draw": "Round-shouldered lidded jar with a domed cap and a floral band.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "music-box",
+  "category": "furniture",
+  "draw": "Open wooden box with a tiny ballerina on a spindle and music notes floating up.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "candle-snuffer",
+  "category": "furniture",
+  "draw": "Long handled stick ending in a small bell cone above a candle wick with smoke.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "wind-chime",
+  "category": "furniture",
+  "draw": "Round top ring with several hanging metal tubes of different lengths and a striker.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "dreamcatcher",
+  "category": "furniture",
+  "draw": "Hoop with a woven web inside and feathers hanging from strings below.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "macrame-wall-hanging",
+  "category": "furniture",
+  "draw": "Knotted cord wall hanging draped from a wooden dowel with fringe at the bottom.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "wall-tapestry",
+  "category": "furniture",
+  "draw": "Large woven textile hanging from a rod with a simple pattern and tassels on the bottom edge.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "wall-plate",
+  "category": "furniture",
+  "draw": "Decorative round plate with a floral pattern hung on a wall by a wire hanger.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "letter-board",
+  "category": "furniture",
+  "draw": "Felt letter board with a grooved surface and lines of small letter tiles.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "cork-board",
+  "category": "furniture",
+  "draw": "Framed cork board with pinned notes and a photo held by push pins.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "triptych",
+  "category": "furniture",
+  "draw": "Three framed art panels hanging side by side, the middle one larger.",
+  "domain": "furniture-and-decor"
+ }
+]

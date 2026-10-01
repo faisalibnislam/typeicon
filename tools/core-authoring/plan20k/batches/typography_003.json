@@ -1,0 +1,428 @@
+[
+ {
+  "name": "match-whole-word",
+  "category": "typography",
+  "draw": "Word ab inside square brackets with a short underline beneath.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "paste-as-text",
+  "category": "typography",
+  "draw": "Clipboard with a capital T on its sheet.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "clipboard-history",
+  "category": "typography",
+  "draw": "Clipboard with a small clock and stacked sheet edges behind it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "insert-symbol",
+  "category": "typography",
+  "draw": "Omega sign inside a rounded square.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "insert-equation",
+  "category": "typography",
+  "draw": "Pi sign inside a rounded square with a small equals mark.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "autosave",
+  "category": "typography",
+  "draw": "Document with a small circular arrow wrapped around a cloud at its corner.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "ruby-annotation",
+  "category": "typography",
+  "draw": "Large East Asian style character block with a row of tiny characters above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "emphasis-dots",
+  "category": "typography",
+  "draw": "Three character blocks in a row each with a small dot above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "kashida-justification",
+  "category": "typography",
+  "draw": "Flowing cursive stroke with one stretched horizontal connection and outward arrows.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "bidirectional-text",
+  "category": "typography",
+  "draw": "Two text lines with arrows pointing in opposite directions on each line.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "boustrophedon",
+  "category": "typography",
+  "draw": "Three text lines joined into a zigzag path with an arrow turning at each line end.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "phonetic-transcription",
+  "category": "typography",
+  "draw": "Schwa symbol placed between two forward slashes.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "transliteration",
+  "category": "typography",
+  "draw": "Latin letter A, an arrow, and a Cyrillic letter Ya.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "enclosed-character",
+  "category": "typography",
+  "draw": "Single letter A inside a circle with a second circled letter overlapping behind it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dyslexia-friendly-text",
+  "category": "typography",
+  "draw": "Letters b and d with heavy weighted bottoms sitting on a thick baseline.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "scansion-marks",
+  "category": "typography",
+  "draw": "Row of short syllable blocks with alternating stress accents and small curved breves above them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "typing-speed",
+  "category": "typography",
+  "draw": "Keyboard outline with a small speedometer gauge above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "grease-pencil",
+  "category": "typography",
+  "draw": "Wax marking pencil wrapped in a spiral paper sleeve with a pull string and a peeled tip.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "typewriter-eraser",
+  "category": "typography",
+  "draw": "Round pencil shaped eraser with a small brush at its other end.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "pica-ruler",
+  "category": "typography",
+  "draw": "Straight ruler with type scale markings and small point numbers along its edge.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "linen-tester",
+  "category": "typography",
+  "draw": "Small folding magnifier with a square lens on a hinged metal stand.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "printers-chase",
+  "category": "typography",
+  "draw": "Rectangular metal frame holding blocks of type locked by wedges at its side.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "type-slug",
+  "category": "typography",
+  "draw": "Long metal bar with a single raised line of letters cast along its top edge.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dry-transfer-lettering",
+  "category": "typography",
+  "draw": "Sheet of alphabet letters with a pencil rubbing one letter off onto paper below.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "proof-press",
+  "category": "typography",
+  "draw": "Flat bed press with a large roller on side rails over a type bed.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "book-chapter",
+  "category": "typography",
+  "draw": "Open book with a large numeral 1 heading on the left page above text lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "ghostwriter",
+  "category": "typography",
+  "draw": "Small ghost shape holding a pen over a sheet of paper.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "digital-notepad",
+  "category": "typography",
+  "draw": "Thin tablet with a stylus writing handwritten lines on its screen.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-stamps",
+  "category": "typography",
+  "draw": "Row of small rubber stamps each topped with a letter on its base.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "calligraphy-guide-sheet",
+  "category": "typography",
+  "draw": "Sheet of paper ruled with horizontal lines crossed by evenly spaced slanted guide lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "didone-font",
+  "category": "typography",
+  "draw": "Capital A with extreme contrast between one heavy stroke and hairline strokes, finished with thin flat unbracketed serifs.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "seven-segment-digits",
+  "category": "typography",
+  "draw": "Digital number 8 built from seven separate bar segments like a calculator display.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-aperture",
+  "category": "typography",
+  "draw": "Lowercase c with the opening between its two stroke ends marked by a small dashed arc.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "side-bearings",
+  "category": "typography",
+  "draw": "Letter n inside a glyph box with the narrow empty strips at its left and right sides hatched.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "cjk-full-stop",
+  "category": "typography",
+  "draw": "Short row of character blocks ending in a small hollow circle sitting at the baseline.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "pinyin-tone-marks",
+  "category": "typography",
+  "draw": "Four lowercase a letters in a row topped by a flat bar, a rising stroke, a v shape and a falling stroke.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "home-row-keys",
+  "category": "typography",
+  "draw": "Row of four keyboard keys with a small raised bump on two of them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "eyebrow-heading",
+  "category": "typography",
+  "draw": "Small short line of spaced capitals sitting above a thick heading bar and body text lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "shape-poem",
+  "category": "typography",
+  "draw": "Short text lines of varying lengths stacked to form the outline of a tree.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "palimpsest",
+  "category": "typography",
+  "draw": "Parchment sheet with bold text lines written over faint older dashed lines beneath.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "underline-skip-ink",
+  "category": "typography",
+  "draw": "Lowercase g and y with an underline that breaks into gaps where their descenders cross it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "thousands-separator",
+  "category": "typography",
+  "draw": "Number 1,000 with the comma between the digits enlarged and circled.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "hook-above-accent",
+  "category": "typography",
+  "draw": "Lowercase a with a small question mark shaped hook above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "typewriter-key",
+  "category": "typography",
+  "draw": "Round typewriter key with a metal rim and a letter on its face, mounted on a slanted lever arm.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "proportion-wheel",
+  "category": "typography",
+  "draw": "Two stacked concentric paper discs with scale ticks around their edges and a small window cut in the top disc.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "ornamental-rule",
+  "category": "typography",
+  "draw": "Horizontal line with a small diamond and two curls at its center.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "ai-writing-assistant",
+  "category": "typography",
+  "draw": "Pen nib writing a line with a small four point sparkle beside it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "paragraph-shading",
+  "category": "typography",
+  "draw": "Block of paragraph lines drawn over a solid filled background rectangle.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "paragraph-border",
+  "category": "typography",
+  "draw": "Block of paragraph lines enclosed by a thin rectangular outline.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "table-of-authorities",
+  "category": "typography",
+  "draw": "Document with a list of lines ending in page numbers and a small gavel at the top.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "handwritten-markup",
+  "category": "typography",
+  "draw": "Document with text lines, one word circled by a hand drawn loop and an arrow pointing to the margin.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "synchronized-scrolling",
+  "category": "typography",
+  "draw": "Two document pages side by side with a linked pair of vertical arrows between them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "synced-block",
+  "category": "typography",
+  "draw": "Two content blocks stacked with a pair of circular sync arrows linking them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "master-page",
+  "category": "typography",
+  "draw": "Two stacked page outlines with the letter A in a small tab at the corner of the back page.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "page-construction-canon",
+  "category": "typography",
+  "draw": "Two facing pages crossed by diagonal lines with a small text block placed at their intersections on each page.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "mahl-stick",
+  "category": "typography",
+  "draw": "Long thin stick with a padded ball at one end, used to steady a lettering brush hand.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "comic-sound-effect",
+  "category": "typography",
+  "draw": "Jagged burst shape with bold slanted letters inside it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "acronym",
+  "category": "typography",
+  "draw": "Three stacked words with their first letters drawn larger and bold, lined up in a column.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "replacement-character",
+  "category": "typography",
+  "draw": "Solid diamond with a white question mark inside it, the symbol for an unreadable character.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "interlinear-translation",
+  "category": "typography",
+  "draw": "Alternating text lines where each bold line has a thinner smaller line directly beneath it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "parallel-text",
+  "category": "typography",
+  "draw": "Open book with a letter A heading on the left page and a Cyrillic letter heading on the right, both above matching text lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "typewriter-typeball",
+  "category": "typography",
+  "draw": "Small sphere covered in rows of tiny raised letter bumps with a clip on top.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "fluid-typography",
+  "category": "typography",
+  "draw": "Phone and wide monitor side by side, each showing a letter A scaled to its screen size.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "numbered-equation",
+  "category": "typography",
+  "draw": "Centered equation line with an equals sign and a small number in parentheses at the far side.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "code-ligature",
+  "category": "typography",
+  "draw": "Equals sign and greater than sign merging into a single arrow glyph, shown with a small arrow between the before and after.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "postscript-note",
+  "category": "typography",
+  "draw": "Letter page with a signature scribble and a short extra line below it led by the letters PS.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "spoiler-text",
+  "category": "typography",
+  "draw": "Text line with a middle section covered by a solid bar speckled with small dots.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "backlinks",
+  "category": "typography",
+  "draw": "Two note pages with a curved arrow running from the second page back to the first.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "diacritic-anchor",
+  "category": "typography",
+  "draw": "Lowercase a with a small crosshair target marking the attachment point above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "horizontal-in-vertical-text",
+  "category": "typography",
+  "draw": "Vertical column of character blocks with two small digits set side by side in its middle.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "erasing-shield",
+  "category": "typography",
+  "draw": "Thin flat metal plate pierced with several small slots and holes of different shapes.",
+  "domain": "r2-text-editing-typography"
+ }
+]

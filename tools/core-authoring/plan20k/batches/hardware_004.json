@@ -1,0 +1,482 @@
+[
+ {
+  "name": "block-and-tackle",
+  "category": "hardware",
+  "draw": "Two pulley blocks, one above the other, with rope running between them and a hook below.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "caster-wheel",
+  "category": "hardware",
+  "draw": "Small wheel in a swivel fork with a flat mounting plate on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drawer-slide",
+  "category": "hardware",
+  "draw": "Two long telescoping rails partly extended with small mounting holes.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drawer-pull",
+  "category": "hardware",
+  "draw": "U shaped bar handle with two mounting posts on a drawer front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cabinet-knob",
+  "category": "hardware",
+  "draw": "Small round mushroom knob on a short neck, side view.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "shelf-bracket",
+  "category": "hardware",
+  "draw": "Right angle bracket with a diagonal brace between its two arms.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "l-bracket",
+  "category": "hardware",
+  "draw": "Flat metal L shaped angle plate with two screw holes on each leg.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mending-plate",
+  "category": "hardware",
+  "draw": "Flat straight metal strip with a row of screw holes.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "joist-hanger",
+  "category": "hardware",
+  "draw": "U shaped metal saddle with flanges and nail holes holding the end of a beam.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ball-bearing",
+  "category": "hardware",
+  "draw": "Two concentric rings with a ring of small balls between them, front view.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "gear-wheel",
+  "category": "hardware",
+  "draw": "Single spur gear with square teeth around the rim and a hub hole in the centre.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sprocket",
+  "category": "hardware",
+  "draw": "Flat wheel with pointed hooked teeth around its rim and a centre hole.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bevel-gear",
+  "category": "hardware",
+  "draw": "Two cone shaped gears meshing at a right angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "worm-gear",
+  "category": "hardware",
+  "draw": "Threaded screw shaft meshing with the teeth of a round gear wheel.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rack-and-pinion",
+  "category": "hardware",
+  "draw": "Small round gear meshing with a straight toothed bar.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "belt-drive",
+  "category": "hardware",
+  "draw": "Two round pulleys of different size joined by a long belt loop.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "piston",
+  "category": "hardware",
+  "draw": "Cylinder shaped piston with ring grooves on top and a connecting rod below.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "crankshaft",
+  "category": "hardware",
+  "draw": "Long shaft with offset zigzag throws and round counterweights along it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "spark-plug",
+  "category": "hardware",
+  "draw": "Tall plug with a ribbed ceramic insulator, a hex nut middle and a threaded tip with an electrode.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hydraulic-cylinder",
+  "category": "hardware",
+  "draw": "Long tube cylinder with a shiny rod extending out one end and mounting eyes on both ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "universal-joint",
+  "category": "hardware",
+  "draw": "Two yoke forks joined at right angles by a cross shaped centre piece.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "shaft-coupling",
+  "category": "hardware",
+  "draw": "Short cylinder joining two shafts end to end with set screws on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "leaf-spring",
+  "category": "hardware",
+  "draw": "Stack of curved flat steel leaves bundled together with eyes at both ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "shock-absorber",
+  "category": "hardware",
+  "draw": "Cylinder with a coil spring wrapped around it and mounting eyes at each end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "handwheel",
+  "category": "hardware",
+  "draw": "Round wheel with spokes and a small crank knob on the rim.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "key-blank",
+  "category": "hardware",
+  "draw": "Uncut flat key with a round bow and a smooth straight blade.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "key-cutting",
+  "category": "hardware",
+  "draw": "Key held in a clamp with a round cutting wheel touching its blade.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pegboard",
+  "category": "hardware",
+  "draw": "Board with a regular grid of holes and a few hooks holding tools.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "parts-organizer",
+  "category": "hardware",
+  "draw": "Box with a grid of small drawers or compartments, each with a tiny pull.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rolling-tool-cabinet",
+  "category": "hardware",
+  "draw": "Rolling cabinet with several wide flat drawers, a top lid and caster wheels.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tool-belt",
+  "category": "hardware",
+  "draw": "Belt with a buckle and pouches holding a hammer and screwdriver.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tool-bag",
+  "category": "hardware",
+  "draw": "Open wide mouthed bag with a rigid frame handle and tools sticking out the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "workbench",
+  "category": "hardware",
+  "draw": "Sturdy table with a thick top, a vise at one end and a lower shelf.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sawhorse",
+  "category": "hardware",
+  "draw": "A frame trestle: a horizontal beam on two splayed pairs of legs.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "step-stool",
+  "category": "hardware",
+  "draw": "Small two step folding stool seen from the side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "extension-ladder",
+  "category": "hardware",
+  "draw": "Tall ladder with two overlapping parallel sections side by side leaning at an angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "platform-ladder",
+  "category": "hardware",
+  "draw": "Step ladder with a flat standing platform at the top and a guard rail loop.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "scaffolding",
+  "category": "hardware",
+  "draw": "Grid of vertical and horizontal poles with a plank platform and cross braces.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "scaffold-tower",
+  "category": "hardware",
+  "draw": "Narrow rolling scaffold tower with ladder frame sides, a platform and caster wheels.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "duct-tape",
+  "category": "hardware",
+  "draw": "Thick roll of wide tape with a torn strip hanging off, seen at an angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "electrical-tape",
+  "category": "hardware",
+  "draw": "Narrow flat roll of tape with a large hole in the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "thread-seal-tape",
+  "category": "hardware",
+  "draw": "Very thin narrow spool of white tape wound on a small core.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "glue-bottle",
+  "category": "hardware",
+  "draw": "Squeeze bottle with a pointed nozzle cap and a label band.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "super-glue-tube",
+  "category": "hardware",
+  "draw": "Small flat squeezed tube with a long pointed nozzle and a cap.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "epoxy-syringe",
+  "category": "hardware",
+  "draw": "Double barrel syringe with two parallel tubes joined to a single plunger.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "caulk-tube",
+  "category": "hardware",
+  "draw": "Cylindrical cartridge with a long cone nozzle cut at an angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "spray-foam-can",
+  "category": "hardware",
+  "draw": "Aerosol can with a long thin straw applicator and a puff of foam.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wood-filler",
+  "category": "hardware",
+  "draw": "Small round tub with the lid off and a putty knife resting on it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-section",
+  "category": "hardware",
+  "draw": "Short length of pipe in perspective with an open round end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-elbow",
+  "category": "hardware",
+  "draw": "Ninety degree bent pipe fitting with two thicker socket ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-tee",
+  "category": "hardware",
+  "draw": "T shaped pipe fitting with three open socket ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-coupling",
+  "category": "hardware",
+  "draw": "Short sleeve fitting joining two pipe ends in a straight line.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-reducer",
+  "category": "hardware",
+  "draw": "Fitting that steps from a wide pipe opening to a narrow one.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-union",
+  "category": "hardware",
+  "draw": "Pipe joint with a large hex nut collar in the middle between two threaded ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-flange",
+  "category": "hardware",
+  "draw": "Round flat disc with a ring of bolt holes and a pipe coming out of its centre.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-cap",
+  "category": "hardware",
+  "draw": "Short capped fitting with a closed domed end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ball-valve",
+  "category": "hardware",
+  "draw": "Straight pipe valve with a round body and a flat lever handle on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "gate-valve",
+  "category": "hardware",
+  "draw": "Valve with a tall bonnet stem and a round spoked handwheel on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "check-valve",
+  "category": "hardware",
+  "draw": "Pipe valve body with an arrow on the side showing one way flow.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "butterfly-valve",
+  "category": "hardware",
+  "draw": "Round wafer valve with a disc in the middle and a lever on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "angle-stop-valve",
+  "category": "hardware",
+  "draw": "Small right angle valve with an oval handle, one pipe coming from the wall.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pressure-relief-valve",
+  "category": "hardware",
+  "draw": "Valve with a lever lifting a spring cap and a pipe outlet on the side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "outdoor-spigot",
+  "category": "hardware",
+  "draw": "Wall mounted hose tap with a round handle on top and a threaded spout pointing down.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "expansion-tank",
+  "category": "hardware",
+  "draw": "Small round bellied tank with a pipe stub on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "toilet-auger",
+  "category": "hardware",
+  "draw": "Long curved tube with a crank handle on top and a bent end at the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "p-trap",
+  "category": "hardware",
+  "draw": "Pipe bent into a U curve below a sink drain with an outlet going sideways.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-bender",
+  "category": "hardware",
+  "draw": "Hand tool with two long handles and a round grooved form with a pipe bent around it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pex-crimp-tool",
+  "category": "hardware",
+  "draw": "Long handled crimping tool with round jaws holding a ring on a pipe.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "manhole-cover",
+  "category": "hardware",
+  "draw": "Round cover with a grid pattern of raised ridges and two small lift holes.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "water-filter-cartridge",
+  "category": "hardware",
+  "draw": "Tall cylinder cartridge with ribbed pleats and a hole on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "fire-sprinkler-head",
+  "category": "hardware",
+  "draw": "Ceiling fire sprinkler with a small glass bulb and a flat notched deflector below.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "backflow-preventer",
+  "category": "hardware",
+  "draw": "Horizontal pipe assembly with two valves and small test ports in between.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-insulation",
+  "category": "hardware",
+  "draw": "Foam tube slit lengthwise wrapped around a pipe.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wire-spool",
+  "category": "hardware",
+  "draw": "Large spool reel with wire wound around it and an end trailing off.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cord-reel",
+  "category": "hardware",
+  "draw": "Round reel on a frame with a crank handle and a cable wound on it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wire-nut",
+  "category": "hardware",
+  "draw": "Cone shaped twist on connector with spiral ridges and two wires coming out.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "breaker-panel",
+  "category": "hardware",
+  "draw": "Tall panel box with an open door and two columns of small switches inside.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cartridge-fuse",
+  "category": "hardware",
+  "draw": "Glass cylinder with metal caps on each end and a thin wire running through it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "blade-fuse",
+  "category": "hardware",
+  "draw": "Flat plastic fuse with two prongs at the bottom and a small window on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "electrical-conduit",
+  "category": "hardware",
+  "draw": "Straight rigid tube with a bend near one end and a coupling fitting.",
+  "domain": "tools-hardware-construction"
+ }
+]

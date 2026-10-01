@@ -1,0 +1,482 @@
+[
+ {
+  "name": "replay-10-seconds",
+  "category": "playback",
+  "draw": "Counterclockwise circular arrow with the number 10 set inside the loop.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "forward-30-seconds",
+  "category": "playback",
+  "draw": "Clockwise circular arrow with the number 30 set inside the loop.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "start-over",
+  "category": "playback",
+  "draw": "Vertical bar at the left with a curved arrow sweeping back to it above a small play triangle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "playback-speed",
+  "category": "playback",
+  "draw": "Speedometer arc with a needle and a small play triangle at its pivot.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "ab-repeat",
+  "category": "playback",
+  "draw": "Horizontal progress track with two bracket markers labelled A and B and a small loop arrow above the span between them.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "gapless-playback",
+  "category": "playback",
+  "draw": "Two waveform blocks placed end to end touching with no gap, a small link bar joining them underneath.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "autoplay",
+  "category": "playback",
+  "draw": "Pill shaped toggle switch whose round knob contains a small play triangle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "play-next",
+  "category": "playback",
+  "draw": "Three stacked list lines with a play triangle and a short arrow inserting into the top of the list.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "now-playing",
+  "category": "playback",
+  "draw": "Square album cover on the left with three vertical bars of different heights beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "mini-player",
+  "category": "playback",
+  "draw": "Tall phone outline with a slim horizontal bar near the bottom holding a small square thumbnail and a play triangle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "sleep-timer",
+  "category": "playback",
+  "draw": "Crescent moon with a small clock face tucked into its hollow.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "skip-silence",
+  "category": "playback",
+  "draw": "Waveform with a flat gap in the middle and two inward arrows squeezing the gap closed.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "seek-bar",
+  "category": "playback",
+  "draw": "Horizontal track with the left part filled, a round knob at the join and a small time label above.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "seek-preview",
+  "category": "playback",
+  "draw": "Small rectangular thumbnail floating above a horizontal progress bar with a pointer tail down to the knob.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "playhead",
+  "category": "playback",
+  "draw": "Vertical line topped with a downward pointing pentagon marker crossing a row of timeline clips.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "video-buffering",
+  "category": "playback",
+  "draw": "Video frame with a circle of short dashes in the centre, one dash bolder like a spinner.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "transport-controls",
+  "category": "playback",
+  "draw": "Row of three symbols in a rounded bar: skip back, a large play triangle and skip forward.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "jog-wheel",
+  "category": "playback",
+  "draw": "Large round dial with a finger dimple near its edge and a thin outer ring with tick marks.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "cue-point",
+  "category": "playback",
+  "draw": "Waveform with a vertical line and a small flag on top marking a spot in the audio.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "tap-tempo",
+  "category": "playback",
+  "draw": "Fingertip tapping a square pad with concentric ripples and the letters BPM above.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "frame-by-frame",
+  "category": "playback",
+  "draw": "Single film frame with sprocket holes on each side and a small step arrow with a bar beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "frame-rate",
+  "category": "playback",
+  "draw": "Film frame outline with the number 60 inside and three short speed lines trailing behind.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "resume-playback",
+  "category": "playback",
+  "draw": "Video thumbnail rectangle with a partly filled progress bar along its bottom edge and a play triangle in the centre.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "episode-list",
+  "category": "playback",
+  "draw": "Vertical list of three rows, each with a small play circle on the left and two text lines.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "scene-selection",
+  "category": "playback",
+  "draw": "Grid of four small thumbnail rectangles, each with a number in its corner.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "commentary-track",
+  "category": "playback",
+  "draw": "Director chair silhouette with a speech bubble containing sound waves above it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "audio-language",
+  "category": "playback",
+  "draw": "Speech bubble holding a small waveform with the letters A and a foreign glyph stacked beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "translated-subtitles",
+  "category": "playback",
+  "draw": "Screen rectangle with two subtitle bars at the bottom and a small globe in the top corner.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "skip-ad",
+  "category": "playback",
+  "draw": "Rounded rectangle button holding the letters AD followed by a skip forward symbol.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "media-library",
+  "category": "playback",
+  "draw": "Three stacked tilted rectangles like a deck, the front one showing a play triangle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "video-playlist",
+  "category": "playback",
+  "draw": "Rectangle with a play triangle on the left and three horizontal list lines stacked on the right.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "video-wall",
+  "category": "playback",
+  "draw": "Three by three grid of touching screens forming one large display with a play triangle across the middle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "multi-view",
+  "category": "playback",
+  "draw": "Two by two grid of rounded rectangles each containing a small play triangle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "multi-camera",
+  "category": "playback",
+  "draw": "Three small video cameras arranged in an arc all pointing to a central dot.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "instant-replay",
+  "category": "playback",
+  "draw": "Television screen with a circular replay arrow around a play triangle in its centre.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "highlight-reel",
+  "category": "playback",
+  "draw": "Film strip curving across with a four point sparkle star on its centre frame.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "screen-mirroring",
+  "category": "playback",
+  "draw": "Phone and a larger television side by side showing the same play triangle with an arrow from phone to screen.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "multiroom-audio",
+  "category": "playback",
+  "draw": "House outline with two small speakers in separate rooms linked by sound waves.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "smartphone-remote",
+  "category": "playback",
+  "draw": "Phone showing a round directional pad and a play button on its screen, with signal arcs from its top edge.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "curved-tv",
+  "category": "playback",
+  "draw": "Wide television screen seen from the front with a gently curved top and bottom edge on a small stand.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "eject",
+  "category": "playback",
+  "draw": "Upward pointing triangle sitting above a flat horizontal bar.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "eight-track-cartridge",
+  "category": "playback",
+  "draw": "Rectangular tape cartridge with a rounded back corner, a label area and an exposed tape slot at the front edge.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "microcassette",
+  "category": "playback",
+  "draw": "Small cassette with two tiny spools close together and a short tape window, clearly smaller and squarer than a standard cassette.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "cassette-and-pencil",
+  "category": "playback",
+  "draw": "Cassette tape with a pencil pushed through one of its spool holes as if rewinding it by hand.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "in-flight-entertainment",
+  "category": "playback",
+  "draw": "Back of an airplane seat with a small screen showing a play triangle and a headphone jack below it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "rec-indicator",
+  "category": "playback",
+  "draw": "Camera viewfinder corner brackets with a filled dot and the letters REC in the top left.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "tally-light",
+  "category": "playback",
+  "draw": "Small box camera with a round lamp glowing on top, rays around the lamp showing it is live.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "bass-boost",
+  "category": "playback",
+  "draw": "Speaker cone with a large low wave curve and a small up arrow beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "noise-cancellation",
+  "category": "playback",
+  "draw": "Over ear headphones with a wave entering one cup and an opposite inverted wave cancelling it to a flat line.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "transparency-mode",
+  "category": "playback",
+  "draw": "Over ear headphones with sound wave arcs passing straight through the ear cups toward the centre.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "mono-audio",
+  "category": "playback",
+  "draw": "Single speaker cone with one set of sound waves and a small circle labelled M beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "stereo-audio",
+  "category": "playback",
+  "draw": "Two small speakers side by side labelled L and R with sound waves from each.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "audio-output",
+  "category": "playback",
+  "draw": "Speaker and headphones side by side with a small curved arrow switching between them.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "lossless-audio",
+  "category": "playback",
+  "draw": "Smooth unbroken waveform inside a diamond outline.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "hdr-video",
+  "category": "playback",
+  "draw": "Rounded rectangle badge with the letters HDR and a half filled sun symbol above the text.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "8k-resolution",
+  "category": "playback",
+  "draw": "Rounded rectangle badge containing the bold text 8K.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "sd-video",
+  "category": "playback",
+  "draw": "Rounded rectangle badge containing the bold text SD.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "audio-visualizer",
+  "category": "playback",
+  "draw": "Circle ringed by short radiating bars of varying length like a radial spectrum.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "echo-effect",
+  "category": "playback",
+  "draw": "Sound wave arc followed by two smaller fading copies stepping away to the right.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "reverb-effect",
+  "category": "playback",
+  "draw": "Speaker inside a room outline with sound wave lines bouncing off the walls.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "distortion-effect",
+  "category": "playback",
+  "draw": "Waveform with its peaks sliced flat at a top and bottom line, like a clipped signal.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "pitch-shift",
+  "category": "playback",
+  "draw": "Music note with a small up arrow and a small down arrow stacked beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "time-stretch",
+  "category": "playback",
+  "draw": "Waveform block with outward pointing arrows at both ends pulling it longer.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "audio-compressor",
+  "category": "playback",
+  "draw": "Tall waveform being squeezed between two horizontal bars with inward arrows.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "audio-fade",
+  "category": "playback",
+  "draw": "Trapezoid shaped volume envelope rising from zero, holding flat, then sloping back down.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "audio-stems",
+  "category": "playback",
+  "draw": "Song waveform splitting into three separate stacked waveform lanes with branching lines.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "sound-effects",
+  "category": "playback",
+  "draw": "Jagged starburst shape with a small waveform in its centre.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "lip-sync",
+  "category": "playback",
+  "draw": "Profile of an open mouth next to a waveform with a small link symbol between them.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "volume-limiter",
+  "category": "playback",
+  "draw": "Speaker with sound waves stopping at a solid vertical ceiling line.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "show-notes",
+  "category": "playback",
+  "draw": "Document page with text lines and a small microphone in the top corner.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "call-in-show",
+  "category": "playback",
+  "draw": "Studio microphone beside a telephone handset with sound waves between them.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "radio-drama",
+  "category": "playback",
+  "draw": "Theatre comedy mask placed in front of a vintage radio with sound waves.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "digital-radio",
+  "category": "playback",
+  "draw": "Compact portable radio with a small rectangular text display, a speaker grille and a short antenna.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "radio-scanner",
+  "category": "playback",
+  "draw": "Handheld receiver with a long rubber antenna, a small screen showing a frequency and a row of keys.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "fm-transmitter",
+  "category": "playback",
+  "draw": "Car socket plug with a small round display head showing a frequency and radio waves from its top.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "broadcast-van",
+  "category": "playback",
+  "draw": "Van seen from the side with a satellite dish raised on its roof.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "razor-tool",
+  "category": "playback",
+  "draw": "Razor blade shape cutting a timeline clip into two with a small gap.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "in-out-points",
+  "category": "playback",
+  "draw": "Horizontal timeline with an opening bracket and a closing bracket marking a highlighted span.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "clip-trim",
+  "category": "playback",
+  "draw": "Film clip block with thick handle brackets at each end and a small arrow pushing one end inward.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "freeze-frame",
+  "category": "playback",
+  "draw": "Film frame with a snowflake in its centre.",
+  "domain": "r2-media-controls"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "digging-fork",
+  "category": "farm",
+  "draw": "Upright garden fork with four straight square tines, a long shaft and a D-shaped handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "draw-hoe",
+  "category": "farm",
+  "draw": "Long handle with a flat rectangular blade set at a right angle at the bottom, like an L.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "stirrup-hoe",
+  "category": "farm",
+  "draw": "Long handle ending in a hinged open metal loop shaped like a stirrup.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hand-fork",
+  "category": "farm",
+  "draw": "Short-handled small fork with three flat tines and a round wooden grip, shown diagonally.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hand-cultivator",
+  "category": "farm",
+  "draw": "Short handle ending in three curved claw-like prongs bent downward.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "pruning-shears",
+  "category": "farm",
+  "draw": "Bypass secateurs with two short curved blades, a spring between two chunky handles, blades open.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "loppers",
+  "category": "farm",
+  "draw": "Long-handled pruners with two long straight handles and a small curved cutting head at the top.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "pruning-saw",
+  "category": "farm",
+  "draw": "Curved pointed saw blade with teeth on the inner edge and a pistol-grip handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "pole-pruner",
+  "category": "farm",
+  "draw": "Very long pole with a hooked cutting blade and a pull cord at the top end.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "grass-shears",
+  "category": "farm",
+  "draw": "Hand shears with two long straight parallel blades and handles angled up from the blades.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "half-moon-edger",
+  "category": "farm",
+  "draw": "Lawn edging tool with a half-moon blade at the bottom of a long T-handled shaft.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "bulb-planter",
+  "category": "farm",
+  "draw": "Hollow tapered metal cylinder with a crossbar handle on top, pressed into soil.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "dibber",
+  "category": "farm",
+  "draw": "Short pointed wooden dibble with a T-shaped handle, tip marked with depth rings.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "soil-sieve",
+  "category": "farm",
+  "draw": "Round garden riddle with a wooden rim and a square mesh base, soil falling below.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "dandelion-weeder",
+  "category": "farm",
+  "draw": "Long thin shaft ending in a forked V-notch tip, with a round handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "scythe",
+  "category": "farm",
+  "draw": "Long curved snath with two small hand grips and a long curved blade at the base.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "sickle",
+  "category": "farm",
+  "draw": "Short wooden handle with a crescent-shaped curved blade.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "billhook",
+  "category": "farm",
+  "draw": "Short wooden handle with a broad blade that curves into a hook at the tip.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "broadfork",
+  "category": "farm",
+  "draw": "Wide U-frame fork with five long vertical tines and two tall side handles.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "wheel-hoe",
+  "category": "farm",
+  "draw": "Single spoked wheel at the front with a hoe blade behind it and two long handles rising back.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "soil-knife",
+  "category": "farm",
+  "draw": "Straight double-edged digging knife with a concave blade marked with depth notches and a wooden grip.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "pruning-knife",
+  "category": "farm",
+  "draw": "Folding knife with a short hooked blade curving down, and a wooden handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "garden-kneeler",
+  "category": "farm",
+  "draw": "Kneeling pad on a low frame with two tall side handles for standing up.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "garden-trug",
+  "category": "farm",
+  "draw": "Shallow oval wooden basket made of curved slats with a high arched handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "leaf-scoops",
+  "category": "farm",
+  "draw": "Pair of wide curved hand scoops with finger slots, facing each other to grab leaves.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "garden-twine",
+  "category": "farm",
+  "draw": "Ball of twine on a spool with a loose end trailing and a small cutter at the side.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hose-reel",
+  "category": "farm",
+  "draw": "Drum of coiled hose on a wheeled frame with a side crank handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hose-nozzle",
+  "category": "farm",
+  "draw": "Pistol-grip spray gun with a trigger and a short nozzle emitting a spray fan.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "backpack-sprayer",
+  "category": "farm",
+  "draw": "Tall flat knapsack tank with shoulder strap, side pump lever and spray lance.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "leaf-blower",
+  "category": "farm",
+  "draw": "Handheld blower body with a top handle and a long straight tube blowing air lines and leaves.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "string-trimmer",
+  "category": "farm",
+  "draw": "Long straight shaft with a mid handle, motor at the top and a small round spinning head with a cord at the bottom.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "rototiller",
+  "category": "farm",
+  "draw": "Engine above a set of spiky rotating tines with two long handlebars angled back.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "lawn-aerator",
+  "category": "farm",
+  "draw": "Push roller covered in short spikes with a long handle, small holes in the grass behind.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "lawn-roller",
+  "category": "farm",
+  "draw": "Wide smooth cylindrical drum roller with a long U-shaped pull handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "lawn-spreader",
+  "category": "farm",
+  "draw": "Open hopper on two wheels with a push handle and seed granules scattering beneath.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "riding-mower",
+  "category": "farm",
+  "draw": "Small lawn tractor from the side with a seat, steering wheel and a mower deck under the body.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "wood-chipper",
+  "category": "farm",
+  "draw": "Wheeled chipper with a wide funnel intake on one side and a curved discharge chute on top.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "raised-bed",
+  "category": "farm",
+  "draw": "Rectangular wooden planter box of stacked planks with small plants sprouting in a row.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "cold-frame",
+  "category": "farm",
+  "draw": "Low wooden box with a sloping glass lid propped open by a stick.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "propagator",
+  "category": "farm",
+  "draw": "Seed tray with a clear domed lid and a small vent on top, seedlings inside.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "potting-bench",
+  "category": "farm",
+  "draw": "Workbench with a back shelf holding pots and a bag of soil on its top.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "potting-soil",
+  "category": "farm",
+  "draw": "Tall soft bag of compost with a folded top and a leaf symbol, soil spilling at the base.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "tomato-cage",
+  "category": "farm",
+  "draw": "Cone of stacked metal rings held by vertical legs around a leafy plant.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "bean-poles",
+  "category": "farm",
+  "draw": "Tall teepee of three or four poles tied at the top with vines climbing up.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "garden-trellis",
+  "category": "farm",
+  "draw": "Diagonal lattice panel with a vine and leaves climbing across it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "garden-shed",
+  "category": "farm",
+  "draw": "Small wooden shed with a pitched roof, plank door and a small side window.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "compost-tumbler",
+  "category": "farm",
+  "draw": "Barrel drum mounted horizontally on an A-frame stand with a hatch and turning handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "rain-barrel",
+  "category": "farm",
+  "draw": "Water butt barrel with a downpipe feeding its lid and a small tap near the base.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "drip-irrigation",
+  "category": "farm",
+  "draw": "Thin tube running along the soil with small emitters dripping drops at the base of plants.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hedge-maze",
+  "category": "farm",
+  "draw": "Square maze of thick hedge walls seen from above with a path to the center.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "stepping-stones",
+  "category": "farm",
+  "draw": "Trail of irregular flat stones laid in a curving line across grass.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "bug-hotel",
+  "category": "farm",
+  "draw": "Wooden house frame filled with stacked hollow canes, logs and pine cones.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "fruit-cage",
+  "category": "farm",
+  "draw": "Tall rectangular frame covered in netting over bushes with berries.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "plant-nursery",
+  "category": "farm",
+  "draw": "Rows of small potted saplings in trays under a simple shade canopy.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "staked-tree",
+  "category": "farm",
+  "draw": "Young thin tree tied to a straight wooden stake with a loop tie.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "tree-guard",
+  "category": "farm",
+  "draw": "Spiral plastic guard wrapped around the base of a young tree trunk.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "polytunnel",
+  "category": "farm",
+  "draw": "Long half-cylinder hoop house covered in plastic with ribs and an end door.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "vertical-farm",
+  "category": "farm",
+  "draw": "Tall shelving rack with three tiers of plant trays and grow light bars above each.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "aquaponics",
+  "category": "farm",
+  "draw": "Fish tank below a plant grow bed with an arrow showing water cycling between them.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "center-pivot-irrigation",
+  "category": "farm",
+  "draw": "Long trussed pipe span on wheeled A-frame towers spraying water over a field.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "irrigation-canal",
+  "category": "farm",
+  "draw": "Straight concrete channel of water running between two rows of crops, in perspective.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "sluice-gate",
+  "category": "farm",
+  "draw": "Metal gate plate with a screw wheel on top raised above a channel of flowing water.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hand-water-pump",
+  "category": "farm",
+  "draw": "Cast-iron farm hand pump with a curved lever handle and a spout pouring water.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "windpump",
+  "category": "farm",
+  "draw": "Farm wind pump with a many-bladed fan wheel and tail vane on a tall lattice tower.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "shaduf",
+  "category": "farm",
+  "draw": "Pivoting pole on an upright post with a counterweight at one end and a bucket at the other over water.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "water-wheel",
+  "category": "farm",
+  "draw": "Large spoked wheel with paddles turning in a stream beside a wall.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "watermill",
+  "category": "farm",
+  "draw": "Mill building with a large paddle water wheel on its side and water flowing beneath.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "rain-gauge",
+  "category": "farm",
+  "draw": "Clear tube with measurement marks, a funnel top and water filled partway.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "soil-moisture-sensor",
+  "category": "farm",
+  "draw": "Two-pronged probe stuck into soil with a small display and a water drop.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "rice-paddy",
+  "category": "farm",
+  "draw": "Flooded field with rows of small rice shoots standing in rippled water.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "silo",
+  "category": "farm",
+  "draw": "Tall cylindrical tower silo with a domed top and a ladder beside a small barn roof.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "grain-bin",
+  "category": "farm",
+  "draw": "Squat corrugated round bin with a shallow conical roof and a vent cap.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "grain-elevator",
+  "category": "farm",
+  "draw": "Tall boxy concrete elevator with a taller headhouse and a railway line at its base.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "feed-bin",
+  "category": "farm",
+  "draw": "Hopper silo on four legs with a cone-shaped bottom and an auger pipe.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "farmhouse",
+  "category": "farm",
+  "draw": "Two-storey farmhouse with a gabled roof, chimney and a porch across the front.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "farmstead",
+  "category": "farm",
+  "draw": "Farm scene with a barn, a tall silo and a small house side by side on a ground line.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "corn-crib",
+  "category": "farm",
+  "draw": "Narrow slatted crib on stilts with a peaked roof and corn cobs visible through the gaps.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "granary",
+  "category": "farm",
+  "draw": "Small wooden grain store raised on mushroom-shaped staddle stones with a steep roof.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "root-cellar",
+  "category": "farm",
+  "draw": "Mound of earth with grass on top and a wooden door set into its front.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "smokehouse",
+  "category": "farm",
+  "draw": "Small narrow wooden shed with a vented roof and smoke curling from the top.",
+  "domain": "garden-farm-agriculture"
+ }
+]

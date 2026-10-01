@@ -1,0 +1,482 @@
+[
+ {
+  "name": "folding-shovel",
+  "category": "outdoors",
+  "draw": "Compact shovel with a pointed blade, short shaft and a D-shaped handle, blade hinged.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "solar-shower",
+  "category": "outdoors",
+  "draw": "Hanging water bag with a hose and a small shower head, sun above it.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "canopy-tent",
+  "category": "outdoors",
+  "draw": "Pop-up canopy with a square peaked roof on four straight legs and a scalloped edge.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "rv-hookup",
+  "category": "outdoors",
+  "draw": "Utility post with an electric socket, a water tap and a hose connected.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "frame-backpack",
+  "category": "outdoors",
+  "draw": "Hiking pack attached to an exposed external metal frame, frame bars visible above and below.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "head-net",
+  "category": "outdoors",
+  "draw": "Hat with a mesh net hanging down around the face and neck.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "survival-kit",
+  "category": "outdoors",
+  "draw": "Small tin box with its lid open showing a match, a hook and a bandage.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "portable-solar-panel",
+  "category": "outdoors",
+  "draw": "Folding solar panel with three hinged sections and a cable to a phone.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "crank-radio",
+  "category": "outdoors",
+  "draw": "Compact radio with a speaker grille, antenna and a fold-out hand crank on the side.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "bear-hang",
+  "category": "outdoors",
+  "draw": "Food bag hanging on a rope from a high tree branch, well above the ground.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "chopping-stump",
+  "category": "outdoors",
+  "draw": "Tree stump with an axe embedded in its top and a split log beside it.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "bow-drill",
+  "category": "outdoors",
+  "draw": "Bow with its string wrapped around an upright spindle on a fireboard, smoke rising.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "hiking-boot",
+  "category": "outdoors",
+  "draw": "Ankle-high boot with a thick lugged sole, lace hooks and a padded collar.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "trekking-poles",
+  "category": "outdoors",
+  "draw": "Two adjustable poles crossed, each with a strap grip at the top and a basket near the tip.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "gaiters",
+  "category": "outdoors",
+  "draw": "Fabric leg cover wrapping the lower leg over a boot with a strap under the sole.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "handheld-gps",
+  "category": "outdoors",
+  "draw": "Rugged handheld device with a stubby antenna on top and a map screen with a route line.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "ranger-hat",
+  "category": "outdoors",
+  "draw": "Flat-brimmed campaign hat with four dents pinching the crown and a hat band.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "park-entrance",
+  "category": "outdoors",
+  "draw": "Rustic log archway with a hanging sign board between two upright posts.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fire-danger-sign",
+  "category": "outdoors",
+  "draw": "Semicircular gauge sign with a pointer and bands running from low to extreme.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "interpretive-sign",
+  "category": "outdoors",
+  "draw": "Angled reading panel on a single post showing a picture of a leaf and lines of text.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "bear-box",
+  "category": "outdoors",
+  "draw": "Metal food storage locker with a heavy latched lid and a bear symbol.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "canoe-portage",
+  "category": "outdoors",
+  "draw": "Person walking while carrying an overturned canoe on their shoulders above the head.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "boat-ramp",
+  "category": "outdoors",
+  "draw": "Concrete slope running into water with a boat trailer backing down it.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "field-guide",
+  "category": "outdoors",
+  "draw": "Small book with a leaf and a bird outline on the cover.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "slackline",
+  "category": "outdoors",
+  "draw": "Flat webbing line stretched taut between two trees with a person balancing on it.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "cornhole-board",
+  "category": "outdoors",
+  "draw": "Slanted board with a round hole near the top and a small bean bag beside it.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "quickdraw",
+  "category": "outdoors",
+  "draw": "Two carabiners joined by a short stitched sling, one straight gate and one bent gate.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "belay-device",
+  "category": "outdoors",
+  "draw": "Tube style belay device with two slots and a rope threaded through clipped to a carabiner.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "climbing-harness",
+  "category": "outdoors",
+  "draw": "Waist belt with two leg loops and a front belay loop, gear loops on the sides.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "chalk-bag",
+  "category": "outdoors",
+  "draw": "Cylindrical pouch with a drawstring opening, a brush loop and a waist belt.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "climbing-shoe",
+  "category": "outdoors",
+  "draw": "Tight downturned shoe with a pointed toe, smooth rubber sole and a hook-and-loop strap.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "ice-axe",
+  "category": "outdoors",
+  "draw": "Mountaineering axe with a straight shaft, a curved pick on one side and an adze on the other.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "crampons",
+  "category": "outdoors",
+  "draw": "Metal frame with sharp downward spikes and two front points, strapped under a boot.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "piton",
+  "category": "outdoors",
+  "draw": "Flat metal spike with an eye hole at one end, hammered into a rock crack.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "climbing-cam",
+  "category": "outdoors",
+  "draw": "Spring-loaded camming device with curved lobes, a trigger bar and a sling.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "rappelling",
+  "category": "outdoors",
+  "draw": "Person leaning back against a cliff face while descending a rope.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "crash-pad",
+  "category": "outdoors",
+  "draw": "Thick folded foam mat with carry straps lying at the base of a boulder.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "climbing-hold",
+  "category": "outdoors",
+  "draw": "Irregular resin hold bolted to a wall panel with a round bolt head.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "hangboard",
+  "category": "outdoors",
+  "draw": "Wooden board mounted above a doorway with pockets and edges to grip.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "snowshoes",
+  "category": "outdoors",
+  "draw": "Pair of oval snowshoes with laced webbing, bindings and crampon teeth.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "avalanche-beacon",
+  "category": "outdoors",
+  "draw": "Handheld transceiver with a display, arrows and signal waves radiating from it.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "base-camp",
+  "category": "outdoors",
+  "draw": "Cluster of small dome tents at the foot of a snowy mountain peak.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "figure-eight-knot",
+  "category": "outdoors",
+  "draw": "Rope tied in a figure-eight knot with two loops crossing.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "reef-knot",
+  "category": "outdoors",
+  "draw": "Two rope ends interlocked in a flat square knot.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "ski-pass",
+  "category": "outdoors",
+  "draw": "Plastic card with a skier symbol hanging from a lanyard clip.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "ski-boot",
+  "category": "outdoors",
+  "draw": "Tall rigid boot with four buckles along the shell and a flat sole.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "skis",
+  "category": "outdoors",
+  "draw": "Pair of long skis crossed in an X with two poles.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fishing-reel",
+  "category": "outdoors",
+  "draw": "Spinning reel with a wound spool, a folding handle and a bail arm on a foot mount.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fishing-hook",
+  "category": "outdoors",
+  "draw": "J-shaped hook with a barbed point and an eye at the top.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fishing-lure",
+  "category": "outdoors",
+  "draw": "Fish-shaped crankbait with a lip at the front and two treble hooks hanging below.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fishing-fly",
+  "category": "outdoors",
+  "draw": "Tiny fly lure with feather hackle, a tail and a hook curling beneath.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fishing-bobber",
+  "category": "outdoors",
+  "draw": "Round float divided into two halves with a stem on top, sitting on water ripples.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "landing-net",
+  "category": "outdoors",
+  "draw": "Hoop net with a long handle and a deep mesh bag hanging down.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "tackle-box",
+  "category": "outdoors",
+  "draw": "Box with lid open showing cantilevered trays of small compartments.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fishing-sinker",
+  "category": "outdoors",
+  "draw": "Teardrop lead weight with a small loop at the top tied to a line.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "bait-bucket",
+  "category": "outdoors",
+  "draw": "Bucket with a vented lid, a handle and small fish visible through side slots.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fishing-vest",
+  "category": "outdoors",
+  "draw": "Sleeveless vest covered in many small pockets with a fly patch on the chest.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fishing-creel",
+  "category": "outdoors",
+  "draw": "Wicker basket with a lid slot and a shoulder strap, a fish tail poking out.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fish-on-hook",
+  "category": "outdoors",
+  "draw": "Fish dangling vertically from a line with a hook in its mouth.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "fly-fishing",
+  "category": "outdoors",
+  "draw": "Angler standing in water casting a line that loops in a large S curve overhead.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "rowboat",
+  "category": "outdoors",
+  "draw": "Small wooden boat with two oars resting in oarlocks, seen from the side.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "canoe-paddle",
+  "category": "outdoors",
+  "draw": "Single paddle with a T-grip at the top and one wide rounded blade.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "kayak-paddle",
+  "category": "outdoors",
+  "draw": "Long shaft with an angled blade at each end.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "cast-net",
+  "category": "outdoors",
+  "draw": "Round fishing net spreading open in the air with weights along its edge.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "ice-fishing",
+  "category": "outdoors",
+  "draw": "Round hole cut in ice with a short rod and line dropping into dark water.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "ice-auger",
+  "category": "outdoors",
+  "draw": "Hand ice drill with a crank handle and a spiral blade boring into ice.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "dry-bag",
+  "category": "outdoors",
+  "draw": "Roll-top waterproof bag with its folded top clipped by a buckle.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "river-tubing",
+  "category": "outdoors",
+  "draw": "Inner tube floating on a river current with a person sitting in the ring.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "bungee-jumping",
+  "category": "outdoors",
+  "draw": "Person falling head-first from a platform attached by a stretched coiled cord.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "passport-stamp",
+  "category": "outdoors",
+  "draw": "Round ink stamp mark with a double border, a small plane in the middle and a smudged edge.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "vintage-suitcase",
+  "category": "outdoors",
+  "draw": "Boxy leather suitcase with two buckled straps, a top handle and round travel stickers on its side.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "bag-sizer",
+  "category": "outdoors",
+  "draw": "Open metal frame cage with a small suitcase fitting inside it to check cabin bag size.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "wrapped-luggage",
+  "category": "outdoors",
+  "draw": "Suitcase wrapped in diagonal bands of plastic film with the handle poking out the top.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "key-safe",
+  "category": "outdoors",
+  "draw": "Small wall-mounted box with a push-button keypad on the front and a key hanging below its open flap.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "swim-up-bar",
+  "category": "outdoors",
+  "draw": "Bar counter with round stools standing in pool water, wave lines across the stool legs.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "sky-lantern",
+  "category": "outdoors",
+  "draw": "Tall paper lantern floating upward with a small flame glowing at its open base.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "face-in-hole-board",
+  "category": "outdoors",
+  "draw": "Upright painted board with a cartoon body outline and an oval cutout where a face goes, on two legs.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "banana-boat",
+  "category": "outdoors",
+  "draw": "Long inflatable tube with riders sitting in a row, towed by a rope.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "caving",
+  "category": "outdoors",
+  "draw": "Person crawling through a low cave passage with a helmet lamp beam shining ahead.",
+  "domain": "travel-hospitality-outdoors"
+ },
+ {
+  "name": "sandboarding",
+  "category": "outdoors",
+  "draw": "Person riding a board down the slope of a sand dune with a spray of sand behind.",
+  "domain": "travel-hospitality-outdoors"
+ }
+]

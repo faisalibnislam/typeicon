@@ -1,0 +1,482 @@
+[
+ {
+  "name": "ransomware",
+  "category": "privacy",
+  "draw": "Document outline with a large padlock over its lower half and a coin with a slash dropping beside it, showing files held for payment.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "phishing",
+  "category": "privacy",
+  "draw": "Envelope with a fishing hook and a short line hanging from its top edge, the hook's point curling below the flap.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "computer-worm",
+  "category": "privacy",
+  "draw": "Monitor outline with a segmented worm crawling out of the screen, its round head and three body segments arching over the bezel.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "keylogger",
+  "category": "privacy",
+  "draw": "Keyboard seen from above with three rows of keys and a small open eye sitting above its top right corner.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "botnet",
+  "category": "privacy",
+  "draw": "Four small robot heads with antennas at the corners linked by lines to a central laptop, forming a hub network.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "brute-force-attack",
+  "category": "privacy",
+  "draw": "Sledgehammer swinging down onto a padlock, with three short impact lines at the point of contact.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "sql-injection",
+  "category": "privacy",
+  "draw": "Database cylinder with a syringe entering its side at an angle, plunger on the outside.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "zero-day",
+  "category": "privacy",
+  "draw": "Calendar page with a large zero on its face and a small bug crawling on the bottom right corner.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "backdoor",
+  "category": "privacy",
+  "draw": "Server tower with a small open door drawn in its lower back corner, the door swung outward.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "honeypot-trap",
+  "category": "privacy",
+  "draw": "Rounded honey pot with a drip over its rim sitting on a circuit line with two network nodes feeding into it.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "air-gap",
+  "category": "privacy",
+  "draw": "Two monitors side by side with a broken cable between them, the cable ends separated by a clear gap.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "vulnerability",
+  "category": "privacy",
+  "draw": "Shield outline with a jagged crack running from its top edge down through the center.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "security-patch",
+  "category": "privacy",
+  "draw": "Shield outline with a crossed adhesive bandage stuck diagonally across its center.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "penetration-test",
+  "category": "privacy",
+  "draw": "Shield outline with a straight arrow piercing through it from upper left, the arrowhead emerging lower right.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "threat-radar",
+  "category": "privacy",
+  "draw": "Circular radar screen with sweep line and concentric rings, a small bug icon sitting on one ring as a blip.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "threat-hunting",
+  "category": "privacy",
+  "draw": "Magnifying glass whose lens contains a crosshair centered on a small bug.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "bug-bounty",
+  "category": "privacy",
+  "draw": "Small beetle-shaped bug on top of a stack of two coins, with a sparkle at the upper right.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "man-in-the-middle",
+  "category": "privacy",
+  "draw": "Two laptops at left and right connected by a line that passes through a hooded figure's head in the middle.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "email-spoofing",
+  "category": "privacy",
+  "draw": "Envelope with a half face mask held over its front, the mask's eye holes visible.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "malicious-usb",
+  "category": "privacy",
+  "draw": "USB flash drive with its connector at the top and a small skull drawn on the body.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "juice-jacking",
+  "category": "privacy",
+  "draw": "Public charging port box on a wall with a cable plugged in and a small skull on the port face.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "data-breach",
+  "category": "privacy",
+  "draw": "Database cylinder split by a jagged crack with a few binary digits spilling out of the gap.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "data-exfiltration",
+  "category": "privacy",
+  "draw": "Database cylinder behind a brick wall line with a curved arrow carrying a document up and over the wall.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "privilege-escalation",
+  "category": "privacy",
+  "draw": "Simple user silhouette standing on the top step of a three-step staircase holding a key raised.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "packet-sniffer",
+  "category": "privacy",
+  "draw": "Horizontal network line carrying three small envelope packets, with a magnifying glass hovering over the middle packet.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "session-hijacking",
+  "category": "privacy",
+  "draw": "Round browser cookie with bite marks being grabbed by a claw-shaped hand from above.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "blocklist",
+  "category": "privacy",
+  "draw": "Vertical list of three rows, each row starting with a small circle-slash prohibition symbol.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "ad-blocker",
+  "category": "privacy",
+  "draw": "Browser window with a rectangular ad banner inside, and a raised hand stop sign overlapping the banner.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "onion-routing",
+  "category": "privacy",
+  "draw": "Onion bulb cut in half showing concentric layers, with a small arrow path zigzagging through the layers.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "dictionary-attack",
+  "category": "privacy",
+  "draw": "Open thick book with a key emerging from its pages and three short speed lines trailing the key.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "hardware-security-module",
+  "category": "privacy",
+  "draw": "Rack-mounted flat box with status lights on its front face and a large key symbol in the middle.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "passkey",
+  "category": "privacy",
+  "draw": "Head and shoulders user silhouette with a small key overlapping its lower right, key teeth pointing down.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "magic-link",
+  "category": "privacy",
+  "draw": "Envelope with a chain link symbol on its front and a small four-point sparkle at the corner.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "password-generator",
+  "category": "privacy",
+  "draw": "Six-sided die in perspective with an asterisk on its top face and a curved arrow of motion beside it.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "voice-id",
+  "category": "privacy",
+  "draw": "Sound waveform of vertical bars framed by four corner scan brackets.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "palm-scan",
+  "category": "privacy",
+  "draw": "Open palm facing the viewer with a horizontal scanning line across it and corner scan brackets.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "hardware-security-key",
+  "category": "privacy",
+  "draw": "USB security key seen from above: slim rectangular body with a metal connector at one end, a round touch button in the middle and a keyring hole at the other end.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "backup-codes",
+  "category": "privacy",
+  "draw": "Card or sheet with two columns of short dashed code groups and a small key symbol at the top corner.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "security-token-fob",
+  "category": "privacy",
+  "draw": "Keychain token with a small LCD window showing six digits, a keyring loop at its top end.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "push-authentication",
+  "category": "privacy",
+  "draw": "Smartphone showing a notification card with two buttons side by side, a check on the left and an X on the right.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "access-key-fob",
+  "category": "privacy",
+  "draw": "Teardrop-shaped plastic key fob with a ring hole at the narrow end and three contactless wave arcs on its face.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "biometric-padlock",
+  "category": "privacy",
+  "draw": "Padlock with a fingerprint whorl drawn on its body in place of a keyhole.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "fingerprint-terminal",
+  "category": "privacy",
+  "draw": "Wall-mounted rectangular reader with a small screen at the top and a fingerprint pad below it.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "access-card-reader",
+  "category": "privacy",
+  "draw": "Wall-mounted card reader box with an access card held against its front and contactless wave arcs between them.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "identity-verification",
+  "category": "privacy",
+  "draw": "ID card on the left and a face with corner scan brackets on the right joined by a small check mark between them.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "id-card-scan",
+  "category": "privacy",
+  "draw": "Smartphone held sideways with its camera frame brackets enclosing an ID card with photo and lines.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "age-verification",
+  "category": "privacy",
+  "draw": "ID card with a photo box and a large 18 plus in the text area.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "account-recovery",
+  "category": "privacy",
+  "draw": "User silhouette inside a life ring buoy with four stripe bands.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "key-switch",
+  "category": "privacy",
+  "draw": "Round panel switch with a key inserted in its center slot and two position marks around it.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "door-release-button",
+  "category": "privacy",
+  "draw": "Square wall plate with a large round push button and a small exit door symbol above it.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "full-height-turnstile",
+  "category": "privacy",
+  "draw": "Tall revolving cage turnstile seen from the front: vertical central post with horizontal bars fanning out between two fixed side grilles.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "cipher-wheel",
+  "category": "privacy",
+  "draw": "Two concentric rotating rings with small letter tick marks around each, the inner ring offset slightly, and a pin in the center.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "rotor-cipher-machine",
+  "category": "privacy",
+  "draw": "Boxy cipher machine seen at an angle with three toothed rotor wheels on top and a small keyboard of keys at the front.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "scytale",
+  "category": "privacy",
+  "draw": "Short wooden rod with a narrow paper strip wound diagonally around it in a spiral, letters marked as dots along the strip.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "key-exchange",
+  "category": "privacy",
+  "draw": "Two keys facing each other horizontally with a pair of opposed curved arrows swapping between them.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "end-to-end-encryption",
+  "category": "privacy",
+  "draw": "Two chat bubbles at opposite ends joined by a straight line with a small padlock at its center.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "certificate-chain",
+  "category": "privacy",
+  "draw": "Three small certificate cards with ribbon seals stacked diagonally and linked by two short chain links.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "invisible-ink",
+  "category": "privacy",
+  "draw": "Sheet of paper with dotted faint lines of writing and a small flame or lamp beneath one corner revealing solid text.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "steganography",
+  "category": "privacy",
+  "draw": "Picture frame with mountains and sun and a magnifying glass over one corner revealing tiny text lines inside.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "one-time-pad",
+  "category": "privacy",
+  "draw": "Tear-off notepad with a torn top edge and rows of short five-digit groups drawn as dashes.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "split-key",
+  "category": "privacy",
+  "draw": "Key broken into three separate pieces laid in a row with small gaps between them.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "face-blur",
+  "category": "privacy",
+  "draw": "Head outline with the face area filled by a checker of square pixels in two tones.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "redacted-document",
+  "category": "privacy",
+  "draw": "Document page with several text lines, two of them replaced by solid black bars.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "data-masking",
+  "category": "privacy",
+  "draw": "Input field showing four asterisks followed by four plain characters, like a partially hidden card number.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "privacy-screen",
+  "category": "privacy",
+  "draw": "Laptop seen at an angle with vertical louver lines over its screen and a sight line blocked at the side.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "webcam-cover",
+  "category": "privacy",
+  "draw": "Top edge of a laptop screen with a small slider cover half closed over the round webcam lens.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "faraday-pouch",
+  "category": "privacy",
+  "draw": "Phone sliding into a fold-over pouch with a signal symbol above it crossed by a slash.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "signal-jammer",
+  "category": "privacy",
+  "draw": "Small box with four antennas sticking up from its top and zigzag lines radiating from them.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "rfid-blocking-wallet",
+  "category": "privacy",
+  "draw": "Bifold wallet with a card peeking out and contactless wave arcs stopped by a small shield on the wallet front.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "tracking-cookie",
+  "category": "privacy",
+  "draw": "Round cookie with chocolate chips and a small open eye in its center.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "location-tracking",
+  "category": "privacy",
+  "draw": "Map pin marker with an eye drawn inside its round head and a dotted trail line behind it.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "app-permissions",
+  "category": "privacy",
+  "draw": "Dialog box with a small camera icon at the top and two buttons below, one wide and one narrow.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "data-protection",
+  "category": "privacy",
+  "draw": "Database cylinder with a shield overlapping its front, the shield centered.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "digital-footprint",
+  "category": "privacy",
+  "draw": "Footprint shape made of small square pixels, with a few pixels trailing off the heel.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "data-erasure",
+  "category": "privacy",
+  "draw": "User silhouette with its lower half being wiped away by a rectangular eraser, crumbs falling.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "disappearing-message",
+  "category": "privacy",
+  "draw": "Chat bubble whose right side dissolves into scattered dots, with a small stopwatch at its corner.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "drive-destruction",
+  "category": "privacy",
+  "draw": "Hard drive with a hammer striking its top and a crack running across the platter.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "secure-shredding-bin",
+  "category": "privacy",
+  "draw": "Tall locked wheelie bin with a narrow document slot in its lid and a small padlock on the front.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "parental-control",
+  "category": "privacy",
+  "draw": "Small child figure standing in front of a larger shield outline, the shield behind the child.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "item-tracker-tag",
+  "category": "privacy",
+  "draw": "Small rounded square tag attached to a keyring with two keys, with signal arcs above the tag.",
+  "domain": "security-and-identity"
+ }
+]

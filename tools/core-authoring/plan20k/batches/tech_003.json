@@ -1,0 +1,482 @@
+[
+ {
+  "name": "system-snapshot",
+  "category": "tech",
+  "draw": "Server box inside camera viewfinder corners.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "raid-array",
+  "category": "tech",
+  "draw": "Four hard drive boxes in a row joined by a bracket above.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "storage-array",
+  "category": "tech",
+  "draw": "Tall cabinet with rows of drive slots and status lights.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "block-storage",
+  "category": "tech",
+  "draw": "Three flat blocks stacked and joined edge to edge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "tape-backup",
+  "category": "tech",
+  "draw": "Rectangular tape cartridge with two reel holes and a label.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "system-monitor",
+  "category": "tech",
+  "draw": "Window with three small vertical bar meters.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "process-tree",
+  "category": "tech",
+  "draw": "Gear at the top with lines branching down to three smaller gears.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "execution-thread",
+  "category": "tech",
+  "draw": "Sewing needle trailing a long wavy thread through three dots.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "multithreading",
+  "category": "tech",
+  "draw": "Three parallel wavy threads running side by side with arrow tips.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "mutex",
+  "category": "tech",
+  "draw": "Padlock sitting on a single wavy thread line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "deadlock",
+  "category": "tech",
+  "draw": "Two arrows chasing each other in a circle, each blocked by a padlock.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "race-condition",
+  "category": "tech",
+  "draw": "Two arrows racing toward one box with a finish flag above it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "memory-leak",
+  "category": "tech",
+  "draw": "RAM stick with drops dripping from its bottom edge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "heap-memory",
+  "category": "tech",
+  "draw": "Pile of uneven stacked blocks.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "event-loop",
+  "category": "tech",
+  "draw": "Circular arrow with small task squares riding around it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "stack-trace",
+  "category": "tech",
+  "draw": "List of indented lines with an arrow pointing to the top line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "exception-error",
+  "category": "tech",
+  "draw": "Curly braces around an exclamation mark.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "syntax-error",
+  "category": "tech",
+  "draw": "Code line with a wavy underline beneath one word.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "compile-error",
+  "category": "tech",
+  "draw": "Gear with a broken code bracket in front of it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "null-pointer",
+  "category": "tech",
+  "draw": "Arrow pointing into an empty dashed circle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "infinite-loop",
+  "category": "tech",
+  "draw": "Circular arrow with an infinity mark inside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "recursion",
+  "category": "tech",
+  "draw": "Nested squares shrinking toward the center with a curved arrow.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "conditional-branch",
+  "category": "tech",
+  "draw": "Diamond with two lines exiting, one ending in a check and one in a cross.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "switch-case",
+  "category": "tech",
+  "draw": "Single line splitting into three parallel lines like a railway switch.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "boolean-type",
+  "category": "tech",
+  "draw": "Pill shape split in half with a check on one side and a cross on the other.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "string-type",
+  "category": "tech",
+  "draw": "Quotation marks around the letters abc.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "integer-type",
+  "category": "tech",
+  "draw": "Hash sign beside the digits 123.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "linked-list",
+  "category": "tech",
+  "draw": "Three boxes in a row joined by arrows from a dot in each box.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hash-map",
+  "category": "tech",
+  "draw": "Two columns of cells with arrows from the left cells to the right cells.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hash-function",
+  "category": "tech",
+  "draw": "Hash sign with an arrow turning a long line into a short block.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sorting-algorithm",
+  "category": "tech",
+  "draw": "Bars of increasing height with a swap arrow arcing over two of them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "tree-traversal",
+  "category": "tech",
+  "draw": "Small tree of nodes with a dotted path winding around it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "trie-structure",
+  "category": "tech",
+  "draw": "Root dot with branches ending in small letters.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "big-o-notation",
+  "category": "tech",
+  "draw": "Capital O followed by parentheses with a small n inside.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "pointer-reference",
+  "category": "tech",
+  "draw": "Ampersand with an arrow extending from it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "class-object",
+  "category": "tech",
+  "draw": "Box divided into three stacked sections under a title bar.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "inheritance",
+  "category": "tech",
+  "draw": "Two boxes with a hollow triangle arrow pointing from the lower box to the upper one.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-interface",
+  "category": "tech",
+  "draw": "Circle on a stick connected to a class box, the lollipop notation.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-module",
+  "category": "tech",
+  "draw": "Cube with angle code brackets on its front face.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "namespace",
+  "category": "tech",
+  "draw": "Folder shape with curly braces on its tab.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "import-statement",
+  "category": "tech",
+  "draw": "Box with an arrow entering it and code brackets above.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "enum-type",
+  "category": "tech",
+  "draw": "Short numbered list of three items inside curly braces.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "constant-value",
+  "category": "tech",
+  "draw": "Padlock with a pi sign on its body.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "generic-type",
+  "category": "tech",
+  "draw": "Angle brackets around a capital letter T.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "type-annotation",
+  "category": "tech",
+  "draw": "Colon followed by a capital letter T in a box.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "iterator",
+  "category": "tech",
+  "draw": "Arrow stepping through a row of dots one by one.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-decorator",
+  "category": "tech",
+  "draw": "At sign sitting on top of function parentheses.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "async-await",
+  "category": "tech",
+  "draw": "Hourglass beside a forward arrow.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-comment",
+  "category": "tech",
+  "draw": "Two slashes followed by a speech bubble.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "todo-comment",
+  "category": "tech",
+  "draw": "Code line with a small empty check box before it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "autocomplete",
+  "category": "tech",
+  "draw": "Text cursor with a dropdown list of three suggestions below.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-formatter",
+  "category": "tech",
+  "draw": "Messy lines on the left becoming neat indented lines on the right, with a wand between.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "linter",
+  "category": "tech",
+  "draw": "Lint roller rolling over code lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "refactor",
+  "category": "tech",
+  "draw": "Code brackets with a circular arrow around them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "minify",
+  "category": "tech",
+  "draw": "Code page with inward arrows squeezing it from both sides.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "compiler",
+  "category": "tech",
+  "draw": "Code page entering a gear and coming out as ones and zeros.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-interpreter",
+  "category": "tech",
+  "draw": "Code brackets with a speech bubble beside them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "transpiler",
+  "category": "tech",
+  "draw": "Two code pages with a swap arrow between them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "bundler",
+  "category": "tech",
+  "draw": "Several small files tied together with a string into one bundle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "dependency-tree",
+  "category": "tech",
+  "draw": "Box at top with lines to two boxes and one more box below them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "plugin-socket",
+  "category": "tech",
+  "draw": "Wall socket with a puzzle piece plugged into it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hot-reload",
+  "category": "tech",
+  "draw": "Flame beside a circular refresh arrow.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "repl-prompt",
+  "category": "tech",
+  "draw": "Three chevrons followed by a cursor inside a window.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "notebook-cell",
+  "category": "tech",
+  "draw": "Page with two stacked cells, each with a small play button on its left.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "inspect-element",
+  "category": "tech",
+  "draw": "Cursor arrow clicking on a dashed box with angle brackets.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "watch-expression",
+  "category": "tech",
+  "draw": "Eye above code brackets.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "profiler",
+  "category": "tech",
+  "draw": "Stopwatch with code brackets on its face.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "performance-trace",
+  "category": "tech",
+  "draw": "Timeline with bars of varied length and a small stopwatch.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "rubber-duck-debugging",
+  "category": "tech",
+  "draw": "Rubber duck sitting beside a small bug.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "technical-debt",
+  "category": "tech",
+  "draw": "Code bracket chained to a heavy ball.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-smell",
+  "category": "tech",
+  "draw": "Code brackets with wavy stink lines rising above.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "pair-programming",
+  "category": "tech",
+  "draw": "Two person heads sharing one laptop.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hackathon",
+  "category": "tech",
+  "draw": "Laptop with a flame and a stopwatch.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-contributor",
+  "category": "tech",
+  "draw": "Person head with a small commit dot badge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "feature-request",
+  "category": "tech",
+  "draw": "Speech bubble with a lightbulb and a plus sign.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "user-story",
+  "category": "tech",
+  "draw": "Index card with a person head and three text lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "story-points",
+  "category": "tech",
+  "draw": "Playing card with a number in the corner and a dot pattern.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "burndown-chart",
+  "category": "tech",
+  "draw": "Line graph dropping from top left to bottom right with a flame at the start.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "velocity-chart",
+  "category": "tech",
+  "draw": "Bar chart with speed lines trailing the tallest bar.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "waterfall-methodology",
+  "category": "tech",
+  "draw": "Five step boxes cascading down and to the right joined by arrows.",
+  "domain": "dev-cloud-ai"
+ }
+]

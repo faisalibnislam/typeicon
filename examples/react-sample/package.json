@@ -1,0 +1,22 @@
+{
+  "name": "@typeicon/example-react-sample",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "build": "esbuild src/main.tsx --bundle --minify --format=esm --target=es2022 --jsx=automatic --define:process.env.NODE_ENV='\"production\"' --outfile=dist/app.js",
+    "build:icons-only": "esbuild src/main.tsx --bundle --minify --format=esm --target=es2022 --jsx=automatic --external:react --external:react-dom --define:process.env.NODE_ENV='\"production\"' --outfile=dist/icons-only.js"
+  },
+  "dependencies": {
+    "@typeicon/react": "workspace:*",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "esbuild": "0.28.2",
+    "typescript": "5.9.3"
+  }
+}

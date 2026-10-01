@@ -1,0 +1,482 @@
+[
+ {
+  "name": "voice-message",
+  "category": "messaging",
+  "draw": "Rounded speech bubble containing a short row of vertical audio waveform bars.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "video-message",
+  "category": "messaging",
+  "draw": "Rounded speech bubble containing a small play triangle.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "photo-message",
+  "category": "messaging",
+  "draw": "Rounded speech bubble containing a tiny picture of a mountain and a sun.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "shared-contact",
+  "category": "messaging",
+  "draw": "Speech bubble with a small head-and-shoulders silhouette inside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "group-chat",
+  "category": "messaging",
+  "draw": "Large speech bubble with three small head-and-shoulders figures inside.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "direct-message",
+  "category": "messaging",
+  "draw": "Speech bubble with a small paper plane inside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "quick-reply",
+  "category": "messaging",
+  "draw": "Speech bubble with a lightning bolt inside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "emoji-reaction",
+  "category": "messaging",
+  "draw": "Speech bubble with a small round smiley face overlapping its lower corner.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "chatbot",
+  "category": "messaging",
+  "draw": "Speech bubble whose interior shows a simple robot face with an antenna and square eyes.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "ai-chat",
+  "category": "messaging",
+  "draw": "Speech bubble with a four-point sparkle star inside.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "shout-bubble",
+  "category": "messaging",
+  "draw": "Jagged starburst-shaped speech balloon with a pointed tail.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "whisper-bubble",
+  "category": "messaging",
+  "draw": "Speech balloon drawn with a dashed outline and a small tail.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "forwarded-message",
+  "category": "messaging",
+  "draw": "Speech bubble with a double right-pointing chevron arrow inside.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "sms-message",
+  "category": "messaging",
+  "draw": "Speech bubble with the letters SMS inside.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "animated-gif",
+  "category": "messaging",
+  "draw": "Rounded rectangle tag with the letters GIF inside.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "text-emoticon",
+  "category": "messaging",
+  "draw": "Speech bubble holding a sideways smiley made of a colon and a bracket.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "meme-image",
+  "category": "messaging",
+  "draw": "Picture frame with a thick text bar across its top and bottom and a simple face between them.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "audio-room",
+  "category": "messaging",
+  "draw": "Circle of four small avatar heads around a central microphone.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "live-reactions",
+  "category": "messaging",
+  "draw": "Three small hearts floating upward in a staggered trail from a point at the bottom.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "link-in-bio",
+  "category": "messaging",
+  "draw": "Phone screen with a round avatar at the top and three stacked rounded link buttons below.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "profile-banner",
+  "category": "messaging",
+  "draw": "Wide cover rectangle with a circular avatar overlapping its bottom edge.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "q-and-a",
+  "category": "messaging",
+  "draw": "Two overlapping speech bubbles, one with the letter Q and one with the letter A.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "love-letter",
+  "category": "messaging",
+  "draw": "Closed envelope sealed with a heart on the point of its flap.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "red-envelope",
+  "category": "messaging",
+  "draw": "Tall narrow vertical festive envelope with a round decorative emblem in its centre, used for gifting money.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "stamped-envelope",
+  "category": "messaging",
+  "draw": "Envelope front with a small perforated stamp in the top-right corner and address lines in the middle.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "letter-bundle",
+  "category": "messaging",
+  "draw": "Stack of envelopes tied together with a crossed string and a bow.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "registered-mail",
+  "category": "messaging",
+  "draw": "Envelope with a circled letter R on its front.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "email-blast",
+  "category": "messaging",
+  "draw": "One envelope in front with three smaller envelopes fanning outward behind it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "return-to-sender",
+  "category": "messaging",
+  "draw": "Envelope with a curved U-turn arrow looping back over it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "mail-merge",
+  "category": "messaging",
+  "draw": "Document on the left with three branching lines ending in three small envelopes.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "email-signature",
+  "category": "messaging",
+  "draw": "Envelope with a handwritten signature scribble along its lower half.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "out-of-office",
+  "category": "messaging",
+  "draw": "Envelope with a small palm tree standing beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "carbon-copy",
+  "category": "messaging",
+  "draw": "Two stacked offset sheets with the letters CC on the front sheet.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "mailing-list",
+  "category": "messaging",
+  "draw": "Envelope on the left with three bulleted list lines beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "junk-mail",
+  "category": "messaging",
+  "draw": "Envelope drooping over the rim of a small wastebasket.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "cluster-mailbox",
+  "category": "messaging",
+  "draw": "Pedestal cabinet with a grid of small numbered doors standing on a short post.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "stamp-coil",
+  "category": "messaging",
+  "draw": "Roll of postage stamps with a strip of perforated stamps unwinding from it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "pen-pal",
+  "category": "messaging",
+  "draw": "Two envelopes crossing in front of a small globe.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "delivery-door-tag",
+  "category": "messaging",
+  "draw": "Door hanger card with a round hole at the top and a small parcel symbol below.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "customs-form",
+  "category": "messaging",
+  "draw": "Form sheet with a small globe at the top and rows of checkboxes below.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "signature-pad",
+  "category": "messaging",
+  "draw": "Handheld rectangular device with a stylus signing a squiggle on its screen.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "parcel-tracking",
+  "category": "messaging",
+  "draw": "Parcel box with a map pin above it and a dotted route line leading away.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "mail-bicycle",
+  "category": "messaging",
+  "draw": "Bicycle with a large front basket full of envelopes.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "invitation-card",
+  "category": "messaging",
+  "draw": "Envelope with a card sticking out of it that has a ribbon bow on it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "rsvp-card",
+  "category": "messaging",
+  "draw": "Small card with the letters RSVP and two tick boxes below.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "guestbook",
+  "category": "messaging",
+  "draw": "Open book on a slanted stand with a pen lying across its pages.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "payphone",
+  "category": "messaging",
+  "draw": "Wall-mounted box phone with a handset on its side, a keypad and a coin slot.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "candlestick-phone",
+  "category": "messaging",
+  "draw": "Upright stick telephone with a mouthpiece on top and a separate earpiece hanging on a cord.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "flip-phone",
+  "category": "messaging",
+  "draw": "Clamshell mobile phone opened at an angle showing a small screen and a keypad.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "feature-phone",
+  "category": "messaging",
+  "draw": "Candy-bar mobile phone with a small screen above a grid of number keys.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "brick-phone",
+  "category": "messaging",
+  "draw": "Large brick-shaped early mobile phone with a long stubby antenna.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "satellite-phone",
+  "category": "messaging",
+  "draw": "Chunky handset with a thick fold-up antenna and a small screen.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "foldable-phone",
+  "category": "messaging",
+  "draw": "Book-style folding smartphone shown half open with a hinge down the middle.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "wall-phone",
+  "category": "messaging",
+  "draw": "Wall-mounted phone with the handset hanging on its side and a long coiled cord.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "field-telephone",
+  "category": "messaging",
+  "draw": "Boxy portable telephone in a carry case with a hand crank on its side and a handset on top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "bluetooth-earpiece",
+  "category": "messaging",
+  "draw": "Single ear-hook earpiece with a short boom microphone.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "rotary-dial",
+  "category": "messaging",
+  "draw": "Round dial disc with a ring of finger holes and a curved finger stop.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "phone-card",
+  "category": "messaging",
+  "draw": "Prepaid card with a gold chip on the left and a small handset symbol on the right.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "caller-id",
+  "category": "messaging",
+  "draw": "Telephone handset next to a small id card with a person silhouette.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "call-transfer",
+  "category": "messaging",
+  "draw": "Telephone handset with two opposing horizontal arrows above it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "conference-call",
+  "category": "messaging",
+  "draw": "Telephone handset with three small head figures above it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "call-merge",
+  "category": "messaging",
+  "draw": "Two lines converging into one arrow above a telephone handset.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "hang-up",
+  "category": "messaging",
+  "draw": "Telephone handset lying horizontally with both ends pointing down.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "call-log",
+  "category": "messaging",
+  "draw": "Telephone handset beside three short horizontal list lines.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "phone-speed-dial",
+  "category": "messaging",
+  "draw": "Telephone handset with a small lightning bolt beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "call-on-hold",
+  "category": "messaging",
+  "draw": "Telephone handset with two vertical pause bars beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "call-waiting",
+  "category": "messaging",
+  "draw": "Telephone handset with three dots in a row beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "call-recording",
+  "category": "messaging",
+  "draw": "Telephone handset with a small filled record dot inside a ring.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "emergency-call",
+  "category": "messaging",
+  "draw": "Telephone handset with the letters SOS beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "international-call",
+  "category": "messaging",
+  "draw": "Telephone handset in front of a small globe.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "robocall",
+  "category": "messaging",
+  "draw": "Telephone handset beside a simple robot head with an antenna.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "phone-tree",
+  "category": "messaging",
+  "draw": "Telephone handset at the top with lines branching down to three numbered boxes.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "phone-number",
+  "category": "messaging",
+  "draw": "Telephone handset above a short row of digits on a baseline.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "captioned-telephone",
+  "category": "messaging",
+  "draw": "Desk phone with a large screen showing text lines beside the handset.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "tty-device",
+  "category": "messaging",
+  "draw": "Keyboard unit with a small text display and a telephone handset resting on top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "video-phone",
+  "category": "messaging",
+  "draw": "Desk phone with a small screen showing a face above its keypad.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "acoustic-coupler",
+  "category": "messaging",
+  "draw": "Modem box with two round rubber cups holding a telephone handset on top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "video-conference",
+  "category": "messaging",
+  "draw": "Screen divided into a two by two grid with a head figure in each cell.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "webinar",
+  "category": "messaging",
+  "draw": "Screen showing a presenter figure at the top and a row of small audience heads below.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "breakout-rooms",
+  "category": "messaging",
+  "draw": "Large rectangle split into four smaller rooms, each with a small dot figure.",
+  "domain": "communication-and-media"
+ }
+]

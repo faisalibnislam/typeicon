@@ -1,0 +1,78 @@
+{
+  "analytics": {
+    "context": "A square panel holding three rising bars. Used for analytics dashboards, insights pages, stats sections, reporting menus and admin overviews.",
+    "keywords": ["statistics", "stats", "insights", "metrics", "dashboard", "reporting", "data", "bar chart", "graph", "analysis", "performance", "traffic", "web analytics", "business intelligence", "bi", "report", "overview", "numbers", "growth", "tracking", "measure", "admin panel", "results"]
+  },
+  "chart-arrows": {
+    "context": "A chart with one arrow rising and one falling across it. Used for price changes, market movement, gains and losses, variance and comparing ups and downs.",
+    "keywords": ["increase", "decrease", "up and down", "change", "variance", "trend", "rise and fall", "gain and loss", "gains", "losses", "market movement", "fluctuation", "volatility", "stock market", "trading", "price change", "delta", "difference", "comparison", "growth and decline", "trends", "finance"]
+  },
+  "chart-bar-horizontal": {
+    "context": "Bar chart with bars running horizontally from the left axis. Used for rankings, leaderboards, survey results, top-ten lists and comparing categories side by side.",
+    "keywords": ["bar chart", "horizontal bar chart", "bar graph", "graph", "statistics", "ranking", "comparison", "data", "leaderboard", "top list", "survey results", "poll results", "progress bars", "categories", "compare", "sorted", "bars", "report", "analytics", "row chart"]
+  },
+  "chart-bubble": {
+    "context": "Bubble chart with circles of different sizes placed between two axes. Used for plotting three values at once, market maps, portfolio analysis and data exploration.",
+    "keywords": ["bubble", "bubbles", "bubble chart", "size", "comparison", "statistics", "xy", "scatter", "circles", "three variables", "market map", "portfolio", "data visualization", "data visualisation", "dataviz", "plot", "axes", "graph", "weighted", "analysis"]
+  },
+  "chart-donut": {
+    "context": "A donut chart: a ring split into segments of different sizes. Used for shares and proportions, budget breakdowns, storage usage and survey splits.",
+    "keywords": ["donut", "doughnut", "ring chart", "proportion", "share", "percentage", "doughnut chart", "pie chart", "pie", "breakdown", "segments", "split", "distribution", "budget", "allocation", "market share", "storage usage", "portion", "ratio", "parts of a whole", "composition"]
+  },
+  "chart-dots": {
+    "context": "A line chart with a dot marking each data point. Used for trends over time, time series, progress tracking and showing individual measurements along a line.",
+    "keywords": ["line chart", "data points", "markers", "trend", "graph", "series", "line graph", "time series", "dots", "points", "plot", "over time", "progress", "timeline", "statistics", "measurements", "readings", "analytics", "data", "history"]
+  },
+  "chart-funnel": {
+    "context": "Funnel chart made of stages that narrow toward the bottom. Used for conversion funnels, sales pipelines, sign-up flows, marketing stages and drop-off analysis.",
+    "keywords": ["funnel", "conversion", "pipeline", "stages", "sales", "marketing", "conversion funnel", "sales funnel", "marketing funnel", "drop off", "drop-off", "leads", "customer journey", "acquisition", "checkout funnel", "narrowing", "filter", "growth", "crm", "retention"]
+  },
+  "chart-gantt": {
+    "context": "A Gantt chart of staggered task bars laid along a timeline. Used for project schedules, roadmaps, sprint planning, task dependencies and production timelines.",
+    "keywords": ["gantt", "timeline", "schedule", "project", "roadmap", "tasks", "project plan", "project management", "planning", "milestones", "dependencies", "sprint", "task bars", "duration", "calendar", "workload", "phases", "deadlines", "resource planning", "program", "tracker"]
+  },
+  "chart-histogram": {
+    "context": "A histogram of adjoining bars showing how values are distributed. Used for frequency charts, statistics, grade and age spreads, and audio or image level readouts.",
+    "keywords": ["histogram", "distribution", "frequency", "statistics", "bins", "data", "frequency chart", "bell curve", "normal distribution", "spread", "counts", "bar chart", "column chart", "range", "age groups", "grades", "levels", "exposure", "stats", "analysis"]
+  },
+  "chart-radar": {
+    "context": "Radar chart with a data shape drawn inside a pentagon web. Used for skill profiles, product comparisons, player stats, performance reviews and multi-factor scores.",
+    "keywords": ["radar", "spider chart", "web chart", "skills", "comparison", "polar", "radar chart", "star chart", "skill profile", "attributes", "player stats", "character stats", "performance review", "assessment", "multivariate", "scores", "pentagon", "strengths", "evaluation", "competencies"]
+  },
+  "chart-sankey": {
+    "context": "A Sankey diagram showing flows that run between nodes. Used for budgets and cash flow, energy and material flows, user journeys and traffic sources.",
+    "keywords": ["sankey", "flow", "allocation", "streams", "diagram", "energy flow", "flow diagram", "sankey diagram", "cash flow", "money flow", "budget flow", "user flow", "user journey", "traffic sources", "paths", "distribution", "transfers", "alluvial", "material flow", "breakdown"]
+  },
+  "chart-scatter": {
+    "context": "Scatter plot of dots placed between two axes. Used for correlation, data exploration, regression, outliers and comparing two measurements.",
+    "keywords": ["scatter plot", "correlation", "points", "distribution", "statistics", "xy", "scatter graph", "scatter chart", "dots", "plot", "regression", "outliers", "clusters", "data points", "axes", "relationship", "data science", "dataviz", "analysis", "x and y"]
+  },
+  "chart-treemap": {
+    "context": "A treemap: one square divided into nested rectangles of different sizes. Used for disk space usage, portfolio weights, budgets by category and hierarchical data.",
+    "keywords": ["treemap", "tree map", "hierarchy", "proportion", "blocks", "area", "data", "nested rectangles", "disk usage", "storage usage", "space usage", "portfolio", "market map", "categories", "breakdown", "share", "rectangles", "mosaic", "composition", "size comparison"]
+  },
+  "chart-waterfall": {
+    "context": "Waterfall chart of floating bars that add up to a total. Used in finance for profit and loss, revenue bridges, budget changes and step-by-step variance.",
+    "keywords": ["waterfall", "bridge chart", "cumulative", "variance", "finance", "data", "waterfall chart", "cascade chart", "profit and loss", "p&l", "revenue", "budget", "running total", "increments", "gains and losses", "breakdown", "accounting", "cash flow", "net change", "financial report"]
+  },
+  "gauge": {
+    "context": "A round dial gauge with tick marks and a needle. Used for meters, levels, pressure, capacity, scores, health checks and performance readouts on dashboards.",
+    "keywords": ["meter", "dial", "measure", "level", "pressure", "performance", "gauge chart", "indicator", "reading", "capacity", "usage", "score", "rating", "barometer", "needle", "instrument", "monitor", "status", "load", "threshold", "progress"]
+  },
+  "kpi": {
+    "context": "A card with a line rising to an upward arrow, standing for a key performance indicator. Used for metric cards, goals, targets, growth figures and scorecards on dashboards.",
+    "keywords": ["key performance indicator", "metric", "target", "performance", "goal", "scorecard", "metrics", "growth", "trending up", "uptrend", "increase", "stat card", "metric card", "objectives", "okr", "results", "improvement", "success", "sales growth", "business", "dashboard", "profit"]
+  },
+  "report-chart": {
+    "context": "A report sheet with a pie chart above summary lines. Used for business and analytics reports, results summaries, exported statistics and survey reports.",
+    "keywords": ["report", "summary", "pie chart", "results", "statistics", "document", "chart report", "analytics report", "business report", "survey report", "annual report", "findings", "overview", "breakdown", "data report", "insights", "presentation", "financial report", "statement", "review"]
+  },
+  "speed-gauge": {
+    "context": "An arched speed dial with its needle swung toward the high end. Used for speed tests, speedometers, performance scores, page load speed and benchmarks.",
+    "keywords": ["speed", "speedometer", "performance", "fast", "benchmark", "speed test", "internet speed", "network speed", "page speed", "load time", "velocity", "dial", "gauge", "meter", "odometer", "acceleration", "quick", "optimise", "optimize", "score", "tachometer", "dashboard"]
+  },
+  "table-data": {
+    "context": "A data table with a header row above rows and columns. Used for data grids, tabular views, spreadsheets, records lists and switching to a table layout.",
+    "keywords": ["table", "grid", "rows", "columns", "dataset", "records", "data table", "data grid", "spreadsheet", "tabular", "table view", "list view", "cells", "header row", "sheet", "database", "entries", "matrix", "report table", "pivot table"]
+  }
+}

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "natal-chart",
+  "category": "notation",
+  "draw": "Natal chart: a circle with twelve house divisions and several small lines crossing the centre between points.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "mercury-symbol",
+  "category": "notation",
+  "draw": "Mercury planetary symbol: a circle with a small cross beneath it and a crescent of horns on top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "earth-symbol",
+  "category": "notation",
+  "draw": "Earth planetary symbol: a circle with a small cross standing on top of it, the globus cruciger form.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "jupiter-symbol",
+  "category": "notation",
+  "draw": "Jupiter planetary symbol: a numeral 4 like glyph with a curved left arm.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "saturn-symbol",
+  "category": "notation",
+  "draw": "Saturn planetary symbol: a small cross whose stem curves down into a hooked h shaped tail.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "uranus-symbol",
+  "category": "notation",
+  "draw": "Uranus planetary symbol: a circle with a dot at its centre and an upward arrow rising from its top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "neptune-symbol",
+  "category": "notation",
+  "draw": "Neptune planetary symbol: a trident with three prongs above a short crossbar on its handle.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "pluto-symbol",
+  "category": "notation",
+  "draw": "Pluto planetary symbol: a small circle cradled in a crescent cup above a cross.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ceres-symbol",
+  "category": "notation",
+  "draw": "Ceres symbol: a sickle shaped hook on top of a short cross.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "chiron-symbol",
+  "category": "notation",
+  "draw": "Chiron symbol: a small circle below a vertical stroke topped with a K shape, like a key.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "conjunction-aspect",
+  "category": "notation",
+  "draw": "Conjunction aspect: a small circle with a short diagonal line rising from its upper right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "opposition-aspect",
+  "category": "notation",
+  "draw": "Opposition aspect: two small circles joined by a diagonal line between them.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "quincunx-aspect",
+  "category": "notation",
+  "draw": "Quincunx aspect: a small Y shaped glyph with an extra bar across its base.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "lunar-node",
+  "category": "notation",
+  "draw": "Lunar node symbol: a horseshoe shaped arch with a small circle at each foot.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "black-moon-lilith",
+  "category": "notation",
+  "draw": "Black moon Lilith symbol: a filled crescent moon sitting above a small cross.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "classical-elements",
+  "category": "notation",
+  "draw": "Four alchemical element triangles in a grid: fire up, water down, air up with a bar and earth down with a bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sulfur-alchemy",
+  "category": "notation",
+  "draw": "Alchemical sulfur: an upward triangle standing on top of a small cross.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "salt-alchemy",
+  "category": "notation",
+  "draw": "Alchemical salt: a circle bisected by a single horizontal line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "philosophers-stone",
+  "category": "notation",
+  "draw": "Squared circle of the philosopher's stone: a circle inside a square inside a triangle inside a larger circle.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tria-prima",
+  "category": "notation",
+  "draw": "Tria prima: sulfur, mercury and salt glyphs arranged at the three corners of a triangle.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "i-ching-hexagram",
+  "category": "notation",
+  "draw": "I Ching hexagram: six stacked horizontal lines, some solid and some broken in the middle.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wu-xing-cycle",
+  "category": "notation",
+  "draw": "Five phases cycle: five small circles at the points of a pentagon joined by arrows around the ring.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "enneagram",
+  "category": "notation",
+  "draw": "Enneagram: a circle with nine points on its rim joined by a triangle and an irregular hexagonal star.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "metatrons-cube",
+  "category": "notation",
+  "draw": "Metatron's cube: thirteen small circles joined by straight lines forming a star inside a hexagon.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ogham-script",
+  "category": "notation",
+  "draw": "Ogham script: a vertical stem line with groups of short strokes branching off both sides.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "pendulum-dowsing",
+  "category": "notation",
+  "draw": "Dowsing pendulum: a pointed crystal weight hanging from a chain over a small arc.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "high-voltage-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a jagged lightning bolt arrow striking downward inside.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "slippery-surface-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure slipping backward, one leg kicked up, above a wavy floor line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "trip-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure stumbling forward over a low block on the floor.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fall-from-height-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure falling headfirst off the edge of a raised step.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "overhead-load-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a crate hanging from a hook and cable above a small ground line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "falling-objects-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a small box dropping onto a figure's head.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "forklift-traffic-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a side view forklift and raised forks inside.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hand-crush-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a hand caught between two rollers pressing together.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "entanglement-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a hand reaching toward two meshing gear wheels.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cutting-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a hand and a straight blade edge slicing toward the fingers.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "head-obstacle-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a head bumping into a low horizontal bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "deep-water-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure submerged to the chin in wavy water.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "explosive-atmosphere-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with the capital letters EX inside.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "loud-noise-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with an ear and three curved sound waves beside it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "automatic-start-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a machine gear and a circular arrow around it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "step-down-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure stepping down a single stair edge.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hot-liquid-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a tilted cup spilling steaming liquid onto a hand.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "steam-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with three wavy steam lines rising from a pipe outlet.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flying-debris-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with small fragments flying outward from a point toward a face.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "guard-dog-warning",
+  "category": "notation",
+  "draw": "Warning triangle with the side view of a barking dog.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "confined-space-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure crouching inside a narrow manhole opening.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "asphyxiation-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a head in profile surrounded by a dense cloud.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "thin-ice-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure breaking through a cracked ice sheet.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "electric-fence-warning",
+  "category": "notation",
+  "draw": "Warning triangle with a fence wire strand and a lightning bolt along it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wet-paint-warning",
+  "category": "notation",
+  "draw": "Warning triangle with a paintbrush and a drip falling from it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "pressure-vessel-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a rounded tank and a pressure gauge on top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sharp-needle-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a syringe needle pointing at a fingertip.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "carbon-monoxide-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with the letters CO above a small wavy gas cloud.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "vehicle-reversing-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a small truck and a curved arrow behind it showing reversing.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hazard-stripes",
+  "category": "notation",
+  "draw": "A band of bold diagonal stripes alternating filled and empty, the hazard marking tape pattern.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-hard-hat-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a head and shoulders wearing a hard hat.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-ear-protection-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a head wearing ear defenders.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-gloves-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a gloved hand showing a cuff.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-safety-boots-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a pair of ankle safety boots.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-face-shield-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a head behind a full clear visor.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-respirator-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a head wearing a half mask respirator with filter cartridges.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-safety-harness-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a figure in a harness attached to a lanyard above.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-hi-vis-vest-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a sleeveless vest crossed by reflective bands.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wash-hands-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with two hands under a falling water droplet.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "read-manual-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with an open book and a small letter i above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "use-handrail-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a hand gripping a sloping rail above steps.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "disconnect-power-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a plug pulled away from a socket.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-life-jacket-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a figure wearing a buoyant life vest.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-protective-clothing-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a long sleeved coverall suit.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-welding-mask-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a head behind a welding helmet with a dark window.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "keep-door-closed-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a door and a small arrow pushing it shut.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "refuge-point",
+  "category": "notation",
+  "draw": "Refuge point sign: a square with a wheelchair user inside a small safe zone outline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fire-ladder-sign",
+  "category": "notation",
+  "draw": "Fire ladder sign: a square with a ladder leaning upward and a small flame at its base.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fire-telephone-sign",
+  "category": "notation",
+  "draw": "Fire telephone sign: a square with a telephone handset beside a small flame.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "smoke-hood",
+  "category": "notation",
+  "draw": "Emergency smoke hood: a head covered by a clear bag hood with a filter at the mouth.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "stacking-limit",
+  "category": "notation",
+  "draw": "Handling mark: three stacked boxes with a small number and a bar marking the maximum.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sling-here",
+  "category": "notation",
+  "draw": "Handling mark: a short length of chain links hanging in a U shape.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "clamp-here",
+  "category": "notation",
+  "draw": "Handling mark: a box squeezed between two arrows pressing on its sides.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "temperature-limit-symbol",
+  "category": "notation",
+  "draw": "Handling mark: a thermometer with short bars marking the upper and lower limits.",
+  "domain": "symbols-and-notation"
+ }
+]

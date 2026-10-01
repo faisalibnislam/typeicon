@@ -1,0 +1,482 @@
+[
+ {
+  "name": "eternity-band",
+  "category": "jewelry",
+  "draw": "Plain ring band seen at a slight angle with a continuous row of small round stones set all the way around its top.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "cocktail-ring",
+  "category": "jewelry",
+  "draw": "Ring with an oversized domed oval stone that is much wider than the band, set in a tall ornate mount.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "toe-ring",
+  "category": "jewelry",
+  "draw": "Simple foot outline in side view with a thin open band around the second toe.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "puzzle-ring",
+  "category": "jewelry",
+  "draw": "Ring made of three or four thin bands interlaced into a woven knot on top.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "poison-ring",
+  "category": "jewelry",
+  "draw": "Ring with a square box top whose hinged lid is flipped open to show an empty compartment.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "spinner-ring",
+  "category": "jewelry",
+  "draw": "Wide ring band with a narrower outer band around its middle and two small curved arrows showing it spins.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "three-stone-ring",
+  "category": "jewelry",
+  "draw": "Ring in front view with one large round stone flanked by two smaller round stones in a row.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "halo-ring",
+  "category": "jewelry",
+  "draw": "Top view of a ring with a round center stone encircled by a ring of tiny stones.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "tension-ring",
+  "category": "jewelry",
+  "draw": "Open ring band whose two gapped ends pinch a single stone suspended between them.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "tennis-bracelet",
+  "category": "jewelry",
+  "draw": "Thin oval bracelet made entirely of a continuous line of small identical round stones with a box clasp.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "id-bracelet",
+  "category": "jewelry",
+  "draw": "Chain link bracelet with a flat rectangular plate in the middle bearing a short engraved line.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "body-chain",
+  "category": "jewelry",
+  "draw": "Torso outline with fine chains draped around the neck, crossing the chest and looping around the waist.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "waist-chain",
+  "category": "jewelry",
+  "draw": "Hip and waist outline with a thin chain belt resting low on the waist and a short dangling tail at the front.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "nose-chain",
+  "category": "jewelry",
+  "draw": "Face profile with a nose ring connected by a draped chain back to an earring on the ear.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "lariat-necklace",
+  "category": "jewelry",
+  "draw": "Long open necklace in a Y shape with the ends looped through each other and hanging down to two tassel drops.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "bib-necklace",
+  "category": "jewelry",
+  "draw": "Wide statement necklace with several graded rows of stones filling a crescent collar shape.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "nameplate-necklace",
+  "category": "jewelry",
+  "draw": "Fine chain holding a horizontal cursive script word plate at its center.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "initial-pendant",
+  "category": "jewelry",
+  "draw": "Chain with a round disc pendant showing a single bold capital letter.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "solitaire-pendant",
+  "category": "jewelry",
+  "draw": "Thin chain with a single round faceted stone in a small prong mount hanging at its lowest point.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "multi-strand-necklace",
+  "category": "jewelry",
+  "draw": "Three nested chain necklaces of increasing length layered below each other.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "tassel-earring",
+  "category": "jewelry",
+  "draw": "Ear hook with a small cap from which a bundle of long fringe threads hangs down.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "threader-earring",
+  "category": "jewelry",
+  "draw": "Very thin chain passed through an ear lobe, hanging in front and behind with a small bar at one end.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "ear-climber",
+  "category": "jewelry",
+  "draw": "Ear outline with a curved line of small stones climbing from the lobe up along the outer edge.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "clip-on-earring",
+  "category": "jewelry",
+  "draw": "Round button earring with a hinged spring clip shown open behind it instead of a post.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "jhumka-earring",
+  "category": "jewelry",
+  "draw": "Earring with a small round stud on top and a dome shaped bell hanging below edged with tiny bead drops.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "chandbali-earring",
+  "category": "jewelry",
+  "draw": "Crescent moon shaped earring hanging from a stud, its lower curve lined with small bead drops.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "ear-gauge",
+  "category": "jewelry",
+  "draw": "Ear lobe outline with a large round hollow tunnel plug stretching the piercing.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "nose-stud",
+  "category": "jewelry",
+  "draw": "Nose in side view with a tiny round gem stud on the side of the nostril.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "belly-button-ring",
+  "category": "jewelry",
+  "draw": "Belly button outline with a curved barbell piercing above it ending in a dangling gem.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "barbell-piercing",
+  "category": "jewelry",
+  "draw": "Straight short bar with a small ball screwed onto each end, shown alone.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "stickpin",
+  "category": "jewelry",
+  "draw": "Long straight pin with a small jeweled head on top and a tiny cap guard on the point.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "penannular-brooch",
+  "category": "jewelry",
+  "draw": "Open ring brooch with a gap and knob terminals and a long pin crossing through the ring.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "sovereign-orb",
+  "category": "jewelry",
+  "draw": "Royal orb: a sphere with a jeweled band around its middle and a half band over the top topped by a small cross.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "prong-setting",
+  "category": "jewelry",
+  "draw": "Close up side view of a round stone held up by four thin curved claws rising from a small basket.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "bezel-setting",
+  "category": "jewelry",
+  "draw": "Round stone surrounded by a smooth raised metal rim that wraps its edge, on a ring shank.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "channel-setting",
+  "category": "jewelry",
+  "draw": "Ring band section with a row of square stones sitting in a groove between two parallel metal walls.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "pave-setting",
+  "category": "jewelry",
+  "draw": "Ring band top densely covered with many tiny round stones with little beads of metal between them.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "flush-setting",
+  "category": "jewelry",
+  "draw": "Plain wide band with a small star shaped engraving around a stone sunk level with the metal surface.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "rose-cut",
+  "category": "jewelry",
+  "draw": "Side view of a flat bottomed gem with a pointed dome covered in triangular facets.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "asscher-cut",
+  "category": "jewelry",
+  "draw": "Top view of a square gem with cut corners and concentric stepped squares forming a tunnel effect.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "radiant-cut",
+  "category": "jewelry",
+  "draw": "Top view of a rectangular gem with clipped corners and crisscrossing brilliant facet lines.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "briolette",
+  "category": "jewelry",
+  "draw": "Teardrop shaped gem covered all over in small triangular facets with a drilled hole near the tip.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "half-moon-cut",
+  "category": "jewelry",
+  "draw": "Top view of a half circle gem with a straight edge and faceted step lines.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "shield-cut",
+  "category": "jewelry",
+  "draw": "Top view of a gem in a heraldic shield outline with a flat top and pointed bottom and inner facets.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "kite-cut",
+  "category": "jewelry",
+  "draw": "Top view of a kite shaped gem, long pointed bottom and short pointed top, with facet lines.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "hexagon-cut",
+  "category": "jewelry",
+  "draw": "Top view of a six sided gem with a smaller hexagon table and facet lines to the corners.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "bullet-cut",
+  "category": "jewelry",
+  "draw": "Top view of a long narrow gem with a flat base and a pointed arched top like a bullet.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "star-sapphire",
+  "category": "jewelry",
+  "draw": "Domed oval cabochon with a six rayed star of light lines across its surface.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "cats-eye-gem",
+  "category": "jewelry",
+  "draw": "Oval polished cabochon with a single bright vertical slit of light down its center.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "watermelon-tourmaline",
+  "category": "jewelry",
+  "draw": "Triangular crystal slice with a solid inner core and a distinct outer rind band.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "agate-slice",
+  "category": "jewelry",
+  "draw": "Irregular oval stone slab with many wavy concentric bands and a small crystal hollow at the center.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "baroque-pearl",
+  "category": "jewelry",
+  "draw": "Irregular lumpy pearl shape with a soft highlight, clearly not round.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "turquoise-nugget",
+  "category": "jewelry",
+  "draw": "Rounded irregular stone with a web of thin dark matrix veins across its surface.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "trapiche-emerald",
+  "category": "jewelry",
+  "draw": "Hexagonal gem slice with six dark spokes radiating from a small central hexagon.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "toggle-clasp",
+  "category": "jewelry",
+  "draw": "Round ring and a straight bar with a small loop each, the bar shown about to pass through the ring.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "box-clasp",
+  "category": "jewelry",
+  "draw": "Small rectangular box with a folded tongue slide entering it from one side and chain ends attached.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "pendant-bail",
+  "category": "jewelry",
+  "draw": "Small folded loop of metal hanging a teardrop pendant, with a chain passing through the loop.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "ear-wire",
+  "category": "jewelry",
+  "draw": "Single fishhook shaped earring wire with a tiny coil and an open loop at the bottom.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "earring-back",
+  "category": "jewelry",
+  "draw": "Butterfly shaped earring back clutch with two curled wings and a hole in the middle, next to a post.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "head-pin",
+  "category": "jewelry",
+  "draw": "Straight thin wire pin with a flat disc head at the bottom and a bead threaded on it.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "eye-pin",
+  "category": "jewelry",
+  "draw": "Straight thin wire pin with a small round loop at one end and a bead threaded on it.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "rope-chain",
+  "category": "jewelry",
+  "draw": "Short length of chain made of twisted links forming a spiral rope pattern.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "box-chain",
+  "category": "jewelry",
+  "draw": "Short length of chain made of small square box links joined in a straight line.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "curb-chain",
+  "category": "jewelry",
+  "draw": "Short length of flat twisted oval links that lie interlocked and flat against each other.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "snake-chain",
+  "category": "jewelry",
+  "draw": "Short smooth flexible tube of chain with fine scaled ridges along it, curving in an S.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "figaro-chain",
+  "category": "jewelry",
+  "draw": "Short length of chain with a pattern of three small round links followed by one long oval link.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "skeleton-watch",
+  "category": "jewelry",
+  "draw": "Round watch face with a cutaway dial showing interlocking gears inside and two hands.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "rectangular-watch",
+  "category": "jewelry",
+  "draw": "Wristwatch with a tall rectangular case, two hands and short straps at top and bottom.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "watch-caseback",
+  "category": "jewelry",
+  "draw": "Round watch back with a notched screw ring around its edge and small engraved text lines.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "balance-wheel",
+  "category": "jewelry",
+  "draw": "Round wheel with two cross spokes and a fine spiral hairspring coiled at its center.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "escapement",
+  "category": "jewelry",
+  "draw": "Toothed escape wheel with hooked teeth engaged by an anchor shaped pallet fork above it.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "mainspring-barrel",
+  "category": "jewelry",
+  "draw": "Round drum with gear teeth on its rim, its open face showing a tightly coiled flat spring.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "tourbillon",
+  "category": "jewelry",
+  "draw": "Round cage with a spoked frame holding a small balance wheel, with a curved arrow showing it rotates.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "watch-rotor",
+  "category": "jewelry",
+  "draw": "Half moon shaped oscillating weight pivoting at the center of a round watch movement.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "deployant-clasp",
+  "category": "jewelry",
+  "draw": "Folding watch clasp shown half open, two hinged metal blades folding over each other between strap ends.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "spring-bar",
+  "category": "jewelry",
+  "draw": "Short thin tube with spring loaded pins at both ends, shown between the lugs of a watch case.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "metal-watch-band",
+  "category": "jewelry",
+  "draw": "Wristwatch strap made of short rows of three linked metal segments, shown straight.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "watch-case-opener",
+  "category": "jewelry",
+  "draw": "Adjustable wrench with a flat bar and three small prongs, set over a round watch back.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "timegrapher",
+  "category": "jewelry",
+  "draw": "Small box instrument with a screen showing parallel trace lines and a watch clamped beside it.",
+  "domain": "r3-jewelry-gems"
+ },
+ {
+  "name": "watchmaker-screwdriver",
+  "category": "jewelry",
+  "draw": "Very slim screwdriver with a knurled shaft and a small swiveling cap on top of the handle.",
+  "domain": "r3-jewelry-gems"
+ }
+]

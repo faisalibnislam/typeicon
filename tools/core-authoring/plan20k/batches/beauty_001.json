@@ -1,0 +1,482 @@
+[
+ {
+  "name": "vent-brush",
+  "category": "beauty",
+  "draw": "A hairbrush seen from the front whose oval head is pierced by rows of open slots between short bristle rows, with a straight handle.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "edge-brush",
+  "category": "beauty",
+  "draw": "A small slim double-ended tool: a tiny bristle brush at one end and a fine-tooth comb at the other, drawn diagonally.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-crimper",
+  "category": "beauty",
+  "draw": "A hinged styling iron with two long flat plates opened slightly, the plate faces showing zigzag ridges, and a cord from the handle.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-bonnet",
+  "category": "beauty",
+  "draw": "A puffy round sleep bonnet seen from the side with a gathered elastic band along the lower edge, shaped like a large soft shower cap.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "sectioning-clip",
+  "category": "beauty",
+  "draw": "A long narrow duckbill hair clip seen from the side, jaws closed to a point and a spring hinge bump near the back.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "banana-clip",
+  "category": "beauty",
+  "draw": "A long curved comb clip shaped like a banana, hinged at the bottom, with interlocking teeth along both inner edges.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-fork",
+  "category": "beauty",
+  "draw": "A U-shaped two-prong hair pin with long straight tines and a decorative rounded top, drawn vertically.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-donut",
+  "category": "beauty",
+  "draw": "A thick ring of mesh sponge seen at an angle, like a doughnut, used to shape a bun, with a light dotted texture.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "neck-duster",
+  "category": "beauty",
+  "draw": "A barber neck duster: a round fat brush of soft bristles fanning from a short wooden handle.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "tint-bowl",
+  "category": "beauty",
+  "draw": "A shallow hair colour mixing bowl with a grip rim, and a flat tint brush with a pointed tail handle resting across it.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-foils",
+  "category": "beauty",
+  "draw": "Head seen from the side with several folded foil packets lying in layers across the hair, each a small rectangle.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "highlighting-cap",
+  "category": "beauty",
+  "draw": "A head wearing a snug cap dotted with small holes, with a few strands pulled through and a hook tool beside it.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "color-swatch-ring",
+  "category": "beauty",
+  "draw": "A fan of hair colour swatch strands hanging from a single ring, each strand a tapered lock with a small tag.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-color-applicator-bottle",
+  "category": "beauty",
+  "draw": "A squeeze bottle with measurement lines on its side and a long tapered nozzle cap, used to apply hair dye.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "clipper-guard",
+  "category": "beauty",
+  "draw": "A clip-on clipper guard comb seen from the side: a comb-toothed plastic attachment with a curved spine and a number tab.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "razor-strop",
+  "category": "beauty",
+  "draw": "A long leather strap hanging from a hook at the top, with a handle at the bottom end and a straight razor laid against it.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "shaving-stand",
+  "category": "beauty",
+  "draw": "A small stand with a pedestal base holding a shaving brush hanging bristles down and a razor hanging beside it.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "beard-shaping-tool",
+  "category": "beauty",
+  "draw": "A flat plastic template comb with curved outer edges matching a beard line and a row of teeth along one side.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "beard-bib",
+  "category": "beauty",
+  "draw": "A cape-like apron stretched under a chin with two suction cups at its upper corners stuck to a mirror edge, catching trimmed hair.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "comb-disinfectant-jar",
+  "category": "beauty",
+  "draw": "A tall cylindrical glass jar filled with liquid and a lid, with two combs standing submerged inside.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "shears-holster",
+  "category": "beauty",
+  "draw": "A leather holster pouch with two slots, one holding hair shears with finger rings sticking out and one holding a comb.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-mousse",
+  "category": "beauty",
+  "draw": "An aerosol can with a nozzle cap and a round cloud of foam sitting beside the nozzle.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "pressing-comb",
+  "category": "beauty",
+  "draw": "A metal hot comb with a row of wide teeth on a solid metal body and a wooden handle, with small heat waves above.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-twist-sponge",
+  "category": "beauty",
+  "draw": "A rectangular sponge pad covered in a grid of round holes, pressed against a patch of coiled hair.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "peineta-comb",
+  "category": "beauty",
+  "draw": "A tall ornamental hair comb with an arched lacy crown and short teeth at the bottom, worn upright behind a bun.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-perm",
+  "category": "beauty",
+  "draw": "Head seen from the side with rows of small cylindrical perm rods wound tight across the hair.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-clippings",
+  "category": "beauty",
+  "draw": "A small pile of cut hair locks on the floor with a pair of scissors lying next to it.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "hair-transplant",
+  "category": "beauty",
+  "draw": "The top of a bald head seen from above with a neat grid of tiny dots of implanted hair across the front.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "uv-sterilizer-cabinet",
+  "category": "beauty",
+  "draw": "A small cabinet with a glass door showing tools on a shelf, lit by a tube lamp inside with short rays.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "towel-warmer-cabinet",
+  "category": "beauty",
+  "draw": "A small box cabinet with a front door opened to show rolled towels stacked inside and wavy steam lines above.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "rolling-stool",
+  "category": "beauty",
+  "draw": "A round padded stool seen from the side on a single gas lift column with a five-caster wheel base.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "salon-styling-chair",
+  "category": "beauty",
+  "draw": "A salon chair with a rounded back, armrests, a hydraulic column on a wide round base and a foot pump pedal.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "salon-trolley",
+  "category": "beauty",
+  "draw": "A narrow rolling cart with three stacked trays holding brushes, clips and a spray bottle, on small wheels.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "styling-station",
+  "category": "beauty",
+  "draw": "A wall mirror above a narrow counter shelf holding a dryer and brushes, with a salon chair back in front.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "magnifying-lamp",
+  "category": "beauty",
+  "draw": "A round ring lamp with a large magnifying lens in the middle, on a jointed arm with a clamp base.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "bob-haircut",
+  "category": "beauty",
+  "draw": "Head and shoulders in front view with straight chin-length hair cut level all around, framing the face.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "pixie-cut",
+  "category": "beauty",
+  "draw": "Head in three-quarter view with very short cropped hair and a small side-swept fringe over the forehead.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "buzz-cut",
+  "category": "beauty",
+  "draw": "Head in front view with hair clipped very short and even, shown as a thin textured cap close to the scalp.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "undercut-hairstyle",
+  "category": "beauty",
+  "draw": "Head in side view with long hair on top swept back and the side and back shaved short below a sharp line.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "mohawk-hairstyle",
+  "category": "beauty",
+  "draw": "Head in side view with shaved sides and a tall strip of spiked hair running from forehead to nape.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "pompadour",
+  "category": "beauty",
+  "draw": "Head in side view with hair swept up high and back from the forehead in a big rolled wave, short at the sides.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "mullet",
+  "category": "beauty",
+  "draw": "Head in side view with short hair on top and sides and long hair hanging down over the back of the neck.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "man-bun",
+  "category": "beauty",
+  "draw": "Head in side view with hair pulled back tight and gathered into a round bun at the back of the crown, with a short beard.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "space-buns",
+  "category": "beauty",
+  "draw": "Head in front view with two round buns sitting high on either side of the top of the head.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "pigtails",
+  "category": "beauty",
+  "draw": "Head in front view with hair parted in the middle and tied into two bunches sticking out low on each side.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "french-braid",
+  "category": "beauty",
+  "draw": "Back of a head showing a single braid woven close to the scalp from the crown, then hanging down in a plait.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "cornrows",
+  "category": "beauty",
+  "draw": "Top of a head seen from above with several parallel tight braids running from forehead to nape in neat rows.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "dreadlocks",
+  "category": "beauty",
+  "draw": "Head in front view with long rope-like locks hanging down past the shoulders, each lock a separate thick strand.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "afro-hairstyle",
+  "category": "beauty",
+  "draw": "Head in front view with a large rounded halo of textured hair around the face and above the head.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "bangs-hairstyle",
+  "category": "beauty",
+  "draw": "Head in front view with straight hair and a blunt fringe cut straight across the forehead above the eyebrows.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "side-part-hairstyle",
+  "category": "beauty",
+  "draw": "Head in front view with short neat hair divided by a clear parting line on one side and combed across.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "slicked-back-hair",
+  "category": "beauty",
+  "draw": "Head in side view with hair combed flat straight back from the forehead in smooth parallel lines.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "bald-head",
+  "category": "beauty",
+  "draw": "Head and shoulders in front view with a smooth fully bald scalp and a small highlight shine on top.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "comb-over",
+  "category": "beauty",
+  "draw": "Head in front view with a thin layer of long strands combed from one side across a bald crown.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "beehive-hairdo",
+  "category": "beauty",
+  "draw": "Head in side view with hair piled into a tall rounded cone on top, like a beehive, smooth at the sides.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "french-twist",
+  "category": "beauty",
+  "draw": "Back of a head showing hair twisted into a vertical roll up the middle, tucked in, with a pin at the top.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "box-braids",
+  "category": "beauty",
+  "draw": "Head in front view with many long thin square-parted braids hanging straight down past the shoulders.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "bantu-knots",
+  "category": "beauty",
+  "draw": "Head in front view with several small coiled knots spaced evenly across the scalp in a grid.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "half-up-half-down",
+  "category": "beauty",
+  "draw": "Back of a head with the upper section tied into a small bun or ponytail and the rest of the hair hanging loose below.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "flat-top-haircut",
+  "category": "beauty",
+  "draw": "Head in front view with short sides and hair on top standing up to a perfectly flat level surface.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "fade-haircut",
+  "category": "beauty",
+  "draw": "Head in side view with short hair on top that shades down to bare skin at the sides, shown by a dotted gradient.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "spiky-hair",
+  "category": "beauty",
+  "draw": "Head in front view with short hair styled into many sharp upward spikes across the top.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "finger-waves",
+  "category": "beauty",
+  "draw": "Head in side view with short hair set into flat S-shaped ridged waves running across the head, 1920s style.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "victory-rolls",
+  "category": "beauty",
+  "draw": "Head in front view with two large rolled curls sitting on top at the front on either side of the part, 1940s style.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "bowl-cut",
+  "category": "beauty",
+  "draw": "Head in front view with hair cut in an even rounded cap, straight fringe over the forehead and level all around like an upturned bowl.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "pencil-mustache",
+  "category": "beauty",
+  "draw": "Lower face showing a very thin narrow line mustache just above the upper lip, with a small gap in the middle.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "walrus-mustache",
+  "category": "beauty",
+  "draw": "Lower face with a thick bushy mustache that droops down and covers the whole upper lip and the mouth corners.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "horseshoe-mustache",
+  "category": "beauty",
+  "draw": "Lower face with a mustache running down both sides of the mouth to the jawline in an upside-down U shape.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "sideburns",
+  "category": "beauty",
+  "draw": "Face in front view with thick wide sideburns running down the cheeks from the ears to the jaw, chin shaved.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "chin-strap-beard",
+  "category": "beauty",
+  "draw": "Face in front view with a thin line of beard following the jawline from ear to ear under the chin, no mustache.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "soul-patch",
+  "category": "beauty",
+  "draw": "Lower face with a small tuft of hair just below the lower lip and nothing else.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "van-dyke-beard",
+  "category": "beauty",
+  "draw": "Lower face with a separate upturned mustache and a pointed goatee beard on the chin, cheeks bare.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "french-manicure",
+  "category": "beauty",
+  "draw": "A fingertip with a long nail whose tip is marked by a curved white band across the free edge.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "nail-drill",
+  "category": "beauty",
+  "draw": "A slim electric nail file handpiece like a pen with a small drill bit at the tip and a cord from the back.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "dappen-dish",
+  "category": "beauty",
+  "draw": "A small glass dish with a lid on a thick base holding acrylic liquid, with a nail brush resting on its rim.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "nail-dust-collector",
+  "category": "beauty",
+  "draw": "A flat low box with a grille on top where a hand rests, and a small fan inside drawn through the vents.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "manicure-bowl",
+  "category": "beauty",
+  "draw": "A small curved bowl shaped for fingertips, with a hand dipping four fingers into water in it.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "pedicure-chair",
+  "category": "beauty",
+  "draw": "A large padded throne-like chair with armrests and a round foot basin built into the base in front.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "nail-swatch-wheel",
+  "category": "beauty",
+  "draw": "A circular display wheel with false nail tips arranged radially around its edge, each tip a small painted nail.",
+  "domain": "r3-beauty-salon-barber"
+ },
+ {
+  "name": "dotting-tool",
+  "category": "beauty",
+  "draw": "A slim double-ended stick with a small metal ball at each end, a dot of polish next to one end.",
+  "domain": "r3-beauty-salon-barber"
+ }
+]

@@ -1,0 +1,380 @@
+[
+ {
+  "name": "hair-net",
+  "category": "household",
+  "draw": "Round mesh hair net with an elastic rim.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shampoo",
+  "category": "household",
+  "draw": "Tall bottle with a flip cap and a small hair strand symbol on the label.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hairspray",
+  "category": "household",
+  "draw": "Tall aerosol can with a round cap, a wavy hair strand on its label and a fan of fine spray.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hair-wax",
+  "category": "household",
+  "draw": "Short squat pot with a textured lid and a finger swipe on the wax.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hair-dye",
+  "category": "household",
+  "draw": "Mixing bowl with a tint brush resting across it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "salon-hood-dryer",
+  "category": "household",
+  "draw": "Seated salon dryer with a large dome hood on an adjustable arm.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shampoo-basin",
+  "category": "household",
+  "draw": "Salon backwash basin with a curved neck rest and a reclining chair in front.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wig",
+  "category": "household",
+  "draw": "Wig of long hair on a rounded head form.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hair-extension",
+  "category": "household",
+  "draw": "Clip-in hair extension weft with a row of small clips on its top edge.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hair-bun",
+  "category": "household",
+  "draw": "Head seen from behind with hair gathered into a round bun.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "braid",
+  "category": "household",
+  "draw": "Single plaited braid with interlocking segments and a tie at the end.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "ponytail",
+  "category": "household",
+  "draw": "Head seen from the side with hair pulled back into a ponytail.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hair-loss",
+  "category": "household",
+  "draw": "Head outline with a thin crown and a few falling strands.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dandruff",
+  "category": "household",
+  "draw": "Hair strands with small flakes falling from them.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hair-wash",
+  "category": "household",
+  "draw": "Head with foam on top and water drops falling.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "mascara",
+  "category": "household",
+  "draw": "Mascara wand with a spiky bristle brush pulled from its tube.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "eyeliner",
+  "category": "household",
+  "draw": "Slim eyeliner pencil with a sharpened fine tip.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "eyebrow-pencil",
+  "category": "household",
+  "draw": "Pencil with a spoolie brush at the other end and a brow arch beside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "eyeshadow-palette",
+  "category": "household",
+  "draw": "Open rectangular palette with a grid of round shadow pans and a mirror lid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "powder-compact",
+  "category": "household",
+  "draw": "Open round compact with pressed powder and a powder puff resting on it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "makeup-brush",
+  "category": "household",
+  "draw": "Tapered makeup brush with a fluffy domed head and long handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "fan-brush",
+  "category": "household",
+  "draw": "Makeup brush with a flat fan-shaped bristle head.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "foundation",
+  "category": "household",
+  "draw": "Square glass bottle with a pump top and a drop of liquid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "lip-gloss",
+  "category": "household",
+  "draw": "Clear tube of lip gloss with a doe-foot wand and a shine glint.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "lip-balm",
+  "category": "household",
+  "draw": "Small round flat tin of lip balm with lips on its lid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "makeup-sponge",
+  "category": "household",
+  "draw": "Egg-shaped makeup blending sponge with a flat side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "eyelash-curler",
+  "category": "household",
+  "draw": "Eyelash curler with scissor-like handles and a curved clamp at the top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "false-eyelashes",
+  "category": "household",
+  "draw": "Strip of false eyelashes with long curved lashes along a thin band.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "nail-lamp",
+  "category": "household",
+  "draw": "Dome-shaped UV nail lamp with a hand inserted and light rays inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toe-separator",
+  "category": "household",
+  "draw": "Foam toe separator with rounded loops between five slots.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "press-on-nails",
+  "category": "household",
+  "draw": "Row of five fake nails of decreasing sizes.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "nail-polish-remover",
+  "category": "household",
+  "draw": "Round bottle with a pump dish on top and a cotton pad beside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "makeup-bag",
+  "category": "household",
+  "draw": "Soft pouch with a zip along the top and a lipstick peeking out.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "makeup-organizer",
+  "category": "household",
+  "draw": "Clear stepped organizer with lipsticks standing in slots and a drawer below.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "vanity-case",
+  "category": "household",
+  "draw": "Hard boxy train case with a top handle and a mirror inside the open lid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "serum",
+  "category": "household",
+  "draw": "Slim bottle with a dropper releasing a single drop.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "sheet-mask",
+  "category": "household",
+  "draw": "Face-shaped sheet mask with holes for eyes and mouth.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cleansing-brush",
+  "category": "household",
+  "draw": "Round electric facial cleansing brush head on a handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "perfume-atomizer",
+  "category": "household",
+  "draw": "Vintage perfume bottle with a squeeze bulb on a tube.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wax-warmer",
+  "category": "household",
+  "draw": "Small pot heater with a lid and a wooden spatula dipped in wax.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wax-strip",
+  "category": "household",
+  "draw": "Rectangular wax strip with a tab being peeled back.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "epilator",
+  "category": "household",
+  "draw": "Handheld epilator with a rounded head showing rows of small discs.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "henna-cone",
+  "category": "household",
+  "draw": "Cone applicator with a folded top drawing a floral swirl line.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "kohl-pot",
+  "category": "household",
+  "draw": "Small rounded pot with a thin applicator stick in its narrow neck.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-permanent-press-wash",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with one horizontal line underneath it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-tumble-dry-medium",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a circle and two dots inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-dry-clean-gentle",
+  "category": "household",
+  "draw": "Laundry care symbol: an outline circle with one horizontal line underneath it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dishwasher-tablet",
+  "category": "household",
+  "draw": "Square dishwasher tablet with two coloured layers and a small round ball pressed into its top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "stained-shirt",
+  "category": "household",
+  "draw": "T-shirt with a round splotch stain and a couple of drips on its front.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "steam-generator-iron",
+  "category": "household",
+  "draw": "Clothes iron resting on a boxy water tank base joined by a hose, with a puff of steam.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "trouser-press",
+  "category": "household",
+  "draw": "Upright wall-standing press panel with a pair of pants clamped flat inside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "clip-drying-hanger",
+  "category": "household",
+  "draw": "Round drying hanger with a hook on top and many small pegs dangling from its rim.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "garment-bag",
+  "category": "household",
+  "draw": "Long zippered garment bag with a hanger hook poking out of the top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "nit-comb",
+  "category": "household",
+  "draw": "Metal lice comb with a short handle and long, very fine closely packed teeth.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "ear-pick",
+  "category": "household",
+  "draw": "Slim ear pick stick with a tiny scoop at one end and a fluffy tuft at the other.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "henna-hand",
+  "category": "household",
+  "draw": "Open hand with a floral henna pattern of swirls and dots across the palm and fingers.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hammam-bowl",
+  "category": "household",
+  "draw": "Shallow round metal bath bowl with an embossed pattern and a lip for pouring water.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wooden-soaking-tub",
+  "category": "household",
+  "draw": "Square deep wooden bathtub made of vertical planks with steam rising from the water.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bath-bucket-and-mug",
+  "category": "household",
+  "draw": "Bathing bucket full of water with a plastic mug with a handle floating on top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toothbrush-case",
+  "category": "household",
+  "draw": "Pill-shaped travel case with a toothbrush visible through its clear lid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "sanitizer-stand",
+  "category": "household",
+  "draw": "Freestanding pole with a hand sanitizer dispenser mounted at the top and a drip tray below.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "soap-bubbles",
+  "category": "household",
+  "draw": "Cluster of three round soap bubbles of different sizes with small shine marks.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "curly-hair",
+  "category": "household",
+  "draw": "A single lock of hair twisting into tight springy spiral curls.",
+  "domain": "bathroom-cleaning-laundry-care"
+ }
+]

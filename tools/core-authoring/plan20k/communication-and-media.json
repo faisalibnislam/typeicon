@@ -1,0 +1,1137 @@
+[
+ {
+  "name": "voice-message",
+  "category": "messaging",
+  "draw": "Rounded speech bubble containing a short row of vertical audio waveform bars."
+ },
+ {
+  "name": "video-message",
+  "category": "messaging",
+  "draw": "Rounded speech bubble containing a small play triangle."
+ },
+ {
+  "name": "photo-message",
+  "category": "messaging",
+  "draw": "Rounded speech bubble containing a tiny picture of a mountain and a sun."
+ },
+ {
+  "name": "shared-contact",
+  "category": "messaging",
+  "draw": "Speech bubble with a small head-and-shoulders silhouette inside it."
+ },
+ {
+  "name": "group-chat",
+  "category": "messaging",
+  "draw": "Large speech bubble with three small head-and-shoulders figures inside."
+ },
+ {
+  "name": "direct-message",
+  "category": "messaging",
+  "draw": "Speech bubble with a small paper plane inside it."
+ },
+ {
+  "name": "quick-reply",
+  "category": "messaging",
+  "draw": "Speech bubble with a lightning bolt inside it."
+ },
+ {
+  "name": "emoji-reaction",
+  "category": "messaging",
+  "draw": "Speech bubble with a small round smiley face overlapping its lower corner."
+ },
+ {
+  "name": "chatbot",
+  "category": "messaging",
+  "draw": "Speech bubble whose interior shows a simple robot face with an antenna and square eyes."
+ },
+ {
+  "name": "ai-chat",
+  "category": "messaging",
+  "draw": "Speech bubble with a four-point sparkle star inside."
+ },
+ {
+  "name": "shout-bubble",
+  "category": "messaging",
+  "draw": "Jagged starburst-shaped speech balloon with a pointed tail."
+ },
+ {
+  "name": "whisper-bubble",
+  "category": "messaging",
+  "draw": "Speech balloon drawn with a dashed outline and a small tail."
+ },
+ {
+  "name": "forwarded-message",
+  "category": "messaging",
+  "draw": "Speech bubble with a double right-pointing chevron arrow inside."
+ },
+ {
+  "name": "sms-message",
+  "category": "messaging",
+  "draw": "Speech bubble with the letters SMS inside."
+ },
+ {
+  "name": "animated-gif",
+  "category": "messaging",
+  "draw": "Rounded rectangle tag with the letters GIF inside."
+ },
+ {
+  "name": "text-emoticon",
+  "category": "messaging",
+  "draw": "Speech bubble holding a sideways smiley made of a colon and a bracket."
+ },
+ {
+  "name": "meme-image",
+  "category": "messaging",
+  "draw": "Picture frame with a thick text bar across its top and bottom and a simple face between them."
+ },
+ {
+  "name": "audio-room",
+  "category": "messaging",
+  "draw": "Circle of four small avatar heads around a central microphone."
+ },
+ {
+  "name": "live-reactions",
+  "category": "messaging",
+  "draw": "Three small hearts floating upward in a staggered trail from a point at the bottom."
+ },
+ {
+  "name": "link-in-bio",
+  "category": "messaging",
+  "draw": "Phone screen with a round avatar at the top and three stacked rounded link buttons below."
+ },
+ {
+  "name": "profile-banner",
+  "category": "messaging",
+  "draw": "Wide cover rectangle with a circular avatar overlapping its bottom edge."
+ },
+ {
+  "name": "q-and-a",
+  "category": "messaging",
+  "draw": "Two overlapping speech bubbles, one with the letter Q and one with the letter A."
+ },
+ {
+  "name": "love-letter",
+  "category": "messaging",
+  "draw": "Closed envelope sealed with a heart on the point of its flap."
+ },
+ {
+  "name": "red-envelope",
+  "category": "messaging",
+  "draw": "Tall narrow vertical festive envelope with a round decorative emblem in its centre, used for gifting money."
+ },
+ {
+  "name": "stamped-envelope",
+  "category": "messaging",
+  "draw": "Envelope front with a small perforated stamp in the top-right corner and address lines in the middle."
+ },
+ {
+  "name": "letter-bundle",
+  "category": "messaging",
+  "draw": "Stack of envelopes tied together with a crossed string and a bow."
+ },
+ {
+  "name": "registered-mail",
+  "category": "messaging",
+  "draw": "Envelope with a circled letter R on its front."
+ },
+ {
+  "name": "email-blast",
+  "category": "messaging",
+  "draw": "One envelope in front with three smaller envelopes fanning outward behind it."
+ },
+ {
+  "name": "return-to-sender",
+  "category": "messaging",
+  "draw": "Envelope with a curved U-turn arrow looping back over it."
+ },
+ {
+  "name": "mail-merge",
+  "category": "messaging",
+  "draw": "Document on the left with three branching lines ending in three small envelopes."
+ },
+ {
+  "name": "email-signature",
+  "category": "messaging",
+  "draw": "Envelope with a handwritten signature scribble along its lower half."
+ },
+ {
+  "name": "out-of-office",
+  "category": "messaging",
+  "draw": "Envelope with a small palm tree standing beside it."
+ },
+ {
+  "name": "carbon-copy",
+  "category": "messaging",
+  "draw": "Two stacked offset sheets with the letters CC on the front sheet."
+ },
+ {
+  "name": "mailing-list",
+  "category": "messaging",
+  "draw": "Envelope on the left with three bulleted list lines beside it."
+ },
+ {
+  "name": "junk-mail",
+  "category": "messaging",
+  "draw": "Envelope drooping over the rim of a small wastebasket."
+ },
+ {
+  "name": "postal-code",
+  "category": "messaging",
+  "draw": "Row of five small square digit boxes above a baseline, like an address code field."
+ },
+ {
+  "name": "cluster-mailbox",
+  "category": "messaging",
+  "draw": "Pedestal cabinet with a grid of small numbered doors standing on a short post."
+ },
+ {
+  "name": "stamp-coil",
+  "category": "messaging",
+  "draw": "Roll of postage stamps with a strip of perforated stamps unwinding from it."
+ },
+ {
+  "name": "pen-pal",
+  "category": "messaging",
+  "draw": "Two envelopes crossing in front of a small globe."
+ },
+ {
+  "name": "delivery-door-tag",
+  "category": "messaging",
+  "draw": "Door hanger card with a round hole at the top and a small parcel symbol below."
+ },
+ {
+  "name": "customs-form",
+  "category": "messaging",
+  "draw": "Form sheet with a small globe at the top and rows of checkboxes below."
+ },
+ {
+  "name": "signature-pad",
+  "category": "messaging",
+  "draw": "Handheld rectangular device with a stylus signing a squiggle on its screen."
+ },
+ {
+  "name": "parcel-tracking",
+  "category": "messaging",
+  "draw": "Parcel box with a map pin above it and a dotted route line leading away."
+ },
+ {
+  "name": "mail-bicycle",
+  "category": "messaging",
+  "draw": "Bicycle with a large front basket full of envelopes."
+ },
+ {
+  "name": "invitation-card",
+  "category": "messaging",
+  "draw": "Envelope with a card sticking out of it that has a ribbon bow on it."
+ },
+ {
+  "name": "rsvp-card",
+  "category": "messaging",
+  "draw": "Small card with the letters RSVP and two tick boxes below."
+ },
+ {
+  "name": "guestbook",
+  "category": "messaging",
+  "draw": "Open book on a slanted stand with a pen lying across its pages."
+ },
+ {
+  "name": "payphone",
+  "category": "messaging",
+  "draw": "Wall-mounted box phone with a handset on its side, a keypad and a coin slot."
+ },
+ {
+  "name": "candlestick-phone",
+  "category": "messaging",
+  "draw": "Upright stick telephone with a mouthpiece on top and a separate earpiece hanging on a cord."
+ },
+ {
+  "name": "flip-phone",
+  "category": "messaging",
+  "draw": "Clamshell mobile phone opened at an angle showing a small screen and a keypad."
+ },
+ {
+  "name": "feature-phone",
+  "category": "messaging",
+  "draw": "Candy-bar mobile phone with a small screen above a grid of number keys."
+ },
+ {
+  "name": "brick-phone",
+  "category": "messaging",
+  "draw": "Large brick-shaped early mobile phone with a long stubby antenna."
+ },
+ {
+  "name": "satellite-phone",
+  "category": "messaging",
+  "draw": "Chunky handset with a thick fold-up antenna and a small screen."
+ },
+ {
+  "name": "foldable-phone",
+  "category": "messaging",
+  "draw": "Book-style folding smartphone shown half open with a hinge down the middle."
+ },
+ {
+  "name": "wall-phone",
+  "category": "messaging",
+  "draw": "Wall-mounted phone with the handset hanging on its side and a long coiled cord."
+ },
+ {
+  "name": "field-telephone",
+  "category": "messaging",
+  "draw": "Boxy portable telephone in a carry case with a hand crank on its side and a handset on top."
+ },
+ {
+  "name": "bluetooth-earpiece",
+  "category": "messaging",
+  "draw": "Single ear-hook earpiece with a short boom microphone."
+ },
+ {
+  "name": "rotary-dial",
+  "category": "messaging",
+  "draw": "Round dial disc with a ring of finger holes and a curved finger stop."
+ },
+ {
+  "name": "phone-book",
+  "category": "messaging",
+  "draw": "Thick bound directory with a telephone handset on its cover."
+ },
+ {
+  "name": "phone-card",
+  "category": "messaging",
+  "draw": "Prepaid card with a gold chip on the left and a small handset symbol on the right."
+ },
+ {
+  "name": "caller-id",
+  "category": "messaging",
+  "draw": "Telephone handset next to a small id card with a person silhouette."
+ },
+ {
+  "name": "call-transfer",
+  "category": "messaging",
+  "draw": "Telephone handset with two opposing horizontal arrows above it."
+ },
+ {
+  "name": "conference-call",
+  "category": "messaging",
+  "draw": "Telephone handset with three small head figures above it."
+ },
+ {
+  "name": "call-merge",
+  "category": "messaging",
+  "draw": "Two lines converging into one arrow above a telephone handset."
+ },
+ {
+  "name": "hang-up",
+  "category": "messaging",
+  "draw": "Telephone handset lying horizontally with both ends pointing down."
+ },
+ {
+  "name": "call-log",
+  "category": "messaging",
+  "draw": "Telephone handset beside three short horizontal list lines."
+ },
+ {
+  "name": "phone-speed-dial",
+  "category": "messaging",
+  "draw": "Telephone handset with a small lightning bolt beside it."
+ },
+ {
+  "name": "call-on-hold",
+  "category": "messaging",
+  "draw": "Telephone handset with two vertical pause bars beside it."
+ },
+ {
+  "name": "call-waiting",
+  "category": "messaging",
+  "draw": "Telephone handset with three dots in a row beside it."
+ },
+ {
+  "name": "call-recording",
+  "category": "messaging",
+  "draw": "Telephone handset with a small filled record dot inside a ring."
+ },
+ {
+  "name": "emergency-call",
+  "category": "messaging",
+  "draw": "Telephone handset with the letters SOS beside it."
+ },
+ {
+  "name": "international-call",
+  "category": "messaging",
+  "draw": "Telephone handset in front of a small globe."
+ },
+ {
+  "name": "robocall",
+  "category": "messaging",
+  "draw": "Telephone handset beside a simple robot head with an antenna."
+ },
+ {
+  "name": "phone-tree",
+  "category": "messaging",
+  "draw": "Telephone handset at the top with lines branching down to three numbered boxes."
+ },
+ {
+  "name": "phone-number",
+  "category": "messaging",
+  "draw": "Telephone handset above a short row of digits on a baseline."
+ },
+ {
+  "name": "captioned-telephone",
+  "category": "messaging",
+  "draw": "Desk phone with a large screen showing text lines beside the handset."
+ },
+ {
+  "name": "tty-device",
+  "category": "messaging",
+  "draw": "Keyboard unit with a small text display and a telephone handset resting on top."
+ },
+ {
+  "name": "video-phone",
+  "category": "messaging",
+  "draw": "Desk phone with a small screen showing a face above its keypad."
+ },
+ {
+  "name": "acoustic-coupler",
+  "category": "messaging",
+  "draw": "Modem box with two round rubber cups holding a telephone handset on top."
+ },
+ {
+  "name": "video-conference",
+  "category": "messaging",
+  "draw": "Screen divided into a two by two grid with a head figure in each cell."
+ },
+ {
+  "name": "webinar",
+  "category": "messaging",
+  "draw": "Screen showing a presenter figure at the top and a row of small audience heads below."
+ },
+ {
+  "name": "breakout-rooms",
+  "category": "messaging",
+  "draw": "Large rectangle split into four smaller rooms, each with a small dot figure."
+ },
+ {
+  "name": "screen-recording",
+  "category": "messaging",
+  "draw": "Monitor with a filled record dot inside a ring on its screen."
+ },
+ {
+  "name": "flip-camera",
+  "category": "messaging",
+  "draw": "Camera body with two curved arrows chasing each other around it."
+ },
+ {
+  "name": "virtual-background",
+  "category": "messaging",
+  "draw": "Head-and-shoulders figure in front of a rectangle showing a mountain scene."
+ },
+ {
+  "name": "hybrid-meeting",
+  "category": "messaging",
+  "draw": "Table with two seated figures facing a wall screen that shows two faces."
+ },
+ {
+  "name": "video-bar",
+  "category": "messaging",
+  "draw": "Long thin camera bar with a central lens mounted on top of a screen edge."
+ },
+ {
+  "name": "watch-party",
+  "category": "messaging",
+  "draw": "Two head figures side by side in front of a screen with a play triangle."
+ },
+ {
+  "name": "camcorder",
+  "category": "messaging",
+  "draw": "Handheld video camera with a lens at the front and a flip-out screen on its side."
+ },
+ {
+  "name": "broadcast-camera",
+  "category": "messaging",
+  "draw": "Large studio television camera on a wheeled pedestal with a viewfinder on top."
+ },
+ {
+  "name": "film-cartridge",
+  "category": "messaging",
+  "draw": "Small cylindrical film roll with a spool knob and a tongue of film sticking out."
+ },
+ {
+  "name": "video-timeline",
+  "category": "messaging",
+  "draw": "Horizontal tracks with rectangular clip blocks and a vertical playhead line."
+ },
+ {
+  "name": "screenplay",
+  "category": "messaging",
+  "draw": "Stack of script pages held together by two round brass fasteners on the left edge."
+ },
+ {
+  "name": "color-grading",
+  "category": "messaging",
+  "draw": "Three circular color wheels in a row, each with a small dot off centre."
+ },
+ {
+  "name": "timecode-display",
+  "category": "messaging",
+  "draw": "Rectangle showing four pairs of digits separated by colons."
+ },
+ {
+  "name": "cue-card",
+  "category": "messaging",
+  "draw": "Large card held up by a hand with bold text lines on it."
+ },
+ {
+  "name": "applause-sign",
+  "category": "messaging",
+  "draw": "Wide lit sign box with the word APPLAUSE across it."
+ },
+ {
+  "name": "video-switcher",
+  "category": "messaging",
+  "draw": "Control panel with rows of square buttons and a T-bar lever on the right."
+ },
+ {
+  "name": "field-monitor",
+  "category": "messaging",
+  "draw": "Small monitor with a folding sunshade hood around its screen."
+ },
+ {
+  "name": "film-projector",
+  "category": "messaging",
+  "draw": "Vintage movie projector with two reels on arms and a lens at the front."
+ },
+ {
+  "name": "magic-lantern",
+  "category": "messaging",
+  "draw": "Old lantern-shaped projector with a chimney on top and a lens tube at the front."
+ },
+ {
+  "name": "film-splicer",
+  "category": "messaging",
+  "draw": "Small block with a hinged cutting blade and a film strip held across it."
+ },
+ {
+  "name": "box-office",
+  "category": "messaging",
+  "draw": "Ticket booth window with an arched top and a small speaking hole in the glass."
+ },
+ {
+  "name": "video-cassette-recorder",
+  "category": "messaging",
+  "draw": "Low box with a wide tape slot and a small clock display on its front."
+ },
+ {
+  "name": "microfiche",
+  "category": "messaging",
+  "draw": "Rectangular card covered in a grid of tiny frames with a header strip."
+ },
+ {
+  "name": "tv-guide",
+  "category": "messaging",
+  "draw": "Grid schedule with rows of channel blocks of different widths and a time bar on top."
+ },
+ {
+  "name": "slow-motion",
+  "category": "messaging",
+  "draw": "Play triangle followed by three fading copies trailing behind it."
+ },
+ {
+  "name": "360-video",
+  "category": "messaging",
+  "draw": "Play triangle inside a curved elliptical ring with an arrow head, like a surround view."
+ },
+ {
+  "name": "hd-video",
+  "category": "messaging",
+  "draw": "Rounded rectangle containing the letters HD."
+ },
+ {
+  "name": "4k-resolution",
+  "category": "messaging",
+  "draw": "Rounded rectangle containing the characters 4K."
+ },
+ {
+  "name": "test-card",
+  "category": "messaging",
+  "draw": "Screen showing a circle drawn over vertical bars of different shades."
+ },
+ {
+  "name": "static-noise",
+  "category": "messaging",
+  "draw": "Screen filled with scattered random dots like television snow."
+ },
+ {
+  "name": "news-desk",
+  "category": "messaging",
+  "draw": "Curved desk with a figure seated behind it and a screen on the wall behind them."
+ },
+ {
+  "name": "voice-over",
+  "category": "messaging",
+  "draw": "Microphone in front of a film frame with sound arcs coming from the microphone."
+ },
+ {
+  "name": "transcript",
+  "category": "messaging",
+  "draw": "Document with short lines each starting with a tiny head icon, like a speaker-labelled text."
+ },
+ {
+  "name": "ham-radio",
+  "category": "messaging",
+  "draw": "Radio transceiver box with a large tuning knob, a display and a hand microphone on a coiled cord."
+ },
+ {
+  "name": "radio-tuner-dial",
+  "category": "messaging",
+  "draw": "Horizontal frequency scale with tick marks and a vertical needle."
+ },
+ {
+  "name": "loop-antenna",
+  "category": "messaging",
+  "draw": "Large circular wire loop antenna on a small stand."
+ },
+ {
+  "name": "signal-booster",
+  "category": "messaging",
+  "draw": "Small box with two upright antennas and signal arcs."
+ },
+ {
+  "name": "cell-tower",
+  "category": "messaging",
+  "draw": "Tall lattice tower with rectangular panel antennas mounted near its top."
+ },
+ {
+  "name": "mobile-hotspot",
+  "category": "messaging",
+  "draw": "Smartphone emitting wifi arcs from its top edge."
+ },
+ {
+  "name": "airplane-mode",
+  "category": "messaging",
+  "draw": "Small airplane silhouette inside a rounded square."
+ },
+ {
+  "name": "submarine-cable",
+  "category": "messaging",
+  "draw": "Cable cross-section with concentric protective layers around a central core."
+ },
+ {
+  "name": "telephone-pole",
+  "category": "messaging",
+  "draw": "Wooden pole with a crossarm carrying insulators and drooping wires."
+ },
+ {
+  "name": "microwave-relay-tower",
+  "category": "messaging",
+  "draw": "Tower with two drum-shaped dish antennas pointing in opposite directions."
+ },
+ {
+  "name": "satellite-uplink",
+  "category": "messaging",
+  "draw": "Ground dish angled upward with a dotted beam line reaching a small satellite."
+ },
+ {
+  "name": "signal-interference",
+  "category": "messaging",
+  "draw": "Signal bars with a jagged zigzag line crossing over them."
+ },
+ {
+  "name": "telegraph-key",
+  "category": "messaging",
+  "draw": "Morse key with a flat base, a lever arm and a round finger knob on top."
+ },
+ {
+  "name": "ticker-tape-machine",
+  "category": "messaging",
+  "draw": "Glass dome on a small pedestal with a paper tape strip curling out of it."
+ },
+ {
+  "name": "teletype",
+  "category": "messaging",
+  "draw": "Boxy teleprinter with a keyboard in front and a paper roll on top."
+ },
+ {
+  "name": "speaking-tube",
+  "category": "messaging",
+  "draw": "Curved voice pipe ending in a flared bell mouth with a hinged whistle cap."
+ },
+ {
+  "name": "signal-fire",
+  "category": "messaging",
+  "draw": "Stacked log beacon on a stone pedestal with tall flames on top."
+ },
+ {
+  "name": "heliograph",
+  "category": "messaging",
+  "draw": "Round mirror mounted on a tripod with a sighting rod in front of it."
+ },
+ {
+  "name": "signal-lamp",
+  "category": "messaging",
+  "draw": "Box lamp with horizontal shutter slats across its front lens and a side handle."
+ },
+ {
+  "name": "flare-gun",
+  "category": "messaging",
+  "draw": "Pistol with a short wide barrel and a small star burst at the muzzle."
+ },
+ {
+  "name": "semaphore-telegraph",
+  "category": "messaging",
+  "draw": "Tall post with two long pivoting arms at the top, an optical telegraph."
+ },
+ {
+  "name": "alarm-bell",
+  "category": "messaging",
+  "draw": "Round dome bell mounted on a wall plate with a small striker below it."
+ },
+ {
+  "name": "fire-alarm-pull",
+  "category": "messaging",
+  "draw": "Red wall box with a downward pull handle and a small flame symbol above it."
+ },
+ {
+  "name": "buzzer-button",
+  "category": "messaging",
+  "draw": "Flat round buzzer pad on a small box with a cable."
+ },
+ {
+  "name": "cipher-disk",
+  "category": "messaging",
+  "draw": "Two concentric rings of letters with a small pointer, a disk used for secret codes."
+ },
+ {
+  "name": "app-badge-count",
+  "category": "messaging",
+  "draw": "Rounded square app tile with a small circle holding a number at its top-right corner."
+ },
+ {
+  "name": "ringtone",
+  "category": "messaging",
+  "draw": "Smartphone with a music note beside it."
+ },
+ {
+  "name": "reminder-string",
+  "category": "messaging",
+  "draw": "Index finger with a string bow tied around it."
+ },
+ {
+  "name": "digital-signage",
+  "category": "messaging",
+  "draw": "Tall vertical screen on a floor stand showing a picture block and text lines."
+ },
+ {
+  "name": "press-camera",
+  "category": "messaging",
+  "draw": "Vintage press camera with a folding bellows lens and a large dish flash on its side."
+ },
+ {
+  "name": "press-hat",
+  "category": "messaging",
+  "draw": "Brimmed hat with a small card marked PRESS tucked into its band."
+ },
+ {
+  "name": "rolled-newspaper",
+  "category": "messaging",
+  "draw": "Newspaper rolled into a tube with a band around its middle."
+ },
+ {
+  "name": "digital-newspaper",
+  "category": "messaging",
+  "draw": "Tablet showing a newspaper page with a headline bar and columns."
+ },
+ {
+  "name": "newspaper-clipping",
+  "category": "messaging",
+  "draw": "Torn-out article with a jagged edge, a small headline and a picture block."
+ },
+ {
+  "name": "breaking-news",
+  "category": "messaging",
+  "draw": "Television lower-third banner with a lightning bolt at its left end."
+ },
+ {
+  "name": "news-ticker",
+  "category": "messaging",
+  "draw": "Long horizontal strip with text blocks and a small arrow at its right end."
+ },
+ {
+  "name": "press-pass",
+  "category": "messaging",
+  "draw": "Lanyard badge with the word PRESS across it."
+ },
+ {
+  "name": "press-conference",
+  "category": "messaging",
+  "draw": "Podium with a cluster of several microphones on its top edge."
+ },
+ {
+  "name": "interview-microphone",
+  "category": "messaging",
+  "draw": "Handheld microphone with a square station cube around its neck."
+ },
+ {
+  "name": "reporter-notebook",
+  "category": "messaging",
+  "draw": "Tall narrow spiral pad bound at the top with lines of notes."
+ },
+ {
+  "name": "classified-ads",
+  "category": "messaging",
+  "draw": "Page grid of many small boxed text blocks in columns."
+ },
+ {
+  "name": "zine",
+  "category": "messaging",
+  "draw": "Small folded stapled booklet with a hand-drawn star on its cover."
+ },
+ {
+  "name": "tear-off-flyer",
+  "category": "messaging",
+  "draw": "Sheet pinned at the top with a row of vertical tear-off tabs along its bottom edge."
+ },
+ {
+  "name": "protest-sign",
+  "category": "messaging",
+  "draw": "Rectangular placard on a wooden stick with a bold line of text."
+ },
+ {
+  "name": "skywriting",
+  "category": "messaging",
+  "draw": "Small plane trailing a looping smoke line behind it."
+ },
+ {
+  "name": "aerial-banner",
+  "category": "messaging",
+  "draw": "Small plane towing a long rectangular banner on a line."
+ },
+ {
+  "name": "blog-post",
+  "category": "messaging",
+  "draw": "Browser window with a heading bar and a pen nib overlapping its corner."
+ },
+ {
+  "name": "press-release",
+  "category": "messaging",
+  "draw": "Document with a small megaphone in its upper corner."
+ },
+ {
+  "name": "almanac",
+  "category": "messaging",
+  "draw": "Thick book with a sun and a crescent moon on its cover."
+ },
+ {
+  "name": "mimeograph",
+  "category": "messaging",
+  "draw": "Drum duplicator with a large cylinder, a side crank and a paper tray."
+ },
+ {
+  "name": "proofreading-marks",
+  "category": "messaging",
+  "draw": "Page with a caret insertion mark and a looped deletion mark drawn over its lines."
+ },
+ {
+  "name": "bookplate",
+  "category": "messaging",
+  "draw": "Rectangular label with a decorative border, a small open book and a name line."
+ },
+ {
+  "name": "clay-tablet",
+  "category": "messaging",
+  "draw": "Rounded rectangle tablet covered in rows of small wedge-shaped marks."
+ },
+ {
+  "name": "panel-discussion",
+  "category": "messaging",
+  "draw": "Three head figures behind a long table with a microphone in front of each."
+ },
+ {
+  "name": "broadcast-interview",
+  "category": "messaging",
+  "draw": "Two chairs facing each other with a microphone on a stand between them."
+ },
+ {
+  "name": "debate",
+  "category": "messaging",
+  "draw": "Two podiums facing each other with a speech bubble above each one."
+ },
+ {
+  "name": "petition",
+  "category": "messaging",
+  "draw": "Clipboard with several signature lines filled with scribbles."
+ },
+ {
+  "name": "voice-command",
+  "category": "messaging",
+  "draw": "Head profile facing right with sound waves coming out of the mouth."
+ },
+ {
+  "name": "name-tag",
+  "category": "messaging",
+  "draw": "Rectangular sticker with a solid top band and a blank line for a written name."
+ },
+ {
+  "name": "tag-person",
+  "category": "messaging",
+  "draw": "Price tag shape with a small head-and-shoulders figure inside."
+ },
+ {
+  "name": "viral-spread",
+  "category": "messaging",
+  "draw": "Central dot linked to several nodes which each branch out to more nodes."
+ },
+ {
+  "name": "fan-mail",
+  "category": "messaging",
+  "draw": "Pile of envelopes with a small star on the top one."
+ },
+ {
+  "name": "online-dating",
+  "category": "messaging",
+  "draw": "Two phone screens facing each other with a heart between them."
+ },
+ {
+  "name": "slash-command",
+  "category": "messaging",
+  "draw": "Speech bubble with a single forward slash inside it."
+ },
+ {
+  "name": "voice-channel",
+  "category": "messaging",
+  "draw": "Speaker cone with sound arcs and a small hash sign beside it."
+ },
+ {
+  "name": "quoted-reply",
+  "category": "messaging",
+  "draw": "Speech bubble with a small nested block at its top made of a vertical bar and a short line."
+ },
+ {
+  "name": "e-card",
+  "category": "messaging",
+  "draw": "Screen showing a folded greeting card with a heart on its front."
+ },
+ {
+  "name": "mail-chute",
+  "category": "messaging",
+  "draw": "Tall narrow glass-fronted wall chute with a brass slot box at its base."
+ },
+ {
+  "name": "mail-tray",
+  "category": "messaging",
+  "draw": "Rectangular postal tray with hand holes at each end, filled with upright letters."
+ },
+ {
+  "name": "stamp-vending-machine",
+  "category": "messaging",
+  "draw": "Upright box machine with a small display, a coin slot and a stamp dispensing slot."
+ },
+ {
+  "name": "slider-phone",
+  "category": "messaging",
+  "draw": "Mobile phone with its screen half slid upward revealing a keypad beneath."
+ },
+ {
+  "name": "car-telephone",
+  "category": "messaging",
+  "draw": "Corded handset resting in a console cradle with a coiled cord."
+ },
+ {
+  "name": "sim-eject-tool",
+  "category": "messaging",
+  "draw": "Small flat metal pin with a round loop at one end."
+ },
+ {
+  "name": "dual-sim",
+  "category": "messaging",
+  "draw": "Two SIM cards with clipped corners overlapping each other."
+ },
+ {
+  "name": "5g-network",
+  "category": "messaging",
+  "draw": "Signal bars beside the characters 5G."
+ },
+ {
+  "name": "satellite-texting",
+  "category": "messaging",
+  "draw": "Smartphone with a dotted arc reaching up to a small satellite."
+ },
+ {
+  "name": "push-to-talk",
+  "category": "messaging",
+  "draw": "Round button marked with a microphone and sound arcs, pressed by a finger."
+ },
+ {
+  "name": "telephone-plug",
+  "category": "messaging",
+  "draw": "Small square modular plug with a latch clip and a flat cable."
+ },
+ {
+  "name": "room-booking-panel",
+  "category": "messaging",
+  "draw": "Small tablet mounted on a wall beside a door edge showing a status bar."
+ },
+ {
+  "name": "interactive-whiteboard",
+  "category": "messaging",
+  "draw": "Large wall screen on a rolling stand with a stylus stroke on it."
+ },
+ {
+  "name": "background-blur",
+  "category": "messaging",
+  "draw": "Head-and-shoulders figure in front of a background of soft scattered dots."
+ },
+ {
+  "name": "viewer-count",
+  "category": "messaging",
+  "draw": "Eye symbol beside a small number on a rounded tag."
+ },
+ {
+  "name": "film-countdown",
+  "category": "messaging",
+  "draw": "Circle with crosshair lines and a large number 3 in its centre, the film leader countdown."
+ },
+ {
+  "name": "red-carpet",
+  "category": "messaging",
+  "draw": "Long carpet runner in perspective with a rope stanchion on each side."
+ },
+ {
+  "name": "velvet-rope",
+  "category": "messaging",
+  "draw": "Two posts with round tops joined by a drooping rope."
+ },
+ {
+  "name": "home-movie-camera",
+  "category": "messaging",
+  "draw": "Small handheld film camera with a pistol grip and a short lens."
+ },
+ {
+  "name": "portable-tv",
+  "category": "messaging",
+  "draw": "Small handheld television with a tiny screen and a telescopic antenna."
+ },
+ {
+  "name": "signal-splitter",
+  "category": "messaging",
+  "draw": "Small box with one cable coming in on one side and two cables leaving the other."
+ },
+ {
+  "name": "sos-ground-signal",
+  "category": "messaging",
+  "draw": "Letters SOS laid out on the ground with small stones."
+ },
+ {
+  "name": "hand-crank-siren",
+  "category": "messaging",
+  "draw": "Round siren housing with a side crank handle and a grip underneath."
+ },
+ {
+  "name": "bell-pull",
+  "category": "messaging",
+  "draw": "Rope hanging from a ceiling bracket ending in a tassel."
+ },
+ {
+  "name": "now-serving-display",
+  "category": "messaging",
+  "draw": "Wall screen showing a large ticket number with a small arrow beside it."
+ },
+ {
+  "name": "research-paper",
+  "category": "messaging",
+  "draw": "Document with a title bar, a boxed abstract and two columns of text lines."
+ },
+ {
+  "name": "yard-sign",
+  "category": "messaging",
+  "draw": "Small rectangular sign on a two-pronged wire stake stuck into grass."
+ },
+ {
+  "name": "unsend-message",
+  "category": "messaging",
+  "draw": "Speech bubble with a curved arrow inside it looping back to the left."
+ },
+ {
+  "name": "cold-email",
+  "category": "messaging",
+  "draw": "Envelope with a small snowflake on its front."
+ },
+ {
+  "name": "courier-envelope",
+  "category": "messaging",
+  "draw": "Large stiff cardboard envelope with a pull-tab strip across its top."
+ },
+ {
+  "name": "phone-off-hook",
+  "category": "messaging",
+  "draw": "Desk telephone base with its handset lying on its side next to it."
+ },
+ {
+  "name": "studio-clock",
+  "category": "messaging",
+  "draw": "Round wall clock ringed with a circle of small second dots and a digital time in the centre."
+ },
+ {
+  "name": "cinema-seats",
+  "category": "messaging",
+  "draw": "Row of three folding theatre seats with armrests, seen from the front."
+ },
+ {
+  "name": "end-credits",
+  "category": "messaging",
+  "draw": "Screen with centred text lines of different lengths and a small upward arrow at the side."
+ },
+ {
+  "name": "aviation-headset",
+  "category": "messaging",
+  "draw": "Headset with thick padded ear cups, a padded headband and a boom microphone."
+ },
+ {
+  "name": "newspaper-bundle",
+  "category": "messaging",
+  "draw": "Stack of folded newspapers tied together with a crossed string."
+ },
+ {
+  "name": "inflatable-air-dancer",
+  "category": "messaging",
+  "draw": "Tall tube-shaped inflatable figure with waving arms bending in the wind on a fan base."
+ },
+ {
+  "name": "feather-flag",
+  "category": "messaging",
+  "draw": "Tall curved feather-shaped banner flag on a flexible pole with a ground spike."
+ },
+ {
+  "name": "social-listening",
+  "category": "messaging",
+  "draw": "Ear with a small hash sign and sound arcs beside it."
+ },
+ {
+  "name": "guest-list",
+  "category": "messaging",
+  "draw": "Clipboard with a column of name lines and small tick boxes."
+ },
+ {
+  "name": "alphabet-board",
+  "category": "messaging",
+  "draw": "Board with a grid of letters and two larger boxes marked yes and no across the top."
+ },
+ {
+  "name": "radome",
+  "category": "messaging",
+  "draw": "Large geodesic sphere dome on a short cylindrical base, a radar enclosure."
+ },
+ {
+  "name": "face-filter",
+  "category": "messaging",
+  "draw": "Face outline with pointed animal ears and a small animal nose drawn over it."
+ },
+ {
+  "name": "save-the-date-card",
+  "category": "messaging",
+  "draw": "Card with a small calendar page and a heart in its centre."
+ },
+ {
+  "name": "place-card",
+  "category": "messaging",
+  "draw": "Small folded tent card standing on a table with a name line on its front."
+ }
+]

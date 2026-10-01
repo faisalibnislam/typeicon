@@ -1,0 +1,22 @@
+{
+  "book-cipher": {
+    "context": "An open book with one word circled and a row of number dots beneath it. Used for book ciphers and code books, secret messages keyed to a text, cryptography lessons and puzzle games.",
+    "keywords": ["book cipher", "code book", "codebook", "cipher", "secret code", "secret message", "cryptography", "encryption", "decryption", "encode", "decode", "word code", "page and word numbers", "spy", "puzzle", "escape room", "hidden message", "steganography", "reference text", "key text", "cryptogram", "ciphertext", "coded message"]
+  },
+  "cipher-grille": {
+    "context": "A card with rectangular holes cut in it, so only a few letters show through when laid over a page. Used for grille ciphers, stencil codes, hidden messages and redaction or masking ideas.",
+    "keywords": ["cipher grille", "cardan grille", "grille cipher", "stencil cipher", "stencil", "mask", "template", "cutout", "holes", "hidden text", "secret message", "cryptography", "encryption", "cipher", "code card", "reveal", "redaction", "puzzle", "spy", "decoder", "decode", "overlay", "transposition cipher"]
+  },
+  "safe-exchange-zone": {
+    "context": "A signpost with a two-way arrow panel and a security camera mounted on top of the post. Marks monitored spots for safe meetups, online sale handovers, parcel and item swaps.",
+    "keywords": ["safe exchange zone", "safe exchange", "safe trade", "safe meetup", "meetup spot", "monitored", "camera", "cctv", "surveillance", "signpost", "sign", "handover", "swap", "exchange", "marketplace", "online sale", "classifieds", "pickup point", "police station", "secure meeting place", "trade spot", "buyer seller", "safe zone", "video monitored"]
+  },
+  "card-cloning": {
+    "context": "A solid access card with an arrow pointing to a dashed duplicate card. Used for card skimming and cloning warnings, RFID badge copying, fraud alerts and security training.",
+    "keywords": ["card cloning", "clone card", "cloned card", "skimming", "card skimmer", "copy card", "duplicate card", "counterfeit", "fake card", "rfid clone", "badge copy", "access card", "key card", "credit card fraud", "payment fraud", "fraud alert", "duplicate", "copy", "security", "hack", "security threat", "nfc", "magstripe", "swipe"]
+  },
+  "relay-attack": {
+    "context": "A key fob on the left and a car on the right, with a small relay box above passing zigzag signals to both. Shows keyless entry relay theft, signal extension attacks and wireless security warnings.",
+    "keywords": ["relay attack", "keyless entry", "keyless theft", "car theft", "car hacking", "key fob", "fob", "car key", "signal relay", "signal amplifier", "wireless attack", "signal extender", "man in the middle", "mitm", "hack", "hacking", "vehicle security", "auto theft", "proximity key", "remote unlock", "wireless", "radio", "security threat", "cyber attack"]
+  }
+}

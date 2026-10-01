@@ -1,0 +1,832 @@
+[
+  {
+    "name": "vent-brush",
+    "category": "beauty",
+    "draw": "A hairbrush seen from the front whose oval head is pierced by rows of open slots between short bristle rows, with a straight handle."
+  },
+  {
+    "name": "edge-brush",
+    "category": "beauty",
+    "draw": "A small slim double-ended tool: a tiny bristle brush at one end and a fine-tooth comb at the other, drawn diagonally."
+  },
+  {
+    "name": "hair-crimper",
+    "category": "beauty",
+    "draw": "A hinged styling iron with two long flat plates opened slightly, the plate faces showing zigzag ridges, and a cord from the handle."
+  },
+  {
+    "name": "hair-bonnet",
+    "category": "beauty",
+    "draw": "A puffy round sleep bonnet seen from the side with a gathered elastic band along the lower edge, shaped like a large soft shower cap."
+  },
+  {
+    "name": "sectioning-clip",
+    "category": "beauty",
+    "draw": "A long narrow duckbill hair clip seen from the side, jaws closed to a point and a spring hinge bump near the back."
+  },
+  {
+    "name": "banana-clip",
+    "category": "beauty",
+    "draw": "A long curved comb clip shaped like a banana, hinged at the bottom, with interlocking teeth along both inner edges."
+  },
+  {
+    "name": "hair-fork",
+    "category": "beauty",
+    "draw": "A U-shaped two-prong hair pin with long straight tines and a decorative rounded top, drawn vertically."
+  },
+  {
+    "name": "hair-donut",
+    "category": "beauty",
+    "draw": "A thick ring of mesh sponge seen at an angle, like a doughnut, used to shape a bun, with a light dotted texture."
+  },
+  {
+    "name": "neck-duster",
+    "category": "beauty",
+    "draw": "A barber neck duster: a round fat brush of soft bristles fanning from a short wooden handle."
+  },
+  {
+    "name": "tint-bowl",
+    "category": "beauty",
+    "draw": "A shallow hair colour mixing bowl with a grip rim, and a flat tint brush with a pointed tail handle resting across it."
+  },
+  {
+    "name": "hair-foils",
+    "category": "beauty",
+    "draw": "Head seen from the side with several folded foil packets lying in layers across the hair, each a small rectangle."
+  },
+  {
+    "name": "highlighting-cap",
+    "category": "beauty",
+    "draw": "A head wearing a snug cap dotted with small holes, with a few strands pulled through and a hook tool beside it."
+  },
+  {
+    "name": "color-swatch-ring",
+    "category": "beauty",
+    "draw": "A fan of hair colour swatch strands hanging from a single ring, each strand a tapered lock with a small tag."
+  },
+  {
+    "name": "hair-color-applicator-bottle",
+    "category": "beauty",
+    "draw": "A squeeze bottle with measurement lines on its side and a long tapered nozzle cap, used to apply hair dye."
+  },
+  {
+    "name": "clipper-guard",
+    "category": "beauty",
+    "draw": "A clip-on clipper guard comb seen from the side: a comb-toothed plastic attachment with a curved spine and a number tab."
+  },
+  {
+    "name": "razor-strop",
+    "category": "beauty",
+    "draw": "A long leather strap hanging from a hook at the top, with a handle at the bottom end and a straight razor laid against it."
+  },
+  {
+    "name": "shaving-stand",
+    "category": "beauty",
+    "draw": "A small stand with a pedestal base holding a shaving brush hanging bristles down and a razor hanging beside it."
+  },
+  {
+    "name": "beard-shaping-tool",
+    "category": "beauty",
+    "draw": "A flat plastic template comb with curved outer edges matching a beard line and a row of teeth along one side."
+  },
+  {
+    "name": "beard-bib",
+    "category": "beauty",
+    "draw": "A cape-like apron stretched under a chin with two suction cups at its upper corners stuck to a mirror edge, catching trimmed hair."
+  },
+  {
+    "name": "comb-disinfectant-jar",
+    "category": "beauty",
+    "draw": "A tall cylindrical glass jar filled with liquid and a lid, with two combs standing submerged inside."
+  },
+  {
+    "name": "shears-holster",
+    "category": "beauty",
+    "draw": "A leather holster pouch with two slots, one holding hair shears with finger rings sticking out and one holding a comb."
+  },
+  {
+    "name": "hair-mousse",
+    "category": "beauty",
+    "draw": "An aerosol can with a nozzle cap and a round cloud of foam sitting beside the nozzle."
+  },
+  {
+    "name": "pressing-comb",
+    "category": "beauty",
+    "draw": "A metal hot comb with a row of wide teeth on a solid metal body and a wooden handle, with small heat waves above."
+  },
+  {
+    "name": "hair-twist-sponge",
+    "category": "beauty",
+    "draw": "A rectangular sponge pad covered in a grid of round holes, pressed against a patch of coiled hair."
+  },
+  {
+    "name": "peineta-comb",
+    "category": "beauty",
+    "draw": "A tall ornamental hair comb with an arched lacy crown and short teeth at the bottom, worn upright behind a bun."
+  },
+  {
+    "name": "hair-perm",
+    "category": "beauty",
+    "draw": "Head seen from the side with rows of small cylindrical perm rods wound tight across the hair."
+  },
+  {
+    "name": "hair-clippings",
+    "category": "beauty",
+    "draw": "A small pile of cut hair locks on the floor with a pair of scissors lying next to it."
+  },
+  {
+    "name": "hair-transplant",
+    "category": "beauty",
+    "draw": "The top of a bald head seen from above with a neat grid of tiny dots of implanted hair across the front."
+  },
+  {
+    "name": "uv-sterilizer-cabinet",
+    "category": "beauty",
+    "draw": "A small cabinet with a glass door showing tools on a shelf, lit by a tube lamp inside with short rays."
+  },
+  {
+    "name": "towel-warmer-cabinet",
+    "category": "beauty",
+    "draw": "A small box cabinet with a front door opened to show rolled towels stacked inside and wavy steam lines above."
+  },
+  {
+    "name": "rolling-stool",
+    "category": "beauty",
+    "draw": "A round padded stool seen from the side on a single gas lift column with a five-caster wheel base."
+  },
+  {
+    "name": "salon-styling-chair",
+    "category": "beauty",
+    "draw": "A salon chair with a rounded back, armrests, a hydraulic column on a wide round base and a foot pump pedal."
+  },
+  {
+    "name": "salon-trolley",
+    "category": "beauty",
+    "draw": "A narrow rolling cart with three stacked trays holding brushes, clips and a spray bottle, on small wheels."
+  },
+  {
+    "name": "styling-station",
+    "category": "beauty",
+    "draw": "A wall mirror above a narrow counter shelf holding a dryer and brushes, with a salon chair back in front."
+  },
+  {
+    "name": "magnifying-lamp",
+    "category": "beauty",
+    "draw": "A round ring lamp with a large magnifying lens in the middle, on a jointed arm with a clamp base."
+  },
+  {
+    "name": "bob-haircut",
+    "category": "beauty",
+    "draw": "Head and shoulders in front view with straight chin-length hair cut level all around, framing the face."
+  },
+  {
+    "name": "pixie-cut",
+    "category": "beauty",
+    "draw": "Head in three-quarter view with very short cropped hair and a small side-swept fringe over the forehead."
+  },
+  {
+    "name": "buzz-cut",
+    "category": "beauty",
+    "draw": "Head in front view with hair clipped very short and even, shown as a thin textured cap close to the scalp."
+  },
+  {
+    "name": "undercut-hairstyle",
+    "category": "beauty",
+    "draw": "Head in side view with long hair on top swept back and the side and back shaved short below a sharp line."
+  },
+  {
+    "name": "mohawk-hairstyle",
+    "category": "beauty",
+    "draw": "Head in side view with shaved sides and a tall strip of spiked hair running from forehead to nape."
+  },
+  {
+    "name": "pompadour",
+    "category": "beauty",
+    "draw": "Head in side view with hair swept up high and back from the forehead in a big rolled wave, short at the sides."
+  },
+  {
+    "name": "mullet",
+    "category": "beauty",
+    "draw": "Head in side view with short hair on top and sides and long hair hanging down over the back of the neck."
+  },
+  {
+    "name": "man-bun",
+    "category": "beauty",
+    "draw": "Head in side view with hair pulled back tight and gathered into a round bun at the back of the crown, with a short beard."
+  },
+  {
+    "name": "space-buns",
+    "category": "beauty",
+    "draw": "Head in front view with two round buns sitting high on either side of the top of the head."
+  },
+  {
+    "name": "pigtails",
+    "category": "beauty",
+    "draw": "Head in front view with hair parted in the middle and tied into two bunches sticking out low on each side."
+  },
+  {
+    "name": "french-braid",
+    "category": "beauty",
+    "draw": "Back of a head showing a single braid woven close to the scalp from the crown, then hanging down in a plait."
+  },
+  {
+    "name": "cornrows",
+    "category": "beauty",
+    "draw": "Top of a head seen from above with several parallel tight braids running from forehead to nape in neat rows."
+  },
+  {
+    "name": "dreadlocks",
+    "category": "beauty",
+    "draw": "Head in front view with long rope-like locks hanging down past the shoulders, each lock a separate thick strand."
+  },
+  {
+    "name": "afro-hairstyle",
+    "category": "beauty",
+    "draw": "Head in front view with a large rounded halo of textured hair around the face and above the head."
+  },
+  {
+    "name": "bangs-hairstyle",
+    "category": "beauty",
+    "draw": "Head in front view with straight hair and a blunt fringe cut straight across the forehead above the eyebrows."
+  },
+  {
+    "name": "side-part-hairstyle",
+    "category": "beauty",
+    "draw": "Head in front view with short neat hair divided by a clear parting line on one side and combed across."
+  },
+  {
+    "name": "slicked-back-hair",
+    "category": "beauty",
+    "draw": "Head in side view with hair combed flat straight back from the forehead in smooth parallel lines."
+  },
+  {
+    "name": "bald-head",
+    "category": "beauty",
+    "draw": "Head and shoulders in front view with a smooth fully bald scalp and a small highlight shine on top."
+  },
+  {
+    "name": "comb-over",
+    "category": "beauty",
+    "draw": "Head in front view with a thin layer of long strands combed from one side across a bald crown."
+  },
+  {
+    "name": "beehive-hairdo",
+    "category": "beauty",
+    "draw": "Head in side view with hair piled into a tall rounded cone on top, like a beehive, smooth at the sides."
+  },
+  {
+    "name": "french-twist",
+    "category": "beauty",
+    "draw": "Back of a head showing hair twisted into a vertical roll up the middle, tucked in, with a pin at the top."
+  },
+  {
+    "name": "box-braids",
+    "category": "beauty",
+    "draw": "Head in front view with many long thin square-parted braids hanging straight down past the shoulders."
+  },
+  {
+    "name": "bantu-knots",
+    "category": "beauty",
+    "draw": "Head in front view with several small coiled knots spaced evenly across the scalp in a grid."
+  },
+  {
+    "name": "half-up-half-down",
+    "category": "beauty",
+    "draw": "Back of a head with the upper section tied into a small bun or ponytail and the rest of the hair hanging loose below."
+  },
+  {
+    "name": "flat-top-haircut",
+    "category": "beauty",
+    "draw": "Head in front view with short sides and hair on top standing up to a perfectly flat level surface."
+  },
+  {
+    "name": "fade-haircut",
+    "category": "beauty",
+    "draw": "Head in side view with short hair on top that shades down to bare skin at the sides, shown by a dotted gradient."
+  },
+  {
+    "name": "spiky-hair",
+    "category": "beauty",
+    "draw": "Head in front view with short hair styled into many sharp upward spikes across the top."
+  },
+  {
+    "name": "finger-waves",
+    "category": "beauty",
+    "draw": "Head in side view with short hair set into flat S-shaped ridged waves running across the head, 1920s style."
+  },
+  {
+    "name": "victory-rolls",
+    "category": "beauty",
+    "draw": "Head in front view with two large rolled curls sitting on top at the front on either side of the part, 1940s style."
+  },
+  {
+    "name": "bowl-cut",
+    "category": "beauty",
+    "draw": "Head in front view with hair cut in an even rounded cap, straight fringe over the forehead and level all around like an upturned bowl."
+  },
+  {
+    "name": "pencil-mustache",
+    "category": "beauty",
+    "draw": "Lower face showing a very thin narrow line mustache just above the upper lip, with a small gap in the middle."
+  },
+  {
+    "name": "walrus-mustache",
+    "category": "beauty",
+    "draw": "Lower face with a thick bushy mustache that droops down and covers the whole upper lip and the mouth corners."
+  },
+  {
+    "name": "horseshoe-mustache",
+    "category": "beauty",
+    "draw": "Lower face with a mustache running down both sides of the mouth to the jawline in an upside-down U shape."
+  },
+  {
+    "name": "sideburns",
+    "category": "beauty",
+    "draw": "Face in front view with thick wide sideburns running down the cheeks from the ears to the jaw, chin shaved."
+  },
+  {
+    "name": "chin-strap-beard",
+    "category": "beauty",
+    "draw": "Face in front view with a thin line of beard following the jawline from ear to ear under the chin, no mustache."
+  },
+  {
+    "name": "soul-patch",
+    "category": "beauty",
+    "draw": "Lower face with a small tuft of hair just below the lower lip and nothing else."
+  },
+  {
+    "name": "van-dyke-beard",
+    "category": "beauty",
+    "draw": "Lower face with a separate upturned mustache and a pointed goatee beard on the chin, cheeks bare."
+  },
+  {
+    "name": "french-manicure",
+    "category": "beauty",
+    "draw": "A fingertip with a long nail whose tip is marked by a curved white band across the free edge."
+  },
+  {
+    "name": "nail-drill",
+    "category": "beauty",
+    "draw": "A slim electric nail file handpiece like a pen with a small drill bit at the tip and a cord from the back."
+  },
+  {
+    "name": "dappen-dish",
+    "category": "beauty",
+    "draw": "A small glass dish with a lid on a thick base holding acrylic liquid, with a nail brush resting on its rim."
+  },
+  {
+    "name": "nail-dust-collector",
+    "category": "beauty",
+    "draw": "A flat low box with a grille on top where a hand rests, and a small fan inside drawn through the vents."
+  },
+  {
+    "name": "manicure-bowl",
+    "category": "beauty",
+    "draw": "A small curved bowl shaped for fingertips, with a hand dipping four fingers into water in it."
+  },
+  {
+    "name": "pedicure-chair",
+    "category": "beauty",
+    "draw": "A large padded throne-like chair with armrests and a round foot basin built into the base in front."
+  },
+  {
+    "name": "nail-swatch-wheel",
+    "category": "beauty",
+    "draw": "A circular display wheel with false nail tips arranged radially around its edge, each tip a small painted nail."
+  },
+  {
+    "name": "dotting-tool",
+    "category": "beauty",
+    "draw": "A slim double-ended stick with a small metal ball at each end, a dot of polish next to one end."
+  },
+  {
+    "name": "nail-stamper",
+    "category": "beauty",
+    "draw": "A round silicone stamper head on a short handle beside a metal plate etched with a small pattern."
+  },
+  {
+    "name": "cuticle-oil-pen",
+    "category": "beauty",
+    "draw": "A slim pen-shaped tube with a twist end and a small brush tip, with a droplet near the tip."
+  },
+  {
+    "name": "manicure-cushion",
+    "category": "beauty",
+    "draw": "A padded arm rest pillow on a table with a hand laid on it palm down, fingers spread."
+  },
+  {
+    "name": "manicure-set",
+    "category": "beauty",
+    "draw": "An open zip case with elastic loops holding a nail file, scissors, clippers and tweezers."
+  },
+  {
+    "name": "orange-wood-stick",
+    "category": "beauty",
+    "draw": "A slim wooden stick with one end cut to a slanted chisel and the other end tapered to a point."
+  },
+  {
+    "name": "nail-tip-cutter",
+    "category": "beauty",
+    "draw": "A guillotine nail tip cutter: a small plier with a flat plate and slot, cutting a long false nail tip."
+  },
+  {
+    "name": "broken-nail",
+    "category": "beauty",
+    "draw": "A fingertip whose nail has a jagged crack across it with a small piece lifting away."
+  },
+  {
+    "name": "nail-brush",
+    "category": "beauty",
+    "draw": "A small handheld scrubbing brush with a rounded wooden back and stiff bristles on both long sides."
+  },
+  {
+    "name": "nail-soak-off-clips",
+    "category": "beauty",
+    "draw": "A fingertip wrapped in a foil pad held tight by a small plastic spring clip on the nail."
+  },
+  {
+    "name": "manicure-table",
+    "category": "beauty",
+    "draw": "A small table with a gooseneck lamp at one end, a hand cushion in the middle and polish bottles on a shelf."
+  },
+  {
+    "name": "paraffin-wax-bath",
+    "category": "beauty",
+    "draw": "A rectangular warming tub filled with melted wax and a hand being dipped into it up to the wrist."
+  },
+  {
+    "name": "fish-pedicure",
+    "category": "beauty",
+    "draw": "A pair of feet in a tank of water with several small fish clustered around the toes."
+  },
+  {
+    "name": "lip-liner",
+    "category": "beauty",
+    "draw": "A slim cosmetic pencil drawn diagonally beside an outline of lips traced by its tip."
+  },
+  {
+    "name": "liquid-lipstick",
+    "category": "beauty",
+    "draw": "A slim tube with a long cap pulled out showing a doe-foot applicator wand with a slanted flat tip."
+  },
+  {
+    "name": "face-contouring",
+    "category": "beauty",
+    "draw": "Face in front view with short diagonal shading strokes under the cheekbones, along the jaw and at the temples."
+  },
+  {
+    "name": "setting-spray",
+    "category": "beauty",
+    "draw": "A slim pump mist bottle spraying a fan of fine dots toward the side of a face."
+  },
+  {
+    "name": "loose-powder",
+    "category": "beauty",
+    "draw": "A round jar with its lid off showing a sifter with small holes on top, with a little powder puff beside it."
+  },
+  {
+    "name": "powder-puff",
+    "category": "beauty",
+    "draw": "A soft round velour puff seen at an angle with a ribbon strap across its top for the fingers."
+  },
+  {
+    "name": "kabuki-brush",
+    "category": "beauty",
+    "draw": "A short makeup brush with a very dense rounded dome of bristles on a stubby handle."
+  },
+  {
+    "name": "angled-brow-brush",
+    "category": "beauty",
+    "draw": "A thin makeup brush with a small stiff bristle tip cut at a sharp slant, beside an eyebrow stroke."
+  },
+  {
+    "name": "brow-stencil",
+    "category": "beauty",
+    "draw": "A small rectangular plastic card with an eyebrow shaped cutout in the middle."
+  },
+  {
+    "name": "face-chart",
+    "category": "beauty",
+    "draw": "A sheet of paper showing a blank face outline with eyes and lips, and a few colour swatches in the margin."
+  },
+  {
+    "name": "brush-cleaning-mat",
+    "category": "beauty",
+    "draw": "A rounded silicone pad covered in ridged bumps and lines, with a makeup brush being swirled on it."
+  },
+  {
+    "name": "makeup-brush-holder",
+    "category": "beauty",
+    "draw": "A cylindrical cup holding several makeup brushes of different sizes standing upright."
+  },
+  {
+    "name": "winged-eyeliner",
+    "category": "beauty",
+    "draw": "An open eye with a bold liner line along the upper lid that sweeps up past the outer corner into a sharp flick."
+  },
+  {
+    "name": "beauty-mark",
+    "category": "beauty",
+    "draw": "Face in front view with a single small dark dot above one corner of the mouth."
+  },
+  {
+    "name": "eyeshadow-applicator",
+    "category": "beauty",
+    "draw": "A short stick with an oval sponge tip at each end, one tip dipped in shadow."
+  },
+  {
+    "name": "foundation-shade-swatches",
+    "category": "beauty",
+    "draw": "A row of short brushed stripes going from light to deep tones, with a drop of liquid at one end."
+  },
+  {
+    "name": "toner-bottle",
+    "category": "beauty",
+    "draw": "A tall slim cosmetic bottle with a small screw cap and a cotton pad beside it with a drop landing on it."
+  },
+  {
+    "name": "facial-cleanser",
+    "category": "beauty",
+    "draw": "A squeeze tube with a flip cap and a mound of foam bubbles squeezed out onto a fingertip."
+  },
+  {
+    "name": "clay-mask",
+    "category": "beauty",
+    "draw": "A face in front view with a thick mask coating over the forehead, cheeks and chin, leaving eyes and lips clear, and a jar with a spatula beside it."
+  },
+  {
+    "name": "peel-off-mask",
+    "category": "beauty",
+    "draw": "A face in front view covered in a smooth mask with one corner at the cheek curling away as it is peeled."
+  },
+  {
+    "name": "eye-cream",
+    "category": "beauty",
+    "draw": "A small tube with a metal ball applicator tip held under an eye with a short arc of cream."
+  },
+  {
+    "name": "pimple-patch",
+    "category": "beauty",
+    "draw": "A small square sheet holding several round dot stickers, one peeled and lifted at an angle."
+  },
+  {
+    "name": "ice-roller",
+    "category": "beauty",
+    "draw": "A handheld roller with a wide cylindrical frosted head on a short handle, with small snowflake marks."
+  },
+  {
+    "name": "led-face-mask",
+    "category": "beauty",
+    "draw": "A rigid full face mask with eye openings, its surface dotted with a grid of small lights and short glow rays."
+  },
+  {
+    "name": "comedone-extractor",
+    "category": "beauty",
+    "draw": "A slim metal tool with a small loop at one end and a pointed lancet at the other."
+  },
+  {
+    "name": "pore-vacuum",
+    "category": "beauty",
+    "draw": "A handheld device with a round suction head on the tip pressed to a nose, and a small screen on its body."
+  },
+  {
+    "name": "dermaplaning-blade",
+    "category": "beauty",
+    "draw": "A slim facial razor with a small single blade on a long thin handle held at an angle against a cheek."
+  },
+  {
+    "name": "microneedling-pen",
+    "category": "beauty",
+    "draw": "A pen-shaped device with a round cartridge tip showing a cluster of tiny needles and a cord at the back."
+  },
+  {
+    "name": "sample-sachet",
+    "category": "beauty",
+    "draw": "A small flat rectangular foil sachet with crimped edges and a tear notch, a droplet printed on the front."
+  },
+  {
+    "name": "beauty-fridge",
+    "category": "beauty",
+    "draw": "A small mini fridge with its door open showing jars and a dropper bottle on two shelves."
+  },
+  {
+    "name": "hand-mask",
+    "category": "beauty",
+    "draw": "A hand wearing a thin mask glove sealed at the wrist with a tab, with a few moisture drops."
+  },
+  {
+    "name": "foot-peel-mask",
+    "category": "beauty",
+    "draw": "A foot wearing a plastic bootie sealed with a sticker tab at the ankle, with a peeling flake beside it."
+  },
+  {
+    "name": "crows-feet",
+    "category": "beauty",
+    "draw": "An eye in front view with a fan of three short fine lines spreading from its outer corner."
+  },
+  {
+    "name": "eye-bags",
+    "category": "beauty",
+    "draw": "An eye in front view with two curved puffy arcs below the lower lid."
+  },
+  {
+    "name": "double-chin",
+    "category": "beauty",
+    "draw": "A head in side profile with a soft extra fold of skin bulging under the jaw."
+  },
+  {
+    "name": "cellulite",
+    "category": "beauty",
+    "draw": "A thigh and hip outline filled with a pattern of small dimples and short curved dents."
+  },
+  {
+    "name": "ingrown-hair",
+    "category": "beauty",
+    "draw": "A cross section of skin with a hair curling back down into the skin in a loop under a small bump."
+  },
+  {
+    "name": "blackheads",
+    "category": "beauty",
+    "draw": "A nose in front view with several small dark dots clustered across the tip and sides."
+  },
+  {
+    "name": "chemical-peel",
+    "category": "beauty",
+    "draw": "A face in front view with a wide flat fan brush painting a smooth layer across one cheek."
+  },
+  {
+    "name": "cosmetic-injection",
+    "category": "beauty",
+    "draw": "A face in front view with a small syringe held at the forehead between the brows."
+  },
+  {
+    "name": "laser-hair-removal",
+    "category": "beauty",
+    "draw": "A leg outline with a handheld laser device pressed to it, emitting short rays, with a few hairs vanishing."
+  },
+  {
+    "name": "spray-tan",
+    "category": "beauty",
+    "draw": "A standing body silhouette with a spray gun beside it sending a fan of fine mist dots over the torso."
+  },
+  {
+    "name": "mud-bath",
+    "category": "beauty",
+    "draw": "A tub filled with thick mud with a few bubbles, and a head and shoulders resting above the surface."
+  },
+  {
+    "name": "body-wrap-treatment",
+    "category": "beauty",
+    "draw": "A person lying down with the body wrapped in overlapping horizontal bands from chest to ankles, head free."
+  },
+  {
+    "name": "microdermabrasion",
+    "category": "beauty",
+    "draw": "A pen-like wand with a round crystal tip and a hose at the back, pressed against a cheek outline."
+  },
+  {
+    "name": "ear-candling",
+    "category": "beauty",
+    "draw": "A head in side profile lying down with a tall thin hollow cone candle standing in the ear and a small flame on top."
+  },
+  {
+    "name": "facial-massage",
+    "category": "beauty",
+    "draw": "A face in front view with two hands pressing on the cheeks and small curved motion arrows beside them."
+  },
+  {
+    "name": "tattoo-removal",
+    "category": "beauty",
+    "draw": "A forearm with a faded tattoo design and a laser handpiece above it firing a short beam of rays."
+  },
+  {
+    "name": "rotary-tattoo-pen",
+    "category": "beauty",
+    "draw": "A slim cylindrical pen-style tattoo machine with a grip section, a needle cartridge at the tip and a cord at the back."
+  },
+  {
+    "name": "tattoo-needle-cartridge",
+    "category": "beauty",
+    "draw": "A short clear cylinder cartridge with a membrane band and a needle grouping just poking out of its tip."
+  },
+  {
+    "name": "tattoo-ink-caps",
+    "category": "beauty",
+    "draw": "A row of three small cone-shaped cups on a base, each filled with ink to a different level."
+  },
+  {
+    "name": "tattoo-ink-bottle",
+    "category": "beauty",
+    "draw": "A small bottle with a pointed dispensing cap and a drop of ink falling from the tip."
+  },
+  {
+    "name": "tattoo-stencil",
+    "category": "beauty",
+    "draw": "A sheet of transfer paper with a simple line design, its corner lifting from the skin to show the traced outline beneath."
+  },
+  {
+    "name": "sleeve-tattoo",
+    "category": "beauty",
+    "draw": "An arm from shoulder to wrist covered in a continuous pattern of swirls and waves inside the outline."
+  },
+  {
+    "name": "tattoo-aftercare-wrap",
+    "category": "beauty",
+    "draw": "A forearm with a tattoo covered by a clear wrap sheet taped at both ends, showing the design through it."
+  },
+  {
+    "name": "temporary-tattoo",
+    "category": "beauty",
+    "draw": "A square transfer sheet with a star design, one corner peeling back, and a wet sponge pressed beside it."
+  },
+  {
+    "name": "hand-poke-tattoo",
+    "category": "beauty",
+    "draw": "A slim stick with a needle tip held at an angle over skin with a small line of dotted marks."
+  },
+  {
+    "name": "piercing-needle",
+    "category": "beauty",
+    "draw": "A long hollow piercing needle with a bevelled open tip and a short colour coded hub at the back."
+  },
+  {
+    "name": "piercing-clamp",
+    "category": "beauty",
+    "draw": "Forceps with finger ring handles and a pair of flat triangular jaws, each jaw pierced with a slot."
+  },
+  {
+    "name": "piercing-gun",
+    "category": "beauty",
+    "draw": "A small handgun-shaped ear piercing tool with a stud earring loaded at its nose."
+  },
+  {
+    "name": "septum-ring",
+    "category": "beauty",
+    "draw": "A nose in front view with a horseshoe ring hanging through the center below the tip, a ball on each end."
+  },
+  {
+    "name": "lip-ring",
+    "category": "beauty",
+    "draw": "Closed lips with a small hoop ring passing through the lower lip near one corner."
+  },
+  {
+    "name": "eyebrow-piercing",
+    "category": "beauty",
+    "draw": "An eyebrow and eye with a small curved barbell through the outer end of the brow, a ball at each end."
+  },
+  {
+    "name": "industrial-piercing",
+    "category": "beauty",
+    "draw": "An ear outline with a long straight bar running diagonally across the upper cartilage through two holes."
+  },
+  {
+    "name": "tongue-piercing",
+    "category": "beauty",
+    "draw": "An open mouth with the tongue out and a ball stud through its center."
+  },
+  {
+    "name": "captive-bead-ring",
+    "category": "beauty",
+    "draw": "A round hoop ring with a small gap closed by a single bead held in place between the ends."
+  },
+  {
+    "name": "labret-stud",
+    "category": "beauty",
+    "draw": "A short straight post with a flat round disc at one end and a small ball at the other, in side view."
+  },
+  {
+    "name": "ear-tunnel",
+    "category": "beauty",
+    "draw": "An earlobe in side view with a large round hollow tunnel set through it, the opening showing the background."
+  },
+  {
+    "name": "ear-stretcher-taper",
+    "category": "beauty",
+    "draw": "A long slim cone shaped taper with a small rubber O-ring near its wide end."
+  },
+  {
+    "name": "helix-piercing",
+    "category": "beauty",
+    "draw": "An ear outline with a small hoop ring through the curved upper rim of the outer ear."
+  },
+  {
+    "name": "roll-on-perfume",
+    "category": "beauty",
+    "draw": "A slim small glass vial with a screw cap and a rollerball visible at the top of the glass."
+  },
+  {
+    "name": "perfume-sample-vial",
+    "category": "beauty",
+    "draw": "A tiny thin glass tube vial with a small stopper cap and a line showing the liquid level."
+  },
+  {
+    "name": "scent-blotter",
+    "category": "beauty",
+    "draw": "A long narrow paper testing strip with a pointed tip and a few wavy scent lines rising from it."
+  },
+  {
+    "name": "fragrance-pyramid",
+    "category": "beauty",
+    "draw": "A triangle split into three stacked bands, top, heart and base, with a small flower, leaf and wood icon in the bands."
+  }
+]

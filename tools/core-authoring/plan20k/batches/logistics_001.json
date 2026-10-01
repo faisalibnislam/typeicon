@@ -1,0 +1,482 @@
+[
+ {
+  "name": "reefer-container",
+  "category": "logistics",
+  "draw": "Side view of a shipping container with corrugated walls and a boxy refrigeration unit with a fan grille on one end.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "open-top-container",
+  "category": "logistics",
+  "draw": "Shipping container at three quarters with no roof, bows of a tarp frame across the open top and cargo peeking out.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "flat-rack-container",
+  "category": "logistics",
+  "draw": "Flat container base with tall end walls only at each end and a crate strapped on the open platform between them.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "container-doors",
+  "category": "logistics",
+  "draw": "Rear view of a shipping container with two tall doors, four vertical locking bars and cam handles.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "container-truck",
+  "category": "logistics",
+  "draw": "Side view of a semi truck cab pulling a skeletal chassis loaded with a corrugated shipping container.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "container-spreader",
+  "category": "logistics",
+  "draw": "Crane spreader frame: a long horizontal beam hanging from cables with twistlock legs dropping at each corner.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "terminal-tractor",
+  "category": "logistics",
+  "draw": "Short single-seat yard truck with a cab offset to one side and a raised fifth-wheel plate behind it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "swap-body",
+  "category": "logistics",
+  "draw": "Truck box body standing on four fold-down steel legs with no truck underneath.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "x-ray-cargo-scanner",
+  "category": "logistics",
+  "draw": "Arched gantry frame over a truck with radiating scan lines passing through its cargo box.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "container-yard",
+  "category": "logistics",
+  "draw": "Top-down grid of stacked shipping container blocks separated by lanes, with a small gantry crane over one row.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "well-car",
+  "category": "logistics",
+  "draw": "Side view of a low-slung railcar with a dropped center well carrying two containers stacked on top of each other.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "gondola-railcar",
+  "category": "logistics",
+  "draw": "Side view of a low open-top railcar with ribbed sides, heaped scrap or coal visible above the rim.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "curtainsider-truck",
+  "category": "logistics",
+  "draw": "Side view of a truck trailer with a fabric curtain side shown in vertical folds and buckled straps along the bottom.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "road-train",
+  "category": "logistics",
+  "draw": "Side view of a truck cab pulling three trailers in a long chain.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dry-bulk-trailer",
+  "category": "logistics",
+  "draw": "Side view of a tanker trailer with two or three V-shaped hopper cones hanging under a rounded tank.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "tail-lift-truck",
+  "category": "logistics",
+  "draw": "Rear three-quarter view of a box truck with a flat lift platform lowered to the ground and a box on it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "truck-mounted-forklift",
+  "category": "logistics",
+  "draw": "Side view of a truck with a compact three-wheeled forklift clipped onto the rear of its bed.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "knuckle-boom-truck",
+  "category": "logistics",
+  "draw": "Side view of a flatbed truck with a folded jointed crane arm mounted behind the cab lifting a pallet.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "oversize-load",
+  "category": "logistics",
+  "draw": "Truck carrying a wide load, with a rectangular banner on its front bumper and two flags at the corners.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "tachograph",
+  "category": "logistics",
+  "draw": "Rectangular in-dash recorder with a small display showing a steering wheel symbol and a card slot below.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "nose-loading-freighter",
+  "category": "logistics",
+  "draw": "Front three-quarter view of a jumbo cargo jet with its nose cone swung upward and a pallet entering the opening.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "cargo-dolly",
+  "category": "logistics",
+  "draw": "Airport cargo dolly: a flat roller-bed platform on four small wheels with a tow bar.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pack-mule",
+  "category": "logistics",
+  "draw": "Side view of a mule carrying bulging pannier bags and a tied bundle on its back.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "handcart",
+  "category": "logistics",
+  "draw": "Two-wheeled flat pushcart with a wooden bed, a long handle and a stacked load of sacks.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "reach-truck",
+  "category": "logistics",
+  "draw": "Side view of a narrow electric lift truck with outrigger legs forward, a tall mast and a stand-up operator cage.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "order-picker",
+  "category": "logistics",
+  "draw": "Side view of a tall lift with an operator platform raised high up the mast next to a pallet shelf.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "walkie-stacker",
+  "category": "logistics",
+  "draw": "Side view of a pedestrian pallet stacker with a mast, raised forks and a long steering tiller handle.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "warehouse-robot",
+  "category": "logistics",
+  "draw": "Squat round-edged drive robot lifting a four-legged shelf pod from underneath.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "palletizing-robot",
+  "category": "logistics",
+  "draw": "Industrial robot arm with a suction gripper placing a box onto a neat stack on a pallet.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "vertical-lift-module",
+  "category": "logistics",
+  "draw": "Tall cabinet machine with a service window showing a tray of parts pulled out at waist height.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "carton-flow-rack",
+  "category": "logistics",
+  "draw": "Side view of a shelf with sloped roller lanes, boxes sliding down toward the front picking face.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "cantilever-rack",
+  "category": "logistics",
+  "draw": "Side view of a central upright column with long horizontal arms reaching out, holding pipes and lumber.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "warehouse-mezzanine",
+  "category": "logistics",
+  "draw": "Raised steel platform on columns with a handrail and staircase, pallets stored underneath.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "picking-cart",
+  "category": "logistics",
+  "draw": "Wheeled cart with a push handle and two shelves holding small labeled totes.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dock-leveler",
+  "category": "logistics",
+  "draw": "Side view of a hinged steel plate bridging a loading dock edge to the back of a trailer.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dock-shelter",
+  "category": "logistics",
+  "draw": "Front view of a loading door framed by thick padded curtains on three sides.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dock-bumper",
+  "category": "logistics",
+  "draw": "Thick rubber block with a laminated rib texture bolted to a wall plate.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "yard-ramp",
+  "category": "logistics",
+  "draw": "Side view of a mobile steel ramp on wheels sloping up to the back of a trailer, with a forklift on it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dock-plate",
+  "category": "logistics",
+  "draw": "Thin rectangular metal plate with a diamond tread pattern and two lifting handles along one edge.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "telescopic-conveyor",
+  "category": "logistics",
+  "draw": "Side view of a nested stacked belt conveyor extending into the open back of a truck trailer.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "ball-transfer-table",
+  "category": "logistics",
+  "draw": "Top view of a square table surface covered in a grid of small balls with a box resting on it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "parcel-sorter",
+  "category": "logistics",
+  "draw": "Top view of a conveyor line with angled branches splitting boxes toward several chutes.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "drum-truck",
+  "category": "logistics",
+  "draw": "Two-wheeled hand truck with a curved cradle and a top hook holding a steel drum.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "furniture-dolly",
+  "category": "logistics",
+  "draw": "Low square platform with carpeted edges on four caster wheels, seen at three quarters.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "stair-climbing-hand-truck",
+  "category": "logistics",
+  "draw": "Side view of a hand truck with a three-wheeled triangular star cluster at the bottom and a box on it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-wrapper",
+  "category": "logistics",
+  "draw": "Round turntable carrying a pallet load being wound with stretch film from a tall mast carriage.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-stack",
+  "category": "logistics",
+  "draw": "Side view of five empty wooden pallets stacked neatly on top of each other.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-collar",
+  "category": "logistics",
+  "draw": "Wooden pallet with two hinged wooden frames stacked on top forming an open crate.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "cage-pallet",
+  "category": "logistics",
+  "draw": "Steel wire mesh box on a pallet base with a fold-down front panel.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-box",
+  "category": "logistics",
+  "draw": "Large corrugated box as big as the pallet it sits on, with forklift openings visible below.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "octabin",
+  "category": "logistics",
+  "draw": "Large eight-sided corrugated bulk box sitting on a pallet, seen at three quarters.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "plastic-pallet",
+  "category": "logistics",
+  "draw": "Molded plastic pallet with a ribbed grid top deck and nine blocky feet.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "edge-protector",
+  "category": "logistics",
+  "draw": "Long L-shaped cardboard angle strip fitted over the corner of a stacked pallet load.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-scale",
+  "category": "logistics",
+  "draw": "Low square weighing platform with a pallet on it and a digital readout on a post.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "spill-pallet",
+  "category": "logistics",
+  "draw": "Grated platform on a deep sump tray with two upright drums standing on it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "strip-curtain",
+  "category": "logistics",
+  "draw": "Doorway hung with overlapping vertical clear plastic strips, one strip pushed aside.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "louvered-bin-rack",
+  "category": "logistics",
+  "draw": "Wall panel with rows of horizontal louver slots holding small open-front parts bins.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "tote-dolly",
+  "category": "logistics",
+  "draw": "Square wheeled base with four casters and a stack of plastic totes on top.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "collapsible-crate",
+  "category": "logistics",
+  "draw": "Plastic crate with its walls folded flat into the base, one wall half raised.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "rfid-portal",
+  "category": "logistics",
+  "draw": "Doorway gate with antenna panels on both sides and radio wave arcs over a pallet passing through.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "rfid-reader",
+  "category": "logistics",
+  "draw": "Handheld pistol-grip reader with a flat antenna paddle on top emitting radio waves.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "ring-scanner",
+  "category": "logistics",
+  "draw": "Barcode scanner worn on a finger with a strap, emitting a scan beam toward a small barcode.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "voice-picking-headset",
+  "category": "logistics",
+  "draw": "Single-ear headset with a boom microphone beside a box on a shelf.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pick-to-light",
+  "category": "logistics",
+  "draw": "Shelf front with a row of bins, one bin marked by a lit button with a number display above it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "put-wall",
+  "category": "logistics",
+  "draw": "Grid of open cubbies with some small parcels inside and indicator lights above a few slots.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "freight-elevator",
+  "category": "logistics",
+  "draw": "Wide elevator car with vertical sliding gate bars and a pallet inside.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "mailer-box",
+  "category": "logistics",
+  "draw": "Flat folded cardboard box with a hinged lid tucked into the front, lid slightly raised.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "poly-mailer",
+  "category": "logistics",
+  "draw": "Flat plastic shipping bag with a peel strip flap at the top and a label on the front.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "paper-void-fill",
+  "category": "logistics",
+  "draw": "Open box with crumpled kraft paper ribbons bulging out of the top.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "packing-list-pouch",
+  "category": "logistics",
+  "draw": "Clear adhesive envelope stuck on a box face with a folded document visible inside.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "returnable-tote",
+  "category": "logistics",
+  "draw": "Plastic tote box with an attached split lid folded shut and hand holes on the ends.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "flexitank",
+  "category": "logistics",
+  "draw": "Shipping container with its doors open showing a bulging liquid bladder filling the inside.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "stand-up-pouch",
+  "category": "logistics",
+  "draw": "Flexible pouch standing upright on a gusseted base, with a zip line near the top and tear notch.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dry-ice",
+  "category": "logistics",
+  "draw": "Stack of frosty cubes with vapor curls rising off the top.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "wardrobe-box",
+  "category": "logistics",
+  "draw": "Tall moving box with the top open showing a hanging rail with clothes hangers.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "fiber-drum",
+  "category": "logistics",
+  "draw": "Tall cylindrical cardboard drum with a metal lid clamped by a locking ring.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "honeycomb-paper",
+  "category": "logistics",
+  "draw": "Sheet of kraft paper stretched into an open hexagon mesh.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "foam-corner",
+  "category": "logistics",
+  "draw": "Cube-shaped foam block with a stepped notch cut out to cradle a box corner.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "carton-divider",
+  "category": "logistics",
+  "draw": "Top view of an open box split into a grid of cells by cardboard partitions holding bottles.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "bottle-shipper",
+  "category": "logistics",
+  "draw": "Molded pulp tray sleeve with bottle-shaped cavities holding two bottles.",
+  "domain": "r2-logistics-shipping"
+ }
+]

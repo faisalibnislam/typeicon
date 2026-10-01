@@ -1,0 +1,482 @@
+[
+ {
+  "name": "dpf-warning-light",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a rectangular exhaust filter box with short pipes at both ends and a grid of dots inside.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "diesel-exhaust-fluid-light",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a small fluid tank with a filler neck and a single droplet inside, plus a short exhaust pipe below.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "transmission-temperature-light",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a gear cog with a small thermometer standing in its center.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "immobilizer-light",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a side-view car silhouette with a small key drawn inside the cabin.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "hood-open-light",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a top-view car outline with the front hood panel swung open forward.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "limp-mode-light",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a turtle seen from the side, used for reduced engine power mode.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "hill-start-assist",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a side-view car on an uphill slope with a small curved hold arrow behind the rear wheel.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "automatic-high-beam",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a headlamp dome with horizontal beam lines and a small capital A inside the lamp.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "adaptive-headlights",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a headlamp dome with a curved double-headed arrow sweeping across its beam lines.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "headlight-leveling",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a headlamp dome with slanted beam lines and a vertical up and down arrow beside it.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "daytime-running-lights",
+  "category": "automotive",
+  "draw": "Dashboard pictogram of a headlamp dome emitting short beam lines with a small sun symbol above.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "regenerative-braking",
+  "category": "automotive",
+  "draw": "Wheel seen from the side with a circular arrow around it and a small lightning bolt at the hub.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "adaptive-cruise-control",
+  "category": "automotive",
+  "draw": "Small speedometer dial with a car silhouette ahead of it separated by three short distance bars.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "speed-limiter",
+  "category": "automotive",
+  "draw": "Round speedometer dial with the needle stopped against a short vertical limit bar.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "driver-fatigue-warning",
+  "category": "automotive",
+  "draw": "Steering wheel with a steaming coffee cup set in its center, the classic take-a-break dashboard symbol.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "traffic-sign-recognition",
+  "category": "automotive",
+  "draw": "Side-view car silhouette with a small round speed limit sign floating above its hood.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "pedestrian-detection",
+  "category": "automotive",
+  "draw": "Front of a car with a walking person figure in front of it and short scan lines between them.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "park-assist",
+  "category": "automotive",
+  "draw": "Steering wheel with a bold capital P in its center.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "ventilated-seat",
+  "category": "automotive",
+  "draw": "Side view of a car seat with three small upward airflow arrows rising from the cushion and backrest.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "lumbar-support",
+  "category": "automotive",
+  "draw": "Side view of a car seat with a curved arrow pushing out from the lower backrest.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "fresh-air-intake",
+  "category": "automotive",
+  "draw": "Side-view car outline with a curved arrow entering the cabin from outside through the front.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "climate-airflow-mode",
+  "category": "automotive",
+  "draw": "Seated person figure in side view with one arrow pointing at the face and one at the feet.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "auto-brake-hold",
+  "category": "automotive",
+  "draw": "Circle with a bold capital A inside and short curved brackets on both sides, the brake hold dashboard symbol.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "drive-mode-dial",
+  "category": "automotive",
+  "draw": "Top view of a round rotary knob with a pointer notch and small mode ticks around its rim.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "prnd-gear-indicator",
+  "category": "automotive",
+  "draw": "Vertical strip of the letters P R N D with the D letter highlighted inside a small box.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "paddle-shifters",
+  "category": "automotive",
+  "draw": "Steering wheel front view with two small paddles sticking out behind the rim on both sides.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "power-window-switch",
+  "category": "automotive",
+  "draw": "Car door armrest panel with a rocker switch and a small window outline above it with an up and down arrow.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "power-seat-control",
+  "category": "automotive",
+  "draw": "Small seat-shaped switch cluster: a horizontal cushion switch and a vertical backrest switch mounted on a panel.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "center-console",
+  "category": "automotive",
+  "draw": "Top view of the space between two front seats with a padded armrest lid and a gear lever ahead of it.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "car-12v-socket",
+  "category": "automotive",
+  "draw": "Round accessory power socket with a center pin and a flip-up cap hinged at the top.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "car-headrest",
+  "category": "automotive",
+  "draw": "Rounded rectangular headrest pad sitting on two metal posts.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "car-floor-mat",
+  "category": "automotive",
+  "draw": "Rubber floor mat outline with a cut-off corner and diagonal groove lines across it.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "vent-clip-air-freshener",
+  "category": "automotive",
+  "draw": "Car air vent slats with a small round air freshener clipped onto the center slat and scent wave lines.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "cylinder-head",
+  "category": "automotive",
+  "draw": "Flat rectangular head casting with a row of small valve holes and spark plug holes along it.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "timing-belt",
+  "category": "automotive",
+  "draw": "Toothed belt looped around two round toothed pulleys, one large and one small.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "timing-chain",
+  "category": "automotive",
+  "draw": "Link chain looped around two sprockets of different sizes.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "ignition-coil",
+  "category": "automotive",
+  "draw": "Pencil-shaped ignition coil with a connector block at the top and a long boot below.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "supercharger",
+  "category": "automotive",
+  "draw": "Rectangular blower case with a belt pulley on its front end and a vertical intake scoop on top.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "intercooler",
+  "category": "automotive",
+  "draw": "Wide flat finned radiator core with round pipe inlets at both ends.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "intake-manifold",
+  "category": "automotive",
+  "draw": "Horizontal plenum with four curved runner pipes dropping down side by side.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "exhaust-manifold",
+  "category": "automotive",
+  "draw": "Four curved pipes merging together into a single collector pipe.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "throttle-body",
+  "category": "automotive",
+  "draw": "Round tube housing with a tilted butterfly valve disc visible inside and a lever on the side.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "fuel-filter",
+  "category": "automotive",
+  "draw": "Small cylinder with a hose barb at each end and an arrow marking the flow direction.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "radiator-cap",
+  "category": "automotive",
+  "draw": "Round pressure cap with a ridged rim and two short ear tabs on top.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "radiator-fan",
+  "category": "automotive",
+  "draw": "Round shroud with a five-bladed fan inside and a small motor hub at its center.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "radiator-hose",
+  "category": "automotive",
+  "draw": "Curved rubber hose bent in an S shape with a band clamp on each end.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "brake-fluid-reservoir",
+  "category": "automotive",
+  "draw": "Small translucent tank with a round screw cap, MIN and MAX lines and a circle with brackets symbol on its side.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "power-steering-pump",
+  "category": "automotive",
+  "draw": "Round pump body with a pulley on its front and a small fluid reservoir with cap on top.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "ac-compressor",
+  "category": "automotive",
+  "draw": "Cylindrical compressor with a clutch pulley on its front and two pipe ports on top.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "belt-tensioner",
+  "category": "automotive",
+  "draw": "Idler pulley on a pivoting arm with a coil spring behind it.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "engine-mount",
+  "category": "automotive",
+  "draw": "Rubber block sandwiched between two metal brackets with bolt studs sticking out.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "valve-cover",
+  "category": "automotive",
+  "draw": "Long rounded engine cover with a row of bolts along its edge and an oil filler cap on top.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "rocker-arm",
+  "category": "automotive",
+  "draw": "Short pivoting lever with a round pivot hole in the middle and pads at both ends.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "engine-oil-pan",
+  "category": "automotive",
+  "draw": "Shallow tray-shaped sump with a flange rim on top and a drain plug at its lowest point.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "oil-filler-cap",
+  "category": "automotive",
+  "draw": "Round screw cap with a grip bar across the top and an oil can symbol engraved on it.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "oxygen-sensor",
+  "category": "automotive",
+  "draw": "Threaded sensor with a hex nut, a slotted protective tip below and a wire leaving from its top.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "egr-valve",
+  "category": "automotive",
+  "draw": "Round valve body with a flange at the bottom and a small actuator dome on top with a connector.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "exhaust-resonator",
+  "category": "automotive",
+  "draw": "Straight exhaust pipe with an oval bulge in the middle.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "clutch-pressure-plate",
+  "category": "automotive",
+  "draw": "Round clutch cover with a diaphragm spring of radiating fingers at its center.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "car-differential",
+  "category": "automotive",
+  "draw": "Pumpkin-shaped axle housing with two axle tubes sticking out to the sides and a driveshaft flange at the front.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "transfer-case",
+  "category": "automotive",
+  "draw": "Compact gearbox housing with one input shaft and two output shafts front and rear.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "macpherson-strut",
+  "category": "automotive",
+  "draw": "Tall shock absorber body wrapped in a coil spring with a top mount plate.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "tie-rod",
+  "category": "automotive",
+  "draw": "Straight rod with a ball joint end on one side and a threaded adjustment sleeve on the other.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "sway-bar",
+  "category": "automotive",
+  "draw": "Long U-shaped anti-roll bar with bushings on the straight part and end links at the tips.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "steering-rack",
+  "category": "automotive",
+  "draw": "Long horizontal tube with rubber boots at both ends and a pinion input stub on top.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "wheel-hub",
+  "category": "automotive",
+  "draw": "Round hub flange with five wheel studs sticking out and a center bearing cap.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "wheel-bearing",
+  "category": "automotive",
+  "draw": "Double ring bearing with a row of balls visible between the inner and outer races.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "brake-master-cylinder",
+  "category": "automotive",
+  "draw": "Horizontal cylinder body with a small fluid reservoir on top and two brake line ports.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "brake-booster",
+  "category": "automotive",
+  "draw": "Large round flat canister with a master cylinder poking out of its front face.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "ecu-module",
+  "category": "automotive",
+  "draw": "Flat rectangular metal box with cooling ribs and a wide multi-pin connector on one side.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "headlight-bulb",
+  "category": "automotive",
+  "draw": "Automotive halogen bulb with a glass capsule, a round metal flange base and three flat pins.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "fuel-rail",
+  "category": "automotive",
+  "draw": "Long tube with a row of fuel injectors hanging below it.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "tread-depth-gauge",
+  "category": "automotive",
+  "draw": "Small pen-style gauge with a sliding scale and a thin probe pin pushed into a tread groove.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "tire-valve-stem",
+  "category": "automotive",
+  "draw": "Short rubber valve stem with a metal threaded tip and a small screw-on cap.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "hubcap",
+  "category": "automotive",
+  "draw": "Round flat wheel cover with radiating spoke ridges and a small center emblem circle.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "wire-spoke-wheel",
+  "category": "automotive",
+  "draw": "Wheel with a narrow tire and dozens of crossing thin spokes meeting a center hub with a knock-off nut.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "steel-wheel",
+  "category": "automotive",
+  "draw": "Plain pressed steel wheel with a row of round ventilation holes around a flat center.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "locking-wheel-nut",
+  "category": "automotive",
+  "draw": "Wheel nut with a wavy key pattern on its face next to a matching socket key.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "tire-iron",
+  "category": "automotive",
+  "draw": "L-shaped bar with a socket on the short end and a flat pry tip on the long end.",
+  "domain": "r3-car-dashboard-parts"
+ },
+ {
+  "name": "tire-lever",
+  "category": "automotive",
+  "draw": "Short flat curved lever with a hooked spoon tip.",
+  "domain": "r3-car-dashboard-parts"
+ }
+]

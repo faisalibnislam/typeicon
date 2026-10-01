@@ -1,0 +1,482 @@
+[
+ {
+  "name": "hand-pinky-up",
+  "category": "hands",
+  "draw": "Closed fist seen from the side with only the little finger raised straight up.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "claw-hand",
+  "category": "hands",
+  "draw": "Front view of a hand with all five fingers bent at the knuckles into hooked claw shapes.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "karate-chop-hand",
+  "category": "hands",
+  "draw": "Flat hand seen edge on with fingers pressed together, angled downward with two short motion lines behind it.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "c-shape-hand",
+  "category": "hands",
+  "draw": "Side view of a hand with thumb and fingers curved to form an open letter C shape.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "shy-fingers",
+  "category": "hands",
+  "draw": "Two loose fists facing each other with only their index fingertips touching in the middle.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hands-forming-roof",
+  "category": "hands",
+  "draw": "Two flat hands meeting at the fingertips in a peaked roof shape with a small round head and shoulders sheltered below.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hand-binoculars",
+  "category": "hands",
+  "draw": "Two hands curled into tubes held side by side like binoculars, the round openings facing the viewer.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "talking-hand-gesture",
+  "category": "hands",
+  "draw": "Side view of a hand shaped like a mouth, fingers above and thumb below slightly apart, with three short speech lines at the opening.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "palm-note",
+  "category": "hands",
+  "draw": "Open palm facing the viewer with three short handwritten scribble lines written across it.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "sighting-with-pencil",
+  "category": "hands",
+  "draw": "Hand at arm's length holding a vertical pencil with the thumb marking a point on it, a small dashed guide line beside.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "money-rub-gesture",
+  "category": "hands",
+  "draw": "Hand with the thumb rubbing against the index and middle fingertips, a small coin circle and two tiny sparkle marks above.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "wrap-it-up-gesture",
+  "category": "hands",
+  "draw": "Hand with raised index finger drawing a circle, shown by a circular arrow around the fingertip.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "clasped-hands",
+  "category": "hands",
+  "draw": "Two hands with fingers interlaced and folded together, knuckles on top, resting horizontally.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "twiddling-thumbs",
+  "category": "hands",
+  "draw": "Two clasped hands seen from the front with the two thumbs raised above and a small circular arrow around them.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "cracking-knuckles",
+  "category": "hands",
+  "draw": "Two hands with interlaced fingers pushed outward, palms away, with three short crack marks at the knuckles.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hand-span",
+  "category": "hands",
+  "draw": "Open hand with fingers spread wide and a double headed measuring arrow from thumb tip to little finger tip.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "weighing-options-hands",
+  "category": "hands",
+  "draw": "Two open palms facing up at different heights, each holding a small different shape, like a balance.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "triple-tap-gesture",
+  "category": "hands",
+  "draw": "Index fingertip touching a surface with three concentric tap rings around the contact point.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "two-finger-tap-gesture",
+  "category": "hands",
+  "draw": "Index and middle fingertips touching a surface together with a small tap ring under each.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "three-finger-swipe-gesture",
+  "category": "hands",
+  "draw": "Three fingertips side by side on a surface with a single long arrow leading off to one side.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "flick-gesture",
+  "category": "hands",
+  "draw": "Fingertip with a short curved flick stroke leaving it and three speed lines trailing the stroke.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "edge-swipe-gesture",
+  "category": "hands",
+  "draw": "Phone outline with a fingertip at its side edge and a short arrow pointing inward from the bezel.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "drag-and-drop-gesture",
+  "category": "hands",
+  "draw": "Fingertip holding a small tile that follows a dashed path to a dashed drop target square.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "force-press-gesture",
+  "category": "hands",
+  "draw": "Fingertip pressing down on a surface with a small downward arrow above and thick layered pressure rings below.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "draw-gesture",
+  "category": "hands",
+  "draw": "Fingertip at the end of a looping freehand path that starts from a small dot on a flat surface.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "pattern-unlock",
+  "category": "hands",
+  "draw": "Three by three grid of dots with a connected zigzag line through several dots and a fingertip on the last one.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "tilt-phone-gesture",
+  "category": "hands",
+  "draw": "Phone outline tilted at an angle with a curved double arrow arc beside its top corner.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "air-tap-gesture",
+  "category": "hands",
+  "draw": "Hand pinching thumb and index finger together in empty space with a small ring and dashed crosshair at the fingertips.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "raise-to-wake",
+  "category": "hands",
+  "draw": "Wrist wearing a watch lifted along a curved arrow, with short light rays around the watch face.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "holding-tablet",
+  "category": "hands",
+  "draw": "Two hands gripping the left and right edges of a large landscape tablet with thumbs resting on the screen.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "two-handed-phone-grip",
+  "category": "hands",
+  "draw": "Phone held sideways in landscape by two hands with both thumbs on the lower screen corners.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hand-on-mouse",
+  "category": "hands",
+  "draw": "Top down view of a hand resting over a computer mouse, index finger on the left button.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "gamepad-in-hands",
+  "category": "hands",
+  "draw": "Two hands gripping a gamepad from behind with thumbs on the two round sticks.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "data-glove",
+  "category": "hands",
+  "draw": "Glove outline with small sensor dots on each fingertip and knuckle and a short cable from the cuff.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "smart-ring",
+  "category": "hands",
+  "draw": "Finger wearing a thick band ring with a small sensor bump and two signal arcs beside it.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "multi-touch-gesture",
+  "category": "hands",
+  "draw": "Five fingertip dots spread in a hand shaped arc on a flat surface, each with a small ring.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "back-tap-gesture",
+  "category": "hands",
+  "draw": "Phone seen from behind with a camera bump and an index finger tapping the back panel with two tap rings.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "pressing-button",
+  "category": "hands",
+  "draw": "Index fingertip pressing a round push button on a flat panel with short press lines around the button.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "turning-knob",
+  "category": "hands",
+  "draw": "Hand with fingers gripping a round knob from the front and a curved arrow around the knob.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "palm-push",
+  "category": "hands",
+  "draw": "Flat palm pressing against the side of a square block with motion lines behind the block.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "tearing-paper",
+  "category": "hands",
+  "draw": "Two hands pulling a sheet of paper apart with a jagged tear running down its middle.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "crumpling-paper",
+  "category": "hands",
+  "draw": "Hand squeezing a ball of crumpled paper with angular crease lines showing through the fingers.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "peeling-sticker",
+  "category": "hands",
+  "draw": "Thumb and index finger lifting the curled corner of a square sticker off a surface.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "inserting-card",
+  "category": "hands",
+  "draw": "Hand pushing a card into a horizontal slot with a short arrow pointing into the slot.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "squeezing-tube",
+  "category": "hands",
+  "draw": "Hand squeezing the middle of a flat tube with a blob coming out of the open nozzle.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "stress-ball-squeeze",
+  "category": "hands",
+  "draw": "Hand clenched around a round ball that bulges out between the fingers.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hand-massage",
+  "category": "hands",
+  "draw": "Open palm facing up with two thumbs pressing into its center and small curved motion marks.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "pinching-nose",
+  "category": "hands",
+  "draw": "Face in profile with fingers pinching the nose tip and wavy odor lines drifting nearby.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "stone-skipping",
+  "category": "hands",
+  "draw": "Hand low over a water line flicking a flat stone that leaves a chain of shrinking bounce arcs.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "striking-match",
+  "category": "hands",
+  "draw": "Hand holding a match head against the striking strip of a small box with a burst of sparks.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "flicking-lighter",
+  "category": "hands",
+  "draw": "Hand holding a pocket lighter with the thumb on the wheel and a small flame on top.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "shuffling-cards",
+  "category": "hands",
+  "draw": "Two hands holding split halves of a card deck with cards arching between them as they riffle.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "threading-needle",
+  "category": "hands",
+  "draw": "Thumb and index finger holding a thread end pointed at the eye of an upright sewing needle.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hand-sewing",
+  "category": "hands",
+  "draw": "Hand pulling a needle and thread away from a piece of fabric with a dashed stitch line on it.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hand-drill-fire",
+  "category": "hands",
+  "draw": "Two hands rolling an upright stick between the palms on a flat board with a curl of smoke at the base.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "petting-dog",
+  "category": "hands",
+  "draw": "Hand resting on top of a dog's head in side view with two small curved stroke marks above the hand.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "turning-page",
+  "category": "hands",
+  "draw": "Hand lifting the corner of the right page of an open book as it curls over.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "reading-with-finger",
+  "category": "hands",
+  "draw": "Index finger resting under one line of text on a page with more lines above and below.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "tying-knot",
+  "category": "hands",
+  "draw": "Two hands pulling the two ends of a rope outward from a simple overhand knot in the middle.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "launching-paper-plane",
+  "category": "hands",
+  "draw": "Hand releasing a paper plane forward with a dashed curving flight trail behind the plane.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "clapping-game",
+  "category": "hands",
+  "draw": "Two raised hands, one large and one small, meeting palm to palm with short clap lines around them.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "finger-spinning-ball",
+  "category": "hands",
+  "draw": "Raised index finger balancing a ball on its tip with curved spin arrows around the ball.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "opening-drawer",
+  "category": "hands",
+  "draw": "Hand gripping the handle of a half pulled out drawer with a small arrow pointing outward.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "buttoning-shirt",
+  "category": "hands",
+  "draw": "Fingers pushing a round button through a buttonhole on a shirt placket edge.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "cutting-with-scissors",
+  "category": "hands",
+  "draw": "Hand holding open scissors cutting along a dashed line into a sheet of paper.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "erasing-pencil-mark",
+  "category": "hands",
+  "draw": "Hand rubbing an eraser over a smudged line with small crumbs scattered beside it.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "wringing-cloth",
+  "category": "hands",
+  "draw": "Two fists twisting a cloth in opposite directions with water drops falling below.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "swatting-fly",
+  "category": "hands",
+  "draw": "Flat hand raised to swat with motion lines and a small fly buzzing below it.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "checking-for-rain",
+  "category": "hands",
+  "draw": "Open palm held out face up with a few raindrops falling onto it from above.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "shielding-flame",
+  "category": "hands",
+  "draw": "Cupped hand curved around one side of a small candle flame to block the wind lines.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "sand-through-fingers",
+  "category": "hands",
+  "draw": "Hand held up with fingers slightly apart and a stream of sand grains falling from its base into a small pile.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "breaking-chains",
+  "category": "hands",
+  "draw": "Two fists pulling apart with a chain between them snapped at the middle link.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hands-tied",
+  "category": "hands",
+  "draw": "Two wrists crossed and wrapped with a loop of rope tied in a knot.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "comforting-hand",
+  "category": "hands",
+  "draw": "One hand resting gently on top of another hand with a small heart above them.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "baby-grasping-finger",
+  "category": "hands",
+  "draw": "Tiny baby hand wrapped around the tip of a larger adult index finger.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "carrying-briefcase",
+  "category": "hands",
+  "draw": "Hand gripping the top handle of a briefcase hanging below it.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "hand-holding-flashlight",
+  "category": "hands",
+  "draw": "Hand gripping a flashlight with a widening cone of light beam from its head.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "pointing-remote",
+  "category": "hands",
+  "draw": "Hand holding a remote control pointed forward with two signal arcs from its tip.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "house-in-hand",
+  "category": "hands",
+  "draw": "Open palm facing up with a small house shape resting on it.",
+  "domain": "r2-hand-gestures"
+ },
+ {
+  "name": "idea-in-hand",
+  "category": "hands",
+  "draw": "Open palm facing up with a glowing lightbulb standing on it and short rays around the bulb.",
+  "domain": "r2-hand-gestures"
+ }
+]

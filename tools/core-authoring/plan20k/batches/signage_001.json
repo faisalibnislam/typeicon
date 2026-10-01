@@ -1,0 +1,482 @@
+[
+ {
+  "name": "left-luggage",
+  "category": "signage",
+  "draw": "A suitcase standing on a counter shelf with a claim ticket tag hanging from its handle.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "accessible-ramp",
+  "category": "signage",
+  "draw": "Side view of a wheelchair user rolling up a gentle wedge-shaped ramp with a short handrail above it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "family-restroom",
+  "category": "signage",
+  "draw": "Toilet door plate showing an adult figure holding the hand of a small child figure side by side.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "accessible-toilet",
+  "category": "signage",
+  "draw": "A wheelchair symbol figure beside a side-view toilet bowl with a grab bar on the wall behind.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "phone-charging-station",
+  "category": "signage",
+  "draw": "A smartphone with a lightning bolt on its screen plugged by a short cable into a wall-mounted charging box.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "stroller-parking",
+  "category": "signage",
+  "draw": "A side-view baby stroller inside a rounded parking square marked with a bold letter P above it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "quiet-zone",
+  "category": "signage",
+  "draw": "A person's head in profile with a finger raised to the lips next to three small fading sound arcs.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "accessible-entrance",
+  "category": "signage",
+  "draw": "A wheelchair symbol figure facing an open doorway with a level threshold under it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "sensory-room",
+  "category": "signage",
+  "draw": "A small room outline containing a beanbag and soft wavy light rays hanging from the ceiling.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "adult-changing-room",
+  "category": "signage",
+  "draw": "An adult-size changing bench seen from the side with a ceiling track hoist and sling hanging above it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "please-touch",
+  "category": "signage",
+  "draw": "An open hand with fingertips resting on the curved surface of a small sculpture on a plinth.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wheelchair-space",
+  "category": "signage",
+  "draw": "A wheelchair symbol inside a rectangle marked out by dashed lines on the floor, as on trains and in theaters.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "fast-track-lane",
+  "category": "signage",
+  "draw": "A single walking figure moving through a short queue lane bounded by posts, with double forward chevrons ahead.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "directory-board",
+  "category": "signage",
+  "draw": "A freestanding board listing floors as stacked horizontal bars with small level numbers on the left edge.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "occupancy-indicator",
+  "category": "signage",
+  "draw": "A door lock plate with a small sliding window split into two halves, one half shaded to show engaged.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "staff-only-sign",
+  "category": "signage",
+  "draw": "A closed door with a small figure wearing a lanyard badge on the door panel.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "reserved-table-card",
+  "category": "signage",
+  "draw": "A folded tent card standing on a table top with a bold letter R printed on its front face.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "book-exchange-box",
+  "category": "signage",
+  "draw": "A small house-shaped box on a post with a glass door and a row of book spines inside.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "tax-refund",
+  "category": "signage",
+  "draw": "A shopping bag with a receipt tucked in front and a curved arrow returning a coin back toward it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "women-only-car",
+  "category": "signage",
+  "draw": "A train carriage side view with a large female figure symbol shown in its central window.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "visitor-center",
+  "category": "signage",
+  "draw": "A small building with a pitched roof and a large lowercase letter i on its front wall.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "shoe-shine",
+  "category": "signage",
+  "draw": "A side-view shoe resting on a footrest block with a brush stroking across its toe and a small sparkle.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "connecting-rooms",
+  "category": "signage",
+  "draw": "Two hotel doors side by side with a short double-headed arrow linking them through the shared wall.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "ski-storage",
+  "category": "signage",
+  "draw": "A pair of skis and poles standing upright in a slotted wall rack.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "beach-access",
+  "category": "signage",
+  "draw": "A walking figure on a short set of steps leading down to a wavy shoreline with a beach umbrella.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "soundproof-room",
+  "category": "signage",
+  "draw": "A room outline with a sound wave coming from inside that stops flat against a thick padded wall.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "ski-in-ski-out",
+  "category": "signage",
+  "draw": "A skier gliding straight up to the front door of a chalet with a pitched roof.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "infinity-pool",
+  "category": "signage",
+  "draw": "A pool edge seen from the side with water spilling over a vanishing edge toward a distant horizon line.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "lazy-river",
+  "category": "signage",
+  "draw": "A swimmer lying in an inflatable ring floating along a gently curving water channel.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "outdoor-seating",
+  "category": "signage",
+  "draw": "A cafe table with two chairs under a tall parasol.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "umbrella-bag-dispenser",
+  "category": "signage",
+  "draw": "A stand holding a roll of long plastic sleeves with a closed wet umbrella sliding into one sleeve.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "book-return-slot",
+  "category": "signage",
+  "draw": "A wall slot with a flap and a book tilting halfway into it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "cart-corral",
+  "category": "signage",
+  "draw": "A row of three nested shopping carts inside a U-shaped railing bay.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "shopping-basket-stack",
+  "category": "signage",
+  "draw": "Three hand baskets stacked on top of each other with their handles folded to the sides.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "deliveries-entrance-sign",
+  "category": "signage",
+  "draw": "A door with a stacked pair of parcels on a hand truck in front of it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "pet-drinking-fountain",
+  "category": "signage",
+  "draw": "A low bowl-shaped drinking fountain at ground level with a dog lapping water beside a taller human fountain.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "misting-station",
+  "category": "signage",
+  "draw": "A tall post with a nozzle ring at the top spraying a fan of fine mist dots over a standing figure.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "place-name-sign",
+  "category": "signage",
+  "draw": "A wide rectangular town entry sign on two posts with a small house silhouette and text lines on the panel.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "bicycle-counter",
+  "category": "signage",
+  "draw": "A tall upright display totem with a bicycle symbol at the top and a row of digit boxes below.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "honesty-box",
+  "category": "signage",
+  "draw": "A small wooden box with a coin slot and padlock sitting on a table beside a crate of vegetables.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "roll-in-shower",
+  "category": "signage",
+  "draw": "A wheelchair symbol figure positioned under a shower head with a flat floor and no step.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "accessible-hotel-room",
+  "category": "signage",
+  "draw": "A bed seen from the side with a wheelchair symbol parked beside it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "ostomate-toilet",
+  "category": "signage",
+  "draw": "A standing figure with a small cross mark on the abdomen next to a raised sink basin.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "toilet-child-seat",
+  "category": "signage",
+  "draw": "A small child seat with leg holes mounted on a toilet stall wall, with a toddler figure sitting in it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "sanitary-bin",
+  "category": "signage",
+  "draw": "A slim pedal bin with a hinged lid and a small wrapped pad symbol on its front.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "seat-cover-dispenser",
+  "category": "signage",
+  "draw": "A wall dispenser with a paper toilet seat cover half pulled out of its slot.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wheelchair-charging-point",
+  "category": "signage",
+  "draw": "A power wheelchair seen from the side with a plug cable and a lightning bolt beside its wheel.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "beach-access-mat",
+  "category": "signage",
+  "draw": "A wheelchair symbol rolling along a flat ribbed mat laid across wavy sand.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "pool-hoist",
+  "category": "signage",
+  "draw": "A poolside lift with an upright post, a swinging arm and a seat lowering toward the water line.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wheelchair-swing",
+  "category": "signage",
+  "draw": "A swing frame with a flat platform seat holding a wheelchair symbol hanging by four chains.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "video-relay-service",
+  "category": "signage",
+  "draw": "A video call screen showing a signing hand, linked by a short line to a telephone handset.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "lowered-counter",
+  "category": "signage",
+  "draw": "A service counter with one section stepped down to wheelchair height and a wheelchair symbol in front of it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "accessible-door-button",
+  "category": "signage",
+  "draw": "A square wall push plate with a wheelchair symbol and a door outline beside it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-vaping-sign",
+  "category": "signage",
+  "draw": "A handheld vape device with a small puff of vapor, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-firearms-sign",
+  "category": "signage",
+  "draw": "A side-view handgun silhouette inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-feeding-animals-sign",
+  "category": "signage",
+  "draw": "A hand holding out bread toward a duck, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-walking-on-grass-sign",
+  "category": "signage",
+  "draw": "A footprint pressing on a tuft of grass blades, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-picking-flowers-sign",
+  "category": "signage",
+  "draw": "A hand plucking a flower from its stem, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-selfie-sticks-sign",
+  "category": "signage",
+  "draw": "A phone on the end of a long extendable pole, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-tripods-sign",
+  "category": "signage",
+  "draw": "A camera on a three-legged tripod, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "adults-only-sign",
+  "category": "signage",
+  "draw": "A circle containing a bold 18 with a small plus sign, crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-spitting-sign",
+  "category": "signage",
+  "draw": "A face in profile with droplets leaving the mouth, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-flushing-paper-sign",
+  "category": "signage",
+  "draw": "A folded paper towel dropping into a toilet bowl, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-hitchhiking-sign",
+  "category": "signage",
+  "draw": "A standing figure with one arm stretched out and thumb raised, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-snowmobiles-sign",
+  "category": "signage",
+  "draw": "A side-view snowmobile with front ski and rear track, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-off-road-vehicles-sign",
+  "category": "signage",
+  "draw": "A four-wheeled quad bike with chunky tires, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-hunting-sign",
+  "category": "signage",
+  "draw": "A deer head silhouette behind a crosshair reticle, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-throwing-objects-sign",
+  "category": "signage",
+  "draw": "A figure mid-throw with a small object leaving the hand, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-sledding-sign",
+  "category": "signage",
+  "draw": "A figure sitting on a sled sliding down a slope, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-knives-sign",
+  "category": "signage",
+  "draw": "A fixed-blade knife pointing up at an angle, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-lighters-sign",
+  "category": "signage",
+  "draw": "A pocket lighter with a small flame, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-laser-pointers-sign",
+  "category": "signage",
+  "draw": "A pen-shaped laser pointer emitting a straight beam with a dot, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-chewing-gum-sign",
+  "category": "signage",
+  "draw": "A stick of gum half out of its wrapper, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-durian-sign",
+  "category": "signage",
+  "draw": "A spiky round durian fruit, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-lying-down-sign",
+  "category": "signage",
+  "draw": "A figure lying flat along a bench, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-metal-detecting-sign",
+  "category": "signage",
+  "draw": "A figure sweeping a metal detector disc over the ground, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-bill-posting-sign",
+  "category": "signage",
+  "draw": "A poster being pasted onto a wall with a brush, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-feet-on-seats-sign",
+  "category": "signage",
+  "draw": "A shoe resting on a seat cushion, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-hoverboards-sign",
+  "category": "signage",
+  "draw": "A two-wheeled self-balancing board with a standing rider, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-love-locks-sign",
+  "category": "signage",
+  "draw": "A padlock with a heart on its body clipped to a railing, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ }
+]

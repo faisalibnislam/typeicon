@@ -1,0 +1,802 @@
+[
+  {
+    "name": "pine-plank",
+    "category": "materials",
+    "draw": "Horizontal board with wide wavy grain lines and two dark oval knots."
+  },
+  {
+    "name": "oak-plank",
+    "category": "materials",
+    "draw": "Horizontal board with nested cathedral arch grain lines rising from one end."
+  },
+  {
+    "name": "zebrawood-plank",
+    "category": "materials",
+    "draw": "Horizontal board filled with bold, closely spaced parallel dark stripes."
+  },
+  {
+    "name": "burl-wood",
+    "category": "materials",
+    "draw": "Rounded slab with swirling concentric grain and many small eye dots."
+  },
+  {
+    "name": "spalted-wood",
+    "category": "materials",
+    "draw": "Pale board crossed by thin irregular black zone lines like a map."
+  },
+  {
+    "name": "balsa-sheet",
+    "category": "materials",
+    "draw": "Thin flat sheet in perspective with a hobby knife cutting a strip from its edge."
+  },
+  {
+    "name": "charred-wood",
+    "category": "materials",
+    "draw": "Plank surface covered in a cracked alligator-scale block pattern with a small flame at one corner."
+  },
+  {
+    "name": "reclaimed-wood",
+    "category": "materials",
+    "draw": "Weathered board with rough split ends and three old nail holes in a row."
+  },
+  {
+    "name": "wood-veneer-sheet",
+    "category": "materials",
+    "draw": "Very thin sheet of wood with grain lines, one corner curling up off a board."
+  },
+  {
+    "name": "osb-board",
+    "category": "materials",
+    "draw": "Square panel filled with overlapping irregular rectangular wood strands at random angles."
+  },
+  {
+    "name": "particle-board",
+    "category": "materials",
+    "draw": "Square panel edge-on showing a speckled dotted core between two smooth faces."
+  },
+  {
+    "name": "mdf-board",
+    "category": "materials",
+    "draw": "Stack of two smooth flat panels in perspective with a plain uniform edge and no grain."
+  },
+  {
+    "name": "glulam-beam",
+    "category": "materials",
+    "draw": "Beam end view showing many thin horizontal laminated layers glued together."
+  },
+  {
+    "name": "cross-laminated-timber",
+    "category": "materials",
+    "draw": "Panel end in perspective with three layers whose grain alternates horizontal and end-on dots."
+  },
+  {
+    "name": "dimensional-lumber",
+    "category": "materials",
+    "draw": "End view of a rectangular stud with rounded corners and growth ring arcs, beside its long side."
+  },
+  {
+    "name": "hardwood-flooring",
+    "category": "materials",
+    "draw": "Staggered long floor planks in running rows with grain lines on each board."
+  },
+  {
+    "name": "wood-knot",
+    "category": "materials",
+    "draw": "Close-up of wood grain lines flowing around a single dark oval knot."
+  },
+  {
+    "name": "wood-stain",
+    "category": "materials",
+    "draw": "Plank half coated dark by a brush stroke, with a small can of stain beside it."
+  },
+  {
+    "name": "diamond-plate-metal",
+    "category": "materials",
+    "draw": "Square metal plate covered in raised short diagonal bars in alternating directions."
+  },
+  {
+    "name": "perforated-metal-sheet",
+    "category": "materials",
+    "draw": "Square sheet with a regular grid of round holes and one bent corner."
+  },
+  {
+    "name": "expanded-metal-mesh",
+    "category": "materials",
+    "draw": "Sheet with rows of stretched diamond shaped openings in a staggered lattice."
+  },
+  {
+    "name": "brushed-metal",
+    "category": "materials",
+    "draw": "Square plate with fine parallel horizontal lines and a diagonal shine highlight."
+  },
+  {
+    "name": "hammered-metal",
+    "category": "materials",
+    "draw": "Square plate covered in overlapping round dimples with a small ball-peen hammer above."
+  },
+  {
+    "name": "copper-patina",
+    "category": "materials",
+    "draw": "Metal sheet with a smooth half and a blotchy speckled half where the green patina spreads."
+  },
+  {
+    "name": "steel-channel",
+    "category": "materials",
+    "draw": "Length of C-shaped channel bar in perspective showing its squared U profile at the end."
+  },
+  {
+    "name": "square-steel-tube",
+    "category": "materials",
+    "draw": "Hollow square tube in perspective with a visible square opening at the near end."
+  },
+  {
+    "name": "round-bar-stock",
+    "category": "materials",
+    "draw": "Bundle of three solid round metal bars in perspective with flat circular ends."
+  },
+  {
+    "name": "metal-shavings",
+    "category": "materials",
+    "draw": "Pile of tight curly spiral metal chips like springs."
+  },
+  {
+    "name": "damascus-steel",
+    "category": "materials",
+    "draw": "Knife blade filled with flowing wavy layered pattern lines."
+  },
+  {
+    "name": "powder-coating",
+    "category": "materials",
+    "draw": "Spray gun emitting a dotted powder cloud onto a hanging metal bracket."
+  },
+  {
+    "name": "hot-dip-galvanizing",
+    "category": "materials",
+    "draw": "Metal beam lowered by a hook into a tank of molten zinc with bubbles at the surface."
+  },
+  {
+    "name": "sandblasting",
+    "category": "materials",
+    "draw": "Nozzle blasting a cone of grit dots onto a surface that is clean where the spray hits."
+  },
+  {
+    "name": "tempered-glass",
+    "category": "materials",
+    "draw": "Glass pane shattered into a mosaic of small square cubes."
+  },
+  {
+    "name": "laminated-glass",
+    "category": "materials",
+    "draw": "Glass pane with a spider web crack that stays in place, edge showing a thin middle layer."
+  },
+  {
+    "name": "wired-glass",
+    "category": "materials",
+    "draw": "Glass pane with a diagonal shine and a fine square wire grid inside it."
+  },
+  {
+    "name": "reeded-glass",
+    "category": "materials",
+    "draw": "Glass panel covered in vertical rounded ribs with soft shading between them."
+  },
+  {
+    "name": "glass-block",
+    "category": "materials",
+    "draw": "Square thick glass brick with an inner smaller square and wavy lines across the face."
+  },
+  {
+    "name": "glass-cullet",
+    "category": "materials",
+    "draw": "Heap of broken angular glass pieces with small shine marks."
+  },
+  {
+    "name": "smart-glass",
+    "category": "materials",
+    "draw": "Window pane that is half clear and half frosted with a small switch icon beside it."
+  },
+  {
+    "name": "plastic-pellets",
+    "category": "materials",
+    "draw": "Handful of small round and lentil shaped plastic pellets spilling from a small scoop."
+  },
+  {
+    "name": "plastic-flakes",
+    "category": "materials",
+    "draw": "Scattered irregular flat shredded plastic chips of mixed sizes."
+  },
+  {
+    "name": "acrylic-sheet",
+    "category": "materials",
+    "draw": "Clear sheet in perspective with a corner of its protective film peeling back."
+  },
+  {
+    "name": "polystyrene-foam",
+    "category": "materials",
+    "draw": "Rectangular foam block whose face is filled with small packed round beads."
+  },
+  {
+    "name": "twinwall-polycarbonate",
+    "category": "materials",
+    "draw": "Clear panel end view showing two thin walls joined by evenly spaced vertical ribs."
+  },
+  {
+    "name": "printer-filament-spool",
+    "category": "materials",
+    "draw": "Round plastic spool wound with filament, one loose strand trailing off."
+  },
+  {
+    "name": "injection-mold",
+    "category": "materials",
+    "draw": "Two block mold halves apart with a small molded part between and a nozzle feeding the top."
+  },
+  {
+    "name": "bioplastic",
+    "category": "materials",
+    "draw": "Plastic bottle outline with a leaf growing from inside its body."
+  },
+  {
+    "name": "plastic-free",
+    "category": "materials",
+    "draw": "Plastic bag outline inside a circle with a leaf replacing its handle."
+  },
+  {
+    "name": "memory-foam",
+    "category": "materials",
+    "draw": "Thick foam slab with a deep handprint slowly holding its shape."
+  },
+  {
+    "name": "aerogel",
+    "category": "materials",
+    "draw": "Small translucent block resting on a flame with a flower sitting on top unharmed."
+  },
+  {
+    "name": "plain-weave",
+    "category": "materials",
+    "draw": "Close-up grid of threads going over and under one at a time like a checkerboard."
+  },
+  {
+    "name": "twill-weave",
+    "category": "materials",
+    "draw": "Close-up weave where the over-thread blocks step to form diagonal ribs."
+  },
+  {
+    "name": "satin-weave",
+    "category": "materials",
+    "draw": "Smooth glossy fabric square with long floating threads and a sweeping shine curve."
+  },
+  {
+    "name": "houndstooth-fabric",
+    "category": "materials",
+    "draw": "Fabric square filled with the broken check four-pointed tooth shape pattern."
+  },
+  {
+    "name": "seersucker-fabric",
+    "category": "materials",
+    "draw": "Fabric square with alternating flat stripes and puckered crinkled stripes."
+  },
+  {
+    "name": "corduroy-fabric",
+    "category": "materials",
+    "draw": "Fabric square with raised vertical rounded ridges called wales."
+  },
+  {
+    "name": "velvet-fabric",
+    "category": "materials",
+    "draw": "Draped fabric fold with a soft pile edge and a strong light and dark sheen."
+  },
+  {
+    "name": "terry-cloth",
+    "category": "materials",
+    "draw": "Fabric edge showing rows of small raised loops."
+  },
+  {
+    "name": "waffle-weave-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a grid of recessed square pockets."
+  },
+  {
+    "name": "damask-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a large symmetrical floral medallion pattern."
+  },
+  {
+    "name": "burlap-fabric",
+    "category": "materials",
+    "draw": "Coarse loose open weave square with thick threads and visible gaps."
+  },
+  {
+    "name": "tweed-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a rough woven texture of flecks and small dashes."
+  },
+  {
+    "name": "quilted-fabric",
+    "category": "materials",
+    "draw": "Puffy fabric square with diagonal diamond stitching lines."
+  },
+  {
+    "name": "tie-dye-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a spiral burst of radiating dyed bands."
+  },
+  {
+    "name": "batik-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a wax resist pattern of crackled lines and flower shapes."
+  },
+  {
+    "name": "ikat-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a blurred edge diamond motif made of feathered strokes."
+  },
+  {
+    "name": "mudcloth-fabric",
+    "category": "materials",
+    "draw": "Fabric square with bold hand painted rows of dots, crosses and zigzag lines."
+  },
+  {
+    "name": "tapa-cloth",
+    "category": "materials",
+    "draw": "Bark cloth square with stamped geometric bands and triangles."
+  },
+  {
+    "name": "ripstop-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a grid of thicker reinforcing threads forming small squares."
+  },
+  {
+    "name": "mesh-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a regular pattern of open hexagonal holes."
+  },
+  {
+    "name": "faux-fur",
+    "category": "materials",
+    "draw": "Fabric swatch with a flat backing and a thick top edge of long fluffy strands."
+  },
+  {
+    "name": "tulle-fabric",
+    "category": "materials",
+    "draw": "Gathered fabric ruffle with a fine hexagon net texture."
+  },
+  {
+    "name": "non-woven-fabric",
+    "category": "materials",
+    "draw": "Fabric square filled with random crossing short fibers and no grid."
+  },
+  {
+    "name": "selvedge",
+    "category": "materials",
+    "draw": "Fabric edge with a tight woven border stripe and a line of small pin holes."
+  },
+  {
+    "name": "floral-print-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a scattered repeat of small flowers and leaves."
+  },
+  {
+    "name": "fair-isle-pattern",
+    "category": "materials",
+    "draw": "Knitted band with rows of small star and diamond motifs between stripe lines."
+  },
+  {
+    "name": "linen-fabric",
+    "category": "materials",
+    "draw": "Slightly wrinkled fabric square with uneven slubby thread lines."
+  },
+  {
+    "name": "silk-fabric",
+    "category": "materials",
+    "draw": "Flowing draped fabric with long smooth folds and a bright highlight."
+  },
+  {
+    "name": "plied-yarn",
+    "category": "materials",
+    "draw": "Two strands twisting around each other into one thick yarn with a frayed end."
+  },
+  {
+    "name": "hemp-fiber",
+    "category": "materials",
+    "draw": "Bundle of long straight coarse fibers tied at the middle with a hemp leaf beside it."
+  },
+  {
+    "name": "jute-fiber",
+    "category": "materials",
+    "draw": "Hank of long golden fibers hanging over a bar, ends loose and wavy."
+  },
+  {
+    "name": "spinneret",
+    "category": "materials",
+    "draw": "Round nozzle plate with many small holes extruding fine parallel filaments downward."
+  },
+  {
+    "name": "suede-leather",
+    "category": "materials",
+    "draw": "Leather square with a brushed nap shown by short soft strokes in one direction and a finger swipe mark."
+  },
+  {
+    "name": "patent-leather",
+    "category": "materials",
+    "draw": "Glossy leather square with strong mirror shine streaks."
+  },
+  {
+    "name": "vegan-leather",
+    "category": "materials",
+    "draw": "Leather hide outline with a small plant leaf inside it."
+  },
+  {
+    "name": "crocodile-leather",
+    "category": "materials",
+    "draw": "Leather square embossed with large rectangular scales in a grid."
+  },
+  {
+    "name": "snakeskin-leather",
+    "category": "materials",
+    "draw": "Leather strip with small overlapping diamond scales in rows."
+  },
+  {
+    "name": "tannery-vat",
+    "category": "materials",
+    "draw": "Round pit vat filled with liquid and a hide draped over its rim."
+  },
+  {
+    "name": "hide-stretching-frame",
+    "category": "materials",
+    "draw": "Square wooden frame with a leather hide laced to it by cords at the edges."
+  },
+  {
+    "name": "leather-patch",
+    "category": "materials",
+    "draw": "Rectangular leather label with stitched border and a debossed blank center."
+  },
+  {
+    "name": "shearling",
+    "category": "materials",
+    "draw": "Fold of leather with a thick curly fleece lining showing along the edge."
+  },
+  {
+    "name": "vellum",
+    "category": "materials",
+    "draw": "Translucent sheet overlapping a line drawing that shows faintly through it."
+  },
+  {
+    "name": "crepe-paper",
+    "category": "materials",
+    "draw": "Streamer roll with a strip unrolled showing fine crinkled vertical ridges."
+  },
+  {
+    "name": "seed-paper",
+    "category": "materials",
+    "draw": "Paper square with scattered seeds and a small sprout growing from one edge."
+  },
+  {
+    "name": "watercolor-paper",
+    "category": "materials",
+    "draw": "Spiral pad sheet with a dotted cold press texture and a paint wash stroke."
+  },
+  {
+    "name": "foam-board",
+    "category": "materials",
+    "draw": "Board edge-on showing a thick foam core between two thin paper faces."
+  },
+  {
+    "name": "recycled-paper",
+    "category": "materials",
+    "draw": "Paper sheet with a recycling loop of arrows printed in its center."
+  },
+  {
+    "name": "paper-reel",
+    "category": "materials",
+    "draw": "Large industrial paper roll on its side with a sheet unwinding flat."
+  },
+  {
+    "name": "tissue-paper",
+    "category": "materials",
+    "draw": "Thin sheets fanned out with soft folds and a crumpled corner."
+  },
+  {
+    "name": "flagstone-paving",
+    "category": "materials",
+    "draw": "Ground surface made of large irregular polygon stones with gaps between."
+  },
+  {
+    "name": "ashlar-wall",
+    "category": "materials",
+    "draw": "Wall of neat squared cut stone blocks in even courses with thin joints."
+  },
+  {
+    "name": "gabion-wall",
+    "category": "materials",
+    "draw": "Wire mesh cage box filled with round stones."
+  },
+  {
+    "name": "slump-test",
+    "category": "materials",
+    "draw": "Metal cone lifted beside a slumped mound of concrete with a ruler measuring the drop."
+  },
+  {
+    "name": "concrete-formwork",
+    "category": "materials",
+    "draw": "Wooden form boards with braces holding a poured concrete wall between them."
+  },
+  {
+    "name": "precast-concrete-panel",
+    "category": "materials",
+    "draw": "Flat wall panel with lifting hooks on top hanging from a crane cable."
+  },
+  {
+    "name": "reinforced-concrete",
+    "category": "materials",
+    "draw": "Concrete block cross-section with a row of round rebar dots inside."
+  },
+  {
+    "name": "concrete-aggregate",
+    "category": "materials",
+    "draw": "Concrete block cross-section showing embedded mixed size stones."
+  },
+  {
+    "name": "hempcrete-block",
+    "category": "materials",
+    "draw": "Rectangular building block with a fibrous speckled face and a hemp leaf on it."
+  },
+  {
+    "name": "rammed-earth-wall",
+    "category": "materials",
+    "draw": "Wall section with wavy horizontal compressed soil layers of varying thickness."
+  },
+  {
+    "name": "subway-tile",
+    "category": "materials",
+    "draw": "Wall of glossy horizontal rectangular tiles laid in a running bond pattern."
+  },
+  {
+    "name": "clay-roof-tile",
+    "category": "materials",
+    "draw": "Row of overlapping curved S shaped roof tiles seen from the lower edge."
+  },
+  {
+    "name": "firebrick",
+    "category": "materials",
+    "draw": "Single brick with small flames licking along its top edge."
+  },
+  {
+    "name": "hardness-test",
+    "category": "materials",
+    "draw": "Pyramid shaped indenter pressing down on a sample leaving a square dent."
+  },
+  {
+    "name": "scratch-hardness-test",
+    "category": "materials",
+    "draw": "Pointed stylus dragging across a stone sample leaving a scratch line."
+  },
+  {
+    "name": "pendulum-impact-test",
+    "category": "materials",
+    "draw": "Swinging pendulum hammer on an arc striking a notched bar held on supports."
+  },
+  {
+    "name": "compression-test",
+    "category": "materials",
+    "draw": "Cylinder sample squeezed between two flat plates with arrows pushing inward."
+  },
+  {
+    "name": "bend-test",
+    "category": "materials",
+    "draw": "Bar resting on two supports bending downward under a center arrow."
+  },
+  {
+    "name": "fatigue-test",
+    "category": "materials",
+    "draw": "Bar with a small crack beside a repeating sine wave load symbol."
+  },
+  {
+    "name": "torsion-test",
+    "category": "materials",
+    "draw": "Horizontal rod with curved rotation arrows at each end twisting in opposite directions."
+  },
+  {
+    "name": "shear-test",
+    "category": "materials",
+    "draw": "Block split along a line with two opposite arrows sliding the halves apart."
+  },
+  {
+    "name": "drop-test",
+    "category": "materials",
+    "draw": "Box falling toward a hard floor with motion lines and a height arrow."
+  },
+  {
+    "name": "abrasion-test",
+    "category": "materials",
+    "draw": "Circular rubbing head moving in a loop over a round fabric sample."
+  },
+  {
+    "name": "pilling-test",
+    "category": "materials",
+    "draw": "Sweater fabric square with small fuzzy balls scattered on its surface under a magnifier."
+  },
+  {
+    "name": "colorfastness-test",
+    "category": "materials",
+    "draw": "Fabric swatch beside a row of gray scale steps from dark to light."
+  },
+  {
+    "name": "shrinkage-test",
+    "category": "materials",
+    "draw": "Fabric square marked with a measured inner square and arrows pointing inward."
+  },
+  {
+    "name": "dye-penetrant-test",
+    "category": "materials",
+    "draw": "Metal part with a spray can revealing a bright crack line."
+  },
+  {
+    "name": "ultrasonic-flaw-detection",
+    "category": "materials",
+    "draw": "Probe on a metal block with sound wave arcs inside reflecting off a hidden flaw."
+  },
+  {
+    "name": "salt-spray-test",
+    "category": "materials",
+    "draw": "Cabinet chamber with a mist nozzle spraying droplets onto hanging metal samples."
+  },
+  {
+    "name": "uv-weathering-test",
+    "category": "materials",
+    "draw": "Sample panel under a sun symbol and rain drops with a timer."
+  },
+  {
+    "name": "metal-grain-structure",
+    "category": "materials",
+    "draw": "Circle view through a microscope showing irregular polygon grains."
+  },
+  {
+    "name": "thermal-conductivity",
+    "category": "materials",
+    "draw": "Metal bar with a flame at one end and heat wave lines fading along its length."
+  },
+  {
+    "name": "burst-test",
+    "category": "materials",
+    "draw": "Fabric sheet clamped in a ring bulging upward into a dome with an arrow beneath."
+  },
+  {
+    "name": "peel-test",
+    "category": "materials",
+    "draw": "Tape strip peeled back from a surface at a right angle with an upward pull arrow."
+  },
+  {
+    "name": "cross-cut-adhesion-test",
+    "category": "materials",
+    "draw": "Coated square cut with a lattice of crossing lines and a few flaked squares."
+  },
+  {
+    "name": "tear-test",
+    "category": "materials",
+    "draw": "Fabric strip with a slit and its two tongues pulled apart by opposing arrows."
+  },
+  {
+    "name": "density-test",
+    "category": "materials",
+    "draw": "Solid object submerged in a graduated cylinder with the water level risen and marked."
+  },
+  {
+    "name": "waterproof-fabric",
+    "category": "materials",
+    "draw": "Fabric square with round water drops beading on top and an umbrella outline."
+  },
+  {
+    "name": "breathable-fabric",
+    "category": "materials",
+    "draw": "Fabric layer with wavy vapor arrows rising up through it."
+  },
+  {
+    "name": "stretch-fabric",
+    "category": "materials",
+    "draw": "Fabric square pulled by arrows at both sides with curved stretched edges."
+  },
+  {
+    "name": "flame-retardant-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a flame beside it held back by a shield outline."
+  },
+  {
+    "name": "antimicrobial-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a shield covering a small bacteria shape."
+  },
+  {
+    "name": "uv-protective-fabric",
+    "category": "materials",
+    "draw": "Fabric square with sun rays bouncing off its surface."
+  },
+  {
+    "name": "windproof-fabric",
+    "category": "materials",
+    "draw": "Fabric layer with wind lines hitting it and curving away."
+  },
+  {
+    "name": "quick-dry-fabric",
+    "category": "materials",
+    "draw": "Fabric square with a water drop and a speed line arrow leaving it."
+  },
+  {
+    "name": "moisture-wicking-fabric",
+    "category": "materials",
+    "draw": "Fabric cross-section with drops moving from the inner side outward along arrows."
+  },
+  {
+    "name": "thermal-insulation-layer",
+    "category": "materials",
+    "draw": "Stacked layers with a heat wave arrow blocked and turned back at the middle layer."
+  },
+  {
+    "name": "non-slip-surface",
+    "category": "materials",
+    "draw": "Textured sole surface with grip bumps and a shoe standing firm on a slope."
+  },
+  {
+    "name": "anti-static-material",
+    "category": "materials",
+    "draw": "Fabric square with a crossed out small lightning spark."
+  },
+  {
+    "name": "shock-absorbing-material",
+    "category": "materials",
+    "draw": "Foam pad compressed by a downward arrow with a spring outline inside."
+  },
+  {
+    "name": "tear-resistant-fabric",
+    "category": "materials",
+    "draw": "Fabric square pulled by opposing arrows with a reinforced grid holding a small cut."
+  },
+  {
+    "name": "recycle-code-alu",
+    "category": "materials",
+    "draw": "Chasing arrows recycling triangle with the number 41 and ALU label below."
+  },
+  {
+    "name": "recycle-code-paper",
+    "category": "materials",
+    "draw": "Chasing arrows recycling triangle with the number 20 and PAP label below."
+  },
+  {
+    "name": "recycle-code-glass",
+    "category": "materials",
+    "draw": "Chasing arrows recycling triangle with the number 70 and GL label below."
+  },
+  {
+    "name": "recycle-code-steel",
+    "category": "materials",
+    "draw": "Chasing arrows recycling triangle with the number 40 and FE label below."
+  },
+  {
+    "name": "recycled-polyester",
+    "category": "materials",
+    "draw": "Plastic bottle with an arrow leading to a folded T-shirt."
+  },
+  {
+    "name": "recycled-rubber-crumb",
+    "category": "materials",
+    "draw": "Tire with an arrow leading to a small pile of rubber granules."
+  },
+  {
+    "name": "rag-rug",
+    "category": "materials",
+    "draw": "Oval rug made of braided fabric strips coiled in rings."
+  },
+  {
+    "name": "organic-cotton",
+    "category": "materials",
+    "draw": "Open cotton boll with a small leaf badge on its stem."
+  },
+  {
+    "name": "composite-laminate",
+    "category": "materials",
+    "draw": "Sheet edge in perspective showing stacked layers of crossing fiber directions."
+  },
+  {
+    "name": "cane-webbing",
+    "category": "materials",
+    "draw": "Square panel of woven cane strands forming an open octagon lattice."
+  }
+]

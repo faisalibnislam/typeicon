@@ -1,0 +1,482 @@
+[
+ {
+  "name": "stacked-sacks",
+  "category": "logistics",
+  "draw": "Side view of neatly stacked filled sacks on a pallet.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "shrink-hood",
+  "category": "logistics",
+  "draw": "Pallet load covered by a tight plastic hood with a heat gun blowing on its side.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-cover",
+  "category": "logistics",
+  "draw": "Pallet load shrouded in a quilted insulated cover with a zip down one side.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "banded-bundle",
+  "category": "logistics",
+  "draw": "Bundle of boards tied with two metal straps and clip seals.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "strapping-tensioner",
+  "category": "logistics",
+  "draw": "Hand tool with a lever handle gripping and tightening a flat strap around a box edge.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "strapping-coil",
+  "category": "logistics",
+  "draw": "Wide coil of flat plastic strap on a core, with a loose end trailing out.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "carton-sealer",
+  "category": "logistics",
+  "draw": "Box passing through a machine frame with a tape head applying tape across the top seam.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "tilt-indicator",
+  "category": "logistics",
+  "draw": "Rectangular sticker with a triangle channel and a small ball resting in one arm.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "shock-indicator",
+  "category": "logistics",
+  "draw": "Small label with a glass vial window that shows a colored bar after impact.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "do-not-stack",
+  "category": "logistics",
+  "draw": "Box with a second box above it crossed out by a diagonal line.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "un-number-panel",
+  "category": "logistics",
+  "draw": "Rectangular placard split into two rows with a four digit number in each row.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "limited-quantity-mark",
+  "category": "logistics",
+  "draw": "Diamond outline with the top and bottom triangles filled solid and the middle band empty.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "lithium-battery-label",
+  "category": "logistics",
+  "draw": "Square label with a hatched border showing a battery with a flame and a phone silhouette.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "marine-pollutant-mark",
+  "category": "logistics",
+  "draw": "Diamond with a dead fish lying under a leafless tree.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "magnetized-material-label",
+  "category": "logistics",
+  "draw": "Square label with a horseshoe magnet and radiating field lines around a compass needle.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "fragile-tape",
+  "category": "logistics",
+  "draw": "Tape roll with a strip unrolling, printed with a repeating wine glass pattern.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "air-waybill",
+  "category": "logistics",
+  "draw": "Document sheet with a small plane at the top and a barcode strip along the bottom.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "certificate-of-origin",
+  "category": "logistics",
+  "draw": "Certificate sheet with a globe and a round embossed seal with ribbons at the bottom.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "delivery-note",
+  "category": "logistics",
+  "draw": "Sheet with a small delivery truck at the top, item lines and a signature line.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dangerous-goods-declaration",
+  "category": "logistics",
+  "draw": "Document with a diamond hazard placard at the top right and form fields.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "customs-tariff",
+  "category": "logistics",
+  "draw": "Parcel box with a hanging tag showing a percent sign.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "bonded-warehouse",
+  "category": "logistics",
+  "draw": "Warehouse building with a padlock and a sealed band across its doors.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "nothing-to-declare",
+  "category": "logistics",
+  "draw": "Hanging airport sign with an arrow and an empty suitcase outline.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "sniffer-dog",
+  "category": "logistics",
+  "draw": "Side view of a dog with its nose to a suitcase, sniff lines curling up from it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "parcel-pickup-point",
+  "category": "logistics",
+  "draw": "Map pin with a small parcel box inside its circle.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "parcel-drop-box",
+  "category": "logistics",
+  "draw": "Freestanding metal box with a pull-down drop hatch on its front and a keyhole.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "delivery-photo",
+  "category": "logistics",
+  "draw": "Smartphone showing a camera frame around a box sitting on a doormat.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "shipment-timeline",
+  "category": "logistics",
+  "draw": "Horizontal line with four dots, the first three filled, and a small truck above the third dot.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "delivery-date",
+  "category": "logistics",
+  "draw": "Calendar page with a parcel box in the center of the grid.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "contactless-delivery",
+  "category": "logistics",
+  "draw": "Parcel on a doorstep with a person stepping back and a distance arrow between them.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "restocking",
+  "category": "logistics",
+  "draw": "Box moving onto a shelf with a curved arrow from below.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "overstock",
+  "category": "logistics",
+  "draw": "Shelf crammed with boxes, extra boxes piled on top leaning over the edge.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "fifo-lane",
+  "category": "logistics",
+  "draw": "Row of boxes on a sloped lane, the front box being taken and a new one added at the back.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "stock-transfer",
+  "category": "logistics",
+  "draw": "Two small warehouse buildings with a box and an arrow traveling between them.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "kanban-bin",
+  "category": "logistics",
+  "draw": "Two parts bins side by side, one with a card sticking out of its label slot.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dropshipping",
+  "category": "logistics",
+  "draw": "Factory, then a dashed arrow bypassing a shop to a house, with a box on the arrow.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "shipment-consolidation",
+  "category": "logistics",
+  "draw": "Three small boxes with arrows converging into one large box.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "load-plan",
+  "category": "logistics",
+  "draw": "Top view of a truck trailer outline filled with a pattern of box rectangles of different sizes.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "goods-receiving",
+  "category": "logistics",
+  "draw": "Open warehouse door with a box entering on an arrow and a clipboard tick.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-put-away",
+  "category": "logistics",
+  "draw": "Forklift lifting a pallet up toward an empty slot in a tall rack.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "order-picking",
+  "category": "logistics",
+  "draw": "Hand taking a box from a shelf slot into a tote.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "packing-station",
+  "category": "logistics",
+  "draw": "Workbench with a tape dispenser, an open box and a roll of paper.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "cross-docking",
+  "category": "logistics",
+  "draw": "Warehouse outline with trucks on both sides and a straight arrow passing through.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "cold-storage-warehouse",
+  "category": "logistics",
+  "draw": "Warehouse building with a large snowflake on its facade.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "walk-in-freezer",
+  "category": "logistics",
+  "draw": "Heavy insulated door with a large lever latch and a thermometer panel beside it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "lashing-bar",
+  "category": "logistics",
+  "draw": "Long steel rod with a hooked head at the top and a turnbuckle at the bottom, braced diagonally against a container corner.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "high-loader",
+  "category": "logistics",
+  "draw": "Side view of a scissor-lift vehicle raising a flat roller deck with an air cargo unit level with a plane door.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "piggyback-railcar",
+  "category": "logistics",
+  "draw": "Side view of a flat railcar carrying a truck trailer with its wheels resting on the deck.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "centerbeam-flatcar",
+  "category": "logistics",
+  "draw": "Side view of a flat railcar with a tall central lattice wall and bundles of lumber stacked on both sides.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "hook-lift-truck",
+  "category": "logistics",
+  "draw": "Side view of a truck with a bent hook arm pulling an open roll-off bin up onto its frame.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "glass-transport-truck",
+  "category": "logistics",
+  "draw": "Side view of a truck with an A-frame rack on its bed carrying large glass panes leaning on both sides.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "modular-transporter",
+  "category": "logistics",
+  "draw": "Side view of a long flat platform supported by many small paired wheels carrying a large cylindrical tank.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "chain-binder",
+  "category": "logistics",
+  "draw": "Lever-style load binder with a long handle, a central body and two hooks gripping taut chain links.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "load-bar",
+  "category": "logistics",
+  "draw": "Telescoping bar with rubber foot pads at both ends, wedged horizontally between two trailer walls in front of boxes.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dunnage-bag",
+  "category": "logistics",
+  "draw": "Inflated rectangular air bag with a valve, squeezed in the gap between two stacks of boxes.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "tie-down-ring",
+  "category": "logistics",
+  "draw": "Folding D-shaped ring hinged to a square floor plate with four bolt holes.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "rack-guard",
+  "category": "logistics",
+  "draw": "U-shaped steel guard wrapped around the foot of a pallet rack upright, with diagonal hazard stripes.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "clamp-forklift",
+  "category": "logistics",
+  "draw": "Side view of a forklift with two large flat pads instead of forks squeezing a stack of boxes.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "forklift-safety-cage",
+  "category": "logistics",
+  "draw": "Mesh work cage with handrails sitting on forklift forks, raised partway up the mast.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "mobile-racking",
+  "category": "logistics",
+  "draw": "Row of tall shelving units on floor rails, one with a large three-spoke crank wheel on its end panel.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "panel-cart",
+  "category": "logistics",
+  "draw": "Wheeled A-frame cart carrying large flat sheets leaning on one side.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "machine-skates",
+  "category": "logistics",
+  "draw": "Pair of low roller skates with swivel tops carrying a heavy machine block.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "checkweigher",
+  "category": "logistics",
+  "draw": "Short conveyor section with a box on a weighing plate and a digital display on a post above.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pocket-sorter",
+  "category": "logistics",
+  "draw": "Overhead rail with a row of hanging pouch bags, some holding small parcels.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pick-path",
+  "category": "logistics",
+  "draw": "Top view of rows of shelving with a dotted snake route weaving through the aisles to a cart.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "inventory-drone",
+  "category": "logistics",
+  "draw": "Small quadcopter hovering beside a tall pallet rack with a scan beam hitting a box label.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-label",
+  "category": "logistics",
+  "draw": "Tall label with three stacked barcode blocks and a row of text fields above them.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "open-side-container",
+  "category": "logistics",
+  "draw": "Shipping container with its entire long side opened on hinged panels, boxes visible inside.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "shelf-ready-tray",
+  "category": "logistics",
+  "draw": "Cardboard tray with a torn-off perforated front showing a row of cans lined up inside.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "vacuum-tube-lifter",
+  "category": "logistics",
+  "draw": "Flexible vertical hose hanging from an overhead arm, with a suction pad and handle gripping a box.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "c-hook",
+  "category": "logistics",
+  "draw": "Large C-shaped lifting hook hanging from a crane cable with a steel coil sitting on its lower arm.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "lever-hoist",
+  "category": "logistics",
+  "draw": "Compact hoist body with a long ratchet lever handle, a top hook and a chain running to a bottom hook.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "moving-blanket",
+  "category": "logistics",
+  "draw": "Thick quilted pad with diamond stitching draped over a dresser.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "miscellaneous-hazard-label",
+  "category": "logistics",
+  "draw": "Diamond placard with vertical stripes filling the top half and a number nine at the bottom point.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "keep-away-from-sunlight",
+  "category": "logistics",
+  "draw": "Box shape beneath a sun with rays falling toward it, the handling mark for protect from heat.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "temperature-limits",
+  "category": "logistics",
+  "draw": "Thermometer with two short horizontal limit bars marking a top and bottom range, the handling mark.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "phytosanitary-certificate",
+  "category": "logistics",
+  "draw": "Certificate sheet with a leaf symbol at the top and a round inspection stamp at the bottom.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "neighbor-delivery",
+  "category": "logistics",
+  "draw": "Two small houses side by side with a parcel box on a curved arrow from one door to the other.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "white-glove-delivery",
+  "category": "logistics",
+  "draw": "Two gloved hands carrying a small armchair between them.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "backorder",
+  "category": "logistics",
+  "draw": "Parcel box beside a small hourglass with sand running down.",
+  "domain": "r2-logistics-shipping"
+ }
+]

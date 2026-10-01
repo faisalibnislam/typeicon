@@ -1,0 +1,827 @@
+[
+ {
+  "name": "altostratus-cloud",
+  "category": "climate",
+  "draw": "Flat grey sheet of cloud filling the upper half with a dim, washed out sun disk showing faintly through it."
+ },
+ {
+  "name": "stratocumulus-cloud",
+  "category": "climate",
+  "draw": "Low layer of lumpy rounded cloud rolls packed side by side in a single horizontal band with small gaps between them."
+ },
+ {
+  "name": "towering-cumulus",
+  "category": "climate",
+  "draw": "Tall narrow cauliflower cloud with stacked bulging lobes rising from a flat base, taller than it is wide."
+ },
+ {
+  "name": "pileus-cloud",
+  "category": "climate",
+  "draw": "Rounded cumulus tower with a thin smooth cap cloud arched just above its top like a hood."
+ },
+ {
+  "name": "roll-cloud",
+  "category": "climate",
+  "draw": "Long horizontal tube shaped cloud lying low over a flat horizon line, with curved arrows showing it rolling."
+ },
+ {
+  "name": "asperitas-cloud",
+  "category": "climate",
+  "draw": "Cloud base drawn as deep rolling wave shaped undulations, like a rough sea seen from below."
+ },
+ {
+  "name": "kelvin-helmholtz-cloud",
+  "category": "climate",
+  "draw": "Row of three cloud crests curling over into breaking wave shapes along one horizontal line."
+ },
+ {
+  "name": "fallstreak-hole",
+  "category": "climate",
+  "draw": "Flat cloud layer with a clean oval hole in the middle and short wispy streaks hanging down inside the hole."
+ },
+ {
+  "name": "pyrocumulus-cloud",
+  "category": "climate",
+  "draw": "Puffy cumulus cloud billowing up from a column of smoke rising out of small flames on the ground."
+ },
+ {
+  "name": "cap-cloud",
+  "category": "climate",
+  "draw": "Pointed mountain peak with a smooth lens shaped cloud sitting directly on its summit like a hat."
+ },
+ {
+  "name": "banner-cloud",
+  "category": "climate",
+  "draw": "Pointed mountain peak with a cloud streaming sideways from its lee side like a flag on a pole."
+ },
+ {
+  "name": "cloud-streets",
+  "category": "climate",
+  "draw": "Three parallel rows of small puffy clouds lined up in straight diagonal streets receding into the distance."
+ },
+ {
+  "name": "cloud-levels-chart",
+  "category": "climate",
+  "draw": "Vertical altitude axis with a wispy cirrus at the top, a lumpy mid level cloud in the middle and a flat stratus layer near the ground."
+ },
+ {
+  "name": "forest-mist",
+  "category": "climate",
+  "draw": "Row of pointed conifer trees with soft wisps of mist rising from between them after rain."
+ },
+ {
+  "name": "valley-fog",
+  "category": "climate",
+  "draw": "Two hills with a flat layer of fog lines pooled in the valley between them and a clear sun above."
+ },
+ {
+  "name": "sea-fog",
+  "category": "climate",
+  "draw": "Horizontal fog bands drifting over a wavy sea line with a small lighthouse half hidden behind them."
+ },
+ {
+  "name": "steam-fog",
+  "category": "climate",
+  "draw": "Calm lake surface line with curling wisps of vapor rising from the water like steam."
+ },
+ {
+  "name": "hexagonal-plate-snowflake",
+  "category": "climate",
+  "draw": "Flat hexagon ice crystal with a smaller inner hexagon and short ridges from each corner, not a branching star."
+ },
+ {
+  "name": "column-snowflake",
+  "category": "climate",
+  "draw": "Six sided hexagonal prism ice crystal drawn as a short upright column with visible hexagon end faces."
+ },
+ {
+  "name": "needle-snowflake",
+  "category": "climate",
+  "draw": "Cluster of three thin needle shaped ice crystals crossing loosely at slight angles."
+ },
+ {
+  "name": "hailstone-cross-section",
+  "category": "climate",
+  "draw": "Round hailstone cut in half showing concentric onion like growth rings around a small central core."
+ },
+ {
+  "name": "diamond-dust",
+  "category": "climate",
+  "draw": "Small sun low on the horizon with tiny sparkling four point glints scattered through clear air in front of it."
+ },
+ {
+  "name": "lake-effect-snow",
+  "category": "climate",
+  "draw": "Flat lake at the bottom with a cloud band forming over it and snowflakes falling on the far shoreline."
+ },
+ {
+  "name": "wind-driven-rain",
+  "category": "climate",
+  "draw": "Cloud with long rain streaks slanting sharply sideways and a curling wind line beside them."
+ },
+ {
+  "name": "frost-flowers",
+  "category": "climate",
+  "draw": "Thin stem sticking out of the ground with curling ribbons of ice petals peeling out from it."
+ },
+ {
+  "name": "snow-roller",
+  "category": "climate",
+  "draw": "Hollow cylinder of rolled snow on a flat snowy surface with a short trail behind it."
+ },
+ {
+  "name": "needle-ice",
+  "category": "climate",
+  "draw": "Row of vertical ice needles pushing up from the soil line and lifting a small pebble on top."
+ },
+ {
+  "name": "sastrugi",
+  "category": "climate",
+  "draw": "Snow surface carved by wind into sharp wavy ridges with a wind line blowing across them."
+ },
+ {
+  "name": "pancake-ice",
+  "category": "climate",
+  "draw": "Several round ice plates with raised rims floating close together on water."
+ },
+ {
+  "name": "snow-load",
+  "category": "climate",
+  "draw": "House outline with a thick heavy slab of snow piled on its roof and a downward pressure arrow."
+ },
+ {
+  "name": "ice-thickness",
+  "category": "climate",
+  "draw": "Cross section of a frozen lake with an ice layer and a vertical ruler measuring its depth."
+ },
+ {
+  "name": "frost-depth",
+  "category": "climate",
+  "draw": "Ground cross section with a dashed frost line below the surface and a snowflake above the line."
+ },
+ {
+  "name": "freeze-thaw-cycle",
+  "category": "climate",
+  "draw": "Two curved arrows forming a circle between a snowflake on one side and a water drop on the other."
+ },
+ {
+  "name": "snowpack",
+  "category": "climate",
+  "draw": "Mountain slope with layered snow bands drawn in stripes on its surface."
+ },
+ {
+  "name": "rope-tornado",
+  "category": "climate",
+  "draw": "Very thin sinuous tornado funnel twisting down from a flat cloud base like a loose rope."
+ },
+ {
+  "name": "multiple-vortex-tornado",
+  "category": "climate",
+  "draw": "Wide tornado funnel with two or three smaller spinning funnels wrapped around its base."
+ },
+ {
+  "name": "wind-shear",
+  "category": "climate",
+  "draw": "Vertical stack of horizontal arrows of different lengths pointing in different directions at different heights."
+ },
+ {
+  "name": "sea-breeze",
+  "category": "climate",
+  "draw": "Coastline with a sun above the land and a curved arrow flowing from the sea onto the land."
+ },
+ {
+  "name": "foehn-wind",
+  "category": "climate",
+  "draw": "Mountain with rain cloud on one side and a warm descending arrow sweeping down the dry side toward a sun."
+ },
+ {
+  "name": "katabatic-wind",
+  "category": "climate",
+  "draw": "Glacier slope with cold air arrows flowing downhill along its surface."
+ },
+ {
+  "name": "trade-winds",
+  "category": "climate",
+  "draw": "Globe with two curved arrows on either side of the equator line sweeping toward it."
+ },
+ {
+  "name": "doldrums",
+  "category": "climate",
+  "draw": "Sailboat with a limp hanging sail on perfectly flat water under a blazing sun."
+ },
+ {
+  "name": "thermal-updraft",
+  "category": "climate",
+  "draw": "Column of spiraling upward arrows rising from sunlit ground with a small bird circling at the top."
+ },
+ {
+  "name": "polar-vortex",
+  "category": "climate",
+  "draw": "Snowflake at the center of a large swirling spiral of cold air arrows, sitting over the top of a small globe."
+ },
+ {
+  "name": "atmospheric-river",
+  "category": "climate",
+  "draw": "Long narrow band of moisture streaming across the ocean from a cloud and hitting a coastal mountain."
+ },
+ {
+  "name": "omega-block",
+  "category": "climate",
+  "draw": "Map style jet stream line bulging upward into a big omega loop with an H inside the loop."
+ },
+ {
+  "name": "cold-wave",
+  "category": "climate",
+  "draw": "Snowflake with three wavy horizontal lines flowing out behind it."
+ },
+ {
+  "name": "saffir-simpson-scale",
+  "category": "climate",
+  "draw": "Hurricane spiral symbol beside five ascending bars numbered as categories."
+ },
+ {
+  "name": "enhanced-fujita-scale",
+  "category": "climate",
+  "draw": "Tornado funnel beside six ascending bars like a rating scale."
+ },
+ {
+  "name": "hook-echo",
+  "category": "climate",
+  "draw": "Radar blob shape with a curling hook appendage at its lower corner, drawn on a faint radar circle."
+ },
+ {
+  "name": "bow-echo",
+  "category": "climate",
+  "draw": "Radar line of storms bent into a bow shape with an arrow pushing out from the middle of the curve."
+ },
+ {
+  "name": "sprite-lightning",
+  "category": "climate",
+  "draw": "Storm cloud top with a jellyfish shaped glow of tendrils flaring upward above it."
+ },
+ {
+  "name": "st-elmos-fire",
+  "category": "climate",
+  "draw": "Tip of a ship mast with a small glowing flame like halo and radiating sparks around it."
+ },
+ {
+  "name": "intracloud-lightning",
+  "category": "climate",
+  "draw": "Two clouds side by side with a lightning bolt jagging horizontally between them."
+ },
+ {
+  "name": "fulgurite",
+  "category": "climate",
+  "draw": "Branching hollow glassy tube shape buried in sand with a lightning bolt striking at its top."
+ },
+ {
+  "name": "moonbow",
+  "category": "climate",
+  "draw": "Arc of rainbow bands at night with a crescent moon and a few stars above it."
+ },
+ {
+  "name": "glory-halo",
+  "category": "climate",
+  "draw": "Small airplane shadow on a cloud top surrounded by two concentric rings."
+ },
+ {
+  "name": "circumzenithal-arc",
+  "category": "climate",
+  "draw": "Upward curving smile shaped arc high in the sky above a small sun near the horizon."
+ },
+ {
+  "name": "green-flash",
+  "category": "climate",
+  "draw": "Setting sun half below a sea horizon with a small bright flash rays bursting from its top edge."
+ },
+ {
+  "name": "lightning-distance",
+  "category": "climate",
+  "draw": "Lightning bolt with a dashed distance arrow leading to a small ear and stopwatch."
+ },
+ {
+  "name": "station-model",
+  "category": "climate",
+  "draw": "Weather station plot: small circle partly filled with a wind barb staff and short numbers around it."
+ },
+ {
+  "name": "cloud-cover-okta",
+  "category": "climate",
+  "draw": "Circle divided into quarters with three of the quarters shaded, the sky cover symbol."
+ },
+ {
+  "name": "isotherm",
+  "category": "climate",
+  "draw": "Curved dashed contour line across a map outline with a small thermometer on it."
+ },
+ {
+  "name": "high-pressure-ridge",
+  "category": "climate",
+  "draw": "Zigzag ridge axis line stretching out from a large letter H."
+ },
+ {
+  "name": "low-pressure-trough",
+  "category": "climate",
+  "draw": "Dashed trough axis line extending out from a large letter L."
+ },
+ {
+  "name": "dryline",
+  "category": "climate",
+  "draw": "Line with a row of open scalloped semicircles along one side, the dry line map symbol."
+ },
+ {
+  "name": "thunderstorm-map-symbol",
+  "category": "climate",
+  "draw": "Weather map thunderstorm symbol: an R shaped outline whose leg ends in a small lightning arrow."
+ },
+ {
+  "name": "shower-map-symbol",
+  "category": "climate",
+  "draw": "Downward pointing triangle with a single dot above it, the rain shower map symbol."
+ },
+ {
+  "name": "skew-t-chart",
+  "category": "climate",
+  "draw": "Square chart with slanted grid lines and two jagged vertical curves running side by side."
+ },
+ {
+  "name": "meteogram",
+  "category": "climate",
+  "draw": "Three stacked mini charts: a temperature line, wind barbs and rain bars along a shared time axis."
+ },
+ {
+  "name": "lapse-rate",
+  "category": "climate",
+  "draw": "Altitude axis with a diagonal line slanting left as it rises and a mountain silhouette behind it."
+ },
+ {
+  "name": "spaghetti-plot",
+  "category": "climate",
+  "draw": "Bundle of many thin wavy lines starting from one point and spreading apart to the right."
+ },
+ {
+  "name": "climate-projection",
+  "category": "climate",
+  "draw": "Line chart that becomes a widening shaded fan of possible futures after a vertical now line."
+ },
+ {
+  "name": "climograph",
+  "category": "climate",
+  "draw": "Chart with twelve vertical rainfall bars and a curved temperature line running over them."
+ },
+ {
+  "name": "keeling-curve",
+  "category": "climate",
+  "draw": "Graph with a steadily rising sawtooth line climbing from lower left to upper right."
+ },
+ {
+  "name": "temperature-distribution-shift",
+  "category": "climate",
+  "draw": "Two overlapping bell curves where the second one is shifted right, with a thermometer above."
+ },
+ {
+  "name": "temperature-record",
+  "category": "climate",
+  "draw": "Thermometer with the mercury at the very top beside a small medal ribbon."
+ },
+ {
+  "name": "extreme-weather",
+  "category": "climate",
+  "draw": "Storm cloud with a lightning bolt, a small flame and a water drop clustered beneath it."
+ },
+ {
+  "name": "el-nino",
+  "category": "climate",
+  "draw": "Wavy ocean line with a warm sun above and a long arrow pushing warm water eastward across it."
+ },
+ {
+  "name": "la-nina",
+  "category": "climate",
+  "draw": "Wavy ocean line with a snowflake above it and a dashed oval pool of cold water just below the surface."
+ },
+ {
+  "name": "thermohaline-circulation",
+  "category": "climate",
+  "draw": "Closed loop conveyor ribbon with one arrow running along the surface and another diving deep and returning."
+ },
+ {
+  "name": "atmospheric-circulation-cells",
+  "category": "climate",
+  "draw": "Half globe outline with three stacked looping arrow cells between the equator and the pole."
+ },
+ {
+  "name": "albedo",
+  "category": "climate",
+  "draw": "Sun rays striking a white ice sheet and bouncing back up as reflected arrows."
+ },
+ {
+  "name": "climate-tipping-point",
+  "category": "climate",
+  "draw": "Ball balanced on the top of a curved hill with a small thermometer beside it."
+ },
+ {
+  "name": "degree-days",
+  "category": "climate",
+  "draw": "Thermometer standing beside a small calendar page."
+ },
+ {
+  "name": "relative-humidity",
+  "category": "climate",
+  "draw": "Water drop with a percent sign inside it."
+ },
+ {
+  "name": "cloud-ceiling",
+  "category": "climate",
+  "draw": "Cloud with a vertical double headed height arrow reaching down to the ground line."
+ },
+ {
+  "name": "solar-radiation",
+  "category": "climate",
+  "draw": "Sun in the corner with parallel straight arrows striking a flat ground surface."
+ },
+ {
+  "name": "freezing-level",
+  "category": "climate",
+  "draw": "Mountain with a dashed horizontal line across its middle marked with a small zero and snowflake above it."
+ },
+ {
+  "name": "temperature-inversion",
+  "category": "climate",
+  "draw": "Valley with a flat lid line across it and smoke trapped and spreading beneath the lid."
+ },
+ {
+  "name": "growing-season",
+  "category": "climate",
+  "draw": "Seedling sprouting from soil beside a calendar page."
+ },
+ {
+  "name": "plant-hardiness-zone",
+  "category": "climate",
+  "draw": "Potted plant beside a small map shape split into horizontal banded zones."
+ },
+ {
+  "name": "soil-moisture",
+  "category": "climate",
+  "draw": "Soil cross section with a water drop inside it and a small gauge needle above the surface."
+ },
+ {
+  "name": "evapotranspiration",
+  "category": "climate",
+  "draw": "Plant on the ground with wavy vapor arrows rising from its leaves and from the soil."
+ },
+ {
+  "name": "surface-runoff",
+  "category": "climate",
+  "draw": "Rain falling on a sloped ground line with arrows flowing down the slope into a stream."
+ },
+ {
+  "name": "wind-erosion",
+  "category": "climate",
+  "draw": "Plowed field with dust particles and soil blowing off it along a wind line."
+ },
+ {
+  "name": "ice-age",
+  "category": "climate",
+  "draw": "Globe with a large ice cap extending far down from the top covering half of it."
+ },
+ {
+  "name": "isolated-thunderstorm",
+  "category": "climate",
+  "draw": "Sun peeking out from behind a cloud with a single lightning bolt beneath the cloud."
+ },
+ {
+  "name": "hazy-sun",
+  "category": "climate",
+  "draw": "Sun disk with three horizontal haze lines drawn across its lower half."
+ },
+ {
+  "name": "moon-fog",
+  "category": "climate",
+  "draw": "Crescent moon above three horizontal fog lines of uneven lengths."
+ },
+ {
+  "name": "moon-wind",
+  "category": "climate",
+  "draw": "Crescent moon with two curling wind lines sweeping beneath it."
+ },
+ {
+  "name": "sun-hail",
+  "category": "climate",
+  "draw": "Sun peeking out from behind a cloud with small round hailstones falling below."
+ },
+ {
+  "name": "moon-hail",
+  "category": "climate",
+  "draw": "Crescent moon behind a cloud with small round hailstones falling below."
+ },
+ {
+  "name": "sun-sleet",
+  "category": "climate",
+  "draw": "Sun peeking out from behind a cloud with a raindrop and a snowflake falling below."
+ },
+ {
+  "name": "moon-sleet",
+  "category": "climate",
+  "draw": "Crescent moon behind a cloud with a raindrop and a snowflake falling below."
+ },
+ {
+  "name": "outdoor-temperature",
+  "category": "climate",
+  "draw": "Thermometer standing outside beside a small house outline and a tree."
+ },
+ {
+  "name": "wet-bulb-thermometer",
+  "category": "climate",
+  "draw": "Thermometer whose bulb is wrapped in a wick dipping into a small water cup."
+ },
+ {
+  "name": "evaporation-pan",
+  "category": "climate",
+  "draw": "Wide shallow round pan of water on a low wooden stand with a measuring hook inside."
+ },
+ {
+  "name": "dropsonde",
+  "category": "climate",
+  "draw": "Small cylindrical instrument tube hanging below a square parachute."
+ },
+ {
+  "name": "hurricane-hunter-aircraft",
+  "category": "climate",
+  "draw": "Four engine propeller airplane flying toward a hurricane spiral."
+ },
+ {
+  "name": "weather-ship",
+  "category": "climate",
+  "draw": "Ship with a small radome and a weather balloon rising from its deck."
+ },
+ {
+  "name": "all-sky-camera",
+  "category": "climate",
+  "draw": "Round glass fisheye dome on top of a small box camera housing pointing straight up."
+ },
+ {
+  "name": "argo-float",
+  "category": "climate",
+  "draw": "Tall slim cylindrical ocean float bobbing upright in waves with a small antenna on top."
+ },
+ {
+  "name": "flux-tower",
+  "category": "climate",
+  "draw": "Tall thin lattice tower rising above a treetop line with instruments on a short arm at the top."
+ },
+ {
+  "name": "sounding-rocket",
+  "category": "climate",
+  "draw": "Slim research rocket with fins rising on a trail toward a curved atmosphere line."
+ },
+ {
+  "name": "weather-station-display",
+  "category": "climate",
+  "draw": "Small tabletop screen showing a sun and cloud icon above a temperature readout."
+ },
+ {
+  "name": "hail-net",
+  "category": "climate",
+  "draw": "Row of fruit trees covered by a netting canopy stretched between poles with hailstones bouncing off."
+ },
+ {
+  "name": "hail-cannon",
+  "category": "climate",
+  "draw": "Tall upright cone shaped cannon pointing at the sky with sound rings rising from its mouth."
+ },
+ {
+  "name": "aircraft-deicing",
+  "category": "climate",
+  "draw": "Truck with a raised boom spraying fluid onto the wing of an airplane."
+ },
+ {
+  "name": "polar-research-station",
+  "category": "climate",
+  "draw": "Boxy station building raised on stilts above snow with a small antenna mast beside it."
+ },
+ {
+  "name": "weather-wheel",
+  "category": "climate",
+  "draw": "Round classroom chart split into weather segments (sun, cloud, rain, snow) with a pointer arrow in the center."
+ },
+ {
+  "name": "cloud-watching",
+  "category": "climate",
+  "draw": "Person lying on their back on the grass looking up at a cloud."
+ },
+ {
+  "name": "storm-chasing",
+  "category": "climate",
+  "draw": "Van with a roof mounted instrument rack driving toward a tornado funnel."
+ },
+ {
+  "name": "rain-ripple",
+  "category": "climate",
+  "draw": "Water surface with concentric ripple rings spreading from falling raindrops."
+ },
+ {
+  "name": "downed-power-line",
+  "category": "climate",
+  "draw": "Utility pole with a snapped wire hanging down to the ground and a small spark at its end."
+ },
+ {
+  "name": "scud-cloud",
+  "category": "climate",
+  "draw": "Dark flat cloud base with ragged torn wisps of cloud hanging loosely below it."
+ },
+ {
+  "name": "severe-thunderstorm",
+  "category": "climate",
+  "draw": "Heavy dark cloud with a lightning bolt and round hailstones falling below it."
+ },
+ {
+  "name": "black-globe-thermometer",
+  "category": "climate",
+  "draw": "Hollow black sphere on a short stand with a thermometer stem inserted through its top."
+ },
+ {
+  "name": "thermoscope",
+  "category": "climate",
+  "draw": "Glass bulb on top of a long thin tube dipped upside down into a small flask of water."
+ },
+ {
+  "name": "sonic-anemometer",
+  "category": "climate",
+  "draw": "Short mast topped by three thin arms with small transducer heads facing each other across a gap."
+ },
+ {
+  "name": "propeller-anemometer",
+  "category": "climate",
+  "draw": "Streamlined body with a four blade propeller at the front and a vertical tail fin at the back on a pole."
+ },
+ {
+  "name": "pyrheliometer",
+  "category": "climate",
+  "draw": "Long narrow tube on a tracking mount pointed straight at the sun."
+ },
+ {
+  "name": "weather-logbook",
+  "category": "climate",
+  "draw": "Open notebook with a small sun and cloud drawn at the top and ruled columns of entries below."
+ },
+ {
+  "name": "hair-ice",
+  "category": "climate",
+  "draw": "Short dead branch covered in fine wavy hair like strands of ice."
+ },
+ {
+  "name": "penitentes",
+  "category": "climate",
+  "draw": "Field of tall narrow pointed snow and ice blades leaning toward a sun."
+ },
+ {
+  "name": "frost-heave",
+  "category": "climate",
+  "draw": "Road surface with a raised bulge and an ice lens drawn in the soil beneath it."
+ },
+ {
+  "name": "headwind",
+  "category": "climate",
+  "draw": "Cyclist leaning forward into three wind lines blowing straight at them."
+ },
+ {
+  "name": "wind-load",
+  "category": "climate",
+  "draw": "Tall building outline with several arrows pushing against one side and a slight bend line."
+ },
+ {
+  "name": "volcanic-winter",
+  "category": "climate",
+  "draw": "Volcano with a wide ash veil spreading across the sky and a dimmed sun and snowflake below it."
+ },
+ {
+  "name": "carbon-budget",
+  "category": "climate",
+  "draw": "Tall measuring cylinder nearly full of a CO2 cloud with a limit line close to the top."
+ },
+ {
+  "name": "wave-height",
+  "category": "climate",
+  "draw": "Single ocean wave with a vertical double headed arrow from trough to crest."
+ },
+ {
+  "name": "cloud-in-a-jar",
+  "category": "climate",
+  "draw": "Glass jar with a lid and a small puffy cloud floating inside it."
+ },
+ {
+  "name": "melting-snowman",
+  "category": "climate",
+  "draw": "Snowman slumped into a puddle with its hat tilted and a sun above it."
+ },
+ {
+  "name": "avalanche-barrier",
+  "category": "climate",
+  "draw": "Mountain slope with a row of fence like steel snow nets anchored across it."
+ },
+ {
+  "name": "roof-snow-rake",
+  "category": "climate",
+  "draw": "Long telescoping pole with a wide flat blade pulling snow off a roof edge."
+ },
+ {
+  "name": "snow-covered-car",
+  "category": "climate",
+  "draw": "Car silhouette with a thick rounded layer of snow piled on its roof and hood."
+ },
+ {
+  "name": "weather-drone",
+  "category": "climate",
+  "draw": "Quadcopter drone carrying a small sensor pod with a cloud beside it."
+ },
+ {
+  "name": "volcanic-lightning",
+  "category": "climate",
+  "draw": "Volcano with a tall ash plume and two small lightning bolts inside the plume."
+ },
+ {
+  "name": "coronal-mass-ejection",
+  "category": "climate",
+  "draw": "Sun on one side releasing a large looping bubble of plasma outward toward a small Earth."
+ },
+ {
+  "name": "tropical-night",
+  "category": "climate",
+  "draw": "Crescent moon beside a thermometer with the level near the top."
+ },
+ {
+  "name": "hodograph",
+  "category": "climate",
+  "draw": "Circular polar grid with a curving line of dots spiraling outward from its center."
+ },
+ {
+  "name": "frozen-bubble",
+  "category": "climate",
+  "draw": "Round soap bubble covered with feathery fern like ice crystal patterns."
+ },
+ {
+  "name": "castellanus-cloud",
+  "category": "climate",
+  "draw": "Flat cloud layer with a row of small turret towers rising from its top like battlements."
+ },
+ {
+  "name": "horseshoe-cloud",
+  "category": "climate",
+  "draw": "Small arched cloud shaped like an upside down U hanging alone in clear sky."
+ },
+ {
+  "name": "burning-earth",
+  "category": "climate",
+  "draw": "Globe with flames rising from its top edge."
+ },
+ {
+  "name": "earth-hourglass",
+  "category": "climate",
+  "draw": "Hourglass with a small globe in the top bulb and sand running into the bottom bulb."
+ },
+ {
+  "name": "avalanche-danger-scale",
+  "category": "climate",
+  "draw": "Snowy slope icon beside five ascending bars like a hazard rating scale."
+ },
+ {
+  "name": "capped-column-snowflake",
+  "category": "climate",
+  "draw": "Short hexagonal ice column with a wide flat hexagon plate capping each end, like a spool."
+ },
+ {
+  "name": "grass-minimum-thermometer",
+  "category": "climate",
+  "draw": "Thermometer lying horizontally on two small forked stands just above grass blades."
+ },
+ {
+  "name": "cirrostratus-cloud",
+  "category": "climate",
+  "draw": "Thin flat veil of long parallel faint streaks stretched across the whole sky above a flat horizon."
+ },
+ {
+  "name": "intertropical-convergence-zone",
+  "category": "climate",
+  "draw": "Globe with a band of small clouds running along the equator and arrows meeting it from above and below."
+ },
+ {
+  "name": "hurricane-cross-section",
+  "category": "climate",
+  "draw": "Side view of two tall cloud walls with a clear open eye gap between them and arrows spiraling up."
+ },
+ {
+  "name": "thunderstorm-life-cycle",
+  "category": "climate",
+  "draw": "Three clouds in a row: a small growing cumulus, a tall storm with a bolt, and a flattened dissipating cloud."
+ },
+ {
+  "name": "front-cross-section",
+  "category": "climate",
+  "draw": "Side view of a wedge of cold air pushing under warm air, with a cloud forming where the warm air rises."
+ },
+ {
+  "name": "cut-off-low",
+  "category": "climate",
+  "draw": "Wavy jet stream line across the top with a detached closed circle containing a letter L floating below it."
+ }
+]

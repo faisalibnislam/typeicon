@@ -1,0 +1,19 @@
+{
+  "name": "@typeicon/example-vue-sample",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "build": "esbuild src/main.ts --bundle --minify --format=esm --target=es2022 --define:__VUE_OPTIONS_API__=false --define:__VUE_PROD_DEVTOOLS__=false --define:__VUE_PROD_HYDRATION_MISMATCH_DETAILS__=false --define:process.env.NODE_ENV='\"production\"' --outfile=dist/app.js",
+    "build:icons-only": "esbuild src/main.ts --bundle --minify --format=esm --target=es2022 --external:vue --outfile=dist/icons-only.js"
+  },
+  "dependencies": {
+    "@typeicon/vue": "workspace:*",
+    "vue": "3.5.43"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "typescript": "5.9.3"
+  }
+}

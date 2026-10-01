@@ -1,0 +1,482 @@
+[
+ {
+  "name": "ammeter",
+  "category": "science",
+  "draw": "Analog dial meter with a needle and a large letter A on the face.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "oscilloscope",
+  "category": "science",
+  "draw": "Box instrument with a screen grid showing a sine wave and knobs on the side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "superconductor",
+  "category": "science",
+  "draw": "Magnet cube floating above a disc with cold vapor wisps.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "magdeburg-hemispheres",
+  "category": "science",
+  "draw": "Two metal half-spheres pressed together with ring handles on each side and pull arrows.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "golgi-apparatus",
+  "category": "science",
+  "draw": "Stack of curved flattened sacs with small bubbles budding from the ends.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "karyotype",
+  "category": "science",
+  "draw": "Grid of small paired X chromosomes arranged in rows by size.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "rna-strand",
+  "category": "science",
+  "draw": "Single twisting backbone ribbon with short base rungs sticking out one side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "dna-replication",
+  "category": "science",
+  "draw": "Double helix unzipping into a Y, each arm forming a new helix.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "plasmid",
+  "category": "science",
+  "draw": "Small circular loop of double-stranded DNA with one highlighted segment.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "gene-editing",
+  "category": "science",
+  "draw": "Pair of scissors cutting a double helix strand with a gap.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "cloning",
+  "category": "science",
+  "draw": "Sheep on the left with an arrow to two identical sheep on the right.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "amoeba",
+  "category": "science",
+  "draw": "Irregular blob with several rounded pseudopod lobes and a nucleus dot.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "paramecium",
+  "category": "science",
+  "draw": "Slipper-shaped cell with a fringe of tiny hairs all around and an oral groove.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "euglena",
+  "category": "science",
+  "draw": "Teardrop-shaped cell with a long whip flagellum at the front and an eyespot dot.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "volvox",
+  "category": "science",
+  "draw": "Hollow sphere dotted with tiny cells and a few smaller spheres inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "stentor",
+  "category": "science",
+  "draw": "Trumpet-shaped cell with a ring of hairs around the wide mouth.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "vorticella",
+  "category": "science",
+  "draw": "Bell-shaped cell on a long coiled stalk.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "foraminifera",
+  "category": "science",
+  "draw": "Spiral shell made of chambers growing larger around a coil, with tiny pores.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "spirogyra",
+  "category": "science",
+  "draw": "Long filament of cells with a spiral ribbon running through them.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "microscope-field-of-view",
+  "category": "science",
+  "draw": "Circle framed as an eyepiece view with a few cells and a pointer line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "pollen-grain",
+  "category": "science",
+  "draw": "Spiky round ball with a textured surface.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "food-chain",
+  "category": "science",
+  "draw": "Plant, then an arrow to a rabbit, then an arrow to a fox in a row.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ecological-pyramid",
+  "category": "science",
+  "draw": "Stacked pyramid of three tiers with plants at the base and a predator at the top.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "phylogenetic-tree",
+  "category": "science",
+  "draw": "Branching tree diagram with forks ending in several tips at the same level.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "punnett-square",
+  "category": "science",
+  "draw": "Two by two grid with letters along the top and left and letter pairs in each cell.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "pedigree-chart",
+  "category": "science",
+  "draw": "Family chart of squares and circles joined by lines, some shapes filled.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "osmosis",
+  "category": "science",
+  "draw": "U-shaped tube with a membrane in the middle, water higher on one side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "diffusion",
+  "category": "science",
+  "draw": "Box with dots crowded on the left spreading out to the right with an arrow.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "dissection-tray",
+  "category": "science",
+  "draw": "Shallow tray with a pinned frog shape and a scalpel lying beside it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "camera-trap",
+  "category": "science",
+  "draw": "Small box camera with a lens and sensor strapped to a tree trunk.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "tracking-collar",
+  "category": "science",
+  "draw": "Animal neck collar with a boxy transmitter and a short antenna.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "bird-band",
+  "category": "science",
+  "draw": "Small bird leg with a numbered ring around it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "plant-press",
+  "category": "science",
+  "draw": "Two wooden boards with straps and layered paper sheets between them.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "plant-tissue-culture",
+  "category": "science",
+  "draw": "Sealed jar with gel at the bottom and a tiny plantlet growing from it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "reflecting-telescope",
+  "category": "science",
+  "draw": "Wide tube on a mount with an eyepiece sticking out the side near the open top.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "segmented-mirror",
+  "category": "science",
+  "draw": "Honeycomb of hexagonal mirror tiles with a small secondary mirror on struts.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "eclipse-glasses",
+  "category": "science",
+  "draw": "Flat paper glasses with dark lenses and a small crescent sun above.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "planet-transit",
+  "category": "science",
+  "draw": "Bright star with a small dark dot crossing its face and a light curve dip below.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "atomic-timekeeping",
+  "category": "science",
+  "draw": "Clock face with an atom symbol behind the hands.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "refractometer",
+  "category": "science",
+  "draw": "Handheld slim tube with an eyepiece at one end and a hinged prism flap at the other.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "barometer",
+  "category": "science",
+  "draw": "Round aneroid dial with a needle and a small arc of pressure marks, sun and cloud at the ends.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "anemometer",
+  "category": "science",
+  "draw": "Three cups on horizontal arms spinning on a vertical pole.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "subduction-zone",
+  "category": "science",
+  "draw": "Cross-section of one plate diving under another with a volcano above and magma rising.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "continental-drift",
+  "category": "science",
+  "draw": "Continents drawn as puzzle pieces drifting apart with arrows.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "aquifer",
+  "category": "science",
+  "draw": "Ground cross-section with a water-filled layer and a well pipe reaching down into it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "rock-tumbler",
+  "category": "science",
+  "draw": "Small barrel on rollers with polished stones spilling out.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "magnetosphere",
+  "category": "science",
+  "draw": "Earth with field lines looping from pole to pole, compressed on the sun-facing side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "three-neck-flask",
+  "category": "science",
+  "draw": "Round-bottom flask with three necks, one upright in the middle and two angled outward.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "soxhlet-extractor",
+  "category": "science",
+  "draw": "Tall glass chamber with a thin siphon tube looping down its side, a flask below and a condenser above.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "heating-mantle",
+  "category": "science",
+  "draw": "Bowl-shaped heater cradling the bottom of a round flask with a control knob on the front.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ice-bath",
+  "category": "science",
+  "draw": "Beaker sitting in a wide bowl packed with ice cubes.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "pipette-bulb",
+  "category": "science",
+  "draw": "Round rubber bulb with three small valve bumps fitted on the end of a glass pipette.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "lab-bench",
+  "category": "science",
+  "draw": "Workbench with a shelf above holding bottles and a flask and beaker on the countertop.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "fractionating-column",
+  "category": "science",
+  "draw": "Vertical glass column with rows of inward dents, a thermometer at the top and a side arm.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "gas-syringe",
+  "category": "science",
+  "draw": "Horizontal glass syringe with a scale, its plunger pushed out by gas from a connected flask.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "gas-collection-trough",
+  "category": "science",
+  "draw": "Water trough with an upside-down jar filling with bubbles from a delivery tube.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "mass-spectrometer",
+  "category": "science",
+  "draw": "Curved tube bending through a magnet with a beam splitting into separate paths at the detector.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "diffraction-pattern",
+  "category": "science",
+  "draw": "Central dot surrounded by concentric rings of smaller dots.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "lab-jack",
+  "category": "science",
+  "draw": "Small platform on a scissor lift with a turning screw knob on the side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "flint-striker",
+  "category": "science",
+  "draw": "Spring handle with a cup of steel mesh and a flint that throws sparks.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "overhead-stirrer",
+  "category": "science",
+  "draw": "Motor head on a stand with a long shaft and paddle reaching into a beaker.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "vacuum-pump",
+  "category": "science",
+  "draw": "Boxy motor pump with a cooling fin grille and a hose barb on top.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ultra-low-freezer",
+  "category": "science",
+  "draw": "Upright lab freezer with a digital display on the door and frost at the corners.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "pipette-tip-box",
+  "category": "science",
+  "draw": "Lidded box open to show rows of cone-shaped tips standing in a grid.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "weighing-boat",
+  "category": "science",
+  "draw": "Small square dish with sloped sides holding a heap of powder.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "gas-jar",
+  "category": "science",
+  "draw": "Tall glass jar with a flat glass disc resting over its mouth.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "deflagrating-spoon",
+  "category": "science",
+  "draw": "Long thin rod with a tiny cup at the bottom and a round cover disc partway up, burning a sample.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "clay-triangle",
+  "category": "science",
+  "draw": "Wire triangle with three ceramic tube sleeves on its sides, the twisted ends sticking out.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "flammables-cabinet",
+  "category": "science",
+  "draw": "Squat safety cabinet with double doors and a flame symbol on the front.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "safety-data-sheet",
+  "category": "science",
+  "draw": "Document page with a hazard diamond in the top corner and numbered sections of lines.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "magnetic-field-hazard",
+  "category": "science",
+  "draw": "Warning triangle with a horseshoe magnet and small field arcs inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "cryogenic-hazard",
+  "category": "science",
+  "draw": "Warning triangle with a snowflake over a hand.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "hot-surface-hazard",
+  "category": "science",
+  "draw": "Warning triangle with three wavy heat lines rising over a flat bar.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "eye-protection-sign",
+  "category": "science",
+  "draw": "Circle sign containing a face wearing goggles.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "micelle",
+  "category": "science",
+  "draw": "Ring of small round heads with tails pointing inward to the center.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "caffeine-molecule",
+  "category": "science",
+  "draw": "Skeletal formula of a fused hexagon and pentagon ring with short branch lines and O labels.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "oxygen-molecule",
+  "category": "science",
+  "draw": "Two equal balls joined by a double bond line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "amino-acid",
+  "category": "science",
+  "draw": "Central carbon joined to an amine group, a carboxyl group and a side chain box.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "nucleotide",
+  "category": "science",
+  "draw": "Pentagon sugar with a phosphate circle on one side and a rectangular base on the other.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "activation-energy",
+  "category": "science",
+  "draw": "Energy curve rising over a hump then dropping, with an arrow marking the height of the hump.",
+  "domain": "science-and-lab"
+ }
+]

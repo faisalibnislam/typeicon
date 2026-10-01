@@ -1,0 +1,482 @@
+[
+ {
+  "name": "spade-suit",
+  "category": "play",
+  "draw": "Playing card spade: an upside down heart shape with a pointed top and a short flared stem at the bottom.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "club-suit",
+  "category": "play",
+  "draw": "Playing card club: three round lobes arranged in a trefoil above a short flared stem.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-suits",
+  "category": "play",
+  "draw": "Two by two grid of the four card suits: spade, heart, diamond and club, each small and solid.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "joker-card",
+  "category": "play",
+  "draw": "Upright playing card showing a jester cap with three drooping bells in its center.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "ace-card",
+  "category": "play",
+  "draw": "Upright playing card with a large single spade in the middle and a small A in the top left corner.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "king-card",
+  "category": "play",
+  "draw": "Upright playing card with a small crown in the center and a K in the top left corner.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "queen-card",
+  "category": "play",
+  "draw": "Upright playing card with a small tiara in the center and a Q in the top left corner.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "jack-card",
+  "category": "play",
+  "draw": "Upright playing card with a feathered cap in the center and a J in the top left corner.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "wild-card",
+  "category": "play",
+  "draw": "Playing card with a large circle split into four quadrants and a small star in each corner.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-back",
+  "category": "play",
+  "draw": "Face down playing card with a rounded border and a diagonal lattice pattern filling its back.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-shuffle",
+  "category": "play",
+  "draw": "Two halves of a deck bending toward each other in an arch as cards riffle together.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-deal",
+  "category": "play",
+  "draw": "Hand at the lower left flicking a single card across toward the upper right with small motion lines.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "draw-card",
+  "category": "play",
+  "draw": "Small deck of stacked cards with the top card lifted away and a curved arrow pulling it off.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "cut-the-deck",
+  "category": "play",
+  "draw": "Deck of cards split into two stacks with the top stack lifted and moved to the side.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "discard-pile",
+  "category": "play",
+  "draw": "Messy pile of playing cards lying at different angles on top of each other.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-hand",
+  "category": "play",
+  "draw": "Five playing cards fanned in an arc as if held, with suit marks on the visible corners.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "house-of-cards",
+  "category": "play",
+  "draw": "Triangle of leaning playing cards, two tiers of tented pairs with a flat card bridging them.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "booster-pack",
+  "category": "play",
+  "draw": "Tall foil card pack with crimped zigzag seals at top and bottom and a star burst on its face.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-sleeve",
+  "category": "play",
+  "draw": "Clear card sleeve with a card half slid into it, the sleeve drawn as a dashed outline slightly larger than the card.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-binder",
+  "category": "play",
+  "draw": "Open binder page with a three by three grid of card pockets and ring holes on the left edge.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-deck-box",
+  "category": "play",
+  "draw": "Upright box with a hinged flip lid tilted open and the top edges of cards showing inside.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "card-table",
+  "category": "play",
+  "draw": "Square folding table seen at three quarter view with a few cards spread on its top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "cribbage-board",
+  "category": "play",
+  "draw": "Long narrow board with two parallel rows of peg holes along a track and two pegs standing in it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "mahjong-tile",
+  "category": "play",
+  "draw": "Upright rounded tile with a thick base edge and a bamboo stalk motif of two short segments on its face.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "hanafuda-card",
+  "category": "play",
+  "draw": "Small upright card showing a full moon over a curved hill line, the classic flower card look.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tile-rack",
+  "category": "play",
+  "draw": "Angled wooden rack seen from the front holding a row of five square letter tiles.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "score-pad",
+  "category": "play",
+  "draw": "Notepad with a spiral top and a two column score grid with a few tally ticks in the rows.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "chess-board",
+  "category": "play",
+  "draw": "Square board in slight perspective with an eight by eight checker pattern of alternating filled squares.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "chess-checkmate",
+  "category": "play",
+  "draw": "Chess king piece toppled on its side lying flat, its cross top pointing sideways.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "checkers-piece",
+  "category": "play",
+  "draw": "Single round checker disc seen at a low angle with ridged edges and a raised ring on top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "checkers-king",
+  "category": "play",
+  "draw": "Two stacked checker discs with a small crown mark on the top disc.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "go-board",
+  "category": "play",
+  "draw": "Square board with a grid of lines and a few black and white round stones sitting on intersections.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "go-stone-bowl",
+  "category": "play",
+  "draw": "Round wooden bowl with a domed lid set beside it, a few lens shaped stones inside.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "backgammon-board",
+  "category": "play",
+  "draw": "Open rectangular board with long narrow triangular points along both sides and a center bar.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "doubling-cube",
+  "category": "play",
+  "draw": "Single cube in three quarter view with the number 64 on its front face.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "mancala-board",
+  "category": "play",
+  "draw": "Long oval board with two rows of six round pits and a larger oblong store at each end.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "nine-mens-morris",
+  "category": "play",
+  "draw": "Three nested squares joined by lines at the midpoints of each side, with dots at the corners.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tic-tac-toe",
+  "category": "play",
+  "draw": "Hash grid of two vertical and two horizontal lines with an X and an O in some cells.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "four-in-a-row",
+  "category": "play",
+  "draw": "Upright grid frame on small feet with round holes, some filled with discs stacked from the bottom.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dots-and-boxes",
+  "category": "play",
+  "draw": "Grid of dots with a few connecting line segments and one completed filled square.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "ludo-board",
+  "category": "play",
+  "draw": "Cross shaped track board with a large square home base in each of the four corners.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "chinese-checkers",
+  "category": "play",
+  "draw": "Six pointed star shaped board filled with small round holes, a few marbles in one point.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "board-game-box",
+  "category": "play",
+  "draw": "Flat rectangular game box with its lid lifted and offset, a die and a pawn shape on the lid.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "game-board-path",
+  "category": "play",
+  "draw": "Winding track of connected square spaces from a start circle to a finish star.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "game-spinner",
+  "category": "play",
+  "draw": "Square card with a circle split into four sectors and a pointer arrow pinned at the center.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "meeple",
+  "category": "play",
+  "draw": "Flat stubby person shaped game token with a round head and arms and legs spread wide.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "house-token",
+  "category": "play",
+  "draw": "Tiny board game house piece: a small cube with a pitched roof, seen at three quarter view.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tumbling-tower",
+  "category": "play",
+  "draw": "Tall stack of crisscrossed wooden blocks in layers of three with one block sliding out of the middle.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "domino-tile",
+  "category": "play",
+  "draw": "Upright domino split into two halves by a center line with pips on each half.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "domino-chain",
+  "category": "play",
+  "draw": "Row of standing dominoes in a curve with the first few tipping over onto the next.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tetromino",
+  "category": "play",
+  "draw": "Four square blocks joined into a T shape, drawn as a falling puzzle block.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "shogi-piece",
+  "category": "play",
+  "draw": "Flat pentagonal wedge piece pointing upward with a short vertical mark written on its face.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "xiangqi-piece",
+  "category": "play",
+  "draw": "Flat round disc with a double ring border and a simple character mark in the center.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "reversi",
+  "category": "play",
+  "draw": "Round flip disc tilted to show one half dark and one half light, with a curved flip arrow.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "peg-solitaire",
+  "category": "play",
+  "draw": "Cross shaped board of holes filled with pegs except the single empty center hole.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tower-of-hanoi",
+  "category": "play",
+  "draw": "Base with three upright rods, a stack of discs shrinking in size on the left rod.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "puzzle-box",
+  "category": "play",
+  "draw": "Wooden box with a sliding panel on its side shifted out and a small keyhole shaped notch.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "shut-the-box",
+  "category": "play",
+  "draw": "Open wooden tray with a row of numbered flip tiles, some flipped down, and two dice in front.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tiddlywinks",
+  "category": "play",
+  "draw": "Small cup with a tiny disc flipping through the air toward it from a larger shooting disc.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "senet-board",
+  "category": "play",
+  "draw": "Long board divided into three rows of ten squares with a few spool shaped pieces standing on it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "royal-game-of-ur",
+  "category": "play",
+  "draw": "Board of squares in two blocks joined by a narrow bridge, with a rosette on some squares.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tafl-board",
+  "category": "play",
+  "draw": "Square grid board with a marked center square holding a king piece and marked corner squares.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "carrom-board",
+  "category": "play",
+  "draw": "Square board with round pockets in each corner and a ring of small discs in the center circle.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "crokinole-board",
+  "category": "play",
+  "draw": "Round board with concentric rings, a ring of small posts on the middle circle and a hole in the center.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "sea-battle-grid",
+  "category": "play",
+  "draw": "Square grid with a long ship shape across some cells and small peg dots marking hits and misses.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "code-breaker-game",
+  "category": "play",
+  "draw": "Board with rows of four colored peg holes and a small two by two cluster of key pegs beside each row.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "word-dice-grid",
+  "category": "play",
+  "draw": "Four by four tray of letter cubes seen from above, each cube showing a letter.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tilt-maze",
+  "category": "play",
+  "draw": "Square wooden box maze with walls and holes and a small ball rolling along the path, knobs on two sides.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "bingo-card",
+  "category": "play",
+  "draw": "Five by five grid card with a star in the center cell and a few cells covered by round markers.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "bingo-dauber",
+  "category": "play",
+  "draw": "Squat bottle marker with a round sponge tip and a dotted circle stamp beside it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "game-show-buzzer",
+  "category": "play",
+  "draw": "Large round push button on a short base with a mushroom cap and a small sound burst above.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "rulebook",
+  "category": "play",
+  "draw": "Thin stapled booklet with a die icon on the cover and a numbered list line below it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "cardboard-standee",
+  "category": "play",
+  "draw": "Flat cutout figure silhouette slotted upright into a small plastic stand.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "sequence-memory-game",
+  "category": "play",
+  "draw": "Round toy split into four quadrant buttons around a center hub, one quadrant lit.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-d4",
+  "category": "play",
+  "draw": "Four sided die: a tetrahedron drawn as a triangle with a line to its center showing faces, number 4 on front.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-d8",
+  "category": "play",
+  "draw": "Eight sided die: a diamond outline with a horizontal middle edge and lines to the tips.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-d10",
+  "category": "play",
+  "draw": "Ten sided die: a kite shaped pentagonal trapezohedron with zigzag middle edges and the number 10.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-d12",
+  "category": "play",
+  "draw": "Twelve sided die: a pentagon face in the middle surrounded by a ring of partial pentagon faces.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-d20",
+  "category": "play",
+  "draw": "Twenty sided die: a hexagon outline with a central triangle face showing 20 and triangular facets around it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "percentile-dice",
+  "category": "play",
+  "draw": "Two ten sided dice side by side, one marked 00 and one marked 0.",
+  "domain": "games-and-play"
+ }
+]

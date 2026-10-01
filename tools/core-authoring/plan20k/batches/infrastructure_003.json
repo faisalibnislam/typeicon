@@ -1,0 +1,482 @@
+[
+ {
+  "name": "wallbox-charger",
+  "category": "infrastructure",
+  "draw": "A small square charger mounted on a wall with a coiled cable and a plug.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "fast-charger",
+  "category": "infrastructure",
+  "draw": "A tall charging pillar with a lightning bolt with two chevrons for rapid charging.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "wireless-car-charging",
+  "category": "infrastructure",
+  "draw": "Top view of a pad on the ground with wave lines rising to a car above it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "battery-swap-station",
+  "category": "infrastructure",
+  "draw": "A booth with a car battery sliding in and circular arrows.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "yield-sign",
+  "category": "infrastructure",
+  "draw": "An inverted triangle sign with a thick border on a post.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-entry-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a solid horizontal white bar across the middle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "one-way-sign",
+  "category": "infrastructure",
+  "draw": "A rectangular sign with a long arrow and the words ONE WAY.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "speed-limit-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a thick ring border and the number 50 in the center.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-parking-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a ring and a single diagonal slash.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-stopping-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a ring and two crossing diagonal slashes.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-overtaking-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with two car outlines side by side, one dark, inside a ring.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-u-turn-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a U shaped arrow crossed by a diagonal slash.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-pedestrians-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a walking figure inside a ring.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-cycling-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a bicycle inside a ring.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-trucks-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a truck side view inside a ring.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-motor-vehicles-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a car and a motorcycle stacked inside a ring.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-horn-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a car horn trumpet crossed by a slash.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "height-limit-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with two triangles pointing at each other vertically and a number between.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "width-limit-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with two triangles pointing at each other horizontally and a number between.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "weight-limit-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a number and a small letter t for tonnes.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "priority-road-sign",
+  "category": "infrastructure",
+  "draw": "A diamond shaped sign with a smaller diamond inside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "roundabout-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with three arrows chasing each other around a circle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "pass-either-side-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with two downward arrows splitting to both sides.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "pedestrian-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a figure walking over zebra stripes.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "children-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with two small figures running, one holding a bag.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "cyclist-warning-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a bicycle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "deer-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a leaping deer with antlers.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "cattle-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a cow in side view.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "horse-rider-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a person riding a horse.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "elderly-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with two bent figures, one walking with a cane.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "slippery-road-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a car and two wavy skid marks behind it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "falling-rocks-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a steep slope and rocks tumbling down it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "steep-hill-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a slope wedge and a percentage label.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "curve-ahead-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a single sharply bending road line.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "double-bend-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with an S shaped road line.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "road-narrows-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with two lines that pinch inward toward the top.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "two-way-traffic-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with one up arrow and one down arrow side by side.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "traffic-signals-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a small vertical three lamp traffic light.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "uneven-road-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a bumpy road profile line.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "speed-bump-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a single rounded hump on a base line.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "crosswind-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a windsock blowing sideways.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "low-flying-aircraft-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with an aeroplane silhouette.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tram-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with the front of a tram.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "level-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with an old steam locomotive in side view.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "quayside-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a car tipping off an edge into waves.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "loose-gravel-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a car flicking up small stones.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "icy-road-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a large snowflake.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "queues-likely-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with three car rears in a row.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "merging-traffic-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a straight road and a side road joining at an angle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "lane-ends-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with two lanes, one ending with a bend into the other.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "opening-bridge-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a bascule bridge raised in the middle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "dead-end-sign",
+  "category": "infrastructure",
+  "draw": "A square sign with a vertical bar topped by a short red crossbar forming a T.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "motorway-sign",
+  "category": "infrastructure",
+  "draw": "A square sign showing a road going under a bridge in perspective.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "pedestrian-zone-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with an adult and child walking hand in hand.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "shared-path-sign",
+  "category": "infrastructure",
+  "draw": "A round sign split by a line with a walking figure on one half and a bicycle on the other.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bicycle-route-sign",
+  "category": "infrastructure",
+  "draw": "A rectangular sign with a bicycle and a small route number.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "hospital-sign",
+  "category": "infrastructure",
+  "draw": "A square sign with a bold letter H and a small bed below it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "detour-sign",
+  "category": "infrastructure",
+  "draw": "A rectangular sign with the word DETOUR and a bent arrow.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "road-closed-sign",
+  "category": "infrastructure",
+  "draw": "A rectangular sign on a barricade with the words ROAD CLOSED.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "speed-camera-sign",
+  "category": "infrastructure",
+  "draw": "A square sign with an old box camera silhouette.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "chevron-alignment-sign",
+  "category": "infrastructure",
+  "draw": "A rectangular sign with three bold chevrons pointing one way.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "exit-number-sign",
+  "category": "infrastructure",
+  "draw": "A rectangular highway sign with a small tab on top reading EXIT and a number.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "route-shield",
+  "category": "infrastructure",
+  "draw": "A shield shaped highway marker with a number in the middle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "direction-gantry",
+  "category": "infrastructure",
+  "draw": "An overhead steel frame spanning a road holding two large direction boards with arrows.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "variable-message-sign",
+  "category": "infrastructure",
+  "draw": "An overhead electronic panel with rows of dotted text and a small warning triangle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "exit-countdown-markers",
+  "category": "infrastructure",
+  "draw": "Three roadside posts with three, two and one diagonal stripes.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "low-emission-zone-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a car and a small leaf inside a ring.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "school-zone-sign",
+  "category": "infrastructure",
+  "draw": "A pentagon shaped sign with two small walking children.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "pedestrian-signal",
+  "category": "infrastructure",
+  "draw": "A signal head with a lit walking figure in the lower lamp and a standing figure above.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "cyclist-signal",
+  "category": "infrastructure",
+  "draw": "A small signal head with a bicycle shape in the lit lamp.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tram-signal",
+  "category": "infrastructure",
+  "draw": "A signal head with a vertical white bar lamp for trams.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "countdown-signal",
+  "category": "infrastructure",
+  "draw": "A signal head beside a small display showing a two digit countdown number.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "lane-control-signal",
+  "category": "infrastructure",
+  "draw": "An overhead row of square lamps showing a cross and a downward arrow.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "flashing-beacon",
+  "category": "infrastructure",
+  "draw": "A round amber lamp on top of a striped pole with light rays around it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "crossing-push-button",
+  "category": "infrastructure",
+  "draw": "A box on a pole with a round button and a small walking figure above it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "traffic-camera",
+  "category": "infrastructure",
+  "draw": "A camera on a tall pole with an arm looking down at the road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "speed-camera",
+  "category": "infrastructure",
+  "draw": "A boxy roadside camera on a post with a flash unit above the lens.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "arrow-board",
+  "category": "infrastructure",
+  "draw": "A trailer mounted panel of lamps forming a large arrow.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bollard",
+  "category": "infrastructure",
+  "draw": "A short thick round post with a reflective band near the top.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "retractable-bollard",
+  "category": "infrastructure",
+  "draw": "A short post rising out of a round ground plate with up arrows beside it.",
+  "domain": "transport-infrastructure-signs"
+ }
+]

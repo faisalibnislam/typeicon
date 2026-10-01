@@ -1,0 +1,1374 @@
+{
+  "screen-recording": {
+    "context": "A monitor with a ring and record dot on its screen. Used for screen capture tools, tutorials, demos and recording a desktop or app window.",
+    "keywords": [
+      "capture video",
+      "recorder",
+      "record desktop",
+      "tutorial",
+      "demo",
+      "walkthrough",
+      "loom style",
+      "display capture",
+      "rec button",
+      "monitor",
+      "computer",
+      "record screen",
+      "screen capture",
+      "capture",
+      "screencast",
+      "rec"
+    ]
+  },
+  "flip-camera": {
+    "context": "A camera body with two curved arrows circling its lens. Used to switch between the front and rear camera on phones and video calls.",
+    "keywords": [
+      "swap camera",
+      "toggle camera",
+      "camera switch",
+      "reverse camera",
+      "mobile camera",
+      "video call",
+      "photo app",
+      "refresh",
+      "rotate",
+      "lens",
+      "arrows",
+      "switch camera",
+      "selfie",
+      "rotate camera",
+      "front camera",
+      "rear camera",
+      "swap"
+    ]
+  },
+  "virtual-background": {
+    "context": "A person in front of a framed scene with a mountain and sun. Used for video call settings that replace or blur the real room behind you.",
+    "keywords": [
+      "blur background",
+      "replace background",
+      "video meeting",
+      "zoom background",
+      "backdrop image",
+      "portrait",
+      "landscape",
+      "camera effects",
+      "studio",
+      "avatar",
+      "picture",
+      "background blur",
+      "video call",
+      "backdrop",
+      "meeting",
+      "green screen",
+      "scene"
+    ]
+  },
+  "hybrid-meeting": {
+    "context": "A wall screen showing two faces above two people seated at a table. Used for meetings where some people are in the room and others join by video.",
+    "keywords": [
+      "mixed meeting",
+      "remote and in room",
+      "meeting room",
+      "office video call",
+      "team call",
+      "boardroom",
+      "webinar",
+      "display",
+      "attendees",
+      "collaboration",
+      "remote meeting",
+      "conference",
+      "video call",
+      "office",
+      "in person",
+      "screen share"
+    ]
+  },
+  "video-bar": {
+    "context": "A slim camera bar with a central lens sitting on top of a monitor. Used for conference room cameras and all in one video call hardware.",
+    "keywords": [
+      "meeting camera",
+      "usb camera",
+      "huddle room",
+      "webcam bar",
+      "conference bar",
+      "camera speaker",
+      "display",
+      "hardware",
+      "screen",
+      "remote meeting",
+      "conference camera",
+      "webcam",
+      "meeting room",
+      "all in one",
+      "speaker bar",
+      "camera bar"
+    ]
+  },
+  "watch-party": {
+    "context": "Two viewers under a screen that shows a play triangle. Used for shared viewing features where friends stream a video together in sync.",
+    "keywords": [
+      "watch together",
+      "group viewing",
+      "co watching",
+      "movie night",
+      "shared screen",
+      "streaming",
+      "friends",
+      "social viewing",
+      "sync playback",
+      "play",
+      "audience",
+      "share",
+      "shared viewing",
+      "group watch",
+      "stream together"
+    ]
+  },
+  "camcorder": {
+    "context": "A handheld video camera with a front lens barrel, a viewfinder and a small side screen. Used for home video, filming and retro camera themes.",
+    "keywords": [
+      "video recorder",
+      "handheld camera",
+      "home movie",
+      "filmmaker",
+      "record video",
+      "vlog",
+      "tape camera",
+      "lens",
+      "footage",
+      "shooting",
+      "camera",
+      "video camera",
+      "handycam",
+      "recorder",
+      "filming",
+      "home video"
+    ]
+  },
+  "broadcast-camera": {
+    "context": "A studio television camera with a lens hood and viewfinder on a wheeled pedestal. Used for live TV, studio production and broadcasting topics.",
+    "keywords": [
+      "tv studio",
+      "television production",
+      "live broadcast",
+      "studio camera",
+      "news camera",
+      "camera operator",
+      "pedestal",
+      "film set",
+      "media",
+      "shoot",
+      "cameraman",
+      "tv camera",
+      "studio",
+      "television",
+      "news",
+      "production"
+    ]
+  },
+  "film-cartridge": {
+    "context": "A small film canister with a spool knob on top and a tongue of film. Used for analog photography, 35mm film and film stock.",
+    "keywords": [
+      "35mm canister",
+      "film roll",
+      "film stock",
+      "negative",
+      "analogue",
+      "darkroom",
+      "photo film",
+      "spool",
+      "cassette",
+      "vintage photography",
+      "camera film",
+      "roll",
+      "35mm",
+      "analog",
+      "photography",
+      "canister"
+    ]
+  },
+  "video-timeline": {
+    "context": "Two tracks of clip blocks with a vertical playhead line. Used for video editors, cutting clips and arranging footage in sequence.",
+    "keywords": [
+      "editing timeline",
+      "nle",
+      "clip tracks",
+      "cut video",
+      "trim",
+      "sequence",
+      "footage",
+      "playhead",
+      "movie editor",
+      "post production",
+      "arrange clips",
+      "montage",
+      "video editor",
+      "editing",
+      "clips",
+      "tracks",
+      "cut"
+    ]
+  },
+  "screenplay": {
+    "context": "A stack of script pages with two round fasteners on the left edge and short lines of text. Used for film and TV scripts and screenwriting tools.",
+    "keywords": [
+      "script pages",
+      "scriptwriting",
+      "dialogue",
+      "film writing",
+      "tv script",
+      "brass fasteners",
+      "writer",
+      "drama",
+      "movie script",
+      "stage play",
+      "pages",
+      "draft",
+      "script",
+      "screenwriting",
+      "film script",
+      "manuscript",
+      "movie"
+    ]
+  },
+  "color-grading": {
+    "context": "Three colour wheels each with a small marker dot off centre. Used for video colour correction tools and colour grading panels.",
+    "keywords": [
+      "colour correction",
+      "color correction",
+      "color balance",
+      "grade",
+      "lift gamma gain",
+      "wheels",
+      "palette",
+      "hue",
+      "tint",
+      "post production",
+      "editing",
+      "look",
+      "colour grading",
+      "color wheels",
+      "video editing"
+    ]
+  },
+  "cue-card": {
+    "context": "A large card with bold lines of text held up by a hand. Used for prompts in television, speeches and acting, where lines are shown off camera.",
+    "keywords": [
+      "idiot card",
+      "prompt",
+      "lines",
+      "speech notes",
+      "presenter",
+      "actor",
+      "script help",
+      "talk show",
+      "held card",
+      "remember lines",
+      "reading",
+      "hand",
+      "idiot board",
+      "prompt card",
+      "teleprompter",
+      "script card",
+      "speech",
+      "television"
+    ]
+  },
+  "video-switcher": {
+    "context": "A production panel with a grid of square buttons and a fader lever. Used for live video mixing, switching camera feeds and streaming control rooms.",
+    "keywords": [
+      "vision mixer",
+      "camera switching",
+      "live mixing",
+      "control room",
+      "stream deck",
+      "fader",
+      "buttons",
+      "studio gear",
+      "production panel",
+      "program output",
+      "mixer",
+      "live production",
+      "broadcast",
+      "t-bar",
+      "switching",
+      "studio"
+    ]
+  },
+  "field-monitor": {
+    "context": "A small monitor with a folding hood flaring around the screen and a stand. Used for on set previews, camera operators and outdoor viewing.",
+    "keywords": [
+      "director monitor",
+      "film set",
+      "sunshade",
+      "hood",
+      "preview",
+      "camera feed",
+      "location shooting",
+      "viewfinder",
+      "screen",
+      "cinematography",
+      "live view",
+      "display",
+      "camera monitor",
+      "on-camera monitor",
+      "sun hood",
+      "preview screen",
+      "filming"
+    ]
+  },
+  "film-projector": {
+    "context": "A vintage movie projector with two reels on top and a lens at the front. Used for cinema, old movies and screening rooms.",
+    "keywords": [
+      "movie projector",
+      "reels",
+      "cinema",
+      "8mm",
+      "16mm",
+      "old film",
+      "screening",
+      "theatre",
+      "retro",
+      "projection",
+      "movie night",
+      "celluloid",
+      "reel to reel",
+      "old movie",
+      "film reel"
+    ]
+  },
+  "magic-lantern": {
+    "context": "An old lantern shaped projector with a chimney on top and a lens tube at the front. Used for history of projection, slides and Victorian entertainment.",
+    "keywords": [
+      "lantern projector",
+      "antique projector",
+      "glass slides",
+      "victorian",
+      "optical",
+      "early cinema",
+      "projection history",
+      "chimney",
+      "slide show",
+      "old fashioned",
+      "lens",
+      "lantern slide",
+      "slide projector",
+      "antique",
+      "projection",
+      "optical toy"
+    ]
+  },
+  "box-office": {
+    "context": "A ticket booth with an awning, a service window and a small speaking hole. Used for cinemas, theatres, events and buying tickets in person.",
+    "keywords": [
+      "ticket booth",
+      "ticket window",
+      "ticket counter",
+      "kiosk",
+      "cinema tickets",
+      "theater",
+      "event tickets",
+      "cashier",
+      "sales window",
+      "admission",
+      "venue",
+      "ticket office",
+      "cinema",
+      "theatre",
+      "tickets",
+      "counter"
+    ]
+  },
+  "video-cassette-recorder": {
+    "context": "A low box with a wide tape slot and a clock display on the front. Used for retro video, VHS recording and old home entertainment.",
+    "keywords": [
+      "vcr",
+      "vhs",
+      "video tape",
+      "cassette player",
+      "retro video",
+      "home video",
+      "tape deck",
+      "recorder",
+      "80s",
+      "90s",
+      "rewind",
+      "playback",
+      "videotape",
+      "retro",
+      "video player",
+      "cassette"
+    ]
+  },
+  "microfiche": {
+    "context": "A card with a cut corner, a header strip and a grid of tiny frames. Used for library archives, old records and microform reading.",
+    "keywords": [
+      "microfilm card",
+      "microform",
+      "library archive",
+      "records",
+      "old newspapers",
+      "genealogy",
+      "document archive",
+      "reader",
+      "frames",
+      "grid",
+      "history",
+      "research",
+      "archive",
+      "library",
+      "micro film"
+    ]
+  },
+  "tv-guide": {
+    "context": "A schedule grid with a time bar on top and rows of programme blocks. Used for TV listings, channel guides and what is on now.",
+    "keywords": [
+      "program guide",
+      "tv listings",
+      "epg",
+      "channel schedule",
+      "television schedule",
+      "timetable",
+      "programmes",
+      "programs",
+      "channels",
+      "broadcast times",
+      "listings grid",
+      "streaming guide",
+      "what's on",
+      "listings"
+    ]
+  },
+  "slow-motion": {
+    "context": "A play triangle followed by a shortening trail of lines and a dot. Used for slow playback, replay speed controls and slow motion video.",
+    "keywords": [
+      "slow mo",
+      "slowmo",
+      "playback speed",
+      "half speed",
+      "slow down",
+      "replay",
+      "video speed",
+      "play",
+      "speed control",
+      "frame rate",
+      "slower",
+      "trail",
+      "slomo"
+    ]
+  },
+  "360-video": {
+    "context": "A play triangle inside an elliptical ring with an arrowhead. Used for panorama and surround video, VR clips and 360 degree cameras.",
+    "keywords": [
+      "panoramic video",
+      "spherical video",
+      "virtual reality",
+      "vr",
+      "immersive",
+      "surround view",
+      "360 degrees",
+      "rotate view",
+      "play",
+      "orbit",
+      "all around view",
+      "360",
+      "panorama video",
+      "vr video",
+      "surround",
+      "360 degree"
+    ]
+  },
+  "hd-video": {
+    "context": "A rounded rectangle containing the letters H and D. Used for high definition video quality settings and labels.",
+    "keywords": [
+      "high definition",
+      "hd",
+      "720p",
+      "1080p",
+      "quality",
+      "resolution",
+      "hi def",
+      "video quality",
+      "hd label",
+      "badge",
+      "video setting",
+      "stream quality",
+      "hi-def"
+    ]
+  },
+  "4k-resolution": {
+    "context": "A rounded rectangle containing the characters 4 and K. Used for ultra high definition video and display quality labels.",
+    "keywords": [
+      "4k",
+      "uhd",
+      "ultra hd",
+      "2160p",
+      "resolution",
+      "video quality",
+      "high resolution",
+      "display quality",
+      "badge",
+      "stream quality",
+      "screen",
+      "hdr"
+    ]
+  },
+  "test-card": {
+    "context": "A screen with two vertical bars and a circle at the centre. Used for TV test patterns, calibration and no signal screens.",
+    "keywords": [
+      "test pattern",
+      "colour bars",
+      "color bars",
+      "tv test",
+      "calibration",
+      "no signal",
+      "broadcast",
+      "off air",
+      "signal test",
+      "television",
+      "circle",
+      "bars"
+    ]
+  },
+  "static-noise": {
+    "context": "A television with rabbit ear antennas and a screen covered in scattered dots. Used for no signal, interference and glitch themes.",
+    "keywords": [
+      "tv static",
+      "white noise",
+      "snow",
+      "no signal",
+      "interference",
+      "glitch",
+      "old tv",
+      "retro television",
+      "rabbit ears",
+      "fuzzy picture",
+      "analog noise",
+      "dots",
+      "television"
+    ]
+  },
+  "news-desk": {
+    "context": "A newsreader behind a curved desk with a screen on the wall behind them. Used for TV news, anchors and newsroom features.",
+    "keywords": [
+      "anchor desk",
+      "newsreader",
+      "presenter",
+      "news studio",
+      "television news",
+      "news broadcast",
+      "broadcast",
+      "journalist",
+      "report",
+      "newscast",
+      "newsroom",
+      "studio",
+      "anchor"
+    ]
+  },
+  "voice-over": {
+    "context": "A microphone next to a video frame with a play triangle. Used for narration, dubbing and recording a voice track over video.",
+    "keywords": [
+      "narration",
+      "dubbing",
+      "voiceover",
+      "commentary",
+      "audio track",
+      "record voice",
+      "video audio",
+      "microphone",
+      "mic",
+      "audio description",
+      "podcast video",
+      "studio",
+      "audio recording",
+      "film"
+    ]
+  },
+  "transcript": {
+    "context": "A document with lines of text, each starting with a small speaker marker. Used for speech to text output, interview transcripts and captions.",
+    "keywords": [
+      "speaker labels",
+      "captions",
+      "subtitles",
+      "dialogue",
+      "interview text",
+      "meeting notes",
+      "minutes",
+      "speech to text",
+      "text of audio",
+      "record",
+      "written copy",
+      "document",
+      "text of speech",
+      "interview transcript",
+      "notes"
+    ]
+  },
+  "ham-radio": {
+    "context": "A radio transceiver with a tuning knob, a display, an antenna and a hand microphone on a cord. Used for amateur radio and two way radio.",
+    "keywords": [
+      "amateur radio",
+      "transceiver",
+      "cb radio",
+      "shortwave",
+      "walkie talkie",
+      "radio operator",
+      "callsign",
+      "over and out",
+      "handheld mic",
+      "two way",
+      "antenna",
+      "radio",
+      "two way radio",
+      "walkie"
+    ]
+  },
+  "radio-tuner-dial": {
+    "context": "A tuning window with tick marks and a pointer rising above it. Used for radio tuning, frequency selection and analogue receivers.",
+    "keywords": [
+      "frequency dial",
+      "tuner",
+      "fm",
+      "am",
+      "tune",
+      "radio scale",
+      "analog radio",
+      "frequency",
+      "needle",
+      "station",
+      "receiver",
+      "tuning knob",
+      "fm am",
+      "tuning"
+    ]
+  },
+  "signal-booster": {
+    "context": "A small box with two upright antennas and signal arcs between them. Used for range extenders, repeaters and improving phone or wifi coverage.",
+    "keywords": [
+      "repeater",
+      "range extender",
+      "cell booster",
+      "amplifier",
+      "reception",
+      "wifi extender",
+      "signal strength",
+      "boost",
+      "coverage",
+      "mobile signal",
+      "network",
+      "router",
+      "signal"
+    ]
+  },
+  "cell-tower": {
+    "context": "A tall lattice mast with panel antennas near the top. Used for mobile networks, coverage and telecom infrastructure.",
+    "keywords": [
+      "mobile mast",
+      "phone tower",
+      "cellular",
+      "base station",
+      "network tower",
+      "coverage",
+      "telecom",
+      "5g",
+      "4g",
+      "antenna tower",
+      "reception",
+      "carrier"
+    ]
+  },
+  "mobile-hotspot": {
+    "context": "A smartphone sending wifi arcs upward from its top edge. Used for tethering and sharing a phone internet connection.",
+    "keywords": [
+      "tethering",
+      "personal hotspot",
+      "share internet",
+      "wifi sharing",
+      "portable wifi",
+      "phone wifi",
+      "internet sharing",
+      "wireless",
+      "data sharing",
+      "connect devices",
+      "smartphone",
+      "network"
+    ]
+  },
+  "airplane-mode": {
+    "context": "An airplane silhouette inside a rounded square. Used for the setting that switches off all wireless radios during flights.",
+    "keywords": [
+      "flight mode",
+      "aeroplane mode",
+      "offline",
+      "wireless off",
+      "travel",
+      "in flight",
+      "disable radios",
+      "no signal",
+      "settings toggle",
+      "plane",
+      "airline",
+      "cellular off"
+    ]
+  },
+  "submarine-cable": {
+    "context": "A round cable cross section with a ring of strands around a central core. Used for undersea internet links and cable construction.",
+    "keywords": [
+      "undersea cable",
+      "subsea cable",
+      "fibre optic",
+      "fiber optic",
+      "internet backbone",
+      "transoceanic",
+      "cable layers",
+      "cross section",
+      "wire",
+      "conductor",
+      "data cable",
+      "ocean",
+      "fibre optic cable",
+      "internet cable",
+      "subsea"
+    ]
+  },
+  "telephone-pole": {
+    "context": "A utility pole with a crossarm, two insulators and wires drooping to each side. Used for power lines, phone lines and overhead cabling.",
+    "keywords": [
+      "utility pole",
+      "power pole",
+      "telegraph pole",
+      "overhead wires",
+      "power line",
+      "cable",
+      "lineman",
+      "electricity pole",
+      "wooden pole",
+      "crossarm",
+      "infrastructure",
+      "insulators",
+      "phone line"
+    ]
+  },
+  "microwave-relay-tower": {
+    "context": "A lattice tower with two bowl dish antennas facing opposite ways. Used for point to point radio links and telecom backhaul.",
+    "keywords": [
+      "microwave link",
+      "relay station",
+      "backhaul",
+      "radio link",
+      "dish tower",
+      "telecom",
+      "line of sight",
+      "dish antenna",
+      "transmission tower",
+      "communications tower",
+      "network",
+      "repeater",
+      "point to point"
+    ]
+  },
+  "satellite-uplink": {
+    "context": "A ground dish aimed upward with a dotted beam reaching a small satellite. Used for satellite communication, ground stations and sending signals to space.",
+    "keywords": [
+      "uplink",
+      "ground station",
+      "earth station",
+      "transmit",
+      "space link",
+      "satcom",
+      "dish antenna",
+      "satellite dish",
+      "beam",
+      "upload to satellite",
+      "broadcast",
+      "orbit"
+    ]
+  },
+  "signal-interference": {
+    "context": "Three signal bars beside a jagged zigzag line cutting through. Used for weak signal, jamming and noisy connection warnings.",
+    "keywords": [
+      "jamming",
+      "weak signal",
+      "noisy signal",
+      "bad reception",
+      "network interference",
+      "disruption",
+      "static",
+      "poor connection",
+      "lightning",
+      "signal loss",
+      "unstable",
+      "bars"
+    ]
+  },
+  "telegraph-key": {
+    "context": "A Morse key with a flat base, a pivoting lever and a round finger knob. Used for Morse code, telegraphy and early wireless.",
+    "keywords": [
+      "morse code",
+      "morse key",
+      "telegraph",
+      "wireless key",
+      "straight key",
+      "dot dash",
+      "cw",
+      "telegrapher",
+      "sos",
+      "old communication",
+      "code",
+      "signal"
+    ]
+  },
+  "ticker-tape-machine": {
+    "context": "A glass dome on a small stand with a paper tape curling out. Used for historic stock prices and old telegraph printers.",
+    "keywords": [
+      "stock ticker",
+      "ticker tape",
+      "paper tape",
+      "stock exchange",
+      "telegraph printer",
+      "vintage finance",
+      "dome",
+      "wall street",
+      "market prices",
+      "old trading",
+      "history",
+      "tape"
+    ]
+  },
+  "teletype": {
+    "context": "A boxy teleprinter with a paper sheet feeding out the top and a keyboard at the front. Used for telex, old terminals and early text communication.",
+    "keywords": [
+      "teleprinter",
+      "teletypewriter",
+      "telex",
+      "tty",
+      "old terminal",
+      "printer",
+      "vintage",
+      "typewriter",
+      "text machine",
+      "news wire",
+      "paper feed",
+      "retro computing"
+    ]
+  },
+  "speaking-tube": {
+    "context": "A curved voice pipe with a small cap at one end and a flared bell mouth at the other. Used for ship bridges, old buildings and pre electric intercoms.",
+    "keywords": [
+      "voice pipe",
+      "ship communication",
+      "bridge tube",
+      "whistle",
+      "intercom",
+      "speaking horn",
+      "voice tube",
+      "old fashioned",
+      "nautical",
+      "pipe",
+      "message tube",
+      "steampunk",
+      "old speaking horn"
+    ]
+  },
+  "signal-fire": {
+    "context": "A flame rising above crossed logs. Used for beacons, warning fires and old long distance signalling.",
+    "keywords": [
+      "beacon",
+      "bonfire",
+      "smoke signal",
+      "warning fire",
+      "lookout",
+      "flame",
+      "fire signal",
+      "campfire",
+      "logs",
+      "ancient signalling",
+      "torch",
+      "alert",
+      "smoke signal fire"
+    ]
+  },
+  "heliograph": {
+    "context": "A round mirror on a tripod with a sighting rod beside it. Used for sun flash signalling, survey history and old military communication.",
+    "keywords": [
+      "signal mirror",
+      "sun telegraph",
+      "mirror signal",
+      "flash signal",
+      "morse mirror",
+      "survey",
+      "tripod mirror",
+      "reflect sunlight",
+      "rescue",
+      "heliographic",
+      "military history",
+      "survival"
+    ]
+  },
+  "signal-lamp": {
+    "context": "A round lamp with horizontal shutter slats across its lens and a carrying handle. Used for ship to ship light signals and Morse by lamp.",
+    "keywords": [
+      "aldis lamp",
+      "morse lamp",
+      "shutter lamp",
+      "signalling light",
+      "ship lamp",
+      "naval",
+      "flash lamp",
+      "light signal",
+      "lantern",
+      "navy",
+      "communication",
+      "shutter"
+    ]
+  },
+  "semaphore-telegraph": {
+    "context": "A tall post with a crossbeam and two movable arms at the top. Used for optical telegraph towers and history of long distance messaging.",
+    "keywords": [
+      "chappe telegraph",
+      "optical telegraph",
+      "signal tower",
+      "semaphore",
+      "visual signalling",
+      "history",
+      "mast",
+      "arms",
+      "line of towers",
+      "old network",
+      "message relay",
+      "flag signals",
+      "semaphore tower"
+    ]
+  },
+  "alarm-bell": {
+    "context": "A flared bell with a clapper below and short ring marks at its sides. Used for alerts, fire bells and warnings that something is ringing.",
+    "keywords": [
+      "fire bell",
+      "warning bell",
+      "school bell",
+      "alert",
+      "siren",
+      "emergency",
+      "ringing",
+      "notification",
+      "chime",
+      "alarm",
+      "ring",
+      "danger"
+    ]
+  },
+  "fire-alarm-pull": {
+    "context": "A wall box with a flame symbol above a pull handle bar. Used for fire alarm stations and emergency evacuation points.",
+    "keywords": [
+      "pull station",
+      "manual call point",
+      "fire alarm",
+      "emergency",
+      "break glass",
+      "alarm box",
+      "evacuation",
+      "fire safety",
+      "building safety",
+      "alert button",
+      "wall box",
+      "flame"
+    ]
+  },
+  "buzzer-button": {
+    "context": "A square buzzer unit with a large round push pad and a cable trailing away. Used for quiz games, game shows and answer buttons.",
+    "keywords": [
+      "quiz buzzer",
+      "game show",
+      "push button",
+      "answer button",
+      "doorbell",
+      "press",
+      "contestant",
+      "trivia",
+      "big button",
+      "pad",
+      "cable",
+      "game",
+      "game show buzzer"
+    ]
+  },
+  "cipher-disk": {
+    "context": "Two concentric rings divided into cells around a centre pin. Used for secret codes, cryptography and puzzle games.",
+    "keywords": [
+      "cipher wheel",
+      "secret code",
+      "decoder ring",
+      "cryptography",
+      "enigma",
+      "encryption",
+      "code wheel",
+      "spy",
+      "puzzle",
+      "substitution",
+      "letters",
+      "rotor"
+    ]
+  },
+  "app-badge-count": {
+    "context": "A rounded app tile with a small circular badge at its top right corner. Used for unread counts and notification numbers on app icons.",
+    "keywords": [
+      "notification badge",
+      "unread count",
+      "app icon badge",
+      "notification count",
+      "alert bubble",
+      "red dot",
+      "home screen",
+      "pending items",
+      "counter",
+      "messages waiting",
+      "indicator",
+      "tile"
+    ]
+  },
+  "ringtone": {
+    "context": "A smartphone with a music note beside it. Used for choosing call sounds and notification tones.",
+    "keywords": [
+      "phone sound",
+      "call tone",
+      "ring sound",
+      "notification sound",
+      "music note",
+      "custom ringtone",
+      "alert tone",
+      "mobile",
+      "sound settings",
+      "melody",
+      "incoming call",
+      "cell phone"
+    ]
+  },
+  "digital-signage": {
+    "context": "A tall vertical screen on a floor stand showing a picture block and a line of text. Used for advertising displays, menu boards and information kiosks.",
+    "keywords": [
+      "display board",
+      "kiosk screen",
+      "advertising display",
+      "information screen",
+      "menu board",
+      "totem",
+      "digital display",
+      "stand screen",
+      "retail display",
+      "lobby screen",
+      "wayfinding",
+      "promo"
+    ]
+  },
+  "press-camera": {
+    "context": "A vintage press camera with a viewfinder on top, a large lens and a round flash reflector at the side. Used for photojournalism and old news photography.",
+    "keywords": [
+      "photojournalist",
+      "newspaper photographer",
+      "flashbulb",
+      "vintage camera",
+      "reporter camera",
+      "flash",
+      "photography",
+      "paparazzi",
+      "news photo",
+      "old camera",
+      "retro",
+      "shutter"
+    ]
+  },
+  "press-hat": {
+    "context": "A brimmed hat with a small card tucked into its band. Used for old time reporters, journalism and press themes.",
+    "keywords": [
+      "fedora",
+      "reporter",
+      "journalist",
+      "trilby",
+      "old time reporter",
+      "press card",
+      "headwear",
+      "newspaperman",
+      "detective",
+      "vintage",
+      "hat band",
+      "noir"
+    ]
+  },
+  "rolled-newspaper": {
+    "context": "A newspaper rolled into a tube with two bands around it and a spiral end. Used for paper delivery and the daily news.",
+    "keywords": [
+      "delivery",
+      "morning paper",
+      "paperboy",
+      "daily paper",
+      "newsprint",
+      "rolled paper",
+      "press",
+      "subscription",
+      "doorstep",
+      "papers",
+      "tube",
+      "print edition"
+    ]
+  },
+  "digital-newspaper": {
+    "context": "A tablet showing a newspaper page with a headline bar, columns and a picture block. Used for news apps and online editions.",
+    "keywords": [
+      "e paper",
+      "online news",
+      "news app",
+      "e newspaper",
+      "digital edition",
+      "news reader",
+      "tablet news",
+      "epaper",
+      "web news",
+      "headlines",
+      "article",
+      "subscription",
+      "e-paper",
+      "e-newspaper"
+    ]
+  },
+  "newspaper-clipping": {
+    "context": "A torn out article with a jagged top edge, a headline, a picture block and text lines. Used for press cuttings, scrapbooks and saved stories.",
+    "keywords": [
+      "cutting",
+      "press cutting",
+      "article",
+      "clip",
+      "news story",
+      "scrapbook",
+      "excerpt",
+      "saved article",
+      "torn paper",
+      "newsprint",
+      "archive",
+      "story"
+    ]
+  },
+  "breaking-news": {
+    "context": "A television banner with a lightning bolt at its left end and lines of text. Used for urgent news alerts and live headlines.",
+    "keywords": [
+      "news flash",
+      "live news",
+      "urgent news",
+      "headline",
+      "lower third",
+      "news alert",
+      "bulletin",
+      "tv banner",
+      "alert",
+      "latest",
+      "flash",
+      "television"
+    ]
+  },
+  "news-ticker": {
+    "context": "A long strip with scrolling text blocks and a small arrow at its right end. Used for scrolling headlines and news crawls.",
+    "keywords": [
+      "scrolling headlines",
+      "crawl",
+      "news crawl",
+      "stock ticker",
+      "marquee",
+      "headline strip",
+      "lower thirds",
+      "scrolling text",
+      "banner",
+      "feed",
+      "rolling news",
+      "bar"
+    ]
+  },
+  "press-pass": {
+    "context": "A badge on a lanyard with a slot, a heavy title bar and text lines. Used for media accreditation and journalist credentials.",
+    "keywords": [
+      "media badge",
+      "press badge",
+      "accreditation",
+      "journalist pass",
+      "lanyard",
+      "credentials",
+      "reporter id",
+      "event pass",
+      "access badge",
+      "id card",
+      "media access",
+      "reporter"
+    ]
+  },
+  "press-conference": {
+    "context": "A podium with a cluster of microphones on its top edge. Used for media briefings, official statements and announcements.",
+    "keywords": [
+      "media briefing",
+      "lectern",
+      "announcement",
+      "statement",
+      "news conference",
+      "speech",
+      "microphones",
+      "spokesperson",
+      "briefing",
+      "podium",
+      "address",
+      "journalists"
+    ]
+  },
+  "interview-microphone": {
+    "context": "A handheld reporter microphone with a square station cube around its neck. Used for street interviews and TV reporting.",
+    "keywords": [
+      "reporter microphone",
+      "news microphone",
+      "tv mic",
+      "vox pop",
+      "street interview",
+      "press",
+      "broadcast mic",
+      "cube mic",
+      "handheld mic",
+      "reporter",
+      "media",
+      "interview"
+    ]
+  },
+  "reporter-notebook": {
+    "context": "A tall narrow spiral pad bound at the top with lines of notes. Used for journalists, shorthand and quick note taking.",
+    "keywords": [
+      "steno pad",
+      "notepad",
+      "journalist notes",
+      "notes",
+      "spiral notebook",
+      "shorthand",
+      "memo pad",
+      "jotter",
+      "interview notes",
+      "pad",
+      "reporter",
+      "writing"
+    ]
+  },
+  "classified-ads": {
+    "context": "A newspaper page divided into many small boxed ad blocks in columns. Used for small ads, listings and notices.",
+    "keywords": [
+      "small ads",
+      "want ads",
+      "listings",
+      "classifieds",
+      "newspaper ads",
+      "notices",
+      "personals",
+      "for sale",
+      "jobs board",
+      "ad columns",
+      "advertisements",
+      "page grid"
+    ]
+  },
+  "zine": {
+    "context": "A small stapled booklet with a star on its cover. Used for handmade magazines, self publishing and small press.",
+    "keywords": [
+      "booklet",
+      "diy magazine",
+      "fanzine",
+      "pamphlet",
+      "self published",
+      "chapbook",
+      "small press",
+      "stapled",
+      "handmade",
+      "indie",
+      "star",
+      "cover"
+    ]
+  },
+  "tear-off-flyer": {
+    "context": "A sheet with a pin at the top and a row of vertical tear off tabs along the bottom. Used for community notice boards and lost and found posters.",
+    "keywords": [
+      "notice board flyer",
+      "tear off tabs",
+      "pull tab poster",
+      "lost and found",
+      "advert",
+      "community notice",
+      "poster",
+      "tabs",
+      "bulletin board",
+      "for rent",
+      "pinned sheet",
+      "handout"
+    ]
+  },
+  "protest-sign": {
+    "context": "A rectangular placard with lines of bold text on a stick. Used for rallies, marches and demonstrations.",
+    "keywords": [
+      "picket",
+      "demonstration",
+      "placard",
+      "rally",
+      "march",
+      "activism",
+      "banner sign",
+      "campaign",
+      "strike",
+      "stick sign",
+      "civic action",
+      "cause"
+    ]
+  },
+  "skywriting": {
+    "context": "A small plane trailing a looping smoke line. Used for aerial messages, stunt flying and airshows.",
+    "keywords": [
+      "sky message",
+      "smoke trail",
+      "aerial advertising",
+      "stunt plane",
+      "airshow",
+      "loop",
+      "vapour trail",
+      "vapor trail",
+      "airplane",
+      "writing in the sky",
+      "flying",
+      "proposal"
+    ]
+  },
+  "aerial-banner": {
+    "context": "A small plane towing a long wavy banner on a line. Used for beach advertising and aerial promotions.",
+    "keywords": [
+      "banner plane",
+      "towed banner",
+      "beach advert",
+      "aerial advertising",
+      "sky banner",
+      "promotion",
+      "tow line",
+      "airplane",
+      "sign in the sky",
+      "advert",
+      "flying banner",
+      "ad"
+    ]
+  },
+  "blog-post": {
+    "context": "A browser window with a heading bar and text lines, with a pen nib over the corner. Used for writing and publishing web articles.",
+    "keywords": [
+      "article",
+      "web post",
+      "writing",
+      "blogging",
+      "cms",
+      "publish",
+      "web page",
+      "compose",
+      "edit page",
+      "content",
+      "new post",
+      "author"
+    ]
+  }
+}

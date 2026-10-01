@@ -1,0 +1,482 @@
+[
+ {
+  "name": "diplococcus",
+  "category": "biochem",
+  "draw": "Two small round cocci touching side by side as a pair, like a coffee-bean doublet.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "tetrad-cocci",
+  "category": "biochem",
+  "draw": "Four round cocci arranged in a flat square of two by two.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "streptobacillus",
+  "category": "biochem",
+  "draw": "A chain of three or four short rounded rods joined end to end.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "vibrio-bacterium",
+  "category": "biochem",
+  "draw": "A curved comma-shaped rod with a single long wavy flagellum at one end.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "peritrichous-bacterium",
+  "category": "biochem",
+  "draw": "A rod-shaped bacterium with many wavy flagella sprouting all around its outline.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bacterial-endospore",
+  "category": "biochem",
+  "draw": "A rod-shaped bacterium with a bold oval spore sitting inside at one end.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bacterial-capsule",
+  "category": "biochem",
+  "draw": "A rod bacterium surrounded by a thick soft halo outline, showing the slime capsule.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "prokaryotic-cell",
+  "category": "biochem",
+  "draw": "A capsule-shaped cell cutaway with a tangled loop of DNA, a small plasmid ring, dotted ribosomes and a tail flagellum.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "biofilm",
+  "category": "biochem",
+  "draw": "A cluster of small rod bacteria embedded in a wavy mound resting on a flat surface line.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bacterial-colony",
+  "category": "biochem",
+  "draw": "A single round dome colony seen from above with a scalloped irregular edge and a raised center.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "magnetotactic-bacterium",
+  "category": "biochem",
+  "draw": "A curved rod bacterium with a straight line of small squares (magnet crystals) running along its length.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bacterial-flagellar-motor",
+  "category": "biochem",
+  "draw": "A rotary motor embedded in a two-line membrane: stacked rings at the base, a hook and a long whip filament rising up.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "gut-microbiome",
+  "category": "biochem",
+  "draw": "A looped intestine outline with small rod and round bacteria scattered inside it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "caulobacter",
+  "category": "biochem",
+  "draw": "A crescent-shaped bacterium with a thin stalk at one end ending in a small holdfast foot.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "quorum-sensing",
+  "category": "biochem",
+  "draw": "Three small rod bacteria in a triangle with tiny signal dots and short wave arcs passing between them.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "stromatolite",
+  "category": "biochem",
+  "draw": "A group of layered dome-shaped rock mounds in shallow water, each dome showing stacked curved bands.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "winogradsky-column",
+  "category": "biochem",
+  "draw": "A tall clear cylinder filled with horizontal bands of mud and water in different shades, capped at the top.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bioremediation",
+  "category": "biochem",
+  "draw": "A large oil droplet being nibbled by small rod bacteria around its edge, with a sprout leaf beside it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "icosahedral-virus",
+  "category": "biochem",
+  "draw": "A twenty-sided geometric capsid seen as a hexagon with inner triangle facets and short knobbed fibers at the corners.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "helical-virus",
+  "category": "biochem",
+  "draw": "A straight rigid rod made of stacked ring segments with a thin spiral RNA line running through it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "filovirus",
+  "category": "biochem",
+  "draw": "A long thread-like virus curled at one end into a shepherd's crook hook, with tiny spikes along its edge.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bullet-shaped-virus",
+  "category": "biochem",
+  "draw": "A bullet-shaped virus, flat at one end and rounded at the other, with short spikes around the outline.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "poxvirus",
+  "category": "biochem",
+  "draw": "A rounded brick-shaped virus with a dumbbell-shaped core inside and a textured outer coat.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "retrovirus",
+  "category": "biochem",
+  "draw": "A round enveloped virus with short spikes and a cone-shaped capsid inside holding two RNA squiggles.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "spike-protein",
+  "category": "biochem",
+  "draw": "A single mushroom-shaped protein standing on a membrane line, a wide three-lobed head on a slim stalk.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "prion",
+  "category": "biochem",
+  "draw": "A normal coiled protein beside a misfolded clump of stacked flat arrows, joined by a small arrow.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "viral-replication",
+  "category": "biochem",
+  "draw": "A cell outline with one virus entering on one side and several new virus particles budding out of the other side.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "giardia",
+  "category": "biochem",
+  "draw": "A pear-shaped protozoan seen face-on with two round nuclei like eyes and four pairs of trailing flagella.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "didinium",
+  "category": "biochem",
+  "draw": "A barrel-shaped ciliate with two rings of cilia bands and a pointed snout at the top.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "malaria-parasite",
+  "category": "biochem",
+  "draw": "A round red blood cell with a small signet-ring shaped parasite inside it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "toxoplasma",
+  "category": "biochem",
+  "draw": "A crescent-shaped banana-like cell with a pointed front end and a round nucleus in the middle.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "trichomonas",
+  "category": "biochem",
+  "draw": "A teardrop-shaped cell with four flagella at the front and a wavy undulating membrane along one side.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "choanoflagellate",
+  "category": "biochem",
+  "draw": "An oval cell with a funnel collar of fine lines on top and a single long flagellum rising from its center.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "testate-amoeba",
+  "category": "biochem",
+  "draw": "A dome-shaped shell with a round opening at the bottom and a few blunt pseudopods poking out.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "suctorian",
+  "category": "biochem",
+  "draw": "A round cell perched on a thin stalk, with many straight tentacles each ending in a small knob.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "pennate-diatom",
+  "category": "biochem",
+  "draw": "A long narrow boat-shaped diatom with a central line and rows of fine stripe marks along both sides.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "chlorella",
+  "category": "biochem",
+  "draw": "A cluster of three or four tiny round green-alga cells, each with a cup-shaped chloroplast inside.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "pediastrum",
+  "category": "biochem",
+  "draw": "A flat star-shaped colony of cells in concentric rings, with twin-horned cells around the edge.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "scenedesmus",
+  "category": "biochem",
+  "draw": "Four bean-shaped cells lined up side by side, the two end cells each with long curved spines.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "closterium",
+  "category": "biochem",
+  "draw": "A slender crescent moon-shaped cell with a small nucleus in the middle and a dot at each tip.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "micrasterias",
+  "category": "biochem",
+  "draw": "A flat symmetric disc cell deeply cut into many lobes, like a snowflake divided in half by a waist.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "red-algae",
+  "category": "biochem",
+  "draw": "A branching feathery seaweed frond with finely divided flat branches.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bladderwrack",
+  "category": "biochem",
+  "draw": "A forked flat seaweed frond with a midrib and paired round air bladders along it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "hydrodictyon",
+  "category": "biochem",
+  "draw": "A net-like mesh of cells forming hexagonal openings, like a small fishing net.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "stonewort",
+  "category": "biochem",
+  "draw": "An upright alga stem with whorls of straight thin branches spaced along it like a bottle brush.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "candida-yeast",
+  "category": "biochem",
+  "draw": "A chain of elongated yeast cells forming a branching pseudohypha with round buds at the joints.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "ascus",
+  "category": "biochem",
+  "draw": "A long sac shaped like a narrow pod holding eight round spores in a single row.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "basidium",
+  "category": "biochem",
+  "draw": "A club-shaped cell with four small prongs on top, each bearing a round spore.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "zygospore",
+  "category": "biochem",
+  "draw": "A dark round spiky-walled spore sitting between two short hyphae joining from each side.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "chytrid-fungus",
+  "category": "biochem",
+  "draw": "A round spore body with thin root-like threads below and a single tail flagellum.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "mycorrhiza",
+  "category": "biochem",
+  "draw": "A root tip wrapped in a web of fine fungal threads that spread out into the soil.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "powdery-mildew",
+  "category": "biochem",
+  "draw": "A leaf covered with white powdery patches of fuzzy dots.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cell-nucleus",
+  "category": "biochem",
+  "draw": "A round nucleus with a double outline dotted with pores and a solid round nucleolus inside.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "endoplasmic-reticulum",
+  "category": "biochem",
+  "draw": "Stacked, folded ribbon-like membrane layers wrapping around one side, studded with tiny ribosome dots.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "lysosome",
+  "category": "biochem",
+  "draw": "A round membrane sac holding scattered small dots and tiny scissors-like enzyme marks.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "peroxisome",
+  "category": "biochem",
+  "draw": "A round membrane sac with a small square crystal core in the center.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "centriole",
+  "category": "biochem",
+  "draw": "Two short barrel cylinders set at right angles to each other, each showing ribbed walls.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cytoskeleton",
+  "category": "biochem",
+  "draw": "A round cell outline filled with a web of crossing straight and wavy filament lines radiating from the center.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "microtubule",
+  "category": "biochem",
+  "draw": "A hollow cylinder built of rows of small beads in a spiral, shown with one open end.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "actin-filament",
+  "category": "biochem",
+  "draw": "Two twisted strings of round beads winding around each other in a thin rope.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cilia",
+  "category": "biochem",
+  "draw": "A row of cells along a flat surface, each with many short hairs on top bending in a wave.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "motor-protein",
+  "category": "biochem",
+  "draw": "A two-legged protein walking along a straight bead track while carrying a round vesicle on its back.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "vesicle-transport",
+  "category": "biochem",
+  "draw": "A small round vesicle budding off a membrane with an arrow pointing toward another membrane.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "exocytosis",
+  "category": "biochem",
+  "draw": "A round vesicle fused into a membrane line, opening outward and releasing small dots.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "apoptosis",
+  "category": "biochem",
+  "draw": "A round cell breaking apart into several smaller round blebs with a crack across it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dendritic-cell",
+  "category": "biochem",
+  "draw": "A cell body with many long branching arms spreading out in all directions like a star.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "t-cell",
+  "category": "biochem",
+  "draw": "A round lymphocyte with a large nucleus and short Y-shaped receptors dotted around its surface.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "mast-cell",
+  "category": "biochem",
+  "draw": "An oval cell packed with many round granules, a few granules bursting out of one side.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "fat-cell",
+  "category": "biochem",
+  "draw": "A large round cell filled by one big droplet, with a small flattened nucleus pressed against the edge.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "goblet-cell",
+  "category": "biochem",
+  "draw": "A wine-goblet shaped cell with a wide top full of mucus droplets and a narrow stem holding the nucleus.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "epithelial-tissue",
+  "category": "biochem",
+  "draw": "A row of tall column-shaped cells standing side by side, each with an oval nucleus near the base.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "rod-and-cone-cells",
+  "category": "biochem",
+  "draw": "Two slim upright photoreceptor cells side by side, one topped by a long rod and the other by a short cone.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "myelinated-axon",
+  "category": "biochem",
+  "draw": "A long nerve fiber wrapped in a row of sausage-shaped sheath segments with small gaps between them.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "sarcomere",
+  "category": "biochem",
+  "draw": "A striped muscle unit between two zigzag Z lines, with overlapping thick and thin filament bars.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "root-hair-cell",
+  "category": "biochem",
+  "draw": "A long rectangular plant cell with a single long finger-like extension growing out of one side.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "xylem-vessel",
+  "category": "biochem",
+  "draw": "A vertical tube with ring or spiral thickening lines along its walls, stacked from open-ended cells.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "plasmolysis",
+  "category": "biochem",
+  "draw": "A rectangular plant cell wall with the shrunken inner membrane pulled away into a small rounded blob.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "gap-junction",
+  "category": "biochem",
+  "draw": "Two membrane bands side by side joined by short paired tube channels running between them.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "mitotic-spindle",
+  "category": "biochem",
+  "draw": "A lemon-shaped set of fiber lines stretching between two pole dots, with X-shaped chromosomes lined up in the middle.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "endosymbiosis",
+  "category": "biochem",
+  "draw": "A large cell engulfing a smaller oval organelle-like cell, with a curved arrow showing it moving inside.",
+  "domain": "r3-microbiology-chemistry"
+ }
+]

@@ -1,0 +1,897 @@
+[
+  {
+    "name": "hotel-key-rack",
+    "category": "hospitality",
+    "draw": "Wall board of small pigeonhole cubbies in a grid with room keys on large tags hanging from hooks below some of the cubbies."
+  },
+  {
+    "name": "keycard-sleeve",
+    "category": "hospitality",
+    "draw": "Small folded paper wallet with a plastic key card sticking out of the top and a short line for a room number on the front."
+  },
+  {
+    "name": "guest-registration-card",
+    "category": "hospitality",
+    "draw": "Card with a few form lines, a small box for a signature line at the bottom and a pen lying diagonally across it."
+  },
+  {
+    "name": "late-checkout",
+    "category": "hospitality",
+    "draw": "Door slightly ajar with a round clock face overlapping its lower corner, hands pointing to a late hour."
+  },
+  {
+    "name": "room-number-sign",
+    "category": "hospitality",
+    "draw": "Small rectangular plaque mounted beside a door frame with three bold digit shapes on it."
+  },
+  {
+    "name": "room-direction-sign",
+    "category": "hospitality",
+    "draw": "Corridor wall sign with two stacked panels, the top panel with an arrow pointing one way and the bottom with an arrow pointing the other, short text lines beside each."
+  },
+  {
+    "name": "key-card-encoder",
+    "category": "hospitality",
+    "draw": "Small desktop box with a slot on top and a key card half inserted into the slot, a tiny indicator light on the front."
+  },
+  {
+    "name": "valet-ticket",
+    "category": "hospitality",
+    "draw": "Tall paper ticket with a perforated tear-off stub at the bottom, a string loop at the top and a car silhouette printed on the stub."
+  },
+  {
+    "name": "valet-podium",
+    "category": "hospitality",
+    "draw": "Narrow standing podium with a small key cabinet door on its front face and an umbrella leaning against its side."
+  },
+  {
+    "name": "hotel-entrance-canopy",
+    "category": "hospitality",
+    "draw": "Front view of a building entrance with a long flat canopy projecting out over the doors on two slim poles."
+  },
+  {
+    "name": "safe-deposit-boxes",
+    "category": "hospitality",
+    "draw": "Wall of small numbered metal doors in a grid, each with a tiny keyhole, one door slightly open."
+  },
+  {
+    "name": "guest-directory",
+    "category": "hospitality",
+    "draw": "Closed ring binder with a leather style cover, a small bell emblem on the front and a ribbon bookmark hanging out."
+  },
+  {
+    "name": "hotel-stationery",
+    "category": "hospitality",
+    "draw": "Small notepad with a crest shaped mark at the top and a slim pen lying beside it, a folded envelope tucked behind."
+  },
+  {
+    "name": "comment-card",
+    "category": "hospitality",
+    "draw": "Small upright folded card on a table with three short lines and a row of five small circles for rating."
+  },
+  {
+    "name": "lost-and-found",
+    "category": "hospitality",
+    "draw": "Open cardboard box with an umbrella handle, a glove and a key sticking out of the top."
+  },
+  {
+    "name": "umbrella-bag-stand",
+    "category": "hospitality",
+    "draw": "Upright stand with a roll of long narrow plastic sleeves on top and a closed wet umbrella being slid into one sleeve."
+  },
+  {
+    "name": "taxi-whistle",
+    "category": "hospitality",
+    "draw": "Small metal whistle on a lanyard loop with three short sound lines coming from its mouth end."
+  },
+  {
+    "name": "wifi-voucher",
+    "category": "hospitality",
+    "draw": "Small printed ticket slip with a wifi fan symbol at the top and two short code lines below."
+  },
+  {
+    "name": "evacuation-map",
+    "category": "hospitality",
+    "draw": "Framed floor plan on a wall with a dot marking the viewer's position and a dashed route line leading to an exit door symbol."
+  },
+  {
+    "name": "room-status-panel",
+    "category": "hospitality",
+    "draw": "Square wall panel beside a door with a doorbell button and two small round lamps, one showing a crescent moon and one showing a broom."
+  },
+  {
+    "name": "hospitality-tray",
+    "category": "hospitality",
+    "draw": "Small rectangular tray holding a kettle, two cups and a little pot of sachets, seen from the front at a slight angle."
+  },
+  {
+    "name": "toiletry-set",
+    "category": "hospitality",
+    "draw": "Three miniature bottles of different heights standing in a row on a small tray."
+  },
+  {
+    "name": "wrapped-soap",
+    "category": "hospitality",
+    "draw": "Rectangular soap bar in a paper wrapper with a band around its middle and a small leaf emblem on the band."
+  },
+  {
+    "name": "cotton-ball-jar",
+    "category": "hospitality",
+    "draw": "Short apothecary style glass jar with a round lid, filled with round fluffy cotton balls."
+  },
+  {
+    "name": "dental-kit",
+    "category": "hospitality",
+    "draw": "Small toothbrush and a tiny toothpaste tube lying side by side on an open pouch."
+  },
+  {
+    "name": "shaving-kit",
+    "category": "hospitality",
+    "draw": "Disposable razor and a small tube of shaving cream crossed over each other in front of a zipped pouch."
+  },
+  {
+    "name": "bathtub-caddy",
+    "category": "hospitality",
+    "draw": "Long slatted tray bridging the rim of a bathtub with a book and a candle sitting on it."
+  },
+  {
+    "name": "toilet-paper-fold",
+    "category": "hospitality",
+    "draw": "Toilet paper roll on a holder with its loose end folded into a neat pointed triangle."
+  },
+  {
+    "name": "sanitized-seat-band",
+    "category": "hospitality",
+    "draw": "Toilet seen from the front with a paper strip band wrapped across the closed seat."
+  },
+  {
+    "name": "sanitized-glass-cap",
+    "category": "hospitality",
+    "draw": "Drinking tumbler with a pleated paper cap covering its rim."
+  },
+  {
+    "name": "miniature-liquor-bottle",
+    "category": "hospitality",
+    "draw": "Tiny flat sided spirits bottle with a short neck and screw cap, shown beside a coin for scale."
+  },
+  {
+    "name": "dry-cleaning-bag",
+    "category": "hospitality",
+    "draw": "Clothes hanger with a long clear plastic cover draped over a shirt, the plastic tied in a knot at the bottom."
+  },
+  {
+    "name": "anti-theft-hanger",
+    "category": "hospitality",
+    "draw": "Wooden clothes hanger with no hook, instead a small metal ring at the top threaded onto a short rail stud."
+  },
+  {
+    "name": "linen-cart",
+    "category": "hospitality",
+    "draw": "Tall wheeled canvas bin on a metal frame with folded sheets piled above its rim."
+  },
+  {
+    "name": "linen-chute",
+    "category": "hospitality",
+    "draw": "Wall hatch with a hinged door tilted open and a bundle of sheets sliding into it."
+  },
+  {
+    "name": "bed-making",
+    "category": "hospitality",
+    "draw": "Bed side view with a sheet billowing in the air above the mattress as it is spread out."
+  },
+  {
+    "name": "bed-runner",
+    "category": "hospitality",
+    "draw": "Neatly made bed seen from the foot with a contrasting wide band of fabric draped across its lower part."
+  },
+  {
+    "name": "pillow-menu",
+    "category": "hospitality",
+    "draw": "Folded card menu standing upright with small outlines of three differently shaped pillows listed down its front."
+  },
+  {
+    "name": "blackout-curtains",
+    "category": "hospitality",
+    "draw": "Window with two heavy curtains fully closed and meeting in the middle, a small crescent moon above the rail."
+  },
+  {
+    "name": "sea-view",
+    "category": "hospitality",
+    "draw": "Rectangular window frame with two wavy water lines and a small sun on the horizon inside it."
+  },
+  {
+    "name": "city-view",
+    "category": "hospitality",
+    "draw": "Rectangular window frame with a skyline of tall rectangular buildings of different heights inside it."
+  },
+  {
+    "name": "mountain-view",
+    "category": "hospitality",
+    "draw": "Rectangular window frame with two overlapping pointed mountain peaks inside it, one with a snow cap."
+  },
+  {
+    "name": "garden-view",
+    "category": "hospitality",
+    "draw": "Rectangular window frame with a round topped tree and a low hedge line inside it."
+  },
+  {
+    "name": "door-newspaper",
+    "category": "hospitality",
+    "draw": "Door handle with a cloth bag hanging from it and a rolled newspaper poking out of the bag."
+  },
+  {
+    "name": "welcome-drink",
+    "category": "hospitality",
+    "draw": "Tall glass with a flower garnish and a straw sitting on a small round tray."
+  },
+  {
+    "name": "tray-jack",
+    "category": "hospitality",
+    "draw": "Folding X shaped stand with two fabric straps across the top, a serving tray resting on it."
+  },
+  {
+    "name": "sunbed-service-flag",
+    "category": "hospitality",
+    "draw": "Sun lounger seen from the side with a small triangular flag raised on a short pole clipped to its arm."
+  },
+  {
+    "name": "event-wristband",
+    "category": "hospitality",
+    "draw": "Fabric wristband loop with a small plastic locking bead where the two ends meet."
+  },
+  {
+    "name": "drink-token",
+    "category": "hospitality",
+    "draw": "Round coin shaped token with a cocktail glass silhouette cut through its center."
+  },
+  {
+    "name": "crumb-scraper",
+    "category": "hospitality",
+    "draw": "Slim curved metal blade held at an angle sweeping a few crumbs across a table edge."
+  },
+  {
+    "name": "silent-butler",
+    "category": "hospitality",
+    "draw": "Small round lidded pan with a long flat handle and a hinged lid tilted open, crumbs inside."
+  },
+  {
+    "name": "order-pad",
+    "category": "hospitality",
+    "draw": "Small spiral top notepad with lines of scribble and a short pencil tucked behind it."
+  },
+  {
+    "name": "tip-jar",
+    "category": "hospitality",
+    "draw": "Glass jar with a few coins and a folded banknote inside and a small tag tied around its neck."
+  },
+  {
+    "name": "carrying-plates",
+    "category": "hospitality",
+    "draw": "Forearm and hand balancing three round plates, one in the hand and two resting along the arm."
+  },
+  {
+    "name": "wine-presentation",
+    "category": "hospitality",
+    "draw": "Hand holding a wine bottle horizontally with the label facing out and a folded napkin draped under the bottle."
+  },
+  {
+    "name": "wine-list",
+    "category": "hospitality",
+    "draw": "Tall narrow leather style menu cover with a wine bottle silhouette embossed on the front."
+  },
+  {
+    "name": "kids-menu",
+    "category": "hospitality",
+    "draw": "Menu card with a simple smiley face at the top and two crayons lying diagonally across the lower corner."
+  },
+  {
+    "name": "qr-menu",
+    "category": "hospitality",
+    "draw": "Small tent card standing on a table with a square QR code pattern printed on its face."
+  },
+  {
+    "name": "glass-polishing",
+    "category": "hospitality",
+    "draw": "Hand gripping a cloth wrapped around the bowl of a wine glass held up at an angle, with small sparkle marks."
+  },
+  {
+    "name": "table-call-button",
+    "category": "hospitality",
+    "draw": "Small round button unit on a table with a large push dome and three short signal arcs above it."
+  },
+  {
+    "name": "rolled-hot-towel",
+    "category": "hospitality",
+    "draw": "Small rolled white towel lying in a narrow oblong tray with wavy steam lines rising."
+  },
+  {
+    "name": "chopstick-sleeve",
+    "category": "hospitality",
+    "draw": "Pair of chopsticks slid halfway into a slim paper sleeve."
+  },
+  {
+    "name": "rolled-silverware",
+    "category": "hospitality",
+    "draw": "Napkin rolled into a tube with a fork, knife and spoon handles showing at one end and a paper band around the middle."
+  },
+  {
+    "name": "charger-plate",
+    "category": "hospitality",
+    "draw": "Large round plate with a wide decorative beaded rim and a smaller dinner plate set on top of it."
+  },
+  {
+    "name": "bread-plate",
+    "category": "hospitality",
+    "draw": "Small round plate with a butter knife resting across its top edge and a bread roll on it."
+  },
+  {
+    "name": "fish-knife",
+    "category": "hospitality",
+    "draw": "Knife with a wide flat blade, a notched pointed tip and no serration, seen flat from above."
+  },
+  {
+    "name": "steak-knife",
+    "category": "hospitality",
+    "draw": "Knife with a pointed blade and a serrated edge and a thick riveted handle, seen from the side."
+  },
+  {
+    "name": "cake-fork",
+    "category": "hospitality",
+    "draw": "Small fork with three tines where the left tine is noticeably wider and flattened."
+  },
+  {
+    "name": "oyster-fork",
+    "category": "hospitality",
+    "draw": "Short slim fork with three small curved tines and a long thin handle beside an open oyster shell."
+  },
+  {
+    "name": "fondue-fork",
+    "category": "hospitality",
+    "draw": "Two very long thin forks with two prongs each and small round colored tips on their handles, crossed."
+  },
+  {
+    "name": "snail-tongs",
+    "category": "hospitality",
+    "draw": "Spring loaded tongs with two cupped rounded jaws holding a spiral snail shell."
+  },
+  {
+    "name": "escargot-plate",
+    "category": "hospitality",
+    "draw": "Round plate seen from above with six small round dimples arranged in a ring."
+  },
+  {
+    "name": "lobster-cracker",
+    "category": "hospitality",
+    "draw": "Hinged nutcracker style tool with two ridged jaws wrapped around a lobster claw."
+  },
+  {
+    "name": "lobster-bib",
+    "category": "hospitality",
+    "draw": "Bib with neck ties and a simple lobster outline printed on its front."
+  },
+  {
+    "name": "finger-bowl",
+    "category": "hospitality",
+    "draw": "Shallow round bowl of water with a lemon slice floating in it, seen at a slight angle."
+  },
+  {
+    "name": "cruet-stand",
+    "category": "hospitality",
+    "draw": "Small stand with a central carrying handle holding two stoppered glass bottles and two small shakers."
+  },
+  {
+    "name": "condiment-caddy",
+    "category": "hospitality",
+    "draw": "Small rectangular carrier with a handle holding a squeeze bottle, a salt shaker and a napkin stack."
+  },
+  {
+    "name": "sugar-caddy",
+    "category": "hospitality",
+    "draw": "Small rectangular holder with upright paper sugar packets standing inside it."
+  },
+  {
+    "name": "toothpick-holder",
+    "category": "hospitality",
+    "draw": "Small cup holding a bundle of upright toothpicks with one leaning out."
+  },
+  {
+    "name": "salt-cellar",
+    "category": "hospitality",
+    "draw": "Tiny open round dish on short feet filled with salt and a miniature spoon resting in it."
+  },
+  {
+    "name": "cheese-shaker",
+    "category": "hospitality",
+    "draw": "Glass jar with a domed metal lid pierced with holes and a hinged flap, grated cheese inside."
+  },
+  {
+    "name": "jam-portion",
+    "category": "hospitality",
+    "draw": "Tiny round plastic tub with a peeled back foil lid showing a fruit mark on the foil."
+  },
+  {
+    "name": "tea-bag-chest",
+    "category": "hospitality",
+    "draw": "Small wooden box with a hinged glass lid propped open showing tea bags standing in rows of compartments."
+  },
+  {
+    "name": "bottle-coaster",
+    "category": "hospitality",
+    "draw": "Low round silver dish with a wine bottle standing in it, slightly flared rim."
+  },
+  {
+    "name": "wine-bucket-stand",
+    "category": "hospitality",
+    "draw": "Tall three legged stand holding an ice bucket at waist height with a bottle neck sticking out."
+  },
+  {
+    "name": "wine-thermometer",
+    "category": "hospitality",
+    "draw": "Slim thermometer band clipped around the body of a wine bottle with a scale of marks on it."
+  },
+  {
+    "name": "wine-aerator",
+    "category": "hospitality",
+    "draw": "Bottle neck with a short clear spout fitted into it that has two small air holes, liquid pouring out."
+  },
+  {
+    "name": "wine-spittoon",
+    "category": "hospitality",
+    "draw": "Tall bucket with a wide funnel shaped top and a few drips falling in."
+  },
+  {
+    "name": "wine-glass-charm",
+    "category": "hospitality",
+    "draw": "Wine glass stem with a small hoop ring around it holding a dangling bead charm."
+  },
+  {
+    "name": "caviar-service",
+    "category": "hospitality",
+    "draw": "Round tin on a bed of ice in a bowl with a small flat shell spoon resting beside it."
+  },
+  {
+    "name": "fruit-platter",
+    "category": "hospitality",
+    "draw": "Oval platter with fanned melon wedges, a pineapple slice and a small bunch of grapes."
+  },
+  {
+    "name": "finger-sandwiches",
+    "category": "hospitality",
+    "draw": "Three narrow crustless rectangular sandwiches lying on a plate with filling lines visible."
+  },
+  {
+    "name": "tapas",
+    "category": "hospitality",
+    "draw": "Board with four small round dishes, each holding a different small bite, seen from above."
+  },
+  {
+    "name": "verrine",
+    "category": "hospitality",
+    "draw": "Small straight sided glass showing three stacked layers inside and a tiny spoon sticking out of the top."
+  },
+  {
+    "name": "butter-curler",
+    "category": "hospitality",
+    "draw": "Short tool with a hooked serrated blade drawing a curled ribbon of butter from a block."
+  },
+  {
+    "name": "soy-sauce-dish",
+    "category": "hospitality",
+    "draw": "Small shallow dish shaped like a rounded square with a dark pool of sauce and chopstick tips resting on it."
+  },
+  {
+    "name": "hot-stone-grill",
+    "category": "hospitality",
+    "draw": "Flat stone slab set on a wooden board with a sliced steak on top and heat lines rising."
+  },
+  {
+    "name": "silver-tea-service",
+    "category": "hospitality",
+    "draw": "Tray holding a pear shaped teapot, a small cream jug and a lidded sugar bowl side by side."
+  },
+  {
+    "name": "gongfu-tea-tray",
+    "category": "hospitality",
+    "draw": "Low rectangular slatted tray with a small teapot and three tiny cups on it and water drips between the slats."
+  },
+  {
+    "name": "kitchen-pass",
+    "category": "hospitality",
+    "draw": "Stainless shelf opening in a wall with two plates on it, a heat lamp above and a small bell to the side."
+  },
+  {
+    "name": "bus-tub",
+    "category": "hospitality",
+    "draw": "Rectangular plastic tub with a stack of dirty plates and a glass inside, seen at an angle."
+  },
+  {
+    "name": "bussing-cart",
+    "category": "hospitality",
+    "draw": "Three shelf wheeled cart with a bus tub on the top shelf and stacked plates on the lower ones."
+  },
+  {
+    "name": "tray-return-rack",
+    "category": "hospitality",
+    "draw": "Tall wheeled frame with many horizontal slots holding slid in cafeteria trays."
+  },
+  {
+    "name": "glass-rack",
+    "category": "hospitality",
+    "draw": "Square plastic rack seen at an angle with a grid of compartments and upside down glasses in them."
+  },
+  {
+    "name": "heated-plate-dispenser",
+    "category": "hospitality",
+    "draw": "Cylindrical stainless unit with a stack of plates sitting in its top opening, spring pushing them up."
+  },
+  {
+    "name": "bain-marie",
+    "category": "hospitality",
+    "draw": "Rectangular hot water bath with three round lidded inserts sitting in it and steam lines."
+  },
+  {
+    "name": "soup-kettle",
+    "category": "hospitality",
+    "draw": "Round electric soup warmer with a hinged lid tilted open and a ladle handle sticking out."
+  },
+  {
+    "name": "carving-station",
+    "category": "hospitality",
+    "draw": "Roast joint on a board under a hanging heat lamp with a carving knife and fork beside it."
+  },
+  {
+    "name": "omelette-station",
+    "category": "hospitality",
+    "draw": "Portable burner with a small pan on top and a row of little bowls of fillings in front."
+  },
+  {
+    "name": "conveyor-toaster",
+    "category": "hospitality",
+    "draw": "Boxy toaster with an open slot at the top front and a slice of bread sliding out of the bottom chute."
+  },
+  {
+    "name": "pancake-machine",
+    "category": "hospitality",
+    "draw": "Boxy dispenser with a small screen and a chute with a stack of pancakes coming out onto a plate."
+  },
+  {
+    "name": "straw-dispenser",
+    "category": "hospitality",
+    "draw": "Upright clear cylinder filled with straws with a lever at the bottom and one straw dropping out."
+  },
+  {
+    "name": "meal-ticket-machine",
+    "category": "hospitality",
+    "draw": "Vending machine with a grid of rectangular buttons, a coin slot and a small ticket coming out."
+  },
+  {
+    "name": "food-sample-display",
+    "category": "hospitality",
+    "draw": "Glass shop window box with three plates of modeled dishes on tiered shelves and price tags below."
+  },
+  {
+    "name": "dessert-trolley",
+    "category": "hospitality",
+    "draw": "Two shelf wheeled cart with a cake on top and small desserts on the lower shelf, curved push handle."
+  },
+  {
+    "name": "flambe-trolley",
+    "category": "hospitality",
+    "draw": "Wheeled cart with a small burner on top, a pan on it and tall flames rising from the pan."
+  },
+  {
+    "name": "carving-trolley",
+    "category": "hospitality",
+    "draw": "Wheeled cart with a large rounded silver dome cover rolled partly back and a roast visible."
+  },
+  {
+    "name": "dim-sum-cart",
+    "category": "hospitality",
+    "draw": "Small push cart stacked with round bamboo steamer baskets and steam lines above them."
+  },
+  {
+    "name": "teppanyaki-counter",
+    "category": "hospitality",
+    "draw": "Long flat griddle top with a spatula and a mound of rice on it and seats implied by curved lines along the front edge."
+  },
+  {
+    "name": "sushi-counter",
+    "category": "hospitality",
+    "draw": "Counter with a raised glass display case holding fish slices and a sushi piece on a small board in front."
+  },
+  {
+    "name": "hot-dog-cart",
+    "category": "hospitality",
+    "draw": "Street cart with a striped umbrella on a pole, a rectangular body and two wheels, a hot dog symbol on the side."
+  },
+  {
+    "name": "beer-garden-table",
+    "category": "hospitality",
+    "draw": "Long wooden table with two attached bench seats and a beer glass on top."
+  },
+  {
+    "name": "back-bar",
+    "category": "hospitality",
+    "draw": "Wall of three shelves lined with bottles of different heights in front of a mirror panel."
+  },
+  {
+    "name": "speed-rail",
+    "category": "hospitality",
+    "draw": "Long narrow rack along a bar front with a row of bottles standing in it, pour spouts on top."
+  },
+  {
+    "name": "bar-mat",
+    "category": "hospitality",
+    "draw": "Ribbed rectangular rubber mat seen at an angle with a small glass standing on it."
+  },
+  {
+    "name": "bar-caddy",
+    "category": "hospitality",
+    "draw": "Rectangular organizer with compartments holding upright straws, napkins and cocktail picks."
+  },
+  {
+    "name": "garnish-tray",
+    "category": "hospitality",
+    "draw": "Long lidded tray with the lid lifted, showing compartments with lemon wedges, olives and cherries."
+  },
+  {
+    "name": "glass-rimmer",
+    "category": "hospitality",
+    "draw": "Three stacked round shallow trays of different fillings with a glass rim pressed into the top one."
+  },
+  {
+    "name": "channel-knife",
+    "category": "hospitality",
+    "draw": "Short handled tool with a small hooked blade peeling a thin spiral strip from a lemon."
+  },
+  {
+    "name": "ice-pick",
+    "category": "hospitality",
+    "draw": "Wooden handle with a single long sharp steel spike, stuck into a clear block of ice."
+  },
+  {
+    "name": "lewis-bag",
+    "category": "hospitality",
+    "draw": "Canvas bag with a drawstring top next to a wooden mallet."
+  },
+  {
+    "name": "ice-crusher",
+    "category": "hospitality",
+    "draw": "Hand crank machine with a hopper on top, a side crank handle and crushed ice falling into a bowl below."
+  },
+  {
+    "name": "ice-luge",
+    "category": "hospitality",
+    "draw": "Tall block of ice with a zigzag channel carved down its face and a glass at the bottom catching the pour."
+  },
+  {
+    "name": "cocktail-smoker",
+    "category": "hospitality",
+    "draw": "Glass covered by a small dome with wisps of smoke curling inside and a short torch nozzle on top."
+  },
+  {
+    "name": "julep-strainer",
+    "category": "hospitality",
+    "draw": "Round shallow perforated bowl with a short handle, like a spoon full of holes."
+  },
+  {
+    "name": "waiters-friend",
+    "category": "hospitality",
+    "draw": "Folding corkscrew with a spiral worm, a hinged double step lever and a small foil blade on its handle."
+  },
+  {
+    "name": "last-call-bell",
+    "category": "hospitality",
+    "draw": "Brass bell hanging from a wall bracket with a short pull rope dangling from its clapper."
+  },
+  {
+    "name": "bottle-service",
+    "category": "hospitality",
+    "draw": "Champagne bottle in an ice bucket with a sparkler fizzing from its neck."
+  },
+  {
+    "name": "beer-pitcher",
+    "category": "hospitality",
+    "draw": "Straight sided jug with a handle and a pinched spout, filled with beer and a foam head."
+  },
+  {
+    "name": "shot-tray",
+    "category": "hospitality",
+    "draw": "Small rectangular tray with a row of four shot glasses standing on it."
+  },
+  {
+    "name": "wine-dispenser",
+    "category": "hospitality",
+    "draw": "Glass fronted cabinet holding three upright wine bottles with a small tap spout under each."
+  },
+  {
+    "name": "beer-cask",
+    "category": "hospitality",
+    "draw": "Wooden barrel lying on its side on a cradle with a tap in its end face."
+  },
+  {
+    "name": "beverage-tub",
+    "category": "hospitality",
+    "draw": "Oval galvanized tub with two side handles filled with ice and several bottle necks sticking up."
+  },
+  {
+    "name": "wine-barrel-table",
+    "category": "hospitality",
+    "draw": "Upright wine barrel used as a standing table with two glasses on its round top."
+  },
+  {
+    "name": "humidor",
+    "category": "hospitality",
+    "draw": "Wooden box with a hinged lid propped open showing a row of cigars and a small round gauge on the lid."
+  },
+  {
+    "name": "mobile-bar",
+    "category": "hospitality",
+    "draw": "Portable bar counter on small wheels with a front panel and two bottles and a shaker on top."
+  },
+  {
+    "name": "nick-and-nora-glass",
+    "category": "hospitality",
+    "draw": "Small stemmed cocktail glass with a rounded tulip bowl that curves slightly inward at the rim."
+  },
+  {
+    "name": "catering-van",
+    "category": "hospitality",
+    "draw": "Side view of a boxy van with a food cloche symbol on its panel."
+  },
+  {
+    "name": "insulated-food-carrier",
+    "category": "hospitality",
+    "draw": "Boxy front loading insulated container with a latched door and two molded side handles."
+  },
+  {
+    "name": "chafing-fuel-can",
+    "category": "hospitality",
+    "draw": "Small round tin can with a flame rising from its open top."
+  },
+  {
+    "name": "canape-tray",
+    "category": "hospitality",
+    "draw": "Hand holding a round tray up at shoulder height with small bite sized canapes on it."
+  },
+  {
+    "name": "buffet-label",
+    "category": "hospitality",
+    "draw": "Small tent card on a table with a short name line and a row of tiny circular symbols below it."
+  },
+  {
+    "name": "candy-buffet",
+    "category": "hospitality",
+    "draw": "Row of three tall glass jars of different heights filled with sweets on a table, with a scoop."
+  },
+  {
+    "name": "donut-wall",
+    "category": "hospitality",
+    "draw": "Vertical board with a grid of short pegs and a donut hanging on each peg."
+  },
+  {
+    "name": "coffee-station",
+    "category": "hospitality",
+    "draw": "Table with a large urn with a spout, a stack of cups and a small milk jug beside it."
+  },
+  {
+    "name": "registration-table",
+    "category": "hospitality",
+    "draw": "Draped table with a small sign on a stand and a row of name badges laid out in front."
+  },
+  {
+    "name": "easel-sign",
+    "category": "hospitality",
+    "draw": "Tall three legged easel holding a large sign board with a few text lines and a flourish."
+  },
+  {
+    "name": "step-and-repeat",
+    "category": "hospitality",
+    "draw": "Large rectangular backdrop banner on two stands with a repeating diagonal pattern of small marks."
+  },
+  {
+    "name": "card-box",
+    "category": "hospitality",
+    "draw": "Small box shaped like a gift with a slot cut in its lid and an envelope being dropped in."
+  },
+  {
+    "name": "cake-topper",
+    "category": "hospitality",
+    "draw": "Two small stick figures on picks standing on top of a single cake tier."
+  },
+  {
+    "name": "chiavari-chair",
+    "category": "hospitality",
+    "draw": "Side view of a slim chair with a ladder back of thin spindles and a row of thin spindles under the seat."
+  },
+  {
+    "name": "chair-cover-sash",
+    "category": "hospitality",
+    "draw": "Chair fully covered in fabric with a wide sash tied into a bow around its back."
+  },
+  {
+    "name": "stacked-chairs",
+    "category": "hospitality",
+    "draw": "Four identical chairs stacked on top of each other, seen from the side."
+  },
+  {
+    "name": "folding-partition",
+    "category": "hospitality",
+    "draw": "Wall of tall hinged panels partly folded in a zigzag, dividing a room."
+  },
+  {
+    "name": "interpretation-headset",
+    "category": "hospitality",
+    "draw": "Single ear headphone with a small receiver box on a cord and a channel dial on the box."
+  },
+  {
+    "name": "banquet-hall",
+    "category": "hospitality",
+    "draw": "Room outline with a chandelier at the top and round tables with chairs below."
+  },
+  {
+    "name": "theater-style-seating",
+    "category": "hospitality",
+    "draw": "Top down layout of rows of small chair squares all facing a long stage bar at the top."
+  },
+  {
+    "name": "u-shape-seating",
+    "category": "hospitality",
+    "draw": "Top down layout of tables forming a U with chair dots around the outer edge, open end facing a screen bar."
+  },
+  {
+    "name": "boardroom-seating",
+    "category": "hospitality",
+    "draw": "Top down layout of one long rectangular table with chair dots evenly spaced along both sides and ends."
+  },
+  {
+    "name": "cabaret-seating",
+    "category": "hospitality",
+    "draw": "Top down layout of round tables with chair dots only on the half of each table facing a stage bar."
+  },
+  {
+    "name": "banquet-style-seating",
+    "category": "hospitality",
+    "draw": "Top down layout of a grid of round tables with chair dots evenly spaced all the way around each table."
+  },
+  {
+    "name": "pizza-delivery-bag",
+    "category": "hospitality",
+    "draw": "Flat square insulated bag with a zip around three sides and a carry strap on top."
+  },
+  {
+    "name": "dumbwaiter",
+    "category": "hospitality",
+    "draw": "Small wall hatch with a sliding door raised to show a little shelf box holding a covered plate, with a short rope beside it."
+  },
+  {
+    "name": "kitchen-swing-doors",
+    "category": "hospitality",
+    "draw": "Pair of double swinging doors each with a round porthole window at eye level."
+  },
+  {
+    "name": "hot-holding-cabinet",
+    "category": "hospitality",
+    "draw": "Tall wheeled metal cabinet with a full height door, a vertical handle and a small dial thermometer near the top."
+  },
+  {
+    "name": "table-skirt",
+    "category": "hospitality",
+    "draw": "Rectangular table seen from the front with pleated fabric hanging from its edge all the way to the floor."
+  },
+  {
+    "name": "cup-sleeve",
+    "category": "hospitality",
+    "draw": "Paper coffee cup with a corrugated cardboard band wrapped around its middle and a lid on top."
+  },
+  {
+    "name": "wine-foil-cutter",
+    "category": "hospitality",
+    "draw": "Small round clamp with two curved arms gripping the top of a bottle neck, a strip of foil peeling off."
+  },
+  {
+    "name": "shucking-glove",
+    "category": "hospitality",
+    "draw": "Glove made of fine chain mail rings holding a closed oyster shell."
+  }
+]

@@ -1,0 +1,314 @@
+[
+ {
+  "name": "humidity-limit-symbol",
+  "category": "notation",
+  "draw": "Handling mark: an umbrella over a small water drop with a percent sign.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "protect-from-light",
+  "category": "notation",
+  "draw": "Handling mark: a box covered by a roof shape with a sun and rays above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "handle-with-care",
+  "category": "notation",
+  "draw": "Handling mark: a pair of open hands cupped under a box.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "open-here",
+  "category": "notation",
+  "draw": "Packaging mark: a box with a pull tab strip and an arrow tearing along its edge.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tear-notch",
+  "category": "notation",
+  "draw": "Packaging mark: a pouch edge with a small V notch and a dashed tear line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "period-after-opening",
+  "category": "notation",
+  "draw": "Cosmetics mark: an open jar with its lid tilted off and 12M written on the jar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "keep-refrigerated",
+  "category": "notation",
+  "draw": "Packaging mark: a box beside a small thermometer with a snowflake.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tamper-evident-seal",
+  "category": "notation",
+  "draw": "Packaging mark: a jar lid with a band strip showing a torn seal line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "child-resistant-cap",
+  "category": "notation",
+  "draw": "Packaging mark: a bottle cap with a downward arrow and a curved turn arrow, push and turn.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "small-parts-warning",
+  "category": "notation",
+  "draw": "Toy warning: a circle with a baby face and 0 to 3 age text, crossed by a slash.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "plastic-bag-suffocation-warning",
+  "category": "notation",
+  "draw": "Packaging warning: a plastic bag with a small child's head inside it crossed out.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "keep-out-of-reach-of-children",
+  "category": "notation",
+  "draw": "Packaging warning: a high shelf with a bottle on it and a small child reaching up from below.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "stovetop-safe",
+  "category": "notation",
+  "draw": "Cookware mark: a pan resting on a stove burner with flame lines below.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hand-wash-dishes-only",
+  "category": "notation",
+  "draw": "Cookware mark: a hand holding a plate under a falling water drop.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "recyclable-carton",
+  "category": "notation",
+  "draw": "Recycling mark: a drink carton inside a loop of chasing arrows.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "litter-bin-symbol",
+  "category": "notation",
+  "draw": "Dispose tidily mark: a figure dropping a piece of litter into a bin.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "recycled-content",
+  "category": "notation",
+  "draw": "Recycled content mark: a solid circle containing a white chasing arrows loop.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "refillable-symbol",
+  "category": "notation",
+  "draw": "Refill mark: a bottle with a circular arrow and a small plus drop at its neck.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sharps-disposal",
+  "category": "notation",
+  "draw": "Waste sorting mark: a square box with a syringe inserted into its slotted lid.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "oil-recycling",
+  "category": "notation",
+  "draw": "Recycling mark: a single oil drop inside a circle of chasing arrows.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "austral-sign",
+  "category": "notation",
+  "draw": "Austral sign: a capital A crossed by two horizontal bars through its legs.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "degrees-minutes-seconds",
+  "category": "notation",
+  "draw": "Angle in degrees, minutes and seconds: a number with a small degree ring, a single prime and a double prime.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "power-set-symbol",
+  "category": "notation",
+  "draw": "Weierstrass p power set sign: a script lowercase p with a looped descender that curls back up.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "laplace-transform",
+  "category": "notation",
+  "draw": "Laplace transform sign: a flowing script capital L with a looped top and a curled foot.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "nabla",
+  "category": "notation",
+  "draw": "Nabla del operator: an upside down triangle outline, used for gradient, with a small f to its right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cycloid",
+  "category": "notation",
+  "draw": "Cycloid: a circle rolling along a flat line leaving a trail of repeated arches behind it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "lissajous-curve",
+  "category": "notation",
+  "draw": "Lissajous curve: a smooth closed looping line crossing itself to form a knotted figure of eight pattern.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "rose-curve",
+  "category": "notation",
+  "draw": "Rose curve: a four petal flower traced by one continuous polar curve crossing at the centre.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "catenary",
+  "category": "notation",
+  "draw": "Catenary: a chain hanging in a smooth U curve between the tops of two short posts.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hilbert-curve",
+  "category": "notation",
+  "draw": "Hilbert curve: a single continuous line folding into a square maze of right angle turns.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "voronoi-diagram",
+  "category": "notation",
+  "draw": "Voronoi diagram: a square split into irregular polygon cells, each with one dot inside.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "optical-radiation-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a small sun like circle and bold rays radiating out from it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "lightning-strike-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure and a lightning bolt striking down from a small cloud.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fragile-roof-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a figure breaking through a cracked roof sheet below its feet.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "door-finger-trap-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a hand whose fingers are caught in the hinge gap of a door edge.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "robot-arm-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a jointed industrial robot arm swinging toward a small figure.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "high-pressure-jet-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a nozzle spraying a straight jet of liquid onto a hand.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "radio-frequency-hazard",
+  "category": "notation",
+  "draw": "Warning triangle with a small mast antenna emitting curved radio waves on both sides.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wear-face-mask-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a head wearing a pleated face mask over nose and mouth.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "use-hand-sanitizer-sign",
+  "category": "notation",
+  "draw": "Mandatory sign: a circle with a pump bottle dispensing a drop onto an open palm.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "shake-well",
+  "category": "notation",
+  "draw": "Packaging mark: an upright bottle with curved motion lines on both sides showing shaking.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "peel-here",
+  "category": "notation",
+  "draw": "Packaging mark: a film lid with one corner curling back and a small arrow showing where to peel.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "resealable-pack",
+  "category": "notation",
+  "draw": "Packaging mark: a pouch with a zip seal track across its top and a small closing arrow.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "pierce-film-lid",
+  "category": "notation",
+  "draw": "Packaging mark: a tray covered by film with a fork piercing small holes in it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "manufacturer-symbol",
+  "category": "notation",
+  "draw": "Medical device manufacturer symbol: a solid factory outline with a sawtooth roof and a chimney.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "lot-number-symbol",
+  "category": "notation",
+  "draw": "Batch code symbol: the letters LOT inside a small rectangle.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "single-use-symbol",
+  "category": "notation",
+  "draw": "Do not reuse symbol: a numeral 2 inside a circle crossed by a diagonal slash.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sterile-symbol",
+  "category": "notation",
+  "draw": "Sterile symbol: the word STERILE inside a rectangle with a small divider on the left.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "pattern-blocks",
+  "category": "notation",
+  "draw": "Pattern blocks: a hexagon, a trapezoid, a rhombus and a triangle fitted together into a larger hexagon.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fraction-strips",
+  "category": "notation",
+  "draw": "Fraction strips: stacked bars of equal length split into one whole, two halves and three thirds.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "multiplication-array",
+  "category": "notation",
+  "draw": "Multiplication array: a grid of dots arranged in three rows of four for counting a times table.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "bar-model",
+  "category": "notation",
+  "draw": "Bar model: a long bar split into labelled parts with a bracket above showing the total.",
+  "domain": "symbols-and-notation"
+ }
+]

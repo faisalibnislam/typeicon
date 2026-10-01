@@ -1,0 +1,24 @@
+{
+  "name": "@typeicon/scripts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Generator and verification scripts for the TypeIcon developer packages.",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs",
+    "verify": "node verify.mjs"
+  },
+  "devDependencies": {
+    "@typeicon/catalog": "workspace:*",
+    "@typeicon/icons-svg": "workspace:*",
+    "@typeicon/icons-webfont": "workspace:*",
+    "@typeicon/react": "workspace:*",
+    "@typeicon/vue": "workspace:*",
+    "@vue/server-renderer": "3.5.43",
+    "esbuild": "0.28.2",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "typescript": "5.9.3",
+    "vue": "3.5.43"
+  }
+}

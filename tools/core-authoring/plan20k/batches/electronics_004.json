@@ -1,0 +1,122 @@
+[
+ {
+  "name": "wire-wrap-tool",
+  "category": "electronics",
+  "draw": "Pen shaped tool with a thin hollow tip wrapping wire around a square post.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "din-rail-power-supply",
+  "category": "electronics",
+  "draw": "Narrow box clipped to a rail with vents and screw terminals.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "solar-charge-controller",
+  "category": "electronics",
+  "draw": "Box with a small display and icons of a solar panel, battery and bulb.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "power-distribution-unit",
+  "category": "electronics",
+  "draw": "Long rack mounted strip with a row of sockets and mounting ears.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "battery-balancer",
+  "category": "electronics",
+  "draw": "Small board with several wires leading to a row of cell connectors.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "short-circuit",
+  "category": "electronics",
+  "draw": "Two wires touching with a spark burst at the contact point.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "open-circuit",
+  "category": "electronics",
+  "draw": "Circuit loop with a gap in one wire and the ends apart.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "arc-flash",
+  "category": "electronics",
+  "draw": "Electrical panel with a bright jagged arc and a warning triangle.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pn-junction",
+  "category": "electronics",
+  "draw": "Rectangle split into P and N halves with small plus and minus charges on each side.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "wheatstone-bridge",
+  "category": "electronics",
+  "draw": "Diamond of four resistors with a meter across the middle.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "voltage-divider",
+  "category": "electronics",
+  "draw": "Two stacked resistors in series with an output tap between them.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "h-bridge",
+  "category": "electronics",
+  "draw": "H shaped circuit of four switches with a motor circle in the crossbar.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "farad-unit",
+  "category": "electronics",
+  "draw": "Capital F beside a small capacitor plate symbol.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "electron-flow",
+  "category": "electronics",
+  "draw": "Wire with small minus charged dots moving along it with arrows.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pinout-diagram",
+  "category": "electronics",
+  "draw": "Chip outline with numbered labels beside each pin.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "dipole-antenna",
+  "category": "electronics",
+  "draw": "Two straight rods extending in opposite directions from a central feed point on a mast.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "helical-antenna",
+  "category": "electronics",
+  "draw": "Wire wound in a spiral coil standing on a round flat plate.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "ferrite-rod-antenna",
+  "category": "electronics",
+  "draw": "Short dark rod with a coil of wire wound around its middle and two leads.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "waveguide",
+  "category": "electronics",
+  "draw": "Hollow rectangular metal tube bent through a right angle with flanges at both ends.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "crystal-earpiece",
+  "category": "electronics",
+  "draw": "Small round earpiece with a long thin cord.",
+  "domain": "r2-electronics-components"
+ }
+]

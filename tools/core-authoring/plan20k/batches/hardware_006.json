@@ -1,0 +1,482 @@
+[
+ {
+  "name": "post-hole-digger",
+  "category": "hardware",
+  "draw": "Two long handles joined at a hinge with curved clamshell blades at the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "earth-auger",
+  "category": "hardware",
+  "draw": "Engine powerhead with two side handles and a long spiral bit below.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "backhoe-loader",
+  "category": "hardware",
+  "draw": "Wheeled tractor with a front loader bucket and a jointed digging arm at the back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wheel-loader",
+  "category": "hardware",
+  "draw": "Large four wheeled machine with a raised wide front bucket on two lift arms.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "skid-steer",
+  "category": "hardware",
+  "draw": "Compact box shaped machine with a cage cab and a front bucket on side arms.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "dump-truck",
+  "category": "hardware",
+  "draw": "Truck in side view with a large tipping bed raised at the back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "articulated-dump-truck",
+  "category": "hardware",
+  "draw": "Off road truck with a separate cab and tipping body joined by a pivot, big tyres.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "road-roller",
+  "category": "hardware",
+  "draw": "Machine with a big smooth drum roller at the front and a small cab on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "motor-grader",
+  "category": "hardware",
+  "draw": "Long machine with a cab at the back, a long frame and a blade slung under the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "asphalt-paver",
+  "category": "hardware",
+  "draw": "Low tracked machine with a hopper at the front and a wide screed at the back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "scissor-lift",
+  "category": "hardware",
+  "draw": "Platform with rails raised on a crisscross X frame on a wheeled base.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "boom-lift",
+  "category": "hardware",
+  "draw": "Wheeled base with a long angled boom arm ending in a small railed basket.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "telehandler",
+  "category": "hardware",
+  "draw": "Four wheeled machine with a long telescopic boom and forks on the front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "trencher",
+  "category": "hardware",
+  "draw": "Tracked machine with a long angled digging chain boom behind it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pile-driver",
+  "category": "hardware",
+  "draw": "Tall vertical mast on a tracked base with a hammer dropping onto a pile.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "concrete-pump-truck",
+  "category": "hardware",
+  "draw": "Truck with a long folded jointed boom arm along its top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cement-truck",
+  "category": "hardware",
+  "draw": "Truck with a large rotating tilted drum with spiral fins on its back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mobile-crane",
+  "category": "hardware",
+  "draw": "Truck with outriggers and a long telescopic boom angled upward, a hook hanging.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "crawler-crane",
+  "category": "hardware",
+  "draw": "Tracked base with a cab and a tall lattice boom with a hanging hook.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mini-excavator",
+  "category": "hardware",
+  "draw": "Small tracked digger with a short arm and bucket and an open canopy cab.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wrecking-ball",
+  "category": "hardware",
+  "draw": "Heavy ball hanging from a chain on a crane arm, swinging toward a wall.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "chain-hoist",
+  "category": "hardware",
+  "draw": "Hoist body hanging from a top hook with a loop of hand chain and a lower hook.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "winch",
+  "category": "hardware",
+  "draw": "Drum of cable on a frame with a hand crank and a hook on the cable end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bottle-jack",
+  "category": "hardware",
+  "draw": "Short upright cylinder jack with a lift saddle on top and a pump socket on the side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "floor-jack",
+  "category": "hardware",
+  "draw": "Low long jack on wheels with a lifting arm and a long handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "scissor-jack",
+  "category": "hardware",
+  "draw": "Diamond shaped jack with a screw rod running horizontally through its middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "jack-stand",
+  "category": "hardware",
+  "draw": "Tripod shaped stand with a notched centre post and a saddle top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "engine-hoist",
+  "category": "hardware",
+  "draw": "Folding crane on wheels with a long boom arm, a hydraulic ram and a chain hook.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "stack-light",
+  "category": "hardware",
+  "draw": "Beacon light stacked in coloured segments on a pole.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "road-sweeper",
+  "category": "hardware",
+  "draw": "Compact vehicle with a round rotating brush at the front corner.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "water-truck",
+  "category": "hardware",
+  "draw": "Tank truck with spray nozzles at the back spraying water.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "compact-track-loader",
+  "category": "hardware",
+  "draw": "Small machine on rubber tracks with a front bucket, cab in the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tunnel-boring-machine",
+  "category": "hardware",
+  "draw": "Front view of a big round cutting wheel with spokes and cutter teeth.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drilling-rig",
+  "category": "hardware",
+  "draw": "Tall lattice derrick tower on a platform with a drill pipe going down.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "traffic-barrel",
+  "category": "hardware",
+  "draw": "Tall drum barrel with horizontal reflective stripes and a wider base ring.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "jersey-barrier",
+  "category": "hardware",
+  "draw": "Long concrete road barrier with a wide sloped base and narrow top, end view.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "road-barricade",
+  "category": "hardware",
+  "draw": "Horizontal striped board on two A frame legs.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "caution-tape",
+  "category": "hardware",
+  "draw": "Wavy ribbon with diagonal stripes stretched between two posts.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "road-work-sign",
+  "category": "hardware",
+  "draw": "Triangle sign with a figure digging with a shovel next to a mound.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "stop-slow-paddle",
+  "category": "hardware",
+  "draw": "Octagon sign on a short pole handle, the flagger paddle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "construction-fence",
+  "category": "hardware",
+  "draw": "Temporary mesh fence panel on block feet with a clamp between panels.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "dumpster",
+  "category": "hardware",
+  "draw": "Open topped trapezoid waste container with lifting lugs on its sides.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "site-office-trailer",
+  "category": "hardware",
+  "draw": "Long box cabin on blocks with a door, steps and small windows.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "warning-beacon",
+  "category": "hardware",
+  "draw": "Round flashing light dome on a small base with rays around it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sandbag-wall",
+  "category": "hardware",
+  "draw": "Stack of sandbags laid in offset rows.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "site-hoarding",
+  "category": "hardware",
+  "draw": "Tall solid wooden panel wall with a door and posts.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "safety-net",
+  "category": "hardware",
+  "draw": "Rectangular net with a grid of squares hanging between two poles.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "debris-chute",
+  "category": "hardware",
+  "draw": "Chain of stacked funnel tubes running down the side of a building into a skip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tarp",
+  "category": "hardware",
+  "draw": "Flat rectangular sheet with grommet holes at the corners, one corner folded.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ratchet-strap",
+  "category": "hardware",
+  "draw": "Strap with a ratchet buckle in the middle and hooks on both ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bungee-cord",
+  "category": "hardware",
+  "draw": "Stretchy coiled cord with a hook on each end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "fuel-jerry-can",
+  "category": "hardware",
+  "draw": "Rectangular can with a triple handle on top, an X embossed side and a spout.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "first-aid-cabinet",
+  "category": "hardware",
+  "draw": "Wall mounted cabinet with a cross on the front and an eyewash bottle next to it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "muster-point",
+  "category": "hardware",
+  "draw": "Sign with four arrows pointing inward to a group of people figures.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "blueprint-table",
+  "category": "hardware",
+  "draw": "Tilted drafting table with a rolled out blueprint on it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "building-permit",
+  "category": "hardware",
+  "draw": "Document with a house symbol at the top and a round stamp at the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "demolition-site",
+  "category": "hardware",
+  "draw": "Partly broken building with a jagged top and falling debris.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "excavation-pit",
+  "category": "hardware",
+  "draw": "Rectangular hole in the ground shown in cross section with a ladder inside.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "foundation-footing",
+  "category": "hardware",
+  "draw": "Cross section of an inverted T shaped concrete footing under a wall.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "safety-goggles",
+  "category": "hardware",
+  "draw": "Wide single lens goggles with vents on the sides and an elastic strap.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "safety-glasses",
+  "category": "hardware",
+  "draw": "Wraparound glasses with side shields and a single curved lens.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ear-muffs-safety",
+  "category": "hardware",
+  "draw": "Two large round ear cups joined by a padded headband arching over them.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "respirator-mask",
+  "category": "hardware",
+  "draw": "Half face mask with two round filter cartridges on the sides.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "face-shield",
+  "category": "hardware",
+  "draw": "Clear curved visor hanging from a headband.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hi-vis-vest",
+  "category": "hardware",
+  "draw": "Sleeveless vest with two horizontal reflective bands and a front zip line.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "safety-harness",
+  "category": "hardware",
+  "draw": "Full body harness with shoulder straps, leg loops and a D ring at the back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "lanyard-hook",
+  "category": "hardware",
+  "draw": "Short webbing lanyard with a large snap hook on each end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "knee-pads",
+  "category": "hardware",
+  "draw": "Two padded knee cups with straps.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "steel-toe-boot",
+  "category": "hardware",
+  "draw": "Work boot in side view with a thick sole and a visible toe cap outline.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hard-hat-headlamp",
+  "category": "hardware",
+  "draw": "Hard hat with a small lamp on the front and light rays coming out.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "eyewash-station",
+  "category": "hardware",
+  "draw": "Two spray nozzles over a small bowl with a push plate, water arcs up.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "lockout-tag",
+  "category": "hardware",
+  "draw": "Padlock hanging through a hasp with a large tag attached.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "fall-arrest-block",
+  "category": "hardware",
+  "draw": "Round self retracting lifeline housing with a cable and hook coming out below.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cut-resistant-glove",
+  "category": "hardware",
+  "draw": "Glove with a knit pattern and a blade that bounces off it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "welding-gloves",
+  "category": "hardware",
+  "draw": "Long cuffed gauntlet glove with a thick stitched palm.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "welding-apron",
+  "category": "hardware",
+  "draw": "Heavy full length apron with neck strap and waist ties, shown flat.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "safety-shower",
+  "category": "hardware",
+  "draw": "Overhead shower head on a pipe with a pull ring hanging down.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ppe-kit",
+  "category": "hardware",
+  "draw": "Hard hat, goggles and gloves grouped together.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "fire-extinguisher",
+  "category": "hardware",
+  "draw": "Cylinder with a squeeze handle, a pressure gauge and a hose.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "fire-hose-reel",
+  "category": "hardware",
+  "draw": "Wall mounted round reel with a coiled flat hose and a nozzle.",
+  "domain": "tools-hardware-construction"
+ }
+]

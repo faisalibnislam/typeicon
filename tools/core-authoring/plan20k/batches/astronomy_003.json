@@ -1,0 +1,422 @@
+[
+ {
+  "name": "blue-moon",
+  "category": "astronomy",
+  "draw": "Full moon disk with a small calendar page showing two circles.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "lunar-maria",
+  "category": "astronomy",
+  "draw": "Moon disk with several large dark smooth patches.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "far-side-of-moon",
+  "category": "astronomy",
+  "draw": "Moon disk heavily cratered with an arrow curving around its back.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "orbital-sunrise",
+  "category": "astronomy",
+  "draw": "Curved Earth limb with a bright star burst of sun peeking over it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cosmic-calendar",
+  "category": "astronomy",
+  "draw": "Calendar page with a tiny galaxy on the first day and a person on the last.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "universe-timeline",
+  "category": "astronomy",
+  "draw": "Horizontal widening funnel with a bang at the left and galaxies at the right.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "geocentric-model",
+  "category": "astronomy",
+  "draw": "Earth in the center with sun and planets on nested circles around it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "heliocentric-model",
+  "category": "astronomy",
+  "draw": "Sun in the center with planets on nested circle orbits around it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "epicycle",
+  "category": "astronomy",
+  "draw": "Large circle with a small looping circle riding on its rim.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "astronomy-book",
+  "category": "astronomy",
+  "draw": "Closed book with a crescent moon and star on its cover.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rocket-launch-viewing",
+  "category": "astronomy",
+  "draw": "Small figures on a hill watching a rocket rise with a smoke trail.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-museum",
+  "category": "astronomy",
+  "draw": "Museum building with columns and a rocket standing beside it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "light-speed",
+  "category": "astronomy",
+  "draw": "Beam line with a small c label and a clock showing a tiny time.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "astronomical-unit",
+  "category": "astronomy",
+  "draw": "Sun and Earth with a double headed arrow measuring the gap.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cosmic-distance-ladder",
+  "category": "astronomy",
+  "draw": "Ladder with rungs labeled by planet, star and galaxy icons.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "big-crunch",
+  "category": "astronomy",
+  "draw": "Many galaxies collapsing inward on arrows to a single point.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "solar-cycle",
+  "category": "astronomy",
+  "draw": "Sun with a wave curve under it rising and falling over years.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "solar-granulation",
+  "category": "astronomy",
+  "draw": "Circle filled with irregular cell pattern like honeycomb.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "contact-binary-asteroid",
+  "category": "astronomy",
+  "draw": "Peanut shaped asteroid made of two rounded lobes joined at a narrow neck.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "binary-sunset",
+  "category": "astronomy",
+  "draw": "Two suns of different sizes setting side by side over a line of dunes.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "telescope-hand-controller",
+  "category": "astronomy",
+  "draw": "Handheld keypad with arrow buttons and a small screen on a coiled cord.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "pinhole-eclipse-viewer",
+  "category": "astronomy",
+  "draw": "Box with a pinhole on one end projecting a small crescent sun onto the inside back.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "moon-globe",
+  "category": "astronomy",
+  "draw": "Round globe on a stand covered in craters and dark patches instead of continents.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "mass-driver",
+  "category": "astronomy",
+  "draw": "Long straight rail track on cratered ground launching a small pod upward.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "g-force",
+  "category": "astronomy",
+  "draw": "Seated figure pressed back into a chair with bold arrows pushing down on it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "planet-size-comparison",
+  "category": "astronomy",
+  "draw": "Row of planet circles of very different sizes lined up on a baseline.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "celestial-navigation",
+  "category": "astronomy",
+  "draw": "Small sailboat on waves with a bright star above and a dashed sight line.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "meteor-airburst",
+  "category": "astronomy",
+  "draw": "Meteor exploding in a flash high above a flat horizon with a shock ring.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "edge-of-space",
+  "category": "astronomy",
+  "draw": "Earth curve with a dashed boundary line above it, a plane below and a satellite above.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "pressurized-rover",
+  "category": "astronomy",
+  "draw": "Boxy rover with a rounded cabin, front windows and six wheels.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "mars-ascent-rocket",
+  "category": "astronomy",
+  "draw": "Small rocket lifting off from a lander platform on rocky ground.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "debris-removal-net",
+  "category": "astronomy",
+  "draw": "Small spacecraft casting a net around a tumbling broken satellite piece.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "escape-pod",
+  "category": "astronomy",
+  "draw": "Small rounded pod with a single window and thruster flame leaving a larger ship.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "fixed-dish-radio-telescope",
+  "category": "astronomy",
+  "draw": "Huge dish set into a valley bowl with a platform hung over it on cables.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "roll-off-roof-observatory",
+  "category": "astronomy",
+  "draw": "Small shed with its flat roof slid back on rails and a telescope inside.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "nuclear-thermal-rocket",
+  "category": "astronomy",
+  "draw": "Rocket stage with a round reactor core above its nozzle and a radiation mark.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cargo-spacecraft",
+  "category": "astronomy",
+  "draw": "Cylinder supply ship with two solar panel wings and a docking ring at the front.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cardboard-rocket",
+  "category": "astronomy",
+  "draw": "Cardboard box rocket with a cone hat top, drawn window and taped fins.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "astronaut-costume",
+  "category": "astronomy",
+  "draw": "Child in a puffy suit with a round helmet held under one arm.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rocket-slide",
+  "category": "astronomy",
+  "draw": "Playground rocket tower with a round window and a curving slide out its side.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "satellite-train",
+  "category": "astronomy",
+  "draw": "Line of evenly spaced bright dots crossing a night sky in a straight row.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "starshade",
+  "category": "astronomy",
+  "draw": "Flower shaped disk with long petals floating in front of a small telescope.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "solar-probe",
+  "category": "astronomy",
+  "draw": "Small probe hiding behind a flat round heat shield facing a close sun.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "moon-phase-watch",
+  "category": "astronomy",
+  "draw": "Round watch face with an arched window showing a moon disk and stars.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "telescope-mirror",
+  "category": "astronomy",
+  "draw": "Thick round concave mirror disk with a curved reflection highlight.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "orbit-insertion",
+  "category": "astronomy",
+  "draw": "Curved arrival path bending into a circle around a planet with an engine flame.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "aerobraking",
+  "category": "astronomy",
+  "draw": "Spacecraft skimming through a planet's thin atmosphere band on a curved path.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "lunar-hop",
+  "category": "astronomy",
+  "draw": "Suited figure mid leap above cratered ground with small dust puffs.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "comet-orbit",
+  "category": "astronomy",
+  "draw": "Long thin ellipse around a sun with a comet whose tail points away from it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "fragmented-comet",
+  "category": "astronomy",
+  "draw": "Row of several small comet pieces in a line, each with a short tail.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "planet-collision",
+  "category": "astronomy",
+  "draw": "Two planets smashing together with a burst of debris flying outward.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "thrust-vectoring",
+  "category": "astronomy",
+  "draw": "Rocket nozzle tilted to one side with an angle arc and flame.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "shock-diamonds",
+  "category": "astronomy",
+  "draw": "Rocket nozzle with a long flame showing a chain of diamond shapes.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "northern-crown-constellation",
+  "category": "astronomy",
+  "draw": "Seven stars arranged in a gentle semicircle arc like a crown.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "teapot-asterism",
+  "category": "astronomy",
+  "draw": "Eight stars joined into the outline of a teapot with a spout and handle.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "great-square-asterism",
+  "category": "astronomy",
+  "draw": "Four bright stars joined in a large square with a few faint stars inside.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "draco-constellation",
+  "category": "astronomy",
+  "draw": "Long winding chain of stars snaking between a small quadrilateral head.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cepheus-constellation",
+  "category": "astronomy",
+  "draw": "Five stars joined into a simple house outline with a pointed roof.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "winter-hexagon",
+  "category": "astronomy",
+  "draw": "Six bright stars joined into a large hexagon with one star in the middle.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "lunar-ascent-stage",
+  "category": "astronomy",
+  "draw": "Top half of a lander lifting off on a flame, leaving its legged base behind.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "sun-viewing-warning",
+  "category": "astronomy",
+  "draw": "Eye with a bright sun above it and a bold diagonal slash through them.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "eclipse-path",
+  "category": "astronomy",
+  "draw": "Globe with a narrow dark band sweeping across its surface under a moon disk.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "mountain-observatory",
+  "category": "astronomy",
+  "draw": "Several white domes perched on a mountain peak under a few stars.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "airborne-observatory",
+  "category": "astronomy",
+  "draw": "Large jet plane with an open door near its tail showing a telescope.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "earth-at-night",
+  "category": "astronomy",
+  "draw": "Dark globe with scattered clusters of tiny light dots on its continents.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "fast-radio-burst",
+  "category": "astronomy",
+  "draw": "Radio dish receiving a single sharp spike pulse line from deep space.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "polar-alignment",
+  "category": "astronomy",
+  "draw": "Telescope mount axis with a dashed line pointing to one bright star.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "moonquake",
+  "category": "astronomy",
+  "draw": "Moon disk with jagged seismograph zigzag lines across its lower half.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-meal-tray",
+  "category": "astronomy",
+  "draw": "Tray with food packets held by straps and a spoon clipped at the side.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "comet-lander",
+  "category": "astronomy",
+  "draw": "Small box lander on three legs perched on a lumpy icy comet with a harpoon line.",
+  "domain": "r2-space-astronomy"
+ }
+]

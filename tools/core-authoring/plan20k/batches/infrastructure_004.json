@@ -1,0 +1,482 @@
+[
+ {
+  "name": "pedestrian-guardrail",
+  "category": "infrastructure",
+  "draw": "A low metal railing of vertical bars along a pavement edge.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "speed-cushion",
+  "category": "infrastructure",
+  "draw": "Top view of a lane with a square raised pad in the middle and gaps at the sides.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "chicane",
+  "category": "infrastructure",
+  "draw": "Top view of a road with offset kerb build outs forcing the lane to weave.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "gritting-bin",
+  "category": "infrastructure",
+  "draw": "A squat yellow box with a sloping lid and a shovel leaning on it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "weigh-station",
+  "category": "infrastructure",
+  "draw": "A truck standing on a flat scale platform with a small readout booth.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "toll-gantry",
+  "category": "infrastructure",
+  "draw": "An overhead frame across a highway with small readers and cameras pointing down.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "toll-tag",
+  "category": "infrastructure",
+  "draw": "A small rectangular transponder stuck to a windscreen with signal waves.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "toll-ticket",
+  "category": "infrastructure",
+  "draw": "A small ticket with a road symbol, entry number and a barcode strip.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "border-crossing",
+  "category": "infrastructure",
+  "draw": "A boundary line on the ground with a striped post on each side and a barrier between them.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "customs-declaration",
+  "category": "infrastructure",
+  "draw": "A form with a small suitcase icon at the top and ruled lines below.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "duty-free",
+  "category": "infrastructure",
+  "draw": "A shopping bag with a small aeroplane on its front.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "road-works-light",
+  "category": "infrastructure",
+  "draw": "A portable traffic light on a wheeled base with a battery box.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "crash-cushion",
+  "category": "infrastructure",
+  "draw": "A stack of barrels bunched in front of a barrier end with a striped face.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "water-filled-barrier",
+  "category": "infrastructure",
+  "draw": "A hollow plastic barrier block with a fill cap on top and interlocking ends.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "road-plate",
+  "category": "infrastructure",
+  "draw": "A flat steel plate lying over a trench in the road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tunnel-fan",
+  "category": "infrastructure",
+  "draw": "A large round jet fan hanging under a tunnel ceiling.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "platform-screen-doors",
+  "category": "infrastructure",
+  "draw": "A glass wall along a platform edge with sliding doors in it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "moving-walkway",
+  "category": "infrastructure",
+  "draw": "A flat conveyor walkway with handrails and a figure standing on it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "funicular",
+  "category": "infrastructure",
+  "draw": "A cable car tilted on a steep track going up a hillside.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "chairlift",
+  "category": "infrastructure",
+  "draw": "Two seat chair hanging from a cable on a single arm, with a safety bar.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "cargo-terminal",
+  "category": "infrastructure",
+  "draw": "A wide building with loading docks and a crate on a forklift in front.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "loading-dock",
+  "category": "infrastructure",
+  "draw": "A raised concrete dock with a roll up door and a truck backed up to it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "intermodal-hub",
+  "category": "infrastructure",
+  "draw": "A crane lifting a container from a train wagon onto a truck.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "marina-berth",
+  "category": "infrastructure",
+  "draw": "Top view of a floating dock with finger piers and small boats in the slips.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "boat-lift",
+  "category": "infrastructure",
+  "draw": "Two slings hanging from a wheeled frame lifting a boat out of water.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "life-ring",
+  "category": "infrastructure",
+  "draw": "A round ring buoy with four stripes and a rope looped around it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-motorcycles-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a motorcycle side view inside a ring.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-hazmat-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a truck carrying a small flame symbol inside a ring.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "end-of-restrictions-sign",
+  "category": "infrastructure",
+  "draw": "A round white sign crossed by several thin diagonal stripes.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "snow-chains-sign",
+  "category": "infrastructure",
+  "draw": "A round blue sign with a tire wrapped in a zigzag chain.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "headlights-on-sign",
+  "category": "infrastructure",
+  "draw": "A round blue sign with a headlamp shape and straight light beams.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "kangaroo-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A diamond warning sign with a hopping kangaroo in side view.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "camel-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a one humped camel in side view.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "duck-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a mother duck followed by two ducklings.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bear-warning-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a walking bear in side view.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "flooded-road-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a car half submerged in wavy water.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "fog-warning-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with three horizontal wavy lines over a road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "accident-ahead-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with two cars colliding at an angle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "truck-rollover-sign",
+  "category": "infrastructure",
+  "draw": "A diamond warning sign with a truck tilting over on a curved arrow.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "priority-over-oncoming-sign",
+  "category": "infrastructure",
+  "draw": "A square sign with a large up arrow and a small down arrow beside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "home-zone-sign",
+  "category": "infrastructure",
+  "draw": "A rectangular sign with a house, a car and a child playing with a ball.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "humpback-bridge-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a sharply arched hump shaped road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "traffic-signal-cabinet",
+  "category": "infrastructure",
+  "draw": "A metal cabinet on the pavement with double doors and a vent grille, beside a signal pole.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "traffic-mirror",
+  "category": "infrastructure",
+  "draw": "A round convex mirror on a tall pole with a striped rim.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "high-mast-light",
+  "category": "infrastructure",
+  "draw": "A very tall thin pole topped by a ring of several lamps.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "sidewalk",
+  "category": "infrastructure",
+  "draw": "A raised pavement strip with paving joints and a kerb edge beside a road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "alleyway",
+  "category": "infrastructure",
+  "draw": "A narrow lane between two tall walls receding into the distance.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "street-grid",
+  "category": "infrastructure",
+  "draw": "Top view of a grid of streets forming square city blocks.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ticket-office",
+  "category": "infrastructure",
+  "draw": "A small window with a round speaking hole and a counter, a ticket sign above.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "aircraft-de-icing",
+  "category": "infrastructure",
+  "draw": "An aircraft wing with a spray nozzle arm showering fluid over it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "aircraft-marshaller",
+  "category": "infrastructure",
+  "draw": "A standing figure holding two lit wands raised in a V.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tide-gauge",
+  "category": "infrastructure",
+  "draw": "A tall measuring post with tick marks standing in wavy water.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ship-lift",
+  "category": "infrastructure",
+  "draw": "A water filled trough with a boat inside, raised on a frame beside a canal.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "dock-fender",
+  "category": "infrastructure",
+  "draw": "A tire hung by chains against a quay wall.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "height-barrier",
+  "category": "infrastructure",
+  "draw": "A horizontal bar hanging on two posts over a road with a height number on it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "car-parking-lift",
+  "category": "infrastructure",
+  "draw": "A two level steel frame with one car raised on the top platform above another.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "wheel-stop",
+  "category": "infrastructure",
+  "draw": "A low concrete block on the ground with a car wheel touching it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "fuel-filler-cap",
+  "category": "infrastructure",
+  "draw": "A small car side flap opened to show a round fuel cap.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "car-charging-port",
+  "category": "infrastructure",
+  "draw": "The side of a car with an open flap showing a round socket and a lightning bolt.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "type-2-connector",
+  "category": "infrastructure",
+  "draw": "Front view of a round plug face with a flat top edge and seven pin holes.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ccs-connector",
+  "category": "infrastructure",
+  "draw": "Front view of a plug with a round upper face of pins above two large round pins.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "solar-carport",
+  "category": "infrastructure",
+  "draw": "A car parked under a slanted canopy covered with solar panels.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "car-vacuum-station",
+  "category": "infrastructure",
+  "draw": "A post with a large hose and wide nozzle hanging from a hook beside a car.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "rideshare-pickup",
+  "category": "infrastructure",
+  "draw": "A map pin with a small car front inside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ferry-route",
+  "category": "infrastructure",
+  "draw": "Two small piers on either side of water joined by a dotted curved line with a boat.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "help-point",
+  "category": "infrastructure",
+  "draw": "A tall pillar with a round button, a speaker grille and a question mark.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "road-salt-dome",
+  "category": "infrastructure",
+  "draw": "A dome shaped storage shed with an arched door and a pile of salt inside.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "moon-bridge",
+  "category": "infrastructure",
+  "draw": "A tall semicircular arched footbridge whose reflection completes a circle in the water.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "log-bridge",
+  "category": "infrastructure",
+  "draw": "A single fallen log lying across a stream from bank to bank.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "transporter-bridge",
+  "category": "infrastructure",
+  "draw": "A tall high girder between two towers with a small gondola hanging on cables near the water.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "trestle-bridge",
+  "category": "infrastructure",
+  "draw": "A railway track on a tall frame of crisscrossed wooden timbers over a valley.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "canal",
+  "category": "infrastructure",
+  "draw": "A straight waterway with parallel stone edges and a towpath on one side.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "skybridge",
+  "category": "infrastructure",
+  "draw": "An enclosed glass walkway connecting two tall buildings high above the ground.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "elevated-railway",
+  "category": "infrastructure",
+  "draw": "A train running on a track carried by a row of tall pillars above a street.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "scramble-crossing",
+  "category": "infrastructure",
+  "draw": "Top view of an intersection with crosswalk stripes on all four sides and two diagonals forming an X.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "crossing-guard-sign",
+  "category": "infrastructure",
+  "draw": "A round handheld sign on a long pole showing two walking children.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "hazmat-placard",
+  "category": "infrastructure",
+  "draw": "A diamond placard with a flame symbol in the top half and a number at the bottom.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ferry-crossing-sign",
+  "category": "infrastructure",
+  "draw": "A square sign with a ferry boat on wavy lines.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "radar-speed-sign",
+  "category": "infrastructure",
+  "draw": "A roadside display box showing large digits above the words YOUR SPEED.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "train-door-button",
+  "category": "infrastructure",
+  "draw": "A round push button with two arrows pointing apart, mounted on a door panel.",
+  "domain": "transport-infrastructure-signs"
+ }
+]

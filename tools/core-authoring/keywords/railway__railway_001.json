@@ -1,0 +1,1468 @@
+{
+ "fishplate": {
+  "context": "Two rail ends meeting with a long plate bolted across the joint. Used for rail joint, track construction and permanent way maintenance topics.",
+  "keywords": [
+   "fish plate",
+   "rail joint",
+   "joint bar",
+   "splice bar",
+   "rail splice",
+   "bolted joint",
+   "track joint",
+   "rail connector",
+   "permanent way",
+   "track maintenance",
+   "bolt",
+   "plate",
+   "fastening",
+   "railway"
+  ]
+ },
+ "railroad-tie": {
+  "context": "A wooden sleeper with a rail standing on each end. Used for track building, rail infrastructure and sleeper replacement topics.",
+  "keywords": [
+   "sleeper",
+   "crosstie",
+   "cross tie",
+   "railway sleeper",
+   "railroad tie",
+   "wooden sleeper",
+   "timber sleeper",
+   "track bed",
+   "permanent way",
+   "infrastructure",
+   "rail support",
+   "wood beam",
+   "railway",
+   "railroad"
+  ]
+ },
+ "rail-spike": {
+  "context": "An upright iron spike with a flat hooked head and a pointed tip. Used for track fastening, rail construction and old fashioned railroading.",
+  "keywords": [
+   "spike",
+   "railroad spike",
+   "dog spike",
+   "track spike",
+   "iron nail",
+   "fastener",
+   "nail",
+   "hammer in",
+   "fasten rail",
+   "track construction",
+   "iron",
+   "steel",
+   "permanent way",
+   "railway"
+  ]
+ },
+ "rail-fastening-clip": {
+  "context": "A rail foot profile held down on a sleeper by a spring clip on each side. Used for track fixing, rail fastening systems and engineering diagrams.",
+  "keywords": [
+   "rail clip",
+   "spring clip",
+   "fastening",
+   "rail fastener",
+   "e clip",
+   "clip",
+   "hold down",
+   "track fixing",
+   "sleeper",
+   "rail foot",
+   "rail profile",
+   "cross section",
+   "track engineering",
+   "railway"
+  ]
+ },
+ "tie-plate": {
+  "context": "A flat steel plate seen from above with a rail seat in the middle and four square spike holes. Used for track components and permanent way supplies.",
+  "keywords": [
+   "base plate",
+   "sole plate",
+   "rail plate",
+   "baseplate",
+   "rail seat",
+   "spike holes",
+   "steel plate",
+   "track component",
+   "sleeper plate",
+   "permanent way",
+   "top view",
+   "hardware",
+   "railway",
+   "railroad"
+  ]
+ },
+ "track-ballast": {
+  "context": "A railway track cross section showing two rails on a sleeper above a mound of stones. Used for track bed, ballast and civil engineering topics.",
+  "keywords": [
+   "ballast",
+   "gravel",
+   "crushed stone",
+   "stones",
+   "track bed",
+   "trackbed",
+   "roadbed",
+   "embankment",
+   "sleeper",
+   "cross section",
+   "formation",
+   "permanent way",
+   "civil engineering",
+   "railway"
+  ]
+ },
+ "check-rail": {
+  "context": "A curved running rail with a short guard rail alongside its inner edge, tied with spacer blocks. Used for sharp curves and derailment protection topics.",
+  "keywords": [
+   "guard rail",
+   "safety rail",
+   "curve",
+   "curved track",
+   "sharp curve",
+   "derailment protection",
+   "inner rail",
+   "rail curve",
+   "spacer block",
+   "track safety",
+   "bend",
+   "permanent way",
+   "railway",
+   "railroad"
+  ]
+ },
+ "turnout-frog": {
+  "context": "A V shaped crossing nose where two rails meet with wing rails on both sides. Used for points, switches and track layout topics.",
+  "keywords": [
+   "frog",
+   "crossing nose",
+   "common crossing",
+   "points",
+   "switch",
+   "turnout",
+   "track layout",
+   "wing rail",
+   "v crossing",
+   "junction",
+   "diverging",
+   "permanent way",
+   "railway",
+   "railroad"
+  ]
+ },
+ "switch-point-blade": {
+  "context": "A tapered movable rail tongue beside a straight rail with an arrow showing it swing across. Used for points operation and switch maintenance.",
+  "keywords": [
+   "points",
+   "switch rail",
+   "switch blade",
+   "tongue rail",
+   "point blade",
+   "turnout",
+   "switch",
+   "movable rail",
+   "arrow",
+   "move",
+   "diverge",
+   "junction",
+   "track layout",
+   "permanent way"
+  ]
+ },
+ "diamond-crossing": {
+  "context": "Two tracks crossing each other at a shallow angle so the rails form a diamond. Used for junctions and track layout diagrams.",
+  "keywords": [
+   "track crossing",
+   "rail crossing",
+   "crossing",
+   "junction",
+   "diamond",
+   "x crossing",
+   "intersection",
+   "cross tracks",
+   "flat crossing",
+   "track layout",
+   "railway junction",
+   "permanent way",
+   "railway",
+   "railroad"
+  ]
+ },
+ "scissors-crossover": {
+  "context": "Two parallel tracks joined by two diagonal links that cross in the middle. Used for track layout and station throat diagrams.",
+  "keywords": [
+   "crossover",
+   "scissors crossing",
+   "x crossover",
+   "track layout",
+   "junction",
+   "points",
+   "switch",
+   "diagonal link",
+   "parallel tracks",
+   "station throat",
+   "interlocking",
+   "permanent way",
+   "railway",
+   "railroad"
+  ]
+ },
+ "three-way-switch": {
+  "context": "A single track splitting into left, straight and right tracks from one point. Used for yard layouts and triple points.",
+  "keywords": [
+   "three way points",
+   "triple points",
+   "three way turnout",
+   "split",
+   "junction",
+   "switch",
+   "fork",
+   "branch",
+   "yard",
+   "siding",
+   "track layout",
+   "diverge",
+   "permanent way",
+   "points"
+  ]
+ },
+ "derailer": {
+  "context": "A wedge shaped block clamped on a rail beside a post with a flag sign. Used for siding safety and yard protection.",
+  "keywords": [
+   "derail",
+   "derailing device",
+   "track safety",
+   "wheel block",
+   "wedge",
+   "siding",
+   "yard",
+   "protection",
+   "flag",
+   "stop block",
+   "rail block",
+   "safety device",
+   "permanent way",
+   "railway"
+  ]
+ },
+ "rail-expansion-joint": {
+  "context": "Two rail ends cut diagonally and overlapping side by side so they can slide with heat. Used for bridges and long welded rail topics.",
+  "keywords": [
+   "expansion joint",
+   "expansion gap",
+   "thermal expansion",
+   "breather switch",
+   "sliding joint",
+   "rail joint",
+   "heat",
+   "bridge",
+   "long welded rail",
+   "gap",
+   "slide",
+   "permanent way",
+   "railway",
+   "railroad"
+  ]
+ },
+ "third-rail": {
+  "context": "A track cross section with two running rails and a covered power rail beside them. Used for electric traction and metro power systems.",
+  "keywords": [
+   "electric rail",
+   "live rail",
+   "power rail",
+   "conductor rail",
+   "traction power",
+   "electrified",
+   "subway",
+   "metro",
+   "underground",
+   "cover board",
+   "electricity",
+   "danger",
+   "cross section",
+   "railway"
+  ]
+ },
+ "catenary-tensioner": {
+  "context": "A mast with a pulley wheel and a stack of weights hanging from a cable. Used for overhead wire tension and electrification topics.",
+  "keywords": [
+   "overhead line",
+   "overhead wire",
+   "tensioner",
+   "counterweight",
+   "weights",
+   "pulley",
+   "electrification",
+   "wire tension",
+   "mast",
+   "pole",
+   "autotension",
+   "catenary",
+   "power line",
+   "railway"
+  ]
+ },
+ "track-gauge": {
+  "context": "Two rails with a horizontal arrow measuring the distance between their inner edges. Used for gauge standards and track measurement.",
+  "keywords": [
+   "gauge",
+   "rail gauge",
+   "track width",
+   "measure",
+   "measurement",
+   "distance",
+   "standard gauge",
+   "narrow gauge",
+   "broad gauge",
+   "dimension",
+   "width",
+   "arrow",
+   "between rails",
+   "railway"
+  ]
+ },
+ "dual-gauge-track": {
+  "context": "Three rails on shared sleepers carrying both a narrow and a wide gauge. Used for mixed gauge lines and gauge changeover areas.",
+  "keywords": [
+   "mixed gauge",
+   "three rail",
+   "gauge",
+   "narrow gauge",
+   "wide gauge",
+   "standard gauge",
+   "shared sleepers",
+   "multi gauge",
+   "gauge change",
+   "top view",
+   "rails",
+   "sleepers",
+   "railway",
+   "railroad"
+  ]
+ },
+ "point-motor": {
+  "context": "A trackside box with a rod driving a switch blade. Used for remote controlled points and signalling equipment.",
+  "keywords": [
+   "switch machine",
+   "points motor",
+   "point machine",
+   "actuator",
+   "drive rod",
+   "switch actuator",
+   "signalling",
+   "interlocking",
+   "remote points",
+   "trackside equipment",
+   "turnout",
+   "motor",
+   "control",
+   "railway"
+  ]
+ },
+ "switch-stand": {
+  "context": "A ground lever beside the track with a post topped by a round target disc. Used for manual points and yard switching.",
+  "keywords": [
+   "points lever",
+   "switch lever",
+   "ground throw",
+   "target",
+   "indicator",
+   "manual points",
+   "yard",
+   "siding",
+   "turnout",
+   "switch",
+   "disc",
+   "position indicator",
+   "signal",
+   "railway"
+  ]
+ },
+ "balise": {
+  "context": "A flat beacon box fixed between the two rails on the track. Used for train control, automatic protection and positioning.",
+  "keywords": [
+   "beacon",
+   "transponder",
+   "track beacon",
+   "eurobalise",
+   "train control",
+   "atp",
+   "ertms",
+   "positioning",
+   "sensor",
+   "track sensor",
+   "signalling",
+   "between rails",
+   "data tag",
+   "railway"
+  ]
+ },
+ "axle-counter": {
+  "context": "A rail with a small sensor clamped under the head and a wheel passing above. Used for train detection and signalling.",
+  "keywords": [
+   "wheel sensor",
+   "wheel detector",
+   "train detection",
+   "train counter",
+   "sensor",
+   "signalling",
+   "track clear",
+   "occupancy",
+   "detector",
+   "counter",
+   "axle",
+   "wheel",
+   "railway",
+   "railroad"
+  ]
+ },
+ "track-circuit": {
+  "context": "Two rails joined by a battery at one end and a relay at the other. Used for train detection and signalling diagrams.",
+  "keywords": [
+   "train detection",
+   "circuit",
+   "battery",
+   "relay",
+   "electrical circuit",
+   "occupancy",
+   "block",
+   "signalling",
+   "rail circuit",
+   "detection",
+   "wires",
+   "diagram",
+   "safety",
+   "railway"
+  ]
+ },
+ "trackside-cabinet": {
+  "context": "A tall double door equipment cabinet with vents and a cable running into the ground. Used for signalling and telecom equipment by the line.",
+  "keywords": [
+   "equipment cabinet",
+   "equipment case",
+   "location case",
+   "relay room",
+   "signalling cabinet",
+   "electrical cabinet",
+   "cable duct",
+   "telecom",
+   "wayside",
+   "lineside",
+   "case",
+   "box",
+   "locker",
+   "railway"
+  ]
+ },
+ "railway-milepost": {
+  "context": "A short post with a slanted face showing a number beside the track. Used for distance markers and location references.",
+  "keywords": [
+   "mile marker",
+   "milepost",
+   "mile post",
+   "kilometre post",
+   "kilometer post",
+   "distance marker",
+   "marker",
+   "location",
+   "line reference",
+   "chainage",
+   "trackside sign",
+   "post",
+   "number",
+   "railway"
+  ]
+ },
+ "gradient-post": {
+  "context": "A trackside post with one arm sloping up and one sloping down. Used for slope and grade markers.",
+  "keywords": [
+   "slope marker",
+   "slope post",
+   "grade marker",
+   "incline",
+   "decline",
+   "uphill",
+   "downhill",
+   "gradient",
+   "level",
+   "rise",
+   "fall",
+   "trackside sign",
+   "post",
+   "arms"
+  ]
+ },
+ "speed-restriction-board": {
+  "context": "A trackside sign on a post showing a large number for a speed limit. Used for line speed and temporary restrictions.",
+  "keywords": [
+   "speed limit",
+   "speed sign",
+   "speed board",
+   "restriction",
+   "slow",
+   "line speed",
+   "temporary speed restriction",
+   "trackside sign",
+   "limit",
+   "kph",
+   "mph",
+   "number sign",
+   "warning",
+   "railway"
+  ]
+ },
+ "whistle-post": {
+  "context": "A small trackside sign on a post marked with the letter W. Used for horn signs before crossings and tunnels.",
+  "keywords": [
+   "horn sign",
+   "sound horn",
+   "whistle board",
+   "w sign",
+   "trackside sign",
+   "crossing warning",
+   "honk",
+   "warning",
+   "signal horn",
+   "locomotive horn",
+   "letter w",
+   "post",
+   "railway",
+   "railroad"
+  ]
+ },
+ "station-name-board": {
+  "context": "A long sign held between two posts with a single line of text. Used for station names and platform signage.",
+  "keywords": [
+   "station sign",
+   "name board",
+   "nameplate",
+   "platform sign",
+   "stop sign",
+   "station name",
+   "signage",
+   "platform",
+   "wayfinding",
+   "halt",
+   "stop",
+   "label",
+   "information",
+   "railway"
+  ]
+ },
+ "platform-number-sign": {
+  "context": "A square sign with a large number hanging from a canopy on two rods. Used for platform numbers and station wayfinding.",
+  "keywords": [
+   "platform sign",
+   "platform number",
+   "track number",
+   "hanging sign",
+   "canopy",
+   "station",
+   "wayfinding",
+   "number",
+   "gate",
+   "departure",
+   "signage",
+   "overhead sign",
+   "railway",
+   "railroad"
+  ]
+ },
+ "island-platform": {
+  "context": "A long narrow platform seen from above with a track on each side and a canopy line down its middle. Used for station layout and boarding diagrams.",
+  "keywords": [
+   "platform",
+   "island platform",
+   "station layout",
+   "top view",
+   "boarding",
+   "tracks",
+   "canopy",
+   "station",
+   "twin tracks",
+   "passenger",
+   "waiting area",
+   "plan view",
+   "railway",
+   "railroad"
+  ]
+ },
+ "train-boarding-ramp": {
+  "context": "A ramp running from a platform edge up to a train door. Used for step free access and boarding assistance.",
+  "keywords": [
+   "wheelchair ramp",
+   "accessible",
+   "step free",
+   "boarding",
+   "platform gap",
+   "access ramp",
+   "disability",
+   "mobility",
+   "assistance",
+   "train door",
+   "bridge plate",
+   "platform edge",
+   "accessibility",
+   "railway"
+  ]
+ },
+ "dispatch-paddle": {
+  "context": "A round signal disc on a short handle, held up to send a train off. Used for station staff and departure signals.",
+  "keywords": [
+   "lollipop",
+   "departure signal",
+   "guard signal",
+   "dispatch",
+   "go signal",
+   "station staff",
+   "conductor",
+   "hand signal",
+   "paddle",
+   "signal disc",
+   "send off",
+   "depart",
+   "platform staff",
+   "railway"
+  ]
+ },
+ "track-detonator": {
+  "context": "A small disc strapped on top of a rail with straps folded under the head. Used for emergency warning and fog signals.",
+  "keywords": [
+   "fog signal",
+   "warning charge",
+   "emergency",
+   "detonator",
+   "petard",
+   "explosive",
+   "warning",
+   "rail signal",
+   "signal",
+   "noise",
+   "danger",
+   "flag",
+   "protection",
+   "railway"
+  ]
+ },
+ "crossing-bell": {
+  "context": "A round bell with sound arcs on a post above a crossed warning sign. Used for level crossing alarms.",
+  "keywords": [
+   "level crossing",
+   "crossbuck",
+   "alarm",
+   "warning",
+   "bell",
+   "ring",
+   "sound",
+   "crossing signal",
+   "railroad crossing",
+   "grade crossing",
+   "alert",
+   "audible warning",
+   "crossing",
+   "railway"
+  ]
+ },
+ "gated-level-crossing": {
+  "context": "A road crossing the railway with a closed barrier on each side of the tracks. Used for level crossing safety and road rail interface.",
+  "keywords": [
+   "level crossing",
+   "railroad crossing",
+   "grade crossing",
+   "barrier",
+   "boom gate",
+   "crossing gate",
+   "gates",
+   "road crossing",
+   "closed",
+   "road",
+   "safety",
+   "crossing",
+   "warning light",
+   "railway"
+  ]
+ },
+ "pedestrian-level-crossing": {
+  "context": "A footpath crossing the rails with zigzag barriers at both sides. Used for pedestrian crossing and walkway safety around tracks.",
+  "keywords": [
+   "footpath crossing",
+   "pedestrian crossing",
+   "walkway",
+   "pedestrians",
+   "zigzag barrier",
+   "barrier",
+   "crossing",
+   "path",
+   "foot crossing",
+   "safety",
+   "chicane",
+   "tracks",
+   "walkers",
+   "railway"
+  ]
+ },
+ "dwarf-signal": {
+  "context": "A squat ground level signal box with two lamps in its face. Used for shunting and yard movement signals.",
+  "keywords": [
+   "ground signal",
+   "shunting signal",
+   "low signal",
+   "yard signal",
+   "dwarf",
+   "lamp",
+   "light signal",
+   "shunt",
+   "siding",
+   "signalling",
+   "lamps",
+   "small signal",
+   "two lamps",
+   "railway"
+  ]
+ },
+ "distant-signal": {
+  "context": "A semaphore post with a fishtail arm that has a V shaped notch in its end. Used for caution aspects and old style signals.",
+  "keywords": [
+   "semaphore",
+   "signal arm",
+   "fishtail",
+   "caution",
+   "distant",
+   "warning signal",
+   "arm signal",
+   "mechanical signal",
+   "signal post",
+   "vintage signal",
+   "heritage",
+   "notch",
+   "railway",
+   "railroad"
+  ]
+ },
+ "position-light-signal": {
+  "context": "A round signal target on a post with three lamps in a line. Used for position light and colour light signals.",
+  "keywords": [
+   "colour light signal",
+   "color light signal",
+   "signal",
+   "lamps",
+   "lights",
+   "target",
+   "aspect",
+   "clear",
+   "stop",
+   "light signal",
+   "signal head",
+   "post",
+   "indicator",
+   "railway"
+  ]
+ },
+ "route-indicator": {
+  "context": "A signal head with a diagonal row of lamps extending from its top corner. Used for junction route and diverging route displays.",
+  "keywords": [
+   "junction indicator",
+   "feather",
+   "diverging route",
+   "route display",
+   "signal",
+   "lamps",
+   "junction",
+   "direction indicator",
+   "route",
+   "signal head",
+   "lights",
+   "points set",
+   "branch",
+   "railway"
+  ]
+ },
+ "banner-repeater-signal": {
+  "context": "A round signal window on a post with one dark bar across its centre. Used for repeating signal aspects and caution displays.",
+  "keywords": [
+   "repeater",
+   "banner",
+   "signal",
+   "repeater signal",
+   "warning",
+   "round signal",
+   "bar",
+   "horizontal bar",
+   "caution",
+   "aspect",
+   "post",
+   "sight",
+   "indicator",
+   "railway"
+  ]
+ },
+ "signal-gantry": {
+  "context": "An overhead frame spanning the tracks with signal heads hanging above lines. Used for multi track signalling and signal bridges.",
+  "keywords": [
+   "signal bridge",
+   "gantry",
+   "overhead frame",
+   "signals",
+   "multi track",
+   "signalling",
+   "signal heads",
+   "lamps",
+   "bridge",
+   "mast",
+   "colour light",
+   "cantilever",
+   "junction",
+   "railway"
+  ]
+ },
+ "cab-signal-display": {
+  "context": "A driver cab screen showing a speed dial beside a signal lamp. Used for in cab signalling and driver information.",
+  "keywords": [
+   "cab display",
+   "driver display",
+   "train cab",
+   "speed dial",
+   "speedometer",
+   "dashboard",
+   "in cab signalling",
+   "atp",
+   "driver",
+   "screen",
+   "monitor",
+   "aspect",
+   "instrument panel",
+   "railway"
+  ]
+ },
+ "signal-post-telephone": {
+  "context": "A signal post box with a telephone handset symbol on its door. Used for trackside phones and driver to signaller contact.",
+  "keywords": [
+   "emergency phone",
+   "trackside phone",
+   "telephone",
+   "handset",
+   "call signaller",
+   "help point",
+   "phone box",
+   "signalman",
+   "communication",
+   "contact",
+   "phone",
+   "call",
+   "lineside",
+   "railway"
+  ]
+ },
+ "signaling-panel": {
+  "context": "A control panel with a track diagram of lines and switches above a row of buttons. Used for signal boxes and traffic control rooms.",
+  "keywords": [
+   "signalling panel",
+   "control panel",
+   "signal box",
+   "interlocking",
+   "track diagram",
+   "dispatcher",
+   "control room",
+   "traffic control",
+   "buttons",
+   "lamps",
+   "switch panel",
+   "operator",
+   "panel",
+   "signaling"
+  ]
+ },
+ "single-line-token": {
+  "context": "A round metal token with a centre hole above a leather pouch. Used for single track working and train authority.",
+  "keywords": [
+   "token",
+   "staff",
+   "tablet",
+   "single track",
+   "authority to proceed",
+   "train staff",
+   "pouch",
+   "bag",
+   "exchange",
+   "single line working",
+   "permission",
+   "block",
+   "electric token",
+   "railway"
+  ]
+ },
+ "block-instrument": {
+  "context": "A wooden instrument box with a half dial and needle above a handle knob. Used for block signalling between signal boxes.",
+  "keywords": [
+   "block signalling",
+   "block",
+   "signal box",
+   "line clear",
+   "train on line",
+   "telegraph",
+   "instrument",
+   "dial",
+   "needle",
+   "gauge",
+   "signal cabin",
+   "bell",
+   "indicator",
+   "vintage"
+  ]
+ },
+ "ground-frame": {
+  "context": "A small lever frame with three levers, one of them pulled over. Used for local points and signal control beside the line.",
+  "keywords": [
+   "lever frame",
+   "points lever",
+   "levers",
+   "signal box",
+   "interlocking",
+   "handles",
+   "switch levers",
+   "local control",
+   "siding",
+   "manual",
+   "pull lever",
+   "control",
+   "frame",
+   "railway"
+  ]
+ },
+ "spike-maul": {
+  "context": "A long handled hammer with a slim double ended head. Used for driving spikes into sleepers.",
+  "keywords": [
+   "sledgehammer",
+   "hammer",
+   "railroad hammer",
+   "spike hammer",
+   "track tool",
+   "maul",
+   "driving spikes",
+   "mallet",
+   "hand tool",
+   "maintenance",
+   "permanent way",
+   "spike driver",
+   "tool",
+   "hit"
+  ]
+ },
+ "rail-claw-bar": {
+  "context": "A long steel bar with a forked claw at one end. Used for pulling spikes out of sleepers.",
+  "keywords": [
+   "spike puller",
+   "claw bar",
+   "pry bar",
+   "crowbar",
+   "nail puller",
+   "track tool",
+   "lever",
+   "bar",
+   "pull spikes",
+   "hand tool",
+   "maintenance",
+   "permanent way",
+   "tool",
+   "extractor"
+  ]
+ },
+ "rail-tongs": {
+  "context": "A pair of hinged tongs with curved jaws gripping a short length of rail. Used for carrying and lifting rail.",
+  "keywords": [
+   "rail lifting",
+   "lifting tongs",
+   "tongs",
+   "grip",
+   "carry",
+   "clamp",
+   "rail clamp",
+   "lift",
+   "track tool",
+   "hand tool",
+   "maintenance",
+   "jaws",
+   "pincers",
+   "handle"
+  ]
+ },
+ "track-wrench": {
+  "context": "A very long open ended spanner. Used for tightening fishplate bolts and other track fittings.",
+  "keywords": [
+   "spanner",
+   "wrench",
+   "bolt",
+   "nut",
+   "fishplate bolts",
+   "track tool",
+   "tighten",
+   "long spanner",
+   "hand tool",
+   "maintenance",
+   "permanent way",
+   "fixing",
+   "tool",
+   "open end"
+  ]
+ },
+ "track-jack": {
+  "context": "A squat jack with a toe plate under a rail and a ratchet handle on top. Used for lifting track to level or pack it.",
+  "keywords": [
+   "lifting jack",
+   "rail jack",
+   "ratchet jack",
+   "lift",
+   "raise",
+   "track lift",
+   "level",
+   "track tool",
+   "ratchet",
+   "handle",
+   "maintenance",
+   "permanent way",
+   "tool",
+   "jack"
+  ]
+ },
+ "rail-saw": {
+  "context": "A portable cutting saw with a round abrasive disc over a rail. Used for cutting rail to length.",
+  "keywords": [
+   "cutoff saw",
+   "cut off saw",
+   "rail cutter",
+   "abrasive disc",
+   "cutting",
+   "saw",
+   "cut rail",
+   "power tool",
+   "track tool",
+   "circular",
+   "grinder",
+   "maintenance",
+   "permanent way",
+   "disc"
+  ]
+ },
+ "rail-drill": {
+  "context": "A drilling machine clamped beside a rail with its bit pointing into the web. Used for making bolt holes in rail.",
+  "keywords": [
+   "drilling machine",
+   "drill",
+   "bolt hole",
+   "rail web",
+   "boring",
+   "power tool",
+   "track tool",
+   "hole",
+   "clamp",
+   "maintenance",
+   "permanent way",
+   "bit",
+   "machine",
+   "drilling"
+  ]
+ },
+ "rail-bender": {
+  "context": "A heavy frame with a screw and handle bending a rail into a curve. Used for shaping rail on site.",
+  "keywords": [
+   "rail curving",
+   "jim crow",
+   "bender",
+   "bending",
+   "screw press",
+   "press",
+   "curve",
+   "track tool",
+   "shape",
+   "heavy tool",
+   "maintenance",
+   "permanent way",
+   "frame",
+   "clamp"
+  ]
+ },
+ "tamping-pick": {
+  "context": "A track pick with one pointed end and one flat paddle end. Used for packing ballast under sleepers by hand.",
+  "keywords": [
+   "beater pick",
+   "pick",
+   "ballast tool",
+   "packing",
+   "tamper",
+   "pickaxe",
+   "hand tool",
+   "sleeper packing",
+   "track tool",
+   "dig",
+   "maintenance",
+   "permanent way",
+   "tool",
+   "paddle"
+  ]
+ },
+ "ballast-fork": {
+  "context": "A wide fork with many long straight tines and a D shaped handle. Used for lifting stones without soil.",
+  "keywords": [
+   "stone fork",
+   "ballast tool",
+   "rake",
+   "fork",
+   "tines",
+   "shovel",
+   "gravel",
+   "stones",
+   "track tool",
+   "hand tool",
+   "maintenance",
+   "permanent way",
+   "tool",
+   "lift stone"
+  ]
+ },
+ "rail-thermometer": {
+  "context": "A round dial thermometer with a magnetic base stuck to a rail. Used for measuring rail temperature in hot weather.",
+  "keywords": [
+   "rail temperature",
+   "temperature",
+   "dial gauge",
+   "gauge",
+   "heat",
+   "heat check",
+   "expansion",
+   "measure",
+   "magnetic",
+   "thermometer",
+   "hot weather",
+   "buckling",
+   "inspection",
+   "railway"
+  ]
+ },
+ "thermite-welding": {
+  "context": "A crucible pouring a stream of molten metal into the gap between two rail ends. Used for joining rail by welding on site.",
+  "keywords": [
+   "rail welding",
+   "weld",
+   "welding",
+   "molten metal",
+   "crucible",
+   "pour",
+   "joint",
+   "thermit",
+   "join rails",
+   "gap",
+   "track work",
+   "fire",
+   "heat",
+   "permanent way"
+  ]
+ },
+ "rerailing-ramp": {
+  "context": "A steel ramp on a rail with a wheel climbing up it. Used for putting derailed rolling stock back on the track.",
+  "keywords": [
+   "rerail",
+   "derailment",
+   "recovery",
+   "ramp",
+   "wheel",
+   "rail ramp",
+   "replace on track",
+   "accident",
+   "breakdown",
+   "rescue",
+   "rolling stock",
+   "frog",
+   "incident",
+   "rerailer"
+  ]
+ },
+ "track-trolley": {
+  "context": "A small flat trolley on rails with a push handle at one end. Used for moving tools and crews along the line.",
+  "keywords": [
+   "hand trolley",
+   "rail trolley",
+   "rail cart",
+   "cart",
+   "push cart",
+   "inspection",
+   "maintenance",
+   "work trolley",
+   "handcar",
+   "push",
+   "wheels",
+   "tools",
+   "permanent way",
+   "gang trolley"
+  ]
+ },
+ "rail-speeder": {
+  "context": "A small motorised rail car with a boxy cab and flanged wheels. Used for line inspection and light track work.",
+  "keywords": [
+   "inspection car",
+   "motor car",
+   "speeder",
+   "track car",
+   "hi rail",
+   "handcar",
+   "maintenance",
+   "patrol",
+   "inspection",
+   "cab",
+   "small vehicle",
+   "work car",
+   "permanent way",
+   "section car"
+  ]
+ },
+ "rail-flaw-detector": {
+  "context": "A walking trolley on one rail with a push handle and a screen showing a pulse trace. Used for finding cracks in rail.",
+  "keywords": [
+   "ultrasonic",
+   "rail inspection",
+   "crack detection",
+   "flaw",
+   "testing",
+   "waveform",
+   "pulse",
+   "inspection trolley",
+   "screen",
+   "monitor",
+   "fault finding",
+   "non destructive",
+   "rail testing",
+   "defect"
+  ]
+ },
+ "track-geometry-car": {
+  "context": "A rail coach with a sensor beam under its middle sending laser lines down to the rails. Used for measuring track position and quality.",
+  "keywords": [
+   "measuring car",
+   "track inspection",
+   "geometry",
+   "laser",
+   "survey",
+   "sensor",
+   "measurement",
+   "alignment",
+   "track quality",
+   "inspection train",
+   "coach",
+   "beam",
+   "scanner",
+   "railway"
+  ]
+ },
+ "tamping-machine": {
+  "context": "A long track machine with a cab at each end and tines plunging into the ballast. Used for lining and packing track.",
+  "keywords": [
+   "tamper",
+   "ballast packing",
+   "tines",
+   "track machine",
+   "maintenance",
+   "ballast",
+   "packing",
+   "lining",
+   "levelling",
+   "leveling",
+   "on track machine",
+   "vehicle",
+   "heavy machinery",
+   "permanent way"
+  ]
+ },
+ "ballast-regulator": {
+  "context": "A short track vehicle with a plough blade at the front and a brush at the back. Used for shaping the stone bed beside the rails.",
+  "keywords": [
+   "ballast plough",
+   "plough",
+   "plow",
+   "brush",
+   "ballast",
+   "stone",
+   "shaping",
+   "regulate",
+   "track maintenance",
+   "machine",
+   "vehicle",
+   "sweep",
+   "permanent way",
+   "track machine"
+  ]
+ },
+ "track-laying-machine": {
+  "context": "A gantry vehicle lowering a ready made panel of rails and sleepers onto the ground. Used for new track construction.",
+  "keywords": [
+   "track panel",
+   "panel laying",
+   "construction",
+   "crane",
+   "gantry",
+   "new track",
+   "build track",
+   "lifting",
+   "machine",
+   "laying",
+   "sleepers",
+   "rails",
+   "heavy machinery",
+   "permanent way"
+  ]
+ },
+ "overhead-line-vehicle": {
+  "context": "A rail vehicle with a raised railed platform reaching an overhead wire. Used for catenary maintenance and electrification work.",
+  "keywords": [
+   "catenary",
+   "wire maintenance",
+   "cherry picker",
+   "aerial platform",
+   "electrification",
+   "work platform",
+   "overhead wire",
+   "lift",
+   "maintenance",
+   "crew",
+   "vehicle",
+   "power line",
+   "railing",
+   "scissor lift"
+  ]
+ },
+ "rail-grinding-train": {
+  "context": "A rail vehicle with grinding stones under its body and sparks at the rail. Used for smoothing and reprofiling rails.",
+  "keywords": [
+   "rail grinder",
+   "grinding",
+   "sparks",
+   "polishing",
+   "smoothing",
+   "rail maintenance",
+   "machine",
+   "grind",
+   "stones",
+   "reprofile",
+   "maintenance train",
+   "work train",
+   "abrasive",
+   "permanent way"
+  ]
+ },
+ "rail-pass": {
+  "context": "A folding booklet with a train front on its cover. Used for travel passes, rail cards and season tickets.",
+  "keywords": [
+   "train pass",
+   "travel pass",
+   "ticket booklet",
+   "railcard",
+   "season ticket",
+   "interrail",
+   "eurail",
+   "pass",
+   "booklet",
+   "ticket",
+   "fare",
+   "discount",
+   "subscription",
+   "commuter",
+   "membership"
+  ]
+ },
+ "train-timetable": {
+  "context": "A printed sheet with a train front above a grid of departure times. Used for schedules, departures and journey planning.",
+  "keywords": [
+   "schedule",
+   "timetable",
+   "departures",
+   "arrivals",
+   "times",
+   "train times",
+   "journey planner",
+   "station board",
+   "bus schedule",
+   "plan trip",
+   "calendar",
+   "grid",
+   "table",
+   "time table"
+  ]
+ },
+ "quiet-carriage": {
+  "context": "A train carriage with a hushing face symbol, a finger held to the lips. Used for quiet coaches and silent travel zones.",
+  "keywords": [
+   "quiet zone",
+   "silent",
+   "shh",
+   "hush",
+   "quiet coach",
+   "quiet car",
+   "coach",
+   "noise",
+   "silence",
+   "mute",
+   "library",
+   "no talking",
+   "carriage",
+   "etiquette",
+   "peace"
+  ]
+ },
+ "first-class-carriage": {
+  "context": "A train carriage with a numeral 1 above its windows and a stripe along its body. Used for first class travel and premium seating.",
+  "keywords": [
+   "first class",
+   "premium",
+   "business class",
+   "coach",
+   "upgrade",
+   "luxury",
+   "carriage",
+   "class 1",
+   "seat class",
+   "ticket class",
+   "vip",
+   "comfort",
+   "number one",
+   "wagon"
+  ]
+ },
+ "reserved-seat-tag": {
+  "context": "A seat headrest with a small reservation card clipped on it. Used for seat reservations and booked seating.",
+  "keywords": [
+   "seat reservation",
+   "reserved",
+   "booking",
+   "booked",
+   "headrest",
+   "seat number",
+   "card",
+   "seat",
+   "reservation tag",
+   "ticket",
+   "assigned seat",
+   "allocated",
+   "label",
+   "place"
+  ]
+ },
+ "train-seat": {
+  "context": "Two upholstered train seats side by side with tall backs and a shared armrest. Used for passenger seating and seat selection.",
+  "keywords": [
+   "passenger seat",
+   "seating",
+   "seats",
+   "chair",
+   "armrest",
+   "carriage",
+   "seat selection",
+   "seat map",
+   "upholstered",
+   "bench",
+   "row",
+   "window seat",
+   "aisle",
+   "sit",
+   "coach seat"
+  ]
+ }
+}

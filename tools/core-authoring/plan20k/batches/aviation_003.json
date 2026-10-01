@@ -1,0 +1,74 @@
+[
+ {
+  "name": "air-race-pylon",
+  "category": "aviation",
+  "draw": "Tall inflatable cone shaped pylon gate with a small airplane banking past it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "seatback-pocket",
+  "category": "aviation",
+  "draw": "Back of an airline seat with an elastic pocket holding a safety card and a magazine.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "cabin-interphone",
+  "category": "aviation",
+  "draw": "Wall mounted handset on a coiled cord beside a small keypad panel in an aircraft cabin.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "engine-indicating-display",
+  "category": "aviation",
+  "draw": "Rectangular screen with two round arc gauges side by side and bar graphs beneath them.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "airworthiness-certificate",
+  "category": "aviation",
+  "draw": "Framed certificate document with a small airplane at the top and a round seal at the bottom.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "drop-zone-target",
+  "category": "aviation",
+  "draw": "Top view of a bullseye circle target on a field with a parachute canopy descending over it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "crew-rest-bunk",
+  "category": "aviation",
+  "draw": "Small enclosed aircraft bunk with a curtain half drawn and a pillow visible inside.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "anti-collision-beacon",
+  "category": "aviation",
+  "draw": "Side view of a fuselage with a small dome lamp on top giving off flashing rays.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "gate-check-tag",
+  "category": "aviation",
+  "draw": "Luggage tag on a looped strap printed with a stroller symbol.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "wing-spoiler",
+  "category": "aviation",
+  "draw": "Side cross section of a wing with a flat panel hinged up from its upper surface and airflow lines breaking behind it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "helicopter-collective",
+  "category": "aviation",
+  "draw": "Angled lever rising from a cockpit floor with a twist grip throttle on its end, beside a pilot seat edge.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "hand-propping",
+  "category": "aviation",
+  "draw": "Figure standing in front of a small plane nose reaching up to swing a propeller blade down by hand.",
+  "domain": "r3-aviation-airport"
+ }
+]

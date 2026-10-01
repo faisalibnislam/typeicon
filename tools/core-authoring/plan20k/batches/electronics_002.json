@@ -1,0 +1,482 @@
+[
+ {
+  "name": "zif-socket",
+  "category": "electronics",
+  "draw": "Chip socket with a grid of holes and a side lever arm raised to release.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "toroidal-inductor",
+  "category": "electronics",
+  "draw": "Ring shaped core with copper wire wound around it and two leads.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "ferrite-bead",
+  "category": "electronics",
+  "draw": "Short thick tube bead threaded on a wire.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "ferrite-choke",
+  "category": "electronics",
+  "draw": "Clip on cylinder split in two halves clamped around a cable.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "seven-segment-display",
+  "category": "electronics",
+  "draw": "Rectangle showing a figure eight made of seven bar segments and a decimal dot.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "led-matrix",
+  "category": "electronics",
+  "draw": "Square board filled with an eight by eight grid of round dots.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "character-lcd",
+  "category": "electronics",
+  "draw": "Wide rectangular module with a screen of two text rows and a row of pins along the top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "oled-display-module",
+  "category": "electronics",
+  "draw": "Small board with a square black screen and four pins along its top edge.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "e-paper-display",
+  "category": "electronics",
+  "draw": "Thin panel showing crisp text lines with a flat ribbon tail at the bottom.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "led-bar-graph",
+  "category": "electronics",
+  "draw": "Rectangle with ten thin vertical bars side by side, some filled.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "rgb-led",
+  "category": "electronics",
+  "draw": "LED dome with four legs of different lengths.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "addressable-led-ring",
+  "category": "electronics",
+  "draw": "Ring of small square LED chips arranged in a circle on a thin board.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "laser-diode-module",
+  "category": "electronics",
+  "draw": "Small brass cylinder with a lens at one end, two wires at the other and a beam line.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "photoresistor",
+  "category": "electronics",
+  "draw": "Small round disc with a squiggly track across its face and two legs.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "nixie-tube",
+  "category": "electronics",
+  "draw": "Tall glass tube with a glowing stacked numeral inside and pins at the base.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "piezo-disc",
+  "category": "electronics",
+  "draw": "Round thin metal disc with a smaller inner disc and two wires attached.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "piezo-buzzer",
+  "category": "electronics",
+  "draw": "Short cylinder with a small hole in the top center and two legs.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "electret-microphone",
+  "category": "electronics",
+  "draw": "Small round capsule with a felt mesh face and two pins behind.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "vibration-motor",
+  "category": "electronics",
+  "draw": "Flat coin shaped motor with two thin wires trailing out.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "gear-motor",
+  "category": "electronics",
+  "draw": "Small cylindrical motor attached to a rectangular gearbox with a shaft out the side.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "linear-actuator",
+  "category": "electronics",
+  "draw": "Long cylinder with a motor housing at one end and a rod extending from the other.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "peltier-module",
+  "category": "electronics",
+  "draw": "Flat square ceramic tile with two wires leaving one edge.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "case-fan",
+  "category": "electronics",
+  "draw": "Square frame with screw holes in the corners, a round hub and curved blades.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "solid-state-relay",
+  "category": "electronics",
+  "draw": "Rectangular block with four screw terminals on its face and a small indicator light.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "contactor",
+  "category": "electronics",
+  "draw": "Boxy block with a row of screw terminals along the top and bottom and a central window.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "toroidal-transformer",
+  "category": "electronics",
+  "draw": "Thick donut coil with a bolt through the middle and wires coming out.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "resettable-fuse",
+  "category": "electronics",
+  "draw": "Flat disc on two legs like a small lollipop.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "fuse-holder",
+  "category": "electronics",
+  "draw": "Rectangular panel holder with a round screw cap on top and two solder tags underneath.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "lipo-battery",
+  "category": "electronics",
+  "draw": "Flat rectangular pouch cell with two wires and a small plug at one end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "battery-holder",
+  "category": "electronics",
+  "draw": "Open plastic tray holding two cylindrical cells side by side with wires out the end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "coin-cell-holder",
+  "category": "electronics",
+  "draw": "Round holder with a coin cell half visible and a metal clip across it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "battery-snap",
+  "category": "electronics",
+  "draw": "Two snap fasteners on a small cap with two wires trailing off.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "battery-tester",
+  "category": "electronics",
+  "draw": "Small meter with a needle dial and a sliding clamp for holding a cell.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "buck-converter",
+  "category": "electronics",
+  "draw": "Small square board with a round coil, a chip and screw terminals at each end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "voltage-regulator",
+  "category": "electronics",
+  "draw": "Three legged component with a metal tab punched with a hole and a voltage label on its body.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "bridge-rectifier",
+  "category": "electronics",
+  "draw": "Square flat block with four legs and a tilde, plus and minus marks on top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "capacitor-bank",
+  "category": "electronics",
+  "draw": "Row of three tall cylindrical capacitors joined by a bus bar across the tops.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "busbar",
+  "category": "electronics",
+  "draw": "Flat metal bar with a row of evenly spaced bolt holes.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "din-rail",
+  "category": "electronics",
+  "draw": "Short length of top hat metal rail with slotted mounting holes.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "slip-ring",
+  "category": "electronics",
+  "draw": "Cylinder with stacked rings and a bundle of wires out each end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "magnetron",
+  "category": "electronics",
+  "draw": "Round finned body with a magnet ring and a short antenna post on top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "rheostat",
+  "category": "electronics",
+  "draw": "Cylinder of wound wire with a sliding contact on a bar above it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "decade-resistance-box",
+  "category": "electronics",
+  "draw": "Box lid with a row of round dials and two terminals.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "variac",
+  "category": "electronics",
+  "draw": "Round box with a large dial knob on top marked with a scale and a pointer.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "heating-cartridge",
+  "category": "electronics",
+  "draw": "Short metal rod with two wires coming out one end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "tube-socket",
+  "category": "electronics",
+  "draw": "Round socket with a ring of pin holes and a central key hole.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "shield-can",
+  "category": "electronics",
+  "draw": "Small rectangular metal box with vent holes soldered onto a circuit board.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "slot-optical-sensor",
+  "category": "electronics",
+  "draw": "U shaped block with a slot between two upright arms and legs underneath.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "female-header",
+  "category": "electronics",
+  "draw": "Row of small square sockets on a black plastic strip.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "jumper-cap",
+  "category": "electronics",
+  "draw": "Tiny rectangular cap bridging two header pins.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "wire-to-board-connector",
+  "category": "electronics",
+  "draw": "Small keyed plastic plug with a row of wires entering the back.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "lever-wire-connector",
+  "category": "electronics",
+  "draw": "Clear block with three lever tabs raised and wires inserted.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "banana-plug",
+  "category": "electronics",
+  "draw": "Plug with a round grip body and a slotted spring pin tip.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "bnc-connector",
+  "category": "electronics",
+  "draw": "Round metal plug with a bayonet collar and a slot along its side.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "sma-connector",
+  "category": "electronics",
+  "draw": "Small threaded hex nut connector with a center pin.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "test-hook-clip",
+  "category": "electronics",
+  "draw": "Pen shaped grabber with a thin hook extending from its tip.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "spade-terminal",
+  "category": "electronics",
+  "draw": "Crimp terminal with a fork shaped tip and a round barrel.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "butt-splice-connector",
+  "category": "electronics",
+  "draw": "Short tube with two wires entering from opposite ends.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "bullet-connector",
+  "category": "electronics",
+  "draw": "Pair of round pin and sleeve crimp connectors about to join.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "circular-connector",
+  "category": "electronics",
+  "draw": "Round connector face with several pins in a circle and a threaded coupling ring.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pogo-pin",
+  "category": "electronics",
+  "draw": "Thin spring loaded pin with a barrel and a pointed plunger.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "micro-usb-connector",
+  "category": "electronics",
+  "draw": "Small trapezoid plug with a narrow slot and a short cable.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "usb-type-b-connector",
+  "category": "electronics",
+  "draw": "Square plug with beveled top corners and a cable.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "usb-type-a-connector",
+  "category": "electronics",
+  "draw": "Flat rectangular plug with a tongue inside and a cable.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "fiber-optic-connector",
+  "category": "electronics",
+  "draw": "Square plug with a thin ferrule tip and a cable.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "keystone-jack",
+  "category": "electronics",
+  "draw": "Small snap in jack module with a square port on its face and wire slots on top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pcie-slot",
+  "category": "electronics",
+  "draw": "Long narrow slot on a board with a short and a long section and a latch at the end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "dimm-slot",
+  "category": "electronics",
+  "draw": "Long thin slot with clips at both ends on a board.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "twisted-pair-cable",
+  "category": "electronics",
+  "draw": "Two wires twisted around each other in a regular helix.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "coiled-cable",
+  "category": "electronics",
+  "draw": "Cable wound into a tight spring coil between two plugs.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "y-splitter-cable",
+  "category": "electronics",
+  "draw": "Cable with one plug that splits into two branches each ending in a plug.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "heat-shrink-tubing",
+  "category": "electronics",
+  "draw": "Short tube slipped over a wire joint with wavy heat lines above it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "braided-cable-sleeve",
+  "category": "electronics",
+  "draw": "Tube with a woven crosshatch pattern covering a bundle of wires.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "cable-ferrule",
+  "category": "electronics",
+  "draw": "Small metal tube with a plastic collar crimped onto a wire end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "cable-harness",
+  "category": "electronics",
+  "draw": "Bundle of wires tied together branching out to several connectors.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "cable-comb",
+  "category": "electronics",
+  "draw": "Flat plate with a grid of holes that wires pass through to keep them straight.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "wire-marker",
+  "category": "electronics",
+  "draw": "Small printed sleeve with a number slipped over a wire.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "ground-strap",
+  "category": "electronics",
+  "draw": "Flat braided strap with ring terminals at both ends.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "grounding-clamp",
+  "category": "electronics",
+  "draw": "Metal clamp around a pipe with a wire attached to its bolt.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "cable-tester",
+  "category": "electronics",
+  "draw": "Two small boxes each with a jack and a row of numbered lights.",
+  "domain": "r2-electronics-components"
+ }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "name": "nonagon",
+    "category": "geometry",
+    "draw": "A regular nine sided polygon outline standing on one flat edge."
+  },
+  {
+    "name": "dodecagon",
+    "category": "geometry",
+    "draw": "A regular twelve sided polygon outline, nearly round but with visible short straight edges and corners."
+  },
+  {
+    "name": "isosceles-triangle",
+    "category": "geometry",
+    "draw": "A tall narrow triangle with a single tick mark on each of its two equal slanted sides."
+  },
+  {
+    "name": "scalene-triangle",
+    "category": "geometry",
+    "draw": "A lopsided triangle with three different side lengths, marked with one, two and three tick marks."
+  },
+  {
+    "name": "obtuse-triangle",
+    "category": "geometry",
+    "draw": "A long flat triangle with one wide angle over 90 degrees at the bottom left, marked with a small arc."
+  },
+  {
+    "name": "kite-quadrilateral",
+    "category": "geometry",
+    "draw": "A geometric kite shape with a short top and long bottom, its two diagonals drawn crossing at right angles."
+  },
+  {
+    "name": "squircle",
+    "category": "geometry",
+    "draw": "A superellipse shape between a square and a circle, with straight-ish sides blending into smooth rounded corners."
+  },
+  {
+    "name": "annulus",
+    "category": "geometry",
+    "draw": "A flat ring: two concentric circles with the band between them filled."
+  },
+  {
+    "name": "quarter-circle",
+    "category": "geometry",
+    "draw": "A quarter of a circle: two straight radii at a right angle joined by a curved arc."
+  },
+  {
+    "name": "deltoid-curve",
+    "category": "geometry",
+    "draw": "A curved triangle with three sharp cusps and three inward curving sides."
+  },
+  {
+    "name": "lune-shape",
+    "category": "geometry",
+    "draw": "Two overlapping circles where only the thin crescent region of one outside the other is filled."
+  },
+  {
+    "name": "arbelos",
+    "category": "geometry",
+    "draw": "A large semicircle with two smaller semicircles inside it resting on the same base line, the curved region between them filled."
+  },
+  {
+    "name": "concave-polygon",
+    "category": "geometry",
+    "draw": "An arrowhead like polygon with one corner pushed inward, its reflex angle marked with an arc."
+  },
+  {
+    "name": "star-3",
+    "category": "geometry",
+    "draw": "A three pointed star with three sharp spikes and concave sides between them."
+  },
+  {
+    "name": "star-7",
+    "category": "geometry",
+    "draw": "A seven pointed star silhouette with evenly spaced sharp points."
+  },
+  {
+    "name": "star-8",
+    "category": "geometry",
+    "draw": "An eight pointed star silhouette with evenly spaced sharp points around a small center."
+  },
+  {
+    "name": "star-12",
+    "category": "geometry",
+    "draw": "A twelve pointed star silhouette with short sharp points around a round body, like a starburst seal."
+  },
+  {
+    "name": "pentagram",
+    "category": "geometry",
+    "draw": "A five pointed star drawn as one continuous line of five crossing strokes, with the inner pentagon visible."
+  },
+  {
+    "name": "heptagram",
+    "category": "geometry",
+    "draw": "A seven pointed star polygon drawn with crossing straight lines that leave a small heptagon in the middle."
+  },
+  {
+    "name": "octagram",
+    "category": "geometry",
+    "draw": "Two overlapping squares, one rotated 45 degrees, forming an eight pointed star with an octagon center."
+  },
+  {
+    "name": "tetrahedron",
+    "category": "geometry",
+    "draw": "A triangular pyramid with four triangular faces, drawn in three quarter view with one hidden edge dashed."
+  },
+  {
+    "name": "cuboid",
+    "category": "geometry",
+    "draw": "A long rectangular box in three quarter view showing front, top and side faces."
+  },
+  {
+    "name": "parallelepiped",
+    "category": "geometry",
+    "draw": "A slanted box whose faces are parallelograms, leaning to one side in three quarter view."
+  },
+  {
+    "name": "rhombohedron",
+    "category": "geometry",
+    "draw": "A squashed cube whose six faces are all rhombuses, drawn like a slanted diamond solid."
+  },
+  {
+    "name": "ellipsoid",
+    "category": "geometry",
+    "draw": "A stretched egg-like solid shown with an outer ellipse outline and a curved equator line across it."
+  },
+  {
+    "name": "triangular-bipyramid",
+    "category": "geometry",
+    "draw": "Two triangular pyramids joined base to base, forming a double pointed solid with a triangular waist."
+  },
+  {
+    "name": "pentagonal-prism",
+    "category": "geometry",
+    "draw": "A prism with pentagon shaped front and back faces joined by rectangular sides, in perspective."
+  },
+  {
+    "name": "cuboctahedron",
+    "category": "geometry",
+    "draw": "A solid with square and triangular faces alternating, shown with a square face in front surrounded by triangles."
+  },
+  {
+    "name": "truncated-cube",
+    "category": "geometry",
+    "draw": "A cube with each corner sliced off, leaving small triangular faces at the corners and octagonal faces."
+  },
+  {
+    "name": "truncated-tetrahedron",
+    "category": "geometry",
+    "draw": "A tetrahedron with its corners cut off, showing hexagonal faces and small triangular corner faces."
+  },
+  {
+    "name": "truncated-octahedron",
+    "category": "geometry",
+    "draw": "A solid of square and hexagonal faces, shown with a hexagon face in front and small squares around it."
+  },
+  {
+    "name": "stellated-octahedron",
+    "category": "geometry",
+    "draw": "Two interlocking tetrahedra forming an eight pointed star solid, like a three dimensional six pointed star."
+  },
+  {
+    "name": "stellated-dodecahedron",
+    "category": "geometry",
+    "draw": "A spiky ball solid with twelve pentagonal pyramid spikes pointing outward, like a star shaped polyhedron."
+  },
+  {
+    "name": "rhombic-dodecahedron",
+    "category": "geometry",
+    "draw": "A solid of twelve rhombus faces, drawn as a hexagon outline divided into rhombus faces around a center."
+  },
+  {
+    "name": "square-antiprism",
+    "category": "geometry",
+    "draw": "Two squares, one rotated 45 degrees above the other, joined by a band of zigzag triangles."
+  },
+  {
+    "name": "bicone",
+    "category": "geometry",
+    "draw": "A double cone: two cones joined at their round bases, forming a spinning top like solid with pointed ends."
+  },
+  {
+    "name": "spherical-cap",
+    "category": "geometry",
+    "draw": "A dome shaped slice cut from a sphere, with a flat elliptical base and a curved top."
+  },
+  {
+    "name": "paraboloid",
+    "category": "geometry",
+    "draw": "A bowl shaped surface opening upward, with an elliptical rim and curved sides meeting at a rounded bottom."
+  },
+  {
+    "name": "hyperboloid",
+    "category": "geometry",
+    "draw": "An hourglass shaped tower surface made of straight crossing lines, pinched at the waist between two elliptical rims."
+  },
+  {
+    "name": "hyperbolic-paraboloid",
+    "category": "geometry",
+    "draw": "A saddle shaped surface with a grid of curved lines, rising at two opposite corners and dipping at the other two."
+  },
+  {
+    "name": "torus-knot",
+    "category": "geometry",
+    "draw": "A closed tube looping several times around a hidden ring, forming a star like knot with over and under crossings."
+  },
+  {
+    "name": "double-torus",
+    "category": "geometry",
+    "draw": "A flat pretzel like solid with two holes side by side, drawn with shading lines around each hole."
+  },
+  {
+    "name": "wireframe-cube",
+    "category": "geometry",
+    "draw": "A see-through cube with all twelve edges drawn, the three hidden back edges shown dashed."
+  },
+  {
+    "name": "impossible-cube",
+    "category": "geometry",
+    "draw": "A wireframe cube whose front and back edges cross in an impossible way, one bar passing in front of another it should be behind."
+  },
+  {
+    "name": "penrose-stairs",
+    "category": "geometry",
+    "draw": "A square loop of steps seen from above at an angle that appears to climb forever back to its start."
+  },
+  {
+    "name": "impossible-fork",
+    "category": "geometry",
+    "draw": "Three round prongs on the left that merge into two square prongs on the right, an impossible trident illusion."
+  },
+  {
+    "name": "cylinder-net",
+    "category": "geometry",
+    "draw": "The unfolded net of a cylinder: a rectangle with a circle attached above and below."
+  },
+  {
+    "name": "cone-net",
+    "category": "geometry",
+    "draw": "The unfolded net of a cone: a curved fan shaped sector with a small circle touching its arc."
+  },
+  {
+    "name": "pyramid-net",
+    "category": "geometry",
+    "draw": "The unfolded net of a square pyramid: a central square with a triangle on each of its four sides, like a star."
+  },
+  {
+    "name": "triangular-prism-net",
+    "category": "geometry",
+    "draw": "The unfolded net of a triangular prism: three rectangles in a row with a triangle on the top and bottom of the middle one."
+  },
+  {
+    "name": "solid-of-revolution",
+    "category": "geometry",
+    "draw": "A curve beside a vertical axis with a curved arrow around the axis and the vase shaped solid it sweeps out."
+  },
+  {
+    "name": "spherical-triangle",
+    "category": "geometry",
+    "draw": "A sphere outline with a curved triangle drawn on its surface, its three sides bulging arcs of great circles."
+  },
+  {
+    "name": "poincare-disk",
+    "category": "geometry",
+    "draw": "A circle filled with curved arcs meeting its edge at right angles, forming shrinking curved triangles toward the rim."
+  },
+  {
+    "name": "sphere-packing",
+    "category": "geometry",
+    "draw": "Front view of equal balls stacked in a triangular pyramid, three on the bottom row, two above and one on top."
+  },
+  {
+    "name": "cavalieri-principle",
+    "category": "geometry",
+    "draw": "Two stacks of equal coins side by side, one straight and one leaning sideways, showing equal volume."
+  },
+  {
+    "name": "right-angle",
+    "category": "geometry",
+    "draw": "Two straight rays meeting at a corner at 90 degrees with a small square mark in the corner."
+  },
+  {
+    "name": "obtuse-angle",
+    "category": "geometry",
+    "draw": "Two rays from one vertex spread wider than a right angle, with an arc marking the wide opening."
+  },
+  {
+    "name": "straight-angle",
+    "category": "geometry",
+    "draw": "A straight line with a dot at its center and a half circle arc above marking 180 degrees."
+  },
+  {
+    "name": "reflex-angle",
+    "category": "geometry",
+    "draw": "Two rays from one vertex with a long arc sweeping around the outside, marking the angle larger than 180 degrees."
+  },
+  {
+    "name": "complementary-angles",
+    "category": "geometry",
+    "draw": "A right angle corner split into two parts by a middle ray, each part marked with its own arc."
+  },
+  {
+    "name": "supplementary-angles",
+    "category": "geometry",
+    "draw": "A straight line with a ray rising from a point on it, the two angles on either side marked with arcs."
+  },
+  {
+    "name": "vertical-angles",
+    "category": "geometry",
+    "draw": "Two straight lines crossing in an X with matching arcs on the two opposite angles."
+  },
+  {
+    "name": "exterior-angle",
+    "category": "geometry",
+    "draw": "A triangle with its base extended past one corner and an arc marking the outside angle formed there."
+  },
+  {
+    "name": "dihedral-angle",
+    "category": "geometry",
+    "draw": "Two flat planes meeting along a shared edge like an open book, with an arc marking the angle between them."
+  },
+  {
+    "name": "solid-angle",
+    "category": "geometry",
+    "draw": "A cone of rays from a center dot to a patch on the surface of a surrounding sphere."
+  },
+  {
+    "name": "angle-of-elevation",
+    "category": "geometry",
+    "draw": "A horizontal ground line with an eye dot at one end and a sight line rising to a flag or tree top, the angle marked."
+  },
+  {
+    "name": "intersecting-lines",
+    "category": "geometry",
+    "draw": "Two straight lines crossing at a slant with a dot marking their single intersection point."
+  },
+  {
+    "name": "segment-midpoint",
+    "category": "geometry",
+    "draw": "A straight line segment with dots at both ends and a middle dot, each half marked with one tick."
+  },
+  {
+    "name": "collinear-points",
+    "category": "geometry",
+    "draw": "Three dots lying on one straight line with a thinner line running through them."
+  },
+  {
+    "name": "geometric-plane",
+    "category": "geometry",
+    "draw": "A flat parallelogram drawn in perspective representing an infinite plane, with a small point dot on it."
+  },
+  {
+    "name": "normal-vector",
+    "category": "geometry",
+    "draw": "A flat plane in perspective with an arrow standing straight up from it and a right angle mark at its foot."
+  },
+  {
+    "name": "skew-lines",
+    "category": "geometry",
+    "draw": "Two straight lines drawn on a box outline that never meet and are not parallel, one passing behind the other."
+  },
+  {
+    "name": "triangle-medians",
+    "category": "geometry",
+    "draw": "A triangle with three lines from each corner to the midpoint of the opposite side, meeting at a center dot."
+  },
+  {
+    "name": "triangle-altitude",
+    "category": "geometry",
+    "draw": "A triangle with a dashed vertical line dropped from the top corner to the base, with a right angle mark."
+  },
+  {
+    "name": "triangle-incircle",
+    "category": "geometry",
+    "draw": "A triangle with a circle drawn inside touching all three sides."
+  },
+  {
+    "name": "triangle-circumcircle",
+    "category": "geometry",
+    "draw": "A triangle with a circle drawn around it passing through all three corners."
+  },
+  {
+    "name": "similar-triangles",
+    "category": "geometry",
+    "draw": "A small triangle and a larger triangle of the same shape side by side, with matching angle arcs."
+  },
+  {
+    "name": "congruent-triangles",
+    "category": "geometry",
+    "draw": "Two identical triangles side by side, with matching tick marks on their corresponding sides."
+  },
+  {
+    "name": "triangle-angle-sum",
+    "category": "geometry",
+    "draw": "A triangle whose three corner angles, each marked with an arc, are shown fitted together along a straight line below."
+  },
+  {
+    "name": "thales-theorem",
+    "category": "geometry",
+    "draw": "A semicircle with a triangle whose long side is the diameter and whose top corner touches the arc, marked with a right angle."
+  },
+  {
+    "name": "circle-chord",
+    "category": "geometry",
+    "draw": "A circle with a straight line joining two points on its edge, not passing through the center."
+  },
+  {
+    "name": "circle-diameter",
+    "category": "geometry",
+    "draw": "A circle with a straight line passing through its center dot from edge to edge, with dots at both ends."
+  },
+  {
+    "name": "secant-line",
+    "category": "geometry",
+    "draw": "A circle with a straight line cutting through it and extending past both sides, crossing the edge at two dots."
+  },
+  {
+    "name": "tangent-circles",
+    "category": "geometry",
+    "draw": "Two circles of different sizes touching at exactly one point, marked with a small dot."
+  },
+  {
+    "name": "inscribed-polygon",
+    "category": "geometry",
+    "draw": "A regular hexagon drawn inside a circle with every corner touching the circle."
+  },
+  {
+    "name": "polygon-apothem",
+    "category": "geometry",
+    "draw": "A regular hexagon with a center dot and a line from the center meeting the middle of one side at a right angle."
+  },
+  {
+    "name": "polygon-diagonals",
+    "category": "geometry",
+    "draw": "A hexagon with all the diagonals from one corner fanning across it, splitting it into triangles."
+  },
+  {
+    "name": "osculating-circle",
+    "category": "geometry",
+    "draw": "A curving line with a circle touching it on the inside of the bend, a radius line drawn to the touch point."
+  },
+  {
+    "name": "squaring-the-circle",
+    "category": "geometry",
+    "draw": "A circle and a square of equal area drawn overlapping with a shared center."
+  },
+  {
+    "name": "apollonian-gasket",
+    "category": "geometry",
+    "draw": "A large circle packed with three touching circles and ever smaller circles filling the gaps between them."
+  },
+  {
+    "name": "nested-squares",
+    "category": "geometry",
+    "draw": "A square with a smaller square inside turned 45 degrees and touching its midpoints, repeated three times inward."
+  },
+  {
+    "name": "curve-stitching",
+    "category": "geometry",
+    "draw": "Two perpendicular lines joined by a series of straight lines whose envelope forms a smooth curve."
+  },
+  {
+    "name": "geometric-translation",
+    "category": "geometry",
+    "draw": "A triangle and an identical copy shifted up and to the side, with a straight arrow between matching corners."
+  },
+  {
+    "name": "geometric-dilation",
+    "category": "geometry",
+    "draw": "A small triangle and a larger copy with dashed lines from a center dot through their matching corners."
+  },
+  {
+    "name": "glide-reflection",
+    "category": "geometry",
+    "draw": "A row of footprint shaped marks alternating on either side of a dashed center line, each mirrored."
+  },
+  {
+    "name": "limacon",
+    "category": "geometry",
+    "draw": "A closed looping curve like a rounded heart with a smaller loop inside it, both joined at one point."
+  },
+  {
+    "name": "involute-curve",
+    "category": "geometry",
+    "draw": "A circle with a taut line unwinding from it, its free end tracing a spiral like curve outward."
+  },
+  {
+    "name": "cubic-curve",
+    "category": "geometry",
+    "draw": "An S shaped curve rising through the center of crossed x and y axes, flattening at the middle."
+  },
+  {
+    "name": "absolute-value-graph",
+    "category": "geometry",
+    "draw": "A sharp V shaped line on crossed x and y axes with its point at the origin."
+  },
+  {
+    "name": "tangent-graph",
+    "category": "geometry",
+    "draw": "Repeating curves that sweep steeply upward between dashed vertical asymptote lines on crossed axes."
+  },
+  {
+    "name": "euler-spiral",
+    "category": "geometry",
+    "draw": "An S shaped double spiral with a straight middle section curling ever tighter into a coil at each end."
+  },
+  {
+    "name": "fermat-spiral",
+    "category": "geometry",
+    "draw": "Two interleaved spiral arms winding out from a shared center, forming a double spiral."
+  },
+  {
+    "name": "square-spiral",
+    "category": "geometry",
+    "draw": "A spiral made of straight line segments turning at right angles, growing longer at each turn."
+  },
+  {
+    "name": "spiral-of-theodorus",
+    "category": "geometry",
+    "draw": "A spiral of right triangles joined at a shared center point, each one slightly larger, forming a snail shell."
+  },
+  {
+    "name": "phyllotaxis-spiral",
+    "category": "geometry",
+    "draw": "Dots arranged in crossing spiral arms around a center, like the seed pattern of a sunflower head."
+  },
+  {
+    "name": "tractrix",
+    "category": "geometry",
+    "draw": "A curve starting high near a vertical line and sweeping down and outward to approach a horizontal line."
+  },
+  {
+    "name": "nephroid",
+    "category": "geometry",
+    "draw": "A kidney shaped closed curve with two cusps pointing inward from each side."
+  },
+  {
+    "name": "epicycloid",
+    "category": "geometry",
+    "draw": "A small circle rolling around the outside of a larger circle, tracing a curve with five sharp cusps."
+  },
+  {
+    "name": "conical-spiral",
+    "category": "geometry",
+    "draw": "A spiral that winds upward around an invisible cone, wide at the bottom and narrowing to a point at the top."
+  },
+  {
+    "name": "penrose-tiling",
+    "category": "geometry",
+    "draw": "A tiling of kite and dart shaped pieces meeting around a central five pointed star arrangement."
+  },
+  {
+    "name": "rhombille-tiling",
+    "category": "geometry",
+    "draw": "Hexagons each split into three rhombuses, making a pattern of stacked cube illusions."
+  },
+  {
+    "name": "octagon-square-tiling",
+    "category": "geometry",
+    "draw": "A tiling of regular octagons with small squares filling the gaps between them."
+  },
+  {
+    "name": "trihexagonal-tiling",
+    "category": "geometry",
+    "draw": "A tiling of hexagons separated by small triangles, forming a star of lines pattern."
+  },
+  {
+    "name": "cairo-pentagonal-tiling",
+    "category": "geometry",
+    "draw": "A tiling of irregular pentagons arranged in pairs at right angles, like a paved street."
+  },
+  {
+    "name": "truchet-tiles",
+    "category": "geometry",
+    "draw": "A square grid of tiles each holding two quarter circle arcs in corners, joining into meandering curves."
+  },
+  {
+    "name": "islamic-geometric-pattern",
+    "category": "geometry",
+    "draw": "An interlaced eight pointed star with a surrounding square lattice of straps, like a tiled rosette."
+  },
+  {
+    "name": "aperiodic-monotile",
+    "category": "geometry",
+    "draw": "Several identical hat shaped polygon tiles fitted together in a non repeating patch."
+  },
+  {
+    "name": "fish-scale-pattern",
+    "category": "geometry",
+    "draw": "Rows of overlapping semicircle scallops stacked in offset layers, like fish scales or roof shingles."
+  },
+  {
+    "name": "basketweave-pattern",
+    "category": "geometry",
+    "draw": "Pairs of parallel rectangles alternating between horizontal and vertical in a checkerboard layout."
+  },
+  {
+    "name": "pentomino",
+    "category": "geometry",
+    "draw": "Five equal squares joined edge to edge into an irregular cross like block shape."
+  },
+  {
+    "name": "hexaflexagon",
+    "category": "geometry",
+    "draw": "A flat hexagon folded from paper, divided into six triangles with alternating shaded faces."
+  },
+  {
+    "name": "dragon-curve",
+    "category": "geometry",
+    "draw": "A single fractal line of short right angle turns folding into a curled dragon shaped outline."
+  },
+  {
+    "name": "cantor-set",
+    "category": "geometry",
+    "draw": "Stacked horizontal bars, each row splitting the one above into two with the middle third removed."
+  },
+  {
+    "name": "menger-sponge",
+    "category": "geometry",
+    "draw": "A cube in three quarter view with a square hole punched through the center of each face and smaller holes around it."
+  },
+  {
+    "name": "pythagoras-tree",
+    "category": "geometry",
+    "draw": "A fractal tree built from squares, each topped by a right triangle supporting two smaller squares."
+  },
+  {
+    "name": "sierpinski-carpet",
+    "category": "geometry",
+    "draw": "A square with the middle ninth removed, and each remaining square having its own middle removed."
+  },
+  {
+    "name": "h-tree-fractal",
+    "category": "geometry",
+    "draw": "An H shape with smaller H shapes at each of its four tips, repeated two levels deep."
+  },
+  {
+    "name": "borromean-rings",
+    "category": "geometry",
+    "draw": "Three interlocking circles overlapping in a triangle arrangement, each passing over one ring and under the other."
+  },
+  {
+    "name": "hopf-link",
+    "category": "geometry",
+    "draw": "Two circles linked together like a pair of chain links, each passing through the other."
+  },
+  {
+    "name": "triskelion",
+    "category": "geometry",
+    "draw": "Three curved spiral arms radiating from a shared center, each ending in a small coil."
+  },
+  {
+    "name": "kanizsa-triangle",
+    "category": "geometry",
+    "draw": "Three black circles with wedges cut out arranged so the gaps suggest a bright white triangle between them."
+  },
+  {
+    "name": "muller-lyer-illusion",
+    "category": "geometry",
+    "draw": "Two equal horizontal lines, one with inward pointing arrowheads and one with outward pointing fins."
+  },
+  {
+    "name": "ebbinghaus-illusion",
+    "category": "geometry",
+    "draw": "Two equal center circles, one surrounded by large circles and one surrounded by small circles."
+  },
+  {
+    "name": "cafe-wall-illusion",
+    "category": "geometry",
+    "draw": "Rows of alternating dark and light bricks offset from each other so the straight grout lines look tilted."
+  },
+  {
+    "name": "hering-illusion",
+    "category": "geometry",
+    "draw": "Two straight parallel lines crossing a fan of radiating lines so they appear to bow outward."
+  },
+  {
+    "name": "spherical-coordinates",
+    "category": "geometry",
+    "draw": "A sphere with a point on its surface, a line from the center to it and angle arcs from the vertical and horizontal axes."
+  },
+  {
+    "name": "orthographic-views",
+    "category": "geometry",
+    "draw": "Front, top and side outlines of the same simple block shape arranged in an L layout with dashed alignment lines."
+  },
+  {
+    "name": "delaunay-triangulation",
+    "category": "geometry",
+    "draw": "Scattered dots joined by straight lines into a mesh of irregular triangles."
+  },
+  {
+    "name": "convex-hull",
+    "category": "geometry",
+    "draw": "Scattered dots with an outer polygon boundary stretched around them like a rubber band."
+  },
+  {
+    "name": "riemann-sum",
+    "category": "geometry",
+    "draw": "A curve on axes with a row of rectangles beneath it whose tops touch the curve."
+  },
+  {
+    "name": "area-under-curve",
+    "category": "geometry",
+    "draw": "A curve on crossed axes with the region between it and the x axis filled."
+  },
+  {
+    "name": "function-mapping-diagram",
+    "category": "geometry",
+    "draw": "Two tall ovals holding dots, with arrows running from dots in the left oval to dots in the right oval."
+  },
+  {
+    "name": "spherical-shell",
+    "category": "geometry",
+    "draw": "A sphere with a wedge cut away to reveal a thin hollow wall and an empty inside."
+  },
+  {
+    "name": "sphere-in-cylinder",
+    "category": "geometry",
+    "draw": "A sphere fitting exactly inside a cylinder, touching its top, bottom and curved side."
+  },
+  {
+    "name": "full-angle",
+    "category": "geometry",
+    "draw": "A single ray from a center dot with a circular arrow sweeping all the way around it, marking 360 degrees."
+  },
+  {
+    "name": "cassini-oval",
+    "category": "geometry",
+    "draw": "A peanut shaped closed curve pinched in the middle, with two small focus dots inside its lobes."
+  },
+  {
+    "name": "rhombitrihexagonal-tiling",
+    "category": "geometry",
+    "draw": "A central hexagon ringed by alternating squares and small triangles, part of a repeating tiling."
+  },
+  {
+    "name": "pythagorean-tiling",
+    "category": "geometry",
+    "draw": "A tiling of large squares and small squares interlocking in a pinwheel offset, like a hopscotch paving."
+  },
+  {
+    "name": "vicsek-fractal",
+    "category": "geometry",
+    "draw": "A plus shaped cross of five squares where each square is itself a smaller cross of five squares."
+  },
+  {
+    "name": "ponzo-illusion",
+    "category": "geometry",
+    "draw": "Two converging railway lines with two equal horizontal bars, the upper bar looking longer."
+  },
+  {
+    "name": "poggendorff-illusion",
+    "category": "geometry",
+    "draw": "A straight diagonal line interrupted by a vertical bar, its two visible parts appearing misaligned."
+  },
+  {
+    "name": "jastrow-illusion",
+    "category": "geometry",
+    "draw": "Two identical curved arch shaped segments stacked one above the other, the lower one looking larger."
+  },
+  {
+    "name": "hermann-grid-illusion",
+    "category": "geometry",
+    "draw": "A grid of filled squares separated by light lines, with faint grey dots suggested at the crossings."
+  },
+  {
+    "name": "lattice-polygon",
+    "category": "geometry",
+    "draw": "A polygon drawn on a square grid of dots, each corner sitting exactly on a dot."
+  },
+  {
+    "name": "four-color-map",
+    "category": "geometry",
+    "draw": "A square map split into irregular regions filled with four different patterns so no neighbors match."
+  },
+  {
+    "name": "konigsberg-bridges",
+    "category": "geometry",
+    "draw": "A river splitting around two islands, joined to the banks and each other by seven short bridges."
+  },
+  {
+    "name": "faces-edges-vertices",
+    "category": "geometry",
+    "draw": "A cube with one face shaded, one edge drawn thick and one corner marked with a dot."
+  },
+  {
+    "name": "dual-polyhedron",
+    "category": "geometry",
+    "draw": "A wireframe cube with an octahedron inside whose corners touch the center of each cube face."
+  },
+  {
+    "name": "polyiamond",
+    "category": "geometry",
+    "draw": "Four equal triangles joined edge to edge into an irregular zigzag strip shape."
+  },
+  {
+    "name": "star-prism",
+    "category": "geometry",
+    "draw": "A five pointed star extruded into a thick three dimensional block, shown in perspective with side walls."
+  },
+  {
+    "name": "kolam-pattern",
+    "category": "geometry",
+    "draw": "A square grid of dots with one continuous looping line weaving around them, as in South Indian threshold drawings."
+  },
+  {
+    "name": "asanoha-pattern",
+    "category": "geometry",
+    "draw": "A six pointed star made of thin triangles radiating from a center, repeated as the Japanese hemp leaf pattern."
+  },
+  {
+    "name": "euler-diagram",
+    "category": "geometry",
+    "draw": "A large circle containing a smaller circle inside it, with a third separate circle standing apart."
+  },
+  {
+    "name": "triple-venn-diagram",
+    "category": "geometry",
+    "draw": "Three overlapping circles arranged in a triangle, with the shared center region filled."
+  },
+  {
+    "name": "triangular-numbers",
+    "category": "geometry",
+    "draw": "Dots stacked into growing triangles: one dot, then three, then six, side by side."
+  },
+  {
+    "name": "polycube",
+    "category": "geometry",
+    "draw": "A few equal cubes joined face to face into an L shaped block, drawn in isometric view."
+  },
+  {
+    "name": "annular-sector",
+    "category": "geometry",
+    "draw": "A curved block cut from a ring: two arcs of different radii joined by two short straight ends."
+  },
+  {
+    "name": "extrude",
+    "category": "geometry",
+    "draw": "A flat hexagon on the bottom with an upward arrow and a hexagonal prism rising from it."
+  },
+  {
+    "name": "loft-solid",
+    "category": "geometry",
+    "draw": "A square outline at the bottom and a circle outline at the top joined by smooth curving side lines into one solid."
+  },
+  {
+    "name": "polyline",
+    "category": "geometry",
+    "draw": "An open chain of straight line segments zigzagging across, with a dot at every joint and both ends."
+  },
+  {
+    "name": "pyramid-frustum",
+    "category": "geometry",
+    "draw": "A square pyramid with its top sliced off flat, leaving a smaller square top face in perspective."
+  },
+  {
+    "name": "parabolic-focus",
+    "category": "geometry",
+    "draw": "A parabola with several parallel incoming lines bouncing off its inner curve and meeting at one focus dot."
+  },
+  {
+    "name": "vector-projection",
+    "category": "geometry",
+    "draw": "Two arrows from a shared start point with a dashed line dropped at a right angle from one tip onto the other."
+  },
+  {
+    "name": "miura-fold",
+    "category": "geometry",
+    "draw": "A sheet folded into a zigzag grid of slanted parallelograms, like an accordion folded map."
+  },
+  {
+    "name": "coastline-paradox",
+    "category": "geometry",
+    "draw": "A jagged coastline outline measured by a chain of straight ruler segments hugging its edge."
+  },
+  {
+    "name": "hollow-cylinder",
+    "category": "geometry",
+    "draw": "A thick walled tube shown upright, its top face a ring between an outer and inner ellipse."
+  },
+  {
+    "name": "quadtree",
+    "category": "geometry",
+    "draw": "A square split into four quadrants, with one quadrant split again into four and one of those split once more."
+  },
+  {
+    "name": "unit-cell",
+    "category": "geometry",
+    "draw": "A wireframe cube with a small ball at each of its eight corners, as in a crystal lattice."
+  },
+  {
+    "name": "fraser-spiral-illusion",
+    "category": "geometry",
+    "draw": "Concentric rings made of short slanted segments over a patterned background, looking like a spiral."
+  },
+  {
+    "name": "zollner-illusion",
+    "category": "geometry",
+    "draw": "Several long parallel lines crossed by short slanted hatch marks in alternating directions, appearing tilted."
+  },
+  {
+    "name": "oblique-cone",
+    "category": "geometry",
+    "draw": "A cone whose apex leans off to one side, not directly above the center of its round base."
+  },
+  {
+    "name": "oblique-cylinder",
+    "category": "geometry",
+    "draw": "A cylinder whose top ellipse is shifted sideways from its base, the sides leaning at a slant."
+  },
+  {
+    "name": "cyclic-quadrilateral",
+    "category": "geometry",
+    "draw": "An irregular four sided shape drawn inside a circle with all four corners on the circle."
+  },
+  {
+    "name": "triangle-midsegment",
+    "category": "geometry",
+    "draw": "A triangle with a line joining the midpoints of two sides, parallel to the base, midpoints marked with ticks."
+  },
+  {
+    "name": "cube-space-diagonal",
+    "category": "geometry",
+    "draw": "A see-through cube with a line running from one bottom front corner to the opposite top back corner."
+  },
+  {
+    "name": "truncated-hexagonal-tiling",
+    "category": "geometry",
+    "draw": "A tiling of large dodecagons with small triangles filling the gaps where three of them meet."
+  },
+  {
+    "name": "folium-of-descartes",
+    "category": "geometry",
+    "draw": "A curve that forms a closed leaf shaped loop at the origin and trails off in two tails toward a dashed slanted line."
+  },
+  {
+    "name": "sander-illusion",
+    "category": "geometry",
+    "draw": "A large and a small parallelogram joined side by side, each crossed by a diagonal that are really equal in length."
+  },
+  {
+    "name": "spherical-wedge",
+    "category": "geometry",
+    "draw": "A segment of a sphere shaped like an orange slice, with two flat half circle faces meeting at an edge."
+  }
+]

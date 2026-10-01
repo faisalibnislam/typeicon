@@ -1,0 +1,482 @@
+[
+ {
+  "name": "arabic-tah",
+  "category": "scripts",
+  "draw": "Arabic letter tah (\u0637): a flat closed loop lying on the line with a tall straight stroke rising from its left end.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-zah",
+  "category": "scripts",
+  "draw": "Arabic letter zah (\u0638): the tah shape of a flat loop and tall upright stroke, with one dot above the loop.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-ghayn",
+  "category": "scripts",
+  "draw": "Arabic letter ghayn (\u063a): a small open c shaped head on a large open curve that sweeps down and around below the line, with one dot above.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-fa",
+  "category": "scripts",
+  "draw": "Arabic letter fa (\u0641): a small round loop on the right end of a long flat stroke that curls up at the left, with one dot above the loop.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-qaf",
+  "category": "scripts",
+  "draw": "Arabic letter qaf (\u0642): a small round loop on top of a deep round bowl sweeping below the line, with two dots above.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-kaf",
+  "category": "scripts",
+  "draw": "Arabic letter kaf (\u0643): a tall upright stroke on the left joined to a flat base that curls up at the right, with a small s like squiggle inside.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-lam",
+  "category": "scripts",
+  "draw": "Arabic letter lam (\u0644): a tall straight stroke that curves at its foot into a deep round bowl rising back up on the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-mim",
+  "category": "scripts",
+  "draw": "Arabic letter mim (\u0645): a small closed round loop on the line with a straight tail dropping down beneath it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-nun",
+  "category": "scripts",
+  "draw": "Arabic letter nun (\u0646): a deep round open bowl like a cup with one dot above its centre.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-heh",
+  "category": "scripts",
+  "draw": "Arabic letter heh (\u0647): a small rounded teardrop loop with a smaller loop folded inside it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-waw",
+  "category": "scripts",
+  "draw": "Arabic letter waw (\u0648): a small round head loop with a tail curving down and to the left below the line.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-ya",
+  "category": "scripts",
+  "draw": "Arabic letter ya (\u064a): a small curl at the top right dropping into a wide bowl that sweeps back to the right under the line, with two dots below.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-alif-maqsura",
+  "category": "scripts",
+  "draw": "Arabic letter alif maqsura (\u0649): the ya shape of a top curl and wide sweeping bowl with no dots.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-hamza",
+  "category": "scripts",
+  "draw": "Arabic hamza (\u0621): a small standalone hooked mark like a backwards c whose lower end flicks out into a short diagonal tail.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-ta-marbuta",
+  "category": "scripts",
+  "draw": "Arabic ta marbuta (\u0629): a small closed round loop like heh with two dots side by side above it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-lam-alif",
+  "category": "scripts",
+  "draw": "Arabic lam alif ligature (\u0644\u0627): two tall strokes crossing in a V that join at a small loop at the base.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-peh",
+  "category": "scripts",
+  "draw": "Arabic script letter peh (Persian, Urdu) (\u067e): the shallow canoe shaped bowl with three dots in a triangle below it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-tcheh",
+  "category": "scripts",
+  "draw": "Arabic script letter tcheh (Persian, Urdu) (\u0686): the folded top stroke and deep reversed C sweep of jim with three dots inside the curve.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-jeh",
+  "category": "scripts",
+  "draw": "Arabic script letter jeh (Persian) (\u0698): the comma like ra stroke with three dots in a triangle above it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-gaf",
+  "category": "scripts",
+  "draw": "Arabic script letter gaf (Persian, Urdu) (\u06af): a tall slanted stroke on the left joined to a flat base that curls up at the right, with a second short slanted bar parallel above the top.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-giyeok",
+  "category": "scripts",
+  "draw": "Hangul consonant giyeok (\u3131): a horizontal stroke across the top that turns sharply down at the right end into a vertical stroke.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-digeut",
+  "category": "scripts",
+  "draw": "Hangul consonant digeut (\u3137): a squared C of a top bar, a left upright and a bottom bar that reaches further right than the top.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-rieul",
+  "category": "scripts",
+  "draw": "Hangul consonant rieul (\u3139): three horizontal strokes joined by alternating right and left uprights, like a squared S.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-bieup",
+  "category": "scripts",
+  "draw": "Hangul consonant bieup (\u3142): two vertical stems joined by a middle crossbar and a closed bottom bar, like an open topped box with a shelf.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-jieut",
+  "category": "scripts",
+  "draw": "Hangul consonant jieut (\u3148): a horizontal top bar with an upside down V hanging from its centre.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-chieut",
+  "category": "scripts",
+  "draw": "Hangul consonant chieut (\u314a): the jieut shape of a top bar over an upside down V, with a short tick stroke above the bar.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-kieuk",
+  "category": "scripts",
+  "draw": "Hangul consonant kieuk (\u314b): the giyeok right angle with an extra short horizontal stroke through its middle.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-pieup",
+  "category": "scripts",
+  "draw": "Hangul consonant pieup (\u314d): a top bar and a longer bottom bar joined by two short vertical stems, like a small stool.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-hieut",
+  "category": "scripts",
+  "draw": "Hangul consonant hieut (\u314e): a short tick on top of a horizontal bar, sitting above a small circle.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ssanggiyeok",
+  "category": "scripts",
+  "draw": "Hangul double consonant ssanggiyeok (\u3132): two small giyeok right angles side by side.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ssangdigeut",
+  "category": "scripts",
+  "draw": "Hangul double consonant ssangdigeut (\u3138): two small squared C digeut shapes side by side.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ssangbieup",
+  "category": "scripts",
+  "draw": "Hangul double consonant ssangbieup (\u3143): two small bieup boxes with crossbars side by side.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ssangsiot",
+  "category": "scripts",
+  "draw": "Hangul double consonant ssangsiot (\u3146): two small upside down V shapes like tiny tents side by side.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ssangjieut",
+  "category": "scripts",
+  "draw": "Hangul double consonant ssangjieut (\u3149): two small jieut shapes, each a top bar over an upside down V, side by side.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-a",
+  "category": "scripts",
+  "draw": "Hangul vowel a (\u314f): a tall vertical stroke with one short horizontal tick sticking out to the right at mid height.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ya",
+  "category": "scripts",
+  "draw": "Hangul vowel ya (\u3151): a tall vertical stroke with two short horizontal ticks sticking out to the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-eo",
+  "category": "scripts",
+  "draw": "Hangul vowel eo (\u3153): a tall vertical stroke with one short horizontal tick sticking out to the left at mid height.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-yeo",
+  "category": "scripts",
+  "draw": "Hangul vowel yeo (\u3155): a tall vertical stroke with two short horizontal ticks sticking out to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-yo",
+  "category": "scripts",
+  "draw": "Hangul vowel yo (\u315b): a long horizontal base bar with two short vertical ticks standing on it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ae",
+  "category": "scripts",
+  "draw": "Hangul vowel ae (\u3150): two tall vertical strokes side by side with one short tick running from the left stroke toward the right one.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-e",
+  "category": "scripts",
+  "draw": "Hangul vowel e (\u3154): two tall vertical strokes side by side with one short tick sticking out to the left of the left stroke.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-yae",
+  "category": "scripts",
+  "draw": "Hangul vowel yae (\u3152): two tall vertical strokes side by side with two short ticks running from the left stroke toward the right one.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ye",
+  "category": "scripts",
+  "draw": "Hangul vowel ye (\u3156): two tall vertical strokes side by side with two short ticks sticking out to the left of the left stroke.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-wa",
+  "category": "scripts",
+  "draw": "Hangul vowel wa (\u3158): a short upright tick standing on a horizontal bar at the lower left, beside a tall vertical with a tick to the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-wae",
+  "category": "scripts",
+  "draw": "Hangul vowel wae (\u3159): a short upright tick on a horizontal bar at the lower left, beside two tall verticals with a tick between them.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-oe",
+  "category": "scripts",
+  "draw": "Hangul vowel oe (\u315a): a short upright tick standing on a horizontal bar at the lower left, beside a plain tall vertical stroke.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-wo",
+  "category": "scripts",
+  "draw": "Hangul vowel wo (\u315d): a horizontal bar with a short stem dropping below it at the lower left, beside a tall vertical with a tick to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-we",
+  "category": "scripts",
+  "draw": "Hangul vowel we (\u315e): a horizontal bar with a short stem dropping below it, beside two tall verticals with a tick out to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-wi",
+  "category": "scripts",
+  "draw": "Hangul vowel wi (\u315f): a horizontal bar with a short stem dropping below it at the lower left, beside a plain tall vertical stroke.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hangul-ui",
+  "category": "scripts",
+  "draw": "Hangul vowel ui (\u3162): a plain horizontal bar at the lower left beside a plain tall vertical stroke on the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-i",
+  "category": "scripts",
+  "draw": "Hiragana i (\u3044): two short near vertical strokes side by side, the left one longer with a small hook at its foot.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-u",
+  "category": "scripts",
+  "draw": "Hiragana u (\u3046): a short dash on top above a stroke that arcs right and sweeps down into a hook to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-e",
+  "category": "scripts",
+  "draw": "Hiragana e (\u3048): a short dash on top above a zigzag that runs right, cuts diagonally down left, then ends in a long flat tail to the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-o",
+  "category": "scripts",
+  "draw": "Hiragana o (\u304a): a horizontal bar crossed by a vertical stroke that loops into a round belly on the right, with a small dash at the upper right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ka",
+  "category": "scripts",
+  "draw": "Hiragana ka (\u304b): an angular stroke like a 7 with a hooked foot crossed by a slanted downstroke, plus a separate short dash at the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ki",
+  "category": "scripts",
+  "draw": "Hiragana ki (\u304d): two horizontal bars crossed by a slanted stroke, with a separate open curve at the bottom.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ke",
+  "category": "scripts",
+  "draw": "Hiragana ke (\u3051): a tall curved upright on the left, and on the right a horizontal bar crossed by a long stroke curving down to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ko",
+  "category": "scripts",
+  "draw": "Hiragana ko (\u3053): two short curved horizontal strokes stacked, the top one ending in a small hook and the bottom one curving up at the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-sa",
+  "category": "scripts",
+  "draw": "Hiragana sa (\u3055): a horizontal bar crossed by a slanted stroke, above a separate open curve like a backwards c.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-shi",
+  "category": "scripts",
+  "draw": "Hiragana shi (\u3057): a single long stroke that drops straight down and curves up to the right at the bottom like a hook.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-su",
+  "category": "scripts",
+  "draw": "Hiragana su (\u3059): a horizontal bar crossed by a vertical stroke that makes a small loop before dropping into a tail.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-se",
+  "category": "scripts",
+  "draw": "Hiragana se (\u305b): a long horizontal bar crossed by a short right upright and a longer left upright that curves into a flat base.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-so",
+  "category": "scripts",
+  "draw": "Hiragana so (\u305d): a zigzag of a short dash, a diagonal, a long horizontal and a curved tail sweeping down and back to the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ta",
+  "category": "scripts",
+  "draw": "Hiragana ta (\u305f): a cross shaped stroke on the left beside two short horizontal strokes stacked on the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-chi",
+  "category": "scripts",
+  "draw": "Hiragana chi (\u3061): a horizontal bar crossed by a slanted stroke that bends into a rounded bowl opening to the left, like a 5.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-tsu",
+  "category": "scripts",
+  "draw": "Hiragana tsu (\u3064): a single wide arch that starts flat on the left, curves over at the right and sweeps down into a hook to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-te",
+  "category": "scripts",
+  "draw": "Hiragana te (\u3066): a horizontal stroke that folds back at the right end and curves down into a long c shape.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-to",
+  "category": "scripts",
+  "draw": "Hiragana to (\u3068): a short slanted stroke above a second stroke that curves down and back to the right into a flat base.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-na",
+  "category": "scripts",
+  "draw": "Hiragana na (\u306a): a cross shaped stroke with a short dash on the right, above a small loop at the lower right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ni",
+  "category": "scripts",
+  "draw": "Hiragana ni (\u306b): a tall curved upright on the left beside two short horizontal strokes stacked on the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-nu",
+  "category": "scripts",
+  "draw": "Hiragana nu (\u306c): two crossing diagonal strokes forming an overlapping loop that ends in a small round curl at the lower right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ne",
+  "category": "scripts",
+  "draw": "Hiragana ne (\u306d): a tall vertical stroke on the left crossed by a zigzag that loops around to the right and ends in a small curl.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-no",
+  "category": "scripts",
+  "draw": "Hiragana no (\u306e): a single spiral stroke starting at the centre that curves over the top and around, like a cursive @.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ha",
+  "category": "scripts",
+  "draw": "Hiragana ha (\u306f): a tall upright on the left, and on the right a horizontal bar crossed by a stroke ending in a small loop.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-hi",
+  "category": "scripts",
+  "draw": "Hiragana hi (\u3072): a single stroke that starts with a short flick, dips into a deep round bowl and rises with a flick at the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-fu",
+  "category": "scripts",
+  "draw": "Hiragana fu (\u3075): four small separate strokes: a top curve, a central hooked bowl and a dot on each side.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-he",
+  "category": "scripts",
+  "draw": "Hiragana he (\u3078): a single stroke rising to a short peak on the left and descending in a longer gentle slope to the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ho",
+  "category": "scripts",
+  "draw": "Hiragana ho (\u307b): a tall upright on the left, and on the right two horizontal bars crossed by a stroke ending in a small loop.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ma",
+  "category": "scripts",
+  "draw": "Hiragana ma (\u307e): two horizontal bars crossed by a vertical stroke that ends in a small loop at the bottom.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-mi",
+  "category": "scripts",
+  "draw": "Hiragana mi (\u307f): a stroke that zigzags into a loop at the lower left and sweeps right, crossed by a short slanted stroke at the right.",
+  "domain": "r2-writing-systems"
+ }
+]

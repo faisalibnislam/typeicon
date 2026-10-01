@@ -1,0 +1,32 @@
+[
+ {
+  "name": "book-cipher",
+  "category": "privacy",
+  "draw": "Open book with a few words circled and a small row of number pairs written beneath it.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "cipher-grille",
+  "category": "privacy",
+  "draw": "Card with several rectangular holes cut in it laid over lines of text, revealing only some letters.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "safe-exchange-zone",
+  "category": "privacy",
+  "draw": "Signpost with a handshake symbol on its panel and a small security camera mounted on top of the post.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "card-cloning",
+  "category": "privacy",
+  "draw": "Two identical access cards, one solid and one dashed, with a copy arrow from the first to the second.",
+  "domain": "security-and-identity"
+ },
+ {
+  "name": "relay-attack",
+  "category": "privacy",
+  "draw": "Key fob on the left and a car on the right with a small relay box in between passing zigzag signal lines.",
+  "domain": "security-and-identity"
+ }
+]

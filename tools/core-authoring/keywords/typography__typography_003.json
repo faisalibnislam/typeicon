@@ -1,0 +1,1330 @@
+{
+ "match-whole-word": {
+  "context": "The letters a and b between square brackets with a line under them. It is the whole word option in find and replace bars and code editor search boxes.",
+  "keywords": [
+   "whole word",
+   "match word",
+   "exact word",
+   "find and replace",
+   "search option",
+   "word boundary",
+   "regex",
+   "match whole word only",
+   "find whole words",
+   "search exact",
+   "editor search",
+   "text search",
+   "toggle",
+   "ab",
+   "brackets",
+   "word match"
+  ]
+ },
+ "paste-as-text": {
+  "context": "A clipboard with a capital T on its sheet. Used for commands that paste copied content without its fonts, colours or links.",
+  "keywords": [
+   "paste plain text",
+   "paste without formatting",
+   "paste as plain text",
+   "unformatted paste",
+   "clipboard",
+   "paste special",
+   "strip formatting",
+   "plain text",
+   "text only",
+   "no styles",
+   "paste text",
+   "editor command",
+   "copy and paste",
+   "clear formatting on paste",
+   "paste text only"
+  ]
+ },
+ "clipboard-history": {
+  "context": "A clipboard with a small clock at its lower corner. Used for lists of recently copied items that can be pasted again.",
+  "keywords": [
+   "clipboard manager",
+   "recent copies",
+   "copy history",
+   "paste history",
+   "previous clips",
+   "clipboard log",
+   "recent clipboard",
+   "clipboard items",
+   "clipboard timeline",
+   "copied items",
+   "paste again",
+   "clock",
+   "history",
+   "saved clips",
+   "copy paste history"
+  ]
+ },
+ "insert-symbol": {
+  "context": "An omega sign inside a rounded square. It stands for the command that opens a special character picker in editors.",
+  "keywords": [
+   "special characters",
+   "character map",
+   "insert character",
+   "symbol picker",
+   "omega",
+   "greek letter",
+   "glyph",
+   "unicode",
+   "symbols menu",
+   "insert special character",
+   "character palette",
+   "emoji and symbols",
+   "special symbol",
+   "typography",
+   "editor command"
+  ]
+ },
+ "insert-equation": {
+  "context": "A pi sign beside an equals mark inside a rounded square. Used for commands that add a maths formula to a document.",
+  "keywords": [
+   "equation editor",
+   "insert formula",
+   "math formula",
+   "pi",
+   "equals",
+   "maths",
+   "mathematics",
+   "formula editor",
+   "math equation",
+   "add equation",
+   "latex",
+   "math symbols",
+   "calculation",
+   "equation",
+   "insert math",
+   "document formula"
+  ]
+ },
+ "autosave": {
+  "context": "A document with a circular arrow and a small cloud at its corner. Shows that changes are being saved automatically.",
+  "keywords": [
+   "auto save",
+   "saving automatically",
+   "save in cloud",
+   "cloud save",
+   "sync document",
+   "backup",
+   "auto backup",
+   "save status",
+   "saved to cloud",
+   "continuous save",
+   "document sync",
+   "autosave on",
+   "recovery",
+   "draft saved",
+   "save changes automatically"
+  ]
+ },
+ "ruby-annotation": {
+  "context": "A large East Asian style character with a row of tiny marks above it. Used for pronunciation guides written above characters in Japanese, Chinese and Korean text.",
+  "keywords": [
+   "furigana",
+   "ruby text",
+   "pronunciation guide",
+   "reading aid",
+   "phonetic guide",
+   "annotation",
+   "japanese",
+   "kanji",
+   "chinese characters",
+   "pinyin",
+   "cjk",
+   "east asian text",
+   "small text above",
+   "ruby",
+   "rubi",
+   "reading marks",
+   "bopomofo"
+  ]
+ },
+ "emphasis-dots": {
+  "context": "Three character marks in a row, each with a small dot above it. Marks emphasis in East Asian text the way italics do in Latin text.",
+  "keywords": [
+   "emphasis marks",
+   "bouten",
+   "kenten",
+   "dots above text",
+   "sesame dots",
+   "cjk emphasis",
+   "japanese emphasis",
+   "stress marks",
+   "emphasize characters",
+   "text emphasis",
+   "dotted emphasis",
+   "emphasis dot",
+   "accent dots",
+   "highlight characters",
+   "korean emphasis"
+  ]
+ },
+ "kashida-justification": {
+  "context": "A flowing cursive stroke with a double arrow stretching above its middle. Stands for Arabic style justification that lengthens connecting strokes instead of widening spaces.",
+  "keywords": [
+   "tatweel",
+   "kashida",
+   "arabic justification",
+   "elongation",
+   "stretch letters",
+   "justify arabic",
+   "cursive stretch",
+   "arabic text",
+   "persian text",
+   "urdu",
+   "justify text",
+   "extend strokes",
+   "lengthen connection",
+   "text alignment",
+   "arabic typography"
+  ]
+ },
+ "bidirectional-text": {
+  "context": "Two lines of text, one with an arrow pointing right and one with an arrow pointing left. Shows text that mixes left to right and right to left scripts.",
+  "keywords": [
+   "bidi",
+   "rtl and ltr",
+   "mixed direction",
+   "right to left",
+   "left to right",
+   "arabic and english",
+   "hebrew",
+   "text direction",
+   "two way text",
+   "mixed scripts",
+   "direction switch",
+   "bidirectional",
+   "writing direction",
+   "language direction",
+   "rtl text"
+  ]
+ },
+ "boustrophedon": {
+  "context": "A path that runs along a line, turns around and returns along the next line, ending in an arrow. It shows the ancient practice of writing alternate lines in opposite directions.",
+  "keywords": [
+   "zigzag writing",
+   "snake path",
+   "alternating lines",
+   "ancient writing",
+   "ox turning",
+   "serpentine",
+   "back and forth",
+   "turn around",
+   "greek inscription",
+   "writing direction",
+   "line reversal",
+   "reverse reading",
+   "switchback",
+   "s curve",
+   "meander"
+  ]
+ },
+ "phonetic-transcription": {
+  "context": "A schwa sign between two slashes. It is how pronunciation is written in dictionaries and linguistics papers.",
+  "keywords": [
+   "ipa",
+   "international phonetic alphabet",
+   "pronunciation",
+   "schwa",
+   "phonetics",
+   "linguistics",
+   "dictionary pronunciation",
+   "speech sounds",
+   "phoneme",
+   "slashes",
+   "sound symbol",
+   "transcribe speech",
+   "say it",
+   "how to say",
+   "phonemic"
+  ]
+ },
+ "transliteration": {
+  "context": "A Latin letter A, an arrow and a Cyrillic letter Ya. Used for converting text from one alphabet to another by sound.",
+  "keywords": [
+   "romanization",
+   "script conversion",
+   "convert alphabet",
+   "cyrillic to latin",
+   "latin letters",
+   "russian",
+   "alphabet swap",
+   "convert script",
+   "spelling by sound",
+   "translate letters",
+   "transliterate",
+   "writing system",
+   "alphabet conversion",
+   "a to ya",
+   "letter mapping"
+  ]
+ },
+ "enclosed-character": {
+  "context": "A letter A inside a circle with a second circle overlapping behind it. Used for circled letters, badge style initials and enclosed alphanumerics.",
+  "keywords": [
+   "circled letter",
+   "circled character",
+   "enclosed alphanumeric",
+   "badge letter",
+   "initial in circle",
+   "monogram",
+   "circled a",
+   "avatar letter",
+   "letter badge",
+   "symbol letter",
+   "stacked circles",
+   "enclosed letter",
+   "round badge",
+   "initials",
+   "alphanumeric symbol"
+  ]
+ },
+ "dyslexia-friendly-text": {
+  "context": "The letters b and d with weighted bottoms standing on a thick baseline. Marks fonts and reading modes designed to keep mirror like letters apart.",
+  "keywords": [
+   "dyslexia",
+   "dyslexic font",
+   "readable text",
+   "reading aid",
+   "accessibility font",
+   "b and d",
+   "weighted letters",
+   "easy reading",
+   "reading mode",
+   "inclusive typography",
+   "learning difference",
+   "accessible text",
+   "letter confusion",
+   "reading support",
+   "legible font"
+  ]
+ },
+ "typing-speed": {
+  "context": "A keyboard with a small speedometer dial above it. Used for typing tests and words per minute results.",
+  "keywords": [
+   "wpm",
+   "words per minute",
+   "typing test",
+   "typing score",
+   "keyboard speed",
+   "typing practice",
+   "speedometer",
+   "gauge",
+   "typing tutor",
+   "fast typing",
+   "typing performance",
+   "typing game",
+   "speed test",
+   "keystrokes",
+   "typing skills"
+  ]
+ },
+ "grease-pencil": {
+  "context": "A marking pencil with a spiral paper wrapper and a peeled tip. Used for pencils that write on glass, film and glossy surfaces.",
+  "keywords": [
+   "china marker",
+   "wax pencil",
+   "marking pencil",
+   "glass pencil",
+   "peel off pencil",
+   "wax crayon",
+   "paper wrapped pencil",
+   "mark on glass",
+   "film marking",
+   "lithographic pencil",
+   "editing pencil",
+   "film editing",
+   "grease marker",
+   "draw",
+   "mark up"
+  ]
+ },
+ "typewriter-eraser": {
+  "context": "A pencil shaped eraser with a round rubber end and a small brush at the other end. A traditional tool for correcting typed pages.",
+  "keywords": [
+   "eraser",
+   "rubber",
+   "typewriter correction",
+   "erase mistakes",
+   "brush end",
+   "correction tool",
+   "ink eraser",
+   "typing eraser",
+   "office supplies",
+   "stationery",
+   "erase typing",
+   "retro office",
+   "correct errors",
+   "cleanup",
+   "pencil eraser"
+  ]
+ },
+ "pica-ruler": {
+  "context": "A straight ruler with long and short marks along its edge and small blocks for point sizes. Used by designers and printers to measure type and line length.",
+  "keywords": [
+   "type ruler",
+   "line gauge",
+   "points and picas",
+   "typographer's ruler",
+   "measuring tool",
+   "print measure",
+   "ruler",
+   "scale",
+   "typesetting measure",
+   "layout ruler",
+   "em measure",
+   "column width",
+   "printer's rule",
+   "pica scale",
+   "measuring type"
+  ]
+ },
+ "linen-tester": {
+  "context": "A small square lens on a folding stand above a flat base. Used to inspect printed dots, fabric weave and photographs up close.",
+  "keywords": [
+   "thread counter",
+   "loupe",
+   "magnifier",
+   "print inspection",
+   "magnifying glass",
+   "fabric weave",
+   "halftone check",
+   "inspection lens",
+   "folding magnifier",
+   "photo loupe",
+   "close inspection",
+   "textile tool",
+   "print quality",
+   "jeweler's loupe",
+   "lens stand"
+  ]
+ },
+ "printers-chase": {
+  "context": "A rectangular metal frame with a crossbar, lines of type on one side and locking wedges on the other. The frame that holds type in place on a letterpress.",
+  "keywords": [
+   "chase",
+   "letterpress",
+   "type frame",
+   "printing frame",
+   "forme",
+   "locking up type",
+   "quoins",
+   "typesetting",
+   "hand composition",
+   "print shop",
+   "metal type",
+   "printing press part",
+   "lock up",
+   "composing",
+   "old printing"
+  ]
+ },
+ "type-slug": {
+  "context": "A long metal bar with a row of raised letters cast along its top edge. Made by line casting machines for hot metal printing.",
+  "keywords": [
+   "slug",
+   "linotype",
+   "line of type",
+   "hot metal",
+   "line casting",
+   "metal type",
+   "typesetting",
+   "letterpress",
+   "raised letters",
+   "printing bar",
+   "cast type",
+   "newspaper printing",
+   "type line",
+   "composition",
+   "old typesetting"
+  ]
+ },
+ "dry-transfer-lettering": {
+  "context": "A sheet printed with a letter A and a pencil rubbing over it. Stands for rub down lettering that is pressed onto artwork by hand.",
+  "keywords": [
+   "rub on lettering",
+   "transfer sheet",
+   "rub down type",
+   "burnish",
+   "press type",
+   "instant lettering",
+   "rubbing",
+   "lettering sheet",
+   "letter transfer",
+   "paste up",
+   "graphic design tool",
+   "headlines",
+   "hand lettering aid",
+   "transfer letters",
+   "burnishing"
+  ]
+ },
+ "proof-press": {
+  "context": "A flat bed press with a large roller held above the bed by two posts and turned with a hand crank. Used to pull proofs from set type.",
+  "keywords": [
+   "proofing press",
+   "letterpress",
+   "roller press",
+   "galley proof",
+   "print proof",
+   "printing press",
+   "print shop",
+   "hand press",
+   "test print",
+   "cylinder press",
+   "pull a proof",
+   "type proof",
+   "printmaking",
+   "crank press",
+   "flat bed press"
+  ]
+ },
+ "book-chapter": {
+  "context": "An open book with a large numeral 1 and a text line on the left page and text lines on the right. Marks the start of a chapter.",
+  "keywords": [
+   "chapter",
+   "chapter one",
+   "chapter heading",
+   "first chapter",
+   "novel",
+   "section start",
+   "book section",
+   "book heading",
+   "reading",
+   "new chapter",
+   "table of contents entry",
+   "story",
+   "manuscript",
+   "ebook chapter",
+   "chapter number"
+  ]
+ },
+ "ghostwriter": {
+  "context": "A small ghost holding a pen that writes a line. Stands for writing done by someone who is not credited.",
+  "keywords": [
+   "ghost writer",
+   "anonymous author",
+   "uncredited writer",
+   "ghost",
+   "hidden author",
+   "writing for others",
+   "unnamed author",
+   "behind the scenes",
+   "pen name",
+   "ghost authored",
+   "invisible writer",
+   "content writer",
+   "copywriter",
+   "ghost writing service",
+   "author"
+  ]
+ },
+ "digital-notepad": {
+  "context": "A thin tablet with handwritten lines on its screen and a stylus resting on it. Used for handwriting and note taking apps.",
+  "keywords": [
+   "tablet notes",
+   "stylus",
+   "handwriting",
+   "note taking",
+   "digital notes",
+   "e ink",
+   "notepad",
+   "pen tablet",
+   "handwritten notes",
+   "sketch pad",
+   "writing tablet",
+   "digital paper",
+   "scribble",
+   "tablet and pen",
+   "notes app"
+  ]
+ },
+ "letter-stamps": {
+  "context": "Two small rubber stamps with round handles and the letters T and A on their bases. Used for alphabet stamp sets in crafts and printing.",
+  "keywords": [
+   "alphabet stamps",
+   "rubber stamps",
+   "letter stamp set",
+   "stamping",
+   "craft stamps",
+   "ink stamps",
+   "type stamps",
+   "stamp letters",
+   "scrapbooking",
+   "printing",
+   "handstamp",
+   "stamp pad",
+   "character stamps",
+   "label making",
+   "imprint"
+  ]
+ },
+ "calligraphy-guide-sheet": {
+  "context": "A sheet crossed by horizontal ruled lines and evenly spaced slanted lines. Used under practice paper to keep lettering height and slant steady.",
+  "keywords": [
+   "guide sheet",
+   "practice sheet",
+   "slant lines",
+   "slant guide",
+   "lettering practice",
+   "handwriting practice",
+   "penmanship",
+   "ruled paper",
+   "grid paper",
+   "calligraphy practice",
+   "lettering guide",
+   "baseline guide",
+   "italic guide",
+   "writing lines",
+   "template"
+  ]
+ },
+ "didone-font": {
+  "context": "A capital A with a heavy right stroke, a hairline left stroke and thin flat serifs. Shows high contrast modern serif type.",
+  "keywords": [
+   "didone",
+   "modern serif",
+   "high contrast type",
+   "fashion magazine type",
+   "stroke contrast",
+   "hairline serif",
+   "thick and thin",
+   "serif font",
+   "classic typeface",
+   "fashion typography",
+   "editorial type",
+   "bracketless serif",
+   "elegant serif",
+   "display serif",
+   "typeface style"
+  ]
+ },
+ "seven-segment-digits": {
+  "context": "A figure eight built from seven separate bars. The shape of numbers on calculators, clocks and meters.",
+  "keywords": [
+   "seven segment",
+   "7 segment display",
+   "digital display",
+   "lcd digits",
+   "led digits",
+   "calculator display",
+   "digital numbers",
+   "digital clock",
+   "numerals",
+   "segment display",
+   "electronic numbers",
+   "counter",
+   "readout",
+   "8",
+   "display font"
+  ]
+ },
+ "letter-aperture": {
+  "context": "A lowercase c with three dots marking the gap between its two ends. Shows the opening of a letter, a trait that affects how easy type is to read.",
+  "keywords": [
+   "aperture",
+   "letter opening",
+   "open counter",
+   "c shape",
+   "typeface anatomy",
+   "legibility",
+   "letter gap",
+   "terminal gap",
+   "type design",
+   "anatomy of type",
+   "open shapes",
+   "readability",
+   "counter space",
+   "font anatomy",
+   "letterform"
+  ]
+ },
+ "side-bearings": {
+  "context": "A letter n inside a box with the empty strips on its left and right marked off. Used in font editors to set the space on each side of a glyph.",
+  "keywords": [
+   "sidebearing",
+   "side bearing",
+   "letter spacing",
+   "glyph metrics",
+   "kerning",
+   "font design",
+   "spacing",
+   "glyph box",
+   "advance width",
+   "font editor",
+   "type design",
+   "space around letter",
+   "tracking",
+   "metrics",
+   "glyph spacing"
+  ]
+ },
+ "cjk-full-stop": {
+  "context": "Two character marks followed by a small hollow circle sitting at the baseline. Shows the ideographic full stop that ends sentences in Chinese and Japanese.",
+  "keywords": [
+   "ideographic full stop",
+   "japanese period",
+   "chinese period",
+   "maru",
+   "kuten",
+   "cjk punctuation",
+   "end of sentence",
+   "circle period",
+   "full stop",
+   "hollow period",
+   "east asian punctuation",
+   "sentence end",
+   "punctuation",
+   "japanese text",
+   "chinese text"
+  ]
+ },
+ "eyebrow-heading": {
+  "context": "A short line of small spaced text above a thick heading bar and two lines of body text. Shows the small label that sits over a title.",
+  "keywords": [
+   "eyebrow",
+   "kicker",
+   "overline",
+   "label above title",
+   "heading",
+   "headline",
+   "typographic hierarchy",
+   "web design",
+   "section label",
+   "category label",
+   "pretitle",
+   "small caps label",
+   "title block",
+   "hero text",
+   "text hierarchy"
+  ]
+ },
+ "shape-poem": {
+  "context": "Short lines of text growing wider row by row to make the outline of a tree. Stands for poems and text art laid out in the shape of their subject.",
+  "keywords": [
+   "concrete poetry",
+   "calligram",
+   "poem shape",
+   "visual poetry",
+   "text art",
+   "tree shape",
+   "typographic art",
+   "shaped text",
+   "ascii art",
+   "poem",
+   "text layout",
+   "christmas tree",
+   "pyramid text",
+   "creative writing",
+   "typography art"
+  ]
+ },
+ "palimpsest": {
+  "context": "A page with bold lines of text over dashed traces of older writing. Used for manuscripts that were scraped and reused, and for layered or overwritten text.",
+  "keywords": [
+   "palimpsest",
+   "overwritten text",
+   "erased text",
+   "reused manuscript",
+   "parchment",
+   "old writing",
+   "layered text",
+   "faded writing",
+   "manuscript",
+   "text layers",
+   "hidden text beneath",
+   "ancient document",
+   "rewritten",
+   "history of text",
+   "scraped page"
+  ]
+ },
+ "underline-skip-ink": {
+  "context": "The letters g and y with an underline that breaks where their tails cross it. Shows the text decoration setting that keeps lines from touching descenders.",
+  "keywords": [
+   "skip ink",
+   "underline gap",
+   "descenders",
+   "text decoration",
+   "css underline",
+   "underline skip",
+   "text underline",
+   "descender gap",
+   "typography",
+   "underlined text",
+   "g and y",
+   "link underline",
+   "decoration skip",
+   "clean underline",
+   "text style"
+  ]
+ },
+ "hook-above-accent": {
+  "context": "A lowercase a with a small question mark shaped hook above it. Used for the hook above tone mark in Vietnamese and similar writing.",
+  "keywords": [
+   "hook above",
+   "hoi",
+   "vietnamese",
+   "diacritic",
+   "accent mark",
+   "tone mark",
+   "a with hook",
+   "question mark accent",
+   "vietnamese letters",
+   "hook accent",
+   "combining mark",
+   "accented letter",
+   "unicode accent",
+   "special character",
+   "tone sign"
+  ]
+ },
+ "typewriter-key": {
+  "context": "A round typewriter key with a letter on its face, standing on a neck above a slanted lever arm. Stands for manual typewriters and vintage typing.",
+  "keywords": [
+   "typewriter",
+   "key",
+   "keycap",
+   "typebar",
+   "retro typing",
+   "manual typewriter",
+   "vintage",
+   "round key",
+   "old keyboard",
+   "typing machine",
+   "antique office",
+   "letter key",
+   "retro keyboard",
+   "typewriter button",
+   "nostalgia"
+  ]
+ },
+ "proportion-wheel": {
+  "context": "Two stacked round discs with a ring of scale marks and a small window at the middle. A paste up tool for working out how much to enlarge or shrink a picture.",
+  "keywords": [
+   "scaling wheel",
+   "crop calculator",
+   "picture scaling",
+   "layout tool",
+   "dial",
+   "paste up",
+   "percentage wheel",
+   "enlargement",
+   "reduction",
+   "image scale",
+   "resize calculator",
+   "aspect ratio",
+   "graphic arts tool",
+   "sizing wheel",
+   "proportion calculator"
+  ]
+ },
+ "ornamental-rule": {
+  "context": "A horizontal line with a small diamond and two curling flourishes at its centre. Used as a decorative divider between sections of text.",
+  "keywords": [
+   "ornament",
+   "fleuron",
+   "divider",
+   "flourish",
+   "decorative rule",
+   "section break",
+   "dinkus",
+   "horizontal rule",
+   "text divider",
+   "scroll ornament",
+   "separator",
+   "decorative line",
+   "chapter break",
+   "swirl",
+   "book ornament",
+   "typographic ornament"
+  ]
+ },
+ "ai-writing-assistant": {
+  "context": "A pen nib writing a line beside a four point sparkle. Used for tools that draft or improve text with artificial intelligence.",
+  "keywords": [
+   "ai writing",
+   "writing assistant",
+   "generate text",
+   "autocomplete",
+   "copilot",
+   "magic write",
+   "sparkle",
+   "ai text",
+   "smart compose",
+   "rewrite with ai",
+   "content generator",
+   "ai draft",
+   "writing helper",
+   "text generation",
+   "ai pen"
+  ]
+ },
+ "paragraph-shading": {
+  "context": "Text lines above and below a hatched band. Stands for the setting that gives a paragraph a coloured background.",
+  "keywords": [
+   "shading",
+   "background colour",
+   "background color",
+   "paragraph shading",
+   "highlight block",
+   "text background",
+   "fill",
+   "paragraph fill",
+   "shaded paragraph",
+   "text block background",
+   "paragraph background",
+   "hatch",
+   "shade text",
+   "colored block",
+   "paragraph format"
+  ]
+ },
+ "paragraph-border": {
+  "context": "A block of text lines inside a thin rectangular outline. Stands for the setting that draws a box around a paragraph.",
+  "keywords": [
+   "paragraph border",
+   "text box border",
+   "boxed paragraph",
+   "frame text",
+   "outline",
+   "callout",
+   "border around text",
+   "box text",
+   "bordered text",
+   "text frame",
+   "paragraph box",
+   "enclose text",
+   "format paragraph",
+   "boxed text",
+   "border style"
+  ]
+ },
+ "table-of-authorities": {
+  "context": "A page with citation rows ending in page numbers and a small gavel at its lower corner. Used for the list of cases and statutes at the front of a legal brief.",
+  "keywords": [
+   "legal citations",
+   "gavel",
+   "legal brief",
+   "case law",
+   "index of cases",
+   "law document",
+   "statutes",
+   "court filing",
+   "citations list",
+   "brief",
+   "authorities",
+   "legal index",
+   "judge",
+   "law",
+   "legal reference list",
+   "court document"
+  ]
+ },
+ "handwritten-markup": {
+  "context": "A page with text lines, a hand drawn loop and an arrow leading out to the margin. Used for proofreading marks and review comments.",
+  "keywords": [
+   "markup",
+   "proofreading",
+   "annotation",
+   "circle word",
+   "hand drawn",
+   "editing marks",
+   "review",
+   "pen markup",
+   "margin note",
+   "correction",
+   "copy editing",
+   "ink annotation",
+   "mark up document",
+   "redline",
+   "comment arrow",
+   "draw on page"
+  ]
+ },
+ "synchronized-scrolling": {
+  "context": "Two narrow document pages with a pair of vertical arrows linking them. Used when two panes scroll together in a compare view.",
+  "keywords": [
+   "synchronized scroll",
+   "sync scroll",
+   "side by side",
+   "compare documents",
+   "linked scrolling",
+   "diff view",
+   "lockstep scroll",
+   "scroll together",
+   "split view",
+   "two panes",
+   "parallel scrolling",
+   "compare view",
+   "linked panes",
+   "dual pane",
+   "scroll lock"
+  ]
+ },
+ "synced-block": {
+  "context": "Two content blocks stacked on the left with circular sync arrows on their right. Stands for a block of content that stays identical wherever it appears.",
+  "keywords": [
+   "synced block",
+   "linked block",
+   "shared content",
+   "reusable block",
+   "sync",
+   "live copy",
+   "notes app block",
+   "mirrored block",
+   "duplicate content",
+   "linked content",
+   "sync content",
+   "content block",
+   "circular arrows",
+   "repeat block",
+   "linked section"
+  ]
+ },
+ "master-page": {
+  "context": "A page in front of a second page behind it, with the letter A on the front page. Used for page templates whose items repeat on other pages.",
+  "keywords": [
+   "master page",
+   "parent page",
+   "page template",
+   "layout",
+   "page layout",
+   "repeating elements",
+   "template page",
+   "publishing",
+   "running header",
+   "layered pages",
+   "layout master",
+   "page design",
+   "book layout",
+   "apply master",
+   "desktop publishing"
+  ]
+ },
+ "page-construction-canon": {
+  "context": "Two facing pages each crossed by diagonal lines with a small text block at the crossing. Shows the classic geometric method for placing margins and the text area.",
+  "keywords": [
+   "canon of page construction",
+   "villard",
+   "page layout",
+   "book design",
+   "margins",
+   "diagonals",
+   "golden canon",
+   "text block",
+   "facing pages",
+   "page geometry",
+   "proportions",
+   "typesetting layout",
+   "margin ratio",
+   "book margins",
+   "grid layout"
+  ]
+ },
+ "comic-sound-effect": {
+  "context": "A jagged burst with a bold slanted letter inside. Used for action words and sound effects in comics and graphic novels.",
+  "keywords": [
+   "onomatopoeia",
+   "comic",
+   "pow",
+   "sound effect",
+   "speech burst",
+   "graphic novel",
+   "action word",
+   "bang",
+   "explosion text",
+   "comic book",
+   "manga effect",
+   "impact word",
+   "starburst",
+   "caption burst",
+   "cartoon text"
+  ]
+ },
+ "acronym": {
+  "context": "Three stacked words whose first letters are drawn larger and bold in a column. Shows how an acronym is spelled out from initial letters.",
+  "keywords": [
+   "acronym",
+   "initialism",
+   "abbreviation",
+   "first letters",
+   "initials",
+   "mnemonic",
+   "spelled out",
+   "short form",
+   "capital letters",
+   "expand abbreviation",
+   "word list",
+   "stands for",
+   "vertical acronym",
+   "abbreviations",
+   "initial letters"
+  ]
+ },
+ "replacement-character": {
+  "context": "A diamond with a question mark inside. The mark shown when software cannot display a character, often from a text encoding error.",
+  "keywords": [
+   "unicode replacement",
+   "unknown character",
+   "encoding error",
+   "mojibake",
+   "unreadable text",
+   "missing glyph",
+   "fffd",
+   "broken text",
+   "invalid character",
+   "charset error",
+   "bad encoding",
+   "undefined character",
+   "question mark diamond",
+   "garbled text",
+   "tofu"
+  ]
+ },
+ "interlinear-translation": {
+  "context": "Bold lines of text each with a dotted smaller line directly beneath it. Used for word by word glosses and translations set between lines.",
+  "keywords": [
+   "interlinear",
+   "gloss",
+   "line by line translation",
+   "parallel lines",
+   "bilingual text",
+   "language learning",
+   "annotation",
+   "translated text",
+   "word for word",
+   "interlinear text",
+   "study bible",
+   "subtitle lines",
+   "translation lines",
+   "dual text",
+   "text and translation"
+  ]
+ },
+ "parallel-text": {
+  "context": "An open book with the letter A on the left page and a Cyrillic letter on the right, each above a text line. Stands for books that print two languages side by side.",
+  "keywords": [
+   "parallel text",
+   "bilingual book",
+   "dual language",
+   "translation",
+   "side by side text",
+   "bitext",
+   "reading",
+   "language learning book",
+   "two languages",
+   "facing translation",
+   "foreign language",
+   "translated edition",
+   "dual language reader",
+   "cyrillic",
+   "bilingual edition"
+  ]
+ },
+ "scansion-marks": {
+  "context": "A row of short syllable bars with alternating breve and stress marks above them. Used to mark the rhythm of lines of verse.",
+  "keywords": [
+   "scansion",
+   "prosody",
+   "metre",
+   "meter",
+   "stress marks",
+   "poetry",
+   "iambic",
+   "verse rhythm",
+   "syllables",
+   "breve",
+   "accent marks",
+   "poetic meter",
+   "stressed and unstressed",
+   "foot",
+   "poem analysis",
+   "literature"
+  ]
+ },
+ "typewriter-typeball": {
+  "context": "A sphere covered in raised character bumps with a clip at its top. The swappable print head used by some electric typewriters.",
+  "keywords": [
+   "typeball",
+   "type element",
+   "golf ball typewriter",
+   "print head",
+   "typewriter",
+   "retro office",
+   "electric typewriter",
+   "font ball",
+   "typing element",
+   "vintage office",
+   "character ball",
+   "impact printer",
+   "type sphere",
+   "swap font",
+   "office machine"
+  ]
+ },
+ "fluid-typography": {
+  "context": "A small phone beside a wide monitor, the monitor showing a larger letter A. Stands for text that scales smoothly with screen width.",
+  "keywords": [
+   "fluid type",
+   "responsive typography",
+   "clamp",
+   "scalable text",
+   "viewport units",
+   "web design",
+   "responsive text",
+   "text scaling",
+   "adaptive text",
+   "phone and desktop",
+   "screen sizes",
+   "font scaling",
+   "responsive font size",
+   "css type scale",
+   "resize text"
+  ]
+ },
+ "code-ligature": {
+  "context": "An equals sign and a greater than sign above a merged double arrow. Shows a programming font joining symbol pairs into one arrow.",
+  "keywords": [
+   "ligature",
+   "programming font",
+   "fat arrow",
+   "code font",
+   "arrow function",
+   "monospace",
+   "coding ligatures",
+   "merged symbols",
+   "equals greater than",
+   "font feature",
+   "symbol pair",
+   "glyph join",
+   "developer font",
+   "arrow operator",
+   "ligatures on"
+  ]
+ },
+ "postscript-note": {
+  "context": "A letter page with a signature scribble and a short extra line below it led by two small marks. Stands for the P.S. added after a signature.",
+  "keywords": [
+   "postscript",
+   "ps",
+   "p.s.",
+   "afterthought",
+   "letter",
+   "signature",
+   "note at the end",
+   "extra note",
+   "closing note",
+   "added line",
+   "letter ending",
+   "mail note",
+   "after signature",
+   "one more thing",
+   "personal letter"
+  ]
+ },
+ "spoiler-text": {
+  "context": "Lines of text with a speckled hidden block covering part of the middle line. Used for text that stays hidden until clicked.",
+  "keywords": [
+   "spoiler",
+   "hidden text",
+   "redacted",
+   "blur text",
+   "reveal",
+   "censored",
+   "hide text",
+   "spoiler tag",
+   "click to reveal",
+   "covered text",
+   "secret text",
+   "masked text",
+   "blackout",
+   "hidden words",
+   "spoiler alert"
+  ]
+ },
+ "backlinks": {
+  "context": "Two note pages with a bent arrow running from the lower page back up to the upper one. Shows the list of pages that link to the current note.",
+  "keywords": [
+   "backlink",
+   "linked mentions",
+   "references back",
+   "wiki links",
+   "note linking",
+   "bidirectional links",
+   "knowledge base",
+   "incoming links",
+   "cross reference",
+   "linked notes",
+   "mentions",
+   "inbound links",
+   "note graph",
+   "referenced by",
+   "link back"
+  ]
+ },
+ "diacritic-anchor": {
+  "context": "A lowercase a with a small crosshair above it. Marks the point where an accent attaches in font design.",
+  "keywords": [
+   "anchor point",
+   "mark attachment",
+   "diacritic",
+   "opentype",
+   "glyph anchor",
+   "font design",
+   "accent position",
+   "mark to base",
+   "combining accent",
+   "type design",
+   "attachment point",
+   "crosshair",
+   "accent placement",
+   "font editor",
+   "glyph mark"
+  ]
+ },
+ "horizontal-in-vertical-text": {
+  "context": "A vertical column of character boxes with two small digits set side by side in the middle. Shows upright numbers inside vertical East Asian text.",
+  "keywords": [
+   "tate chu yoko",
+   "vertical text",
+   "upright digits",
+   "cjk layout",
+   "horizontal in vertical",
+   "japanese typesetting",
+   "rotated numbers",
+   "vertical writing",
+   "two digit number",
+   "east asian layout",
+   "vertical column",
+   "numbers in vertical text",
+   "tategaki",
+   "text orientation",
+   "vertical typesetting"
+  ]
+ },
+ "erasing-shield": {
+  "context": "A thin flat plate pierced with a round hole, a narrow slot and a square opening. A drafting tool that limits an eraser to one small area.",
+  "keywords": [
+   "eraser shield",
+   "drafting",
+   "correction tool",
+   "stencil",
+   "drawing aid",
+   "templates",
+   "erase small area",
+   "technical drawing",
+   "drafting tool",
+   "metal shield",
+   "pierced plate",
+   "drafting template",
+   "ink correction",
+   "drawing office",
+   "erase precisely"
+  ]
+ }
+}

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "cricket-stumps",
+  "category": "sports-gear",
+  "draw": "Three upright stumps topped by two small bails, front view.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cricket-pads",
+  "category": "sports-gear",
+  "draw": "Tall batting leg pad with vertical ribbed bolsters and two side straps.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cricket-field",
+  "category": "sports-gear",
+  "draw": "Top view of an oval field with a small rectangular pitch strip at its center.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "baseball-glove",
+  "category": "sports-gear",
+  "draw": "Leather fielder's mitt with laced webbing between thumb and fingers.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "catchers-mitt",
+  "category": "sports-gear",
+  "draw": "Round padded catcher's mitt with a deep pocket and a thick rim, no separate fingers.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "catchers-mask",
+  "category": "sports-gear",
+  "draw": "Front view of a padded mask with a grid of horizontal and vertical metal bars.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "batting-helmet",
+  "category": "sports-gear",
+  "draw": "Side view of a rounded helmet with a short brim and one ear flap.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "home-plate",
+  "category": "sports-gear",
+  "draw": "Pentagon-shaped base with a pointed bottom, flat on the ground.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "baseball-base",
+  "category": "sports-gear",
+  "draw": "Square cushioned bag seen at an angle, with a strap around it.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "baseball-diamond",
+  "category": "sports-gear",
+  "draw": "Top view of a diamond infield with four bases and a curved outfield edge.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pitching-machine",
+  "category": "sports-gear",
+  "draw": "Tripod stand with two spinning wheels and a ball chute on top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "lacrosse-stick",
+  "category": "sports-gear",
+  "draw": "Long shaft with a triangular head holding a netted mesh pocket.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "field-hockey-stick",
+  "category": "sports-gear",
+  "draw": "Short stick with a flat curved J-shaped hook at the bottom and a small ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "hurley-stick",
+  "category": "sports-gear",
+  "draw": "Stick with a wide flat oval blade near the bottom and a small ball beside it.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "polo-mallet",
+  "category": "sports-gear",
+  "draw": "Long thin cane shaft ending in a cylindrical crosswise head, with a small ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "lawn-bowling",
+  "category": "sports-gear",
+  "draw": "Figure crouched low on one knee rolling a flattened bowl along the grass.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pickleball-paddle",
+  "category": "sports-gear",
+  "draw": "Solid rounded rectangular paddle with a short handle and a ball full of holes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "padel-racket",
+  "category": "sports-gear",
+  "draw": "Solid teardrop-shaped racket face dotted with holes and a wrist strap.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "squash-racket",
+  "category": "sports-gear",
+  "draw": "Racket with a narrow teardrop head and long throat, with a small ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "badminton-racket",
+  "category": "sports-gear",
+  "draw": "Light racket with a small oval head and very thin shaft, with a shuttlecock.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "racquetball-racket",
+  "category": "sports-gear",
+  "draw": "Short racket with a wide rounded head and a wrist cord, with a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "table-tennis-table",
+  "category": "sports-gear",
+  "draw": "Table in perspective with a low net across the middle and a ball above.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "tennis-court",
+  "category": "sports-gear",
+  "draw": "Top view of a rectangular court with service boxes and a net line across the center.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "tennis-net",
+  "category": "sports-gear",
+  "draw": "Low net stretched between two posts with a white top band.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "tennis-ball-tube",
+  "category": "sports-gear",
+  "draw": "Tall cylinder can holding three stacked balls, lid on top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ball-machine",
+  "category": "sports-gear",
+  "draw": "Boxy launcher on wheels with a hopper full of balls and a front chute.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "basketball-hoop",
+  "category": "sports-gear",
+  "draw": "Rectangular backboard with an inner square, a rim and a hanging net.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "basketball-court",
+  "category": "sports-gear",
+  "draw": "Top view of a court with a center circle and a key and three-point arc at each end.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "netball-post",
+  "category": "sports-gear",
+  "draw": "Tall single post with a ring and net, no backboard, beside a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "korfball-basket",
+  "category": "sports-gear",
+  "draw": "Tall post with a cylindrical wicker basket open at top and bottom.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "volleyball-net",
+  "category": "sports-gear",
+  "draw": "Long net with a mesh grid strung between two tall poles, antennas on top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "handball",
+  "category": "sports-gear",
+  "draw": "Figure in mid-jump with arm raised about to throw a small ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "water-polo",
+  "category": "sports-gear",
+  "draw": "Figure in water raising one arm to throw a ball, waves around the chest.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "water-polo-cap",
+  "category": "sports-gear",
+  "draw": "Cloth cap with round plastic ear guards on each side and a chin tie.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sepak-takraw-ball",
+  "category": "sports-gear",
+  "draw": "Woven rattan ball with an open pattern of pentagon-shaped holes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "jai-alai-cesta",
+  "category": "sports-gear",
+  "draw": "Long curved wicker scoop basket strapped to a glove.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "snooker-rest",
+  "category": "sports-gear",
+  "draw": "Long cue with an X-shaped cross head at the tip.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pool-pocket",
+  "category": "sports-gear",
+  "draw": "Corner of a table with a pocket and a ball about to drop in.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "soccer-cleats",
+  "category": "sports-gear",
+  "draw": "Side view of a low boot with laces and studs underneath.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "shin-guard",
+  "category": "sports-gear",
+  "draw": "Curved elongated shield with a strap, shaped to the front of a shin.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "goalkeeper-gloves",
+  "category": "sports-gear",
+  "draw": "Thick padded glove with wide finger pads and a wrist strap.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "corner-flag",
+  "category": "sports-gear",
+  "draw": "Short pole with a small flag on top and a quarter-circle arc at its base.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "soccer-field",
+  "category": "sports-gear",
+  "draw": "Top view of a pitch with center line, center circle and penalty boxes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "penalty-card",
+  "category": "sports-gear",
+  "draw": "Raised hand holding up a small rectangular card.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "captain-armband",
+  "category": "sports-gear",
+  "draw": "Band around an upper arm marked with a bold letter C.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "linesman-flag",
+  "category": "sports-gear",
+  "draw": "Short handle with a checked square flag raised diagonally.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "substitution-board",
+  "category": "sports-gear",
+  "draw": "Handheld board with two numbers and opposing arrows between them.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ball-pump",
+  "category": "sports-gear",
+  "draw": "Hand pump cylinder with a hose ending in a needle inserted into a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "marker-cones",
+  "category": "sports-gear",
+  "draw": "Row of short flat disc cones with holes in their tops.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "training-cone",
+  "category": "sports-gear",
+  "draw": "Tall training cone with a wide square base.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "tactics-board",
+  "category": "sports-gear",
+  "draw": "Clipboard with a pitch outline, circles, crosses and curved arrows.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "free-kick-wall",
+  "category": "sports-gear",
+  "draw": "Row of standing figures side by side with a ball in front.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "penalty-kick",
+  "category": "sports-gear",
+  "draw": "Ball on the penalty spot in front of a goal frame with a crouching keeper.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bicycle-kick",
+  "category": "sports-gear",
+  "draw": "Figure upside down in the air kicking a ball over its head.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "soccer-header",
+  "category": "sports-gear",
+  "draw": "Figure jumping and striking a ball with the forehead.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "soccer-player",
+  "category": "sports-gear",
+  "draw": "Running figure swinging one leg forward to kick a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "goalkeeper-save",
+  "category": "sports-gear",
+  "draw": "Figure diving sideways with arms outstretched toward a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "throw-in",
+  "category": "sports-gear",
+  "draw": "Figure holding a ball overhead with both hands, one foot on a line.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "goal-celebration",
+  "category": "sports-gear",
+  "draw": "Figure sliding on the knees with both arms spread wide.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "football-goalpost",
+  "category": "sports-gear",
+  "draw": "Y-shaped goalpost: single post with a crossbar and two tall uprights.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "football-field",
+  "category": "sports-gear",
+  "draw": "Top view of a long field with evenly spaced yard lines and end zones.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "kicking-tee",
+  "category": "sports-gear",
+  "draw": "Small stand holding an oval football upright on its point.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "shoulder-pads",
+  "category": "sports-gear",
+  "draw": "Front view of a padded shoulder harness with rounded caps over each shoulder.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "football-player",
+  "category": "sports-gear",
+  "draw": "Figure in a helmet cocking an arm back to throw an oval ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "touchdown",
+  "category": "sports-gear",
+  "draw": "Figure with both arms raised straight up holding an oval ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "football-tackle",
+  "category": "sports-gear",
+  "draw": "Figure diving to wrap arms around the legs of a running ball carrier.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rugby-posts",
+  "category": "sports-gear",
+  "draw": "H-shaped posts: two tall uprights joined by a crossbar.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rugby-scrum",
+  "category": "sports-gear",
+  "draw": "Two groups of bent figures locked head to head with a ball between them.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rugby-player",
+  "category": "sports-gear",
+  "draw": "Running figure carrying an oval ball tucked under one arm.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rugby-lineout",
+  "category": "sports-gear",
+  "draw": "Figure lifted high by teammates reaching up to catch an oval ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rugby-try",
+  "category": "sports-gear",
+  "draw": "Figure diving to press an oval ball down on a goal line.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "scrum-cap",
+  "category": "sports-gear",
+  "draw": "Soft padded headguard with segmented panels and a chin strap.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "baseball-batter",
+  "category": "sports-gear",
+  "draw": "Figure in batting stance holding a bat back over the shoulder.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "baseball-pitcher",
+  "category": "sports-gear",
+  "draw": "Figure with one leg raised mid-windup about to throw a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "home-run",
+  "category": "sports-gear",
+  "draw": "Ball flying in a high arc over an outfield fence.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "baseball-slide",
+  "category": "sports-gear",
+  "draw": "Figure sliding feet first into a base with dust behind.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "batting-cage",
+  "category": "sports-gear",
+  "draw": "Net tunnel with a figure swinging a bat inside.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "tennis-player",
+  "category": "sports-gear",
+  "draw": "Figure reaching up with a racket to serve a ball overhead.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "badminton-player",
+  "category": "sports-gear",
+  "draw": "Figure leaping to smash a shuttlecock with a racket.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "table-tennis-player",
+  "category": "sports-gear",
+  "draw": "Figure behind a small table swinging a paddle at a ball.",
+  "domain": "sports-equipment-activities"
+ }
+]

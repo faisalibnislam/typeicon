@@ -1,0 +1,482 @@
+[
+ {
+  "name": "mechanical-pencil",
+  "category": "stationery",
+  "draw": "Slim pencil with a pocket clip, a push cap on top and a thin lead poking out of a narrow metal sleeve at the tip.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "click-pen",
+  "category": "stationery",
+  "draw": "Retractable pen with a plunger button at the top, a long side clip and a small ballpoint tip at the bottom.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "multicolor-pen",
+  "category": "stationery",
+  "draw": "Chunky pen with four sliding tabs along its top rim, one tab pushed down, and a single tip at the bottom.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "dip-pen",
+  "category": "stationery",
+  "draw": "Long tapered holder shown diagonally, ending in a pointed split metal nib with a small breather hole.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "inkwell",
+  "category": "stationery",
+  "draw": "Squat square glass ink bottle with a short round neck and a visible ink level line inside.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "ink-blot",
+  "category": "stationery",
+  "draw": "Irregular ink splash with a round center and small droplets scattered around it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pencil-box",
+  "category": "stationery",
+  "draw": "Open hard case with a hinged lid raised at the back and two pencils lying in compartments.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pencil-roll",
+  "category": "stationery",
+  "draw": "Unrolled fabric wrap with a row of vertical slots holding pencils and a tie cord at one end.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pencil-cup",
+  "category": "stationery",
+  "draw": "Cylindrical desk cup with three pens and pencils sticking out at different angles.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "desk-pen-set",
+  "category": "stationery",
+  "draw": "Rectangular desk base with a small funnel holder and a slim pen angled upward out of it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "crank-pencil-sharpener",
+  "category": "stationery",
+  "draw": "Desk mounted sharpener with a round body, a side crank handle ending in a knob and a front pencil hole.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "correction-tape",
+  "category": "stationery",
+  "draw": "Handheld oval tape dispenser with a pointed applicator tip laying a white strip across a line.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "correction-fluid",
+  "category": "stationery",
+  "draw": "Small bottle with its screw cap lifted above it, the cap attached to a short brush applicator.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "whiteboard-eraser",
+  "category": "stationery",
+  "draw": "Rectangular block with a curved grip handle on top and a thick felt pad along the bottom.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pen-refill",
+  "category": "stationery",
+  "draw": "Long thin ink tube with a pointed ballpoint tip and a small coiled spring slipped over it near the tip.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pencil-lead-refill",
+  "category": "stationery",
+  "draw": "Slim tube container with a sliding cap and several thin lead sticks visible inside.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "rocker-blotter",
+  "category": "stationery",
+  "draw": "Curved rocker base covered in blotting paper with a round knob handle on top.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "wax-seal",
+  "category": "stationery",
+  "draw": "Round wax disc with irregular melted edges and an embossed star emblem in the middle.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "wax-seal-stamp",
+  "category": "stationery",
+  "draw": "Turned wooden handle with a round metal stamp head at the bottom, standing beside a small wax puddle.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "ink-pad",
+  "category": "stationery",
+  "draw": "Flat rectangular tin with its hinged lid open, showing a padded inked surface inside.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "date-stamp",
+  "category": "stationery",
+  "draw": "Rubber stamp with a looped wire frame handle and rotating number bands visible on its side.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "seal-embosser",
+  "category": "stationery",
+  "draw": "Lever press with a long handle on top and round dies at the jaw clamping the edge of a sheet of paper.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "padfolio",
+  "category": "stationery",
+  "draw": "Open folio with a writing pad on the right half, a pen loop in the spine and card pockets on the left.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "legal-pad",
+  "category": "stationery",
+  "draw": "Tall writing pad with a thick binding strip across the top, a vertical margin line and ruled lines.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "steno-pad",
+  "category": "stationery",
+  "draw": "Narrow pad with a spiral binding along the top edge and a vertical line splitting the ruled page in two columns.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "composition-notebook",
+  "category": "stationery",
+  "draw": "Notebook with a marbled speckle pattern cover, a solid dark spine and a small blank label box.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "index-card",
+  "category": "stationery",
+  "draw": "Horizontal card with a heading line near the top and several ruled lines below it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "index-card-box",
+  "category": "stationery",
+  "draw": "Small open box of upright index cards with tabbed divider cards sticking up at the back.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "graph-paper",
+  "category": "stationery",
+  "draw": "Sheet of paper covered in a fine square grid with the top right corner folded down.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "loose-leaf-paper",
+  "category": "stationery",
+  "draw": "Ruled sheet with three punched holes down the left edge and a vertical margin line beside them.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "dot-grid-paper",
+  "category": "stationery",
+  "draw": "Sheet with evenly spaced dots in rows and columns and a folded corner.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "tractor-feed-paper",
+  "category": "stationery",
+  "draw": "Continuous fan folded paper stack with a row of sprocket holes along both side edges.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "paper-ream",
+  "category": "stationery",
+  "draw": "Wrapped rectangular pack of paper with a label band around the middle and stacked sheet edges showing.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "thermal-paper-roll",
+  "category": "stationery",
+  "draw": "Small paper roll with a hollow core and its loose end unrolling downward.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "letterhead",
+  "category": "stationery",
+  "draw": "Sheet of paper with a bold header band holding a small emblem shape and lines of text below.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "folded-letter",
+  "category": "stationery",
+  "draw": "Sheet of paper folded in three, partly opened, with two fold creases and handwriting lines.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "crumpled-paper",
+  "category": "stationery",
+  "draw": "Ball of crushed paper with jagged creases and folded facets.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "memo-cube",
+  "category": "stationery",
+  "draw": "Thick cube of loose note sheets with the top sheet curling up at one corner.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "page-flags",
+  "category": "stationery",
+  "draw": "Edge of a page with a stepped row of narrow adhesive flags sticking out past it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "label-sheet",
+  "category": "stationery",
+  "draw": "Sheet with a grid of rounded rectangle labels, one label peeled up at the corner.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "shipping-label",
+  "category": "stationery",
+  "draw": "Rectangular label with address lines at the top and a wide barcode strip at the bottom.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "planner",
+  "category": "stationery",
+  "draw": "Open spiral bound planner showing two facing pages divided into daily boxes.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "desk-calendar",
+  "category": "stationery",
+  "draw": "Tent shaped standing calendar with a ring binding across the top and a date grid on the front.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "tear-off-calendar",
+  "category": "stationery",
+  "draw": "Calendar pad with a large day number on the top sheet and a torn jagged strip above it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "perpetual-calendar",
+  "category": "stationery",
+  "draw": "Two small cubes with digits on their faces sitting on a stand above a month name block.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "timesheet",
+  "category": "stationery",
+  "draw": "Form with a grid of rows and columns and a small clock face drawn in the header corner.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "time-card",
+  "category": "stationery",
+  "draw": "Tall narrow card with a notch at the top, a name line and two columns of stamped time entries.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "punched-card",
+  "category": "stationery",
+  "draw": "Rectangular card with one clipped corner and rows of small rectangular holes punched across it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "brochure",
+  "category": "stationery",
+  "draw": "Tri-fold leaflet partly opened into three panels, one with an image block and the others with text lines.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "flyer",
+  "category": "stationery",
+  "draw": "Single portrait sheet with a large image area at the top, a bold title bar and short text lines below.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "resume",
+  "category": "stationery",
+  "draw": "Portrait document with a round portrait at the top left, a name line beside it and stacked sections of text lines.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "sketchbook",
+  "category": "stationery",
+  "draw": "Book with a spiral binding along the top and a simple mountain doodle drawn on the page.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "elastic-band-notebook",
+  "category": "stationery",
+  "draw": "Hardcover notebook with a vertical elastic strap holding it closed and a ribbon bookmark hanging out below.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "paper-spike",
+  "category": "stationery",
+  "draw": "Upright metal spike on a round weighted base with several pierced receipts stacked on it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "padded-envelope",
+  "category": "stationery",
+  "draw": "Envelope covered in a pattern of small bubbles with a peel strip along its open flap.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "window-envelope",
+  "category": "stationery",
+  "draw": "Long envelope with a rectangular clear window on the left showing address lines.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "clasp-envelope",
+  "category": "stationery",
+  "draw": "Large portrait envelope with its flap held down by a two prong metal butterfly clasp.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "interoffice-envelope",
+  "category": "stationery",
+  "draw": "Portrait envelope with a string wound around two button discs on the flap and a ruled routing grid on the front.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "airmail-envelope",
+  "category": "stationery",
+  "draw": "Envelope with a border of alternating diagonal stripes and a stamp in the top right corner.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "letter-opener",
+  "category": "stationery",
+  "draw": "Slim flat blade with a rounded decorative handle, slid under the flap of an envelope.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "postmark",
+  "category": "stationery",
+  "draw": "Circular cancellation ring with a date line inside and wavy lines trailing out to the right.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "post-horn",
+  "category": "stationery",
+  "draw": "Coiled horn with a flared bell and a small mouthpiece, the traditional postal service symbol.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "stamp-sheet",
+  "category": "stationery",
+  "draw": "Sheet of postage stamps in a three by three grid with perforated edges between them.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "po-box",
+  "category": "stationery",
+  "draw": "Wall of small numbered post office box doors, the front one with a keyhole and a tiny window.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "parcel-locker",
+  "category": "stationery",
+  "draw": "Wall unit of locker doors in several sizes with a small screen and keypad panel in the middle.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "mail-sack",
+  "category": "stationery",
+  "draw": "Tall canvas sack cinched at the top with a drawstring and letters peeking out of the opening.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "mail-cart",
+  "category": "stationery",
+  "draw": "Wheeled cart with a deep canvas bin body, a push handle and letters stacked inside.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "mail-sorting-rack",
+  "category": "stationery",
+  "draw": "Grid of open pigeonhole slots with envelopes tucked into several compartments.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "postage-meter",
+  "category": "stationery",
+  "draw": "Desk machine with a slot where an envelope passes through and a printed postage mark on the envelope.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "letter-scale",
+  "category": "stationery",
+  "draw": "Small mechanical scale with a curved dial and a clip on top holding an upright envelope.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "parcel-scale",
+  "category": "stationery",
+  "draw": "Flat weighing platform with a box on it and a separate digital display unit on a cord.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "suggestion-box",
+  "category": "stationery",
+  "draw": "Closed box with a slot in its lid and a folded note being dropped into the slot.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "mailing-tube",
+  "category": "stationery",
+  "draw": "Long cylindrical tube with round end caps and a label wrapped around its middle.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "bubble-wrap",
+  "category": "stationery",
+  "draw": "Sheet of plastic covered in round air bubbles with one corner curled over.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "packing-peanuts",
+  "category": "stationery",
+  "draw": "Small pile of curved S shaped foam packing pieces.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "tape-gun",
+  "category": "stationery",
+  "draw": "Packing tape dispenser with a pistol grip, a large tape roll on top and a toothed cutter at the front.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "stretch-film",
+  "category": "stationery",
+  "draw": "Roll of plastic wrap film on a hand core with a wide sheet unrolling from it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "string-tied-parcel",
+  "category": "stationery",
+  "draw": "Paper wrapped parcel tied with twine crossing in both directions and a bow knot on top.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "doorstep-parcel",
+  "category": "stationery",
+  "draw": "Taped box sitting on a doormat in front of the bottom of a closed door.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "parcel-handover",
+  "category": "stationery",
+  "draw": "Open hand from below holding a small taped box, as in a delivery handover.",
+  "domain": "office-and-stationery"
+ }
+]

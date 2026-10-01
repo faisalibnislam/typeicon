@@ -1,0 +1,452 @@
+[
+ {
+  "name": "waitlist",
+  "category": "retail",
+  "draw": "Clipboard list with three rows, each row a small person head and a line.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "product-configurator",
+  "category": "retail",
+  "draw": "Product box beside three horizontal slider lines with knobs in different positions.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "cross-sell",
+  "category": "retail",
+  "draw": "Central box with two small arrows pointing outward to two smaller boxes on either side.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "omnichannel",
+  "category": "retail",
+  "draw": "Shop front, laptop and smartphone arranged in a triangle joined by connecting lines.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "price-range-filter",
+  "category": "retail",
+  "draw": "Horizontal slider track with two round knobs and the section between them filled.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "voice-shopping",
+  "category": "retail",
+  "draw": "Cylindrical smart speaker with sound waves and a small shopping cart beside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "tv-shopping",
+  "category": "retail",
+  "draw": "Television screen showing a product box and a telephone handset beside the set.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "ship-from-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a delivery truck driving away from its door.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "order-pickup-shelf",
+  "category": "retail",
+  "draw": "Shelf unit with bagged orders on it, each bag with a small name tag.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "haggling",
+  "category": "retail",
+  "draw": "Two hands facing each other with a price tag between them and small back and forth arrows.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "department-store",
+  "category": "retail",
+  "draw": "Wide multi storey store building with rows of windows, a flat roof sign and a large entrance.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "convenience-store",
+  "category": "retail",
+  "draw": "Small shop front with a wide window, an awning and a sign showing a clock with 24.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "boutique",
+  "category": "retail",
+  "draw": "Narrow elegant shop front with an arched window displaying a dress and a hanging sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "pop-up-shop",
+  "category": "retail",
+  "draw": "Folding tent canopy over a small table with goods and a hanging banner along the front.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "hardware-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a hammer and wrench crossed on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "pet-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a paw print on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "garden-center",
+  "category": "retail",
+  "draw": "Greenhouse style building with a pitched glass roof and potted plants by the door.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bridal-shop",
+  "category": "retail",
+  "draw": "Shop front with a large window showing a wedding dress and a small heart on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "cheese-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a wedge of cheese with holes on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "beauty-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a lipstick on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "optical-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a large pair of glasses on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "gift-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a wrapped gift box with bow on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "general-store",
+  "category": "retail",
+  "draw": "Old wooden shop front with a porch, a pitched false front and two barrels by the door.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bazaar",
+  "category": "retail",
+  "draw": "Row of pointed arches with hanging lanterns and draped fabric stalls beneath them.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "fabric-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a spool of thread with a needle on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "craft-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a paintbrush crossed with scissors on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "big-box-store",
+  "category": "retail",
+  "draw": "Wide low windowless warehouse building with a large sign band and a shopping cart by the entrance.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "strip-mall",
+  "category": "retail",
+  "draw": "Row of four connected single storey shop fronts with a shared flat roof and parking lines in front.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "high-street",
+  "category": "retail",
+  "draw": "Street in perspective lined with shop fronts and awnings on both sides.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "hat-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a top hat on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "party-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a bunch of three balloons on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "baby-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a baby stroller on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "appliance-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a front loading washing machine on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "tea-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a teapot on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "showroom",
+  "category": "retail",
+  "draw": "Room corner with a sofa and floor lamp on a platform and a price tag hanging from the sofa arm.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "flea-market",
+  "category": "retail",
+  "draw": "Row of folding tables under small tents with assorted items and a hanging price tag.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "health-food-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and an apple with a leaf on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "kitchenware-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a cooking pot with a lid on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "lighting-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a hanging pendant lamp on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "outdoor-gear-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a small tent on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "surf-shop",
+  "category": "retail",
+  "draw": "Small beach shack shop front with a surfboard leaning upright beside the door.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "spice-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a mortar and pestle on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "hobby-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a small model airplane on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "comic-book-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a jagged speech bubble on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "discount-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a large percent sign on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "auction-house",
+  "category": "retail",
+  "draw": "Classical building front with columns and a gavel on the pediment sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "mall-kiosk",
+  "category": "retail",
+  "draw": "Island kiosk with a curved counter on all sides, a central display column and a canopy on top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "food-court",
+  "category": "retail",
+  "draw": "Row of three small counter fronts with awnings and a table with two chairs in front.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "assistance-call-button",
+  "category": "retail",
+  "draw": "Small wall box on a shelf edge with a large round button and a bell symbol above it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "gift-set",
+  "category": "retail",
+  "draw": "Open box with a divided insert holding two small bottles and a jar.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "coin-counting-tray",
+  "category": "retail",
+  "draw": "Triangular tray with parallel grooves holding rows of coins lying edge to edge.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "store-brand",
+  "category": "retail",
+  "draw": "Plain box with a simple label band and a small shop awning mark on the label.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "made-to-measure",
+  "category": "retail",
+  "draw": "Shirt outline with a tape measure draped around its collar and chest.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "engraving-service",
+  "category": "retail",
+  "draw": "Ring lying flat with a fine pointed engraving tool tip touching its inner band and a spark.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "parking-validation",
+  "category": "retail",
+  "draw": "Parking ticket being stamped by a small round stamp with a check mark imprint.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "order-form",
+  "category": "retail",
+  "draw": "Paper form with a small box drawing at the top and three rows with checkboxes and quantity boxes.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "coupon-organizer",
+  "category": "retail",
+  "draw": "Accordion file folder expanded open with coupon tickets sticking out of its pockets.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "security-label-sticker",
+  "category": "retail",
+  "draw": "Square sticker with a flat spiral coil pattern printed on it and a barcode strip below.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bottle-security-cap",
+  "category": "retail",
+  "draw": "Wine bottle neck with a bulky locking cap clamped over the top and a small keyhole on its side.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "cart-coin-mechanism",
+  "category": "retail",
+  "draw": "Small box clamped to a shopping cart handle with a coin slot on top and a short chain with a key hanging from it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "in-counter-scanner",
+  "category": "retail",
+  "draw": "Flat glass window set into a counter top with a vertical glass panel behind it and crossing laser lines on the glass.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "frame-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and an empty picture frame on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "fishing-tackle-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a fishing hook with a small float on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "umbrella-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and an open umbrella on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "luggage-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a wheeled suitcase on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "watch-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a wristwatch on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "mattress-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a thick mattress with quilted lines on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "carpet-store",
+  "category": "retail",
+  "draw": "Shop front with an awning and a partly rolled carpet on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "costume-shop",
+  "category": "retail",
+  "draw": "Shop front with an awning and a masquerade mask on the sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "tag-fastener",
+  "category": "retail",
+  "draw": "Thin plastic filament with a small T shaped bar at one end and a flat paddle at the other, holding a tiny tag.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "group-buying",
+  "category": "retail",
+  "draw": "Three person heads side by side above one shared shopping cart.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "feedback-kiosk",
+  "category": "retail",
+  "draw": "Short post with a sloped top panel holding four round buttons, each with a face from frowning to smiling.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "self-scan-handset-rack",
+  "category": "retail",
+  "draw": "Wall rack of charging slots holding a row of handheld scanners, one lifted halfway out.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "tiered-discount",
+  "category": "retail",
+  "draw": "Three price tags in a rising staircase row, each with a percent sign and each larger than the one before.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "christmas-market",
+  "category": "retail",
+  "draw": "Small wooden chalet stall with a pointed roof, a star on top and string lights along the eaves.",
+  "domain": "r2-ecommerce-retail"
+ }
+]

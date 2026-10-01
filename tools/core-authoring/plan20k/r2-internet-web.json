@@ -1,0 +1,1397 @@
+[
+  {
+    "name": "browser-extension",
+    "category": "web",
+    "draw": "Browser window outline with a jigsaw puzzle piece sitting in the top toolbar at the right end."
+  },
+  {
+    "name": "vertical-tabs",
+    "category": "web",
+    "draw": "Browser window with a narrow left column of four stacked short tab rows, the top one highlighted."
+  },
+  {
+    "name": "sleeping-tab",
+    "category": "web",
+    "draw": "Single browser tab shape with a small crescent moon and two small z letters floating above it."
+  },
+  {
+    "name": "audio-playing-tab",
+    "category": "web",
+    "draw": "Single browser tab shape with a small speaker and two sound wave arcs inside it."
+  },
+  {
+    "name": "too-many-tabs",
+    "category": "web",
+    "draw": "Browser window whose top edge is crowded with a dense row of tiny squeezed tab shapes."
+  },
+  {
+    "name": "browser-profiles",
+    "category": "web",
+    "draw": "Browser window with two overlapping round person avatars in its top right corner."
+  },
+  {
+    "name": "kiosk-mode",
+    "category": "web",
+    "draw": "Freestanding kiosk pedestal whose tall screen shows a full-screen browser page with no toolbar."
+  },
+  {
+    "name": "web-clipper",
+    "category": "web",
+    "draw": "Browser page with a pair of scissors cutting along a dashed rectangle around a content block."
+  },
+  {
+    "name": "full-page-screenshot",
+    "category": "web",
+    "draw": "Tall page outline extending well below a browser window frame, with camera corner brackets at its top and bottom."
+  },
+  {
+    "name": "page-loading-bar",
+    "category": "web",
+    "draw": "Browser window with a thin partly filled progress line running along the bottom of the address bar."
+  },
+  {
+    "name": "page-crash",
+    "category": "web",
+    "draw": "Browser window with a jagged crack running across the page and a small frowning face in the middle."
+  },
+  {
+    "name": "search-results-page",
+    "category": "web",
+    "draw": "Browser page with a search bar at the top and three stacked result blocks, each a short bold line over two thin lines."
+  },
+  {
+    "name": "new-tab-page",
+    "category": "web",
+    "draw": "Browser window with a centered search bar and a three by two grid of small rounded shortcut tiles below."
+  },
+  {
+    "name": "mobile-browser",
+    "category": "web",
+    "draw": "Smartphone outline with an address bar across the top of its screen and page lines below."
+  },
+  {
+    "name": "desktop-site-view",
+    "category": "web",
+    "draw": "Smartphone outline whose screen shows a tiny desktop monitor with a wide page layout."
+  },
+  {
+    "name": "user-agent",
+    "category": "web",
+    "draw": "Browser window with a small ID card in front of its lower right corner showing a globe and two lines."
+  },
+  {
+    "name": "browser-storage",
+    "category": "web",
+    "draw": "Browser window with a small database cylinder sitting inside the page area."
+  },
+  {
+    "name": "coming-soon-page",
+    "category": "web",
+    "draw": "Browser window with a small rocket on a launch line in the middle of the page."
+  },
+  {
+    "name": "under-construction-page",
+    "category": "web",
+    "draw": "Browser window with a striped barrier and a traffic cone standing inside the page."
+  },
+  {
+    "name": "maintenance-page",
+    "category": "web",
+    "draw": "Browser window with a wrench and screwdriver crossed in the middle of the page."
+  },
+  {
+    "name": "thank-you-page",
+    "category": "web",
+    "draw": "Browser window with a large heart above two short centered text lines."
+  },
+  {
+    "name": "faq-page",
+    "category": "web",
+    "draw": "Browser page with three stacked accordion rows, each starting with a question mark and ending with a small chevron."
+  },
+  {
+    "name": "team-page",
+    "category": "web",
+    "draw": "Browser page with a two by three grid of small round portrait heads, each with a short name line under it."
+  },
+  {
+    "name": "about-page",
+    "category": "web",
+    "draw": "Browser page with a round portrait on the left and three text lines on the right."
+  },
+  {
+    "name": "wiki-article",
+    "category": "web",
+    "draw": "Article page with a small boxed image at top right, text lines, and several underlined link words in the lines."
+  },
+  {
+    "name": "discussion-forum",
+    "category": "web",
+    "draw": "Stacked list of three thread rows, each with a small round avatar on the left and a reply count bubble on the right."
+  },
+  {
+    "name": "comment-section",
+    "category": "web",
+    "draw": "Article text block above a divider and two indented comment rows with small avatars and speech tails."
+  },
+  {
+    "name": "blogroll",
+    "category": "web",
+    "draw": "Short vertical list of three link rows, each starting with a small chain link glyph, under a header bar."
+  },
+  {
+    "name": "webring",
+    "category": "web",
+    "draw": "Five small browser windows arranged in a circle joined by curved arrows into a loop."
+  },
+  {
+    "name": "visitor-counter",
+    "category": "web",
+    "draw": "Retro odometer style strip of five boxed digit wheels with a small eye above it."
+  },
+  {
+    "name": "bulletin-board-system",
+    "category": "web",
+    "draw": "Old boxy computer monitor with blocky menu lines on screen and a coiled phone cord to a small modem."
+  },
+  {
+    "name": "internet-cafe",
+    "category": "web",
+    "draw": "Desk with two computer monitors side by side and a steaming coffee cup between them."
+  },
+  {
+    "name": "web-portal",
+    "category": "web",
+    "draw": "Browser window with an open doorway in the page and an arrow walking through it."
+  },
+  {
+    "name": "web-archive",
+    "category": "web",
+    "draw": "Archive box with the front edges of several stacked browser pages showing above its open top."
+  },
+  {
+    "name": "web-directory",
+    "category": "web",
+    "draw": "Open index book with a globe on the left page and alphabet tabs down the right edge."
+  },
+  {
+    "name": "extranet",
+    "category": "web",
+    "draw": "Office building connected by a line through a small open gate to a partner building outside a dashed boundary."
+  },
+  {
+    "name": "captive-portal",
+    "category": "web",
+    "draw": "Wifi symbol above a small browser window showing a sign in button that blocks the page."
+  },
+  {
+    "name": "internet-service-provider",
+    "category": "web",
+    "draw": "Building with an antenna on its roof and a cable running from it to a small house."
+  },
+  {
+    "name": "net-neutrality",
+    "category": "web",
+    "draw": "Three parallel pipes of equal width, each carrying a data packet, with an equals sign above them."
+  },
+  {
+    "name": "geo-restriction",
+    "category": "web",
+    "draw": "Globe with a map pin and a barrier arm fence crossing in front of it."
+  },
+  {
+    "name": "web-filter",
+    "category": "web",
+    "draw": "Funnel sitting on top of a browser window, with a few blocked dots trapped in the funnel."
+  },
+  {
+    "name": "bot-traffic",
+    "category": "web",
+    "draw": "Small robot head with an arrow cursor pointing into a browser window next to it."
+  },
+  {
+    "name": "internet-exchange-point",
+    "category": "web",
+    "draw": "Central square hub with six lines radiating out to small globes and servers around it."
+  },
+  {
+    "name": "port-forwarding",
+    "category": "web",
+    "draw": "Router box with an arrow entering from the left and continuing through it to a small numbered door on the right."
+  },
+  {
+    "name": "traffic-surge",
+    "category": "web",
+    "draw": "Server stack with a crowd of small arrows pressing into it from one side and heat lines above."
+  },
+  {
+    "name": "digital-divide",
+    "category": "web",
+    "draw": "Two small houses side by side separated by a vertical gap, only the left one with a wifi symbol above it."
+  },
+  {
+    "name": "internet-shutdown",
+    "category": "web",
+    "draw": "Globe with a large power plug pulled out of its socket beside it."
+  },
+  {
+    "name": "web-surfing",
+    "category": "web",
+    "draw": "Surfboard riding on a wave with a small arrow cursor standing on the board."
+  },
+  {
+    "name": "doomscrolling",
+    "category": "web",
+    "draw": "Smartphone showing an endless stack of feed cards with a thumb swiping down and a weary face on the top card."
+  },
+  {
+    "name": "online-voting",
+    "category": "web",
+    "draw": "Browser window with a ballot paper dropping into a slot box inside the page."
+  },
+  {
+    "name": "online-auction",
+    "category": "web",
+    "draw": "Browser window with an auction gavel striking inside the page next to a price tag."
+  },
+  {
+    "name": "cross-site-scripting",
+    "category": "web",
+    "draw": "Browser window with angle bracket script tags injected into a text field and a small bug on them."
+  },
+  {
+    "name": "web-application-firewall",
+    "category": "web",
+    "draw": "Shield standing in front of a browser window with a brick pattern across the shield."
+  },
+  {
+    "name": "typosquatting",
+    "category": "web",
+    "draw": "Address bar with a text line where one letter is swapped for a look-alike and a fishing hook hanging from it."
+  },
+  {
+    "name": "content-security-policy",
+    "category": "web",
+    "draw": "Browser window with a shield inside the page and a list of three allowed lines with ticks beside it."
+  },
+  {
+    "name": "website-defacement",
+    "category": "web",
+    "draw": "Browser window with a spray paint can and a scribbled graffiti squiggle across the page."
+  },
+  {
+    "name": "dark-pattern",
+    "category": "web",
+    "draw": "Dialog box with a large filled accept button and a tiny faded close cross hidden in a corner."
+  },
+  {
+    "name": "interstitial-ad",
+    "category": "web",
+    "draw": "Browser page fully covered by an ad panel with a small countdown circle in its top corner."
+  },
+  {
+    "name": "skyscraper-ad",
+    "category": "web",
+    "draw": "Browser page with a tall narrow ad banner running down the right side next to the text column."
+  },
+  {
+    "name": "pay-per-click",
+    "category": "web",
+    "draw": "Arrow cursor clicking on a coin with small click rays around the tip."
+  },
+  {
+    "name": "retargeting-ad",
+    "category": "web",
+    "draw": "Target with a curved return arrow looping around from a person silhouette back to an ad card."
+  },
+  {
+    "name": "ad-network",
+    "category": "web",
+    "draw": "Central node linked by lines to four small browser windows, each with a filled ad block."
+  },
+  {
+    "name": "clickbait",
+    "category": "web",
+    "draw": "Headline card with a big exclamation mark on a fishing hook dangling from a line above it."
+  },
+  {
+    "name": "cookie-wall",
+    "category": "web",
+    "draw": "Round cookie with bite marks standing in front of a blurred browser page like a wall."
+  },
+  {
+    "name": "paywall",
+    "category": "web",
+    "draw": "Browser page whose lower half is covered by a brick wall with a coin slot in it."
+  },
+  {
+    "name": "members-area",
+    "category": "web",
+    "draw": "Browser window with a membership card showing a small star and a person avatar in the page."
+  },
+  {
+    "name": "affiliate-link",
+    "category": "web",
+    "draw": "Chain link with a small coin attached to one end."
+  },
+  {
+    "name": "utm-tag",
+    "category": "web",
+    "draw": "Address bar followed by three small tag shapes hanging off the end of the URL line."
+  },
+  {
+    "name": "deep-link",
+    "category": "web",
+    "draw": "Chain link with an arrow diving into a stack of layered app screens."
+  },
+  {
+    "name": "jump-link",
+    "category": "web",
+    "draw": "Page with a hash sign at the top and a curved arrow jumping down to a heading lower on the page."
+  },
+  {
+    "name": "link-building",
+    "category": "web",
+    "draw": "Several chain links being stacked like bricks into a small rising wall."
+  },
+  {
+    "name": "anchor-text",
+    "category": "web",
+    "draw": "Text line with one underlined word and a small chain link above that word."
+  },
+  {
+    "name": "internal-links",
+    "category": "web",
+    "draw": "Browser window with three small page blocks inside connected to each other by curved link lines."
+  },
+  {
+    "name": "toxic-link",
+    "category": "web",
+    "draw": "Chain link with a small skull on it."
+  },
+  {
+    "name": "link-equity",
+    "category": "web",
+    "draw": "Chain link with a water drop falling from it into a small page below."
+  },
+  {
+    "name": "link-farm",
+    "category": "web",
+    "draw": "Rows of small chain links sprouting from the ground like crops in a field."
+  },
+  {
+    "name": "link-exchange",
+    "category": "web",
+    "draw": "Two pages side by side with two curved arrows swapping chain links between them."
+  },
+  {
+    "name": "canonical-url",
+    "category": "web",
+    "draw": "Three faded duplicate pages with arrows pointing to one bold page marked with a crown."
+  },
+  {
+    "name": "redirect-chain",
+    "category": "web",
+    "draw": "Three pages in a row joined by curved arrows hopping from one to the next."
+  },
+  {
+    "name": "redirect-loop",
+    "category": "web",
+    "draw": "Two pages facing each other with two curved arrows forming a continuous circle between them."
+  },
+  {
+    "name": "orphan-page",
+    "category": "web",
+    "draw": "Small sitemap tree of connected boxes with one page box floating alone off to the side."
+  },
+  {
+    "name": "vote-arrows",
+    "category": "web",
+    "draw": "Up chevron above a number and a down chevron below it, stacked in a narrow column."
+  },
+  {
+    "name": "subscribe-button",
+    "category": "web",
+    "draw": "Rounded rectangle button with a bell on its left and a short text line."
+  },
+  {
+    "name": "ban-hammer",
+    "category": "web",
+    "draw": "Large hammer striking down on a round user avatar."
+  },
+  {
+    "name": "flame-war",
+    "category": "web",
+    "draw": "Two speech bubbles facing each other with flames rising between them."
+  },
+  {
+    "name": "lurker",
+    "category": "web",
+    "draw": "Pair of eyes peeking over the top edge of a browser window."
+  },
+  {
+    "name": "user-generated-content",
+    "category": "web",
+    "draw": "Browser page with three small person avatars each sending an arrow up into a shared content block."
+  },
+  {
+    "name": "social-proof-notification",
+    "category": "web",
+    "draw": "Small rounded toast card in a page corner with a round avatar and two short text lines."
+  },
+  {
+    "name": "exit-intent-popup",
+    "category": "web",
+    "draw": "Arrow cursor moving up out of the top of a browser window while a modal pops up in the center."
+  },
+  {
+    "name": "newsletter-popup",
+    "category": "web",
+    "draw": "Modal box over a page with an envelope on top, an input line and a button."
+  },
+  {
+    "name": "form-abandonment",
+    "category": "web",
+    "draw": "Half filled form with a small figure walking away from it."
+  },
+  {
+    "name": "cart-drawer",
+    "category": "web",
+    "draw": "Browser window with a panel sliding in from the right side showing a small shopping cart and item lines."
+  },
+  {
+    "name": "promo-code-field",
+    "category": "web",
+    "draw": "Input field with a small coupon ticket on its left and an apply button on its right."
+  },
+  {
+    "name": "abandoned-cart",
+    "category": "web",
+    "draw": "Shopping cart standing alone with a small cobweb on its handle."
+  },
+  {
+    "name": "custom-domain",
+    "category": "web",
+    "draw": "Globe connected by a chain link to a browser address bar above it."
+  },
+  {
+    "name": "dns-propagation",
+    "category": "web",
+    "draw": "Globe with concentric ripple rings spreading out from one point on its surface."
+  },
+  {
+    "name": "dns-record",
+    "category": "web",
+    "draw": "Table of three rows, each with a short type label box on the left and a longer value line on the right, under a globe."
+  },
+  {
+    "name": "subdomain",
+    "category": "web",
+    "draw": "Large globe with a branch line leading down to two smaller globes."
+  },
+  {
+    "name": "top-level-domain",
+    "category": "web",
+    "draw": "Tag shape with a bold dot followed by three short letters line."
+  },
+  {
+    "name": "whois-record",
+    "category": "web",
+    "draw": "Globe with an ID card in front of its lower half showing a head silhouette and lines."
+  },
+  {
+    "name": "domain-for-sale",
+    "category": "web",
+    "draw": "Globe with a price tag hanging from its top."
+  },
+  {
+    "name": "parked-domain",
+    "category": "web",
+    "draw": "Globe with a square parking sign letter P standing beside it."
+  },
+  {
+    "name": "domain-transfer",
+    "category": "web",
+    "draw": "Two globes side by side with an arrow carrying a small tag from the left one to the right one."
+  },
+  {
+    "name": "localhost",
+    "category": "web",
+    "draw": "Laptop with a curved arrow leaving the screen and looping back into it."
+  },
+  {
+    "name": "shared-hosting",
+    "category": "web",
+    "draw": "Single server box with three small house outlines sitting on top of it."
+  },
+  {
+    "name": "virtual-private-server",
+    "category": "web",
+    "draw": "Server box divided into three separate compartments by dashed walls, one compartment highlighted."
+  },
+  {
+    "name": "hosting-control-panel",
+    "category": "web",
+    "draw": "Browser window filled with a grid of six small squares, each with a simple gauge or icon mark."
+  },
+  {
+    "name": "ftp-transfer",
+    "category": "web",
+    "draw": "Folder and server side by side with two opposite arrows between them."
+  },
+  {
+    "name": "http-header",
+    "category": "web",
+    "draw": "Envelope shaped message with a band at the top holding three short key and value line pairs."
+  },
+  {
+    "name": "url-encoding",
+    "category": "web",
+    "draw": "Address bar line with several percent signs placed between short text segments."
+  },
+  {
+    "name": "preview-deployment",
+    "category": "web",
+    "draw": "Browser window with an eye in the page and a small git branch symbol in its corner."
+  },
+  {
+    "name": "webmail",
+    "category": "web",
+    "draw": "Browser window with an envelope in the middle of the page."
+  },
+  {
+    "name": "mail-server",
+    "category": "web",
+    "draw": "Server stack with an envelope in front of its lower corner."
+  },
+  {
+    "name": "email-template",
+    "category": "web",
+    "draw": "Envelope behind a page showing a header block, an image block and two text lines."
+  },
+  {
+    "name": "drip-campaign",
+    "category": "web",
+    "draw": "Faucet dripping a line of small envelopes downward."
+  },
+  {
+    "name": "email-autoresponder",
+    "category": "web",
+    "draw": "Envelope with a small robot head face on its flap."
+  },
+  {
+    "name": "unsubscribe-link",
+    "category": "web",
+    "draw": "Envelope with an exit door and outward arrow at its lower right."
+  },
+  {
+    "name": "double-opt-in",
+    "category": "web",
+    "draw": "Envelope with two stacked checkbox squares beside it."
+  },
+  {
+    "name": "lead-magnet",
+    "category": "web",
+    "draw": "Horseshoe magnet pulling a small ebook toward its poles."
+  },
+  {
+    "name": "email-subscriber",
+    "category": "web",
+    "draw": "Person silhouette holding an envelope in front of the chest."
+  },
+  {
+    "name": "spam-filter",
+    "category": "web",
+    "draw": "Funnel with several envelopes entering the top and one envelope trapped by a mesh line inside."
+  },
+  {
+    "name": "email-deliverability",
+    "category": "web",
+    "draw": "Envelope flying along a curved path into an inbox tray."
+  },
+  {
+    "name": "bounced-email",
+    "category": "web",
+    "draw": "Envelope bouncing off a wall with a curved return arrow."
+  },
+  {
+    "name": "transactional-email",
+    "category": "web",
+    "draw": "Envelope with a receipt slip with torn edge sticking out of it."
+  },
+  {
+    "name": "welcome-email",
+    "category": "web",
+    "draw": "Open envelope with a waving hand rising out of it."
+  },
+  {
+    "name": "email-warmup",
+    "category": "web",
+    "draw": "Envelope beside a thermometer with a small flame at its bulb."
+  },
+  {
+    "name": "spam-score",
+    "category": "web",
+    "draw": "Semicircle gauge with a needle and a small envelope under the pivot."
+  },
+  {
+    "name": "email-open-rate",
+    "category": "web",
+    "draw": "Open envelope with a percent sign above its flap."
+  },
+  {
+    "name": "win-back-email",
+    "category": "web",
+    "draw": "Envelope riding a boomerang shaped curved arrow."
+  },
+  {
+    "name": "html-email",
+    "category": "web",
+    "draw": "Envelope with angle bracket code tags printed on its front."
+  },
+  {
+    "name": "spam-trap",
+    "category": "web",
+    "draw": "Mouse trap with an envelope placed on the bait plate."
+  },
+  {
+    "name": "tag-manager",
+    "category": "web",
+    "draw": "Open box container with three small tags hanging over its rim."
+  },
+  {
+    "name": "event-tracking",
+    "category": "web",
+    "draw": "Arrow cursor clicking with ripple rings and a small list of three dots beside it."
+  },
+  {
+    "name": "data-layer",
+    "category": "web",
+    "draw": "Three stacked flat layers with curly braces on the top layer."
+  },
+  {
+    "name": "tracking-snippet",
+    "category": "web",
+    "draw": "Code brackets with a small eye placed between them."
+  },
+  {
+    "name": "user-session",
+    "category": "web",
+    "draw": "Browser window with a small person avatar and a stopwatch side by side in the page."
+  },
+  {
+    "name": "unique-visitors",
+    "category": "web",
+    "draw": "Row of three person silhouettes with the middle one marked by a fingerprint on the chest."
+  },
+  {
+    "name": "exit-page",
+    "category": "web",
+    "draw": "Browser page with an open door on its right edge and an arrow going out through it."
+  },
+  {
+    "name": "returning-visitor",
+    "category": "web",
+    "draw": "Person silhouette with a circular arrow looping around behind it back toward a browser window."
+  },
+  {
+    "name": "cross-device-tracking",
+    "category": "web",
+    "draw": "Phone, laptop and tablet linked by a dotted line that joins at one person silhouette above."
+  },
+  {
+    "name": "search-intent",
+    "category": "web",
+    "draw": "Magnifying glass with a small thought bubble rising from its handle."
+  },
+  {
+    "name": "knowledge-panel",
+    "category": "web",
+    "draw": "Search page with result lines on the left and a tall boxed card with an image block on the right."
+  },
+  {
+    "name": "sitelinks",
+    "category": "web",
+    "draw": "One bold result line with a two by two grid of short link lines indented under it."
+  },
+  {
+    "name": "search-snippet",
+    "category": "web",
+    "draw": "Single search result block: a short bold title line, a thin URL line and two text lines."
+  },
+  {
+    "name": "rich-snippet",
+    "category": "web",
+    "draw": "Search result block with a row of five small stars under the title line and a thumbnail on the left."
+  },
+  {
+    "name": "meta-tag",
+    "category": "web",
+    "draw": "Tag shape with angle brackets drawn on its face."
+  },
+  {
+    "name": "title-tag",
+    "category": "web",
+    "draw": "Browser tab shape with a bold capital T inside it."
+  },
+  {
+    "name": "keyword-research",
+    "category": "web",
+    "draw": "Magnifying glass hovering over a key."
+  },
+  {
+    "name": "keyword-stuffing",
+    "category": "web",
+    "draw": "Page bulging at the sides with words and tag shapes spilling out of the top."
+  },
+  {
+    "name": "keyword-difficulty",
+    "category": "web",
+    "draw": "Key lying under a semicircle gauge with the needle pointing high."
+  },
+  {
+    "name": "search-volume",
+    "category": "web",
+    "draw": "Magnifying glass with three rising bars inside its lens."
+  },
+  {
+    "name": "search-ranking",
+    "category": "web",
+    "draw": "Three step podium with a magnifying glass standing on the top step."
+  },
+  {
+    "name": "domain-authority",
+    "category": "web",
+    "draw": "Globe with a semicircle gauge above it and the needle near full."
+  },
+  {
+    "name": "organic-traffic",
+    "category": "web",
+    "draw": "Leaf with an upward trending line arrow running along its midrib."
+  },
+  {
+    "name": "local-search",
+    "category": "web",
+    "draw": "Map pin with a magnifying glass lens as its head."
+  },
+  {
+    "name": "geotargeting",
+    "category": "web",
+    "draw": "Target rings with a map pin standing in the center."
+  },
+  {
+    "name": "seo-audit",
+    "category": "web",
+    "draw": "Clipboard with a magnifying glass over a small rising bar chart."
+  },
+  {
+    "name": "search-index",
+    "category": "web",
+    "draw": "Card catalog drawer with index cards and a magnifying glass resting on top."
+  },
+  {
+    "name": "search-engine-optimization",
+    "category": "web",
+    "draw": "Magnifying glass with an upward arrow rising through its lens."
+  },
+  {
+    "name": "pillar-page",
+    "category": "web",
+    "draw": "Large central page connected by lines to four smaller pages around it."
+  },
+  {
+    "name": "evergreen-content",
+    "category": "web",
+    "draw": "Page with a small evergreen pine tree drawn in its lower half."
+  },
+  {
+    "name": "search-penalty",
+    "category": "web",
+    "draw": "Search result page with a heavy downward arrow and a gavel beside it."
+  },
+  {
+    "name": "seo-cloaking",
+    "category": "web",
+    "draw": "Page with a mask over its upper half, showing one face to a robot and another to a person on either side."
+  },
+  {
+    "name": "alt-text",
+    "category": "web",
+    "draw": "Image frame with a mountain and sun and a speech bubble with text lines coming off its corner."
+  },
+  {
+    "name": "aria-label",
+    "category": "web",
+    "draw": "Button shape with a small tag attached by a string to its corner."
+  },
+  {
+    "name": "contrast-ratio",
+    "category": "web",
+    "draw": "Two overlapping squares, one filled and one outlined, with a small colon ratio mark between them."
+  },
+  {
+    "name": "keyboard-navigation",
+    "category": "web",
+    "draw": "Keyboard with a tab key arrow and a dashed focus outline around one key."
+  },
+  {
+    "name": "dyslexic-font",
+    "category": "web",
+    "draw": "Letter a and letter b with visibly heavier weighted bottoms sitting on a baseline."
+  },
+  {
+    "name": "reduced-motion",
+    "category": "web",
+    "draw": "Three horizontal motion speed lines with a pause symbol at their right end."
+  },
+  {
+    "name": "colorblind-mode",
+    "category": "web",
+    "draw": "Eye with its iris split into two different hatch patterns."
+  },
+  {
+    "name": "semantic-html",
+    "category": "web",
+    "draw": "Page outline divided into labelled blocks: a header bar, a nav strip, a main area and a footer bar."
+  },
+  {
+    "name": "heading-outline",
+    "category": "web",
+    "draw": "Indented tree of three levels of lines with small H marks at the start of each line."
+  },
+  {
+    "name": "switch-access",
+    "category": "web",
+    "draw": "Large round push button switch on a flat base with a cable leading off to the side."
+  },
+  {
+    "name": "screen-magnifier",
+    "category": "web",
+    "draw": "Monitor with a magnifying glass over part of the screen enlarging one letter."
+  },
+  {
+    "name": "accessibility-audit",
+    "category": "web",
+    "draw": "Clipboard with a round accessibility figure on the top and check lines below."
+  },
+  {
+    "name": "readability-score",
+    "category": "web",
+    "draw": "Page with text lines and a small semicircle gauge at its bottom."
+  },
+  {
+    "name": "focus-trap",
+    "category": "web",
+    "draw": "Modal box with a dashed focus outline and a circular arrow cycling inside it."
+  },
+  {
+    "name": "braille-display",
+    "category": "web",
+    "draw": "Flat device bar with a row of raised dot cells and small keys along its front edge."
+  },
+  {
+    "name": "eye-gaze-control",
+    "category": "web",
+    "draw": "Eye with a dotted line from its pupil to an arrow cursor on a screen."
+  },
+  {
+    "name": "audio-captcha",
+    "category": "web",
+    "draw": "Captcha box with a small speaker and sound wave arcs beside a checkbox."
+  },
+  {
+    "name": "web-vitals",
+    "category": "web",
+    "draw": "Three small semicircle gauges in a row with needles at different positions."
+  },
+  {
+    "name": "layout-shift",
+    "category": "web",
+    "draw": "Page with a content block outline and a dashed copy of it offset downward with a small arrow."
+  },
+  {
+    "name": "lazy-loading",
+    "category": "web",
+    "draw": "Vertical page with solid image blocks at the top and dashed empty placeholders further down."
+  },
+  {
+    "name": "code-splitting",
+    "category": "web",
+    "draw": "Code brackets block broken into three separate chunks with gaps between them."
+  },
+  {
+    "name": "tree-shaking",
+    "category": "web",
+    "draw": "Small tree with a few leaves falling off from its branches."
+  },
+  {
+    "name": "page-hydration",
+    "category": "web",
+    "draw": "Browser window with a water drop falling onto the page."
+  },
+  {
+    "name": "performance-budget",
+    "category": "web",
+    "draw": "Wallet with a small speed gauge on its front."
+  },
+  {
+    "name": "http-compression",
+    "category": "web",
+    "draw": "File page squeezed between two clamp jaws with arrows pressing inward."
+  },
+  {
+    "name": "image-compression",
+    "category": "web",
+    "draw": "Large image frame with an inward arrow pointing to a smaller image frame beside it."
+  },
+  {
+    "name": "page-cache",
+    "category": "web",
+    "draw": "Page stacked inside an open box with a small lightning bolt beside it."
+  },
+  {
+    "name": "render-blocking-script",
+    "category": "web",
+    "draw": "Script tag block standing in front of a browser page like a barrier."
+  },
+  {
+    "name": "responsive-images",
+    "category": "web",
+    "draw": "Same mountain picture drawn in three frame sizes, small, medium and large, lined up."
+  },
+  {
+    "name": "bundle-size",
+    "category": "web",
+    "draw": "Parcel box sitting on a weighing scale."
+  },
+  {
+    "name": "dropped-frames",
+    "category": "web",
+    "draw": "Film strip of four frames with one frame missing and dashed in the middle."
+  },
+  {
+    "name": "site-health",
+    "category": "web",
+    "draw": "Browser window with a heartbeat pulse line across the page."
+  },
+  {
+    "name": "container-query",
+    "category": "web",
+    "draw": "Box with a smaller component inside it and a short ruler along the inner top edge."
+  },
+  {
+    "name": "content-management-system",
+    "category": "web",
+    "draw": "Browser window with stacked content blocks in the page and a pencil beside them."
+  },
+  {
+    "name": "headless-cms",
+    "category": "web",
+    "draw": "Stack of content blocks sending three arrows out to a phone, a monitor and a watch."
+  },
+  {
+    "name": "block-editor",
+    "category": "web",
+    "draw": "Three stacked content blocks with a small plus inserter circle between two of them."
+  },
+  {
+    "name": "page-builder",
+    "category": "web",
+    "draw": "Browser window with an arrow cursor dragging a section block into place in the page."
+  },
+  {
+    "name": "content-calendar",
+    "category": "web",
+    "draw": "Calendar grid with small post rectangles placed on several of its days."
+  },
+  {
+    "name": "user-roles",
+    "category": "web",
+    "draw": "Three person silhouettes of different sizes with a small crown, key and pencil above each."
+  },
+  {
+    "name": "website-theme",
+    "category": "web",
+    "draw": "Browser window with a paint palette in the page."
+  },
+  {
+    "name": "comment-moderation",
+    "category": "web",
+    "draw": "Speech bubble with a small gavel over its corner."
+  },
+  {
+    "name": "static-site-generator",
+    "category": "web",
+    "draw": "Gear feeding into a stack of three plain pages with a small lightning bolt."
+  },
+  {
+    "name": "featured-image",
+    "category": "web",
+    "draw": "Post page with a large image block at the top marked with a small star and text lines below."
+  },
+  {
+    "name": "multisite-network",
+    "category": "web",
+    "draw": "Central browser window linked by lines to three smaller browser windows around it."
+  },
+  {
+    "name": "code-playground",
+    "category": "web",
+    "draw": "Browser window split into a left code pane with angle brackets and a right preview pane."
+  },
+  {
+    "name": "z-pattern-layout",
+    "category": "web",
+    "draw": "Page outline with a bold Z shaped path running across it from top left to bottom right."
+  },
+  {
+    "name": "f-pattern-layout",
+    "category": "web",
+    "draw": "Page outline with an F shaped set of bold scan lines along its top and left side."
+  },
+  {
+    "name": "asymmetric-layout",
+    "category": "web",
+    "draw": "Page divided into a wide left column and a narrow right column of unequal blocks."
+  },
+  {
+    "name": "broken-grid-layout",
+    "category": "web",
+    "draw": "Grid of blocks where one image block overlaps across two cells and the page edge."
+  },
+  {
+    "name": "map-list-layout",
+    "category": "web",
+    "draw": "Screen split into a list of three rows on the left and a map with a pin on the right."
+  },
+  {
+    "name": "product-listing-layout",
+    "category": "web",
+    "draw": "Page with a narrow filter column of checkboxes on the left and a two by two product card grid on the right."
+  },
+  {
+    "name": "client-logo-strip",
+    "category": "web",
+    "draw": "Horizontal band with a row of four simple placeholder shapes: circle, square, triangle and hexagon."
+  },
+  {
+    "name": "feature-grid",
+    "category": "web",
+    "draw": "Three by two grid of small squares, each with a short line under it."
+  },
+  {
+    "name": "moodboard",
+    "category": "web",
+    "draw": "Pinboard collage of overlapping photos and color swatch squares held by pins."
+  },
+  {
+    "name": "visual-hierarchy",
+    "category": "web",
+    "draw": "Three stacked text bars decreasing in size and weight from top to bottom."
+  },
+  {
+    "name": "above-the-fold",
+    "category": "web",
+    "draw": "Page outline with a dashed horizontal line across its upper part and content above it."
+  },
+  {
+    "name": "long-scroll-page",
+    "category": "web",
+    "draw": "Very tall page extending above and below a small screen frame, with a scroll arrow beside it."
+  },
+  {
+    "name": "shape-divider",
+    "category": "web",
+    "draw": "Two stacked page sections separated by a wavy edge."
+  },
+  {
+    "name": "lightbox-gallery",
+    "category": "web",
+    "draw": "Dimmed page with an enlarged image framed in the center and small arrows on its sides."
+  },
+  {
+    "name": "fluid-layout",
+    "category": "web",
+    "draw": "Page with content blocks and two outward arrows at its sides showing it stretches."
+  },
+  {
+    "name": "mobile-first",
+    "category": "web",
+    "draw": "Large phone outline in front of a smaller monitor outline behind it."
+  },
+  {
+    "name": "browser-viewport",
+    "category": "web",
+    "draw": "Browser window frame with a dashed rectangle marking the visible area over a larger page."
+  },
+  {
+    "name": "neumorphism",
+    "category": "web",
+    "draw": "Rounded square button softly raised from a flat surface with a light edge and a shadow edge."
+  },
+  {
+    "name": "lorem-ipsum",
+    "category": "web",
+    "draw": "Paragraph of wavy placeholder squiggle lines inside a dashed frame."
+  },
+  {
+    "name": "css-box-model",
+    "category": "web",
+    "draw": "Four nested rectangles, each smaller one centered inside the previous."
+  },
+  {
+    "name": "author-box",
+    "category": "web",
+    "draw": "Box with a round portrait on the left and a name line with two bio lines on the right."
+  },
+  {
+    "name": "related-posts",
+    "category": "web",
+    "draw": "Article text lines above a row of three small cards with image blocks."
+  },
+  {
+    "name": "social-share-bar",
+    "category": "web",
+    "draw": "Vertical strip of four small circles stuck to the left edge of a page."
+  },
+  {
+    "name": "zigzag-sections",
+    "category": "web",
+    "draw": "Page with three rows where image blocks alternate from left to right beside text lines."
+  },
+  {
+    "name": "fullscreen-menu-overlay",
+    "category": "web",
+    "draw": "Browser window fully covered by a panel with three large centered menu lines and a close cross."
+  },
+  {
+    "name": "full-bleed-image",
+    "category": "web",
+    "draw": "Page with a text column and an image block that stretches to both page edges."
+  },
+  {
+    "name": "scroll-reveal",
+    "category": "web",
+    "draw": "Page with blocks fading in from dashed to solid as they go up, and a small scroll arrow at the side."
+  },
+  {
+    "name": "web-design",
+    "category": "web",
+    "draw": "Browser window with a pen nib and a ruler crossed in the page."
+  },
+  {
+    "name": "usability-testing",
+    "category": "web",
+    "draw": "Person silhouette at a monitor with an eye above and a clipboard beside."
+  },
+  {
+    "name": "design-handoff",
+    "category": "web",
+    "draw": "Artboard frame passing along an arrow to a pair of code angle brackets."
+  },
+  {
+    "name": "cross-browser-testing",
+    "category": "web",
+    "draw": "Three small overlapping browser windows with a tick in the front one."
+  },
+  {
+    "name": "fieldset",
+    "category": "web",
+    "draw": "Rectangle border with a short legend label breaking the top edge and two input lines inside."
+  },
+  {
+    "name": "input-mask",
+    "category": "web",
+    "draw": "Input field with a pattern of grouped underscores separated by dashes."
+  },
+  {
+    "name": "terms-checkbox",
+    "category": "web",
+    "draw": "Checked checkbox next to a small document with folded corner."
+  },
+  {
+    "name": "form-submissions",
+    "category": "web",
+    "draw": "Inbox tray filled with a stack of small form sheets with field lines."
+  },
+  {
+    "name": "form-builder",
+    "category": "web",
+    "draw": "Form sheet with field bars and an arrow cursor dragging a new field bar onto it."
+  },
+  {
+    "name": "character-limit",
+    "category": "web",
+    "draw": "Text area box with a small fraction counter in its lower right corner."
+  },
+  {
+    "name": "image-captcha-grid",
+    "category": "web",
+    "draw": "Three by three grid of image tiles with two tiles ticked."
+  },
+  {
+    "name": "puzzle-captcha",
+    "category": "web",
+    "draw": "Picture frame with a puzzle piece shaped gap and a slider bar with a knob underneath."
+  },
+  {
+    "name": "address-autocomplete",
+    "category": "web",
+    "draw": "Input field with a map pin at its start and a dropdown list of two suggestion lines under it."
+  },
+  {
+    "name": "booking-form",
+    "category": "web",
+    "draw": "Form sheet with a small calendar at the top and two field lines below."
+  },
+  {
+    "name": "broken-image",
+    "category": "web",
+    "draw": "Image frame with a mountain and a jagged torn corner split off."
+  },
+  {
+    "name": "event-listener",
+    "category": "web",
+    "draw": "Ear beside a button shape with small sound arcs between them."
+  },
+  {
+    "name": "hreflang-tag",
+    "category": "web",
+    "draw": "Two pages side by side, each with a speech bubble holding a different script letter, joined by a two way arrow."
+  },
+  {
+    "name": "browser-sandbox",
+    "category": "web",
+    "draw": "Browser window sitting inside a shallow sandbox tray with a small toy shovel beside it."
+  },
+  {
+    "name": "same-origin-policy",
+    "category": "web",
+    "draw": "Two browser windows side by side with a short brick wall standing between them."
+  },
+  {
+    "name": "content-marketing",
+    "category": "web",
+    "draw": "Megaphone with a small document page coming out of its bell."
+  },
+  {
+    "name": "inbound-marketing",
+    "category": "web",
+    "draw": "Horseshoe magnet drawing three small person silhouettes toward a browser window."
+  },
+  {
+    "name": "personalized-email",
+    "category": "web",
+    "draw": "Envelope with a name tag label stuck on its front."
+  },
+  {
+    "name": "real-user-monitoring",
+    "category": "web",
+    "draw": "Person silhouette with a heartbeat pulse line running across in front of it."
+  },
+  {
+    "name": "synthetic-monitoring",
+    "category": "web",
+    "draw": "Small robot head with a heartbeat pulse line running across in front of it."
+  },
+  {
+    "name": "duotone-image",
+    "category": "web",
+    "draw": "Image frame with a mountain where the left half is solid and the right half is hatched."
+  },
+  {
+    "name": "free-shipping-bar",
+    "category": "web",
+    "draw": "Horizontal progress bar mostly filled with a small delivery truck at its end."
+  },
+  {
+    "name": "math-captcha",
+    "category": "web",
+    "draw": "Input field showing a small plus sign between two dots and an equals sign followed by an empty box."
+  },
+  {
+    "name": "cross-domain-tracking",
+    "category": "web",
+    "draw": "Two globes joined by a dotted line with a small tag riding on the line."
+  },
+  {
+    "name": "buddy-list",
+    "category": "web",
+    "draw": "Narrow window with a list of four name lines, each with a small round status dot in front."
+  },
+  {
+    "name": "chain-email",
+    "category": "web",
+    "draw": "Envelope with a length of chain links hanging from its corner."
+  },
+  {
+    "name": "listicle",
+    "category": "web",
+    "draw": "Article page with three rows, each a large number beside a small image block and a text line."
+  },
+  {
+    "name": "live-blog",
+    "category": "web",
+    "draw": "Post page with a vertical timeline of three entries and a filled live dot at the top."
+  },
+  {
+    "name": "crowdsourcing",
+    "category": "web",
+    "draw": "Crowd of small person heads each sending an arrow up into one large lightbulb."
+  },
+  {
+    "name": "bookmarklet",
+    "category": "web",
+    "draw": "Bookmark ribbon with code angle brackets on it."
+  },
+  {
+    "name": "email-list-cleaning",
+    "category": "web",
+    "draw": "Broom sweeping a few small envelopes out of a list of lines."
+  },
+  {
+    "name": "email-subject-line",
+    "category": "web",
+    "draw": "Envelope with one bold line across its front and a pencil tip beside it."
+  },
+  {
+    "name": "conditional-form-logic",
+    "category": "web",
+    "draw": "Form with one field bar splitting into two branching arrows leading to two different field bars."
+  },
+  {
+    "name": "content-repurposing",
+    "category": "web",
+    "draw": "One document in the center with circular arrows turning it into a play button card and an image card."
+  },
+  {
+    "name": "mailto-link",
+    "category": "web",
+    "draw": "Chain link with a small envelope attached to one end."
+  },
+  {
+    "name": "keyboard-warrior",
+    "category": "web",
+    "draw": "Keyboard with a small sword crossed over it."
+  },
+  {
+    "name": "hotlinking",
+    "category": "web",
+    "draw": "Image frame on one browser window pulled by a chain link into a second browser window."
+  },
+  {
+    "name": "responsive-table",
+    "category": "web",
+    "draw": "Wide table grid on the left with an arrow to the same rows restacked as narrow cards on the right."
+  },
+  {
+    "name": "online-queue",
+    "category": "web",
+    "draw": "Browser window with a row of small person silhouettes lined up in the page above a partly filled progress bar."
+  },
+  {
+    "name": "bot-check-page",
+    "category": "web",
+    "draw": "Browser window with a shield in the middle of the page and a small spinning loader circle beneath it."
+  }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "name": "motion-capture-suit",
+  "category": "production",
+  "draw": "Standing figure in a tight suit with small round marker dots on its joints.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "facial-capture-helmet",
+  "category": "production",
+  "draw": "Head wearing a helmet with a thin boom arm holding a tiny camera in front of the face.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "led-volume-stage",
+  "category": "production",
+  "draw": "Curved wall of screen panels showing mountains, with a small camera on a tripod in front.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "photogrammetry-scan",
+  "category": "production",
+  "draw": "Small object in the center with a ring of small cameras around it pointing inward.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "exposure-triangle",
+  "category": "production",
+  "draw": "Triangle with an aperture iris at one corner, a shutter speed dial at another and the text ISO at the third.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "iso-sensitivity",
+  "category": "production",
+  "draw": "Rounded rectangle badge with the text ISO and small grain dots beneath.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "exposure-bracketing",
+  "category": "production",
+  "draw": "Three overlapping photo frames fanned out, marked with minus, zero and plus.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "burst-mode",
+  "category": "production",
+  "draw": "Stack of many overlapping photo frames offset in a row with short motion lines.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "high-speed-photography",
+  "category": "production",
+  "draw": "Milk drop crown splash with droplets rising above a flat surface.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "light-leak",
+  "category": "production",
+  "draw": "Photo frame with a large soft glowing blob spilling in from one corner edge.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "film-grain",
+  "category": "production",
+  "draw": "Photo frame filled with an even speckle of small dots of different sizes.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "sepia-tone",
+  "category": "production",
+  "draw": "Photo frame with a mountain scene and a small brown tint drop beside it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "moire-pattern",
+  "category": "production",
+  "draw": "Two sets of fine curved line patterns overlapping to form wavy interference bands.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "rolling-shutter-distortion",
+  "category": "production",
+  "draw": "Propeller with its blades bent into curved bananas inside a camera frame.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "motion-photo",
+  "category": "production",
+  "draw": "Photo frame with a small play circle in its corner and concentric rings behind it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "night-mode-photo",
+  "category": "production",
+  "draw": "Camera outline with a crescent moon and a small star inside its lens.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "photo-filters",
+  "category": "production",
+  "draw": "Three overlapping circles forming a Venn shape over a small photo frame.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "switch-camera",
+  "category": "production",
+  "draw": "Camera outline with two curved arrows chasing each other in a circle inside its body.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "photo-collage",
+  "category": "production",
+  "draw": "Rectangular frame divided into several irregular photo panels of different sizes.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "eye-autofocus",
+  "category": "production",
+  "draw": "Eye outline with four corner focus brackets around it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "red-eye-reduction",
+  "category": "production",
+  "draw": "Eye with a filled pupil and a small lightning flash crossed through beside it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "dodge-and-burn",
+  "category": "production",
+  "draw": "Two tools side by side, a round paddle on a stick and a hand shape with a hole in its palm.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "clone-stamp-tool",
+  "category": "production",
+  "draw": "Rubber stamp tool shape with a small crosshair target beside it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "curves-adjustment",
+  "category": "production",
+  "draw": "Square graph with a light grid and an S shaped curve running from bottom left to top right.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "levels-adjustment",
+  "category": "production",
+  "draw": "Histogram hill shape above a horizontal slider bar with three triangle handles.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "noise-reduction",
+  "category": "production",
+  "draw": "Photo frame half filled with speckle dots and half smooth, with a small sweeping line between.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "darkroom-tray",
+  "category": "production",
+  "draw": "Shallow rectangular tray seen at an angle holding a photo print in liquid with tongs resting on the rim.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "film-changing-bag",
+  "category": "production",
+  "draw": "Flat lightproof bag with two sleeve openings on the sides for arms and a zipper on top.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "slide-loupe",
+  "category": "production",
+  "draw": "Cone shaped magnifier standing on a small square slide, with a large eyepiece at the top.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "medium-format-film-roll",
+  "category": "production",
+  "draw": "Short spool of film wrapped in backing paper with a tape tab holding the end, on a wide spool.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "110-film-cartridge",
+  "category": "production",
+  "draw": "Flat plastic cartridge with two chambers linked by a narrow bridge showing a small film window.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "sheet-film-holder",
+  "category": "production",
+  "draw": "Flat rectangular holder with a dark slide pulled halfway out of its end tab.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "instant-film-pack",
+  "category": "production",
+  "draw": "Box pack of stacked instant photo prints with the top print sticking out of a slot.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "daguerreotype",
+  "category": "production",
+  "draw": "Small hinged case opened like a book with an ornate oval frame holding a portrait on one side.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "iris-transition",
+  "category": "production",
+  "draw": "Frame filled solid except for a small circle opening in the center showing a figure, like a closing iris.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "rain-machine",
+  "category": "production",
+  "draw": "Tall stand holding a horizontal pipe bar that sprays rows of rain lines down onto the ground.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "stunt-airbag",
+  "category": "production",
+  "draw": "Large puffy inflated cushion on the ground with a falling figure above it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "ptz-camera-controller",
+  "category": "production",
+  "draw": "Desk control panel with a tall joystick on the right and rows of small buttons and a tiny screen on the left.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "sound-stage",
+  "category": "production",
+  "draw": "Large hangar shaped studio building with a big sliding door and a large number painted on its wall.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "probe-lens",
+  "category": "production",
+  "draw": "Camera with a very long thin tube lens that bends to an angled tip at the end.",
+  "domain": "r2-photo-video-production"
+ }
+]

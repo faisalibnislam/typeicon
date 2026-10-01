@@ -1,0 +1,482 @@
+[
+ {
+  "name": "volleyball-player",
+  "category": "sports-gear",
+  "draw": "Figure jumping with arm raised to spike a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "volleyball-dig",
+  "category": "sports-gear",
+  "draw": "Figure crouched with forearms joined to bump a ball upward.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ice-hockey-player",
+  "category": "sports-gear",
+  "draw": "Skating figure bent forward, stick on the ice driving a puck.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "hockey-faceoff",
+  "category": "sports-gear",
+  "draw": "Two sticks crossed over a puck dropping between them.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "field-hockey-player",
+  "category": "sports-gear",
+  "draw": "Running figure bent low with a hooked stick pushing a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "lacrosse-player",
+  "category": "sports-gear",
+  "draw": "Running figure cradling a ball in a netted stick held high.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cricket-batter",
+  "category": "sports-gear",
+  "draw": "Figure with pads and helmet swinging a flat bat at a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cricket-bowler",
+  "category": "sports-gear",
+  "draw": "Figure with bowling arm straight overhead in delivery stride.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "golfer",
+  "category": "sports-gear",
+  "draw": "Figure finishing a swing with the club wrapped over the shoulder.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "polo-player",
+  "category": "sports-gear",
+  "draw": "Rider on a galloping horse swinging a long mallet down at a ball.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "hurling-player",
+  "category": "sports-gear",
+  "draw": "Running figure balancing a small ball on a flat-bladed stick.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "kabaddi",
+  "category": "sports-gear",
+  "draw": "Figure lunging forward with one hand outstretched to tag, one leg bent.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bowling-player",
+  "category": "sports-gear",
+  "draw": "Figure crouched forward releasing a heavy ball down a lane.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "billiards-player",
+  "category": "sports-gear",
+  "draw": "Figure leaning over a table lining up a long cue.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "referee",
+  "category": "sports-gear",
+  "draw": "Figure with a whistle in the mouth and one arm pointing out.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "team-huddle",
+  "category": "sports-gear",
+  "draw": "Ring of figures seen from above with arms around each other.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "foam-finger",
+  "category": "sports-gear",
+  "draw": "Oversized foam hand with the index finger pointing up.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sports-scarf",
+  "category": "sports-gear",
+  "draw": "Striped knit scarf with tassels hanging from both ends, held up.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bleachers",
+  "category": "sports-gear",
+  "draw": "Stepped rows of bench seating seen from the side.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "stadium-floodlight",
+  "category": "sports-gear",
+  "draw": "Tall mast topped by a rectangular bank of lamps.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "championship-belt",
+  "category": "sports-gear",
+  "draw": "Wide belt with a large ornate central plate and smaller side plates.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "award-rosette",
+  "category": "sports-gear",
+  "draw": "Pleated round rosette with two ribbon tails hanging below.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "trophy-shield",
+  "category": "sports-gear",
+  "draw": "Shield-shaped plaque with small name plates on a wooden base.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "race-bib",
+  "category": "sports-gear",
+  "draw": "Rectangular number bib with a large number and a safety pin in each corner.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sports-water-bottle",
+  "category": "sports-gear",
+  "draw": "Squeeze bottle with a pull-up nozzle cap and grip ridges.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ball-bag",
+  "category": "sports-gear",
+  "draw": "Mesh drawstring bag holding several balls.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "finish-arch",
+  "category": "sports-gear",
+  "draw": "Inflatable arch over a road with a banner across the top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sprint-start",
+  "category": "sports-gear",
+  "draw": "Figure crouched in starting position with hands on the ground and hips raised.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "starting-blocks",
+  "category": "sports-gear",
+  "draw": "Pair of angled foot pedals on a rail, side view.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "hurdling",
+  "category": "sports-gear",
+  "draw": "Figure in full stride with the lead leg straight over a hurdle.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "relay-baton",
+  "category": "sports-gear",
+  "draw": "Hollow tube baton being passed from one hand to another.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "finish-line-tape",
+  "category": "sports-gear",
+  "draw": "Runner breaking a tape stretched across the track with arms raised.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "high-jump",
+  "category": "sports-gear",
+  "draw": "Figure arching backward over a horizontal bar.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "long-jump",
+  "category": "sports-gear",
+  "draw": "Figure flying forward with legs extended toward a sand pit.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "triple-jump",
+  "category": "sports-gear",
+  "draw": "Figure mid-bound with three footprints marked on the ground behind.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pole-vault",
+  "category": "sports-gear",
+  "draw": "Figure swinging upward on a bending pole toward a raised bar.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "javelin-throw",
+  "category": "sports-gear",
+  "draw": "Figure leaning back with one arm drawn to launch a long javelin.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "discus-throw",
+  "category": "sports-gear",
+  "draw": "Figure twisting with an arm extended holding a flat disc.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "shot-put",
+  "category": "sports-gear",
+  "draw": "Figure crouched with a heavy ball pressed against the neck.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "hammer-throw",
+  "category": "sports-gear",
+  "draw": "Figure spinning with a ball on a wire swinging around.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "race-walking",
+  "category": "sports-gear",
+  "draw": "Figure walking briskly with straight front leg and bent swinging arms.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "running-track",
+  "category": "sports-gear",
+  "draw": "Top view of an oval track with several parallel lanes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "track-spikes",
+  "category": "sports-gear",
+  "draw": "Low running shoe with a stiff sole plate and small spikes under the toe.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "steeplechase",
+  "category": "sports-gear",
+  "draw": "Figure clearing a barrier above a water pit.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "triathlon",
+  "category": "sports-gear",
+  "draw": "Three small symbols in a row: swimmer, bicycle and runner.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pommel-horse",
+  "category": "sports-gear",
+  "draw": "Padded body on legs with two raised handles on top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "balance-beam",
+  "category": "sports-gear",
+  "draw": "Long narrow beam on two sturdy legs, side view.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "uneven-bars",
+  "category": "sports-gear",
+  "draw": "Two horizontal bars at different heights on a frame.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "vaulting-table",
+  "category": "sports-gear",
+  "draw": "Padded rounded vault top on a pedestal with a springboard in front.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rhythmic-ribbon",
+  "category": "sports-gear",
+  "draw": "Figure on tiptoe twirling a long ribbon in a spiral on a stick.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "horizontal-bar",
+  "category": "sports-gear",
+  "draw": "Figure swinging in a full circle around a high single bar.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "springboard",
+  "category": "sports-gear",
+  "draw": "Wedge-shaped sprung board with a slanted top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "gym-mat",
+  "category": "sports-gear",
+  "draw": "Folded thick mat with segmented panels.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "human-pyramid",
+  "category": "sports-gear",
+  "draw": "Figures stacked in a triangle, three at the base, two, then one on top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "fencing",
+  "category": "sports-gear",
+  "draw": "Two figures lunging at each other with thin swords extended.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "fencing-mask",
+  "category": "sports-gear",
+  "draw": "Rounded mesh face mask with a bib covering the neck.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "fencing-foil",
+  "category": "sports-gear",
+  "draw": "Thin flexible sword with a round bell guard over the grip.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "judo",
+  "category": "sports-gear",
+  "draw": "Figure throwing another over the hip, both in loose jackets.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "wrestling",
+  "category": "sports-gear",
+  "draw": "Two figures grappling low with arms locked around each other.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sumo",
+  "category": "sports-gear",
+  "draw": "Heavy figure in a crouch with one leg raised high, belt around the waist.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sumo-ring",
+  "category": "sports-gear",
+  "draw": "Top view of a circular ring with two short start lines inside.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "kendo",
+  "category": "sports-gear",
+  "draw": "Figure in armor and a grilled helmet raising a bamboo sword overhead.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "kyudo",
+  "category": "sports-gear",
+  "draw": "Figure in wide trousers drawing a very tall asymmetric bow.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "muay-thai",
+  "category": "sports-gear",
+  "draw": "Figure with a headband and arm bands driving a knee strike upward.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "jiu-jitsu",
+  "category": "sports-gear",
+  "draw": "Two figures on the ground, one holding the other in guard.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "kung-fu",
+  "category": "sports-gear",
+  "draw": "Figure in a low wide horse stance with one palm pushed forward.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "aikido",
+  "category": "sports-gear",
+  "draw": "Figure turning another by the wrist into a forward roll.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "boxer",
+  "category": "sports-gear",
+  "draw": "Figure in guard stance with gloves raised in front of the face.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "capoeira",
+  "category": "sports-gear",
+  "draw": "Figure in a low cartwheel with one leg sweeping overhead.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "mma-cage",
+  "category": "sports-gear",
+  "draw": "Top view of an eight-sided fenced ring.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "boxing-ring",
+  "category": "sports-gear",
+  "draw": "Square ring platform with corner posts and three rows of ropes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "boxing-headgear",
+  "category": "sports-gear",
+  "draw": "Padded headguard with open face and cheek protectors.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "boxing-bell",
+  "category": "sports-gear",
+  "draw": "Round dome bell on a mounting plate with a striker.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "martial-arts-belt",
+  "category": "sports-gear",
+  "draw": "Cloth belt tied in a square knot with two ends hanging down.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "martial-arts-uniform",
+  "category": "sports-gear",
+  "draw": "Wrap-over jacket with wide sleeves and a tied belt.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "nunchaku",
+  "category": "sports-gear",
+  "draw": "Two short sticks joined end to end by a short chain.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bo-staff",
+  "category": "sports-gear",
+  "draw": "Long straight wooden staff held diagonally in two hands.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "board-breaking",
+  "category": "sports-gear",
+  "draw": "Hand chopping down through a wooden board that is splitting in two.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sailing-dinghy",
+  "category": "sports-gear",
+  "draw": "Small dinghy with one triangular sail and a figure leaning out over the side.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sailing-regatta",
+  "category": "sports-gear",
+  "draw": "Three small sailboats racing past a triangular marker buoy.",
+  "domain": "sports-equipment-activities"
+ }
+]

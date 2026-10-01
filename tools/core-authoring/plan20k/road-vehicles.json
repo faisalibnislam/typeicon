@@ -1,0 +1,1342 @@
+[
+  {
+    "name": "hatchback",
+    "category": "vehicles",
+    "draw": "Compact car in side view with a short rear that slopes steeply down into a tall rear hatch, no trunk step."
+  },
+  {
+    "name": "station-wagon",
+    "category": "vehicles",
+    "draw": "Long car in side view with the roof running flat all the way back to a squared-off vertical tailgate."
+  },
+  {
+    "name": "coupe",
+    "category": "vehicles",
+    "draw": "Low two-door car in side view with a long hood, one long door and a fastback roof sloping to the tail."
+  },
+  {
+    "name": "suv",
+    "category": "vehicles",
+    "draw": "Tall boxy sport utility vehicle in side view with high ground clearance, big wheels and roof rails."
+  },
+  {
+    "name": "compact-car",
+    "category": "vehicles",
+    "draw": "Very short rounded city car in side view with two wheels close together and almost no overhang."
+  },
+  {
+    "name": "microcar",
+    "category": "vehicles",
+    "draw": "Tiny egg-shaped bubble car in side view with one front-opening door and three small wheels."
+  },
+  {
+    "name": "limousine",
+    "category": "vehicles",
+    "draw": "Very long stretched car in side view with many side windows in a row and a wheel at each end."
+  },
+  {
+    "name": "muscle-car",
+    "category": "vehicles",
+    "draw": "Long heavy coupe in side view with a bulging hood scoop, flat roof and wide rear tires."
+  },
+  {
+    "name": "hot-rod",
+    "category": "vehicles",
+    "draw": "Vintage roadster in side view with exposed chrome engine sticking up in front, huge rear wheels and small front wheels."
+  },
+  {
+    "name": "vintage-car",
+    "category": "vehicles",
+    "draw": "1920s car in side view with upright boxy cabin, separate curved fenders, running board and spoked wheels."
+  },
+  {
+    "name": "lowrider",
+    "category": "vehicles",
+    "draw": "Long old sedan sitting almost on the ground with small wire wheels and the front bouncing up off the road."
+  },
+  {
+    "name": "rally-car",
+    "category": "vehicles",
+    "draw": "Hatchback in side view with a big rear wing, roof vent, mud flaps and a spray of dirt behind the rear wheel."
+  },
+  {
+    "name": "dragster",
+    "category": "vehicles",
+    "draw": "Very long thin race car in side view with a needle nose, tiny front wheels and giant fat rear wheels with a high wing."
+  },
+  {
+    "name": "go-kart",
+    "category": "vehicles",
+    "draw": "Low open kart in side view with a seated driver in a helmet, small wheels and a steering wheel over the lap."
+  },
+  {
+    "name": "dune-buggy",
+    "category": "vehicles",
+    "draw": "Open buggy in side view with an exposed tube roll cage, no doors, big knobby rear tires and a rear engine."
+  },
+  {
+    "name": "off-road-vehicle",
+    "category": "vehicles",
+    "draw": "Boxy four-by-four in side view with a spare tire mounted on the back door, snorkel and chunky tread tires."
+  },
+  {
+    "name": "self-driving-car",
+    "category": "vehicles",
+    "draw": "Car in side view with a rounded sensor dome on the roof sending out small radar arcs."
+  },
+  {
+    "name": "hearse",
+    "category": "vehicles",
+    "draw": "Long dark estate car in side view with a tall closed rear compartment, curtained window and ornamental S-shaped bar."
+  },
+  {
+    "name": "car-top-view",
+    "category": "vehicles",
+    "draw": "Car seen from directly above: rounded rectangle body with windshield, roof panel, rear window and four tire edges."
+  },
+  {
+    "name": "soapbox-racer",
+    "category": "vehicles",
+    "draw": "Homemade wooden gravity racer in side view: a plank box with four mismatched wheels and a rope steering loop."
+  },
+  {
+    "name": "drifting-car",
+    "category": "vehicles",
+    "draw": "Car angled sideways with front wheels turned and puffs of tire smoke streaming from the rear wheels."
+  },
+  {
+    "name": "semi-truck",
+    "category": "vehicles",
+    "draw": "Big rig in side view: tall cab with exhaust stack in front, coupled to a long box trailer with many wheels."
+  },
+  {
+    "name": "flatbed-truck",
+    "category": "vehicles",
+    "draw": "Truck in side view with a cab and a flat open deck behind it carrying nothing, rails at the deck edge."
+  },
+  {
+    "name": "tanker-truck",
+    "category": "vehicles",
+    "draw": "Truck in side view pulling a long horizontal cylinder tank with a ladder and a hatch on top."
+  },
+  {
+    "name": "refrigerated-truck",
+    "category": "vehicles",
+    "draw": "Box truck in side view with a small cooling unit box mounted above the cab end of the cargo box and a snowflake on the side."
+  },
+  {
+    "name": "car-transporter",
+    "category": "vehicles",
+    "draw": "Two-deck open trailer truck in side view carrying small cars stacked on upper and lower ramps."
+  },
+  {
+    "name": "logging-truck",
+    "category": "vehicles",
+    "draw": "Truck in side view with a load of stacked round log ends held between upright stakes."
+  },
+  {
+    "name": "monster-truck",
+    "category": "vehicles",
+    "draw": "Pickup body perched high on gigantic tractor-tread tires, taller than the body itself."
+  },
+  {
+    "name": "ice-cream-truck",
+    "category": "vehicles",
+    "draw": "Van in side view with a serving window, a giant soft-serve cone on the roof and a small awning."
+  },
+  {
+    "name": "food-truck",
+    "category": "vehicles",
+    "draw": "Truck in side view with a large open serving hatch propped up as an awning and a small menu board."
+  },
+  {
+    "name": "mail-truck",
+    "category": "vehicles",
+    "draw": "Small upright boxy delivery vehicle in side view with a sliding open driver door and an envelope on the side."
+  },
+  {
+    "name": "armored-truck",
+    "category": "vehicles",
+    "draw": "Heavy squared-off truck in side view with tiny slit windows, thick panels and a padlock symbol on the rear door."
+  },
+  {
+    "name": "snowplow",
+    "category": "vehicles",
+    "draw": "Truck in side view with a big curved angled blade in front pushing a pile of snow."
+  },
+  {
+    "name": "salt-spreader",
+    "category": "vehicles",
+    "draw": "Truck in side view with a hopper on the back and a spinning disc at the rear throwing a fan of grit dots."
+  },
+  {
+    "name": "vacuum-truck",
+    "category": "vehicles",
+    "draw": "Truck in side view with a large rear tank and a thick hose coiled along the side hanging to the ground."
+  },
+  {
+    "name": "mobile-library",
+    "category": "vehicles",
+    "draw": "Bus-sized van in side view with an open side door and shelves of book spines visible through the windows."
+  },
+  {
+    "name": "lowboy-trailer",
+    "category": "vehicles",
+    "draw": "Truck cab pulling a very low dropped-deck trailer carrying a small excavator."
+  },
+  {
+    "name": "school-bus",
+    "category": "vehicles",
+    "draw": "Long bus in side view with a short hood in front, many small windows and a fold-out stop sign by the driver."
+  },
+  {
+    "name": "articulated-bus",
+    "category": "vehicles",
+    "draw": "Very long bus in side view made of two sections joined by an accordion bellows in the middle."
+  },
+  {
+    "name": "trolleybus",
+    "category": "vehicles",
+    "draw": "Bus in side view with two long poles on the roof reaching up to two overhead wires."
+  },
+  {
+    "name": "minibus",
+    "category": "vehicles",
+    "draw": "Short high-roof bus in side view with a sliding door and three side windows."
+  },
+  {
+    "name": "police-van",
+    "category": "vehicles",
+    "draw": "Tall van in side view with a light bar on the roof, a checkered stripe and barred rear windows."
+  },
+  {
+    "name": "police-motorcycle",
+    "category": "vehicles",
+    "draw": "Large touring motorcycle in side view with a windshield, saddlebags and a flashing light on a rear pole."
+  },
+  {
+    "name": "caravan-trailer",
+    "category": "vehicles",
+    "draw": "Rounded travel trailer in side view with one axle, a door, a window and a tow hitch sticking out in front."
+  },
+  {
+    "name": "teardrop-trailer",
+    "category": "vehicles",
+    "draw": "Small teardrop-shaped camping trailer in side view with a curved back, one side door and one wheel."
+  },
+  {
+    "name": "utility-trailer",
+    "category": "vehicles",
+    "draw": "Small open-box trailer in side view with one wheel, low sides and a triangle tongue to the hitch."
+  },
+  {
+    "name": "rooftop-tent",
+    "category": "vehicles",
+    "draw": "Car in side view with a tent unfolded on its roof and a ladder leaning down to the ground."
+  },
+  {
+    "name": "dirt-bike",
+    "category": "vehicles",
+    "draw": "Tall lightweight off-road motorcycle in side view with a high front mudguard, knobby tires and a short seat."
+  },
+  {
+    "name": "chopper-motorcycle",
+    "category": "vehicles",
+    "draw": "Motorcycle in side view with a very long raked front fork, tall ape-hanger handlebars and a low seat."
+  },
+  {
+    "name": "touring-motorcycle",
+    "category": "vehicles",
+    "draw": "Heavy motorcycle in side view with a large front fairing and windshield, hard saddlebags and a rear top box."
+  },
+  {
+    "name": "sidecar-motorcycle",
+    "category": "vehicles",
+    "draw": "Motorcycle in side view with a bullet-shaped passenger sidecar attached beside it on its own wheel."
+  },
+  {
+    "name": "trike-motorcycle",
+    "category": "vehicles",
+    "draw": "Three-wheeled motorcycle seen from a rear three-quarter view with one front wheel and two wide rear wheels."
+  },
+  {
+    "name": "quad-bike",
+    "category": "vehicles",
+    "draw": "All-terrain vehicle in side view with four fat knobby tires, straddle seat and handlebars, racks front and back."
+  },
+  {
+    "name": "delivery-scooter",
+    "category": "vehicles",
+    "draw": "Step-through motor scooter in side view with a large square delivery box mounted behind the seat."
+  },
+  {
+    "name": "golf-cart",
+    "category": "vehicles",
+    "draw": "Small open cart in side view with a flat canopy roof on thin poles, a bench seat and a golf bag on the back."
+  },
+  {
+    "name": "snowmobile",
+    "category": "vehicles",
+    "draw": "Snow sled vehicle in side view with two front skis, a rear rubber track and handlebars behind a small windshield."
+  },
+  {
+    "name": "snowcat",
+    "category": "vehicles",
+    "draw": "Tracked snow groomer in side view with a boxy cab on wide tracks, a front blade and a rear comb tiller."
+  },
+  {
+    "name": "auto-rickshaw",
+    "category": "vehicles",
+    "draw": "Three-wheeled motor taxi in side view with a canvas-roofed passenger cabin, open sides and one front wheel."
+  },
+  {
+    "name": "cycle-rickshaw",
+    "category": "vehicles",
+    "draw": "Tricycle taxi in side view: a rider pedaling at the front and a hooded passenger bench over two rear wheels."
+  },
+  {
+    "name": "rickshaw",
+    "category": "vehicles",
+    "draw": "Hand-pulled two-wheeled cart in side view with a hooded seat on large wheels and two long pulling shafts."
+  },
+  {
+    "name": "jeepney",
+    "category": "vehicles",
+    "draw": "Long colorful jeep-style bus in side view with an open rear entrance, side benches and a row of small windows."
+  },
+  {
+    "name": "hoverboard",
+    "category": "vehicles",
+    "draw": "Self-balancing board in three-quarter view: two wheels at the ends of a narrow platform with two foot pads."
+  },
+  {
+    "name": "self-balancing-scooter",
+    "category": "vehicles",
+    "draw": "Two-wheeled stand-up personal transporter with a tall handlebar column rising from a platform between the wheels."
+  },
+  {
+    "name": "electric-unicycle",
+    "category": "vehicles",
+    "draw": "Single thick wheel in a rounded shell with fold-out foot pedals on each side and a carry handle on top."
+  },
+  {
+    "name": "unicycle",
+    "category": "vehicles",
+    "draw": "One-wheeled cycle in side view with a single spoked wheel, pedals at the hub and a seat on a tall post."
+  },
+  {
+    "name": "covered-wagon",
+    "category": "vehicles",
+    "draw": "Pioneer wagon in side view with an arched white canvas cover on hoops and large wooden spoked wheels."
+  },
+  {
+    "name": "chariot",
+    "category": "vehicles",
+    "draw": "Ancient two-wheeled chariot in side view with a curved front guard, one large spoked wheel and a pole forward."
+  },
+  {
+    "name": "road-bike",
+    "category": "vehicles",
+    "draw": "Racing bicycle in side view with thin tires, drop handlebars curling down and a horizontal top tube."
+  },
+  {
+    "name": "mountain-bike",
+    "category": "vehicles",
+    "draw": "Bicycle in side view with thick knobby tires, a front suspension fork, flat handlebars and a sloping top tube."
+  },
+  {
+    "name": "bmx-bike",
+    "category": "vehicles",
+    "draw": "Small stunt bicycle in side view with small wheels, high raised handlebars with a crossbar and pegs on the hubs."
+  },
+  {
+    "name": "tandem-bicycle",
+    "category": "vehicles",
+    "draw": "Long bicycle in side view with two seats and two sets of handlebars one behind the other."
+  },
+  {
+    "name": "penny-farthing",
+    "category": "vehicles",
+    "draw": "Victorian bicycle in side view with a huge front wheel, a tiny rear wheel and a seat high on top."
+  },
+  {
+    "name": "recumbent-bicycle",
+    "category": "vehicles",
+    "draw": "Low bicycle in side view with a reclining chair seat and the pedals stretched out in front at seat height."
+  },
+  {
+    "name": "cargo-bike",
+    "category": "vehicles",
+    "draw": "Long bicycle in side view with a large open box between the handlebars and the low front wheel."
+  },
+  {
+    "name": "folding-bike",
+    "category": "vehicles",
+    "draw": "Small-wheeled bicycle folded in half with both wheels side by side and the handlebar stem folded down."
+  },
+  {
+    "name": "beach-cruiser-bike",
+    "category": "vehicles",
+    "draw": "Upright bicycle in side view with a curved swooping frame, wide swept-back handlebars and balloon tires."
+  },
+  {
+    "name": "fat-tire-bike",
+    "category": "vehicles",
+    "draw": "Bicycle in side view with extremely wide balloon tires about twice as thick as normal."
+  },
+  {
+    "name": "time-trial-bike",
+    "category": "vehicles",
+    "draw": "Aerodynamic racing bicycle in side view with solid disc rear wheel and forward-pointing aero bars."
+  },
+  {
+    "name": "handcycle",
+    "category": "vehicles",
+    "draw": "Low three-wheeled cycle in side view with the rider reclined and turning hand cranks at chest height."
+  },
+  {
+    "name": "velomobile",
+    "category": "vehicles",
+    "draw": "Enclosed pedal vehicle in side view: a smooth teardrop shell with a small head opening, three wheels barely showing."
+  },
+  {
+    "name": "step-through-bike",
+    "category": "vehicles",
+    "draw": "Upright city bicycle in side view with a low dipping frame and no top tube, a rear rack and a front basket."
+  },
+  {
+    "name": "car-battery",
+    "category": "vehicles",
+    "draw": "Rectangular battery box in three-quarter view with two round terminal posts on top marked plus and minus."
+  },
+  {
+    "name": "car-radiator",
+    "category": "vehicles",
+    "draw": "Rectangular car radiator with a finned grid of vertical lines, side tanks and a round filler cap on top."
+  },
+  {
+    "name": "exhaust-pipe",
+    "category": "vehicles",
+    "draw": "Car tailpipe seen at an angle with a chrome tip and a puff of exhaust gas coming out."
+  },
+  {
+    "name": "catalytic-converter",
+    "category": "vehicles",
+    "draw": "Flat oval canister with pipes at each end and a honeycomb pattern shown in a cutaway window."
+  },
+  {
+    "name": "oil-dipstick",
+    "category": "vehicles",
+    "draw": "Long thin dipstick with a loop handle at the top and fill marks near the tip with an oil drop falling."
+  },
+  {
+    "name": "motor-oil",
+    "category": "vehicles",
+    "draw": "Tall engine oil bottle with a side handle and an off-center spout cap, an oil drop label on the front."
+  },
+  {
+    "name": "engine-air-filter",
+    "category": "vehicles",
+    "draw": "Rectangular pleated air filter panel seen at an angle, showing zig-zag folds inside a rubber rim."
+  },
+  {
+    "name": "brake-caliper",
+    "category": "vehicles",
+    "draw": "Brake caliper clamped over the edge of a brake disc, seen from the side with two bolts."
+  },
+  {
+    "name": "brake-pad",
+    "category": "vehicles",
+    "draw": "Pair of curved brake pads each with a friction block on a metal backing plate."
+  },
+  {
+    "name": "car-axle",
+    "category": "vehicles",
+    "draw": "Straight axle bar with a wheel hub at each end and a round differential bulge in the middle."
+  },
+  {
+    "name": "drive-shaft",
+    "category": "vehicles",
+    "draw": "Long tube shaft with a universal joint cross yoke at each end."
+  },
+  {
+    "name": "automatic-shifter",
+    "category": "vehicles",
+    "draw": "Automatic gear lever with a button on the handle and the letters P R N D in a column beside it."
+  },
+  {
+    "name": "fuel-tank",
+    "category": "vehicles",
+    "draw": "Flat rounded vehicle fuel tank with a filler neck pipe on one corner and a fuel drop on the side."
+  },
+  {
+    "name": "headlight",
+    "category": "vehicles",
+    "draw": "Car headlamp unit seen from the front with a round reflector bulb inside and light beams shining forward."
+  },
+  {
+    "name": "tail-light",
+    "category": "vehicles",
+    "draw": "Rear corner of a car with a tall rectangular brake light lens split into two segments glowing."
+  },
+  {
+    "name": "car-horn",
+    "category": "vehicles",
+    "draw": "Round snail-shaped car horn with a spiral body and a bracket, with sound waves coming out."
+  },
+  {
+    "name": "rearview-mirror",
+    "category": "vehicles",
+    "draw": "Wide rectangular interior mirror with rounded ends hanging from a short stem at the top."
+  },
+  {
+    "name": "side-mirror",
+    "category": "vehicles",
+    "draw": "Wing mirror on its arm seen from behind, a rounded housing with a mirror glass and a small arm to the door."
+  },
+  {
+    "name": "windshield-wiper",
+    "category": "vehicles",
+    "draw": "Curved windshield with a wiper arm pivoting from the bottom and an arc of cleared glass."
+  },
+  {
+    "name": "sunroof",
+    "category": "vehicles",
+    "draw": "Car roof seen from above with a rectangular glass panel slid back and an opening in front of it."
+  },
+  {
+    "name": "car-door",
+    "category": "vehicles",
+    "draw": "Single car door seen from outside with a window frame on top, a handle and a hinge edge."
+  },
+  {
+    "name": "driver-seat",
+    "category": "vehicles",
+    "draw": "Car driver seat in side view with a reclined backrest, headrest and a seat cushion on sliding rails."
+  },
+  {
+    "name": "airbag",
+    "category": "vehicles",
+    "draw": "Steering wheel with a large round inflated airbag bursting out of its center."
+  },
+  {
+    "name": "car-pedals",
+    "category": "vehicles",
+    "draw": "Three pedals side by side seen from the driver's view: clutch, brake and a taller accelerator."
+  },
+  {
+    "name": "handbrake",
+    "category": "vehicles",
+    "draw": "Car hand brake lever tilted upward from a console with a release button on its tip."
+  },
+  {
+    "name": "car-key-fob",
+    "category": "vehicles",
+    "draw": "Car remote key: an oval fob with lock and unlock buttons and a flip-out metal key blade."
+  },
+  {
+    "name": "car-air-vent",
+    "category": "vehicles",
+    "draw": "Rectangular dashboard air vent with horizontal slats and a small adjustment tab, air lines flowing out."
+  },
+  {
+    "name": "car-dashboard",
+    "category": "vehicles",
+    "draw": "Car dashboard seen from the driver's seat: steering wheel in front of two round dials under a curved hood."
+  },
+  {
+    "name": "odometer",
+    "category": "vehicles",
+    "draw": "Row of rolling number drums in a small window with a tiny speedometer arc above them."
+  },
+  {
+    "name": "license-plate",
+    "category": "vehicles",
+    "draw": "Rectangular vehicle number plate with rounded corners, two screw holes and a row of blank characters."
+  },
+  {
+    "name": "tow-hitch",
+    "category": "vehicles",
+    "draw": "Rear bumper with a square receiver tube and a tow ball mounted on the hitch bar."
+  },
+  {
+    "name": "roof-rack",
+    "category": "vehicles",
+    "draw": "Car in side view with two crossbars on the roof holding a strapped-down bundle of luggage."
+  },
+  {
+    "name": "roof-box",
+    "category": "vehicles",
+    "draw": "Car in side view with a long streamlined cargo box pod mounted on its roof."
+  },
+  {
+    "name": "car-bike-rack",
+    "category": "vehicles",
+    "draw": "Car rear with a rack on the trunk holding a bicycle upright behind it."
+  },
+  {
+    "name": "wheel-rim",
+    "category": "vehicles",
+    "draw": "Alloy car wheel seen face on with five spokes radiating from a center hub and a thin tire edge."
+  },
+  {
+    "name": "spare-tire",
+    "category": "vehicles",
+    "draw": "Round tire with a wheel inside mounted on the back door of a vehicle with a cover strap."
+  },
+  {
+    "name": "snow-chains",
+    "category": "vehicles",
+    "draw": "Tire seen from the side wrapped in a crisscross ladder pattern of chain links."
+  },
+  {
+    "name": "tire-pressure-gauge",
+    "category": "vehicles",
+    "draw": "Pencil-style tire gauge with a slanted chuck on one end and a pop-out measuring stick, or a small round dial."
+  },
+  {
+    "name": "flat-tire",
+    "category": "vehicles",
+    "draw": "Tire in side view sagging flat at the bottom where it meets the road, with a nail stuck in it."
+  },
+  {
+    "name": "lug-nut",
+    "category": "vehicles",
+    "draw": "Hex wheel nut in three-quarter view with a conical seat at the bottom and a threaded hole."
+  },
+  {
+    "name": "car-cover",
+    "category": "vehicles",
+    "draw": "Car shape draped completely in a loose fabric cover with folds and a drawstring hem."
+  },
+  {
+    "name": "mud-flap",
+    "category": "vehicles",
+    "draw": "Rectangular rubber mud flap hanging behind a truck tire with dirt spray beside it."
+  },
+  {
+    "name": "car-bumper",
+    "category": "vehicles",
+    "draw": "Front of a car with a wide rounded bumper bar highlighted across the lower edge."
+  },
+  {
+    "name": "car-spoiler",
+    "category": "vehicles",
+    "draw": "Rear of a car with a raised wing spoiler on two struts above the trunk."
+  },
+  {
+    "name": "radiator-grille",
+    "category": "vehicles",
+    "draw": "Car front grille with a pattern of horizontal slats between two headlights."
+  },
+  {
+    "name": "tow-strap",
+    "category": "vehicles",
+    "draw": "Coiled flat recovery strap with a loop at each end and a shackle hook."
+  },
+  {
+    "name": "ev-charging-cable",
+    "category": "vehicles",
+    "draw": "Coiled charging cable ending in a chunky electric vehicle plug with round pin sockets on its face."
+  },
+  {
+    "name": "dash-cam",
+    "category": "vehicles",
+    "draw": "Small windshield camera with a round lens on a suction mount, with a recording dot."
+  },
+  {
+    "name": "car-phone-mount",
+    "category": "vehicles",
+    "draw": "Phone held in a spring clamp cradle attached to a car air vent."
+  },
+  {
+    "name": "reversing-camera",
+    "category": "vehicles",
+    "draw": "Car rear with a small camera above the plate and a triangular view cone pointing back and down."
+  },
+  {
+    "name": "car-alarm",
+    "category": "vehicles",
+    "draw": "Car in side view with a small padlock on the door and sound waves ringing from the roof."
+  },
+  {
+    "name": "cracked-windshield",
+    "category": "vehicles",
+    "draw": "Car windshield seen from the front with a spider-web crack spreading from one impact point."
+  },
+  {
+    "name": "tire-stack",
+    "category": "vehicles",
+    "draw": "Pile of stacked tires seen from the side, three or four rings high like a race barrier."
+  },
+  {
+    "name": "bicycle-chain",
+    "category": "vehicles",
+    "draw": "Short loop of bicycle chain showing alternating inner and outer oval links."
+  },
+  {
+    "name": "bike-chainring",
+    "category": "vehicles",
+    "draw": "Front chainring seen face on: a toothed ring with a spider of five arms and a crank arm to a pedal."
+  },
+  {
+    "name": "derailleur",
+    "category": "vehicles",
+    "draw": "Rear bicycle derailleur with two small jockey pulleys in a cage and the chain snaking through them."
+  },
+  {
+    "name": "bike-pedal",
+    "category": "vehicles",
+    "draw": "Flat bicycle pedal seen from above with a rectangular cage, grip pins and a spindle sticking out."
+  },
+  {
+    "name": "bike-saddle",
+    "category": "vehicles",
+    "draw": "Bicycle saddle seen from the side, long narrow pointed nose and wider rear, on a seat post."
+  },
+  {
+    "name": "bike-handlebar",
+    "category": "vehicles",
+    "draw": "Bicycle handlebars seen from the front with a stem in the middle, grips at each end and two brake levers."
+  },
+  {
+    "name": "bicycle-wheel",
+    "category": "vehicles",
+    "draw": "Single spoked bicycle wheel with a thin tire, many crossing spokes and a small hub."
+  },
+  {
+    "name": "bike-bell",
+    "category": "vehicles",
+    "draw": "Round bicycle bell dome on a handlebar clamp with a thumb lever and ring lines."
+  },
+  {
+    "name": "bicycle-pump",
+    "category": "vehicles",
+    "draw": "Floor pump standing upright with a T-handle, a pressure dial at the base and a coiled hose."
+  },
+  {
+    "name": "bicycle-helmet",
+    "category": "vehicles",
+    "draw": "Aerodynamic cycling helmet in side view with several long vent slots and a chin strap."
+  },
+  {
+    "name": "bike-basket",
+    "category": "vehicles",
+    "draw": "Wicker basket with a woven grid pattern mounted on the front of bicycle handlebars."
+  },
+  {
+    "name": "bike-cassette",
+    "category": "vehicles",
+    "draw": "Rear cassette seen at an angle: a cone of stacked toothed sprockets from large to small."
+  },
+  {
+    "name": "inner-tube",
+    "category": "vehicles",
+    "draw": "Rubber inner tube ring lying flat with a valve stem sticking out of the inside edge."
+  },
+  {
+    "name": "check-engine-light",
+    "category": "vehicles",
+    "draw": "Dashboard warning symbol: outline of an engine block with a flat top intake and pipe stubs on each side."
+  },
+  {
+    "name": "oil-pressure-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of an old-fashioned oil can with a long spout and a single drop falling from the tip."
+  },
+  {
+    "name": "coolant-temperature-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a thermometer standing in two wavy lines of liquid."
+  },
+  {
+    "name": "tire-pressure-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a tire cross-section shaped like a horseshoe with a flat treaded bottom and an exclamation mark inside."
+  },
+  {
+    "name": "brake-warning-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of an exclamation mark inside a circle with curved brackets on both sides."
+  },
+  {
+    "name": "high-beam-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a D-shaped lamp with straight horizontal light lines pointing forward."
+  },
+  {
+    "name": "low-beam-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a D-shaped lamp with light lines angled downward."
+  },
+  {
+    "name": "fog-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a D-shaped lamp with angled light lines crossed by one wavy vertical line."
+  },
+  {
+    "name": "hazard-lights",
+    "category": "vehicles",
+    "draw": "Button symbol of two nested triangles, a small one inside a larger one."
+  },
+  {
+    "name": "traction-control-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a car seen from behind with two wavy S-shaped skid lines beneath it."
+  },
+  {
+    "name": "parking-brake-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a letter P inside a circle with curved brackets on both sides."
+  },
+  {
+    "name": "glow-plug-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a coiled spring wire loop, like a pig tail, for a diesel glow plug."
+  },
+  {
+    "name": "washer-fluid-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a windshield outline with a fountain spray of dotted lines rising from below."
+  },
+  {
+    "name": "rear-defrost",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a rectangular rear window with three wavy arrows rising through it."
+  },
+  {
+    "name": "front-defrost",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a curved windshield outline with three wavy arrows rising through it."
+  },
+  {
+    "name": "door-ajar-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a car seen from above with one door swung open."
+  },
+  {
+    "name": "power-steering-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a steering wheel with an exclamation mark beside it."
+  },
+  {
+    "name": "lane-departure",
+    "category": "vehicles",
+    "draw": "Car seen from behind drifting over one of two dashed lane lines."
+  },
+  {
+    "name": "cruise-control",
+    "category": "vehicles",
+    "draw": "Speedometer dial with an arrow above it pointing to a set speed mark."
+  },
+  {
+    "name": "seat-heater",
+    "category": "vehicles",
+    "draw": "Side view of a car seat with three wavy heat lines rising from the cushion."
+  },
+  {
+    "name": "auto-start-stop",
+    "category": "vehicles",
+    "draw": "Letter A inside a circular arrow that almost closes on itself."
+  },
+  {
+    "name": "hill-descent-control",
+    "category": "vehicles",
+    "draw": "Car in side view tilted down a slope with a downward arrow beside it."
+  },
+  {
+    "name": "all-wheel-drive",
+    "category": "vehicles",
+    "draw": "Chassis diagram seen from above: two axle lines joined by a center shaft with a wheel at all four corners."
+  },
+  {
+    "name": "blind-spot-monitor",
+    "category": "vehicles",
+    "draw": "Car seen from above with a curved wave arc sweeping from its rear corner toward a second car."
+  },
+  {
+    "name": "air-recirculation",
+    "category": "vehicles",
+    "draw": "Car silhouette in side view with a looping arrow circling inside the cabin."
+  },
+  {
+    "name": "carpool",
+    "category": "vehicles",
+    "draw": "Car in side view with three passenger heads visible in the windows."
+  },
+  {
+    "name": "car-crash",
+    "category": "vehicles",
+    "draw": "Two cars meeting nose to nose with crumpled hoods and a starburst between them."
+  },
+  {
+    "name": "car-breakdown",
+    "category": "vehicles",
+    "draw": "Car in side view with the hood raised and smoke rising from the engine."
+  },
+  {
+    "name": "car-insurance",
+    "category": "vehicles",
+    "draw": "Car in side view in front of a large shield outline."
+  },
+  {
+    "name": "road-trip",
+    "category": "vehicles",
+    "draw": "Car in side view with a stack of suitcases strapped to the roof rack and a winding road behind."
+  },
+  {
+    "name": "learner-driver-plate",
+    "category": "vehicles",
+    "draw": "Square plate showing a bold capital L, for a learner driver sign on a car."
+  },
+  {
+    "name": "oil-change",
+    "category": "vehicles",
+    "draw": "Car in side view with an oil drop and a small funnel above its hood."
+  },
+  {
+    "name": "truck-camper",
+    "category": "vehicles",
+    "draw": "Pickup truck in side view carrying a boxy camper unit in its bed that overhangs the cab roof."
+  },
+  {
+    "name": "skip-loader-truck",
+    "category": "vehicles",
+    "draw": "Truck in side view with two lifting arms holding an open trapezoid skip bin on its back."
+  },
+  {
+    "name": "milk-float",
+    "category": "vehicles",
+    "draw": "Small open-sided electric delivery van in side view carrying crates of milk bottles on its flat back."
+  },
+  {
+    "name": "ice-resurfacer",
+    "category": "vehicles",
+    "draw": "Boxy rink machine in side view with a driver seated high on top and a wide squeegee trailing a glossy strip."
+  },
+  {
+    "name": "surrey-bike",
+    "category": "vehicles",
+    "draw": "Four-wheeled pedal carriage in side view with two riders side by side under a fringed canopy roof."
+  },
+  {
+    "name": "motorcycle-racing",
+    "category": "vehicles",
+    "draw": "Racer on a sport motorcycle leaning hard into a corner with one knee almost touching the track."
+  },
+  {
+    "name": "race-start-lights",
+    "category": "vehicles",
+    "draw": "Horizontal gantry bar with a row of five round lights, all lit, hanging above a track."
+  },
+  {
+    "name": "race-track",
+    "category": "vehicles",
+    "draw": "Closed looping circuit seen from above with a checkered start line across one straight."
+  },
+  {
+    "name": "fuel-gauge",
+    "category": "vehicles",
+    "draw": "Semicircle dial marked E and F at the ends with a small fuel pump symbol and a needle near E."
+  },
+  {
+    "name": "car-radio",
+    "category": "vehicles",
+    "draw": "Rectangular car stereo head unit with a small display, a round volume knob and a row of preset buttons."
+  },
+  {
+    "name": "car-charger",
+    "category": "vehicles",
+    "draw": "Cylindrical 12 volt socket plug adapter with a spring tip and two USB ports on its end."
+  },
+  {
+    "name": "car-sun-visor",
+    "category": "vehicles",
+    "draw": "Flip-down sun visor panel hinged along the top with a small vanity mirror on its face."
+  },
+  {
+    "name": "windshield-sunshade",
+    "category": "vehicles",
+    "draw": "Windshield shape filled by an accordion-folded shade with vertical pleats."
+  },
+  {
+    "name": "turn-signal",
+    "category": "vehicles",
+    "draw": "Two solid arrowheads pointing away from each other with a small gap between them, like the indicator lamps."
+  },
+  {
+    "name": "ignition-key",
+    "category": "vehicles",
+    "draw": "Car key inserted into a round ignition barrel with position ticks around it."
+  },
+  {
+    "name": "engine-start-button",
+    "category": "vehicles",
+    "draw": "Round push button with a power symbol in the center and the words START and STOP around the ring."
+  },
+  {
+    "name": "cv-joint",
+    "category": "vehicles",
+    "draw": "Short drive shaft with a ribbed accordion rubber boot at one end and a splined stub."
+  },
+  {
+    "name": "obd-scanner",
+    "category": "vehicles",
+    "draw": "Handheld diagnostic reader with a screen and buttons, cable ending in a trapezoid car connector."
+  },
+  {
+    "name": "bull-bar",
+    "category": "vehicles",
+    "draw": "Front of an off-road vehicle seen head on with a tubular metal guard frame across the grille."
+  },
+  {
+    "name": "winter-tire",
+    "category": "vehicles",
+    "draw": "Tire tread in side view with a three-peak mountain and snowflake symbol on its sidewall."
+  },
+  {
+    "name": "cycling-computer",
+    "category": "vehicles",
+    "draw": "Small rectangular bike computer with a screen showing digits, clipped to a handlebar."
+  },
+  {
+    "name": "bike-pannier",
+    "category": "vehicles",
+    "draw": "Pannier bag with a rolled top hanging from a rear rack beside a bicycle wheel."
+  },
+  {
+    "name": "bicycle-frame",
+    "category": "vehicles",
+    "draw": "Diamond-shaped bicycle frame with no wheels: top tube, down tube, seat tube, stays and a fork."
+  },
+  {
+    "name": "ride-hailing",
+    "category": "vehicles",
+    "draw": "Smartphone showing a map pin with a small car inside it."
+  },
+  {
+    "name": "hitchhiker",
+    "category": "vehicles",
+    "draw": "Person standing at a roadside with one arm out and thumb raised, a backpack on."
+  },
+  {
+    "name": "car-driver",
+    "category": "vehicles",
+    "draw": "Person seen from the front sitting behind a steering wheel with both hands on it."
+  },
+  {
+    "name": "news-van",
+    "category": "vehicles",
+    "draw": "Van in side view with a satellite dish and a telescoping mast raised from its roof."
+  },
+  {
+    "name": "tiny-house-trailer",
+    "category": "vehicles",
+    "draw": "Small house with a pitched roof, door and window sitting on a two-wheeled trailer."
+  },
+  {
+    "name": "gullwing-car",
+    "category": "vehicles",
+    "draw": "Low sports car seen from the front with both doors swung straight up like wings."
+  },
+  {
+    "name": "abs-warning-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of the letters ABS inside a circle with curved brackets on both sides."
+  },
+  {
+    "name": "brake-pad-wear-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a circle flanked by dashed curved brackets like worn pads."
+  },
+  {
+    "name": "trunk-open-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a car in side view with its rear trunk lid lifted open."
+  },
+  {
+    "name": "water-in-fuel-light",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of a fuel pump with a water droplet beside it."
+  },
+  {
+    "name": "rear-window-wiper",
+    "category": "vehicles",
+    "draw": "Rounded rectangle rear window with a single wiper arm pivoting from the bottom center and a cleared arc."
+  },
+  {
+    "name": "parking-lights",
+    "category": "vehicles",
+    "draw": "Dashboard symbol of two small D-shaped lamps back to back with short rays from each."
+  },
+  {
+    "name": "heated-steering-wheel",
+    "category": "vehicles",
+    "draw": "Steering wheel with three wavy heat lines rising above its rim."
+  },
+  {
+    "name": "head-up-display",
+    "category": "vehicles",
+    "draw": "Windshield outline with a floating speed number and a small arrow projected in its lower middle."
+  },
+  {
+    "name": "surround-view-camera",
+    "category": "vehicles",
+    "draw": "Car seen from above with small camera arcs radiating from its four sides."
+  },
+  {
+    "name": "bike-bulb-horn",
+    "category": "vehicles",
+    "draw": "Rubber squeeze bulb attached to a curved brass trumpet horn with sound lines."
+  },
+  {
+    "name": "ice-scraper",
+    "category": "vehicles",
+    "draw": "Flat wedge ice scraper with a short handle scraping frost lines on a window."
+  },
+  {
+    "name": "fuzzy-dice",
+    "category": "vehicles",
+    "draw": "Pair of plush dice with dots hanging on a string from a rearview mirror."
+  },
+  {
+    "name": "overturned-car",
+    "category": "vehicles",
+    "draw": "Car in side view lying upside down on its roof with wheels in the air."
+  },
+  {
+    "name": "car-fire",
+    "category": "vehicles",
+    "draw": "Car in side view with flames rising from the hood."
+  },
+  {
+    "name": "parallel-parking",
+    "category": "vehicles",
+    "draw": "Car easing into a gap between two parked cars along a curb, with a curved path line."
+  },
+  {
+    "name": "speeding-car",
+    "category": "vehicles",
+    "draw": "Car in side view with horizontal speed lines streaming behind it."
+  },
+  {
+    "name": "cab-over-truck",
+    "category": "vehicles",
+    "draw": "Truck in side view with a flat vertical front where the cab sits directly over the engine, no hood."
+  },
+  {
+    "name": "mechanics-creeper",
+    "category": "vehicles",
+    "draw": "Low flat padded board on small caster wheels with a raised headrest, for sliding under cars."
+  },
+  {
+    "name": "wedding-car",
+    "category": "vehicles",
+    "draw": "Car in side view with a ribbon bow on the hood and tin cans trailing behind on strings."
+  },
+  {
+    "name": "parade-float",
+    "category": "vehicles",
+    "draw": "Decorated flatbed trailer covered in flowers and a large decorative shape, with a skirt hiding the wheels."
+  },
+  {
+    "name": "banana-seat-bike",
+    "category": "vehicles",
+    "draw": "Retro bicycle in side view with a long curved banana saddle, high-rise handlebars and a sissy bar."
+  },
+  {
+    "name": "emergency-light-bar",
+    "category": "vehicles",
+    "draw": "Horizontal roof light bar with two domed lamps and light rays shooting out of each end."
+  },
+  {
+    "name": "radar-speed-gun",
+    "category": "vehicles",
+    "draw": "Pistol-grip radar gun with a round front lens and radio waves coming out."
+  },
+  {
+    "name": "starter-motor",
+    "category": "vehicles",
+    "draw": "Cylindrical electric motor with a small solenoid cylinder on top and a pinion gear at the front."
+  },
+  {
+    "name": "distributor-cap",
+    "category": "vehicles",
+    "draw": "Round distributor cap with a ring of post terminals on top and wires leading off."
+  },
+  {
+    "name": "window-crank",
+    "category": "vehicles",
+    "draw": "Old-fashioned car window winder handle: a short crank arm with a round knob on a door panel."
+  },
+  {
+    "name": "car-location-pin",
+    "category": "vehicles",
+    "draw": "Map pin marker with a small car silhouette inside the round head."
+  },
+  {
+    "name": "adult-tricycle",
+    "category": "vehicles",
+    "draw": "Upright three-wheeled bicycle in side view with one front wheel, a chain drive and a large basket between two rear wheels."
+  },
+  {
+    "name": "tire-tracks",
+    "category": "vehicles",
+    "draw": "Two parallel tire track trails with zig-zag tread marks running into the distance."
+  },
+  {
+    "name": "amphibious-car",
+    "category": "vehicles",
+    "draw": "Boat-shaped car hull with wheels and a small windshield, entering water with a wave line."
+  },
+  {
+    "name": "billboard-truck",
+    "category": "vehicles",
+    "draw": "Truck in side view carrying a big flat rectangular advertising billboard panel on its back."
+  },
+  {
+    "name": "cb-radio",
+    "category": "vehicles",
+    "draw": "Car CB radio box with a knob and display, and a handheld microphone on a coiled cord."
+  },
+  {
+    "name": "fifth-wheel-hitch",
+    "category": "vehicles",
+    "draw": "Horseshoe-shaped coupling plate with a V slot, mounted on a truck frame."
+  },
+  {
+    "name": "aerial-ladder-truck",
+    "category": "vehicles",
+    "draw": "Fire truck in side view with a long ladder raised diagonally high into the air from a turntable."
+  },
+  {
+    "name": "rollback-tow-truck",
+    "category": "vehicles",
+    "draw": "Tow truck in side view with its flat bed tilted down to the ground and a small car sitting on it."
+  },
+  {
+    "name": "kei-truck",
+    "category": "vehicles",
+    "draw": "Tiny flat-nosed mini truck in side view with the cab over the front wheels and a low drop-side bed."
+  },
+  {
+    "name": "utility-terrain-vehicle",
+    "category": "vehicles",
+    "draw": "Two-seat off-road utility vehicle in side view with a roll cage roof, big knobby tires and a small cargo bed."
+  },
+  {
+    "name": "solar-car",
+    "category": "vehicles",
+    "draw": "Very flat wide car covered in a grid of solar cells with a small bubble canopy for the driver."
+  },
+  {
+    "name": "sleigh",
+    "category": "vehicles",
+    "draw": "Horse sleigh in side view with long curled runners and a curved seat with a high scrolled back."
+  },
+  {
+    "name": "semi-trailer",
+    "category": "vehicles",
+    "draw": "Long box trailer on its own in side view with rear wheels and folding landing legs at the front."
+  },
+  {
+    "name": "car-ramps",
+    "category": "vehicles",
+    "draw": "Pair of stepped wedge ramps with a car tire resting on top of one."
+  },
+  {
+    "name": "oil-drain-pan",
+    "category": "vehicles",
+    "draw": "Shallow round drain pan with a pour spout and a drop of oil falling into it."
+  },
+  {
+    "name": "ev-battery",
+    "category": "vehicles",
+    "draw": "Flat rectangular electric vehicle battery pack divided into a grid of cell modules, with a plus sign."
+  },
+  {
+    "name": "car-cup-holder",
+    "category": "vehicles",
+    "draw": "Round cup holder in a console with a takeaway cup sitting in it."
+  },
+  {
+    "name": "coolant-reservoir",
+    "category": "vehicles",
+    "draw": "Translucent overflow tank with a round cap, MIN and MAX lines and a liquid level inside."
+  },
+  {
+    "name": "serpentine-belt",
+    "category": "vehicles",
+    "draw": "One long ribbed belt winding around several pulleys of different sizes in a snake-like path."
+  },
+  {
+    "name": "head-gasket",
+    "category": "vehicles",
+    "draw": "Flat engine gasket plate outline with four large round cylinder holes in a row and small bolt holes."
+  },
+  {
+    "name": "bike-bottle-cage",
+    "category": "vehicles",
+    "draw": "Bicycle down tube with a wire cage clipped on it holding a water bottle."
+  },
+  {
+    "name": "cafe-racer-motorcycle",
+    "category": "vehicles",
+    "draw": "Stripped-down retro motorcycle in side view with a round headlight, low clip-on bars and a humped single seat."
+  },
+  {
+    "name": "safari-vehicle",
+    "category": "vehicles",
+    "draw": "Open-sided four-by-four in side view with raised tiered bench seats under a flat canvas roof."
+  },
+  {
+    "name": "bucket-truck",
+    "category": "vehicles",
+    "draw": "Utility truck in side view with a folding boom arm rising from its bed to a small worker bucket at the top."
+  },
+  {
+    "name": "land-yacht",
+    "category": "vehicles",
+    "draw": "Three-wheeled sail cart on a beach in side view with a tall triangular sail and a low seat."
+  },
+  {
+    "name": "traction-boards",
+    "category": "vehicles",
+    "draw": "Two ribbed recovery boards wedged under a tire stuck in sand."
+  },
+  {
+    "name": "forward-collision-warning",
+    "category": "vehicles",
+    "draw": "Car seen from behind with a starburst warning mark just ahead of its bumper."
+  },
+  {
+    "name": "bus-side",
+    "category": "vehicles",
+    "draw": "City bus in side view with a long row of windows, a front and middle door and two wheels."
+  },
+  {
+    "name": "truck-front",
+    "category": "vehicles",
+    "draw": "Lorry cab seen straight from the front with a tall windshield, big grille, wide mirrors and headlights."
+  },
+  {
+    "name": "car-rear",
+    "category": "vehicles",
+    "draw": "Car seen straight from behind with a rear window, two tail lights, a license plate and tire bottoms."
+  },
+  {
+    "name": "tall-bike",
+    "category": "vehicles",
+    "draw": "Bicycle in side view built from two frames stacked on top of each other with the seat and handlebars very high."
+  },
+  {
+    "name": "car-fuse-box",
+    "category": "vehicles",
+    "draw": "Open rectangular fuse box with a grid of small plug-in fuses and a hinged lid."
+  },
+  {
+    "name": "control-arm",
+    "category": "vehicles",
+    "draw": "A-shaped suspension wishbone arm with round rubber bushings at the two inner ends and a ball joint at the tip."
+  }
+]

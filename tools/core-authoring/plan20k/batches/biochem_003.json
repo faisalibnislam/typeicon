@@ -1,0 +1,224 @@
+[
+ {
+  "name": "gel-comb",
+  "category": "biochem",
+  "draw": "A flat bar with a row of evenly spaced teeth, used to form wells in a gel.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "uv-transilluminator",
+  "category": "biochem",
+  "draw": "A flat light box with glowing lines under a gel slab showing bright bands, beneath a hinged cover.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "centrifuge-pellet",
+  "category": "biochem",
+  "draw": "A conical tube with clear liquid above and a small solid pellet at the tip, with a curved spin arrow.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "electroporation",
+  "category": "biochem",
+  "draw": "A round cell with small pores opening in its membrane beside a lightning bolt.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "microfluidic-chip",
+  "category": "biochem",
+  "draw": "A small clear rectangular chip with thin winding channels connecting round inlet and outlet ports.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bioprinter",
+  "category": "biochem",
+  "draw": "A printer nozzle depositing a grid of small cell dots in layers onto a dish.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "microscope-objective",
+  "category": "biochem",
+  "draw": "A stepped cylindrical microscope lens tapering to a small tip, with a colored band ring and a drop of oil under it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "tissue-cassette",
+  "category": "biochem",
+  "draw": "A small flat plastic box with a slanted writing edge and a grid of slots in its lid.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "durham-tube",
+  "category": "biochem",
+  "draw": "A test tube of broth with a tiny inverted tube inside holding a trapped gas bubble at its top.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "mcfarland-standard",
+  "category": "biochem",
+  "draw": "Three small tubes of increasing cloudiness lined up in front of a card with black lines.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "loop-sterilizer",
+  "category": "biochem",
+  "draw": "A short cylindrical heater with an inoculation loop inserted into its glowing opening.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "lab-mouse-cage",
+  "category": "biochem",
+  "draw": "A clear rectangular box cage with a wire lid, a water bottle and a small mouse inside.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "fly-vial",
+  "category": "biochem",
+  "draw": "A narrow vial with a foam plug on top, food layer at the bottom and small flies inside.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cryo-electron-grid",
+  "category": "biochem",
+  "draw": "A tiny round mesh disc with a square grid pattern held by tweezers.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "pycnometer",
+  "category": "biochem",
+  "draw": "A small pear-shaped glass bottle with a ground stopper that has a thin capillary hole.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "thiele-tube",
+  "category": "biochem",
+  "draw": "A glass tube with a looped side arm holding a thermometer and a small capillary sample.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "melting-point-apparatus",
+  "category": "biochem",
+  "draw": "A compact box with a small viewing lens on top and a slot holding three capillary tubes.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dean-stark-trap",
+  "category": "biochem",
+  "draw": "A vertical glass tube with a graduated side arm and stopcock, joining a flask below and a condenser above.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "microbial-air-sampler",
+  "category": "biochem",
+  "draw": "A handheld device with a perforated round head placed over an agar plate.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "water-sample-bottle",
+  "category": "biochem",
+  "draw": "A wide sterile bottle with a screw cap and a hatched label, held under a dripping tap.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "roller-bottle",
+  "category": "biochem",
+  "draw": "A long cylindrical bottle lying on its side on two rollers with curved rotation arrows.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "square-archaeon",
+  "category": "biochem",
+  "draw": "A flat perfectly square cell with thin walls and a few small oval gas vesicles inside.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "myxobacteria-fruiting-body",
+  "category": "biochem",
+  "draw": "A short branching stalk topped by several round spore clusters, like a tiny tree of balls.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "phage-plaque-assay",
+  "category": "biochem",
+  "draw": "A petri dish seen from above filled with a dotted bacterial lawn and several clear round holes.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bacterial-transformation",
+  "category": "biochem",
+  "draw": "A rod bacterium with a small DNA ring outside it and a curved arrow showing the ring moving inside.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "spore-germination",
+  "category": "biochem",
+  "draw": "An oval spore split open at one end with a thin branching thread growing out of it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "nuclear-pore",
+  "category": "biochem",
+  "draw": "A round ring with eight evenly spaced spokes around a central opening, set in a double membrane line.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "proteasome",
+  "category": "biochem",
+  "draw": "A short barrel made of four stacked rings with a cap on each end, and a thin chain entering the top.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "atp-synthase",
+  "category": "biochem",
+  "draw": "A membrane-spanning rotor ring with a central stalk rising to a round knob head made of lobes, and a curved rotation arrow.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "krebs-cycle",
+  "category": "biochem",
+  "draw": "A circle of arrows with small molecule dots at each step and a short arrow feeding in at the top.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cellular-respiration",
+  "category": "biochem",
+  "draw": "A bean-shaped mitochondrion with a hexagon sugar arrow going in and a lightning bolt coming out.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "oxytocin-molecule",
+  "category": "biochem",
+  "draw": "A small ring of six linked beads with an S-S bridge bar across it and a short tail of three beads.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "reagent-reservoir",
+  "category": "biochem",
+  "draw": "A long shallow V-shaped trough with a sloped bottom, filled with liquid.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "microplate-reader",
+  "category": "biochem",
+  "draw": "A boxy benchtop instrument with a small display and a drawer sliding out holding a well plate.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "amplification-curve",
+  "category": "biochem",
+  "draw": "Several S-shaped curves rising from a flat baseline and crossing a horizontal dashed threshold line.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "aseptic-technique",
+  "category": "biochem",
+  "draw": "A tilted test tube with its open mouth passing over a small flame, with its cap held aside.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dialysis-tubing",
+  "category": "biochem",
+  "draw": "A sausage-shaped membrane bag clipped at both ends, hanging in a beaker of liquid with small dots passing out.",
+  "domain": "r3-microbiology-chemistry"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "space-symbol",
+  "category": "typography",
+  "draw": "Open box symbol: a horizontal baseline with short upturned ends, the visible space mark.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "decimal-tab",
+  "category": "typography",
+  "draw": "Column of numbers of varied length with their decimal points aligned on a vertical dashed line.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "justify-all-lines",
+  "category": "typography",
+  "draw": "Justified text lines where the short last line is stretched full width with small outward arrows.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "vertical-justification",
+  "category": "typography",
+  "draw": "Text frame with lines spread evenly from top to bottom and a vertical two headed arrow at its side.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "align-to-spine",
+  "category": "typography",
+  "draw": "Open book spread with text lines on each page aligned toward the center fold.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "widows-and-orphans",
+  "category": "typography",
+  "draw": "Two page outlines where a single short line sits alone at the top of the second page.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "keep-with-next",
+  "category": "typography",
+  "draw": "Heading bar and paragraph lines linked together by a small chain link.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "keep-lines-together",
+  "category": "typography",
+  "draw": "Paragraph block with a bracket on its side holding all lines as one group.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "line-length",
+  "category": "typography",
+  "draw": "Paragraph of text lines with a horizontal dimension arrow spanning the width of one line.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "text-rivers",
+  "category": "typography",
+  "draw": "Justified paragraph with a wavy blank channel running down through the gaps between words.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "text-frame",
+  "category": "typography",
+  "draw": "Dashed rectangle with small square handles at its corners and a capital T inside.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "threaded-text-frames",
+  "category": "typography",
+  "draw": "Two dashed text boxes with text lines connected by a curved arrow from one to the other.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "overset-text",
+  "category": "typography",
+  "draw": "Text box filled with lines and a small square with a plus sign at its lower corner.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "shrink-text-to-fit",
+  "category": "typography",
+  "draw": "Text box with a capital A inside and inward pointing arrows at two corners.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "span-columns",
+  "category": "typography",
+  "draw": "Wide heading bar stretching across two columns of text lines below it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "column-break",
+  "category": "typography",
+  "draw": "Two text columns where the first column ends early with a dashed break line.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "page-border",
+  "category": "typography",
+  "draw": "Page outline with a decorative inner frame of double lines around its edge.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "anchored-image",
+  "category": "typography",
+  "draw": "Image frame in a text column with a small anchor symbol tied to one paragraph.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "wrap-top-and-bottom",
+  "category": "typography",
+  "draw": "Image block spanning full width with text lines above and below it only.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "wrap-behind-text",
+  "category": "typography",
+  "draw": "Dashed image block drawn beneath text lines that run over it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "wrap-in-front-of-text",
+  "category": "typography",
+  "draw": "Solid image block covering the middle of several text lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "wrap-tight",
+  "category": "typography",
+  "draw": "Circle image with text lines that end close around its curved edge.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "inline-image",
+  "category": "typography",
+  "draw": "Single line of text with a small picture frame sitting inside the line like a word.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "bleed-area",
+  "category": "typography",
+  "draw": "Page rectangle with a dashed outline drawn slightly outside its edges and a picture running past the trim.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "page-imposition",
+  "category": "typography",
+  "draw": "Large sheet divided into eight numbered page panels, some upside down.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "perfect-binding",
+  "category": "typography",
+  "draw": "Book spine seen from the end with a flat glued edge holding stacked page lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "multilevel-list",
+  "category": "typography",
+  "draw": "Outline list with numbers 1 and 1.1 style entries indented at two levels beside text lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "lettered-list",
+  "category": "typography",
+  "draw": "Three list lines each led by a small letter a, b and c.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "roman-numeral-list",
+  "category": "typography",
+  "draw": "Three list lines led by the roman numerals I, II and III.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "definition-list",
+  "category": "typography",
+  "draw": "Bold term line followed by an indented description line, repeated twice.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dash-list",
+  "category": "typography",
+  "draw": "Three list lines each led by a short horizontal dash.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "toggle-list",
+  "category": "typography",
+  "draw": "List lines each led by a small solid triangle, one turned down with indented lines under it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "restart-numbering",
+  "category": "typography",
+  "draw": "Numbered list lines 1 and 2 followed by a circular arrow and another 1.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "bullet-point",
+  "category": "typography",
+  "draw": "Single solid round dot beside a short horizontal text line.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "arrow-bullet-list",
+  "category": "typography",
+  "draw": "Three list lines each led by a small arrowhead bullet.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "alphabetical-order",
+  "category": "typography",
+  "draw": "Letters A and Z stacked vertically with a downward arrow beside them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "cell-alignment",
+  "category": "typography",
+  "draw": "Table cell with a small text block in its center and alignment ticks on its edges.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "cell-padding",
+  "category": "typography",
+  "draw": "Table cell with a dashed inner rectangle and small arrows between the two borders.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "draw-table",
+  "category": "typography",
+  "draw": "Pencil drawing the last line of a small grid table.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "text-to-table",
+  "category": "typography",
+  "draw": "Text lines on the left, an arrow, and a small table grid on the right.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "distribute-columns",
+  "category": "typography",
+  "draw": "Table with three equal columns and small equal spacing arrows above each.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "diagonal-cell-split",
+  "category": "typography",
+  "draw": "Table corner cell crossed by a diagonal line with small text marks in each half.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "repeat-header-row",
+  "category": "typography",
+  "draw": "Two table pieces on stacked pages both topped by the same solid header row.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "split-table",
+  "category": "typography",
+  "draw": "Table grid broken into two parts with a gap and small scissors mark between them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "table-gridlines",
+  "category": "typography",
+  "draw": "Table drawn in dotted lines with no solid borders.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "erase-table-border",
+  "category": "typography",
+  "draw": "Small table grid with an eraser rubbing out one of its inner lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "tab-leader",
+  "category": "typography",
+  "draw": "Short word on the left and a number on the right joined by a row of dots.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "table-of-figures",
+  "category": "typography",
+  "draw": "Page listing small picture thumbnails each followed by a dotted leader and a page number.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "comment-thread",
+  "category": "typography",
+  "draw": "Two speech bubbles stacked with a thin vertical line connecting them as replies.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "inline-comment",
+  "category": "typography",
+  "draw": "Highlighted word in a text line with a small speech bubble attached above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "suggest-edits",
+  "category": "typography",
+  "draw": "Text line with a crossed out word and a pen nib pointing at an inserted word above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "change-bar",
+  "category": "typography",
+  "draw": "Text lines with a thick vertical bar in the margin beside two of them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "stet-mark",
+  "category": "typography",
+  "draw": "Dotted underline beneath a word with the small handwritten word stet in the margin.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "transpose-mark",
+  "category": "typography",
+  "draw": "Two letters with an S shaped curved line looping over one and under the other.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "insert-space-mark",
+  "category": "typography",
+  "draw": "Proofreading caret below two joined words with a hash sign above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "capitalize-proof-mark",
+  "category": "typography",
+  "draw": "Lowercase letter with three short parallel lines underneath it, the proofreading mark for capitals.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "lowercase-proof-mark",
+  "category": "typography",
+  "draw": "Capital letter crossed by a single diagonal slash, the proofreading mark for lowercase.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "endnote",
+  "category": "typography",
+  "draw": "Document page with a thin rule near the bottom and numbered short lines below it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "cross-reference",
+  "category": "typography",
+  "draw": "Two text lines with a curved arrow from a small number in one to a heading in the other.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "comments-sidebar",
+  "category": "typography",
+  "draw": "Page with text on the left and a column of stacked small speech bubbles along the right side.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "mark-as-final",
+  "category": "typography",
+  "draw": "Document with a small ribbon seal at its bottom corner.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "errata-slip",
+  "category": "typography",
+  "draw": "Small narrow slip of paper with two lines tucked between the pages of an open book.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "em-dash",
+  "category": "typography",
+  "draw": "Single long horizontal bar at mid height between two small letter blocks.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "en-dash",
+  "category": "typography",
+  "draw": "Medium length horizontal bar between the digits 1 and 9 as a range.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "interpunct",
+  "category": "typography",
+  "draw": "Single small dot at mid letter height between two letters.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "apostrophe",
+  "category": "typography",
+  "draw": "Single curved comma shaped mark raised high beside a letter s.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "full-stop",
+  "category": "typography",
+  "draw": "Solid round dot on a baseline after a short word block.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "smart-quotes",
+  "category": "typography",
+  "draw": "Pair of curly double quotation marks next to a pair of straight vertical quote marks.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "low-quotation-marks",
+  "category": "typography",
+  "draw": "Comma shaped double quote at the baseline on one side of a word and a raised pair on the other.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "cjk-corner-brackets",
+  "category": "typography",
+  "draw": "Pair of East Asian quotation brackets shaped like an upper left and a lower right corner.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "irony-mark",
+  "category": "typography",
+  "draw": "Reversed question mark with its hook opening to the other side.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dinkus",
+  "category": "typography",
+  "draw": "Three asterisks spaced in a horizontal row as a section break.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "grave-accent",
+  "category": "typography",
+  "draw": "Lowercase e with a short stroke slanting down to the right above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "caron",
+  "category": "typography",
+  "draw": "Lowercase c with a small v shaped mark above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dot-above",
+  "category": "typography",
+  "draw": "Capital I with a single round dot above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dotless-i",
+  "category": "typography",
+  "draw": "Lowercase i stem without its dot, next to a dotted i for comparison.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "solidus",
+  "category": "typography",
+  "draw": "Single forward slanting slash between the digits 1 and 2.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "block-selection",
+  "category": "typography",
+  "draw": "Several text lines with a rectangular column shaped selection box across them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "overtype-mode",
+  "category": "typography",
+  "draw": "Word with a solid block cursor covering one letter.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "vertical-text-cursor",
+  "category": "typography",
+  "draw": "I beam cursor turned on its side beside a column of vertical text marks.",
+  "domain": "r2-text-editing-typography"
+ }
+]

@@ -1,0 +1,1403 @@
+{
+ "rear-defrost": {
+  "context": "A rear window outline with three wavy heat lines rising through it. Used for rear window defroster buttons, dashboard indicators and car climate controls.",
+  "keywords": [
+   "rear window heater",
+   "back window defogger",
+   "defogger",
+   "fog",
+   "mist",
+   "clear glass",
+   "climate control button",
+   "car heating",
+   "de-ice",
+   "demist",
+   "window heater",
+   "car dashboard",
+   "hvac",
+   "cold morning"
+  ]
+ },
+ "front-defrost": {
+  "context": "A curved windshield outline with three wavy heat lines rising through it. Used for windshield defog and defrost buttons, vehicle climate controls and dashboard indicators.",
+  "keywords": [
+   "windscreen demist",
+   "defog",
+   "windshield heater",
+   "fogged glass",
+   "ice on glass",
+   "climate control button",
+   "car heating",
+   "de-ice",
+   "winter driving",
+   "front glass",
+   "hvac",
+   "dashboard"
+  ]
+ },
+ "door-ajar-light": {
+  "context": "A car seen from above with one door swung open and short lines showing the gap. Used for the door open warning on car dashboards and vehicle status screens.",
+  "keywords": [
+   "door open warning",
+   "door not closed",
+   "door alert",
+   "open door",
+   "unlatched door",
+   "car warning",
+   "check doors",
+   "vehicle status",
+   "instrument cluster",
+   "top down car",
+   "safety alert",
+   "driver information"
+  ]
+ },
+ "power-steering-light": {
+  "context": "A steering wheel with an exclamation mark beside it. Used as the dashboard warning that the power steering system has a fault.",
+  "keywords": [
+   "steering fault",
+   "eps warning",
+   "steering assist failure",
+   "steering problem",
+   "wheel warning",
+   "check steering",
+   "instrument cluster",
+   "car warning",
+   "service required",
+   "driver alert",
+   "steering system",
+   "heavy steering"
+  ]
+ },
+ "lane-departure": {
+  "context": "A car seen from behind tilted across a dashed lane line, with a second dashed line on the other side. Used for lane departure warning, lane keeping assist and driver assistance settings.",
+  "keywords": [
+   "lane keeping assist",
+   "lane drift",
+   "wandering",
+   "lane assist warning",
+   "road lines",
+   "swerving",
+   "lane change",
+   "adas",
+   "safety system",
+   "driving assistance",
+   "tilted car",
+   "road markings",
+   "highway"
+  ]
+ },
+ "cruise-control": {
+  "context": "A speedometer dial with a small marker above the arc showing the chosen speed. Used for cruise control buttons, speed limiter settings and driving assistance menus.",
+  "keywords": [
+   "speed set",
+   "constant speed",
+   "speed hold",
+   "speedometer",
+   "speed limiter",
+   "adaptive cruise",
+   "accc",
+   "set speed",
+   "highway driving",
+   "dial",
+   "gauge",
+   "driver assist",
+   "dashboard button",
+   "motorway"
+  ]
+ },
+ "seat-heater": {
+  "context": "A side view of a car seat with three wavy heat lines rising from the cushion. Used for heated seat buttons, comfort settings and winter driving features.",
+  "keywords": [
+   "heated seat button",
+   "seat warmer",
+   "seat heating",
+   "warm seat",
+   "car seat",
+   "comfort features",
+   "winter comfort",
+   "cold weather",
+   "climate control",
+   "car interior",
+   "heat setting",
+   "back warmer",
+   "vehicle options"
+  ]
+ },
+ "auto-start-stop": {
+  "context": "A capital letter A inside a circular arrow that almost closes on itself. Used for the engine auto stop and start indicator, eco driving settings and fuel saving features.",
+  "keywords": [
+   "stop start system",
+   "idle stop",
+   "engine off at lights",
+   "fuel saving",
+   "eco mode",
+   "automatic engine stop",
+   "start-stop button",
+   "idle reduction",
+   "economy driving",
+   "emissions",
+   "a in circle",
+   "dashboard indicator",
+   "engine restart"
+  ]
+ },
+ "hill-descent-control": {
+  "context": "A car in side view tilted nose down on a slope with a ground line beneath it. Used for hill descent control buttons, off-road driving modes and steep slope warnings.",
+  "keywords": [
+   "downhill assist",
+   "slope",
+   "steep descent",
+   "off-road mode",
+   "hdc",
+   "hill assist",
+   "4x4 mode",
+   "terrain control",
+   "downhill speed",
+   "mountain road",
+   "incline",
+   "gradient",
+   "brake assist",
+   "driving mode"
+  ]
+ },
+ "all-wheel-drive": {
+  "context": "A chassis diagram seen from above with two axles joined by a centre shaft and a wheel at each corner. Used for all-wheel-drive and four-wheel-drive labels, drivetrain settings and vehicle spec lists.",
+  "keywords": [
+   "awd button",
+   "4x4",
+   "four by four",
+   "drive mode",
+   "traction",
+   "drivetrain layout",
+   "transmission",
+   "wheels",
+   "axles",
+   "chassis diagram",
+   "power to all wheels",
+   "off-road capability",
+   "driveline",
+   "vehicle features",
+   "torque split"
+  ]
+ },
+ "blind-spot-monitor": {
+  "context": "A car seen from above with curved radar arcs reaching from its side toward a second, smaller car. Used for blind spot warning settings and mirror alert indicators.",
+  "keywords": [
+   "blind spot warning",
+   "bsm",
+   "side radar",
+   "lane change assist",
+   "mirror alert",
+   "overtaking car",
+   "vehicle detection",
+   "adas",
+   "driver assist",
+   "side collision",
+   "safety feature",
+   "car beside you",
+   "radar waves",
+   "mirror light"
+  ]
+ },
+ "air-recirculation": {
+  "context": "A car silhouette in side view with a looping arrow inside the cabin. Used for the recirculation button on climate controls and for cabin air settings.",
+  "keywords": [
+   "recirculate air",
+   "cabin air loop",
+   "recirc button",
+   "air conditioning",
+   "climate control",
+   "stop outside air",
+   "tunnel mode",
+   "fresh air off",
+   "air circulation",
+   "ac",
+   "ventilation",
+   "car interior air",
+   "vent",
+   "dashboard button",
+   "hvac"
+  ]
+ },
+ "carpool": {
+  "context": "A car in side view with three passenger heads showing in its windows. Used for carpool lanes, ride sharing features and shared commute programs.",
+  "keywords": [
+   "carpool lane",
+   "hov lane",
+   "ride share",
+   "shared ride",
+   "commute together",
+   "car sharing",
+   "passengers",
+   "high occupancy",
+   "group travel",
+   "lift share",
+   "full car",
+   "multiple riders",
+   "commuters",
+   "green commute",
+   "share a ride"
+  ]
+ },
+ "car-crash": {
+  "context": "Two cars meeting nose to nose with a burst above the point of impact. Used for accident reports, collision alerts and insurance claim forms.",
+  "keywords": [
+   "collision",
+   "accident",
+   "crash",
+   "wreck",
+   "fender bender",
+   "car accident report",
+   "impact",
+   "smash",
+   "claim",
+   "damage",
+   "road accident",
+   "emergency",
+   "collision warning",
+   "traffic accident",
+   "head on"
+  ]
+ },
+ "car-breakdown": {
+  "context": "A car in side view with its hood propped up and smoke rising from the engine bay. Used for roadside assistance, breakdown cover and engine trouble alerts.",
+  "keywords": [
+   "broken down car",
+   "roadside help",
+   "engine trouble",
+   "overheating engine",
+   "stalled car",
+   "tow request",
+   "car trouble",
+   "smoking engine",
+   "hood up",
+   "bonnet up",
+   "mechanic needed",
+   "vehicle fault",
+   "breakdown service",
+   "emergency stop",
+   "overheated"
+  ]
+ },
+ "car-insurance": {
+  "context": "A small car drawn inside a large shield. Used for auto insurance products, vehicle cover pages and claims portals.",
+  "keywords": [
+   "auto insurance",
+   "vehicle cover",
+   "motor insurance",
+   "car policy",
+   "protected car",
+   "claims",
+   "comprehensive cover",
+   "third party",
+   "premium",
+   "insurer",
+   "safe driving",
+   "coverage",
+   "vehicle protection",
+   "quote",
+   "car protection plan"
+  ]
+ },
+ "road-trip": {
+  "context": "A car in side view with a suitcase strapped to its roof. Used for travel planning, holiday driving guides and route sharing features.",
+  "keywords": [
+   "roof luggage",
+   "car travel",
+   "holiday drive",
+   "vacation",
+   "long drive",
+   "journey",
+   "luggage on roof",
+   "travel by car",
+   "family trip",
+   "tourism",
+   "driving holiday",
+   "packing",
+   "suitcase",
+   "scenic route",
+   "travel guide"
+  ]
+ },
+ "learner-driver-plate": {
+  "context": "A square plate with a bold capital letter L. Used for learner driver signs, driving lessons and new driver information.",
+  "keywords": [
+   "l plate",
+   "learner plate",
+   "new driver",
+   "student driver",
+   "driving lesson",
+   "driving school",
+   "provisional licence",
+   "provisional license",
+   "beginner driver",
+   "driving test",
+   "practice driving",
+   "learning to drive",
+   "road rules",
+   "supervised driving",
+   "driving instructor"
+  ]
+ },
+ "oil-change": {
+  "context": "A car in side view with an oil drop and a small funnel above its hood. Used for service reminders, maintenance schedules and garage booking pages.",
+  "keywords": [
+   "engine oil",
+   "lube",
+   "servicing",
+   "car service",
+   "maintenance reminder",
+   "oil service",
+   "garage",
+   "mechanic",
+   "top up oil",
+   "lubricant",
+   "motor oil",
+   "drain and refill",
+   "vehicle maintenance",
+   "service due",
+   "workshop"
+  ]
+ },
+ "truck-camper": {
+  "context": "A pickup truck in side view carrying a boxy camper unit that overhangs the cab. Used for camping vehicle listings, overlanding guides and RV rental pages.",
+  "keywords": [
+   "pickup camper",
+   "slide in camper",
+   "overlanding",
+   "rv",
+   "camping truck",
+   "motorhome",
+   "camper shell",
+   "truck bed camper",
+   "off grid travel",
+   "camping",
+   "outdoor adventure",
+   "road trip home",
+   "expedition vehicle",
+   "recreational vehicle",
+   "van life"
+  ]
+ },
+ "skip-loader-truck": {
+  "context": "A truck in side view with an open-topped skip bin on its back. Used for skip hire, rubbish removal services and construction waste pages.",
+  "keywords": [
+   "skip truck",
+   "dumpster truck",
+   "waste container",
+   "rubbish skip",
+   "builders skip",
+   "roll off truck",
+   "garbage bin truck",
+   "rubbish removal",
+   "waste collection",
+   "skip hire",
+   "construction waste",
+   "junk removal",
+   "debris",
+   "dumpster rental",
+   "refuse"
+  ]
+ },
+ "milk-float": {
+  "context": "A small open-sided electric delivery van carrying milk bottles on its flat back. Used for dairy delivery services, nostalgic British themes and quiet electric delivery vehicles.",
+  "keywords": [
+   "milk van",
+   "milkman",
+   "dairy delivery",
+   "electric van",
+   "milk bottles",
+   "doorstep delivery",
+   "early morning delivery",
+   "electric float",
+   "local delivery",
+   "dairy",
+   "retro delivery",
+   "doorstep",
+   "bottle delivery",
+   "neighborhood round",
+   "delivery vehicle"
+  ]
+ },
+ "ice-resurfacer": {
+  "context": "A boxy rink machine in side view with an operator cab on top and a squeegee trailing behind. Used for ice rink maintenance, hockey arena pages and skating schedules.",
+  "keywords": [
+   "ice machine",
+   "ice rink",
+   "rink maintenance",
+   "skating rink",
+   "hockey arena",
+   "ice cleaning",
+   "resurfacing",
+   "rink cleaning",
+   "smooth ice",
+   "ice maker",
+   "arena",
+   "skating session",
+   "intermission",
+   "figure skating",
+   "winter sports"
+  ]
+ },
+ "surrey-bike": {
+  "context": "A four-wheeled pedal carriage with two riders under a curved canopy. Used for bike rental, family tourist rides and leisure parks.",
+  "keywords": [
+   "quadricycle",
+   "pedal carriage",
+   "family bike",
+   "surrey",
+   "tourist bike",
+   "four wheel bike",
+   "pedal cart",
+   "bike rental",
+   "leisure ride",
+   "boardwalk",
+   "canopy bike",
+   "pedal car",
+   "seaside",
+   "two seater",
+   "sightseeing"
+  ]
+ },
+ "race-start-lights": {
+  "context": "A gantry with a row of five round lights, all lit, above a track line. Used for motorsport start sequences, race countdowns and event timing features.",
+  "keywords": [
+   "f1 start",
+   "starting lights",
+   "grand prix",
+   "motorsport",
+   "lights out",
+   "race countdown",
+   "five red lights",
+   "race start",
+   "start sequence",
+   "drag strip",
+   "track day",
+   "starting grid",
+   "go signal",
+   "racing event",
+   "pole position"
+  ]
+ },
+ "race-track": {
+  "context": "A closed looping circuit seen from above with a start line across one straight. Used for racing venues, lap timing and circuit guides.",
+  "keywords": [
+   "circuit",
+   "racetrack",
+   "motorsport track",
+   "grand prix circuit",
+   "speedway",
+   "lap",
+   "lap time",
+   "track day",
+   "racing venue",
+   "track map",
+   "kart track",
+   "start finish line",
+   "racing",
+   "speed",
+   "motor racing"
+  ]
+ },
+ "fuel-gauge": {
+  "context": "A semicircle fuel dial with a needle near empty and a drop in the middle. Used for fuel level readouts, low fuel alerts and vehicle dashboards.",
+  "keywords": [
+   "fuel level",
+   "petrol gauge",
+   "gas gauge",
+   "tank level",
+   "low fuel",
+   "empty tank",
+   "fuel indicator",
+   "dashboard dial",
+   "fuel remaining",
+   "fill up",
+   "refuel",
+   "gasoline",
+   "diesel",
+   "fuel meter",
+   "range"
+  ]
+ },
+ "car-radio": {
+  "context": "A car stereo head unit with a small display, a round knob and a row of preset buttons. Used for in-car audio settings, radio features and stereo product pages.",
+  "keywords": [
+   "head unit",
+   "car stereo",
+   "audio system",
+   "dash radio",
+   "infotainment",
+   "am fm",
+   "preset stations",
+   "in car entertainment",
+   "volume knob",
+   "car audio",
+   "tuner",
+   "dashboard stereo",
+   "sound system",
+   "radio station",
+   "music in car"
+  ]
+ },
+ "car-sun-visor": {
+  "context": "A flip-down sun visor panel hinged along its top edge with a small mirror on its face. Used for car interior features and accessory listings.",
+  "keywords": [
+   "visor",
+   "vanity mirror",
+   "sun shield",
+   "windshield visor",
+   "car interior",
+   "sun glare",
+   "flip down visor",
+   "mirror",
+   "dashboard accessory",
+   "sunshade",
+   "glare protection",
+   "cabin",
+   "vehicle interior",
+   "sun blocker",
+   "driver comfort"
+  ]
+ },
+ "windshield-sunshade": {
+  "context": "A windshield outline filled by an accordion-folded shade with vertical pleats. Used for car heat protection, parking accessories and summer driving tips.",
+  "keywords": [
+   "sun shade",
+   "windscreen cover",
+   "car cooler",
+   "heat shield",
+   "parking shade",
+   "sun protector",
+   "hot car",
+   "foldable shade",
+   "uv protection",
+   "car accessory",
+   "keep car cool",
+   "summer parking",
+   "reflective cover",
+   "dashboard cover",
+   "folding screen"
+  ]
+ },
+ "turn-signal": {
+  "context": "Two outlined arrowheads pointing away from each other, like left and right indicator lamps. Used for turn signal and hazard indicators and car dashboard status screens.",
+  "keywords": [
+   "indicator",
+   "blinker",
+   "hazard lights",
+   "direction indicator",
+   "flasher",
+   "left right",
+   "signal lamps",
+   "hazard warning",
+   "flashing arrows",
+   "dashboard indicator",
+   "indicate",
+   "car lights",
+   "turn lights",
+   "emergency flashers",
+   "lane change signal"
+  ]
+ },
+ "ignition-key": {
+  "context": "A car key set in a round ignition barrel with the blade running into the lock. Used for ignition and start settings, key fob features and vehicle security.",
+  "keywords": [
+   "car key",
+   "ignition switch",
+   "start car",
+   "key lock",
+   "keyhole",
+   "turn key",
+   "ignition barrel",
+   "vehicle key",
+   "car lock",
+   "keys in ignition",
+   "start engine",
+   "immobiliser",
+   "key cylinder",
+   "lock and key",
+   "car security"
+  ]
+ },
+ "engine-start-button": {
+  "context": "A round push button with a power symbol in its centre. Used for keyless start settings, push-button ignition and vehicle power controls.",
+  "keywords": [
+   "push start",
+   "start stop button",
+   "keyless start",
+   "power button",
+   "ignition button",
+   "engine start",
+   "keyless ignition",
+   "start engine",
+   "stop engine",
+   "push button",
+   "vehicle power",
+   "car on off",
+   "dashboard button",
+   "smart key",
+   "proximity start"
+  ]
+ },
+ "cv-joint": {
+  "context": "A short drive shaft with a ribbed rubber boot at one end and a plain stub at the other. Used for car repair shops, parts catalogues and drivetrain diagrams.",
+  "keywords": [
+   "cv boot",
+   "drive shaft",
+   "axle",
+   "constant velocity joint",
+   "driveshaft",
+   "mechanic",
+   "half shaft",
+   "rubber boot",
+   "clicking noise",
+   "auto parts",
+   "drivetrain part",
+   "front wheel drive",
+   "car repair",
+   "bellows",
+   "transmission part"
+  ]
+ },
+ "obd-scanner": {
+  "context": "A handheld diagnostic reader with a small screen and buttons, its cable ending in a trapezoid connector. Used for engine fault code reading, car diagnostics and mechanic tools.",
+  "keywords": [
+   "obd2",
+   "car diagnostics",
+   "code reader",
+   "check engine",
+   "scan tool",
+   "fault codes",
+   "diagnostic tool",
+   "engine light",
+   "ecu reader",
+   "mechanic tool",
+   "vehicle scanner",
+   "obd port",
+   "error codes",
+   "auto repair",
+   "clear codes"
+  ]
+ },
+ "bull-bar": {
+  "context": "The head-on front of an off-road vehicle with a tubular guard frame across its grille. Used for four-by-four accessories, outback driving and vehicle modification shops.",
+  "keywords": [
+   "roo bar",
+   "nudge bar",
+   "grille guard",
+   "4x4 accessory",
+   "front guard",
+   "off road",
+   "brush guard",
+   "tube bumper",
+   "animal strike protection",
+   "outback",
+   "offroad accessories",
+   "vehicle front",
+   "truck guard",
+   "push bar",
+   "bumper guard"
+  ]
+ },
+ "winter-tire": {
+  "context": "A tire seen from the side with a snowflake mark in its hub. Used for snow tire guides, seasonal tire changeover reminders and winter driving advice.",
+  "keywords": [
+   "snow tyre",
+   "winter tyre",
+   "snow tire",
+   "cold weather tire",
+   "tread",
+   "icy roads",
+   "tire change",
+   "seasonal tires",
+   "snowflake tire",
+   "studded tire",
+   "winter driving",
+   "tire swap",
+   "traction in snow",
+   "wheel",
+   "ice grip"
+  ]
+ },
+ "cycling-computer": {
+  "context": "A small bike computer with a screen showing a speed readout, mounted on a handlebar line. Used for cycling apps, ride tracking devices and bike accessory shops.",
+  "keywords": [
+   "bike computer",
+   "speedometer bike",
+   "cyclocomputer",
+   "gps bike",
+   "cadence",
+   "handlebar",
+   "ride tracker",
+   "bike speed",
+   "odometer",
+   "cycling gadget",
+   "distance tracker",
+   "bike mount",
+   "training device",
+   "ride data",
+   "bicycle accessory"
+  ]
+ },
+ "bike-pannier": {
+  "context": "A pannier bag with a rolled top hanging from a rack beside a bicycle wheel. Used for bike touring gear, commuting accessories and cycle luggage shops.",
+  "keywords": [
+   "bicycle bag",
+   "rack bag",
+   "touring bag",
+   "bike luggage",
+   "cycle touring",
+   "saddle bag",
+   "rear rack",
+   "waterproof bag",
+   "commuter bag",
+   "bike panniers",
+   "cargo bag",
+   "bikepacking",
+   "bike storage",
+   "luggage carrier",
+   "bicycle carrier bag"
+  ]
+ },
+ "bicycle-frame": {
+  "context": "A diamond bicycle frame with saddle, handlebar and fork but no wheels. Used for bike building, frame size guides and bicycle parts listings.",
+  "keywords": [
+   "bike frame",
+   "bicycle chassis",
+   "frameset",
+   "cycling",
+   "bike parts",
+   "diamond frame",
+   "frame size",
+   "bike build",
+   "bicycle skeleton",
+   "road bike frame",
+   "frame geometry",
+   "bike shop",
+   "custom bike",
+   "top tube",
+   "fork"
+  ]
+ },
+ "ride-hailing": {
+  "context": "A smartphone showing a map pin above a small car. Used for taxi booking apps, ride share features and pickup location screens.",
+  "keywords": [
+   "taxi app",
+   "ride share app",
+   "cab booking",
+   "book a ride",
+   "pickup location",
+   "call a car",
+   "hail a cab",
+   "phone and car",
+   "ride request",
+   "driver app",
+   "transport on demand",
+   "mobility app",
+   "car service",
+   "order a taxi",
+   "pickup point"
+  ]
+ },
+ "hitchhiker": {
+  "context": "A person at the roadside with one arm out and thumb raised, carrying a backpack. Used for hitchhiking, budget travel stories and roadside lift requests.",
+  "keywords": [
+   "thumbs up ride",
+   "hitchhiking",
+   "travel",
+   "roadside",
+   "lift",
+   "backpacker",
+   "thumbing a ride",
+   "free ride",
+   "road traveler",
+   "stranger",
+   "thumb out",
+   "adventure",
+   "wanderer",
+   "autostop",
+   "hiker"
+  ]
+ },
+ "car-driver": {
+  "context": "A person seen from the front behind a steering wheel. Used for driver profiles, driving lessons and driver monitoring features.",
+  "keywords": [
+   "driving",
+   "driver",
+   "behind the wheel",
+   "motorist",
+   "chauffeur",
+   "car seat",
+   "driver profile",
+   "person driving",
+   "steering",
+   "driver monitoring",
+   "license holder",
+   "taxi driver",
+   "at the wheel",
+   "drive",
+   "driver seat"
+  ]
+ },
+ "news-van": {
+  "context": "A van in side view with a satellite dish on a short mast above its roof. Used for live broadcast, outside broadcast crews and news reporting features.",
+  "keywords": [
+   "tv van",
+   "broadcast truck",
+   "outside broadcast",
+   "reporter",
+   "live news",
+   "satellite van",
+   "news crew",
+   "field reporting",
+   "live feed",
+   "television",
+   "media vehicle",
+   "satellite uplink",
+   "journalism",
+   "press",
+   "breaking news"
+  ]
+ },
+ "tiny-house-trailer": {
+  "context": "A small pitched-roof house with a door and window sitting on a two-wheeled trailer. Used for tiny home listings, mobile living guides and minimalist housing pages.",
+  "keywords": [
+   "tiny home",
+   "mobile home",
+   "house on wheels",
+   "micro house",
+   "trailer home",
+   "park model",
+   "small living",
+   "downsizing",
+   "portable house",
+   "minimalist living",
+   "off grid home",
+   "moveable house",
+   "compact home",
+   "trailer house",
+   "rv living"
+  ]
+ },
+ "brake-pad-wear-light": {
+  "context": "A small circle flanked by dashed curved brackets on both sides. Used for brake pad wear warnings and brake service reminders on car dashboards.",
+  "keywords": [
+   "brake wear",
+   "brake warning",
+   "dashboard light",
+   "pads",
+   "brake service",
+   "brake fault",
+   "worn brakes",
+   "brake lining",
+   "brake check",
+   "instrument cluster",
+   "car warning light",
+   "brake maintenance",
+   "replace pads",
+   "disc brake",
+   "brake alert"
+  ]
+ },
+ "trunk-open-light": {
+  "context": "A car in side view with its rear trunk lid lifted open. Used for the trunk or boot open warning on car dashboards and vehicle status screens.",
+  "keywords": [
+   "boot open",
+   "trunk ajar",
+   "tailgate open",
+   "dashboard light",
+   "luggage compartment",
+   "trunk warning",
+   "boot lid",
+   "trunk lid",
+   "rear lid open",
+   "car warning",
+   "vehicle status",
+   "check boot",
+   "open trunk",
+   "instrument cluster",
+   "trunk release"
+  ]
+ },
+ "water-in-fuel-light": {
+  "context": "A fuel pump with a water droplet beside it. Used for the diesel water in fuel warning and fuel filter service alerts.",
+  "keywords": [
+   "diesel water",
+   "fuel contamination",
+   "fuel filter warning",
+   "dashboard light",
+   "water separator",
+   "fuel fault",
+   "water in diesel",
+   "contaminated fuel",
+   "drain filter",
+   "instrument cluster",
+   "car warning",
+   "diesel engine",
+   "fuel pump",
+   "drop",
+   "fuel system"
+  ]
+ },
+ "parking-lights": {
+  "context": "Two D-shaped lamps back to back with short rays from each outer side. Used for the side lights indicator and vehicle lighting settings.",
+  "keywords": [
+   "side lights",
+   "position lights",
+   "sidelights",
+   "dashboard light",
+   "lamps",
+   "parking lamps",
+   "car lights",
+   "lighting control",
+   "small lights",
+   "stand lights",
+   "night parking",
+   "instrument cluster",
+   "vehicle lighting",
+   "light switch",
+   "park lamps"
+  ]
+ },
+ "heated-steering-wheel": {
+  "context": "A steering wheel with three wavy heat lines rising above its rim. Used for heated wheel buttons and winter comfort settings.",
+  "keywords": [
+   "steering wheel heater",
+   "warm wheel",
+   "winter comfort",
+   "car interior",
+   "heat",
+   "cold weather",
+   "heated wheel",
+   "hand warmer",
+   "climate control",
+   "comfort setting",
+   "vehicle option",
+   "wheel warming",
+   "heated grip",
+   "cold morning",
+   "dashboard button"
+  ]
+ },
+ "head-up-display": {
+  "context": "A windshield outline with a projected arrow and speed bars floating low in the middle. Used for head-up display settings and driver assistance features.",
+  "keywords": [
+   "hud",
+   "projected display",
+   "windscreen display",
+   "speed projection",
+   "navigation arrow",
+   "driver assistance",
+   "heads up display",
+   "windshield display",
+   "dashboard projection",
+   "eyes on road",
+   "display settings",
+   "car tech",
+   "glass display",
+   "speed readout",
+   "turn by turn"
+  ]
+ },
+ "surround-view-camera": {
+  "context": "A car seen from above with camera view arcs on all four sides. Used for parking cameras, around-view monitors and vehicle camera settings.",
+  "keywords": [
+   "360 camera",
+   "around view",
+   "birds eye view",
+   "parking camera",
+   "park assist",
+   "cameras",
+   "top down view",
+   "all round view",
+   "camera system",
+   "reverse camera",
+   "vehicle cameras",
+   "parking aid",
+   "camera monitor",
+   "maneuvering",
+   "car sensors"
+  ]
+ },
+ "bike-bulb-horn": {
+  "context": "A rubber squeeze bulb attached to a flared horn with a short sound line. Used for bicycle accessories, kids bike gear and honking sound effects.",
+  "keywords": [
+   "bicycle horn",
+   "squeeze horn",
+   "honk",
+   "clown horn",
+   "bike accessory",
+   "bulb horn",
+   "bike bell alternative",
+   "beep",
+   "sound",
+   "noise maker",
+   "warning horn",
+   "vintage horn",
+   "toy horn",
+   "bike gear",
+   "cycling safety"
+  ]
+ },
+ "fuzzy-dice": {
+  "context": "A pair of dice with pips hanging from a string, like a rearview mirror charm. Used for retro car culture, car accessory shops and lucky charm themes.",
+  "keywords": [
+   "hanging dice",
+   "mirror dice",
+   "car charm",
+   "retro",
+   "lucky",
+   "rearview mirror decoration",
+   "car decoration",
+   "gambling",
+   "luck",
+   "car accessory",
+   "mirror charm",
+   "hot rod",
+   "nostalgia",
+   "dice",
+   "rear view"
+  ]
+ },
+ "overturned-car": {
+  "context": "A car in side view lying upside down on its roof with the wheels in the air above a ground line. Used for rollover accident reports and crash safety content.",
+  "keywords": [
+   "rollover",
+   "flipped car",
+   "upside down",
+   "crash",
+   "accident",
+   "wreck",
+   "car flipped",
+   "rollover accident",
+   "upturned car",
+   "crash scene",
+   "emergency",
+   "road accident",
+   "vehicle on roof",
+   "insurance claim",
+   "total loss"
+  ]
+ },
+ "car-fire": {
+  "context": "A car in side view with flames rising from its hood. Used for vehicle fire alerts, emergency guidance and insurance claim content.",
+  "keywords": [
+   "burning car",
+   "vehicle fire",
+   "blaze",
+   "engine fire",
+   "emergency",
+   "flames",
+   "car on fire",
+   "fire hazard",
+   "overheating danger",
+   "fire brigade",
+   "firefighting",
+   "arson",
+   "vehicle blaze",
+   "safety warning",
+   "fire alert"
+  ]
+ },
+ "speeding-car": {
+  "context": "A car in side view with horizontal speed lines streaming behind it. Used for speeding alerts, fast delivery and performance driving content.",
+  "keywords": [
+   "fast car",
+   "speed",
+   "racing",
+   "overspeed",
+   "rush",
+   "velocity",
+   "speeding ticket",
+   "speed limit",
+   "quick delivery",
+   "fast driving",
+   "motion lines",
+   "accelerating",
+   "hurry",
+   "speed camera",
+   "express"
+  ]
+ },
+ "cab-over-truck": {
+  "context": "A truck in side view with a flat vertical front where the cab sits directly over the engine. Used for freight, delivery fleets and truck type guides.",
+  "keywords": [
+   "cabover",
+   "flat nose truck",
+   "forward control",
+   "box truck",
+   "lorry",
+   "delivery truck",
+   "cab forward",
+   "freight",
+   "haulage",
+   "fleet vehicle",
+   "goods transport",
+   "removals truck",
+   "commercial vehicle",
+   "cargo",
+   "logistics"
+  ]
+ },
+ "mechanics-creeper": {
+  "context": "A low padded board on caster wheels with a raised headrest. Used for garage tools, car repair guides and workshop equipment shops.",
+  "keywords": [
+   "creeper",
+   "garage creeper",
+   "mechanic board",
+   "workshop",
+   "under car",
+   "auto repair",
+   "rolling board",
+   "mechanic tool",
+   "lie under car",
+   "caster board",
+   "garage floor",
+   "car maintenance",
+   "repair bay",
+   "crawling board",
+   "shop equipment"
+  ]
+ },
+ "banana-seat-bike": {
+  "context": "A retro bicycle with a long banana saddle, high handlebars and a tall sissy bar at the back. Used for vintage bike shops, kids cycling and 1970s themes.",
+  "keywords": [
+   "muscle bike",
+   "retro bicycle",
+   "chopper bicycle",
+   "1970s",
+   "kids bike",
+   "bmx cruiser",
+   "banana saddle",
+   "vintage bike",
+   "ape hanger",
+   "cruiser",
+   "old school bike",
+   "sissy bar",
+   "nostalgia",
+   "childhood",
+   "long seat"
+  ]
+ },
+ "emergency-light-bar": {
+  "context": "A roof light bar with two domed lamps and short rays shooting out from each end. Used for police and emergency vehicles, flashing warning lights and siren alerts.",
+  "keywords": [
+   "beacon",
+   "siren",
+   "police lights",
+   "flashing lights",
+   "strobe",
+   "patrol",
+   "light bar",
+   "emergency vehicle",
+   "warning lights",
+   "rotating beacon",
+   "sirens on",
+   "rescue",
+   "first responder",
+   "lightbar",
+   "roof lights"
+  ]
+ },
+ "radar-speed-gun": {
+  "context": "A pistol-grip radar gun with a flat housing and radio waves coming from its front. Used for speed enforcement, speed trap warnings and traffic safety pages.",
+  "keywords": [
+   "speed camera",
+   "police radar",
+   "speed trap",
+   "lidar gun",
+   "traffic enforcement",
+   "speed check",
+   "radar",
+   "speed measurement",
+   "handheld radar",
+   "traffic police",
+   "speed limit",
+   "road safety",
+   "ticket",
+   "enforcement",
+   "pistol grip"
+  ]
+ },
+ "starter-motor": {
+  "context": "An electric starter motor with a small solenoid on top and a pinion gear at the front. Used for engine repair guides, car parts shops and no-start diagnostics.",
+  "keywords": [
+   "starter",
+   "engine starter",
+   "cranking",
+   "car electrical",
+   "solenoid",
+   "auto part",
+   "starter solenoid",
+   "car wont start",
+   "flywheel gear",
+   "pinion",
+   "battery drain",
+   "engine parts",
+   "mechanic",
+   "ignition system",
+   "electric motor"
+  ]
+ },
+ "window-crank": {
+  "context": "An old-style car window winder: a crank arm with a square knob turning on a round base plate. Used for classic car restoration, manual window features and vintage parts.",
+  "keywords": [
+   "window winder",
+   "window handle",
+   "manual window",
+   "door handle",
+   "vintage car",
+   "winder",
+   "hand crank",
+   "roll down window",
+   "classic car part",
+   "door panel",
+   "old car",
+   "restoration",
+   "handle",
+   "crank handle",
+   "retro car"
+  ]
+ },
+ "car-location-pin": {
+  "context": "A map pin marker with a small car inside its round head. Used for finding a parked car, vehicle tracking and car park locations.",
+  "keywords": [
+   "car finder",
+   "parked car",
+   "find my car",
+   "car park",
+   "vehicle location",
+   "gps",
+   "parking spot",
+   "vehicle tracker",
+   "where did i park",
+   "car on map",
+   "location marker",
+   "parking pin",
+   "fleet tracking",
+   "vehicle position",
+   "saved parking"
+  ]
+ },
+ "adult-tricycle": {
+  "context": "An upright three-wheeled bicycle in side view with a large basket over the rear axle. Used for senior mobility, cargo trikes and leisure cycling.",
+  "keywords": [
+   "trike",
+   "three wheel bike",
+   "senior bike",
+   "cargo trike",
+   "adult trike",
+   "tricycle basket",
+   "stable bicycle",
+   "balance aid",
+   "shopping trike",
+   "mobility",
+   "leisure ride",
+   "grocery bike",
+   "tricycle",
+   "three wheeler",
+   "easy riding"
+  ]
+ },
+ "tire-tracks": {
+  "context": "Two parallel trails of zig-zag tread marks narrowing into the distance. Used for off-road trails, tracking stories and dirt road routes.",
+  "keywords": [
+   "tyre tracks",
+   "skid marks",
+   "off road",
+   "trail",
+   "tread marks",
+   "dirt road",
+   "tire marks",
+   "trail marks",
+   "vehicle trail",
+   "mud",
+   "track",
+   "driving path",
+   "rut",
+   "wheel marks",
+   "forensic"
+  ]
+ },
+ "amphibious-car": {
+  "context": "A car in side view with wheels sitting on a wavy water line below it. Used for amphibious vehicle listings, flood driving and novelty tours.",
+  "keywords": [
+   "water car",
+   "swimming car",
+   "boat car",
+   "floating car",
+   "land and water",
+   "water crossing",
+   "flood",
+   "car on water",
+   "hybrid vehicle",
+   "duck tour",
+   "ford crossing",
+   "floating vehicle",
+   "wave",
+   "river",
+   "sea car"
+  ]
+ },
+ "billboard-truck": {
+  "context": "A truck in side view carrying a big flat rectangular advertising panel on its back. Used for mobile advertising, promotion campaigns and outdoor media.",
+  "keywords": [
+   "advertising truck",
+   "mobile billboard",
+   "ad truck",
+   "promotion",
+   "outdoor advertising",
+   "marketing",
+   "roadshow",
+   "sign truck",
+   "campaign",
+   "publicity",
+   "hoarding",
+   "media",
+   "brand awareness",
+   "roving ad",
+   "street advertising"
+  ]
+ },
+ "cb-radio": {
+  "context": "A CB radio box with a small display and knob, linked by a cord to a handheld microphone. Used for trucker communication, two-way radio features and road convoy content.",
+  "keywords": [
+   "citizens band",
+   "two way radio",
+   "trucker radio",
+   "walkie",
+   "handset",
+   "radio mic",
+   "truck radio",
+   "convoy",
+   "ham radio",
+   "mic and cord",
+   "channel select",
+   "roadside chatter",
+   "long haul",
+   "handheld microphone",
+   "radio transmitter"
+  ]
+ },
+ "gullwing-car": {
+  "context": "A low sports coupe in side view with its door raised high like a wing. Used for supercar listings, exotic vehicle content and luxury car rental pages.",
+  "keywords": [
+   "gull wing",
+   "supercar",
+   "scissor doors",
+   "sports car",
+   "exotic car",
+   "butterfly doors",
+   "raised door",
+   "luxury car",
+   "high end car",
+   "fast car",
+   "vertical door",
+   "performance car",
+   "coupe",
+   "dream car",
+   "car show"
+  ]
+ }
+}

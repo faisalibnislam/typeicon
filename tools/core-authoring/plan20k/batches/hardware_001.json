@@ -1,0 +1,482 @@
+[
+ {
+  "name": "sledgehammer",
+  "category": "hardware",
+  "draw": "Long straight wooden handle with a heavy rectangular double faced steel head at the top, drawn diagonally.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ball-peen-hammer",
+  "category": "hardware",
+  "draw": "Hammer seen from the side with a flat striking face on one end of the head and a rounded ball on the other.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rubber-mallet",
+  "category": "hardware",
+  "draw": "Hammer with a fat barrel shaped rubber head, both ends flat and round, on a short straight handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wooden-mallet",
+  "category": "hardware",
+  "draw": "Carpenter mallet with a chunky rectangular wooden block head, slightly tapered faces, on a short handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "club-hammer",
+  "category": "hardware",
+  "draw": "Short handled hammer with a heavy square double faced head, stubby and compact.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rock-hammer",
+  "category": "hardware",
+  "draw": "Geologist hammer with a square striking face on one side and a long pointed pick on the other, on a straight shaft.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "brick-hammer",
+  "category": "hardware",
+  "draw": "Mason hammer with a square face on one end and a flat chisel blade on the other end of the head.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tack-hammer",
+  "category": "hardware",
+  "draw": "Slim light hammer with a long narrow head, one end split for pulling tacks, on a thin handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "splitting-maul",
+  "category": "hardware",
+  "draw": "Heavy wedge shaped axe head, very thick at the back, on a long straight handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "double-bit-axe",
+  "category": "hardware",
+  "draw": "Axe with two symmetric curved blades on opposite sides of the head, on a long straight handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "adze",
+  "category": "hardware",
+  "draw": "Woodworking tool with a curved blade set at a right angle to the handle, like a hoe, in side view.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mattock",
+  "category": "hardware",
+  "draw": "Digging tool with a horizontal flat blade on one side and a pointed pick on the other, on a long handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hand-tamper",
+  "category": "hardware",
+  "draw": "Tall pole handle ending in a flat square steel plate at the bottom for tamping soil.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "post-driver",
+  "category": "hardware",
+  "draw": "Hollow steel tube with two side handles and a closed heavy top, placed over a fence post.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "phillips-screwdriver",
+  "category": "hardware",
+  "draw": "Screwdriver with a chunky handle and a shaft ending in a pointed cross shaped tip, tip shown enlarged.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "flathead-screwdriver",
+  "category": "hardware",
+  "draw": "Screwdriver with a chunky handle and a shaft ending in a flat wide blade tip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ratchet-screwdriver",
+  "category": "hardware",
+  "draw": "Screwdriver with a thick handle, a small ratchet collar ring near the shaft and a curved arrow around the collar.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "precision-screwdriver-set",
+  "category": "hardware",
+  "draw": "Row of three slim thin screwdrivers of decreasing size standing upright side by side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "screwdriver-bit",
+  "category": "hardware",
+  "draw": "Short hexagonal bit with a cross shaped tip, drawn at an angle with its six sided shank visible.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bit-set-case",
+  "category": "hardware",
+  "draw": "Open small case holding a neat row of short driver bits standing in slots.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "phillips-screw-head",
+  "category": "hardware",
+  "draw": "Top view circle of a screw head with a cross shaped recess in the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "slotted-screw-head",
+  "category": "hardware",
+  "draw": "Top view circle of a screw head with a single straight slot across it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "torx-screw-head",
+  "category": "hardware",
+  "draw": "Top view circle of a screw head with a six pointed rounded star recess.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hex-socket-screw-head",
+  "category": "hardware",
+  "draw": "Top view circle of a screw head with a hexagonal recess in the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "square-drive-screw-head",
+  "category": "hardware",
+  "draw": "Top view circle of a screw head with a small square recess in the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tamper-proof-screw-head",
+  "category": "hardware",
+  "draw": "Top view circle of a screw head with two small round holes on either side of the centre.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "adjustable-wrench",
+  "category": "hardware",
+  "draw": "Wrench with an angled open jaw and a visible worm screw adjuster knurled wheel below the jaw.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "open-end-wrench",
+  "category": "hardware",
+  "draw": "Flat wrench with an open U shaped jaw on both ends, one larger than the other.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "box-end-wrench",
+  "category": "hardware",
+  "draw": "Flat wrench with a closed ring end with inner teeth on both ends, slightly offset.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-wrench",
+  "category": "hardware",
+  "draw": "Heavy wrench with a long handle, a hooked toothed upper jaw and a large adjusting nut below it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "torque-wrench",
+  "category": "hardware",
+  "draw": "Long wrench with a round ratchet head and a small dial gauge on the handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "socket-wrench",
+  "category": "hardware",
+  "draw": "Ratchet handle with a round head and a short square drive stub, a small switch lever on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wrench-socket",
+  "category": "hardware",
+  "draw": "Short cylinder socket with a hexagonal opening on top and a square hole at the base, in perspective.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "socket-set",
+  "category": "hardware",
+  "draw": "Open case with a row of hex sockets of increasing size and a ratchet handle lying below.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "allen-key",
+  "category": "hardware",
+  "draw": "L shaped hexagonal bar key, short leg and long leg at a right angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hex-key-set",
+  "category": "hardware",
+  "draw": "Fan of several L shaped hex keys of different sizes held in a folding holder.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "lug-wrench",
+  "category": "hardware",
+  "draw": "Cross shaped wrench with four arms, each ending in a socket, seen from above.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "strap-wrench",
+  "category": "hardware",
+  "draw": "Short handle with a loop of flat strap wrapped around a round pipe.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "basin-wrench",
+  "category": "hardware",
+  "draw": "Long vertical shaft with a T bar handle at the bottom and a small hinged gripping jaw at the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "spark-plug-wrench",
+  "category": "hardware",
+  "draw": "T handle wrench with a long tube socket at the end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "locking-pliers",
+  "category": "hardware",
+  "draw": "Pliers with curved jaws, a release lever under one handle and an adjusting screw at the end of the other.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tongue-and-groove-pliers",
+  "category": "hardware",
+  "draw": "Pliers with long handles, angled jaws and a slotted row of pivot positions at the joint.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wire-stripper",
+  "category": "hardware",
+  "draw": "Pliers like tool with a row of small graduated notches along the jaws for stripping wire.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "crimping-tool",
+  "category": "hardware",
+  "draw": "Pliers with short thick jaws that have small shaped crimp cavities and long handles.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "diagonal-cutters",
+  "category": "hardware",
+  "draw": "Short pliers with angled pointed cutting jaws that meet in a sharp edge, curved handles.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "lineman-pliers",
+  "category": "hardware",
+  "draw": "Heavy pliers with blunt square flat jaws and a cutting edge near the pivot.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "snap-ring-pliers",
+  "category": "hardware",
+  "draw": "Pliers with two thin bent pin tips at the jaws for expanding retaining rings.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bolt-cutters",
+  "category": "hardware",
+  "draw": "Long handled cutter with two very long arms and short heavy pointed jaws at the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tin-snips",
+  "category": "hardware",
+  "draw": "Scissor like metal cutter with short thick curved blades and long cushioned handles.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-cutter",
+  "category": "hardware",
+  "draw": "C shaped frame around a pipe with a cutting wheel on one side and a turning knob screw below.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "glass-cutter",
+  "category": "hardware",
+  "draw": "Slim pen like handle with a tiny cutting wheel at the tip and a ball at the other end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tile-cutter",
+  "category": "hardware",
+  "draw": "Flat base with a rail across it and a lever handle with a scoring wheel, a tile on the base.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cable-cutter",
+  "category": "hardware",
+  "draw": "Cutter with long handles and curved hooked jaws that enclose a round cable.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hacksaw",
+  "category": "hardware",
+  "draw": "C shaped metal frame holding a thin straight blade with small teeth along the bottom, pistol handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "coping-saw",
+  "category": "hardware",
+  "draw": "Deep U shaped frame with a very thin blade stretched across the open end and a straight handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bow-saw",
+  "category": "hardware",
+  "draw": "Curved bow shaped tubular frame with a wide toothed blade across its open side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "keyhole-saw",
+  "category": "hardware",
+  "draw": "Narrow pointed tapering blade with teeth, sticking straight out of a pistol grip handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pull-saw",
+  "category": "hardware",
+  "draw": "Long straight handle wrapped with cord and a thin rectangular blade with fine teeth.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "miter-box",
+  "category": "hardware",
+  "draw": "Open topped U shaped box with angled slots cut in the side walls and a saw resting in one slot.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hole-saw",
+  "category": "hardware",
+  "draw": "Short cup shaped cylinder with a toothed rim and a pointed pilot drill in the centre.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "circular-saw-blade",
+  "category": "hardware",
+  "draw": "Round disc with sharp angled teeth around the edge and a hole in the centre.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "jigsaw-blade",
+  "category": "hardware",
+  "draw": "Short narrow straight blade with teeth on one edge and a tang with a notch at the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "band-saw-blade",
+  "category": "hardware",
+  "draw": "Coiled loop of thin toothed blade folded into three smaller rings.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "chainsaw-chain",
+  "category": "hardware",
+  "draw": "Oval loop of chain made of linked cutters with small hooked teeth along the edge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drawknife",
+  "category": "hardware",
+  "draw": "Long straight blade with a handle at each end bent toward the user, drawn in top view.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wood-chisel",
+  "category": "hardware",
+  "draw": "Flat bevelled steel blade with a straight sharp end set into a wooden handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cold-chisel",
+  "category": "hardware",
+  "draw": "Short thick hexagonal steel bar with a wedge edge at one end and a mushroomed striking top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "carving-gouge",
+  "category": "hardware",
+  "draw": "Chisel with a curved U shaped blade tip set in a round wooden handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hand-plane",
+  "category": "hardware",
+  "draw": "Side view of a block plane: a boat shaped body with a knob at the front and a tote handle at the back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "spokeshave",
+  "category": "hardware",
+  "draw": "Short plane blade in a body with two wing handles spreading out to either side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wood-rasp",
+  "category": "hardware",
+  "draw": "Flat half round file covered with a grid of raised dots, with a wooden handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "metal-file",
+  "category": "hardware",
+  "draw": "Long flat tapering file with a diagonal crosshatch texture and a tang in a handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "needle-file-set",
+  "category": "hardware",
+  "draw": "Fan of four very thin files with different cross sections, handles together at the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "putty-knife",
+  "category": "hardware",
+  "draw": "Flexible flat rounded rectangle blade on a short fat handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "awl",
+  "category": "hardware",
+  "draw": "Round bulb handle with a thin sharp pointed steel spike.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "center-punch",
+  "category": "hardware",
+  "draw": "Knurled steel rod tapering to a sharp conical point at one end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "nail-set",
+  "category": "hardware",
+  "draw": "Short knurled steel rod tapering to a tiny cupped tip, placed over a nail head.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "letter-punch-set",
+  "category": "hardware",
+  "draw": "Row of short square steel punches, each with a raised letter on its tip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "crowbar",
+  "category": "hardware",
+  "draw": "Long steel bar with a curved hook and split claw at one end and a flat chisel end at the other.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "flat-pry-bar",
+  "category": "hardware",
+  "draw": "Flat wide steel bar with a slight bend at each end and a nail slot.",
+  "domain": "tools-hardware-construction"
+ }
+]

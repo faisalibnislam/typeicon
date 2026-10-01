@@ -1,0 +1,224 @@
+[
+ {
+  "name": "swivel-car-seat",
+  "category": "inclusive",
+  "draw": "Car seat rotated out through an open car door with a curved arrow under it.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "car-transfer-handle",
+  "category": "inclusive",
+  "draw": "Short T-shaped grab handle with its metal tip hooked into a car door latch.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "step-free-access",
+  "category": "inclusive",
+  "draw": "Door frame with a flat level floor line running through it and a small wheelchair outside.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "accessible-pedestrian-button",
+  "category": "inclusive",
+  "draw": "Pole-mounted push button box with a large raised arrow and a speaker grille.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "wayfinding-audio-beacon",
+  "category": "inclusive",
+  "draw": "Small wall box emitting sound waves with a pin marker below.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "passenger-assistance-point",
+  "category": "inclusive",
+  "draw": "Signpost with a help button panel and a person offering a hand.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "accessible-sink",
+  "category": "inclusive",
+  "draw": "Wall sink with a lever tap and open empty space beneath for knees.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "accessible-toilet-key",
+  "category": "inclusive",
+  "draw": "Large key with a wide rounded bow and a toilet door symbol on it.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "accessible-picnic-table",
+  "category": "inclusive",
+  "draw": "Picnic table with one bench shortened leaving an open end for a wheelchair.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "audio-ballot",
+  "category": "inclusive",
+  "draw": "Voting booth box with a ballot slot and a pair of headphones plugged into its side.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "talking-atm",
+  "category": "inclusive",
+  "draw": "Cash machine front with a headphone jack and a plugged-in earphone cord.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "adaptive-swing-seat",
+  "category": "inclusive",
+  "draw": "Playground swing with a high backrest bucket seat and a front bar.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "sensory-pod-swing",
+  "category": "inclusive",
+  "draw": "Hanging fabric cocoon swing shaped like a teardrop with an oval opening.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "adaptive-tricycle",
+  "category": "inclusive",
+  "draw": "Tricycle with a high back support seat, foot straps and a push handle at the rear.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "ski-outrigger",
+  "category": "inclusive",
+  "draw": "Forearm crutch with a short ski tip attached at its base.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "beep-ball",
+  "category": "inclusive",
+  "draw": "Softball-sized ball with a small speaker grille and sound waves.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "swim-tapper",
+  "category": "inclusive",
+  "draw": "Long pole with a soft foam ball on its tip tapping a swimmer's head outline.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "showdown-table",
+  "category": "inclusive",
+  "draw": "Long rectangular table with raised side rails, a center screen and goal pockets.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "boccia-ramp",
+  "category": "inclusive",
+  "draw": "Tall slanted chute on a stand with a ball rolling down it.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "tactile-chess-board",
+  "category": "inclusive",
+  "draw": "Chessboard with some squares raised and small pegged pieces seen in perspective.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "adaptive-game-controller",
+  "category": "inclusive",
+  "draw": "Flat wide controller board with two large round buttons and a row of small ports along the top.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "switch-adapted-toy",
+  "category": "inclusive",
+  "draw": "Toy car connected by a cord to a large round push button switch.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "head-pointer",
+  "category": "inclusive",
+  "draw": "Headband with a long thin pointer stick extending forward from the forehead.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "mouth-stick",
+  "category": "inclusive",
+  "draw": "Slim stick with a mouthpiece at one end and a rubber tip pressing a key at the other.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "sip-and-puff-switch",
+  "category": "inclusive",
+  "draw": "Thin tube on a flexible gooseneck arm with a small switch box at the base.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "keyguard",
+  "category": "inclusive",
+  "draw": "Keyboard seen from above with a plate on top having a hole over each key.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "dwell-click",
+  "category": "inclusive",
+  "draw": "Mouse pointer with a circular progress ring filling around its tip.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "large-cursor",
+  "category": "inclusive",
+  "draw": "Oversized mouse pointer arrow beside a small standard pointer for scale.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "accessibility-tree",
+  "category": "inclusive",
+  "draw": "Tree diagram of nodes where each node has a small person-in-circle symbol.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "emotion-flashcards",
+  "category": "inclusive",
+  "draw": "Two fanned cards showing a smiling face and a sad face.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "tangle-fidget",
+  "category": "inclusive",
+  "draw": "Chain of curved linked segments forming a looping twisted shape.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "picture-button-phone",
+  "category": "inclusive",
+  "draw": "Phone with four large buttons, each showing a small face photo.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "relaxed-performance",
+  "category": "inclusive",
+  "draw": "Theater curtain with a soft wave line and a dimmed spotlight.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "sensory-bag",
+  "category": "inclusive",
+  "draw": "Drawstring bag with headphones and a fidget toy peeking out of the top.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "zero-entry-pool",
+  "category": "inclusive",
+  "draw": "Side view of a pool with a gentle sloped floor running from the deck down into the water, no steps.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "pivot-transfer-disc",
+  "category": "inclusive",
+  "draw": "Two stacked round discs seen at an angle with a pair of footprints on top and a curved rotation arrow.",
+  "domain": "r3-accessibility-extended"
+ },
+ {
+  "name": "pronoun-badge",
+  "category": "inclusive",
+  "draw": "Round pin badge with a short text line and a small speech bubble at its top.",
+  "domain": "r3-accessibility-extended"
+ }
+]

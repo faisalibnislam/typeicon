@@ -1,0 +1,218 @@
+[
+ {
+  "name": "gangplank",
+  "category": "craft",
+  "draw": "Plank with cleats and a rope railing sloping from a dock up to the side of a boat.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "boat-trailer",
+  "category": "craft",
+  "draw": "Side view of a small motorboat sitting on a two-wheeled road trailer with a hitch at the front.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "bosun-whistle",
+  "category": "craft",
+  "draw": "Curved metal boatswain pipe with a thin tube ending in a round ball, hanging on a chain.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "maritime-signal-flags",
+  "category": "craft",
+  "draw": "A line of small square and triangular nautical signal flags strung diagonally on a rope.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "foghorn",
+  "category": "craft",
+  "draw": "Flared trumpet-shaped horn mounted on a post, with curved sound waves spreading out from its mouth.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "engine-telegraph",
+  "category": "craft",
+  "draw": "Ship engine order telegraph: a round dial on a pedestal with speed segments around its face and a handle lever.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "heavy-lift-rocket",
+  "category": "craft",
+  "draw": "Tall rocket with a central core and two slim strap-on side boosters, each ending in a flame.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "launch-pad",
+  "category": "craft",
+  "draw": "Rocket standing upright beside a tall lattice service tower with an access arm, on a flat pad with clouds of smoke.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "crawler-transporter",
+  "category": "craft",
+  "draw": "Huge flat tracked platform carrying an upright rocket on its launch tower, seen from the side.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "rocket-engine",
+  "category": "craft",
+  "draw": "Rocket engine close up: a combustion chamber with pipes on top of a large bell-shaped nozzle with a flame.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "reusable-booster",
+  "category": "craft",
+  "draw": "Slim rocket stage descending upright on a tail of flame with four landing legs unfolded, above a landing pad.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "stage-separation",
+  "category": "craft",
+  "draw": "Rocket splitting in two, the lower spent stage falling away as the upper stage fires its engine.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "atmospheric-reentry",
+  "category": "craft",
+  "draw": "Cone-shaped capsule descending base-first wrapped in a streak of flame and a glowing trail.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "capsule-splashdown",
+  "category": "craft",
+  "draw": "Cone-shaped space capsule floating on waves under three large round parachutes.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "cubesat",
+  "category": "craft",
+  "draw": "Small cube satellite with gridded solar cell faces and a thin antenna sticking out.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "spaceplane",
+  "category": "craft",
+  "draw": "Side view of a winged orbiter with a blunt nose, delta wings, a tail fin and engine nozzles at the back.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "spacecraft-docking",
+  "category": "craft",
+  "draw": "Two spacecraft modules approaching each other nose to nose with docking rings aligned between them.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "space-elevator",
+  "category": "craft",
+  "draw": "A long straight tether rising from a point on the Earth's curve up to a counterweight station in orbit, with a climber pod on it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "satellite-constellation",
+  "category": "craft",
+  "draw": "A globe surrounded by several tilted orbit ellipses, each with a small satellite dot on it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "space-robotic-arm",
+  "category": "craft",
+  "draw": "Jointed robotic arm with long segments anchored to a spacecraft hull, its end gripper reaching out.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "airlock",
+  "category": "craft",
+  "draw": "Round thick spacecraft hatch door with a central wheel handle, set in a square bulkhead frame.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "astronaut-bootprint",
+  "category": "craft",
+  "draw": "Deep ridged bootprint pressed into powdery lunar soil, drawn from above.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "dugout-canoe",
+  "category": "craft",
+  "draw": "Side view of a canoe carved from a single hollowed-out log, with rough bark sides and blunt rounded ends.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "felucca",
+  "category": "craft",
+  "draw": "Side view of a small wooden Nile sailboat with one very tall slanted yard carrying a huge triangular sail much longer than the hull.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "racing-hydroplane",
+  "category": "craft",
+  "draw": "Side view of a long narrow racing boat skimming on its tail with a tall rooster-tail plume of spray shooting up behind it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "towboat",
+  "category": "craft",
+  "draw": "Side view of a square-bowed riverboat with a tall wheelhouse pushing a line of flat barges ahead of it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "sky-crane-helicopter",
+  "category": "craft",
+  "draw": "Side view of a helicopter with a thin open spine body and no cabin behind the cockpit, a large load hanging on cables beneath it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "flight-instrument-panel",
+  "category": "craft",
+  "draw": "Rectangular aircraft panel with six round gauges arranged in two rows of three.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "livestock-railcar",
+  "category": "craft",
+  "draw": "Side view of a rail wagon with slatted open sides and a cow's head peeking out between the slats.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "payload-fairing",
+  "category": "craft",
+  "draw": "Rocket top with its nose cone split open into two halves falling away, revealing a satellite inside.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "mars-helicopter",
+  "category": "craft",
+  "draw": "Small cube-shaped rotorcraft with two stacked long rotors on a mast and four thin splayed legs on rocky ground.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "drone-racing-gate",
+  "category": "craft",
+  "draw": "Square gate frame with glowing edges and a small quadcopter flying through its opening with speed lines.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "amphibious-vehicle",
+  "category": "craft",
+  "draw": "Side view of a boat-hulled bus on wheels driving down a ramp into the water with a splash at its bow.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "caravel",
+  "category": "craft",
+  "draw": "Side view of a small high-sided wooden ship with a raised stern and two or three masts each carrying a triangular lateen sail.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "ironclad-ship",
+  "category": "craft",
+  "draw": "Side view of a low armored steamship barely above the waterline with a single round gun turret and a short funnel.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "air-launch-rocket",
+  "category": "craft",
+  "draw": "Side view of a large jet carrier plane with a slim winged rocket slung under its wing.",
+  "domain": "rail-air-sea-space-craft"
+ }
+]

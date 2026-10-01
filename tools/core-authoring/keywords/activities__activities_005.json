@@ -1,0 +1,114 @@
+{
+ "tapping-shoulder": {
+  "context": "A hand tapping the shoulder of a person seen from behind. Used for getting someone's attention, nudges and reminders, and polite interruptions in social or workplace apps.",
+  "keywords": ["tap", "tap on the shoulder", "shoulder", "attention", "get attention", "excuse me", "nudge", "poke", "touch", "interrupt", "reminder", "notify", "hey", "call over", "behind", "polite", "ping"]
+ },
+ "walking-bicycle": {
+  "context": "A person walking beside a bicycle while holding its handlebar. Used for dismount zones, bike parking areas, pedestrian-only paths and routes where cyclists must walk.",
+  "keywords": ["walk bike", "walk your bike", "push bike", "pushing bicycle", "bicycle", "bike", "cyclist", "dismount", "dismount zone", "cyclists dismount", "pedestrian zone", "bike path", "no riding", "commute", "cycle", "on foot", "wheel bike"]
+ },
+ "reading-map": {
+  "context": "A standing person holding up a large unfolded paper map. Used for tourist information, navigation and wayfinding, travel guides and orienteering.",
+  "keywords": ["map", "read map", "paper map", "navigate", "navigation", "wayfinding", "tourist", "tourism", "traveller", "traveler", "lost", "directions", "orienteering", "explore", "sightseeing", "route", "hiking", "guide", "plan route", "folded map"]
+ },
+ "looking-in-fridge": {
+  "context": "A person bending toward an open refrigerator to look inside. Used for snack and hunger moments, meal planning, food inventory and kitchen or home apps.",
+  "keywords": ["fridge", "refrigerator", "open fridge", "look in fridge", "snack", "snacking", "hungry", "hunger", "midnight snack", "kitchen", "food", "groceries", "leftovers", "meal planning", "what to eat", "fridge raid", "cold food", "home"]
+ },
+ "tidying-toys": {
+  "context": "A child dropping a toy block into a toy box that already holds a teddy bear. Used for chores charts, tidy-up time, parenting and nursery or classroom routines.",
+  "keywords": ["tidy up", "tidying", "clean up", "cleanup", "toys", "toy box", "toy chest", "put away toys", "chores", "chore chart", "kids room", "playroom", "nursery", "parenting", "child", "teddy bear", "blocks", "organize", "organise", "routine"]
+ },
+ "blowing-up-balloon": {
+  "context": "A face in profile with a puffed cheek blowing air into a balloon. Used for party preparation, birthdays, celebrations and decoration tasks.",
+  "keywords": ["balloon", "blow up balloon", "blowing", "inflate", "inflating", "puff", "party", "party prep", "birthday", "celebration", "decorations", "decorate", "festive", "air", "cheeks", "kids party"]
+ },
+ "recording-voice-message": {
+  "context": "A person holding a phone near their mouth with sound going into it. Used for voice notes, voice messages in chat apps, dictation and audio recording features.",
+  "keywords": ["voice message", "voice note", "record", "recording", "audio message", "send voice", "dictate", "dictation", "speak", "talk", "phone", "smartphone", "microphone", "mic", "memo", "voice memo", "chat", "messaging", "hold to record"]
+ },
+ "sign-language-thank-you": {
+  "context": "A flat hand moving forward and down from the chin, as in the sign for thank you. Used for sign language learning, accessibility content, deaf awareness and gratitude messages.",
+  "keywords": ["sign language", "thank you", "thanks", "asl", "bsl", "signing", "deaf", "hard of hearing", "gratitude", "grateful", "hand sign", "sign", "accessibility", "learn sign language", "polite", "appreciation", "gesture"]
+ },
+ "sign-language-please": {
+  "context": "A flat palm held on the chest with a circling arrow, as in the sign for please. Used for sign language lessons, baby sign, accessibility content and polite requests.",
+  "keywords": ["sign language", "please", "asl", "signing", "deaf", "hard of hearing", "baby sign", "polite", "manners", "request", "hand on chest", "circle", "hand sign", "sign", "accessibility", "learn sign language", "gesture"]
+ },
+ "sign-language-help": {
+  "context": "A thumbs-up fist resting on a flat palm with an upward arrow, as in the sign for help. Used for sign language learning, accessibility services, support desks and assistance requests.",
+  "keywords": ["sign language", "help", "asl", "signing", "deaf", "hard of hearing", "assist", "assistance", "support", "aid", "need help", "hand sign", "sign", "accessibility", "learn sign language", "thumb up", "gesture"]
+ },
+ "fist-pump": {
+  "context": "A person pulling a clenched fist down in celebration. Used for wins, goals reached, achievements, streaks and success messages.",
+  "keywords": ["fist pump", "yes", "victory", "celebrate", "celebration", "win", "winner", "success", "achievement", "goal reached", "cheer", "nailed it", "triumph", "hooray", "excited", "motivation", "pumped", "well done"]
+ },
+ "stomping": {
+  "context": "A person stamping one foot down hard with impact lines at the heel. Used for anger and frustration, marching, stamping out and loud footsteps.",
+  "keywords": ["stomp", "stomping", "stamp", "stamping", "stamp foot", "angry", "anger", "frustrated", "frustration", "tantrum", "march", "footstep", "heavy step", "foot", "impact", "noise", "mad"]
+ },
+ "toddler-tantrum": {
+  "context": "A small child lying on its back kicking its legs and waving its fists. Used for parenting apps, child behaviour and development content, and meltdown moments.",
+  "keywords": ["tantrum", "temper tantrum", "toddler", "meltdown", "screaming", "crying", "angry child", "upset child", "parenting", "terrible twos", "behaviour", "behavior", "kicking", "child development", "kids", "outburst", "frustration"]
+ },
+ "pacing": {
+  "context": "A walking person above a curved arrow pointing both ways, showing a back-and-forth path. Used for restlessness, nervous waiting, anxiety and thinking on the move.",
+  "keywords": ["pacing", "pace", "back and forth", "to and fro", "restless", "restlessness", "nervous", "anxious", "anxiety", "waiting", "impatient", "worry", "walk", "walking", "thinking", "stress", "fidget"]
+ },
+ "biting-nails": {
+  "context": "A worried face with fingertips held between the teeth. Used for nervousness, suspense, anxiety and waiting on results.",
+  "keywords": ["biting nails", "nail biting", "nervous", "anxious", "anxiety", "worried", "worry", "stress", "stressed", "suspense", "tense", "fear", "scared", "waiting", "uneasy", "habit", "reaction", "face"]
+ },
+ "pushing-car": {
+  "context": "A person leaning forward and pushing a small car from behind. Used for breakdowns, stalled vehicles, flat batteries, running out of fuel and roadside help.",
+  "keywords": ["push car", "pushing car", "car", "breakdown", "broken down", "stalled", "stall", "flat battery", "dead battery", "out of fuel", "out of gas", "roadside assistance", "push start", "bump start", "help", "vehicle", "stuck"]
+ },
+ "arm-in-arm": {
+  "context": "Two people walking side by side with their elbows linked. Used for friendship, couples, companionship, support and walking together.",
+  "keywords": ["arm in arm", "linked arms", "link arms", "together", "friends", "friendship", "couple", "companions", "companionship", "walk together", "stroll", "support", "buddy", "partners", "pair", "duo", "unity"]
+ },
+ "taping-box": {
+  "context": "A tape roll on top of a closed cardboard box with its top seam taped. Used for packing, moving house, shipping parcels and preparing orders.",
+  "keywords": ["packing tape", "tape", "taping", "seal box", "sealing", "box", "cardboard box", "carton", "packing", "pack", "moving", "moving house", "shipping", "parcel", "package", "order fulfilment", "fulfillment", "dispatch", "tape roll"]
+ },
+ "handing-over-keys": {
+  "context": "One hand passing a key to another open hand. Used for key handover, new homes, rentals and move-in day, car hire and check-in.",
+  "keywords": ["hand over keys", "key handover", "handing keys", "keys", "key", "new home", "move in", "moving in", "rental", "rent", "landlord", "tenant", "car hire", "car rental", "check in", "real estate", "property", "give keys", "handoff"]
+ },
+ "opening-jar": {
+  "context": "A jar with its lid twisting off and a curved arrow. Used for opening instructions, twist-off lids, food storage, kitchen tasks and grip strength.",
+  "keywords": ["open jar", "opening jar", "jar", "lid", "twist off", "twist", "unscrew", "open", "container", "kitchen", "food storage", "preserves", "jam jar", "grip", "screw cap", "instructions", "pantry"]
+ },
+ "climbing-tree": {
+  "context": "A person hugging the trunk of a leafy tree while climbing it. Used for outdoor play, childhood activities, adventure, nature and treehouse content.",
+  "keywords": ["climb tree", "climbing tree", "tree climbing", "tree", "climb", "outdoors", "outdoor play", "kids", "children", "adventure", "nature", "playground", "treehouse", "forest", "park", "summer", "arborist"]
+ },
+ "carrying-firewood": {
+  "context": "A person carrying a stack of round logs in both arms. Used for firewood and fireplace content, cabins and camping, heating and winter chores.",
+  "keywords": ["firewood", "carry firewood", "logs", "log", "wood", "carry", "carrying", "fireplace", "wood stove", "wood burner", "stove", "cabin", "camping", "heating", "winter", "chores", "lumber", "fuel", "fire"]
+ },
+ "giving-up-seat": {
+  "context": "A standing person gesturing toward an empty seat as an older person with a cane approaches. Used for priority seating, courtesy on public transport and kindness campaigns.",
+  "keywords": ["give up seat", "offer seat", "priority seat", "priority seating", "courtesy", "manners", "kindness", "elderly", "senior", "older person", "cane", "public transport", "bus", "train", "metro", "respect", "reserved seat", "accessibility"]
+ },
+ "beating-rug": {
+  "context": "A person swinging a carpet beater at a rug hanging over a line, with dust flying. Used for spring cleaning, household chores, dust removal and carpet care.",
+  "keywords": ["beat rug", "beating rug", "carpet beater", "rug", "carpet", "dust", "dusting", "spring cleaning", "cleaning", "chores", "housework", "clothesline", "washing line", "air out", "rug cleaning", "carpet cleaning", "household"]
+ },
+ "pumping-tire": {
+  "context": "A floor pump with its hose connected to a bicycle wheel. Used for tyre inflation, bike maintenance, repair shops and flat tyre help.",
+  "keywords": ["pump tire", "pump tyre", "pumping", "tire", "tyre", "floor pump", "bike pump", "bicycle pump", "inflate", "air", "air pressure", "flat tire", "flat tyre", "puncture", "bike maintenance", "bicycle repair", "wheel", "psi"]
+ },
+ "scraping-windshield": {
+  "context": "An ice scraper clearing a stripe across a frosted car windshield. Used for winter driving tips, frost warnings, car care and cold weather preparation.",
+  "keywords": ["ice scraper", "scrape ice", "scraping", "frost", "frosty", "frozen", "ice", "windshield", "windscreen", "de-ice", "deice", "defrost", "winter", "cold weather", "car", "winter driving", "snow", "car care"]
+ },
+ "sign-language-yes": {
+  "context": "An upright fist nodding forward at the wrist with motion arcs, as in the sign for yes. Used for sign language learning, accessibility content and agreement.",
+  "keywords": ["sign language", "yes", "asl", "signing", "deaf", "hard of hearing", "agree", "agreement", "nod", "confirm", "affirmative", "fist", "hand sign", "sign", "accessibility", "learn sign language", "gesture"]
+ },
+ "sign-language-no": {
+  "context": "A hand with the index and middle fingers closing onto the thumb, with a small arrow, as in the sign for no. Used for sign language learning, accessibility content and refusals.",
+  "keywords": ["sign language", "no", "asl", "signing", "deaf", "hard of hearing", "disagree", "refuse", "refusal", "decline", "negative", "snap", "hand sign", "sign", "accessibility", "learn sign language", "gesture"]
+ }
+}

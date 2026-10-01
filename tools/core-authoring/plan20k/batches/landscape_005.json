@@ -1,0 +1,440 @@
+[
+ {
+  "name": "moon-footprint",
+  "category": "landscape",
+  "draw": "Ribbed boot sole print pressed into dusty ground.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "light-pollution",
+  "category": "landscape",
+  "draw": "City skyline with a glowing dome over it and a few faded stars.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "landslide",
+  "category": "landscape",
+  "draw": "Hillside with a mass of rocks and soil sliding down and a slide scar above.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mudslide",
+  "category": "landscape",
+  "draw": "Wavy flowing mud mass pouring down a slope over a small house.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rockfall",
+  "category": "landscape",
+  "draw": "Rocks tumbling off a cliff face with motion lines toward a road.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "avalanche",
+  "category": "landscape",
+  "draw": "Snow mass cascading down a steep mountain slope in a billowing cloud.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "wildfire",
+  "category": "landscape",
+  "draw": "Row of pine trees with flames rising along a hillside.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "flash-flood",
+  "category": "landscape",
+  "draw": "Surging water wave rushing through a narrow canyon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "flooded-house",
+  "category": "landscape",
+  "draw": "House with the water level line up to its windows and wave marks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "flood-gauge",
+  "category": "landscape",
+  "draw": "Tall pole gauge with measurement ticks and a water level line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "drought",
+  "category": "landscape",
+  "draw": "Parched ground with a polygon crack pattern and a dead plant sprig.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "storm-surge",
+  "category": "landscape",
+  "draw": "Tall wall of sea water pushing onto a seawall with wind lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "blizzard",
+  "category": "landscape",
+  "draw": "Dense diagonal snow streaks blown by strong wind lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ice-storm",
+  "category": "landscape",
+  "draw": "Tree branch coated in ice with icicles and freezing rain drops.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "heat-dome",
+  "category": "landscape",
+  "draw": "Dome arc trapping sun rays over a flat ground line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lightning-strike-tree",
+  "category": "landscape",
+  "draw": "Tree split down the middle by a lightning bolt with sparks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "volcano-hazard-sign",
+  "category": "landscape",
+  "draw": "Triangular warning sign with an erupting volcano symbol.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tsunami-hazard-sign",
+  "category": "landscape",
+  "draw": "Diamond warning sign with a curling wave over a stick figure.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "earthquake-safe-zone",
+  "category": "landscape",
+  "draw": "Square sign with a person crouched under a table.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "evacuation-route",
+  "category": "landscape",
+  "draw": "Sign with a running figure following a curved arrow uphill.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "emergency-go-bag",
+  "category": "landscape",
+  "draw": "Backpack with a first aid cross and a flashlight strapped on.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sandbags",
+  "category": "landscape",
+  "draw": "Stack of plump grain-filled sacks in a wall pattern.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "levee",
+  "category": "landscape",
+  "draw": "Raised earth embankment separating a high river line from lower land.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "storm-shelter",
+  "category": "landscape",
+  "draw": "Ground-level cellar doors angled into the earth with a storm cloud above.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "liquefaction",
+  "category": "landscape",
+  "draw": "Building sinking into wavy ground with water lines rising around it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ground-subsidence",
+  "category": "landscape",
+  "draw": "Flat ground surface sagging into a shallow dip with arrows pointing down.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cyclone-eye",
+  "category": "landscape",
+  "draw": "Top view of a spiral storm with arms curling around a clear central eye.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "smog",
+  "category": "landscape",
+  "draw": "City skyline smothered by dense horizontal haze bands.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "acid-rain",
+  "category": "landscape",
+  "draw": "Cloud dropping rain on a wilting tree with bare branches.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sea-level-rise",
+  "category": "landscape",
+  "draw": "Coast with a rising water line arrow creeping up past a house base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "glacier-retreat",
+  "category": "landscape",
+  "draw": "Glacier tongue with a dashed old outline far beyond its smaller current edge.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "coral-bleaching",
+  "category": "landscape",
+  "draw": "Branching coral drawn in outline only beside a thermometer.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fly-agaric",
+  "category": "landscape",
+  "draw": "Dome-capped mushroom with white spots on the cap and a ring skirt on the stem.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "porcini",
+  "category": "landscape",
+  "draw": "Fat bulbous stem under a thick rounded cap.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "enoki",
+  "category": "landscape",
+  "draw": "Bundle of very thin long stems with tiny round caps.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "bracket-fungus",
+  "category": "landscape",
+  "draw": "Semicircular shelf fungi with concentric growth rings stacked on a tree trunk.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "shaggy-ink-cap",
+  "category": "landscape",
+  "draw": "Tall cylindrical shaggy scaled cap with a dripping darker edge.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "parasol-mushroom",
+  "category": "landscape",
+  "draw": "Tall thin stem with a wide flat scaly cap and a ring collar.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fairy-ring",
+  "category": "landscape",
+  "draw": "Circle of small mushrooms growing in a ring on grass.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mycelium",
+  "category": "landscape",
+  "draw": "Network of fine branching threads spreading under a small mushroom.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "spore-print",
+  "category": "landscape",
+  "draw": "Radiating line pattern of gills printed on paper beside a cap.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mushroom-gills",
+  "category": "landscape",
+  "draw": "Underside view of a cap with radiating gill lines around a stem.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "truffle",
+  "category": "landscape",
+  "draw": "Lumpy warty round tuber with a cut slice showing a marbled interior.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "coral-fungus",
+  "category": "landscape",
+  "draw": "Upright branching coral-like fungus with many blunt tips.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "earthstar-fungus",
+  "category": "landscape",
+  "draw": "Star of pointed rays splayed on the ground around a central round spore sac.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lichen",
+  "category": "landscape",
+  "draw": "Rock surface with round crusty patches and a leafy lobed growth.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mold-spores",
+  "category": "landscape",
+  "draw": "Fuzzy round colony with thread strands and tiny spore heads on stalks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "yeast-cells",
+  "category": "landscape",
+  "draw": "Cluster of oval cells with small buds attached.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mushroom-cluster",
+  "category": "landscape",
+  "draw": "Group of three mushrooms of different sizes growing together from one base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "toadstool-house",
+  "category": "landscape",
+  "draw": "Mushroom with a round door and a small window in its stem.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mushroom-log",
+  "category": "landscape",
+  "draw": "Fallen log with a row of small mushrooms growing along its top.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "death-cap",
+  "category": "landscape",
+  "draw": "Smooth domed cap with a skirt ring and a cup-like sac at the stem base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "jelly-fungus",
+  "category": "landscape",
+  "draw": "Wobbly ear-shaped fungus growing on a branch.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cordyceps",
+  "category": "landscape",
+  "draw": "Thin club-shaped stalks sprouting from a curled caterpillar shape.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "slime-mold",
+  "category": "landscape",
+  "draw": "Branching vein-like network spreading from a blob across a surface.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "topographic-map",
+  "category": "landscape",
+  "draw": "Folded map sheet with nested wavy contour lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "elevation-profile",
+  "category": "landscape",
+  "draw": "Line chart of a jagged elevation profile with a filled area under it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "trig-point",
+  "category": "landscape",
+  "draw": "Short tapered concrete survey pillar with a plate on top.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "altimeter",
+  "category": "landscape",
+  "draw": "Round gauge with a needle and a small mountain symbol on the dial.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "trail-blaze",
+  "category": "landscape",
+  "draw": "Tree trunk with a painted rectangular trail marker.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "hiking-trail",
+  "category": "landscape",
+  "draw": "Dashed winding path climbing over a hill to a peak.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "switchback-trail",
+  "category": "landscape",
+  "draw": "Zigzag path climbing up a steep slope.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "scenic-viewpoint",
+  "category": "landscape",
+  "draw": "Coin-operated viewing scope on a post facing a mountain outline.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "watershed",
+  "category": "landscape",
+  "draw": "Ridge line with rain arrows splitting and flowing down both sides.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "water-cycle",
+  "category": "landscape",
+  "draw": "Circular arrows linking a cloud, rain, a lake and evaporation lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "carbon-cycle",
+  "category": "landscape",
+  "draw": "Circular arrows linking a tree, a cloud and a factory chimney.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "latitude-lines",
+  "category": "landscape",
+  "draw": "Globe with evenly spaced horizontal parallel lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "arctic-circle",
+  "category": "landscape",
+  "draw": "Globe viewed at an angle with a dashed ring near the top pole.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "north-pole",
+  "category": "landscape",
+  "draw": "Top of a globe with a small striped pole marker and a ring around it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ice-core",
+  "category": "landscape",
+  "draw": "Long cylinder of ice with bubble dots and horizontal annual layers.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tree-rings",
+  "category": "landscape",
+  "draw": "Cut stump top with concentric growth rings and a crack line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "carbon-dating",
+  "category": "landscape",
+  "draw": "Fossil bone next to a small decay curve graph.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "martian-landscape",
+  "category": "landscape",
+  "draw": "Rocky desert with a distant crater rim and two small moons in the sky.",
+  "domain": "landscape-geology-sky"
+ }
+]

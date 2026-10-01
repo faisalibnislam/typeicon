@@ -1,0 +1,1603 @@
+{
+ "css-selector": {
+  "context": "Four selection corner brackets surrounding a hash sign. Stands for CSS selectors, id selectors and picking elements to style in web development tools.",
+  "keywords": [
+   "css",
+   "selector",
+   "selectors",
+   "hash",
+   "pound",
+   "octothorpe",
+   "id selector",
+   "class selector",
+   "query selector",
+   "element picker",
+   "inspect element",
+   "style rule",
+   "stylesheet",
+   "dom query",
+   "target element",
+   "select element",
+   "web styling",
+   "front end",
+   "web development"
+  ]
+ },
+ "responsive-design": {
+  "context": "A desktop monitor with a smaller phone beside it. Used for responsive layouts, mobile friendly pages, device previews and breakpoint settings.",
+  "keywords": [
+   "responsive",
+   "responsive layout",
+   "mobile friendly",
+   "mobile first",
+   "breakpoints",
+   "desktop and mobile",
+   "multi device",
+   "cross device",
+   "screen sizes",
+   "device preview",
+   "adaptive",
+   "fluid layout",
+   "viewport",
+   "front end",
+   "web design",
+   "ui design",
+   "adaptive layout"
+  ]
+ },
+ "media-query": {
+  "context": "A monitor screen with an at sign in the middle, the character that begins a CSS media rule. Used for breakpoint rules, screen width conditions and print or dark mode styles.",
+  "keywords": [
+   "media query",
+   "media queries",
+   "at media",
+   "at rule",
+   "css",
+   "breakpoint",
+   "screen width",
+   "min width",
+   "max width",
+   "print styles",
+   "dark mode query",
+   "prefers color scheme",
+   "responsive css",
+   "viewport rule",
+   "stylesheet condition",
+   "web styling",
+   "responsive"
+  ]
+ },
+ "flexbox": {
+  "context": "A box holding three equal blocks in a row with a double arrow beneath showing they stretch. Used for CSS flex layouts, flexible rows and alignment tools.",
+  "keywords": [
+   "flexbox",
+   "flex",
+   "flex layout",
+   "flex container",
+   "flex row",
+   "css flex",
+   "justify content",
+   "align items",
+   "flexible box",
+   "one dimensional layout",
+   "stretch",
+   "distribute space",
+   "row layout",
+   "front end",
+   "layout tool",
+   "web layout",
+   "css",
+   "row"
+  ]
+ },
+ "css-grid": {
+  "context": "A square divided into a grid with one cell spanning two columns. Used for CSS grid layouts, template areas, page grids and layout builders.",
+  "keywords": [
+   "css grid",
+   "grid layout",
+   "grid template",
+   "grid areas",
+   "columns and rows",
+   "span",
+   "two dimensional layout",
+   "page grid",
+   "layout",
+   "tracks",
+   "gap",
+   "front end",
+   "web layout",
+   "template",
+   "cells",
+   "tiles",
+   "columns",
+   "rows"
+  ]
+ },
+ "virtual-dom": {
+  "context": "A tree of nodes where the left branch is solid and the right branch is drawn as hollow ghost nodes. Used for virtual DOM diffing, component trees and UI reconciliation.",
+  "keywords": [
+   "virtual dom",
+   "vdom",
+   "dom tree",
+   "diffing",
+   "reconciliation",
+   "component tree",
+   "ui library",
+   "render tree",
+   "shadow tree",
+   "node tree",
+   "copy of dom",
+   "rendering",
+   "front end",
+   "framework",
+   "hierarchy",
+   "ghost nodes"
+  ]
+ },
+ "single-page-app": {
+  "context": "A browser window with a looping arrow in the page area. Used for single page applications, client side routing and pages that update without reloading.",
+  "keywords": [
+   "single page app",
+   "single page application",
+   "spa",
+   "client side routing",
+   "no reload",
+   "dynamic page",
+   "web app",
+   "app shell",
+   "refresh in place",
+   "reload",
+   "browser app",
+   "front end",
+   "router",
+   "javascript app",
+   "ajax"
+  ]
+ },
+ "progressive-web-app": {
+  "context": "A browser window with a plus badge at its corner. Used for installable web apps, add to home screen prompts and offline capable sites.",
+  "keywords": [
+   "progressive web app",
+   "pwa",
+   "installable web app",
+   "add to home screen",
+   "install app",
+   "offline support",
+   "web app manifest",
+   "app like site",
+   "mobile web",
+   "install prompt",
+   "web app",
+   "browser",
+   "plus badge",
+   "standalone app",
+   "installable",
+   "offline",
+   "install"
+  ]
+ },
+ "service-worker": {
+  "context": "A browser window with a gear in the page area. Used for service workers, background scripts, offline caching and push notification handlers.",
+  "keywords": [
+   "service worker",
+   "background script",
+   "offline cache",
+   "cache api",
+   "push notifications",
+   "offline first",
+   "proxy script",
+   "pwa",
+   "browser api",
+   "background sync",
+   "fetch handler",
+   "worker",
+   "gear",
+   "web platform",
+   "browser internals"
+  ]
+ },
+ "web-worker": {
+  "context": "A browser window with a hard hat in the page area. Used for web workers, background threads and moving heavy scripts off the main page thread.",
+  "keywords": [
+   "web worker",
+   "worker thread",
+   "background thread",
+   "off main thread",
+   "parallel script",
+   "multithreading",
+   "javascript worker",
+   "hard hat",
+   "builder",
+   "offload work",
+   "concurrency",
+   "browser api",
+   "performance",
+   "background task",
+   "dedicated worker",
+   "thread",
+   "parallel",
+   "worker",
+   "javascript"
+  ]
+ },
+ "server-side-rendering": {
+  "context": "A server unit sending a finished page window down an arrow to the browser. Used for server side rendering, prerendered HTML and pages built before delivery.",
+  "keywords": [
+   "server side rendering",
+   "ssr",
+   "server rendering",
+   "prerender",
+   "pre rendered html",
+   "html generation",
+   "universal rendering",
+   "render on server",
+   "send page",
+   "web server",
+   "seo friendly",
+   "first paint",
+   "hydration",
+   "back end",
+   "deliver page"
+  ]
+ },
+ "page-not-found": {
+  "context": "A browser window with a sad face in the page area. Used for 404 error pages, missing pages and dead link messages.",
+  "keywords": [
+   "404",
+   "not found",
+   "page not found",
+   "error page",
+   "missing page",
+   "broken link",
+   "dead link",
+   "http 404",
+   "lost page",
+   "no such page",
+   "sad face",
+   "web error",
+   "page missing",
+   "error screen",
+   "website error",
+   "http error"
+  ]
+ },
+ "server-error": {
+  "context": "A browser window with a lightning bolt in the page area. Used for 500 error pages, crashed servers and failed requests that are the server's fault.",
+  "keywords": [
+   "500",
+   "server error",
+   "internal server error",
+   "http 500",
+   "crash",
+   "server crash",
+   "outage",
+   "failure",
+   "service down",
+   "error page",
+   "lightning bolt",
+   "backend error",
+   "something went wrong",
+   "web error",
+   "down",
+   "server failure",
+   "http error"
+  ]
+ },
+ "access-forbidden": {
+  "context": "A browser window with a no entry circle in the page area. Used for 403 pages, blocked content and permission denied messages.",
+  "keywords": [
+   "403",
+   "forbidden",
+   "access forbidden",
+   "access denied",
+   "permission denied",
+   "blocked page",
+   "no entry",
+   "not allowed",
+   "restricted",
+   "unauthorized page",
+   "ban sign",
+   "http 403",
+   "error page",
+   "web error",
+   "no access",
+   "blocked",
+   "http error"
+  ]
+ },
+ "robots-txt": {
+  "context": "A document page with a small robot head on it. Used for robots.txt files, crawler rules and search engine access settings.",
+  "keywords": [
+   "robots txt",
+   "robots.txt",
+   "crawler rules",
+   "crawl rules",
+   "search engine bot",
+   "web crawler",
+   "seo file",
+   "disallow",
+   "allow list",
+   "indexing rules",
+   "site map companion",
+   "bot",
+   "robot file",
+   "web bot",
+   "seo",
+   "crawler",
+   "search engine"
+  ]
+ },
+ "favicon": {
+  "context": "A browser tab shape holding a small star. Used for favicons, tab icons and site branding settings.",
+  "keywords": [
+   "favicon",
+   "tab icon",
+   "site icon",
+   "browser tab",
+   "website icon",
+   "bookmark icon",
+   "page icon",
+   "shortcut icon",
+   "tab",
+   "star",
+   "site branding",
+   "small logo",
+   "web identity",
+   "header icon",
+   "tab title",
+   "website logo"
+  ]
+ },
+ "web-accessibility": {
+  "context": "A browser window with a small person with outstretched arms in the page area. Used for website accessibility checks, WCAG settings and inclusive web design.",
+  "keywords": [
+   "web accessibility",
+   "accessibility",
+   "a11y",
+   "accessible website",
+   "wcag",
+   "screen reader",
+   "inclusive design",
+   "accessibility audit",
+   "disability",
+   "assistive technology",
+   "access for all",
+   "accessible web",
+   "aria",
+   "contrast check",
+   "usability",
+   "inclusive web"
+  ]
+ },
+ "cors-policy": {
+  "context": "A globe with a small shield at its lower corner. Used for CORS settings, cross origin request rules and allowed origin lists.",
+  "keywords": [
+   "cors",
+   "cross origin",
+   "cross origin resource sharing",
+   "same origin policy",
+   "allowed origins",
+   "http headers",
+   "web security",
+   "api security",
+   "origin check",
+   "globe shield",
+   "request rules",
+   "browser security",
+   "access control header",
+   "domain whitelist",
+   "same origin"
+  ]
+ },
+ "url-shortener": {
+  "context": "A chain link squeezed by two arrows from above and below. Used for link shortening tools, compact URLs and redirect management.",
+  "keywords": [
+   "url shortener",
+   "short link",
+   "link shortener",
+   "shorten url",
+   "compress url",
+   "short url",
+   "tiny url",
+   "redirect",
+   "link management",
+   "vanity link",
+   "share link",
+   "chain link",
+   "squeeze",
+   "compact link",
+   "branded link"
+  ]
+ },
+ "web-scraper": {
+  "context": "A browser window with a spider in the page area. Used for web scraping, crawling and automated data collection from pages.",
+  "keywords": [
+   "web scraper",
+   "scraper",
+   "scraping",
+   "web crawler",
+   "crawler",
+   "spider",
+   "data extraction",
+   "harvesting",
+   "bot",
+   "collect data",
+   "parse pages",
+   "data mining",
+   "site crawl",
+   "extract content",
+   "automation",
+   "web harvesting"
+  ]
+ },
+ "headless-browser": {
+  "context": "A browser window with a crossed out eye in the page area. Used for headless browsers, automated testing and browsers that run without a visible screen.",
+  "keywords": [
+   "headless browser",
+   "headless",
+   "no ui",
+   "background browser",
+   "automation",
+   "browser testing",
+   "end to end testing",
+   "scripted browser",
+   "crossed out eye",
+   "hidden window",
+   "screenshot automation",
+   "test runner",
+   "ci browser",
+   "invisible browser",
+   "testing"
+  ]
+ },
+ "iframe-embed": {
+  "context": "A browser window with a smaller framed window inside. Used for iframes, embedded pages, widgets and third party content blocks.",
+  "keywords": [
+   "iframe",
+   "inline frame",
+   "embed",
+   "embedded page",
+   "embedded content",
+   "nested window",
+   "widget",
+   "third party embed",
+   "window in window",
+   "video embed",
+   "map embed",
+   "sandbox frame",
+   "frame",
+   "page within page"
+  ]
+ },
+ "neural-network": {
+  "context": "Three columns of nodes with lines joining each node to the nodes in the next column. Used for neural networks, deep learning, machine learning models and AI features.",
+  "keywords": [
+   "neural network",
+   "neural net",
+   "deep learning",
+   "layers",
+   "nodes",
+   "neurons",
+   "machine learning",
+   "ai",
+   "artificial intelligence",
+   "input hidden output",
+   "connections",
+   "weights",
+   "model architecture",
+   "network diagram",
+   "ann",
+   "learning model"
+  ]
+ },
+ "ai-agent": {
+  "context": "A robot head beside a short list of three lines. Used for AI agents, autonomous assistants and bots that carry out task lists.",
+  "keywords": [
+   "ai agent",
+   "agent",
+   "autonomous agent",
+   "assistant",
+   "bot",
+   "robot",
+   "task list",
+   "automation",
+   "workflow agent",
+   "copilot",
+   "virtual assistant",
+   "agentic",
+   "to do list",
+   "tool use",
+   "chatbot",
+   "automated tasks"
+  ]
+ },
+ "large-language-model": {
+  "context": "An open book with a sparkle above it. Used for large language models, text generators and AI writing features trained on books and web text.",
+  "keywords": [
+   "large language model",
+   "llm",
+   "language model",
+   "text generator",
+   "generative ai",
+   "chatbot",
+   "ai writing",
+   "foundation model",
+   "text model",
+   "book",
+   "sparkle",
+   "ai assistant",
+   "trained on text",
+   "natural language",
+   "ai model"
+  ]
+ },
+ "prompt-input": {
+  "context": "A text field with a cursor on the left and a sparkle send button on the right. Used for AI chat boxes, prompt bars and ask AI inputs.",
+  "keywords": [
+   "prompt",
+   "prompt input",
+   "prompt box",
+   "ai chat input",
+   "chat field",
+   "message box",
+   "text box",
+   "ask ai",
+   "ask anything",
+   "send prompt",
+   "sparkle button",
+   "command bar",
+   "chat input",
+   "cursor",
+   "ai search bar",
+   "text entry"
+  ]
+ },
+ "prompt-engineering": {
+  "context": "A text field with two lines of text and a wrench standing beside it. Used for prompt design, tuning instructions and AI prompt editors.",
+  "keywords": [
+   "prompt engineering",
+   "prompt design",
+   "prompting",
+   "prompt tuning",
+   "prompt editor",
+   "instructions",
+   "system prompt",
+   "wrench",
+   "tuning prompts",
+   "refine prompt",
+   "ai tooling",
+   "prompt library",
+   "improve prompt",
+   "ai settings"
+  ]
+ },
+ "vector-embedding": {
+  "context": "Three arrows fanning out from one origin point to three points in space. Used for embeddings, vector search and semantic similarity.",
+  "keywords": [
+   "vector embedding",
+   "embedding",
+   "embeddings",
+   "vectors",
+   "vector search",
+   "semantic search",
+   "latent space",
+   "similarity",
+   "word vectors",
+   "high dimensional",
+   "origin",
+   "coordinates",
+   "nearest neighbor",
+   "vector database",
+   "feature vector",
+   "semantic space"
+  ]
+ },
+ "attention-mechanism": {
+  "context": "Four small nodes along the bottom all linked to one larger node above. Used for attention in neural networks, focus weights and token relationships.",
+  "keywords": [
+   "attention",
+   "attention mechanism",
+   "self attention",
+   "focus",
+   "token weights",
+   "transformer",
+   "attend",
+   "highlight",
+   "relevance",
+   "weights",
+   "fan in",
+   "aggregate",
+   "query key value",
+   "neural attention",
+   "ai concept"
+  ]
+ },
+ "transformer-model": {
+  "context": "An eye above two stacked blocks. Used for transformer architectures, attention based layers and modern language model diagrams.",
+  "keywords": [
+   "transformer",
+   "transformer model",
+   "encoder decoder",
+   "self attention",
+   "llm architecture",
+   "layers",
+   "blocks",
+   "stack",
+   "eye",
+   "attention layers",
+   "deep learning",
+   "language model",
+   "model architecture",
+   "ai diagram"
+  ]
+ },
+ "generative-ai": {
+  "context": "A picture frame with a mountain, sun and a large sparkle at its corner. Used for generative AI image tools, AI art and create with AI actions.",
+  "keywords": [
+   "generative ai",
+   "gen ai",
+   "ai art",
+   "ai image",
+   "image generation",
+   "create with ai",
+   "sparkle",
+   "magic",
+   "synthetic media",
+   "ai generated",
+   "ai creation",
+   "picture",
+   "art generator",
+   "creative ai",
+   "ai tools"
+  ]
+ },
+ "text-to-image": {
+  "context": "A letter T with an arrow pointing to a small framed picture. Used for text to image generators and turning a written prompt into artwork.",
+  "keywords": [
+   "text to image",
+   "prompt to picture",
+   "image generator",
+   "ai art",
+   "diffusion",
+   "render image",
+   "letter t",
+   "arrow",
+   "picture",
+   "describe and generate",
+   "image synthesis",
+   "ai drawing",
+   "text prompt",
+   "create picture",
+   "render"
+  ]
+ },
+ "text-to-speech": {
+  "context": "A letter T with an arrow pointing to curved sound waves. Used for text to speech, read aloud and voice synthesis features.",
+  "keywords": [
+   "text to speech",
+   "tts",
+   "read aloud",
+   "voice synthesis",
+   "speak text",
+   "narration",
+   "audio from text",
+   "screen reader voice",
+   "speech output",
+   "sound waves",
+   "voice over",
+   "listen",
+   "spoken text",
+   "synthetic voice"
+  ]
+ },
+ "computer-vision": {
+  "context": "A processor chip with pins on every side and an eye in the middle. Used for computer vision, machine sight and image recognition hardware or features.",
+  "keywords": [
+   "computer vision",
+   "machine vision",
+   "image recognition",
+   "vision ai",
+   "eye",
+   "chip",
+   "sight",
+   "camera ai",
+   "visual recognition",
+   "image analysis",
+   "vision model",
+   "perception",
+   "sensor",
+   "ai eye",
+   "ocr",
+   "vision chip"
+  ]
+ },
+ "object-detection": {
+  "context": "Two bounding boxes each drawn around a different simple shape. Used for object detection, image annotation and recognition results.",
+  "keywords": [
+   "object detection",
+   "bounding box",
+   "bounding boxes",
+   "detector",
+   "image recognition",
+   "annotation",
+   "localization",
+   "vision",
+   "find objects",
+   "detect objects",
+   "labeled boxes",
+   "ai vision",
+   "boxes around objects",
+   "region proposal"
+  ]
+ },
+ "image-segmentation": {
+  "context": "A picture frame with a mountain skyline split into separate outlined regions. Used for image segmentation, masks and pixel level labeling.",
+  "keywords": [
+   "image segmentation",
+   "segmentation",
+   "semantic segmentation",
+   "regions",
+   "masks",
+   "pixel labels",
+   "mask",
+   "outline regions",
+   "vision",
+   "partition image",
+   "instance segmentation",
+   "cutout",
+   "mountain",
+   "ai vision",
+   "image regions"
+  ]
+ },
+ "pose-estimation": {
+  "context": "A stick figure made of joint dots joined by lines with bent arms and legs. Used for pose estimation, skeleton tracking and motion capture.",
+  "keywords": [
+   "pose estimation",
+   "skeleton tracking",
+   "body tracking",
+   "keypoints",
+   "joints",
+   "motion capture",
+   "mocap",
+   "human pose",
+   "stick figure",
+   "fitness tracking",
+   "body landmarks",
+   "movement analysis",
+   "vision",
+   "pose detection"
+  ]
+ },
+ "natural-language-processing": {
+  "context": "A speech bubble with a gear inside. Used for NLP, language processing tools and text analysis settings.",
+  "keywords": [
+   "nlp",
+   "natural language processing",
+   "language processing",
+   "text analysis",
+   "linguistics",
+   "chatbot",
+   "language ai",
+   "text mining",
+   "parsing",
+   "speech bubble",
+   "gear",
+   "language understanding",
+   "tokenization",
+   "text engine"
+  ]
+ },
+ "sentiment-analysis": {
+  "context": "A speech bubble holding a smiling face. Used for sentiment analysis, opinion mining and rating whether feedback is positive.",
+  "keywords": [
+   "sentiment",
+   "sentiment analysis",
+   "opinion mining",
+   "emotion detection",
+   "tone",
+   "mood",
+   "positive feedback",
+   "review analysis",
+   "customer feedback",
+   "smile",
+   "text mood",
+   "social listening",
+   "polarity",
+   "speech bubble",
+   "tone analysis",
+   "positive negative"
+  ]
+ },
+ "data-classification": {
+  "context": "A circle, square and triangle each above a matching open bin. Used for classification, sorting data into categories and labeled groups.",
+  "keywords": [
+   "classification",
+   "data classification",
+   "sorting",
+   "categories",
+   "sort data",
+   "bins",
+   "buckets",
+   "labels",
+   "supervised learning",
+   "classifier",
+   "group by type",
+   "categorize",
+   "shapes",
+   "sort into groups",
+   "sorting data"
+  ]
+ },
+ "data-clustering": {
+  "context": "Three rings each holding a small group of dots. Used for clustering, grouping similar items and unsupervised learning results.",
+  "keywords": [
+   "clustering",
+   "data clustering",
+   "clusters",
+   "k means",
+   "groups",
+   "grouping",
+   "segments",
+   "unsupervised learning",
+   "similar items",
+   "circles of dots",
+   "cohorts",
+   "grouped points",
+   "segmentation",
+   "pattern groups"
+  ]
+ },
+ "decision-tree": {
+  "context": "A diamond decision node splitting into two branches that end in round leaves. Used for decision trees, branching rules and classifier diagrams.",
+  "keywords": [
+   "decision tree",
+   "branching",
+   "split",
+   "classifier",
+   "if else",
+   "flowchart",
+   "rules",
+   "decision",
+   "tree model",
+   "leaves",
+   "yes no",
+   "machine learning",
+   "branch",
+   "condition",
+   "diagram"
+  ]
+ },
+ "random-forest": {
+  "context": "Three Y shaped branching trees side by side with leaf dots. Used for random forests, tree ensembles and bagged decision trees.",
+  "keywords": [
+   "random forest",
+   "ensemble",
+   "tree ensemble",
+   "bagging",
+   "decision trees",
+   "forest",
+   "many trees",
+   "machine learning",
+   "boosting",
+   "branches",
+   "voting",
+   "trees",
+   "model ensemble",
+   "leaves"
+  ]
+ },
+ "gradient-descent": {
+  "context": "A bowl shaped curve with balls rolling down one side. Used for gradient descent, optimization and finding the lowest point of a loss.",
+  "keywords": [
+   "gradient descent",
+   "optimization",
+   "optimiser",
+   "optimizer",
+   "minimum",
+   "learning rate",
+   "loss surface",
+   "descent",
+   "bowl",
+   "valley",
+   "training step",
+   "convergence",
+   "minimize",
+   "rolling ball",
+   "steps",
+   "training"
+  ]
+ },
+ "loss-curve": {
+  "context": "Axes with a curve that falls steeply and then levels off. Used for training loss charts, learning curves and convergence plots.",
+  "keywords": [
+   "loss curve",
+   "training loss",
+   "learning curve",
+   "convergence",
+   "error over time",
+   "epochs",
+   "decay curve",
+   "validation loss",
+   "plot",
+   "chart",
+   "training graph",
+   "decreasing curve",
+   "metrics",
+   "model training chart"
+  ]
+ },
+ "overfitting": {
+  "context": "A scatter of dots with a wiggly line passing through every dot. Used for overfitting warnings, noisy model fits and generalization problems.",
+  "keywords": [
+   "overfitting",
+   "overfit",
+   "noise fitting",
+   "variance",
+   "high variance",
+   "generalization",
+   "memorizing data",
+   "wiggly line",
+   "curve fit",
+   "model error",
+   "bias variance",
+   "scatter",
+   "regression problem",
+   "too complex"
+  ]
+ },
+ "training-data": {
+  "context": "A stack of data cylinders with an arrow pointing into a small brain. Used for training datasets, feeding examples to a model and data ingestion.",
+  "keywords": [
+   "training data",
+   "dataset",
+   "data set",
+   "learning examples",
+   "feed data",
+   "corpus",
+   "database to brain",
+   "training set",
+   "samples",
+   "data ingestion",
+   "machine learning",
+   "examples",
+   "input data",
+   "model input",
+   "data feed"
+  ]
+ },
+ "data-labeling": {
+  "context": "A picture frame with a mountain and a small tag hanging off its corner. Used for data labeling, annotation and tagging images for datasets.",
+  "keywords": [
+   "data labeling",
+   "data labelling",
+   "annotation",
+   "tagging",
+   "ground truth",
+   "image tags",
+   "label images",
+   "dataset labels",
+   "labeler",
+   "price tag",
+   "classify images",
+   "human in the loop",
+   "annotate",
+   "tagged picture",
+   "labeling",
+   "tagging data"
+  ]
+ },
+ "model-training": {
+  "context": "A brain above a partly filled progress bar. Used for model training progress, learning runs and fit jobs.",
+  "keywords": [
+   "model training",
+   "training",
+   "learning",
+   "epochs",
+   "fit model",
+   "progress",
+   "training run",
+   "brain",
+   "progress bar",
+   "machine learning",
+   "train",
+   "in progress",
+   "learning job",
+   "fitting"
+  ]
+ },
+ "model-inference": {
+  "context": "A brain with a check mark beside it. Used for model inference, predictions and a trained model returning an answer.",
+  "keywords": [
+   "inference",
+   "model inference",
+   "prediction",
+   "predict",
+   "model run",
+   "serving",
+   "forward pass",
+   "ai result",
+   "brain",
+   "check mark",
+   "run model",
+   "completed",
+   "trained model",
+   "answer"
+  ]
+ },
+ "fine-tuning": {
+  "context": "A brain beside a round tuning knob with a pointer. Used for fine tuning, model adaptation and adjusting a trained model.",
+  "keywords": [
+   "fine tuning",
+   "finetune",
+   "fine tune",
+   "adjust model",
+   "calibrate",
+   "tweak",
+   "knob",
+   "dial",
+   "model adaptation",
+   "customize model",
+   "adapter",
+   "brain",
+   "tuning",
+   "retrain"
+  ]
+ },
+ "reinforcement-learning": {
+  "context": "A small robot head with a looping arrow above it and a reward star. Used for reinforcement learning, reward based training and agent environment loops.",
+  "keywords": [
+   "reinforcement learning",
+   "reward",
+   "rewards",
+   "agent",
+   "environment",
+   "policy",
+   "trial and error",
+   "rl",
+   "learning loop",
+   "star reward",
+   "feedback loop",
+   "robot",
+   "game ai",
+   "incentive",
+   "cycle",
+   "agent environment"
+  ]
+ },
+ "convolution-kernel": {
+  "context": "A four by four grid with a block of cells highlighted at one corner. Used for convolution, filters and sliding window image processing.",
+  "keywords": [
+   "convolution",
+   "kernel",
+   "filter",
+   "cnn",
+   "sliding window",
+   "image processing",
+   "convolutional",
+   "grid",
+   "pixels",
+   "patch",
+   "stride",
+   "feature extraction",
+   "matrix",
+   "mask",
+   "receptive field"
+  ]
+ },
+ "feature-map": {
+  "context": "A grid in front of two offset grids behind it. Used for feature maps, channels and layered activations in a vision network.",
+  "keywords": [
+   "feature map",
+   "feature maps",
+   "channels",
+   "activation map",
+   "cnn layer",
+   "tensor slices",
+   "layers",
+   "stacked grids",
+   "depth",
+   "filters output",
+   "convolution output",
+   "layered grids",
+   "pages",
+   "deep learning"
+  ]
+ },
+ "confusion-matrix": {
+  "context": "A two by two grid with check marks in the two diagonal cells. Used for confusion matrices, classifier accuracy and evaluation reports.",
+  "keywords": [
+   "confusion matrix",
+   "true positive",
+   "false positive",
+   "true negative",
+   "false negative",
+   "classifier accuracy",
+   "evaluation",
+   "metrics",
+   "precision recall",
+   "scorecard",
+   "error matrix",
+   "accuracy",
+   "grid",
+   "model evaluation"
+  ]
+ },
+ "roc-curve": {
+  "context": "Axes with a bowed curve rising above a dashed diagonal line. Used for ROC curves, AUC charts and classifier performance plots.",
+  "keywords": [
+   "roc curve",
+   "roc",
+   "auc",
+   "receiver operating characteristic",
+   "true positive rate",
+   "false positive rate",
+   "classifier curve",
+   "evaluation",
+   "performance chart",
+   "threshold",
+   "diagnostic chart",
+   "dashed diagonal",
+   "metrics",
+   "plot",
+   "receiver operating"
+  ]
+ },
+ "hyperparameter": {
+  "context": "A small brain beside three slider controls with knobs at different positions. Used for hyperparameter tuning, training settings and model configuration.",
+  "keywords": [
+   "hyperparameter",
+   "hyperparameters",
+   "learning rate",
+   "batch size",
+   "settings",
+   "tuning",
+   "config",
+   "sliders",
+   "model settings",
+   "parameters",
+   "search space",
+   "controls",
+   "brain settings",
+   "training options"
+  ]
+ },
+ "model-weights": {
+  "context": "A kettlebell whose round body holds a tiny three node network. Used for model weights, checkpoints and downloadable trained parameters.",
+  "keywords": [
+   "model weights",
+   "weights",
+   "parameters",
+   "checkpoint",
+   "model file",
+   "heavy model",
+   "learned values",
+   "kettlebell",
+   "weight file",
+   "trained parameters",
+   "download model",
+   "large model",
+   "model size"
+  ]
+ },
+ "retrieval-augmented-generation": {
+  "context": "A document page, a magnifying glass below it and a sparkle above. Used for retrieval augmented generation, grounded answers and AI search over documents.",
+  "keywords": [
+   "rag",
+   "retrieval augmented generation",
+   "retrieval",
+   "grounded answers",
+   "search then generate",
+   "knowledge base",
+   "citations",
+   "document search",
+   "ai search",
+   "sources",
+   "context retrieval",
+   "document lookup",
+   "magnifier",
+   "sparkle",
+   "chat with documents"
+  ]
+ },
+ "context-window": {
+  "context": "A window frame holding two rows of small token squares. Used for context window size, token limits and prompt capacity meters.",
+  "keywords": [
+   "context window",
+   "context length",
+   "tokens",
+   "token limit",
+   "prompt length",
+   "memory limit",
+   "input size",
+   "llm limit",
+   "window",
+   "squares",
+   "capacity",
+   "max tokens",
+   "token budget",
+   "conversation memory"
+  ]
+ },
+ "ai-hallucination": {
+  "context": "A robot head with a swirl floating above it. Used for AI hallucination warnings, made up answers and unreliable model output notices.",
+  "keywords": [
+   "hallucination",
+   "ai hallucination",
+   "made up answer",
+   "confabulation",
+   "ai error",
+   "false output",
+   "dizzy",
+   "swirl",
+   "wrong answer",
+   "unreliable",
+   "fabricated",
+   "robot",
+   "model mistake",
+   "verify output"
+  ]
+ },
+ "synthetic-data": {
+  "context": "A table grid with a pair of sparkles at its corner. Used for synthetic data, generated test datasets and data augmentation.",
+  "keywords": [
+   "synthetic data",
+   "generated data",
+   "fake data",
+   "data augmentation",
+   "mock dataset",
+   "simulated rows",
+   "test data",
+   "sparkle",
+   "table",
+   "dummy data",
+   "artificial data",
+   "data generator",
+   "privacy safe data",
+   "rows"
+  ]
+ },
+ "anomaly-detection": {
+  "context": "A row of ordinary dots with one dot floating far above them inside a ring. Used for anomaly detection, outlier alerts and fraud monitoring.",
+  "keywords": [
+   "anomaly detection",
+   "anomaly",
+   "outlier",
+   "outlier detection",
+   "fraud detection",
+   "unusual value",
+   "abnormal",
+   "monitoring",
+   "alert",
+   "odd one out",
+   "deviation",
+   "spike",
+   "suspicious",
+   "circled point"
+  ]
+ },
+ "recommendation-engine": {
+  "context": "A gear with a star at its centre. Used for recommendation engines, suggestions and personalised feed settings.",
+  "keywords": [
+   "recommendation engine",
+   "recommender",
+   "recommendations",
+   "suggested for you",
+   "personalisation",
+   "personalization",
+   "taste",
+   "favourites",
+   "gear",
+   "star",
+   "for you",
+   "suggestion algorithm",
+   "curated feed",
+   "ranking",
+   "recommendation"
+  ]
+ },
+ "digital-twin": {
+  "context": "A solid cube beside an identical cube drawn with broken edges. Used for digital twins, virtual replicas and simulation models of real objects.",
+  "keywords": [
+   "digital twin",
+   "virtual copy",
+   "simulation",
+   "mirror model",
+   "iot",
+   "replica",
+   "duplicate",
+   "cube",
+   "dashed copy",
+   "virtual model",
+   "real and virtual",
+   "copy of object",
+   "simulated",
+   "shadow model"
+  ]
+ },
+ "humanoid-robot": {
+  "context": "A full body robot with a square head, boxy torso, two arms and two legs. Used for humanoid robots, android assistants and robotics sections.",
+  "keywords": [
+   "humanoid",
+   "humanoid robot",
+   "android",
+   "bipedal robot",
+   "robotics",
+   "robot body",
+   "robot",
+   "automaton",
+   "machine person",
+   "service robot",
+   "walking robot",
+   "full body robot",
+   "ai robot",
+   "mech"
+  ]
+ },
+ "multi-agent-system": {
+  "context": "Three small robot heads joined by lines in a triangle. Used for multi agent systems, agent swarms and collaborating AI workers.",
+  "keywords": [
+   "multi agent",
+   "multi agent system",
+   "agents",
+   "swarm",
+   "collaboration",
+   "orchestration",
+   "agent network",
+   "robots connected",
+   "team of bots",
+   "coordination",
+   "distributed ai",
+   "bot team",
+   "agent graph",
+   "workers"
+  ]
+ },
+ "ai-model": {
+  "context": "A cube with a small three node network drawn on its right face. Used for AI models, model catalogs and packaged machine learning models.",
+  "keywords": [
+   "ai model",
+   "model",
+   "neural model",
+   "3d model",
+   "network cube",
+   "machine learning",
+   "model catalog",
+   "model card",
+   "package",
+   "trained model",
+   "ml model",
+   "cube",
+   "nodes",
+   "deployable model"
+  ]
+ },
+ "neural-processing-unit": {
+  "context": "A processor chip with pins on every side and a small three node network in the middle. Used for NPUs, AI accelerators and on device inference hardware.",
+  "keywords": [
+   "npu",
+   "neural processing unit",
+   "ai accelerator",
+   "neural chip",
+   "tensor chip",
+   "ai processor",
+   "inference chip",
+   "chip",
+   "processor",
+   "hardware",
+   "on device ai",
+   "silicon",
+   "accelerator",
+   "pins"
+  ]
+ },
+ "gpu-graphics-card": {
+  "context": "A long graphics card with two round fans, a bracket at one end and a connector strip below. Used for GPUs, video cards and PC hardware specifications.",
+  "keywords": [
+   "gpu",
+   "graphics card",
+   "video card",
+   "graphics processor",
+   "pc hardware",
+   "render",
+   "pcie",
+   "fans",
+   "gaming pc",
+   "graphics",
+   "gpu compute",
+   "computer part",
+   "expansion card"
+  ]
+ },
+ "tensor-cube": {
+  "context": "A cube with a dividing line across each face. Used for tensors, multi dimensional arrays and data cube diagrams.",
+  "keywords": [
+   "tensor",
+   "tensors",
+   "3d array",
+   "multi dimensional",
+   "ndarray",
+   "data cube",
+   "deep learning",
+   "cube",
+   "matrix stack",
+   "rank three",
+   "array",
+   "dimensions",
+   "numbers block",
+   "linear algebra"
+  ]
+ },
+ "perceptron": {
+  "context": "Three input lines merging into one circle that has a single arrow leaving it. Used for perceptrons, single neurons and neural network basics.",
+  "keywords": [
+   "perceptron",
+   "single neuron",
+   "inputs and output",
+   "weighted sum",
+   "artificial neuron",
+   "ai basics",
+   "neuron",
+   "inputs",
+   "output",
+   "node",
+   "circle",
+   "linear classifier",
+   "threshold unit",
+   "learning basics"
+  ]
+ },
+ "activation-function": {
+  "context": "Axes with an S shaped curve that flattens at both ends. Used for activation functions, sigmoid curves and neuron output charts.",
+  "keywords": [
+   "activation function",
+   "sigmoid",
+   "nonlinearity",
+   "relu",
+   "neuron output",
+   "curve",
+   "s curve",
+   "logistic",
+   "squash",
+   "saturation",
+   "plot",
+   "chart",
+   "tanh",
+   "deep learning",
+   "relu style"
+  ]
+ },
+ "chain-of-thought": {
+  "context": "Two speech bubbles with an arrow stepping from the first down to the second. Used for chain of thought, step by step reasoning and AI thinking traces.",
+  "keywords": [
+   "chain of thought",
+   "reasoning",
+   "reasoning steps",
+   "step by step",
+   "thinking",
+   "llm reasoning",
+   "intermediate steps",
+   "thought process",
+   "think aloud",
+   "bubbles",
+   "flow of ideas",
+   "cot",
+   "logic steps",
+   "show work"
+  ]
+ },
+ "ai-safety": {
+  "context": "A shield with a sparkle in the middle. Used for AI safety, guardrails and trust and protection settings for AI features.",
+  "keywords": [
+   "ai safety",
+   "alignment",
+   "guardrails",
+   "responsible ai",
+   "trust",
+   "protection",
+   "shield",
+   "sparkle",
+   "safe ai",
+   "content filter",
+   "moderation",
+   "secure ai",
+   "risk",
+   "policy"
+  ]
+ },
+ "motherboard": {
+  "context": "A square circuit board with a processor socket, memory slots and an expansion slot. Used for motherboards, PC components and hardware specifications.",
+  "keywords": [
+   "motherboard",
+   "mainboard",
+   "pc board",
+   "circuit board",
+   "computer hardware",
+   "pcb",
+   "cpu socket",
+   "ram slots",
+   "expansion slot",
+   "pc parts",
+   "system board",
+   "computer part",
+   "desktop build",
+   "board"
+  ]
+ },
+ "cpu-cooler": {
+  "context": "A square heat sink block with a round fan on its face and a screw in each corner. Used for CPU coolers, PC cooling and thermal management.",
+  "keywords": [
+   "cpu cooler",
+   "fan",
+   "cooling",
+   "pc cooling",
+   "air cooler",
+   "thermal",
+   "heat",
+   "heatsink fan",
+   "overheating",
+   "processor cooler",
+   "pc build",
+   "fan speed",
+   "cooler",
+   "screws"
+  ]
+ },
+ "heat-sink": {
+  "context": "A metal base with tall parallel fins rising from its top. Used for heat sinks, cooling parts and thermal design.",
+  "keywords": [
+   "heatsink",
+   "heat sink",
+   "fins",
+   "cooling",
+   "radiator",
+   "pc part",
+   "thermal",
+   "heat dissipation",
+   "aluminium fins",
+   "aluminum",
+   "cooler",
+   "passive cooling",
+   "electronics cooling",
+   "heat spreader"
+  ]
+ },
+ "thermal-paste": {
+  "context": "A syringe pushing a dab of paste onto a flat chip surface. Used for thermal paste, thermal compound and PC building guides.",
+  "keywords": [
+   "thermal paste",
+   "thermal compound",
+   "cpu paste",
+   "heat transfer",
+   "pc building",
+   "syringe",
+   "thermal grease",
+   "apply paste",
+   "compound",
+   "chip",
+   "dab",
+   "cooling",
+   "assembly",
+   "computer repair"
+  ]
+ },
+ "power-supply-unit": {
+  "context": "A boxy power supply with a round fan grille on its face and two cables leaving the side. Used for PC power supplies, wattage specs and hardware builds.",
+  "keywords": [
+   "psu",
+   "power supply",
+   "power supply unit",
+   "pc power",
+   "atx",
+   "computer hardware",
+   "cables",
+   "wattage",
+   "pc build",
+   "fan grille",
+   "power source",
+   "modular psu",
+   "computer part",
+   "power cables"
+  ]
+ }
+}

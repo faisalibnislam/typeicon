@@ -1,0 +1,482 @@
+[
+ {
+  "name": "css-selector",
+  "category": "tech",
+  "draw": "Hash sign pointing into a dashed box.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "responsive-design",
+  "category": "tech",
+  "draw": "Desktop monitor, tablet and phone overlapping in size order.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "media-query",
+  "category": "tech",
+  "draw": "Phone and monitor with an at sign between them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "flexbox",
+  "category": "tech",
+  "draw": "Container box with three flexible boxes in a row and double arrows.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "css-grid",
+  "category": "tech",
+  "draw": "Box divided into a three by three grid with one cell spanning two columns.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "virtual-dom",
+  "category": "tech",
+  "draw": "Dashed tree of nodes behind a solid tree of nodes.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "single-page-app",
+  "category": "tech",
+  "draw": "Browser window with one page and a looping arrow inside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "progressive-web-app",
+  "category": "tech",
+  "draw": "Phone and browser window merged with a download plus badge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "service-worker",
+  "category": "tech",
+  "draw": "Gear inside a browser window outline.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "web-worker",
+  "category": "tech",
+  "draw": "Browser window with a small hard hat in the corner.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "server-side-rendering",
+  "category": "tech",
+  "draw": "Server box emitting a finished browser page.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "page-not-found",
+  "category": "tech",
+  "draw": "Browser window with a sad face and the digits 404.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "server-error",
+  "category": "tech",
+  "draw": "Browser window with a broken server and the digits 500.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "access-forbidden",
+  "category": "tech",
+  "draw": "Browser window with a raised hand stop sign.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "robots-txt",
+  "category": "tech",
+  "draw": "Document page with a small robot head on it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "favicon",
+  "category": "tech",
+  "draw": "Browser tab with a small star inside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "web-accessibility",
+  "category": "tech",
+  "draw": "Browser window with a person accessibility figure.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "cors-policy",
+  "category": "tech",
+  "draw": "Two globes with a shield between them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "url-shortener",
+  "category": "tech",
+  "draw": "Link chain with inward arrows compressing it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "web-scraper",
+  "category": "tech",
+  "draw": "Browser page with a spatula scraping lines off it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "headless-browser",
+  "category": "tech",
+  "draw": "Browser window with no title bar and a gear in its center.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "iframe-embed",
+  "category": "tech",
+  "draw": "Browser window containing a smaller window with angle brackets.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "neural-network",
+  "category": "tech",
+  "draw": "Three columns of circles fully connected by lines between the columns.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ai-agent",
+  "category": "tech",
+  "draw": "Robot head with a small checklist beside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "large-language-model",
+  "category": "tech",
+  "draw": "Stack of book pages with a sparkle above them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "prompt-input",
+  "category": "tech",
+  "draw": "Text field with a cursor and a sparkle send button.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "prompt-engineering",
+  "category": "tech",
+  "draw": "Text field with a wrench beside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "vector-embedding",
+  "category": "tech",
+  "draw": "Point cloud with arrows from the origin to three points.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "attention-mechanism",
+  "category": "tech",
+  "draw": "Row of dots with arcs connecting every dot to one highlighted dot.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "transformer-model",
+  "category": "tech",
+  "draw": "Two stacked blocks with arrows between them and a small eye on top.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "generative-ai",
+  "category": "tech",
+  "draw": "Magic wand drawing a sparkle over an image frame.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "text-to-image",
+  "category": "tech",
+  "draw": "Letter T with an arrow to a small mountain image frame.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "text-to-speech",
+  "category": "tech",
+  "draw": "Letter T with an arrow to sound waves.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "computer-vision",
+  "category": "tech",
+  "draw": "Eye inside a chip outline with pins.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "object-detection",
+  "category": "tech",
+  "draw": "Two dashed bounding boxes around simple shapes, each with a small label tab.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "image-segmentation",
+  "category": "tech",
+  "draw": "Image frame with a mountain divided into outlined regions.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "pose-estimation",
+  "category": "tech",
+  "draw": "Stick figure of joints drawn as dots connected by lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "natural-language-processing",
+  "category": "tech",
+  "draw": "Speech bubble with a gear inside.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sentiment-analysis",
+  "category": "tech",
+  "draw": "Speech bubble with a smile and a small gauge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-classification",
+  "category": "tech",
+  "draw": "Three different shapes dropping into three matching bins.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-clustering",
+  "category": "tech",
+  "draw": "Three groups of dots, each circled.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "decision-tree",
+  "category": "tech",
+  "draw": "Diamond node splitting into two branches that end in leaf dots.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "random-forest",
+  "category": "tech",
+  "draw": "Three small trees made of nodes side by side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "gradient-descent",
+  "category": "tech",
+  "draw": "Curved bowl line with a ball stepping down to the bottom.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "loss-curve",
+  "category": "tech",
+  "draw": "Axis with a curve dropping steeply then flattening out.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "overfitting",
+  "category": "tech",
+  "draw": "Scatter dots with a wiggly line passing through every dot.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "training-data",
+  "category": "tech",
+  "draw": "Stack of data cylinders feeding an arrow into a brain.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-labeling",
+  "category": "tech",
+  "draw": "Image frame with a tag hanging from its corner.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "model-training",
+  "category": "tech",
+  "draw": "Brain above a progress bar with a small dumbbell.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "model-inference",
+  "category": "tech",
+  "draw": "Brain with an arrow in and an arrow out producing a check.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "fine-tuning",
+  "category": "tech",
+  "draw": "Brain with a tuning knob beside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "reinforcement-learning",
+  "category": "tech",
+  "draw": "Robot head with a looping arrow and a star reward.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "convolution-kernel",
+  "category": "tech",
+  "draw": "Small three by three grid sliding over a larger grid.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "feature-map",
+  "category": "tech",
+  "draw": "Stack of three offset grids.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "confusion-matrix",
+  "category": "tech",
+  "draw": "Two by two grid with a check in the two diagonal cells.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "roc-curve",
+  "category": "tech",
+  "draw": "Square axis with a bowed curve above the diagonal line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hyperparameter",
+  "category": "tech",
+  "draw": "Three slider controls beside a small brain.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "model-weights",
+  "category": "tech",
+  "draw": "Kettlebell with a small node network on it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "retrieval-augmented-generation",
+  "category": "tech",
+  "draw": "Magnifier over a document feeding into a sparkle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "context-window",
+  "category": "tech",
+  "draw": "Window frame containing a row of token squares.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ai-hallucination",
+  "category": "tech",
+  "draw": "Robot head with a swirl above it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "synthetic-data",
+  "category": "tech",
+  "draw": "Table grid with a magic wand over it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "anomaly-detection",
+  "category": "tech",
+  "draw": "Line of dots with one far off dot circled.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "recommendation-engine",
+  "category": "tech",
+  "draw": "Gear with three small thumbs up cards around it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "digital-twin",
+  "category": "tech",
+  "draw": "Solid machine outline beside an identical dashed outline.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "humanoid-robot",
+  "category": "tech",
+  "draw": "Full body robot with arms, legs and a round head.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "multi-agent-system",
+  "category": "tech",
+  "draw": "Three small robot heads connected in a triangle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ai-model",
+  "category": "tech",
+  "draw": "Cube with a neural network pattern on one face.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "neural-processing-unit",
+  "category": "tech",
+  "draw": "Chip with a small neural network in its center.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "gpu-graphics-card",
+  "category": "tech",
+  "draw": "Long card with two round fans and a bracket on one end.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "tensor-cube",
+  "category": "tech",
+  "draw": "Cube with each face divided into a grid of cells.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "perceptron",
+  "category": "tech",
+  "draw": "Three input lines merging into one circle with one output line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "activation-function",
+  "category": "tech",
+  "draw": "Axis with an S shaped curve.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "chain-of-thought",
+  "category": "tech",
+  "draw": "Speech bubbles linked in a chain by small links.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ai-safety",
+  "category": "tech",
+  "draw": "Shield with a sparkle inside.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "motherboard",
+  "category": "tech",
+  "draw": "Square board with a chip socket, expansion slots and trace lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "cpu-cooler",
+  "category": "tech",
+  "draw": "Square heat sink with a round fan on its face.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "heat-sink",
+  "category": "tech",
+  "draw": "Block with tall parallel fins rising from its top.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "thermal-paste",
+  "category": "tech",
+  "draw": "Small syringe tube squeezing a paste dot onto a chip.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "power-supply-unit",
+  "category": "tech",
+  "draw": "Box with a fan grille on its side and a bundle of cables.",
+  "domain": "dev-cloud-ai"
+ }
+]

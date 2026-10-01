@@ -1,0 +1,482 @@
+[
+ {
+  "name": "birch-tree",
+  "category": "plants",
+  "draw": "Slender upright trunk marked with short horizontal dark bands and a small airy oval crown.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "weeping-willow",
+  "category": "plants",
+  "draw": "Rounded crown whose long thin branches hang straight down to the ground like a curtain around a short trunk.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "cypress-tree",
+  "category": "plants",
+  "draw": "Tall narrow flame-shaped evergreen with a pointed tip and a very short trunk.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "lombardy-poplar",
+  "category": "plants",
+  "draw": "Very tall thin columnar tree, crown like a narrow upright capsule on a short trunk, several times taller than wide.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "baobab-tree",
+  "category": "plants",
+  "draw": "Massive bottle-shaped swollen trunk topped by short stubby bare branches that look like roots.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "acacia-tree",
+  "category": "plants",
+  "draw": "Savanna tree with a wide flat table-top crown on a thin trunk that forks into a V below the crown.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "joshua-tree",
+  "category": "plants",
+  "draw": "Shaggy trunk splitting into several crooked arms, each ending in a spiky round tuft of leaves.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "giant-sequoia",
+  "category": "plants",
+  "draw": "Very thick straight trunk with ridged bark rising to a small conical crown high above.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "cedar-tree",
+  "category": "plants",
+  "draw": "Wide conifer made of three flat horizontal tiers of foliage stacked on a straight trunk.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "monkey-puzzle-tree",
+  "category": "plants",
+  "draw": "Tall trunk with a domed crown of upward curving rope-like branches covered in tiny scale marks.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "dragon-blood-tree",
+  "category": "plants",
+  "draw": "Dense umbrella-shaped crown like an upturned mushroom cap on a tight fan of branches from one trunk.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "banyan-tree",
+  "category": "plants",
+  "draw": "Broad spreading crown with many thin aerial roots dropping from the branches to the ground like extra trunks.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "mangrove-tree",
+  "category": "plants",
+  "draw": "Bushy crown on a trunk that stands above a wavy water line on arched stilt roots.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "bonsai-tree",
+  "category": "plants",
+  "draw": "Miniature tree with a curved twisting trunk and flat cloud-like foliage pads in a shallow rectangular tray.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "olive-tree",
+  "category": "plants",
+  "draw": "Short gnarled trunk twisted and split into two, supporting a loose irregular crown of small leaves.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "elm-tree",
+  "category": "plants",
+  "draw": "Vase-shaped tree whose branches fan upward and outward from the trunk into a wide rounded top.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "fan-palm",
+  "category": "plants",
+  "draw": "Straight trunk topped by several round fan-shaped leaves with pleated radiating ribs.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "tree-fern",
+  "category": "plants",
+  "draw": "Thin shaggy trunk crowned by long arching fern fronds with fine side leaflets.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "travelers-palm",
+  "category": "plants",
+  "draw": "Flat fan of long paddle leaves spread in one plane like a peacock tail on a short trunk.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "cherry-blossom-tree",
+  "category": "plants",
+  "draw": "Rounded tree crown made of clustered small five-petal blossoms with a few petals drifting off.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "kapok-tree",
+  "category": "plants",
+  "draw": "Tall trunk with a flat crown and huge flat plank-like buttress roots flaring out at its base.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "bare-tree",
+  "category": "plants",
+  "draw": "Leafless winter tree with a trunk dividing into symmetrical forking branches and twigs.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "dead-tree",
+  "category": "plants",
+  "draw": "Leaning cracked trunk with a few broken jagged branch stubs and no leaves.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "autumn-tree",
+  "category": "plants",
+  "draw": "Round crown tree with several loose leaves falling from it toward a small leaf pile at the base.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "snowy-pine",
+  "category": "plants",
+  "draw": "Conical pine tree with rounded caps of snow resting on each tier of branches.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "tree-stump",
+  "category": "plants",
+  "draw": "Short cut-off trunk with a flat top showing growth rings and roots spreading at the base.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "tree-hollow",
+  "category": "plants",
+  "draw": "Thick trunk section with a dark oval hole partway up and a branch stub above it.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "tree-roots",
+  "category": "plants",
+  "draw": "Tree with a small crown above a ground line and a large spreading root system drawn below it.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "tree-of-life",
+  "category": "plants",
+  "draw": "Circle framing a round-crowned tree whose branches above mirror its roots below and both touch the circle.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "tree-planting",
+  "category": "plants",
+  "draw": "Hand lowering a small sapling with a root ball into a hole in a mound of soil.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "deforestation",
+  "category": "plants",
+  "draw": "Row of cut tree stumps with one standing tree beside them.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "bush",
+  "category": "plants",
+  "draw": "Low rounded cloud-shaped shrub with no visible trunk sitting on a ground line.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "hedge",
+  "category": "plants",
+  "draw": "Long box-shaped clipped shrub with flat top and straight sides on a ground line.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "topiary",
+  "category": "plants",
+  "draw": "Shrub clipped into a perfect ball on a bare stem planted in a square pot.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "kadomatsu",
+  "category": "plants",
+  "draw": "Japanese New Year arrangement of three bamboo stalks cut at an angle, backed by pine sprigs and tied at the base.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "oak-leaf",
+  "category": "plants",
+  "draw": "Single leaf with deep rounded wavy lobes on both sides and a short stem.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "ginkgo-leaf",
+  "category": "plants",
+  "draw": "Fan-shaped leaf with a notch in the middle of its curved top edge and a thin stalk.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "fern-frond",
+  "category": "plants",
+  "draw": "Arching fern frond with a central stem and many small paired leaflets tapering to a point.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "palm-frond",
+  "category": "plants",
+  "draw": "Long arching palm leaf with a central rib and many narrow leaflets hanging from both sides.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "monstera-leaf",
+  "category": "plants",
+  "draw": "Large heart-shaped leaf with deep side splits and oval holes between the veins.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "lily-pad",
+  "category": "plants",
+  "draw": "Round floating leaf with a single V notch cut to the center, resting on a wavy water line.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "bodhi-leaf",
+  "category": "plants",
+  "draw": "Heart-shaped leaf with a long narrow drip tip and fine veins, the sacred fig leaf.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "horse-chestnut-leaf",
+  "category": "plants",
+  "draw": "Palmate leaf of seven long oval leaflets radiating from one point on a stalk, like a hand.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "eucalyptus-leaf",
+  "category": "plants",
+  "draw": "Long narrow sickle-curved leaf with a pointed tip hanging from a short stem.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "tulip-tree-leaf",
+  "category": "plants",
+  "draw": "Four-lobed leaf with a squared-off notched tip, shaped like a tulip outline.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "sassafras-leaf",
+  "category": "plants",
+  "draw": "Mitten-shaped leaf with one rounded thumb lobe on the side.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "sweetgum-leaf",
+  "category": "plants",
+  "draw": "Five-pointed star-shaped leaf with smooth pointed lobes on a long stalk.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "japanese-maple-leaf",
+  "category": "plants",
+  "draw": "Leaf with seven slender deeply cut pointed lobes spread like a delicate hand.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "linden-leaf",
+  "category": "plants",
+  "draw": "Lopsided heart-shaped leaf with a finely toothed edge and a short pointed tip.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "chestnut-leaf",
+  "category": "plants",
+  "draw": "Long narrow leaf with a strongly saw-toothed edge and straight parallel side veins.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "ash-leaf",
+  "category": "plants",
+  "draw": "Compound leaf made of a central stalk with pairs of oval leaflets and one leaflet at the tip.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "pine-needles",
+  "category": "plants",
+  "draw": "Small bundle of long straight needles joined at the base by a short sheath.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "pine-branch",
+  "category": "plants",
+  "draw": "Evergreen bough with a woody stem and dense short needles bristling along both sides.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "olive-branch",
+  "category": "plants",
+  "draw": "Curved twig with pairs of narrow pointed leaves and two small oval olives.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "laurel-wreath",
+  "category": "plants",
+  "draw": "Open circle of two curved branches of paired oval leaves meeting at the bottom.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leafy-twig",
+  "category": "plants",
+  "draw": "Short woody twig with three alternating oval leaves and a small bud at the tip.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "tree-branch",
+  "category": "plants",
+  "draw": "Thick branch that splits into two smaller limbs each carrying a few leaves.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "twig",
+  "category": "plants",
+  "draw": "Bare forked twig with small pointed buds along its sides and at its tips.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leaf-skeleton",
+  "category": "plants",
+  "draw": "Leaf outline filled only with a fine network of veins branching from the midrib.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leaf-pile",
+  "category": "plants",
+  "draw": "Small heap of overlapping fallen leaves of mixed shapes on the ground.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "falling-leaves",
+  "category": "plants",
+  "draw": "Two leaves drifting down at angles with short curved motion lines behind them.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leaf-dewdrop",
+  "category": "plants",
+  "draw": "Leaf with a single round water drop resting on its surface near the tip.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "frosted-leaf",
+  "category": "plants",
+  "draw": "Leaf with a jagged white frost edge and a small snowflake on its surface.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leaf-spot",
+  "category": "plants",
+  "draw": "Leaf covered with several round disease spots, each with a ring around it.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "variegated-leaf",
+  "category": "plants",
+  "draw": "Oval leaf split along its midrib into a solid half and an outlined half with a wavy border.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leaf-bud",
+  "category": "plants",
+  "draw": "Pointed closed bud with overlapping scales at the tip of a short twig.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "lily",
+  "category": "plants",
+  "draw": "Trumpet flower with six pointed curling petals open wide and long stamens sticking out.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "orchid",
+  "category": "plants",
+  "draw": "Flower with two broad round side petals, three narrow sepals and a frilled lip at the bottom, on an arching stem.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "slipper-orchid",
+  "category": "plants",
+  "draw": "Orchid with a rounded pouch-shaped lip at the bottom, one tall top sepal and two twisted side petals.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "hibiscus",
+  "category": "plants",
+  "draw": "Large five-petal flower with wide overlapping petals and a long stamen column projecting from the center.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "cherry-blossom",
+  "category": "plants",
+  "draw": "Five-petal blossom with a small notch at the tip of each round petal and a dotted center.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "blossom-branch",
+  "category": "plants",
+  "draw": "Thin crooked branch dotted with several small round blossoms and buds.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "dandelion",
+  "category": "plants",
+  "draw": "Round fluffy seed head on a thin stem, made of many radiating fine lines with a few seeds blowing away.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "dandelion-seed",
+  "category": "plants",
+  "draw": "Single seed with a thin stalk topped by a radiating umbrella of fine hairs.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "poppy",
+  "category": "plants",
+  "draw": "Cup of four broad crinkled petals around a dark center with a ring of stamens, on a thin hairy stem.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "iris-flower",
+  "category": "plants",
+  "draw": "Flower with three petals standing upright and three falling petals curving downward, on a tall stem.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "daffodil",
+  "category": "plants",
+  "draw": "Flower with a ring of six flat pointed petals and a long frilled trumpet in the center, seen from the side.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "bluebell",
+  "category": "plants",
+  "draw": "Arching stem with a row of small hanging bell flowers with curled-back tips, all along one side.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "lily-of-the-valley",
+  "category": "plants",
+  "draw": "Curved stem with a line of tiny round bell flowers beside one broad upright leaf.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "snowdrop",
+  "category": "plants",
+  "draw": "Single drooping white flower with three long outer petals hanging from a bent stem between two narrow leaves.",
+  "domain": "plants-trees-flowers"
+ }
+]

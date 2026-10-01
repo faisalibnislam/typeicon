@@ -1,0 +1,482 @@
+[
+ {
+  "name": "orphan-page",
+  "category": "web",
+  "draw": "Small sitemap tree of connected boxes with one page box floating alone off to the side.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "vote-arrows",
+  "category": "web",
+  "draw": "Up chevron above a number and a down chevron below it, stacked in a narrow column.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "subscribe-button",
+  "category": "web",
+  "draw": "Rounded rectangle button with a bell on its left and a short text line.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "ban-hammer",
+  "category": "web",
+  "draw": "Large hammer striking down on a round user avatar.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "flame-war",
+  "category": "web",
+  "draw": "Two speech bubbles facing each other with flames rising between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "lurker",
+  "category": "web",
+  "draw": "Pair of eyes peeking over the top edge of a browser window.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "user-generated-content",
+  "category": "web",
+  "draw": "Browser page with three small person avatars each sending an arrow up into a shared content block.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "social-proof-notification",
+  "category": "web",
+  "draw": "Small rounded toast card in a page corner with a round avatar and two short text lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "exit-intent-popup",
+  "category": "web",
+  "draw": "Arrow cursor moving up out of the top of a browser window while a modal pops up in the center.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "newsletter-popup",
+  "category": "web",
+  "draw": "Modal box over a page with an envelope on top, an input line and a button.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "form-abandonment",
+  "category": "web",
+  "draw": "Half filled form with a small figure walking away from it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "cart-drawer",
+  "category": "web",
+  "draw": "Browser window with a panel sliding in from the right side showing a small shopping cart and item lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "promo-code-field",
+  "category": "web",
+  "draw": "Input field with a small coupon ticket on its left and an apply button on its right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "abandoned-cart",
+  "category": "web",
+  "draw": "Shopping cart standing alone with a small cobweb on its handle.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "custom-domain",
+  "category": "web",
+  "draw": "Globe connected by a chain link to a browser address bar above it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "dns-propagation",
+  "category": "web",
+  "draw": "Globe with concentric ripple rings spreading out from one point on its surface.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "dns-record",
+  "category": "web",
+  "draw": "Table of three rows, each with a short type label box on the left and a longer value line on the right, under a globe.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "subdomain",
+  "category": "web",
+  "draw": "Large globe with a branch line leading down to two smaller globes.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "top-level-domain",
+  "category": "web",
+  "draw": "Tag shape with a bold dot followed by three short letters line.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "whois-record",
+  "category": "web",
+  "draw": "Globe with an ID card in front of its lower half showing a head silhouette and lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "domain-for-sale",
+  "category": "web",
+  "draw": "Globe with a price tag hanging from its top.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "parked-domain",
+  "category": "web",
+  "draw": "Globe with a square parking sign letter P standing beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "domain-transfer",
+  "category": "web",
+  "draw": "Two globes side by side with an arrow carrying a small tag from the left one to the right one.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "localhost",
+  "category": "web",
+  "draw": "Laptop with a curved arrow leaving the screen and looping back into it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "shared-hosting",
+  "category": "web",
+  "draw": "Single server box with three small house outlines sitting on top of it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "virtual-private-server",
+  "category": "web",
+  "draw": "Server box divided into three separate compartments by dashed walls, one compartment highlighted.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "hosting-control-panel",
+  "category": "web",
+  "draw": "Browser window filled with a grid of six small squares, each with a simple gauge or icon mark.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "ftp-transfer",
+  "category": "web",
+  "draw": "Folder and server side by side with two opposite arrows between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "http-header",
+  "category": "web",
+  "draw": "Envelope shaped message with a band at the top holding three short key and value line pairs.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "url-encoding",
+  "category": "web",
+  "draw": "Address bar line with several percent signs placed between short text segments.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "preview-deployment",
+  "category": "web",
+  "draw": "Browser window with an eye in the page and a small git branch symbol in its corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "webmail",
+  "category": "web",
+  "draw": "Browser window with an envelope in the middle of the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "mail-server",
+  "category": "web",
+  "draw": "Server stack with an envelope in front of its lower corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "email-template",
+  "category": "web",
+  "draw": "Envelope behind a page showing a header block, an image block and two text lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "drip-campaign",
+  "category": "web",
+  "draw": "Faucet dripping a line of small envelopes downward.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "email-autoresponder",
+  "category": "web",
+  "draw": "Envelope with a small robot head face on its flap.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "unsubscribe-link",
+  "category": "web",
+  "draw": "Envelope with an exit door and outward arrow at its lower right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "double-opt-in",
+  "category": "web",
+  "draw": "Envelope with two stacked checkbox squares beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "lead-magnet",
+  "category": "web",
+  "draw": "Horseshoe magnet pulling a small ebook toward its poles.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "email-subscriber",
+  "category": "web",
+  "draw": "Person silhouette holding an envelope in front of the chest.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "spam-filter",
+  "category": "web",
+  "draw": "Funnel with several envelopes entering the top and one envelope trapped by a mesh line inside.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "email-deliverability",
+  "category": "web",
+  "draw": "Envelope flying along a curved path into an inbox tray.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "bounced-email",
+  "category": "web",
+  "draw": "Envelope bouncing off a wall with a curved return arrow.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "transactional-email",
+  "category": "web",
+  "draw": "Envelope with a receipt slip with torn edge sticking out of it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "welcome-email",
+  "category": "web",
+  "draw": "Open envelope with a waving hand rising out of it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "email-warmup",
+  "category": "web",
+  "draw": "Envelope beside a thermometer with a small flame at its bulb.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "spam-score",
+  "category": "web",
+  "draw": "Semicircle gauge with a needle and a small envelope under the pivot.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "email-open-rate",
+  "category": "web",
+  "draw": "Open envelope with a percent sign above its flap.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "win-back-email",
+  "category": "web",
+  "draw": "Envelope riding a boomerang shaped curved arrow.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "html-email",
+  "category": "web",
+  "draw": "Envelope with angle bracket code tags printed on its front.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "spam-trap",
+  "category": "web",
+  "draw": "Mouse trap with an envelope placed on the bait plate.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "tag-manager",
+  "category": "web",
+  "draw": "Open box container with three small tags hanging over its rim.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "event-tracking",
+  "category": "web",
+  "draw": "Arrow cursor clicking with ripple rings and a small list of three dots beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "data-layer",
+  "category": "web",
+  "draw": "Three stacked flat layers with curly braces on the top layer.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "tracking-snippet",
+  "category": "web",
+  "draw": "Code brackets with a small eye placed between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "user-session",
+  "category": "web",
+  "draw": "Browser window with a small person avatar and a stopwatch side by side in the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "unique-visitors",
+  "category": "web",
+  "draw": "Row of three person silhouettes with the middle one marked by a fingerprint on the chest.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "exit-page",
+  "category": "web",
+  "draw": "Browser page with an open door on its right edge and an arrow going out through it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "returning-visitor",
+  "category": "web",
+  "draw": "Person silhouette with a circular arrow looping around behind it back toward a browser window.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "cross-device-tracking",
+  "category": "web",
+  "draw": "Phone, laptop and tablet linked by a dotted line that joins at one person silhouette above.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "search-intent",
+  "category": "web",
+  "draw": "Magnifying glass with a small thought bubble rising from its handle.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "knowledge-panel",
+  "category": "web",
+  "draw": "Search page with result lines on the left and a tall boxed card with an image block on the right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "sitelinks",
+  "category": "web",
+  "draw": "One bold result line with a two by two grid of short link lines indented under it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "search-snippet",
+  "category": "web",
+  "draw": "Single search result block: a short bold title line, a thin URL line and two text lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "rich-snippet",
+  "category": "web",
+  "draw": "Search result block with a row of five small stars under the title line and a thumbnail on the left.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "meta-tag",
+  "category": "web",
+  "draw": "Tag shape with angle brackets drawn on its face.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "title-tag",
+  "category": "web",
+  "draw": "Browser tab shape with a bold capital T inside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "keyword-research",
+  "category": "web",
+  "draw": "Magnifying glass hovering over a key.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "keyword-stuffing",
+  "category": "web",
+  "draw": "Page bulging at the sides with words and tag shapes spilling out of the top.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "keyword-difficulty",
+  "category": "web",
+  "draw": "Key lying under a semicircle gauge with the needle pointing high.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "search-volume",
+  "category": "web",
+  "draw": "Magnifying glass with three rising bars inside its lens.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "search-ranking",
+  "category": "web",
+  "draw": "Three step podium with a magnifying glass standing on the top step.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "domain-authority",
+  "category": "web",
+  "draw": "Globe with a semicircle gauge above it and the needle near full.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "organic-traffic",
+  "category": "web",
+  "draw": "Leaf with an upward trending line arrow running along its midrib.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "geotargeting",
+  "category": "web",
+  "draw": "Target rings with a map pin standing in the center.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "seo-audit",
+  "category": "web",
+  "draw": "Clipboard with a magnifying glass over a small rising bar chart.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "search-index",
+  "category": "web",
+  "draw": "Card catalog drawer with index cards and a magnifying glass resting on top.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "search-engine-optimization",
+  "category": "web",
+  "draw": "Magnifying glass with an upward arrow rising through its lens.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "pillar-page",
+  "category": "web",
+  "draw": "Large central page connected by lines to four smaller pages around it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "evergreen-content",
+  "category": "web",
+  "draw": "Page with a small evergreen pine tree drawn in its lower half.",
+  "domain": "r2-internet-web"
+ }
+]

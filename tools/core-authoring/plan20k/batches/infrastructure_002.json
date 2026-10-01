@@ -1,0 +1,482 @@
+[
+ {
+  "name": "departure-board",
+  "category": "infrastructure",
+  "draw": "A rectangular board on a post showing rows of times and destinations as lines.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ticket-machine",
+  "category": "infrastructure",
+  "draw": "A tall kiosk with a screen, a keypad and a ticket slot at the bottom.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "turnstile",
+  "category": "infrastructure",
+  "draw": "A waist high post with three metal arms fanning out like a tripod gate.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "fare-gate",
+  "category": "infrastructure",
+  "draw": "Two narrow waist high cabinets with paddle doors between them and a card reader on top.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ticket-validator",
+  "category": "infrastructure",
+  "draw": "A small box on a pole with a slot for tickets and a card reader circle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "transit-card",
+  "category": "infrastructure",
+  "draw": "A plastic card with a contactless wave symbol and a small bus outline.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "metro-entrance",
+  "category": "infrastructure",
+  "draw": "A stairway going down into the ground with a railing and a tall sign post with a circle on it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "transit-map",
+  "category": "infrastructure",
+  "draw": "Three colored lines crossing with round station dots and one interchange circle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "transfer-station",
+  "category": "infrastructure",
+  "draw": "Two circle station dots joined by a short bar, the interchange symbol on a transit map.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "stop-request-button",
+  "category": "infrastructure",
+  "draw": "A round push button with the word STOP mounted on a vertical grab pole.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "grab-handle",
+  "category": "infrastructure",
+  "draw": "A triangular hand strap hanging from a horizontal rail inside a bus.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "priority-seat",
+  "category": "infrastructure",
+  "draw": "A seat with a small figure using a walking cane beside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tram-stop",
+  "category": "infrastructure",
+  "draw": "A short pole with a round sign showing a tram front and a narrow raised platform.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bus-stop-pole",
+  "category": "infrastructure",
+  "draw": "A tall pole with a round flag sign showing a bus and a timetable panel below.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bus-station",
+  "category": "infrastructure",
+  "draw": "A building with a wide canopy and three bus fronts parked in bays beneath it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bus-depot",
+  "category": "infrastructure",
+  "draw": "A large shed with three tall doors and a bus front visible in one.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "taxi-rank",
+  "category": "infrastructure",
+  "draw": "A sign on a post reading TAXI with a row of cars lined up behind it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bike-share-dock",
+  "category": "infrastructure",
+  "draw": "A row of docking posts with a bicycle locked into one and a payment kiosk at the end.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bike-rack",
+  "category": "infrastructure",
+  "draw": "A row of three bent steel hoops set in the ground, one with a bicycle wheel.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bike-locker",
+  "category": "infrastructure",
+  "draw": "A tall cabinet with a sloped roof and a bicycle symbol on its door.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "scooter-parking",
+  "category": "infrastructure",
+  "draw": "A painted rectangle on the pavement with a kick scooter standing inside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "park-and-ride",
+  "category": "infrastructure",
+  "draw": "A car and a bus side by side with a curved arrow from the car to the bus.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ferry-terminal",
+  "category": "infrastructure",
+  "draw": "A small terminal building on a pier with a ferry docked alongside.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ferry-ramp",
+  "category": "infrastructure",
+  "draw": "A hinged ramp lowered from a quay onto the open bow of a ferry.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "gangway",
+  "category": "infrastructure",
+  "draw": "A sloping walkway with railings leading from a quay up to a ship's side door.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "cruise-terminal",
+  "category": "infrastructure",
+  "draw": "A long low terminal building with a large cruise ship docked behind it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "pier",
+  "category": "infrastructure",
+  "draw": "A long wooden deck on stilts stretching out over wavy water.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "jetty",
+  "category": "infrastructure",
+  "draw": "A short narrow wooden walkway on posts with a small boat tied at the end.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "quay",
+  "category": "infrastructure",
+  "draw": "A straight stone harbor wall with a mooring bollard and a ship's hull beside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "mooring-bollard",
+  "category": "infrastructure",
+  "draw": "A short thick iron post with a flared cap and a rope looped around it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "mooring-cleat",
+  "category": "infrastructure",
+  "draw": "A metal horn shaped cleat bolted to a deck with a rope wound in a figure eight.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "lock-gate",
+  "category": "infrastructure",
+  "draw": "A pair of wooden gates meeting at an angle with balance beams sticking out on top.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "weir",
+  "category": "infrastructure",
+  "draw": "A low wall across a river with water pouring over it in a smooth curve.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "slipway",
+  "category": "infrastructure",
+  "draw": "A concrete ramp sloping into water with a small boat on a trailer at the top.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "dry-dock",
+  "category": "infrastructure",
+  "draw": "A ship resting on blocks inside an empty dock basin with a gate at one end.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "container-crane",
+  "category": "infrastructure",
+  "draw": "A tall gantry crane on legs with a long boom over a ship and a hanging container.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "container-stack",
+  "category": "infrastructure",
+  "draw": "Shipping containers stacked in a pyramid of three rows.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "port-terminal",
+  "category": "infrastructure",
+  "draw": "A quay with a gantry crane and a stack of containers beside a ship.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "runway",
+  "category": "infrastructure",
+  "draw": "Top view of a long strip with a dashed centre line, threshold stripes and a number at one end.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "taxiway-sign",
+  "category": "infrastructure",
+  "draw": "A low rectangular sign on the ground with a letter and an arrow in a box.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "helipad",
+  "category": "infrastructure",
+  "draw": "Top view of a circle containing a large letter H.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "hangar",
+  "category": "infrastructure",
+  "draw": "A large curved roof building with a wide open door and an aeroplane tail inside.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "jet-bridge",
+  "category": "infrastructure",
+  "draw": "A telescopic enclosed walkway extending from a terminal wall to an aeroplane door.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "air-stairs",
+  "category": "infrastructure",
+  "draw": "A wheeled staircase on a small vehicle with steps up to an aircraft door.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "baggage-carousel",
+  "category": "infrastructure",
+  "draw": "A curved conveyor belt loop with suitcases riding on it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "baggage-scanner",
+  "category": "infrastructure",
+  "draw": "A box shaped x ray machine with a conveyor belt and a suitcase entering the tunnel.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "security-tray",
+  "category": "infrastructure",
+  "draw": "A shallow plastic tray holding a phone, keys and a belt.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "walk-through-scanner",
+  "category": "infrastructure",
+  "draw": "A rectangular door frame scanner with a person walking through it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "passport-control",
+  "category": "infrastructure",
+  "draw": "A booth window with a passport and a stamp under it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "customs-inspection",
+  "category": "infrastructure",
+  "draw": "A suitcase open on a counter with a magnifying glass over it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "check-in-desk",
+  "category": "infrastructure",
+  "draw": "A counter with a screen on top and a suitcase standing on a scale beside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "check-in-kiosk",
+  "category": "infrastructure",
+  "draw": "A freestanding kiosk with a tilted screen and a boarding pass coming out of a slot.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "boarding-gate",
+  "category": "infrastructure",
+  "draw": "A gate sign with a letter and number above a small podium desk.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "luggage-trolley",
+  "category": "infrastructure",
+  "draw": "A flat wheeled cart with a tall push handle and a suitcase on it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "luggage-tag",
+  "category": "infrastructure",
+  "draw": "A rectangular luggage tag with a hole and a looped strap.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "luggage-locker",
+  "category": "infrastructure",
+  "draw": "A grid of small locker doors each with a keyhole.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "airport-radar",
+  "category": "infrastructure",
+  "draw": "A curved radar dish on a rotating mount on a short tower.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "approach-lights",
+  "category": "infrastructure",
+  "draw": "A row of small lamps on poles leading up to the end of a runway.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "flight-connection",
+  "category": "infrastructure",
+  "draw": "Two small aeroplanes joined by a curved dotted arrow between them.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "airstrip",
+  "category": "infrastructure",
+  "draw": "A short grass strip with a small propeller plane and a windsock beside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-garage",
+  "category": "infrastructure",
+  "draw": "A multi level building with open floors, cars visible on each level and a P sign.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "underground-parking",
+  "category": "infrastructure",
+  "draw": "A ramp going down into the ground under a slab with a P sign above it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-ticket",
+  "category": "infrastructure",
+  "draw": "A small paper ticket with a P symbol, a barcode and a torn edge.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-barrier",
+  "category": "infrastructure",
+  "draw": "A striped barrier arm across a lane with a ticket dispenser post beside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-disc",
+  "category": "infrastructure",
+  "draw": "A square card with a round clock dial window and a P in the corner.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-permit",
+  "category": "infrastructure",
+  "draw": "A rectangular hanging card with a hook at the top and a P on the front.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "wheel-clamp",
+  "category": "infrastructure",
+  "draw": "A car wheel with a yellow clamp locked around it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "valet-parking",
+  "category": "infrastructure",
+  "draw": "A car key hanging from a hand beside a car front.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "loading-zone",
+  "category": "infrastructure",
+  "draw": "A painted bay on the road with a small truck and a loading arrow.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tow-away-zone-sign",
+  "category": "infrastructure",
+  "draw": "A sign showing a tow truck lifting the front of a car.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ev-parking-space",
+  "category": "infrastructure",
+  "draw": "Top view of a parking space with a plug symbol painted inside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-sensor",
+  "category": "infrastructure",
+  "draw": "The rear bumper of a car with small round sensors and curved signal waves behind it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-space-counter",
+  "category": "infrastructure",
+  "draw": "A roadside board showing a P and a number of free spaces in a display.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "motorcycle-parking",
+  "category": "infrastructure",
+  "draw": "A painted bay with a motorcycle standing inside a rectangle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "fuel-nozzle",
+  "category": "infrastructure",
+  "draw": "A fuel pump nozzle with a trigger handle and a curved hose.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "fuel-price-sign",
+  "category": "infrastructure",
+  "draw": "A tall roadside pylon sign with three rows of price digits.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "jerrycan",
+  "category": "infrastructure",
+  "draw": "A rectangular fuel can with an X embossed on its side and a triple handle on top.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "car-wash",
+  "category": "infrastructure",
+  "draw": "A car under an arch with water sprays and bubbles above it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "air-pump-station",
+  "category": "infrastructure",
+  "draw": "A post with a coiled air hose and a pressure gauge dial.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "hydrogen-station",
+  "category": "infrastructure",
+  "draw": "A pump with a large H2 label on its front and a hose.",
+  "domain": "transport-infrastructure-signs"
+ }
+]

@@ -1,0 +1,1337 @@
+[
+ {
+  "name": "gorilla",
+  "category": "mammals",
+  "draw": "Front view gorilla head with a tall domed crest, heavy brow ridge, flat wide nose and broad shoulders below."
+ },
+ {
+  "name": "orangutan",
+  "category": "mammals",
+  "draw": "Front view orangutan face framed by wide flat cheek pads, small eyes and shaggy long hair at the sides."
+ },
+ {
+  "name": "gibbon",
+  "category": "mammals",
+  "draw": "Gibbon hanging by very long arms from a branch, small round head with a pale face ring, no tail."
+ },
+ {
+  "name": "siamang",
+  "category": "mammals",
+  "draw": "Siamang head in front view with a large inflated round throat sac below the chin."
+ },
+ {
+  "name": "baboon",
+  "category": "mammals",
+  "draw": "Baboon side profile with a long dog-like muzzle, deep-set eyes and a tail arched in an upside-down U."
+ },
+ {
+  "name": "hamadryas-baboon",
+  "category": "mammals",
+  "draw": "Seated hamadryas baboon with a long muzzle and a large cape of mane over the shoulders."
+ },
+ {
+  "name": "mandrill",
+  "category": "mammals",
+  "draw": "Front view mandrill face with a long central nose ridge flanked by deeply ridged cheek ridges and a pointed beard."
+ },
+ {
+  "name": "gelada",
+  "category": "mammals",
+  "draw": "Gelada monkey sitting with a thick lion-like mane over its shoulders and an hourglass bare patch on the chest."
+ },
+ {
+  "name": "ring-tailed-lemur",
+  "category": "mammals",
+  "draw": "Sitting lemur with a fox-like face, big round eyes and a long upright tail banded with bold rings."
+ },
+ {
+  "name": "ruffed-lemur",
+  "category": "mammals",
+  "draw": "Ruffed lemur face with a thick fur ruff around the ears and chin and a pointed fox-like snout."
+ },
+ {
+  "name": "aye-aye",
+  "category": "mammals",
+  "draw": "Aye-aye with huge round eyes, very large bat-like ears and one long thin bony middle finger."
+ },
+ {
+  "name": "tarsier",
+  "category": "mammals",
+  "draw": "Tarsier clinging to a vertical twig, with two enormous round eyes filling the face and long thin fingers."
+ },
+ {
+  "name": "slow-loris",
+  "category": "mammals",
+  "draw": "Slow loris head with big round eyes inside dark eye rings, a pale stripe down the nose and tiny ears."
+ },
+ {
+  "name": "galago",
+  "category": "mammals",
+  "draw": "Bushbaby galago perched on a branch with large round eyes, big thin ears and a long fluffy tail."
+ },
+ {
+  "name": "sifaka",
+  "category": "mammals",
+  "draw": "Sifaka leaping sideways upright with arms raised, long hind legs and a long tail curling behind."
+ },
+ {
+  "name": "indri",
+  "category": "mammals",
+  "draw": "Indri clinging upright to a trunk, teddy-bear round ears, short stub tail and long legs."
+ },
+ {
+  "name": "proboscis-monkey",
+  "category": "mammals",
+  "draw": "Proboscis monkey face in profile with a long pendulous nose hanging over the mouth and a round belly."
+ },
+ {
+  "name": "howler-monkey",
+  "category": "mammals",
+  "draw": "Howler monkey on a branch with a bearded jaw, open calling mouth and a tail curled around the branch."
+ },
+ {
+  "name": "spider-monkey",
+  "category": "mammals",
+  "draw": "Spider monkey hanging with very long thin limbs spread and a long prehensile tail gripping a branch."
+ },
+ {
+  "name": "capuchin-monkey",
+  "category": "mammals",
+  "draw": "Capuchin monkey face with a dark cap of hair on top, pale face and shoulders, and a small round head."
+ },
+ {
+  "name": "squirrel-monkey",
+  "category": "mammals",
+  "draw": "Squirrel monkey face with a dark muzzle, white mask-like eye patches and a dark cap."
+ },
+ {
+  "name": "marmoset",
+  "category": "mammals",
+  "draw": "Common marmoset head with large white ear tufts fanning out on both sides and a long banded tail below."
+ },
+ {
+  "name": "golden-lion-tamarin",
+  "category": "mammals",
+  "draw": "Golden lion tamarin face surrounded by a full round lion-like mane of long hair."
+ },
+ {
+  "name": "emperor-tamarin",
+  "category": "mammals",
+  "draw": "Emperor tamarin face with a long white mustache curling downward on both sides past the chin."
+ },
+ {
+  "name": "cotton-top-tamarin",
+  "category": "mammals",
+  "draw": "Cotton-top tamarin head with a tall swept-back crest of long white hair on top."
+ },
+ {
+  "name": "snow-monkey",
+  "category": "mammals",
+  "draw": "Japanese macaque face with a round fluffy head and bare face, sitting in a hot spring pool with steam wisps above."
+ },
+ {
+  "name": "lion-tailed-macaque",
+  "category": "mammals",
+  "draw": "Lion-tailed macaque black face encircled by a thick grey ruff mane, like a small lion."
+ },
+ {
+  "name": "celebes-crested-macaque",
+  "category": "mammals",
+  "draw": "Crested macaque face with a spiky punk-like crest of hair on top and a long flat muzzle."
+ },
+ {
+  "name": "colobus-monkey",
+  "category": "mammals",
+  "draw": "Black and white colobus sitting with a long white cape of fur hanging from its back and a white tufted tail."
+ },
+ {
+  "name": "golden-snub-nosed-monkey",
+  "category": "mammals",
+  "draw": "Snub-nosed monkey face with a tiny upturned nose, round face and a thick fur ruff around it."
+ },
+ {
+  "name": "bald-uakari",
+  "category": "mammals",
+  "draw": "Bald uakari head with a bare rounded skull and face, sparse hair on the neck and a short tail."
+ },
+ {
+  "name": "white-faced-saki",
+  "category": "mammals",
+  "draw": "White-faced saki with a round pale face disc framed by long shaggy dark body fur."
+ },
+ {
+  "name": "douc-langur",
+  "category": "mammals",
+  "draw": "Douc langur face with a pale face, slanted eyes, white whiskers and a patterned leg band."
+ },
+ {
+  "name": "gray-langur",
+  "category": "mammals",
+  "draw": "Gray langur sitting upright with a dark face, bushy brows and a very long tail arching up and over the back."
+ },
+ {
+  "name": "night-monkey",
+  "category": "mammals",
+  "draw": "Owl monkey face with two huge round eyes, white brow patches and a small round head."
+ },
+ {
+  "name": "de-brazzas-monkey",
+  "category": "mammals",
+  "draw": "De Brazza monkey face with a dark crescent brow band, a white muzzle and a long white beard."
+ },
+ {
+  "name": "leopard",
+  "category": "mammals",
+  "draw": "Leopard walking in side view with a long low body, long tail and rosette spots across the coat."
+ },
+ {
+  "name": "cheetah",
+  "category": "mammals",
+  "draw": "Slim cheetah in a running stride with a small head, black tear lines from the eyes and solid spots."
+ },
+ {
+  "name": "jaguar",
+  "category": "mammals",
+  "draw": "Jaguar head in front view with a broad heavy skull, short ears and large rosettes with inner dots."
+ },
+ {
+  "name": "snow-leopard",
+  "category": "mammals",
+  "draw": "Snow leopard lying on a rock with a very long thick bushy tail curled forward and rosette spots."
+ },
+ {
+  "name": "cougar",
+  "category": "mammals",
+  "draw": "Cougar in side view with a plain unspotted coat, small round head and a long dark-tipped tail."
+ },
+ {
+  "name": "lynx",
+  "category": "mammals",
+  "draw": "Lynx head with tall black ear tufts on pointed ears and a flared fur ruff beard under the jaw."
+ },
+ {
+  "name": "bobcat",
+  "category": "mammals",
+  "draw": "Bobcat standing in side view with short ear tufts, spotted coat and a short bobbed tail."
+ },
+ {
+  "name": "caracal",
+  "category": "mammals",
+  "draw": "Caracal head with very long pointed ears ending in long thin black tassels and a plain face."
+ },
+ {
+  "name": "serval",
+  "category": "mammals",
+  "draw": "Serval standing on long thin legs with very large upright oval ears and bold spots and stripes."
+ },
+ {
+  "name": "ocelot",
+  "category": "mammals",
+  "draw": "Ocelot lying in side view with chain-like elongated spot rings along the body and a banded tail."
+ },
+ {
+  "name": "clouded-leopard",
+  "category": "mammals",
+  "draw": "Clouded leopard on a branch with large cloud-shaped blotches outlined on its coat and a long thick tail."
+ },
+ {
+  "name": "black-panther",
+  "category": "mammals",
+  "draw": "Sleek solid black big cat in side view prowling with head low and long tail curved down."
+ },
+ {
+  "name": "sand-cat",
+  "category": "mammals",
+  "draw": "Sand cat face with a wide flat head, very broad low-set ears and big eyes."
+ },
+ {
+  "name": "pallas-cat",
+  "category": "mammals",
+  "draw": "Pallas cat face with a flat wide head, low small ears at the sides, round pupils and thick fluffy fur."
+ },
+ {
+  "name": "jaguarundi",
+  "category": "mammals",
+  "draw": "Jaguarundi in side view with a long weasel-like low body, small flat head, short legs and long tail."
+ },
+ {
+  "name": "saber-toothed-cat",
+  "category": "mammals",
+  "draw": "Prehistoric saber-toothed cat head in profile with two very long curved upper fangs below the jaw."
+ },
+ {
+  "name": "sphynx-cat",
+  "category": "mammals",
+  "draw": "Hairless sphynx cat sitting with very large ears, wrinkled forehead lines and a thin bare body."
+ },
+ {
+  "name": "persian-cat",
+  "category": "mammals",
+  "draw": "Persian cat face with a flat pushed-in nose, round head and a thick fluffy fur ruff."
+ },
+ {
+  "name": "maine-coon",
+  "category": "mammals",
+  "draw": "Maine coon head with lynx-like ear tufts, a shaggy mane ruff and a large square muzzle."
+ },
+ {
+  "name": "siamese-cat",
+  "category": "mammals",
+  "draw": "Siamese cat face with a dark mask over the nose and eyes, dark ears and a slim wedge-shaped head."
+ },
+ {
+  "name": "scottish-fold",
+  "category": "mammals",
+  "draw": "Scottish fold cat face with small ears folded flat forward on a round owl-like head."
+ },
+ {
+  "name": "munchkin-cat",
+  "category": "mammals",
+  "draw": "Munchkin cat standing with a normal cat body on very short stubby legs."
+ },
+ {
+  "name": "manx-cat",
+  "category": "mammals",
+  "draw": "Manx cat in side view with a rounded rump and no tail at all."
+ },
+ {
+  "name": "devon-rex",
+  "category": "mammals",
+  "draw": "Devon rex face with oversized low-set bat-like ears, big eyes and a small pixie chin."
+ },
+ {
+  "name": "british-shorthair",
+  "category": "mammals",
+  "draw": "British shorthair face with a very round head, full chubby cheeks and small rounded ears."
+ },
+ {
+  "name": "bengal-cat",
+  "category": "mammals",
+  "draw": "Bengal cat in side view with a muscular body and large leopard-like rosette spots."
+ },
+ {
+  "name": "american-curl",
+  "category": "mammals",
+  "draw": "American curl cat face with both ears curling backward in smooth arcs."
+ },
+ {
+  "name": "savannah-cat",
+  "category": "mammals",
+  "draw": "Tall slender savannah cat with long legs, very tall ears and bold spots."
+ },
+ {
+  "name": "black-cat",
+  "category": "mammals",
+  "draw": "Black cat standing with an arched back, raised fur and an upright tail, a classic Halloween silhouette."
+ },
+ {
+  "name": "sleeping-cat",
+  "category": "mammals",
+  "draw": "Cat curled into a round ball asleep with its tail wrapped around its nose and closed eyes."
+ },
+ {
+  "name": "jackal",
+  "category": "mammals",
+  "draw": "Golden jackal standing in side view with tall pointed ears, a narrow muzzle, thin legs and a bushy tail held low."
+ },
+ {
+  "name": "dingo",
+  "category": "mammals",
+  "draw": "Dingo standing alert in side view with upright ears, a lean body and a bushy tail curled up."
+ },
+ {
+  "name": "african-wild-dog",
+  "category": "mammals",
+  "draw": "African wild dog in side view with huge round ears, a patchy blotched coat and a white-tipped tail."
+ },
+ {
+  "name": "fennec-fox",
+  "category": "mammals",
+  "draw": "Fennec fox face with enormous upright ears much larger than the small head and a tiny pointed snout."
+ },
+ {
+  "name": "arctic-fox",
+  "category": "mammals",
+  "draw": "Arctic fox curled up with a thick round fluffy body, short rounded ears and a big tail over the nose."
+ },
+ {
+  "name": "maned-wolf",
+  "category": "mammals",
+  "draw": "Maned wolf in side view on very long stilt-like legs with a fox face and a dark mane on the neck."
+ },
+ {
+  "name": "bat-eared-fox",
+  "category": "mammals",
+  "draw": "Bat-eared fox face with very wide oversized ears spreading sideways and a dark eye mask."
+ },
+ {
+  "name": "raccoon-dog",
+  "category": "mammals",
+  "draw": "Raccoon dog face with a raccoon-like dark eye mask, round fluffy cheeks and small rounded ears."
+ },
+ {
+  "name": "tibetan-fox",
+  "category": "mammals",
+  "draw": "Tibetan fox face with a comically square flat head, narrow eyes and small ears on top."
+ },
+ {
+  "name": "bush-dog",
+  "category": "mammals",
+  "draw": "Bush dog in side view with a stocky long body, very short legs, small round ears and a short tail."
+ },
+ {
+  "name": "hyena",
+  "category": "mammals",
+  "draw": "Spotted hyena in side view with a sloping back higher at the shoulders, round ears and a spotted coat."
+ },
+ {
+  "name": "dachshund",
+  "category": "mammals",
+  "draw": "Dachshund in side view with a very long low body, short legs, long floppy ears and a thin tail."
+ },
+ {
+  "name": "poodle",
+  "category": "mammals",
+  "draw": "Poodle in side view with a show clip: pom-pom puffs on the head, chest, legs and tail tip."
+ },
+ {
+  "name": "bulldog",
+  "category": "mammals",
+  "draw": "English bulldog face with a wide jowly head, pushed-in nose, underbite jaw and small folded ears."
+ },
+ {
+  "name": "french-bulldog",
+  "category": "mammals",
+  "draw": "French bulldog face with large upright rounded bat ears, a flat nose and wide set eyes."
+ },
+ {
+  "name": "pug",
+  "category": "mammals",
+  "draw": "Pug face with a round flat wrinkled face, big eyes, small folded ears and a dark muzzle."
+ },
+ {
+  "name": "chihuahua",
+  "category": "mammals",
+  "draw": "Chihuahua head with a tiny apple-shaped skull, huge upright ears angled outward and big eyes."
+ },
+ {
+  "name": "corgi",
+  "category": "mammals",
+  "draw": "Corgi in side view with a long body on very short legs, large pointed ears and a fluffy rump."
+ },
+ {
+  "name": "german-shepherd",
+  "category": "mammals",
+  "draw": "German shepherd head in profile with tall pointed ears, a long muzzle and a dark saddle marking."
+ },
+ {
+  "name": "dalmatian",
+  "category": "mammals",
+  "draw": "Dalmatian standing in side view with a short smooth coat covered in round black spots."
+ },
+ {
+  "name": "great-dane",
+  "category": "mammals",
+  "draw": "Great Dane standing tall in side view with a long square muzzle, deep chest and very long legs."
+ },
+ {
+  "name": "greyhound",
+  "category": "mammals",
+  "draw": "Greyhound in side view with a deep narrow chest, very thin tucked waist, long legs and thin tail."
+ },
+ {
+  "name": "afghan-hound",
+  "category": "mammals",
+  "draw": "Afghan hound head with a long narrow face framed by long silky hair falling like curtains."
+ },
+ {
+  "name": "basset-hound",
+  "category": "mammals",
+  "draw": "Basset hound in side view with a long low body, very long ears touching the ground and droopy eyes."
+ },
+ {
+  "name": "bloodhound",
+  "category": "mammals",
+  "draw": "Bloodhound face with long loose wrinkled skin, deep droopy jowls and long hanging ears."
+ },
+ {
+  "name": "saint-bernard",
+  "category": "mammals",
+  "draw": "Saint Bernard in side view, a massive dog with a small barrel hanging under the collar."
+ },
+ {
+  "name": "schnauzer",
+  "category": "mammals",
+  "draw": "Schnauzer head in profile with bushy eyebrows, a long square beard and upright ears."
+ },
+ {
+  "name": "scottish-terrier",
+  "category": "mammals",
+  "draw": "Scottish terrier in side view with a boxy low body, long beard, pricked ears and an upright tail."
+ },
+ {
+  "name": "yorkshire-terrier",
+  "category": "mammals",
+  "draw": "Yorkshire terrier with long silky hair parted down the back and a small bow topknot on the head."
+ },
+ {
+  "name": "pomeranian",
+  "category": "mammals",
+  "draw": "Pomeranian as a round fluffy ball of fur with a small fox face and tiny pointed ears."
+ },
+ {
+  "name": "chow-chow",
+  "category": "mammals",
+  "draw": "Chow chow face with a thick lion-like mane ruff, small rounded ears and a scowling deep-set look."
+ },
+ {
+  "name": "shar-pei",
+  "category": "mammals",
+  "draw": "Shar pei face with heavy deep folds and wrinkles over the head and a broad hippo-like muzzle."
+ },
+ {
+  "name": "shiba-inu",
+  "category": "mammals",
+  "draw": "Shiba inu in side view with a fox-like face, pointed ears and a tail curled over the back."
+ },
+ {
+  "name": "samoyed",
+  "category": "mammals",
+  "draw": "Samoyed face with thick white fluffy fur, upright ears and an upturned smiling mouth."
+ },
+ {
+  "name": "doberman",
+  "category": "mammals",
+  "draw": "Doberman head in profile with tall cropped pointed ears, a long narrow muzzle and tan brow spots."
+ },
+ {
+  "name": "bull-terrier",
+  "category": "mammals",
+  "draw": "Bull terrier head in profile with a long egg-shaped face with no stop between skull and nose."
+ },
+ {
+  "name": "cocker-spaniel",
+  "category": "mammals",
+  "draw": "Cocker spaniel face with long wavy feathered ears hanging below the jaw."
+ },
+ {
+  "name": "komondor",
+  "category": "mammals",
+  "draw": "Komondor as a mop of long corded dreadlocks covering the whole body and face."
+ },
+ {
+  "name": "borzoi",
+  "category": "mammals",
+  "draw": "Borzoi head in profile with a very long narrow slightly curved muzzle and silky neck fur."
+ },
+ {
+  "name": "papillon",
+  "category": "mammals",
+  "draw": "Papillon face with large fringed upright ears spread like butterfly wings."
+ },
+ {
+  "name": "chinese-crested",
+  "category": "mammals",
+  "draw": "Chinese crested dog with a hairless body, a long silky crest on the head, fringed ears and a plumed tail."
+ },
+ {
+  "name": "pekingese",
+  "category": "mammals",
+  "draw": "Pekingese face with a flat nose, a long flowing mane and heavily fringed drooping ears."
+ },
+ {
+  "name": "bedlington-terrier",
+  "category": "mammals",
+  "draw": "Bedlington terrier in side view looking like a lamb with a pear-shaped head and an arched back."
+ },
+ {
+  "name": "old-english-sheepdog",
+  "category": "mammals",
+  "draw": "Old English sheepdog face with shaggy hair completely covering the eyes and a round black nose."
+ },
+ {
+  "name": "rough-collie",
+  "category": "mammals",
+  "draw": "Rough collie head in profile with a long narrow muzzle, a full neck ruff and tipped ears."
+ },
+ {
+  "name": "pointer-dog",
+  "category": "mammals",
+  "draw": "Pointer dog in the pointing pose with one front paw raised, body stretched forward and tail straight out."
+ },
+ {
+  "name": "beagle",
+  "category": "mammals",
+  "draw": "Beagle face with long rounded drooping ears, a white blaze down the forehead and a broad muzzle."
+ },
+ {
+  "name": "boxer-dog",
+  "category": "mammals",
+  "draw": "Boxer dog head with a square short muzzle, an undershot jaw and a wrinkled forehead."
+ },
+ {
+  "name": "labrador-retriever",
+  "category": "mammals",
+  "draw": "Labrador head in profile with a broad skull, short smooth coat, drop ears and an otter-like thick tail."
+ },
+ {
+  "name": "golden-retriever",
+  "category": "mammals",
+  "draw": "Golden retriever head with feathered wavy fur on the ears, chest and neck and a friendly open mouth."
+ },
+ {
+  "name": "rottweiler",
+  "category": "mammals",
+  "draw": "Rottweiler head with a broad heavy skull, folded triangular ears and tan markings above the eyes."
+ },
+ {
+  "name": "border-collie",
+  "category": "mammals",
+  "draw": "Border collie in a low herding crouch with a white blaze on the face and a white ruff."
+ },
+ {
+  "name": "bichon-frise",
+  "category": "mammals",
+  "draw": "Bichon frise face with a round cloud-like puff of curly white hair and dark eyes and nose."
+ },
+ {
+  "name": "west-highland-terrier",
+  "category": "mammals",
+  "draw": "West Highland terrier head with a round chrysanthemum face of white fur and small pointed ears."
+ },
+ {
+  "name": "airedale-terrier",
+  "category": "mammals",
+  "draw": "Airedale terrier in side view with a long flat head, wiry beard, folded ears and a square stance."
+ },
+ {
+  "name": "pharaoh-hound",
+  "category": "mammals",
+  "draw": "Pharaoh hound head with very large upright ears on a slender long head and neck."
+ },
+ {
+  "name": "xoloitzcuintli",
+  "category": "mammals",
+  "draw": "Hairless Mexican dog in side view with large bat ears, a sleek bare body and a thin tail."
+ },
+ {
+  "name": "brussels-griffon",
+  "category": "mammals",
+  "draw": "Brussels griffon face with a short nose, a bushy beard and mustache and a human-like expression."
+ },
+ {
+  "name": "saluki",
+  "category": "mammals",
+  "draw": "Saluki head in profile with a long narrow muzzle and long silky feathered hanging ears."
+ },
+ {
+  "name": "irish-setter",
+  "category": "mammals",
+  "draw": "Irish setter in side view with a long feathered coat on the ears, chest, legs and tail."
+ },
+ {
+  "name": "boston-terrier",
+  "category": "mammals",
+  "draw": "Boston terrier face with a tuxedo white blaze and chest, large round eyes and upright pointed ears."
+ },
+ {
+  "name": "jack-russell-terrier",
+  "category": "mammals",
+  "draw": "Jack Russell terrier standing in side view with small folded ears, a compact body and an upright tail."
+ },
+ {
+  "name": "cavalier-king-charles-spaniel",
+  "category": "mammals",
+  "draw": "Cavalier King Charles spaniel face with big round eyes and long silky feathered ears."
+ },
+ {
+  "name": "bernese-mountain-dog",
+  "category": "mammals",
+  "draw": "Bernese mountain dog face with a white blaze, rust brows, tricolor markings and folded ears."
+ },
+ {
+  "name": "polar-bear",
+  "category": "mammals",
+  "draw": "Polar bear walking in side view with a long neck, small head, small ears and a large rounded body."
+ },
+ {
+  "name": "sun-bear",
+  "category": "mammals",
+  "draw": "Sun bear standing upright with short sleek fur, small round ears and a U-shaped crescent patch on the chest."
+ },
+ {
+  "name": "sloth-bear",
+  "category": "mammals",
+  "draw": "Sloth bear with a shaggy mane, a long pale mobile snout and long curved front claws."
+ },
+ {
+  "name": "spectacled-bear",
+  "category": "mammals",
+  "draw": "Spectacled bear face with pale rings around the eyes like glasses on a dark round head."
+ },
+ {
+  "name": "red-panda",
+  "category": "mammals",
+  "draw": "Red panda sitting on a branch with a white-marked face, pointed ears and a thick ringed tail."
+ },
+ {
+  "name": "weasel",
+  "category": "mammals",
+  "draw": "Weasel standing up on its hind legs with a long thin body, short legs, small round ears and a short tail."
+ },
+ {
+  "name": "badger",
+  "category": "mammals",
+  "draw": "Badger face with bold black and white stripes running from the nose over the eyes to the ears."
+ },
+ {
+  "name": "honey-badger",
+  "category": "mammals",
+  "draw": "Honey badger in side view with a low stocky dark body and a pale grey mantle from head to tail."
+ },
+ {
+  "name": "wolverine",
+  "category": "mammals",
+  "draw": "Wolverine in side view with a stocky bear-like body, a pale side stripe and a short bushy tail."
+ },
+ {
+  "name": "skunk",
+  "category": "mammals",
+  "draw": "Skunk in side view with a white stripe down its back and a large bushy tail raised over its body."
+ },
+ {
+  "name": "ferret",
+  "category": "mammals",
+  "draw": "Ferret in a stretched side view with a long slinky body, a masked face and short legs."
+ },
+ {
+  "name": "mongoose",
+  "category": "mammals",
+  "draw": "Mongoose in side view with a slim long body, pointed face, small ears and a long tapering tail."
+ },
+ {
+  "name": "meerkat",
+  "category": "mammals",
+  "draw": "Meerkat standing upright on its hind legs on sentry duty, with dark eye patches and paws held at the chest."
+ },
+ {
+  "name": "genet",
+  "category": "mammals",
+  "draw": "Genet in side view with a slender spotted body, pointed face, large ears and a long ringed tail."
+ },
+ {
+  "name": "binturong",
+  "category": "mammals",
+  "draw": "Binturong on a branch with shaggy fur, tufted ears, long whiskers and a prehensile tail wrapped around."
+ },
+ {
+  "name": "fossa",
+  "category": "mammals",
+  "draw": "Fossa in side view with a sleek cat-like body, rounded ears, a short muzzle and a very long tail."
+ },
+ {
+  "name": "kinkajou",
+  "category": "mammals",
+  "draw": "Kinkajou hanging by a prehensile tail from a branch with a round face, big eyes and small ears."
+ },
+ {
+  "name": "coati",
+  "category": "mammals",
+  "draw": "Coati walking in side view with a long upturned pointed snout and a banded tail held straight up."
+ },
+ {
+  "name": "capybara",
+  "category": "mammals",
+  "draw": "Capybara sitting in side view with a large barrel body, a blunt square head, small ears and no tail."
+ },
+ {
+  "name": "porcupine",
+  "category": "mammals",
+  "draw": "Porcupine in side view with long sharp quills fanning up and back from its body."
+ },
+ {
+  "name": "flying-squirrel",
+  "category": "mammals",
+  "draw": "Flying squirrel gliding from above with skin membranes stretched square between front and back legs and a flat tail."
+ },
+ {
+  "name": "prairie-dog",
+  "category": "mammals",
+  "draw": "Prairie dog standing upright at the mouth of a burrow mound with small paws held together."
+ },
+ {
+  "name": "groundhog",
+  "category": "mammals",
+  "draw": "Groundhog peeking up out of a round burrow hole with a stout body and small ears."
+ },
+ {
+  "name": "gopher",
+  "category": "mammals",
+  "draw": "Pocket gopher popping out of a dirt mound with big front teeth and bulging cheek pouches."
+ },
+ {
+  "name": "chipmunk",
+  "category": "mammals",
+  "draw": "Chipmunk sitting with stripes down its back and face and cheeks stuffed full."
+ },
+ {
+  "name": "naked-mole-rat",
+  "category": "mammals",
+  "draw": "Naked mole rat with wrinkled hairless skin, tiny eyes and two long buck teeth sticking out."
+ },
+ {
+  "name": "jerboa",
+  "category": "mammals",
+  "draw": "Jerboa standing on very long kangaroo-like hind legs, with huge ears and a long tail ending in a tuft."
+ },
+ {
+  "name": "chinchilla",
+  "category": "mammals",
+  "draw": "Chinchilla sitting with large round ears, a round fluffy body and a bushy tail curled up behind."
+ },
+ {
+  "name": "pika",
+  "category": "mammals",
+  "draw": "Pika sitting as a small round ball with rounded ears and no visible tail."
+ },
+ {
+  "name": "lop-rabbit",
+  "category": "mammals",
+  "draw": "Lop-eared rabbit sitting with long ears hanging down both sides of its face."
+ },
+ {
+  "name": "angora-rabbit",
+  "category": "mammals",
+  "draw": "Angora rabbit as a big round fluffy puff of long fur with a small face and tufted ears."
+ },
+ {
+  "name": "mara",
+  "category": "mammals",
+  "draw": "Patagonian mara in side view with a rabbit-like head on long deer-like legs."
+ },
+ {
+  "name": "mole-animal",
+  "category": "mammals",
+  "draw": "Mole in side view with a velvety body, pointed pink snout and large spade-like digging front paws, emerging from a mound."
+ },
+ {
+  "name": "star-nosed-mole",
+  "category": "mammals",
+  "draw": "Star-nosed mole face with a star of fleshy tentacles ringing the tip of the nose and large claws."
+ },
+ {
+  "name": "shrew",
+  "category": "mammals",
+  "draw": "Shrew in side view with a tiny body, very long pointed whiskered snout and a thin tail."
+ },
+ {
+  "name": "elephant-shrew",
+  "category": "mammals",
+  "draw": "Elephant shrew in side view with a long flexible trunk-like snout, big eyes and long thin legs."
+ },
+ {
+  "name": "colugo",
+  "category": "mammals",
+  "draw": "Colugo gliding with a wide kite-shaped skin membrane stretched from neck to tail tip."
+ },
+ {
+  "name": "rock-hyrax",
+  "category": "mammals",
+  "draw": "Rock hyrax sitting on a rock with a compact round body, short ears and no visible tail."
+ },
+ {
+  "name": "sloth",
+  "category": "mammals",
+  "draw": "Sloth hanging upside down from a branch by long curved claws with a smiling face mask."
+ },
+ {
+  "name": "giant-anteater",
+  "category": "mammals",
+  "draw": "Giant anteater in side view with a very long tube snout, a diagonal shoulder stripe and a huge bushy tail."
+ },
+ {
+  "name": "armadillo",
+  "category": "mammals",
+  "draw": "Armadillo in side view with a banded armored shell, pointed snout, long ears and a tapered tail."
+ },
+ {
+  "name": "pangolin",
+  "category": "mammals",
+  "draw": "Pangolin in side view covered in overlapping pointed scales with a long tapering tail."
+ },
+ {
+  "name": "aardvark",
+  "category": "mammals",
+  "draw": "Aardvark in side view with an arched back, long tubular snout, long rabbit-like ears and a thick tail."
+ },
+ {
+  "name": "long-eared-bat",
+  "category": "mammals",
+  "draw": "Bat face with huge ears almost as long as its body and small wings folded."
+ },
+ {
+  "name": "horseshoe-bat",
+  "category": "mammals",
+  "draw": "Horseshoe bat face with a horseshoe-shaped leaf nose and pointed ears, hanging upside down."
+ },
+ {
+  "name": "walrus",
+  "category": "mammals",
+  "draw": "Walrus lying in side view with two long downward tusks, a bristly mustache and flippers."
+ },
+ {
+  "name": "orca",
+  "category": "mammals",
+  "draw": "Orca in side view with a tall dorsal fin, a white eye patch and a white belly on a dark body."
+ },
+ {
+  "name": "sperm-whale",
+  "category": "mammals",
+  "draw": "Sperm whale in side view with a huge square block-shaped head and a narrow lower jaw."
+ },
+ {
+  "name": "narwhal",
+  "category": "mammals",
+  "draw": "Narwhal swimming in side view with a long straight spiral tusk projecting from its head."
+ },
+ {
+  "name": "beluga",
+  "category": "mammals",
+  "draw": "Beluga whale in side view with a rounded bulging forehead melon, no dorsal fin and a smiling mouth."
+ },
+ {
+  "name": "manatee",
+  "category": "mammals",
+  "draw": "Manatee floating in side view with a rounded grey body, small flippers and a round paddle-shaped tail."
+ },
+ {
+  "name": "sea-lion",
+  "category": "mammals",
+  "draw": "Sea lion sitting upright on its front flippers with small external ears and a ball balanced on its nose."
+ },
+ {
+  "name": "elephant-seal",
+  "category": "mammals",
+  "draw": "Male elephant seal raised up with a large drooping trunk-like nose over its mouth."
+ },
+ {
+  "name": "hooded-seal",
+  "category": "mammals",
+  "draw": "Hooded seal head with a large inflated balloon bulging from one nostril."
+ },
+ {
+  "name": "river-dolphin",
+  "category": "mammals",
+  "draw": "River dolphin in side view with a very long thin beak, a rounded forehead and a low hump instead of a fin."
+ },
+ {
+  "name": "whale-tail",
+  "category": "mammals",
+  "draw": "Whale tail fluke rising vertically out of the water line with a notch in the middle."
+ },
+ {
+  "name": "wombat",
+  "category": "mammals",
+  "draw": "Wombat in side view with a stout barrel body, short legs, a broad flat nose and small ears."
+ },
+ {
+  "name": "tasmanian-devil",
+  "category": "mammals",
+  "draw": "Tasmanian devil with a stocky dark body, a white chest band, pink ears and an open toothy mouth."
+ },
+ {
+  "name": "opossum",
+  "category": "mammals",
+  "draw": "Opossum hanging by its bare ringed tail from a branch, with a white pointed face and round ears."
+ },
+ {
+  "name": "sugar-glider",
+  "category": "mammals",
+  "draw": "Sugar glider gliding with a membrane stretched between its legs, big eyes and a stripe down its head."
+ },
+ {
+  "name": "quokka",
+  "category": "mammals",
+  "draw": "Quokka sitting with a round face, small rounded ears and a big smile."
+ },
+ {
+  "name": "numbat",
+  "category": "mammals",
+  "draw": "Numbat in side view with white stripes across its back, a pointed snout and a bushy tail held up."
+ },
+ {
+  "name": "bilby",
+  "category": "mammals",
+  "draw": "Bilby in side view with long rabbit ears, a long pointed snout and a black and white tail."
+ },
+ {
+  "name": "quoll",
+  "category": "mammals",
+  "draw": "Quoll in side view with a cat-sized body covered in white spots, a pointed snout and a long tail."
+ },
+ {
+  "name": "thylacine",
+  "category": "mammals",
+  "draw": "Thylacine, the extinct Tasmanian tiger, in side view with dark stripes across its back and a stiff tail."
+ },
+ {
+  "name": "tree-kangaroo",
+  "category": "mammals",
+  "draw": "Tree kangaroo sitting on a branch with a bear-like face, strong front arms and a long hanging tail."
+ },
+ {
+  "name": "platypus",
+  "category": "mammals",
+  "draw": "Platypus seen from above with a flat duck bill, webbed feet and a flat beaver tail."
+ },
+ {
+  "name": "echidna",
+  "category": "mammals",
+  "draw": "Echidna in side view with a spiny back and a long thin beak-like snout."
+ },
+ {
+  "name": "donkey",
+  "category": "mammals",
+  "draw": "Donkey head in profile with very long upright ears, a pale muzzle and a short upright mane."
+ },
+ {
+  "name": "przewalskis-horse",
+  "category": "mammals",
+  "draw": "Przewalski's horse in side view with a stocky body, a short stiff upright mane and a pale muzzle."
+ },
+ {
+  "name": "okapi",
+  "category": "mammals",
+  "draw": "Okapi in side view with a giraffe-like head, a plain body and bold horizontal zebra stripes on the legs and rump."
+ },
+ {
+  "name": "tapir",
+  "category": "mammals",
+  "draw": "Tapir in side view with a short flexible trunk-like snout and a pale saddle patch across its middle."
+ },
+ {
+  "name": "warthog",
+  "category": "mammals",
+  "draw": "Warthog face with two large upward curving tusks, wart bumps on the cheeks and a bristly mane."
+ },
+ {
+  "name": "wild-boar",
+  "category": "mammals",
+  "draw": "Wild boar in side view with a bristly ridge along the back, a long snout and short upturned tusks."
+ },
+ {
+  "name": "babirusa",
+  "category": "mammals",
+  "draw": "Babirusa head with upper tusks growing up through the snout and curling back toward the forehead."
+ },
+ {
+  "name": "red-river-hog",
+  "category": "mammals",
+  "draw": "Red river hog face with long white ear tufts, a pale face stripe and a long snout."
+ },
+ {
+  "name": "pot-bellied-pig",
+  "category": "mammals",
+  "draw": "Pot-bellied pig in side view with a swayed back, a sagging belly almost touching the ground and a short snout."
+ },
+ {
+  "name": "mangalica-pig",
+  "category": "mammals",
+  "draw": "Mangalica pig in side view covered in a thick curly woolly coat like a sheep."
+ },
+ {
+  "name": "bison",
+  "category": "mammals",
+  "draw": "American bison in side view with a massive shoulder hump, shaggy head and beard and short curved horns."
+ },
+ {
+  "name": "yak",
+  "category": "mammals",
+  "draw": "Yak in side view with long shaggy hair hanging to the ground, a shoulder hump and wide curved horns."
+ },
+ {
+  "name": "water-buffalo",
+  "category": "mammals",
+  "draw": "Water buffalo head with very wide crescent horns sweeping back and out from the top of the head."
+ },
+ {
+  "name": "african-buffalo",
+  "category": "mammals",
+  "draw": "Cape buffalo head with horns joined in a heavy boss across the forehead that curve down and then up."
+ },
+ {
+  "name": "zebu",
+  "category": "mammals",
+  "draw": "Zebu cow in side view with a large hump over the shoulders, drooping ears and a loose dewlap."
+ },
+ {
+  "name": "highland-cow",
+  "category": "mammals",
+  "draw": "Highland cow face with a long shaggy fringe covering the eyes and long wide upcurved horns."
+ },
+ {
+  "name": "longhorn-cattle",
+  "category": "mammals",
+  "draw": "Longhorn steer head with extremely long horns stretching wide to both sides."
+ },
+ {
+  "name": "ankole-watusi",
+  "category": "mammals",
+  "draw": "Ankole-Watusi cattle head with enormous thick lyre-shaped horns rising up and out."
+ },
+ {
+  "name": "belted-galloway",
+  "category": "mammals",
+  "draw": "Belted Galloway cow in side view with a dark shaggy body and a wide white belt around the middle."
+ },
+ {
+  "name": "musk-ox",
+  "category": "mammals",
+  "draw": "Musk ox with a long shaggy coat hanging to the ground and heavy horns curving down beside the face."
+ },
+ {
+  "name": "takin",
+  "category": "mammals",
+  "draw": "Takin in side view with a bulky golden body, a large arched Roman nose and short horns curving back."
+ },
+ {
+  "name": "gazelle",
+  "category": "mammals",
+  "draw": "Gazelle in side view with a slender body, a dark side stripe and ringed lyre-shaped horns."
+ },
+ {
+  "name": "impala",
+  "category": "mammals",
+  "draw": "Impala head with long elegant lyre-shaped ringed horns spreading up and outward."
+ },
+ {
+  "name": "springbok",
+  "category": "mammals",
+  "draw": "Springbok mid-leap pronking with all four legs stiff and back arched, with short curved horns."
+ },
+ {
+  "name": "oryx",
+  "category": "mammals",
+  "draw": "Oryx in side view with very long straight spear-like horns and a black and white face mask."
+ },
+ {
+  "name": "kudu",
+  "category": "mammals",
+  "draw": "Greater kudu head with long open spiral corkscrew horns and large rounded ears."
+ },
+ {
+  "name": "eland",
+  "category": "mammals",
+  "draw": "Eland in side view with a large heavy body, a hanging dewlap and straight tightly twisted horns."
+ },
+ {
+  "name": "sable-antelope",
+  "category": "mammals",
+  "draw": "Sable antelope head with long scimitar horns curving strongly backward and white face stripes."
+ },
+ {
+  "name": "blackbuck",
+  "category": "mammals",
+  "draw": "Blackbuck head with two long corkscrew spiral horns forming a V and white eye rings."
+ },
+ {
+  "name": "wildebeest",
+  "category": "mammals",
+  "draw": "Wildebeest in side view with a sloping back, a shaggy beard, a mane and cow-like curved horns."
+ },
+ {
+  "name": "hartebeest",
+  "category": "mammals",
+  "draw": "Hartebeest head with a very long narrow face and horns rising from a pedicle in a bracket shape."
+ },
+ {
+  "name": "gerenuk",
+  "category": "mammals",
+  "draw": "Gerenuk standing upright on its hind legs with a very long thin neck reaching up to a branch."
+ },
+ {
+  "name": "dik-dik",
+  "category": "mammals",
+  "draw": "Dik-dik head with a small pointed face, huge round eyes, a short mobile snout and a crest tuft between short horns."
+ },
+ {
+  "name": "klipspringer",
+  "category": "mammals",
+  "draw": "Klipspringer standing on the tips of its hooves on a small rock peak with short spike horns."
+ },
+ {
+  "name": "saiga-antelope",
+  "category": "mammals",
+  "draw": "Saiga antelope head with a large bulbous drooping nose and translucent short ringed horns."
+ },
+ {
+  "name": "pronghorn",
+  "category": "mammals",
+  "draw": "Pronghorn in side view with forked black horns, white bands on the throat and a white rump."
+ },
+ {
+  "name": "bongo",
+  "category": "mammals",
+  "draw": "Bongo antelope in side view with thin white vertical stripes on its body and spiral horns."
+ },
+ {
+  "name": "chamois",
+  "category": "mammals",
+  "draw": "Chamois head with short upright black horns that hook sharply backward at the tips."
+ },
+ {
+  "name": "mountain-goat",
+  "category": "mammals",
+  "draw": "Mountain goat in side view on a ledge with a shaggy white coat, a beard and short black dagger horns."
+ },
+ {
+  "name": "markhor",
+  "category": "mammals",
+  "draw": "Markhor head with tall corkscrew horns twisting upward and a long flowing beard."
+ },
+ {
+  "name": "bighorn-sheep",
+  "category": "mammals",
+  "draw": "Bighorn sheep head in profile with massive horns curling around in a full circle beside the face."
+ },
+ {
+  "name": "barbary-sheep",
+  "category": "mammals",
+  "draw": "Barbary sheep in side view with long fringe hair hanging from throat and front legs and backward curved horns."
+ },
+ {
+  "name": "jacob-sheep",
+  "category": "mammals",
+  "draw": "Jacob sheep head with four horns, two curving up and two curling down beside the face."
+ },
+ {
+  "name": "racka-sheep",
+  "category": "mammals",
+  "draw": "Racka sheep head with long straight horns twisted like corkscrews spiraling upward in a V."
+ },
+ {
+  "name": "nubian-goat",
+  "category": "mammals",
+  "draw": "Nubian goat head with a convex Roman nose and very long wide drooping ears."
+ },
+ {
+  "name": "angora-goat",
+  "category": "mammals",
+  "draw": "Angora goat in side view covered in long curly ringlets of mohair with backward curved horns."
+ },
+ {
+  "name": "moose",
+  "category": "mammals",
+  "draw": "Moose head with wide flat palm-shaped antlers, a long drooping nose and a dewlap bell under the chin."
+ },
+ {
+  "name": "musk-deer",
+  "category": "mammals",
+  "draw": "Musk deer head with no antlers and two long thin fangs hanging down from the upper jaw."
+ },
+ {
+  "name": "fallow-deer",
+  "category": "mammals",
+  "draw": "Fallow deer in side view with a spotted coat and broad flat palmate antlers."
+ },
+ {
+  "name": "woolly-mammoth",
+  "category": "mammals",
+  "draw": "Woolly mammoth in side view with a high domed head, a sloping back, shaggy hair and long curved tusks."
+ },
+ {
+  "name": "woolly-rhinoceros",
+  "category": "mammals",
+  "draw": "Woolly rhinoceros in side view with a shaggy coat and a very long curved front horn."
+ },
+ {
+  "name": "giant-ground-sloth",
+  "category": "mammals",
+  "draw": "Giant ground sloth standing upright on its hind legs with its tail as a prop and large curved claws."
+ },
+ {
+  "name": "glyptodon",
+  "category": "mammals",
+  "draw": "Glyptodon in side view with a large domed patterned shell like a giant armadillo and a spiked tail."
+ },
+ {
+  "name": "irish-elk",
+  "category": "mammals",
+  "draw": "Irish elk in side view with gigantic wide flat antlers spanning wider than its body."
+ },
+ {
+  "name": "deinotherium",
+  "category": "mammals",
+  "draw": "Deinotherium in side view, an elephant-like animal with tusks curving down and back from the lower jaw."
+ },
+ {
+  "name": "platybelodon",
+  "category": "mammals",
+  "draw": "Platybelodon head with a long flat shovel-like lower jaw tipped with wide flat tusks."
+ },
+ {
+  "name": "paraceratherium",
+  "category": "mammals",
+  "draw": "Paraceratherium in side view, a giant hornless rhino relative with a long neck and long legs."
+ },
+ {
+  "name": "macrauchenia",
+  "category": "mammals",
+  "draw": "Macrauchenia in side view with a camel-like long neck and body and a short trunk on its snout."
+ },
+ {
+  "name": "basilosaurus",
+  "category": "mammals",
+  "draw": "Basilosaurus, an early whale, in side view with a very long serpent-like body and toothy jaws."
+ },
+ {
+  "name": "entelodont",
+  "category": "mammals",
+  "draw": "Entelodont in side view, a hog-like animal with a huge long head, bony jaw knobs and long legs."
+ },
+ {
+  "name": "sivatherium",
+  "category": "mammals",
+  "draw": "Sivatherium head, a stocky giraffe relative with broad palmate ossicones like moose antlers."
+ },
+ {
+  "name": "hoof-print",
+  "category": "mammals",
+  "draw": "Pair of cloven hoof prints side by side, two teardrop halves with a gap between them."
+ },
+ {
+  "name": "bear-track",
+  "category": "mammals",
+  "draw": "Bear footprint with a wide kidney-shaped pad and five toe pads topped by claw marks."
+ },
+ {
+  "name": "claw-marks",
+  "category": "mammals",
+  "draw": "Three parallel curved scratch marks slashed diagonally, as left by an animal claw."
+ },
+ {
+  "name": "cattle-skull",
+  "category": "mammals",
+  "draw": "Front view cattle skull with a long face, empty eye sockets and wide curved horns."
+ },
+ {
+  "name": "quagga",
+  "category": "mammals",
+  "draw": "Quagga, the extinct zebra, in side view with stripes only on the head, neck and shoulders and a plain rear body."
+ },
+ {
+  "name": "arsinoitherium",
+  "category": "mammals",
+  "draw": "Arsinoitherium head in profile, a prehistoric rhino-like animal with two huge conical horns side by side on the nose."
+ },
+ {
+  "name": "uintatherium",
+  "category": "mammals",
+  "draw": "Uintatherium head in profile with three pairs of knobby bony horns on the skull and long saber upper fangs."
+ },
+ {
+  "name": "gomphotherium",
+  "category": "mammals",
+  "draw": "Gomphotherium in side view, an early elephant relative with two tusks on the upper jaw and two on the long lower jaw."
+ }
+]

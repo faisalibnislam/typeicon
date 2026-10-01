@@ -1,0 +1,482 @@
+[
+ {
+  "name": "greek-lowercase-delta",
+  "category": "scripts",
+  "draw": "Lowercase Greek delta (\u03b4): a round bowl at the bottom with a hooked stroke curling up and over from its top left like a small ascender.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "greek-lowercase-omega",
+  "category": "scripts",
+  "draw": "Lowercase Greek omega (\u03c9): a wide rounded w made of two joined bowls open at the top.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "greek-lowercase-sigma",
+  "category": "scripts",
+  "draw": "Lowercase Greek sigma (\u03c3): a round bowl with a short straight stroke running out to the right from its top.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "greek-final-sigma",
+  "category": "scripts",
+  "draw": "Greek final sigma (\u03c2): a c shape whose lower end curls down into a small hook below the baseline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "greek-theta-symbol",
+  "category": "scripts",
+  "draw": "Greek theta symbol, the cursive theta (\u03d1): a stroke rising in a tall loop on the left that sweeps over the top and down the right side into a small open hook.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "greek-koppa",
+  "category": "scripts",
+  "draw": "Archaic Greek koppa (\u03d8): a round circle sitting on top of a short straight vertical stem.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "greek-sampi",
+  "category": "scripts",
+  "draw": "Greek sampi (\u03e1): a large curved stroke arching over and down to the lower left with two short parallel diagonal strokes hanging inside it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "greek-stigma",
+  "category": "scripts",
+  "draw": "Greek stigma (\u03db): a final sigma like c with a small tail flicking right from its top and a long hook curling below the baseline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-be",
+  "category": "scripts",
+  "draw": "Cyrillic capital Be (\u0411): a vertical stem with a flat top bar reaching right and a closed bowl at the lower right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-ghe",
+  "category": "scripts",
+  "draw": "Cyrillic capital Ghe (\u0413): a vertical stem with a single horizontal arm across the top to the right, like an upside down L.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-ghe-with-upturn",
+  "category": "scripts",
+  "draw": "Cyrillic capital Ghe with upturn (Ukrainian) (\u0490): an upside down L whose top arm ends in a short upward tick at the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-ghe-with-stroke",
+  "category": "scripts",
+  "draw": "Cyrillic capital Ghe with stroke (\u0492): an upside down L with a short horizontal bar crossing the stem at mid height.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-de",
+  "category": "scripts",
+  "draw": "Cyrillic capital De (\u0414): a narrow frame with a slanted left side and upright right side standing on a wide base bar whose ends drop as two short feet.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-i",
+  "category": "scripts",
+  "draw": "Cyrillic capital I (\u0418): a mirrored N, two vertical stems joined by a diagonal running from bottom left to top right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-short-i",
+  "category": "scripts",
+  "draw": "Cyrillic capital Short I (\u0419): the mirrored N shape topped by a small curved breve.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-el",
+  "category": "scripts",
+  "draw": "Cyrillic capital El (\u041b): a flat top bar on a straight right leg and a left leg that curves outward at the foot.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-pe",
+  "category": "scripts",
+  "draw": "Cyrillic capital Pe (\u041f): two vertical stems joined by a flat bar across the top, like an open doorway.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-tse",
+  "category": "scripts",
+  "draw": "Cyrillic capital Tse (\u0426): a squared U with a flat base whose lower right corner extends into a short descender tail.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-che",
+  "category": "scripts",
+  "draw": "Cyrillic capital Che (\u0427): a short left stem bending into a bar at mid height that joins a tall right stem, like an upside down h.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-sha",
+  "category": "scripts",
+  "draw": "Cyrillic capital Sha (\u0428): three vertical stems joined by a flat base, like a comb with three teeth pointing up.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-shcha",
+  "category": "scripts",
+  "draw": "Cyrillic capital Shcha (\u0429): the three pronged Sha with a short descender tail hanging from its lower right corner.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-hard-sign",
+  "category": "scripts",
+  "draw": "Cyrillic capital Hard Sign (\u042a): a short top bar at the left joined to a vertical stem with a closed bowl at the lower right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-soft-sign",
+  "category": "scripts",
+  "draw": "Cyrillic capital Soft Sign (\u042c): a plain vertical stem with a closed bowl at the lower right and nothing at the top.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-yeru",
+  "category": "scripts",
+  "draw": "Cyrillic capital Yeru (\u042b): a stem with a bowl at the lower right followed by a separate tall vertical bar on the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-e",
+  "category": "scripts",
+  "draw": "Cyrillic capital E (\u042d): a backwards C opening to the left with a short horizontal bar across its middle.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-yu",
+  "category": "scripts",
+  "draw": "Cyrillic capital Yu (\u042e): a vertical stem on the left joined by a short bar to a tall oval on the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-ya",
+  "category": "scripts",
+  "draw": "Cyrillic capital Ya (\u042f): a mirrored R: a bowl at the upper left, a stem on the right and a diagonal leg kicking out to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-yo",
+  "category": "scripts",
+  "draw": "Cyrillic capital Yo (\u0401): an E with three horizontal arms topped by two dots side by side.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-ukrainian-ie",
+  "category": "scripts",
+  "draw": "Cyrillic capital Ukrainian Ie (\u0404): a C opening to the right with a short horizontal bar across its middle.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-yi",
+  "category": "scripts",
+  "draw": "Cyrillic capital Yi (Ukrainian) (\u0407): a single vertical stem with two dots side by side above it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-dje",
+  "category": "scripts",
+  "draw": "Cyrillic capital Dje (Serbian) (\u0402): a T shaped top bar whose stem has a humped arm on the right that curves down into a hook below the baseline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-tshe",
+  "category": "scripts",
+  "draw": "Cyrillic capital Tshe (Serbian) (\u040b): a T shaped top bar whose stem has a humped arm on the right ending straight at the baseline, like an h.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-lje",
+  "category": "scripts",
+  "draw": "Cyrillic capital Lje (\u0409): the El shape joined on its right to a stem with a closed bowl at the lower right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-nje",
+  "category": "scripts",
+  "draw": "Cyrillic capital Nje (\u040a): an H whose right stem carries a closed bowl at the lower right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-dzhe",
+  "category": "scripts",
+  "draw": "Cyrillic capital Dzhe (\u040f): a squared U of two stems and a flat base with a short stem dropping from the centre of the base.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-short-u",
+  "category": "scripts",
+  "draw": "Cyrillic capital Short U (Belarusian) (\u040e): a y like shape with a short left arm meeting a long right stroke that sweeps into a tail, topped by a curved breve.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-yat",
+  "category": "scripts",
+  "draw": "Historic Cyrillic capital Yat (\u0462): a tall stem crossed near the top by a horizontal bar, with a closed bowl at the lower right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-en-with-descender",
+  "category": "scripts",
+  "draw": "Cyrillic capital En with descender (Kazakh) (\u04a2): an H whose lower right corner extends into a short descender tail.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-big-yus",
+  "category": "scripts",
+  "draw": "Historic Cyrillic capital Big Yus (\u046a): a small triangle on top of a wide horizontal bar, with a central stem and two splayed legs below the bar.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-little-yus",
+  "category": "scripts",
+  "draw": "Historic Cyrillic capital Little Yus (\u0466): a tall A shape with a short vertical stem hanging from the centre of its crossbar.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "cyrillic-ksi",
+  "category": "scripts",
+  "draw": "Historic Cyrillic capital Ksi (\u046e): a 3 like double bowl with a small check mark above and a tail curling below the baseline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-bet",
+  "category": "scripts",
+  "draw": "Hebrew letter bet (\u05d1): a squared backwards C open to the left, with a flat roof, a right wall and a base that juts slightly past the wall.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-gimel",
+  "category": "scripts",
+  "draw": "Hebrew letter gimel (\u05d2): a narrow upright stroke with a small head at the top and a short foot kicking out to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-dalet",
+  "category": "scripts",
+  "draw": "Hebrew letter dalet (\u05d3): a wide flat roof that overhangs a single right leg dropping straight down, with a sharp top right corner.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-he",
+  "category": "scripts",
+  "draw": "Hebrew letter he (\u05d4): a flat roof on a full right leg, with a shorter left leg floating below the roof leaving a gap at the top left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-vav",
+  "category": "scripts",
+  "draw": "Hebrew letter vav (\u05d5): a single vertical stroke with a small head tipping to the left at the top.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-zayin",
+  "category": "scripts",
+  "draw": "Hebrew letter zayin (\u05d6): a vertical stroke topped by a short horizontal head that overhangs on both sides.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-het",
+  "category": "scripts",
+  "draw": "Hebrew letter het (\u05d7): a flat roof resting on two full length legs with no gap, like a doorway.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-tet",
+  "category": "scripts",
+  "draw": "Hebrew letter tet (\u05d8): a rounded cup open at the top whose left arm curls inward into a small hook.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-yod",
+  "category": "scripts",
+  "draw": "Hebrew letter yod (\u05d9): a small comma like stroke hanging from a tiny head.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-kaf",
+  "category": "scripts",
+  "draw": "Hebrew letter kaf (\u05db): a rounded backwards C open to the left, curved top and bottom strokes joined by a right curve.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-lamed",
+  "category": "scripts",
+  "draw": "Hebrew letter lamed (\u05dc): a short stem rising high on the left that turns into a horizontal stroke and curves down into a hook on the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-mem",
+  "category": "scripts",
+  "draw": "Hebrew letter mem (\u05de): a squared shape with a flat base and right wall, a slanted left stroke and a small gap at the bottom left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-nun",
+  "category": "scripts",
+  "draw": "Hebrew letter nun (\u05e0): a narrow backwards C with a short roof, a right stem and a flat base extending left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-samekh",
+  "category": "scripts",
+  "draw": "Hebrew letter samekh (\u05e1): a closed rounded loop with a flat top bar overhanging slightly at the top left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-ayin",
+  "category": "scripts",
+  "draw": "Hebrew letter ayin (\u05e2): two upright strokes in a y shape, the right one long and curving down to the left into a tail along the base.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-pe",
+  "category": "scripts",
+  "draw": "Hebrew letter pe (\u05e4): a rounded backwards C open to the left with a small curl hanging inward from its top left corner.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-tsadi",
+  "category": "scripts",
+  "draw": "Hebrew letter tsadi (\u05e6): a slanted left stroke and a short right arm joined above a flat base that extends left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-qof",
+  "category": "scripts",
+  "draw": "Hebrew letter qof (\u05e7): a flat roof curving down on the right, with a separate long stem dropping below the baseline on the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-resh",
+  "category": "scripts",
+  "draw": "Hebrew letter resh (\u05e8): a short roof on a single right leg with a smoothly rounded top right corner.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-shin",
+  "category": "scripts",
+  "draw": "Hebrew letter shin (\u05e9): three upright arms joined at a curved base, spreading upward like a crown.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-tav",
+  "category": "scripts",
+  "draw": "Hebrew letter tav (\u05ea): a flat roof on a right leg and a left leg that ends in a small foot kicking left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-final-kaf",
+  "category": "scripts",
+  "draw": "Hebrew final kaf (\u05da): a short flat roof bending into a long vertical stem that drops well below the baseline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-final-mem",
+  "category": "scripts",
+  "draw": "Hebrew final mem (\u05dd): a closed square box with a flat base and a small notch at the top left corner.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-final-pe",
+  "category": "scripts",
+  "draw": "Hebrew final pe (\u05e3): a roof with an inward curl at the left joined to a long right stem dropping below the baseline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hebrew-final-tsadi",
+  "category": "scripts",
+  "draw": "Hebrew final tsadi (\u05e5): a short left stroke and a right arm joining a long straight stem that descends below the baseline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-ba",
+  "category": "scripts",
+  "draw": "Arabic letter ba (\u0628): a wide shallow bowl like a canoe open at the top, with one dot centred below it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-ta",
+  "category": "scripts",
+  "draw": "Arabic letter ta (\u062a): the shallow canoe shaped bowl with two dots side by side above it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-tha",
+  "category": "scripts",
+  "draw": "Arabic letter tha (\u062b): the shallow canoe shaped bowl with three dots in a small triangle above it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-jim",
+  "category": "scripts",
+  "draw": "Arabic letter jim (\u062c): a short top stroke folding back into a deep reversed C sweep below, with one dot inside the curve.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-hah",
+  "category": "scripts",
+  "draw": "Arabic letter hah (\u062d): a short top stroke folding back into a deep reversed C sweep below, with no dots.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-kha",
+  "category": "scripts",
+  "draw": "Arabic letter kha (\u062e): the folded top stroke and deep reversed C sweep with one dot above.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-dal",
+  "category": "scripts",
+  "draw": "Arabic letter dal (\u062f): a small angular hook: a short slanted stroke that bends at the bottom into a flat base running left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-dhal",
+  "category": "scripts",
+  "draw": "Arabic letter dhal (\u0630): the small angular dal hook with one dot above it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-ra",
+  "category": "scripts",
+  "draw": "Arabic letter ra (\u0631): a small curved stroke like a large comma sweeping down to the left below the line.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-zay",
+  "category": "scripts",
+  "draw": "Arabic letter zay (\u0632): the comma like ra stroke with one dot above it.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-sin",
+  "category": "scripts",
+  "draw": "Arabic letter sin (\u0633): three small upward teeth in a row that end on the left in a deep round bowl.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-shin",
+  "category": "scripts",
+  "draw": "Arabic letter shin (\u0634): the three toothed sin with three dots in a small triangle above the teeth.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-sad",
+  "category": "scripts",
+  "draw": "Arabic letter sad (\u0635): a flat closed loop lying on its side with a small tooth, ending on the left in a deep round bowl.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "arabic-dad",
+  "category": "scripts",
+  "draw": "Arabic letter dad (\u0636): the sad shape of a flat side loop and deep bowl, with one dot above the loop.",
+  "domain": "r2-writing-systems"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "sugar-beet",
+  "category": "crops",
+  "draw": "Tapered white cone shaped root with faint horizontal ridges, topped by a tuft of broad upright leaves.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "black-pepper-vine",
+  "category": "crops",
+  "draw": "Vine twining up a wooden support pole with heart shaped leaves and slender hanging spikes of small round peppercorns.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "castor-plant",
+  "category": "crops",
+  "draw": "Large deeply lobed star shaped leaf beside an upright cluster of round spiny seed capsules.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "safflower",
+  "category": "crops",
+  "draw": "Thistle like flower head with a spiky bract cup and a tuft of thread like florets on a stem with toothed leaves.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "sesame-plant",
+  "category": "crops",
+  "draw": "Upright stem with narrow leaves and oblong ribbed seed capsules held close along it, the top capsule split open.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "date-palm",
+  "category": "crops",
+  "draw": "Palm with a tall scaly trunk, arching feather fronds and heavy clusters of dates hanging below the crown.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "cork-oak",
+  "category": "crops",
+  "draw": "Gnarled oak tree whose lower trunk is stripped smooth, with a clear rough band where the thick cork bark stops.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "cacao-tree",
+  "category": "crops",
+  "draw": "Short tree trunk with large ribbed oval pods growing directly from the trunk and a leafy canopy above.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "moringa",
+  "category": "crops",
+  "draw": "Branch of small round feathery leaflets with long thin ridged drumstick pods hanging straight down.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "finger-millet",
+  "category": "crops",
+  "draw": "Stalk topped by a hand shaped head of four or five curved grain spikes spreading like fingers.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "alfalfa",
+  "category": "crops",
+  "draw": "Branching stem with small oval leaves in threes, topped by a compact rounded cluster of tiny pea flowers.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "yam",
+  "category": "crops",
+  "draw": "Large elongated rough skinned tuber, slightly bent, with one cut end showing pale flesh.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "hop-yard",
+  "category": "crops",
+  "draw": "Tall poles joined by overhead wires with vertical strings, each string climbed by a leafy bine carrying small hop cones.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "cranberry-bog",
+  "category": "crops",
+  "draw": "Flooded field seen from the side with a water line packed with floating round berries, gathered by a curved floating boom.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "wheat-field",
+  "category": "crops",
+  "draw": "Rows of upright wheat ears standing across a field with a low horizon line and a half sun behind.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "sunflower-field",
+  "category": "crops",
+  "draw": "Row of tall sunflowers with large round seed heads facing forward above a horizon line and smaller heads behind.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "lavender-field",
+  "category": "crops",
+  "draw": "Rows of rounded mounded bushes with small upright flower spikes, running in perspective to a horizon.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "cotton-field",
+  "category": "crops",
+  "draw": "Rows of low bushy shrubs dotted with fluffy white cotton bolls running to a horizon line.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "christmas-tree-farm",
+  "category": "crops",
+  "draw": "Neat rows of small conical fir trees of different heights on gentle ground with a stake label in front.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "corn-maze",
+  "category": "crops",
+  "draw": "Top down square of corn plants with winding maze paths cut through it and an entrance gap on one side.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "three-sisters-planting",
+  "category": "crops",
+  "draw": "Corn stalk with a bean vine twining up it and broad squash leaves spreading on the ground at its base.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "intercropping",
+  "category": "crops",
+  "draw": "Field with alternating rows of tall grain stalks and short bushy leafy plants side by side.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "agroforestry",
+  "category": "crops",
+  "draw": "Evenly spaced rows of trees with strips of low crop rows growing in the alleys between them.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "shelterbelt",
+  "category": "crops",
+  "draw": "Line of tall trees along the edge of a crop field with wind lines curving up and over the treetops.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "riparian-buffer",
+  "category": "crops",
+  "draw": "Strip of trees and grass between striped crop rows and a wavy stream running along the field edge.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "contour-farming",
+  "category": "crops",
+  "draw": "Hillside with curved crop rows that follow the slope in parallel bands around the hill.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "slash-and-burn",
+  "category": "crops",
+  "draw": "Cleared patch with tree stumps and small flames with smoke rising beside a line of standing forest.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "seed-furrow",
+  "category": "crops",
+  "draw": "Soil cross section with a V shaped furrow holding evenly spaced seeds and loose soil mounded on both sides.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "seedling-emergence",
+  "category": "crops",
+  "draw": "Row of tiny shoots breaking up through a cracked soil crust, each with two small seed leaves.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "transplanting-seedling",
+  "category": "crops",
+  "draw": "Hand lowering a small seedling with a soil plug into a hole dug in the ground.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "planting-depth",
+  "category": "crops",
+  "draw": "Soil cross section with a seed buried below the surface and a small ruler beside it marking the depth.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "crop-cycle",
+  "category": "crops",
+  "draw": "Circle of arrows linking a seed, a sprout, a grown grain plant and a harvested sheaf.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "stubble-field",
+  "category": "crops",
+  "draw": "Field of short cut stalks in neat rows with scattered straw pieces and a flat horizon line.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "crop-lodging",
+  "category": "crops",
+  "draw": "Stand of grain stalks with several bent over and flattened sideways, wind lines blowing across them.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "waterlogged-field",
+  "category": "crops",
+  "draw": "Rows of young crop plants standing in pooled water with ripple rings around their stems.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "corn-detasseling",
+  "category": "crops",
+  "draw": "Hand pulling the feathery tassel off the top of a tall corn stalk.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "air-layering",
+  "category": "crops",
+  "draw": "Branch with a ball of moss wrapped in plastic and tied at both ends, small roots showing inside.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "fruit-bagging",
+  "category": "crops",
+  "draw": "Branch with fruits each enclosed in a small paper bag tied closed at the stem.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "low-tunnel",
+  "category": "crops",
+  "draw": "Long low row of wire hoops covered by a fabric sheet over a crop row, the ends gathered and staked.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "shade-net-house",
+  "category": "crops",
+  "draw": "Rectangular frame structure with a mesh net roof and sides and rows of plants inside.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "germination-test",
+  "category": "crops",
+  "draw": "Petri dish on a moist paper disc with several seeds, some sending out small roots and shoots.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "soil-probe",
+  "category": "crops",
+  "draw": "T handled steel tube pushed into the ground with a side slot showing a core of layered soil inside.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "penetrometer",
+  "category": "crops",
+  "draw": "T handled rod with a round dial gauge near the top and a pointed cone tip pushed into soil.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "soil-compaction",
+  "category": "crops",
+  "draw": "Tractor tire pressing on soil with dense layer lines beneath it and downward arrows.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "fertilizer-granules",
+  "category": "crops",
+  "draw": "Small heap of round fertilizer pellets with a few loose pellets rolled away beside it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "liquid-fertilizer",
+  "category": "crops",
+  "draw": "Jug with a handle and cap, a leaf on its label and a single drop falling from the spout.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "npk-ratio",
+  "category": "crops",
+  "draw": "Three bars of different heights side by side labeled with the letters N, P and K.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "plastic-mulch",
+  "category": "crops",
+  "draw": "Raised bed covered with a smooth plastic sheet, plants poking up through evenly spaced holes.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "straw-mulch",
+  "category": "crops",
+  "draw": "Young plant whose base is surrounded by a thick layer of short straw strands on top of the soil.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "cover-crop",
+  "category": "crops",
+  "draw": "Low leafy plants carpeting the soil between rows of cut stalks, with short roots gripping the soil below.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "root-nodules",
+  "category": "crops",
+  "draw": "Legume root system below a soil line with small round nodules clustered along the roots.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "mycorrhizal-roots",
+  "category": "crops",
+  "draw": "Plant roots below a soil line wrapped in a fine branching web of fungal threads.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "nitrogen-cycle",
+  "category": "crops",
+  "draw": "Circle of arrows linking a cloud marked N, a plant and a soil line with roots.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "peat-pot",
+  "category": "crops",
+  "draw": "Tapered pot with a rough fibrous textured wall holding a small seedling.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "seed-ball",
+  "category": "crops",
+  "draw": "Round clay ball dotted with seeds with two small sprouts emerging from the top.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "biochar",
+  "category": "crops",
+  "draw": "Small pile of black porous charcoal chunks mixed into soil with a sprout growing beside it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "hugelkultur-bed",
+  "category": "crops",
+  "draw": "Cross section of a long mound with buried logs at the core, soil layers above and plants growing on top.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "tile-drainage",
+  "category": "crops",
+  "draw": "Field cross section with crops on top and a perforated pipe buried below, water drops seeping into it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "fertilizer-runoff",
+  "category": "crops",
+  "draw": "Sloped crop field with arrows washing down into a stream whose surface is covered in algae blobs.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "anhydrous-ammonia-tank",
+  "category": "crops",
+  "draw": "Horizontal capsule shaped tank on a four wheeled trailer frame with a valve cluster on top.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "plant-breeding",
+  "category": "crops",
+  "draw": "Two parent plants with a multiplication cross between them and an arrow down to a sturdier offspring plant.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "field-trial-plots",
+  "category": "crops",
+  "draw": "Top down grid of small rectangular plots with different row patterns and a numbered stake in each.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "crop-health-map",
+  "category": "crops",
+  "draw": "Field outline divided into irregular zones filled with different hatch densities and a small scale bar beside it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "growth-chamber",
+  "category": "crops",
+  "draw": "Tall cabinet with a glass door showing shelves of potted plants under a light panel on each shelf.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "agronomist",
+  "category": "crops",
+  "draw": "Person in a cap holding a clipboard beside a tall crop plant.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "pheromone-trap",
+  "category": "crops",
+  "draw": "Triangular tent shaped delta trap open at both ends hanging by a wire from a branch.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "locust-swarm",
+  "category": "crops",
+  "draw": "Dense cloud of small winged locust silhouettes flying low over a row of crop stalks.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "bird-scare-cannon",
+  "category": "crops",
+  "draw": "Flared gas cannon barrel on a small stand with a gas cylinder beside it and a burst mark at the muzzle.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "scare-eye-balloon",
+  "category": "crops",
+  "draw": "Round balloon printed with large concentric eye rings hanging from a pole above crops.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "flame-weeder",
+  "category": "crops",
+  "draw": "Long wand with a burner nozzle aiming a flame at a weed, a hose leading back to a small gas cylinder.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "flood-irrigation",
+  "category": "crops",
+  "draw": "Top down field of square basins separated by low earth ridges, water flowing in from a side channel.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "wheel-line-irrigation",
+  "category": "crops",
+  "draw": "Long pipe running through the hubs of a row of large spoked wheels with sprinklers spraying between them.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "traveling-irrigator",
+  "category": "crops",
+  "draw": "Large hose reel on a wheeled cart with a hose running out to a tall sprinkler gun on a small wheeled sled.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "siphon-tube-irrigation",
+  "category": "crops",
+  "draw": "Curved tubes arched over a ditch bank carrying water from the ditch into crop furrows.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "tube-well",
+  "category": "crops",
+  "draw": "Vertical pipe rising from the ground beside a small pump house, water gushing from an outlet into a channel.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "farm-pond",
+  "category": "crops",
+  "draw": "Dug pond with sloped lined banks, an inlet pipe on one side and crop rows beside it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "irrigation-pump",
+  "category": "crops",
+  "draw": "Engine driven pump on a skid with a wide suction hose dipping into water and a discharge pipe.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "fertigation-tank",
+  "category": "crops",
+  "draw": "Tank with a dosing pump feeding into a drip line that runs along a row of plants.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "olla-irrigation",
+  "category": "crops",
+  "draw": "Unglazed clay pot buried to its neck in soil with a lid, moisture lines seeping out to nearby plant roots.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "silage-clamp",
+  "category": "crops",
+  "draw": "Long low mound covered by a plastic sheet held down by rows of old tires.",
+  "domain": "r3-agriculture-crops"
+ }
+]

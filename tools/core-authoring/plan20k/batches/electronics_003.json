@@ -1,0 +1,482 @@
+[
+ {
+  "name": "tone-generator-probe",
+  "category": "electronics",
+  "draw": "Pen shaped probe with a pointed tip and sound waves coming from it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "wire-gauge",
+  "category": "electronics",
+  "draw": "Round metal disc with numbered slots cut around its edge.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "punchdown-tool",
+  "category": "electronics",
+  "draw": "Pen shaped handle with a narrow blade tip pressing a wire into a slot.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "perfboard",
+  "category": "electronics",
+  "draw": "Square board filled with a grid of small holes.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "stripboard",
+  "category": "electronics",
+  "draw": "Board with holes along parallel copper strips and one strip cut.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "breakout-board",
+  "category": "electronics",
+  "draw": "Small board with a single chip in the center and a row of pins along one edge.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "development-board",
+  "category": "electronics",
+  "draw": "Long narrow board with pins down both sides and a USB port at one end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "fpga-chip",
+  "category": "electronics",
+  "draw": "Square chip with a grid of small cell squares printed inside and pins all around.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "system-on-chip",
+  "category": "electronics",
+  "draw": "Square chip divided into several labeled blocks inside, with pins around the edge.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "silicon-die",
+  "category": "electronics",
+  "draw": "Small square die with a grid of circuit patterns and bond pads around the rim.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pcb-panel",
+  "category": "electronics",
+  "draw": "Board divided into four identical small boards joined by break away tabs.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "smd-reel",
+  "category": "electronics",
+  "draw": "Round plastic reel with tape of small parts wound on it and a strip trailing off.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "reflow-oven",
+  "category": "electronics",
+  "draw": "Long conveyor oven with a board entering one end and heat waves above.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "solder-paste-stencil",
+  "category": "electronics",
+  "draw": "Thin metal sheet with a pattern of small cutouts and a squeegee blade across it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "solder-paste-syringe",
+  "category": "electronics",
+  "draw": "Syringe with a bent needle tip squeezing out a small dab.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "etching-tank",
+  "category": "electronics",
+  "draw": "Tall narrow tank of liquid with a circuit board hanging inside and bubbles rising.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pcb-holder",
+  "category": "electronics",
+  "draw": "Small clamp holder with two arms gripping the edges of a circuit board.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "project-enclosure",
+  "category": "electronics",
+  "draw": "Rectangular plastic box with screw holes in its four corners and an open lid.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pcb-standoff",
+  "category": "electronics",
+  "draw": "Hexagonal threaded spacer with a screw at one end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pcb-antenna",
+  "category": "electronics",
+  "draw": "Board corner with a meandering zigzag copper trace.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "rf-module",
+  "category": "electronics",
+  "draw": "Small board with a metal shield can and a coiled spring antenna.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "gps-module",
+  "category": "electronics",
+  "draw": "Small board with a square ceramic patch antenna on top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "infrared-receiver",
+  "category": "electronics",
+  "draw": "Small black body with a domed lens bump on its face and three legs.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "real-time-clock-module",
+  "category": "electronics",
+  "draw": "Small board with a coin cell battery holder and a chip.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "motor-driver-board",
+  "category": "electronics",
+  "draw": "Small board with a large finned heat sink and screw terminals on its edges.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "relay-board",
+  "category": "electronics",
+  "draw": "Board with a row of box relays and screw terminals along one edge.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "breadboard-power-module",
+  "category": "electronics",
+  "draw": "Small board with a barrel jack and pins that plug into a breadboard rail.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "usb-to-serial-adapter",
+  "category": "electronics",
+  "draw": "Small board with a USB plug on one end and a row of pins on the other.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "debug-probe",
+  "category": "electronics",
+  "draw": "Small box with a ribbon cable ending in a pin connector.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "chip-programmer",
+  "category": "electronics",
+  "draw": "Box with a lever socket on top holding a chip and a cable.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "el-wire",
+  "category": "electronics",
+  "draw": "Glowing thin flexible wire looped in a curve with a small battery pack.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "humidity-sensor",
+  "category": "electronics",
+  "draw": "Small box with a grid of vents on its face and three pins.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "gas-sensor",
+  "category": "electronics",
+  "draw": "Round sensor with a mesh dome cap on a small board.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pir-sensor",
+  "category": "electronics",
+  "draw": "Faceted dome sitting on a small board with three pins.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "accelerometer",
+  "category": "electronics",
+  "draw": "Chip with three arrows labeled X, Y and Z coming from one corner.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "magnetometer",
+  "category": "electronics",
+  "draw": "Chip with a small compass needle drawn on top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "hall-effect-sensor",
+  "category": "electronics",
+  "draw": "Small flat three legged sensor with a magnet beside it and field lines.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "flex-sensor",
+  "category": "electronics",
+  "draw": "Long thin strip bent in a gentle curve with two pins at one end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "force-sensor",
+  "category": "electronics",
+  "draw": "Round pressure pad on a thin tail with two pins at the end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "load-cell",
+  "category": "electronics",
+  "draw": "Rectangular metal bar with a hole through its middle and wires out one end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pressure-sensor",
+  "category": "electronics",
+  "draw": "Threaded fitting below a round sensor body with a cable out the top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "rain-sensor",
+  "category": "electronics",
+  "draw": "Rectangular board with two interlocking comb shaped traces and raindrops above.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "sound-sensor",
+  "category": "electronics",
+  "draw": "Small board with a round microphone capsule and a tiny adjustment screw.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "color-sensor",
+  "category": "electronics",
+  "draw": "Small board with a central sensor chip surrounded by four small lights.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "image-sensor",
+  "category": "electronics",
+  "draw": "Square chip with a glass window showing a grid of pixels.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "capacitive-touch-sensor",
+  "category": "electronics",
+  "draw": "Round pad on a small board with a fingertip touching it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "water-level-sensor",
+  "category": "electronics",
+  "draw": "Thin board with parallel traces and a wavy water line across its lower part.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "flame-sensor",
+  "category": "electronics",
+  "draw": "Small board with a dark round receiver and a flame drawn beside it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "current-transformer",
+  "category": "electronics",
+  "draw": "Split ring clamp around a cable with two leads.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "keypad-matrix",
+  "category": "electronics",
+  "draw": "Flat membrane pad with a four by four grid of keys and a ribbon tail.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "spectrum-analyzer",
+  "category": "electronics",
+  "draw": "Instrument screen showing a row of sharp peaks above a baseline, with knobs beside it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "lcr-meter",
+  "category": "electronics",
+  "draw": "Handheld meter with a display and two clip leads, with L, C and R marks.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "frequency-counter",
+  "category": "electronics",
+  "draw": "Box instrument with a long row of digits and a round input connector.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "insulation-tester",
+  "category": "electronics",
+  "draw": "Handheld meter with a large dial and a lightning bolt warning mark.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "test-leads",
+  "category": "electronics",
+  "draw": "Pair of pointed probes with wires ending in banana plugs.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "oscilloscope-probe",
+  "category": "electronics",
+  "draw": "Slim probe body with a hook tip and a small ground clip wire.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "logic-probe",
+  "category": "electronics",
+  "draw": "Pen shaped probe with two small indicator lights and a clip wire.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "test-lamp",
+  "category": "electronics",
+  "draw": "Pointed metal probe with a clear handle holding a small bulb and a clip lead.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "electronic-load",
+  "category": "electronics",
+  "draw": "Box instrument with a display, a knob and a large fan vent.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "wattmeter",
+  "category": "electronics",
+  "draw": "Round analog meter with a needle and a W in the center.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "esd-wrist-strap",
+  "category": "electronics",
+  "draw": "Wrist band with a coiled cord ending in a clip.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "anti-static-bag",
+  "category": "electronics",
+  "draw": "Shiny resealable bag with a hand symbol crossed through.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "anti-static-mat",
+  "category": "electronics",
+  "draw": "Flat work mat with a snap stud in one corner and a ground cord.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "smith-chart",
+  "category": "electronics",
+  "draw": "Circle filled with overlapping arcs and circles tangent at the right edge.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "bode-plot",
+  "category": "electronics",
+  "draw": "Two stacked graphs, the upper curve flat then sloping down, the lower curve dropping in an S.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "eye-diagram",
+  "category": "electronics",
+  "draw": "Many overlapping waveform traces crossing to form an open eye shape in the middle.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "karnaugh-map",
+  "category": "electronics",
+  "draw": "Four by four grid of zeros and ones with rounded loops grouping some cells.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "timing-diagram",
+  "category": "electronics",
+  "draw": "Several stacked square pulse traces aligned in time with a dashed vertical marker.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "desoldering-pump",
+  "category": "electronics",
+  "draw": "Long cylindrical plunger tool with a pointed nozzle and a push button on the side.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "desoldering-braid",
+  "category": "electronics",
+  "draw": "Small spool with a flat braided copper strip unwinding.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "soldering-iron-stand",
+  "category": "electronics",
+  "draw": "Spiral coil holder on a base with a sponge tray.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "tip-cleaner",
+  "category": "electronics",
+  "draw": "Round cup filled with coiled brass wool.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "flux-pen",
+  "category": "electronics",
+  "draw": "Marker shaped pen with a felt tip and a drop at the tip.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "hot-air-station",
+  "category": "electronics",
+  "draw": "Box unit with a digital display and a handheld hot air wand with a nozzle.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "soldering-gun",
+  "category": "electronics",
+  "draw": "Pistol shaped tool with a trigger and a loop shaped tip.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "solder-joint",
+  "category": "electronics",
+  "draw": "Pad on a board with a lead coming through and a smooth cone of solder around it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "solder-pot",
+  "category": "electronics",
+  "draw": "Small round pot on a stand holding molten solder with heat waves above.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "fume-extractor",
+  "category": "electronics",
+  "draw": "Small box fan unit with a filter grille and wisps of smoke being drawn in.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "spudger",
+  "category": "electronics",
+  "draw": "Thin prying stick with a flat tip at one end and a pointed tip at the other.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "ic-extractor",
+  "category": "electronics",
+  "draw": "U shaped spring tool with two hooked prongs gripping a chip.",
+  "domain": "r2-electronics-components"
+ }
+]

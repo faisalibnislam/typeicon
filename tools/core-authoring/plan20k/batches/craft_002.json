@@ -1,0 +1,482 @@
+[
+ {
+  "name": "evacuation-slide",
+  "category": "craft",
+  "draw": "Airplane fuselage side door with a long inflated escape slide angling down to the ground.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "pushback-tug",
+  "category": "craft",
+  "draw": "Side view of a very low flat airport tractor connected by a tow bar to the nose wheel of an airliner.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "baggage-tractor",
+  "category": "craft",
+  "draw": "Small open airport tractor pulling a short train of covered baggage carts.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "belt-loader",
+  "category": "craft",
+  "draw": "Side view of a small vehicle with an inclined conveyor belt running up into the open cargo hold of a plane, a suitcase on the belt.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "catering-truck",
+  "category": "craft",
+  "draw": "Side view of a truck whose box body is raised high on a scissor lift up to an airplane door.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "aircraft-refueler",
+  "category": "craft",
+  "draw": "Side view of a fuel tanker truck parked under an airplane wing with a hose running up to the wing.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "tandem-rotor-helicopter",
+  "category": "craft",
+  "draw": "Side view of a long helicopter with a large rotor on top at each end, the rear rotor raised on a tall pylon.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "rescue-helicopter",
+  "category": "craft",
+  "draw": "Helicopter in side view hovering with a winch cable hanging down to a rescue basket.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "fixed-wing-drone",
+  "category": "craft",
+  "draw": "Top view of a small unmanned plane with straight wings, a twin boom tail and a pusher propeller, no cockpit.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "drone-remote",
+  "category": "craft",
+  "draw": "Handheld drone controller with two thumbsticks, a phone clipped on top and two short antennas.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "fpv-goggles",
+  "category": "craft",
+  "draw": "Boxy drone pilot goggles with a wide head strap and two short antennas sticking up on top.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "drone-swarm",
+  "category": "craft",
+  "draw": "A cluster of several small quadcopter shapes of different sizes flying together in formation.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "drone-light-show",
+  "category": "craft",
+  "draw": "Night sky with a grid of glowing dots arranged into a star shape, a small drone drawn at one of the dots.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "drone-dock",
+  "category": "craft",
+  "draw": "Box-shaped drone docking station with its lid opened back and a small quadcopter landing on the pad inside.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "tugboat",
+  "category": "craft",
+  "draw": "Side view of a short stout tugboat with a tall wheelhouse, a big funnel and tire fenders hung along the hull.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "trawler",
+  "category": "craft",
+  "draw": "Side view of a fishing trawler with a tall A-frame gantry at the stern and a net hanging from it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "shrimp-boat",
+  "category": "craft",
+  "draw": "Side view of a fishing boat with two long outrigger booms angled out and up from its mast, nets hanging from their tips.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "oil-tanker",
+  "category": "craft",
+  "draw": "Side view of a very long low tanker ship with a flat deck, a pipe manifold in the middle and a superstructure at the stern.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "bulk-carrier",
+  "category": "craft",
+  "draw": "Side view of a cargo ship with a row of deck hatches and several tall cranes standing between them.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "vehicle-carrier-ship",
+  "category": "craft",
+  "draw": "Side view of a tall boxy ship with a slab-sided hull like a floating building and a loading ramp at the stern.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "heavy-lift-ship",
+  "category": "craft",
+  "draw": "Side view of a low flat-decked semi-submersible ship carrying a smaller boat sitting high on its deck.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "drillship",
+  "category": "craft",
+  "draw": "Side view of a ship with a tall lattice drilling derrick rising from the middle of its deck.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "icebreaker",
+  "category": "craft",
+  "draw": "Side view of a ship with a heavy sloped bow riding up onto cracked slabs of sea ice.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "hovercraft",
+  "category": "craft",
+  "draw": "Side view of a craft on a puffy inflated rubber skirt with large ducted fans at the back over a line of spray.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "hydrofoil",
+  "category": "craft",
+  "draw": "Side view of a fast boat lifted above the water on angled underwater wings, with only the foils touching the surface.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "houseboat",
+  "category": "craft",
+  "draw": "Side view of a flat boat carrying a small house with a pitched roof, windows and a door.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "narrowboat",
+  "category": "craft",
+  "draw": "Side view of a long very narrow canal boat with a low cabin roof, round portholes and a tiller at the stern.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "barge",
+  "category": "craft",
+  "draw": "Side view of a long flat open cargo barge riding low in the water, heaped with sand.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "solar-boat",
+  "category": "craft",
+  "draw": "Side view of a low flat boat with a flat canopy roof made of a grid of solar panels on thin posts.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "junk-ship",
+  "category": "craft",
+  "draw": "Side view of a traditional Chinese junk with a high stern and ribbed fan-like battened sails.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "dhow",
+  "category": "craft",
+  "draw": "Side view of a wooden sailing boat with a raked mast and a single large triangular lateen sail on a long angled yard.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "longship",
+  "category": "craft",
+  "draw": "Side view of a long narrow Norse ship with a curled dragon-head prow, a single square striped sail and a row of round shields.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "galleon",
+  "category": "craft",
+  "draw": "Side view of a large wooden sailing ship with a tall towering stern castle, three masts and billowing square sails.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "pirate-ship",
+  "category": "craft",
+  "draw": "Side view of a wooden sailing ship with square sails and a small flag bearing a skull and crossbones at the masthead.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "clipper-ship",
+  "category": "craft",
+  "draw": "Side view of a sleek three-masted sailing ship with many stacked square sails and a long pointed bowsprit.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "schooner",
+  "category": "craft",
+  "draw": "Side view of a sailing ship with two masts carrying large fore-and-aft gaff sails and triangular jibs at the bow.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "oared-galley",
+  "category": "craft",
+  "draw": "Side view of an ancient warship with a single square sail and a long row of oars sweeping down into the water.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "warship",
+  "category": "craft",
+  "draw": "Side view of a gray naval vessel with a sloped bow, a stepped superstructure, a mast and gun turrets fore and aft.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "aircraft-carrier",
+  "category": "craft",
+  "draw": "Side view of a large ship with a long flat flight deck, an island tower on one side and small jets parked on deck.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "landing-craft",
+  "category": "craft",
+  "draw": "Side view of a flat-bottomed boxy boat with its front ramp lowered onto a beach.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "patrol-boat",
+  "category": "craft",
+  "draw": "Side view of a fast boat with a raised wheelhouse, a radar mast and a diagonal stripe on the hull.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "fireboat",
+  "category": "craft",
+  "draw": "Side view of a boat with water cannons on its deck shooting high arcs of water.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "gondola-boat",
+  "category": "craft",
+  "draw": "Side view of a long slim boat with an upswept toothed prow and a gondolier standing at the stern with a long oar.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "log-raft",
+  "category": "craft",
+  "draw": "Raft of lashed tree trunks with a small mast and square sail, seen at a slight angle on the water.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "whitewater-raft",
+  "category": "craft",
+  "draw": "Inflatable rubber raft with rounded tubes bouncing on waves, paddles sticking out from both sides.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "life-raft",
+  "category": "craft",
+  "draw": "Round inflatable rescue raft with a tent-like canopy roof and an entrance flap, floating on the water.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "lifeboat",
+  "category": "craft",
+  "draw": "Side view of an enclosed rescue lifeboat with a rounded covered roof, small windows and a hatch on top.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "pedalo",
+  "category": "craft",
+  "draw": "Side view of a pedal boat shaped like a swan with a curved neck at the front and two seats inside.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "paddle-steamer",
+  "category": "craft",
+  "draw": "Side view of a steamboat with a large paddle wheel in a semicircular housing on its side and two tall funnels.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "sternwheeler",
+  "category": "craft",
+  "draw": "Side view of a flat riverboat with two tall thin smokestacks, stacked decks and a large paddle wheel at the stern.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "trimaran",
+  "category": "craft",
+  "draw": "Front view of a sailboat with a central hull and two slimmer outer hulls connected by beams, under a tall triangular sail.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "outrigger-canoe",
+  "category": "craft",
+  "draw": "Top view of a narrow canoe with a single float held parallel to it on two curved crossbeams.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "coracle",
+  "category": "craft",
+  "draw": "Small round bowl-shaped boat seen from the side with a single paddle resting over the rim.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "dragon-boat",
+  "category": "craft",
+  "draw": "Side view of a long narrow boat with a dragon head at the prow, a curled tail at the stern and a row of paddles.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "longtail-boat",
+  "category": "craft",
+  "draw": "Side view of a slim wooden boat with an upswept prow and an engine at the stern on a very long propeller shaft.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "reed-boat",
+  "category": "craft",
+  "draw": "Side view of a boat made of bundled reeds curving up sharply at both ends, tied with bands.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "sampan",
+  "category": "craft",
+  "draw": "Side view of a small flat wooden boat with a curved arched canopy roof over the middle and a long stern oar.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "punt-boat",
+  "category": "craft",
+  "draw": "Side view of a flat square-ended boat with a person standing at the back pushing a long pole into the water.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "airboat",
+  "category": "craft",
+  "draw": "Side view of a flat-bottomed swamp boat with a large caged propeller fan mounted upright at the back.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "rowing-scull",
+  "category": "craft",
+  "draw": "Side view of a very long narrow racing shell with a rower and long thin oars reaching out to both sides.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "iceboat",
+  "category": "craft",
+  "draw": "Side view of a sailboat frame sitting on three ice skate runners on a flat icy surface.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "pontoon-boat",
+  "category": "craft",
+  "draw": "Side view of a flat deck boat resting on two long tube floats, with a canopy and railings on deck.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "glass-bottom-boat",
+  "category": "craft",
+  "draw": "Side view of a boat with a window panel in its hull through which a small fish is visible below.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "parasail",
+  "category": "craft",
+  "draw": "Motorboat on waves towing a long line up to a person hanging under a wide round parasail canopy.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "windsurf-board",
+  "category": "craft",
+  "draw": "Surfboard with a mast and a tall curved triangular sail attached at its middle, leaning slightly in the wind.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "paddleboard",
+  "category": "craft",
+  "draw": "Long flat stand-up paddleboard seen from the side with a long single-blade paddle standing upright beside it.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "foil-board",
+  "category": "craft",
+  "draw": "Side view of a board lifted above the water on a tall thin mast ending in a small underwater wing.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "diving-bell",
+  "category": "craft",
+  "draw": "Open-bottomed bell-shaped chamber with a small window, hanging from a cable under the water surface.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "underwater-scooter",
+  "category": "craft",
+  "draw": "A diver-held torpedo-shaped propulsion unit with a caged propeller at the rear and two handles.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "diving-helmet",
+  "category": "craft",
+  "draw": "Round brass deep-sea diving helmet with a small round front window, bolted collar and an air hose fitting.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "man-overboard",
+  "category": "craft",
+  "draw": "Person with raised arms in wavy water next to a floating life ring.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "ship-wheel",
+  "category": "craft",
+  "draw": "Wooden ship steering wheel with eight spokes ending in round handles around a central hub.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "porthole",
+  "category": "craft",
+  "draw": "Round ship window with a thick bolted metal rim and a glass pane showing a small wave inside.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "life-jacket",
+  "category": "craft",
+  "draw": "Front view of a buoyant vest with two thick padded front panels, a collar and buckled straps.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "rudder",
+  "category": "craft",
+  "draw": "Side view of a boat stern with a flat blade rudder hinged below the waterline and a tiller arm on top.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "ship-bell",
+  "category": "craft",
+  "draw": "Brass ship bell hanging from a curved bracket with a knotted clapper rope below.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "crows-nest",
+  "category": "craft",
+  "draw": "Top of a ship mast with a round lookout barrel platform near the tip and a small flag above.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "ship-funnel",
+  "category": "craft",
+  "draw": "Tall smokestack funnel of a ship with two horizontal bands and a puff of smoke rising from the top.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "outboard-motor",
+  "category": "craft",
+  "draw": "Side view of an outboard boat engine with a rounded cowling on top, a long shaft and a propeller at the bottom.",
+  "domain": "rail-air-sea-space-craft"
+ },
+ {
+  "name": "oar",
+  "category": "craft",
+  "draw": "Single wooden rowing oar drawn diagonally with a long shaft, a grip at one end and a flat blade at the other.",
+  "domain": "rail-air-sea-space-craft"
+ }
+]

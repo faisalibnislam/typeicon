@@ -1,0 +1,482 @@
+[
+ {
+  "name": "browser-extension",
+  "category": "web",
+  "draw": "Browser window outline with a jigsaw puzzle piece sitting in the top toolbar at the right end.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "vertical-tabs",
+  "category": "web",
+  "draw": "Browser window with a narrow left column of four stacked short tab rows, the top one highlighted.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "sleeping-tab",
+  "category": "web",
+  "draw": "Single browser tab shape with a small crescent moon and two small z letters floating above it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "audio-playing-tab",
+  "category": "web",
+  "draw": "Single browser tab shape with a small speaker and two sound wave arcs inside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "too-many-tabs",
+  "category": "web",
+  "draw": "Browser window whose top edge is crowded with a dense row of tiny squeezed tab shapes.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "browser-profiles",
+  "category": "web",
+  "draw": "Browser window with two overlapping round person avatars in its top right corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "kiosk-mode",
+  "category": "web",
+  "draw": "Freestanding kiosk pedestal whose tall screen shows a full-screen browser page with no toolbar.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-clipper",
+  "category": "web",
+  "draw": "Browser page with a pair of scissors cutting along a dashed rectangle around a content block.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "full-page-screenshot",
+  "category": "web",
+  "draw": "Tall page outline extending well below a browser window frame, with camera corner brackets at its top and bottom.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "page-loading-bar",
+  "category": "web",
+  "draw": "Browser window with a thin partly filled progress line running along the bottom of the address bar.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "page-crash",
+  "category": "web",
+  "draw": "Browser window with a jagged crack running across the page and a small frowning face in the middle.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "search-results-page",
+  "category": "web",
+  "draw": "Browser page with a search bar at the top and three stacked result blocks, each a short bold line over two thin lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "new-tab-page",
+  "category": "web",
+  "draw": "Browser window with a centered search bar and a three by two grid of small rounded shortcut tiles below.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "mobile-browser",
+  "category": "web",
+  "draw": "Smartphone outline with an address bar across the top of its screen and page lines below.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "desktop-site-view",
+  "category": "web",
+  "draw": "Smartphone outline whose screen shows a tiny desktop monitor with a wide page layout.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "user-agent",
+  "category": "web",
+  "draw": "Browser window with a small ID card in front of its lower right corner showing a globe and two lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "browser-storage",
+  "category": "web",
+  "draw": "Browser window with a small database cylinder sitting inside the page area.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "coming-soon-page",
+  "category": "web",
+  "draw": "Browser window with a small rocket on a launch line in the middle of the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "under-construction-page",
+  "category": "web",
+  "draw": "Browser window with a striped barrier and a traffic cone standing inside the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "maintenance-page",
+  "category": "web",
+  "draw": "Browser window with a wrench and screwdriver crossed in the middle of the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "thank-you-page",
+  "category": "web",
+  "draw": "Browser window with a large heart above two short centered text lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "faq-page",
+  "category": "web",
+  "draw": "Browser page with three stacked accordion rows, each starting with a question mark and ending with a small chevron.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "team-page",
+  "category": "web",
+  "draw": "Browser page with a two by three grid of small round portrait heads, each with a short name line under it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "about-page",
+  "category": "web",
+  "draw": "Browser page with a round portrait on the left and three text lines on the right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "wiki-article",
+  "category": "web",
+  "draw": "Article page with a small boxed image at top right, text lines, and several underlined link words in the lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "discussion-forum",
+  "category": "web",
+  "draw": "Stacked list of three thread rows, each with a small round avatar on the left and a reply count bubble on the right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "comment-section",
+  "category": "web",
+  "draw": "Article text block above a divider and two indented comment rows with small avatars and speech tails.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "blogroll",
+  "category": "web",
+  "draw": "Short vertical list of three link rows, each starting with a small chain link glyph, under a header bar.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "webring",
+  "category": "web",
+  "draw": "Five small browser windows arranged in a circle joined by curved arrows into a loop.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "visitor-counter",
+  "category": "web",
+  "draw": "Retro odometer style strip of five boxed digit wheels with a small eye above it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "bulletin-board-system",
+  "category": "web",
+  "draw": "Old boxy computer monitor with blocky menu lines on screen and a coiled phone cord to a small modem.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "internet-cafe",
+  "category": "web",
+  "draw": "Desk with two computer monitors side by side and a steaming coffee cup between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-portal",
+  "category": "web",
+  "draw": "Browser window with an open doorway in the page and an arrow walking through it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-archive",
+  "category": "web",
+  "draw": "Archive box with the front edges of several stacked browser pages showing above its open top.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-directory",
+  "category": "web",
+  "draw": "Open index book with a globe on the left page and alphabet tabs down the right edge.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "extranet",
+  "category": "web",
+  "draw": "Office building connected by a line through a small open gate to a partner building outside a dashed boundary.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "captive-portal",
+  "category": "web",
+  "draw": "Wifi symbol above a small browser window showing a sign in button that blocks the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "internet-service-provider",
+  "category": "web",
+  "draw": "Building with an antenna on its roof and a cable running from it to a small house.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "net-neutrality",
+  "category": "web",
+  "draw": "Three parallel pipes of equal width, each carrying a data packet, with an equals sign above them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "geo-restriction",
+  "category": "web",
+  "draw": "Globe with a map pin and a barrier arm fence crossing in front of it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-filter",
+  "category": "web",
+  "draw": "Funnel sitting on top of a browser window, with a few blocked dots trapped in the funnel.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "bot-traffic",
+  "category": "web",
+  "draw": "Small robot head with an arrow cursor pointing into a browser window next to it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "internet-exchange-point",
+  "category": "web",
+  "draw": "Central square hub with six lines radiating out to small globes and servers around it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "port-forwarding",
+  "category": "web",
+  "draw": "Router box with an arrow entering from the left and continuing through it to a small numbered door on the right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "traffic-surge",
+  "category": "web",
+  "draw": "Server stack with a crowd of small arrows pressing into it from one side and heat lines above.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "digital-divide",
+  "category": "web",
+  "draw": "Two small houses side by side separated by a vertical gap, only the left one with a wifi symbol above it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "internet-shutdown",
+  "category": "web",
+  "draw": "Globe with a large power plug pulled out of its socket beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-surfing",
+  "category": "web",
+  "draw": "Surfboard riding on a wave with a small arrow cursor standing on the board.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "doomscrolling",
+  "category": "web",
+  "draw": "Smartphone showing an endless stack of feed cards with a thumb swiping down and a weary face on the top card.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "online-voting",
+  "category": "web",
+  "draw": "Browser window with a ballot paper dropping into a slot box inside the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "online-auction",
+  "category": "web",
+  "draw": "Browser window with an auction gavel striking inside the page next to a price tag.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "cross-site-scripting",
+  "category": "web",
+  "draw": "Browser window with angle bracket script tags injected into a text field and a small bug on them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-application-firewall",
+  "category": "web",
+  "draw": "Shield standing in front of a browser window with a brick pattern across the shield.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "typosquatting",
+  "category": "web",
+  "draw": "Address bar with a text line where one letter is swapped for a look-alike and a fishing hook hanging from it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "content-security-policy",
+  "category": "web",
+  "draw": "Browser window with a shield inside the page and a list of three allowed lines with ticks beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "website-defacement",
+  "category": "web",
+  "draw": "Browser window with a spray paint can and a scribbled graffiti squiggle across the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "dark-pattern",
+  "category": "web",
+  "draw": "Dialog box with a large filled accept button and a tiny faded close cross hidden in a corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "interstitial-ad",
+  "category": "web",
+  "draw": "Browser page fully covered by an ad panel with a small countdown circle in its top corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "skyscraper-ad",
+  "category": "web",
+  "draw": "Browser page with a tall narrow ad banner running down the right side next to the text column.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "pay-per-click",
+  "category": "web",
+  "draw": "Arrow cursor clicking on a coin with small click rays around the tip.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "retargeting-ad",
+  "category": "web",
+  "draw": "Target with a curved return arrow looping around from a person silhouette back to an ad card.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "ad-network",
+  "category": "web",
+  "draw": "Central node linked by lines to four small browser windows, each with a filled ad block.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "clickbait",
+  "category": "web",
+  "draw": "Headline card with a big exclamation mark on a fishing hook dangling from a line above it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "cookie-wall",
+  "category": "web",
+  "draw": "Round cookie with bite marks standing in front of a blurred browser page like a wall.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "paywall",
+  "category": "web",
+  "draw": "Browser page whose lower half is covered by a brick wall with a coin slot in it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "members-area",
+  "category": "web",
+  "draw": "Browser window with a membership card showing a small star and a person avatar in the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "affiliate-link",
+  "category": "web",
+  "draw": "Chain link with a small coin attached to one end.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "utm-tag",
+  "category": "web",
+  "draw": "Address bar followed by three small tag shapes hanging off the end of the URL line.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "deep-link",
+  "category": "web",
+  "draw": "Chain link with an arrow diving into a stack of layered app screens.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "jump-link",
+  "category": "web",
+  "draw": "Page with a hash sign at the top and a curved arrow jumping down to a heading lower on the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "link-building",
+  "category": "web",
+  "draw": "Several chain links being stacked like bricks into a small rising wall.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "anchor-text",
+  "category": "web",
+  "draw": "Text line with one underlined word and a small chain link above that word.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "internal-links",
+  "category": "web",
+  "draw": "Browser window with three small page blocks inside connected to each other by curved link lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "toxic-link",
+  "category": "web",
+  "draw": "Chain link with a small skull on it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "link-equity",
+  "category": "web",
+  "draw": "Chain link with a water drop falling from it into a small page below.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "link-farm",
+  "category": "web",
+  "draw": "Rows of small chain links sprouting from the ground like crops in a field.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "link-exchange",
+  "category": "web",
+  "draw": "Two pages side by side with two curved arrows swapping chain links between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "canonical-url",
+  "category": "web",
+  "draw": "Three faded duplicate pages with arrows pointing to one bold page marked with a crown.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "redirect-chain",
+  "category": "web",
+  "draw": "Three pages in a row joined by curved arrows hopping from one to the next.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "redirect-loop",
+  "category": "web",
+  "draw": "Two pages facing each other with two curved arrows forming a continuous circle between them.",
+  "domain": "r2-internet-web"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "shipwreck",
+  "category": "sea-life",
+  "draw": "A broken tilted sailing ship hull resting on the seabed with a snapped mast and a small fish.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-current",
+  "category": "sea-life",
+  "draw": "Several long curving parallel flow arrows sweeping across wavy water lines.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-layers",
+  "category": "sea-life",
+  "draw": "A cross section water column split into three horizontal bands getting darker with depth, with a sun at the top.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "bioluminescence",
+  "category": "sea-life",
+  "draw": "A dark wave line sprinkled with small glowing sparkle dots along its crest.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "seabed",
+  "category": "sea-life",
+  "draw": "A sandy seafloor line with small rocks, a shell and a sprig of seaweed under a wavy surface line.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "blue-hole",
+  "category": "sea-life",
+  "draw": "Top view of a dark round deep circle in the middle of a pale shallow reef.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "cove",
+  "category": "sea-life",
+  "draw": "Top view of a curved sheltered bay coastline with an almost enclosed rounded pocket of water.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "whale-fall",
+  "category": "sea-life",
+  "draw": "A whale skeleton lying on the seabed with its ribs up and a few small creatures around it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-upwelling",
+  "category": "sea-life",
+  "draw": "Cross section with curved arrows rising from deep water up the slope of a coastline to the surface.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-gyre",
+  "category": "sea-life",
+  "draw": "Top view of a large oval loop of circling arrows with small floating debris gathered in the middle.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "marine-snow",
+  "category": "sea-life",
+  "draw": "Dark water with many small flakes and specks drifting down toward a seabed line.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-tag",
+  "category": "sea-life",
+  "draw": "Side view of a fish with a small tracking tag clipped to its back fin and a signal arc above.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-measuring-board",
+  "category": "sea-life",
+  "draw": "A fish lying on a long board with a ruler scale marked along its edge.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "plankton-net",
+  "category": "sea-life",
+  "draw": "A long cone shaped fine mesh net with a small collecting jar at its narrow end and a ring mouth.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-ladder",
+  "category": "sea-life",
+  "draw": "A series of stepped pools rising beside a dam with a fish leaping up between steps.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-farm-pen",
+  "category": "sea-life",
+  "draw": "A round floating net pen ring on the water surface with a mesh net hanging below and fish inside.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "seaweed-farm",
+  "category": "sea-life",
+  "draw": "A horizontal rope between two floats with seaweed strands hanging down from it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "trawl-net",
+  "category": "sea-life",
+  "draw": "A long cone shaped fishing net with a wide open mouth held by floats and weights, tapering to a closed end.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "hydrophone",
+  "category": "sea-life",
+  "draw": "An underwater microphone hanging on a cable with sound wave arcs spreading out beside it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "secchi-disk",
+  "category": "sea-life",
+  "draw": "A round disk divided into four quarters alternating dark and light, hanging from a marked rope.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "profiling-float",
+  "category": "sea-life",
+  "draw": "A tall slim cylinder float bobbing upright in the water with a short antenna above the surface.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "water-sampling-bottle",
+  "category": "sea-life",
+  "draw": "A tube shaped sampling bottle with caps at both ends clipped to a vertical cable underwater.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "sediment-core",
+  "category": "sea-life",
+  "draw": "A clear tube holding a cylinder of seabed mud with several stacked horizontal layers.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "survey-quadrat",
+  "category": "sea-life",
+  "draw": "A square frame divided into a grid laid on the seabed over some coral and a shell.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "underwater-rov",
+  "category": "sea-life",
+  "draw": "A boxy remote underwater vehicle with two lights, side thrusters and a tether cable rising from its top.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "bathysphere",
+  "category": "sea-life",
+  "draw": "A round steel diving sphere with small round portholes hanging from a cable.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "seafloor-mapping",
+  "category": "sea-life",
+  "draw": "A boat on a water line sending a fan of sonar beams down onto an uneven seabed profile.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-finder",
+  "category": "sea-life",
+  "draw": "A small screen showing fish shaped arches above a seabed line, with a transducer cable.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "specimen-jar",
+  "category": "sea-life",
+  "draw": "A lidded glass jar with a preserved small fish or octopus floating inside.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "aquarium-tank",
+  "category": "sea-life",
+  "draw": "A rectangular glass fish tank with a light hood on top, a plant, gravel at the bottom and a fish.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "aquarium-net",
+  "category": "sea-life",
+  "draw": "A small rectangular fish scoop net on a straight handle.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "aquarium-filter",
+  "category": "sea-life",
+  "draw": "A box filter hanging on the rim of a tank edge with water pouring back in from its spout.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "aquarium-heater",
+  "category": "sea-life",
+  "draw": "A slim glass tube heater with a control dial at its top and suction cup clips on the side.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "aquarium-air-stone",
+  "category": "sea-life",
+  "draw": "A small cylinder stone on the tank floor with an air tube and a column of bubbles rising from it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "aquarium-test-kit",
+  "category": "sea-life",
+  "draw": "A small bottle and a test tube vial next to a color chart card with swatches.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "gravel-siphon",
+  "category": "sea-life",
+  "draw": "A wide tube dipped into tank gravel connected to a hose leading down into a bucket.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-bag",
+  "category": "sea-life",
+  "draw": "A clear plastic bag tied at the top, filled with water with a small fish inside.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "marine-reserve",
+  "category": "sea-life",
+  "draw": "A dashed boundary circle over wavy water enclosing a fish and a coral.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-conservation",
+  "category": "sea-life",
+  "draw": "Two open cupped hands holding a wave with a small fish above it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "sustainable-seafood",
+  "category": "sea-life",
+  "draw": "Side view of a fish with a leaf growing out of its back in place of a dorsal fin.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "overfishing",
+  "category": "sea-life",
+  "draw": "A bulging fishing net overflowing with many fish, with a downward trend line beside it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-plastic",
+  "category": "sea-life",
+  "draw": "A plastic bottle and a bag floating on a wavy water line with a fish swimming beneath.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "microplastics",
+  "category": "sea-life",
+  "draw": "A water drop containing many tiny fragments of irregular shapes and small dots.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "oil-spill",
+  "category": "sea-life",
+  "draw": "A dark blob slick spreading on a wavy water surface from a single drop above.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ghost-net",
+  "category": "sea-life",
+  "draw": "A torn tangled fishing net drifting underwater with a fish caught in its mesh.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-acidification",
+  "category": "sea-life",
+  "draw": "A seashell partly dissolving with holes inside a water drop marked with the letters pH.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "sea-temperature",
+  "category": "sea-life",
+  "draw": "A thermometer standing in a wavy water line with its bulb below the surface.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "salinity",
+  "category": "sea-life",
+  "draw": "A water drop with a few small salt crystal cubes inside it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-depth",
+  "category": "sea-life",
+  "draw": "A vertical depth scale with tick marks descending from a wavy surface line to a seabed line.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "whale-song",
+  "category": "sea-life",
+  "draw": "Side view of a whale with curved sound wave arcs spreading from its head.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "echolocation",
+  "category": "sea-life",
+  "draw": "Side view of a dolphin head sending arcs of sound toward a small fish that bounce back.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-migration",
+  "category": "sea-life",
+  "draw": "A fish following a long curved dashed route line that ends in a looping arrow.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "beach-cleanup",
+  "category": "sea-life",
+  "draw": "A trash bag and a grabber tool beside a bottle on a sand line with a small wave.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "reef-safe-sunscreen",
+  "category": "sea-life",
+  "draw": "A sunscreen squeeze tube with a small coral branch on its label.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "sea-glass",
+  "category": "sea-life",
+  "draw": "Three small smooth rounded frosted glass pebbles with soft highlights.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-tail",
+  "category": "sea-life",
+  "draw": "A single forked caudal fish tail fin with radiating fin ray lines.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-scales",
+  "category": "sea-life",
+  "draw": "A pattern of overlapping rounded fish scales arranged in staggered rows.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-skeleton",
+  "category": "sea-life",
+  "draw": "Side view of a fish skeleton with a head, a straight spine, rib bones and a tail fin.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-eggs",
+  "category": "sea-life",
+  "draw": "A cluster of small round translucent eggs, each with a dark dot inside.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "fish-gills",
+  "category": "sea-life",
+  "draw": "Close up side view of a fish head with a curved gill cover and several arched gill slits behind it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "salmon-run",
+  "category": "sea-life",
+  "draw": "Several salmon leaping upstream over a small stepped waterfall.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "bait-ball",
+  "category": "sea-life",
+  "draw": "A tight round sphere made of many tiny fish swirling together.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "clownfish-anemone",
+  "category": "sea-life",
+  "draw": "A small banded clownfish nestled among the wavy tentacles of a sea anemone.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "neon-tetra",
+  "category": "sea-life",
+  "draw": "Side view of a tiny slim fish with a single bold horizontal stripe running from eye to tail.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "arowana",
+  "category": "sea-life",
+  "draw": "Side view of a long flat silver fish with large scales, an upturned mouth and two chin barbels.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "hagfish",
+  "category": "sea-life",
+  "draw": "Side view of an eel like fish with a blunt head fringed with short barbels and slime drips below it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "wobbegong",
+  "category": "sea-life",
+  "draw": "Top view of a flat carpet shark with a patterned back and a fringe of leafy tassels around its mouth.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "frilled-shark",
+  "category": "sea-life",
+  "draw": "Side view of an eel shaped shark with frilly ruffled gill slits behind its head.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "marine-flatworm",
+  "category": "sea-life",
+  "draw": "Top view of a thin flat oval worm with ruffled wavy edges and two small ear like flaps at the front.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "salp-chain",
+  "category": "sea-life",
+  "draw": "A chain of linked transparent barrel shaped bodies each with a small dark spot.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "cuttlebone",
+  "category": "sea-life",
+  "draw": "An oval flat chalky bone with a thick rim and fine curved growth lines across it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "aquarium-castle",
+  "category": "sea-life",
+  "draw": "A small ornamental castle with turrets and an arched doorway sitting on gravel with bubbles rising.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "koi-pond",
+  "category": "sea-life",
+  "draw": "Top view of a curved garden pond edged with stones and two koi swimming in a circle.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "aquarium-tunnel",
+  "category": "sea-life",
+  "draw": "An arched glass tunnel seen from the front with fish and a ray swimming overhead.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "beached-whale",
+  "category": "sea-life",
+  "draw": "Side view of a whale lying stranded on a sand line with the waves out of reach behind it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "blue-carbon",
+  "category": "sea-life",
+  "draw": "A clump of sea grass on the seabed with a CO2 bubble and a downward arrow into its roots.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "ocean-dead-zone",
+  "category": "sea-life",
+  "draw": "A water column with no life above and two fish skeletons lying on the seabed.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "whale-and-calf",
+  "category": "sea-life",
+  "draw": "Side view of a large whale swimming with a small calf close beside and slightly above it.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "jellyfish-bloom",
+  "category": "sea-life",
+  "draw": "A crowd of several small jellyfish drifting together at different heights.",
+  "domain": "sea-life"
+ },
+ {
+  "name": "crab-molt",
+  "category": "sea-life",
+  "draw": "A soft crab backing out of its empty old shell, which stays behind with an open split at its rear.",
+  "domain": "sea-life"
+ }
+]

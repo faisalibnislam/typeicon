@@ -1,0 +1,482 @@
+[
+ {
+  "name": "french-door-fridge",
+  "category": "appliances",
+  "draw": "Tall front view fridge with two narrow side by side upper doors meeting in the middle and one wide pull out freezer drawer below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "side-by-side-fridge",
+  "category": "appliances",
+  "draw": "Tall front view fridge split vertically into two full height doors, the left slightly narrower, with two long vertical handles.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "mini-fridge",
+  "category": "appliances",
+  "draw": "Small squat cube fridge with a single door, short handle and a tiny freezer compartment line near the top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "chest-freezer",
+  "category": "appliances",
+  "draw": "Wide low horizontal box seen from the front at a slight angle, hinged lid on top with a handle across the front edge.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "ice-maker",
+  "category": "appliances",
+  "draw": "Countertop box with a lift lid and a front window showing a pile of small ice cubes, a scoop beside it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "range-hood",
+  "category": "appliances",
+  "draw": "Chimney style kitchen extractor: a narrow vertical duct widening into a trapezoid canopy with a light strip underneath.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "induction-hob",
+  "category": "appliances",
+  "draw": "Top view flat square glass cooktop with four plain ring outlines and a row of small touch dots along the front edge.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "gas-hob",
+  "category": "appliances",
+  "draw": "Top view square cooktop with four round burners each topped by cross shaped pan supports and control knobs along the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "range-cooker",
+  "category": "appliances",
+  "draw": "Wide freestanding cooker: a row of knobs over two side by side oven doors with windows, burners on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "wall-oven",
+  "category": "appliances",
+  "draw": "Built in oven in a cabinet frame: control panel strip at top, a large door with window and a horizontal handle.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "double-oven",
+  "category": "appliances",
+  "draw": "Built in unit with two stacked oven doors, each with a window and a bar handle, a thin control strip between.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "trash-compactor",
+  "category": "appliances",
+  "draw": "Narrow under counter cabinet with a pull out drawer, a downward pressing plate line and a key switch on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "garbage-disposal",
+  "category": "appliances",
+  "draw": "Cylindrical unit hanging under a sink drain flange, with a side outlet pipe and a small reset button at the base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "stand-mixer",
+  "category": "appliances",
+  "draw": "Side view countertop mixer with a curved tilting head arm over a round bowl and a beater hanging into it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "hand-mixer",
+  "category": "appliances",
+  "draw": "Side view handheld mixer body with a looped handle on top and two whisk beaters pointing down.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "immersion-blender",
+  "category": "appliances",
+  "draw": "Vertical stick blender: long wand with a rounded button top and a bell shaped blade guard at the bottom.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "food-processor",
+  "category": "appliances",
+  "draw": "Squat motor base with a wide clear bowl on top, a lid and a tall feed tube with a pusher.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "juicer",
+  "category": "appliances",
+  "draw": "Centrifugal juicer: round base with a domed top, a vertical feed chute and a spout pouring into a small jug.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "slow-cooker",
+  "category": "appliances",
+  "draw": "Oval pot with a domed glass lid and knob, two side handles and a dial on the front of the base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "pressure-cooker",
+  "category": "appliances",
+  "draw": "Round pot with a locking lid, a long handle to the side and a small pressure valve with a gauge on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "multicooker",
+  "category": "appliances",
+  "draw": "Rounded electric pot with a hinged lid, a steam vent knob on top and a small digital display on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "rice-cooker",
+  "category": "appliances",
+  "draw": "Squat rounded cooker with a domed hinged lid, a steam vent on top and a single lever switch on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "air-fryer",
+  "category": "appliances",
+  "draw": "Rounded tall appliance with a pull out basket drawer at the bottom front, a handle and a dial on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "deep-fryer",
+  "category": "appliances",
+  "draw": "Rectangular fryer with a lid window, a frying basket handle sticking out the front and a thermostat dial.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "sandwich-maker",
+  "category": "appliances",
+  "draw": "Closed hinged press seen at an angle, top plate showing two triangular sandwich outlines and a clip handle.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "waffle-iron",
+  "category": "appliances",
+  "draw": "Round hinged iron opened at an angle showing a grid of square pockets on the lower plate.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "toaster-oven",
+  "category": "appliances",
+  "draw": "Wide low box with a glass door showing a rack inside and two stacked dials on the right side panel.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bread-maker",
+  "category": "appliances",
+  "draw": "Upright box with a hinged top lid containing a small viewing window and a control panel on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "egg-cooker",
+  "category": "appliances",
+  "draw": "Round base with a clear domed lid over a tray holding three egg tops poking through holes.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "coffee-maker",
+  "category": "appliances",
+  "draw": "Drip coffee machine: tall back tower with a water tank, an overhanging filter head and a glass carafe on the warming plate.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "electric-griddle",
+  "category": "appliances",
+  "draw": "Flat rectangular cooking plate with a raised rim, a grease channel on one side and a plug in thermostat probe.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "hot-plate",
+  "category": "appliances",
+  "draw": "Low boxy base with one round spiral heating element on top and a single knob on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "portable-gas-stove",
+  "category": "appliances",
+  "draw": "Flat briefcase shaped camping stove with one burner ring on top and a knob with a cartridge door at the side.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "pizza-oven",
+  "category": "appliances",
+  "draw": "Dome shaped oven with an arched mouth opening at the front and a small chimney on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bbq-smoker",
+  "category": "appliances",
+  "draw": "Horizontal barrel smoker on legs with a smaller firebox to one side and a tall chimney stack.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "popcorn-machine",
+  "category": "appliances",
+  "draw": "Cart style box with glass walls, a kettle hanging inside the roof and popcorn filling the bottom.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "food-dehydrator",
+  "category": "appliances",
+  "draw": "Round stack of four ventilated trays with a fan cap on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "sous-vide-cooker",
+  "category": "appliances",
+  "draw": "Slim stick circulator clipped to the side of a water pot, a small display on its top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "vacuum-sealer",
+  "category": "appliances",
+  "draw": "Long low flat machine with a hinged lid and a sealed bag sticking out of the front slot.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "meat-grinder",
+  "category": "appliances",
+  "draw": "Side view mincer with a hopper tray on top, a horizontal barrel and minced strands coming out of the round plate.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "pasta-maker",
+  "category": "appliances",
+  "draw": "Clamp mounted pasta roller: boxy frame with two rollers, a crank handle at the side and a sheet of dough coming out.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "electric-can-opener",
+  "category": "appliances",
+  "draw": "Upright countertop unit with a lever arm on the front clamping a can hanging below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "kitchen-scale",
+  "category": "appliances",
+  "draw": "Flat digital scale with a small display on the front and a round bowl on the platform.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "food-steamer",
+  "category": "appliances",
+  "draw": "Stack of three clear baskets with a domed lid on a round water base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "fondue-pot",
+  "category": "appliances",
+  "draw": "Round pot on a small stand with a burner under it and two long forks poking out of the top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "crepe-maker",
+  "category": "appliances",
+  "draw": "Large round flat hot plate on a low base with a small wooden spreader tool on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bottle-warmer",
+  "category": "appliances",
+  "draw": "Small cup shaped heater holding a baby bottle with a teat, one dial on the base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "personal-blender",
+  "category": "appliances",
+  "draw": "Upside down blending bottle with a blade cap locked onto a short motor base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "hot-water-dispenser",
+  "category": "appliances",
+  "draw": "Tall rounded thermo pot with a large push button pump on top and a spout at the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "kitchen-timer",
+  "category": "appliances",
+  "draw": "Round twist dial timer with minute marks and a small pointer on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "washer-dryer-stack",
+  "category": "appliances",
+  "draw": "Two stacked square machines, each with a round door, a thin control strip on each.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "drying-rack",
+  "category": "appliances",
+  "draw": "Folding clothes airer: a frame of parallel horizontal bars on A shaped legs with a hanging towel.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "floor-polisher",
+  "category": "appliances",
+  "draw": "Round disc floor machine with a long upright handle bar and a looped grip.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "window-vacuum",
+  "category": "appliances",
+  "draw": "Handheld squeegee vacuum with a wide rubber blade head and a small tank under the handle.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "portable-air-conditioner",
+  "category": "appliances",
+  "draw": "Tall rectangular floor unit on castors with a top louvre vent and a wide exhaust hose from the back.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "window-air-conditioner",
+  "category": "appliances",
+  "draw": "Box unit sitting in a window frame, front grille of horizontal louvres and two small knobs.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "mini-split",
+  "category": "appliances",
+  "draw": "Wall mounted long rounded indoor AC unit with a bottom louvre flap and three air flow lines below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "heat-pump",
+  "category": "appliances",
+  "draw": "Outdoor box unit with a big round fan grille on the front, pipes out the side and small heat waves above.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "evaporative-cooler",
+  "category": "appliances",
+  "draw": "Tall cooler with a front grille, a water tank window at the bottom and small water drops on the side.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "tower-fan",
+  "category": "appliances",
+  "draw": "Tall slim column fan with a vertical grille slot down the front and a round base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "pedestal-fan",
+  "category": "appliances",
+  "draw": "Round fan head with a grille and blades on a tall pole stand with a round base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "desk-fan",
+  "category": "appliances",
+  "draw": "Small round fan head on a short tilting neck and flat base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "box-fan",
+  "category": "appliances",
+  "draw": "Square framed fan with a round blade grille inside and a carry handle on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bladeless-fan",
+  "category": "appliances",
+  "draw": "Tall oval loop ring standing on a cylindrical base with no blades.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "exhaust-fan",
+  "category": "appliances",
+  "draw": "Square wall or window extractor with a frame and a circle of angled louvres or blades inside.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "handheld-fan",
+  "category": "appliances",
+  "draw": "Small battery fan with a round blade grille on top of a vertical handle.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "fan-heater",
+  "category": "appliances",
+  "draw": "Compact box heater with a front grille, a small fan behind it and wavy heat lines coming out.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "oil-filled-radiator",
+  "category": "appliances",
+  "draw": "Portable heater of vertical fin columns standing on castor feet with a dial on the end.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "infrared-heater",
+  "category": "appliances",
+  "draw": "Flat rectangular wall panel heater with a plain face and rippling heat waves coming off the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "patio-heater",
+  "category": "appliances",
+  "draw": "Tall pole standing heater with a wide round reflector hood on top and a cylindrical gas base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "wood-stove",
+  "category": "appliances",
+  "draw": "Box shaped stove on short legs with a glass door showing flames and a stovepipe rising up.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "storage-heater",
+  "category": "appliances",
+  "draw": "Low wide rectangular heater box with a grille along the top edge and two dials on the side.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "kerosene-heater",
+  "category": "appliances",
+  "draw": "Round cylindrical heater with a grille cage around a glowing wick window and a carry handle.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "underfloor-heating",
+  "category": "appliances",
+  "draw": "Floor tile line with a serpentine heating pipe loop beneath it and heat waves rising.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "electric-blanket",
+  "category": "appliances",
+  "draw": "Blanket spread over a bed outline with a zigzag heating wire pattern and a controller on a cord.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "furnace",
+  "category": "appliances",
+  "draw": "Tall cabinet with front panels, a small flame window at the bottom and a duct rising from the top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "boiler",
+  "category": "appliances",
+  "draw": "Wall mounted boiler box with a small display and dial on the front and pipes running out underneath.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "air-vent",
+  "category": "appliances",
+  "draw": "Wall or floor register: a rectangle filled with parallel slanted louvres and a small screw at each end.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "air-filter",
+  "category": "appliances",
+  "draw": "Rectangular pleated HVAC filter panel shown at an angle with zigzag pleat lines.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "hvac-duct",
+  "category": "appliances",
+  "draw": "Rectangular metal duct run with a right angle elbow bend and joint seam lines.",
+  "domain": "home-appliances-electronics"
+ }
+]

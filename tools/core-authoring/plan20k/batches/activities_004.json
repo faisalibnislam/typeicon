@@ -1,0 +1,482 @@
+[
+ {
+  "name": "tiny-amount-gesture",
+  "category": "activities",
+  "draw": "Hand with thumb and index finger held almost touching and a very small gap marked between them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "reaching-out-hand",
+  "category": "activities",
+  "draw": "Arm extended forward with the hand open and fingers stretched toward a small dot just out of reach.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "letting-go",
+  "category": "activities",
+  "draw": "Open hand with fingers spread upward and a small bird flying away from the palm.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "finger-frame",
+  "category": "activities",
+  "draw": "Two hands forming a rectangle with thumbs and index fingers, framing a view like a camera.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "team-hands-stack",
+  "category": "activities",
+  "draw": "Top view of four hands stacked on top of each other from different sides at the center.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "drumming-fingers",
+  "category": "activities",
+  "draw": "Hand resting on a flat surface with fingertips raised and small tap marks under them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "hands-behind-head",
+  "category": "activities",
+  "draw": "Upper-body figure leaning back with both hands clasped behind the head and elbows out.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "chin-on-hand",
+  "category": "activities",
+  "draw": "Head in profile with the chin resting on a fist propped on a bent arm.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "sneezing-into-elbow",
+  "category": "activities",
+  "draw": "Head in profile bent into a raised crooked elbow with small spray dots stopped by the sleeve.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "twirling",
+  "category": "activities",
+  "draw": "Figure standing on one foot with arms out and a curved arrow circling around its body.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "ducking",
+  "category": "activities",
+  "draw": "Side view of a figure crouched low with head down as a ball flies past above it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "hugging-knees",
+  "category": "activities",
+  "draw": "Seated figure with knees drawn up to the chest and both arms wrapped around them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "lying-on-stomach",
+  "category": "activities",
+  "draw": "Figure lying face down with head raised on crossed forearms and feet in the air.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "person-kicking",
+  "category": "activities",
+  "draw": "Side view of a figure balanced on one leg with the other leg kicked high forward.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "leaping",
+  "category": "activities",
+  "draw": "Figure in mid air with legs stretched in a wide front to back split and arms raised.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "floating-in-water",
+  "category": "activities",
+  "draw": "Figure lying on its back on wavy water lines with arms and legs spread out.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "wading-in-water",
+  "category": "activities",
+  "draw": "Figure standing knee deep in water with trouser legs rolled and wave lines around its shins.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "taking-a-bite",
+  "category": "activities",
+  "draw": "Profile of a face with the mouth open biting into a round apple held in a hand.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "licking-ice-cream",
+  "category": "activities",
+  "draw": "Profile of a face with the tongue touching an ice cream scoop on a cone.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "clinking-glasses",
+  "category": "activities",
+  "draw": "Two raised wine glasses tilted toward each other touching at the rims with short spark lines.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "person-showering",
+  "category": "activities",
+  "draw": "Figure standing under a round shower head with lines of water falling on it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "drying-with-towel",
+  "category": "activities",
+  "draw": "Figure rubbing a towel over its head with both hands.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "looking-in-mirror",
+  "category": "activities",
+  "draw": "Figure standing in front of an oval mirror with its reflection shown inside the frame.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "going-to-bed",
+  "category": "activities",
+  "draw": "Figure climbing into bed and pulling the blanket back, with a crescent moon above.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "napping-in-hammock",
+  "category": "activities",
+  "draw": "Figure lying in a hammock slung between two posts with a small z above.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "coffee-chat",
+  "category": "activities",
+  "draw": "Two figures sitting at a small round table facing each other, each holding a mug.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "talking-on-phone",
+  "category": "activities",
+  "draw": "Upper-body figure holding a phone handset to its ear with a small speech bubble.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "giving-directions",
+  "category": "activities",
+  "draw": "Figure pointing ahead while a second figure beside it holds an open map.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "exchanging-cards",
+  "category": "activities",
+  "draw": "Two hands each holding one end of a small business card between them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "sharing-umbrella",
+  "category": "activities",
+  "draw": "Two figures standing close under a single open umbrella with rain drops around.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "pillow-fight",
+  "category": "activities",
+  "draw": "Two figures swinging pillows at each other with small feathers floating between them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "filing-papers",
+  "category": "activities",
+  "draw": "Hand pushing a folder into an open filing cabinet drawer.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "study-group",
+  "category": "activities",
+  "draw": "Three figures seated around a table with open books in front of them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "clocking-in",
+  "category": "activities",
+  "draw": "Hand inserting a time card into the slot of a wall-mounted time clock.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "window-shopping",
+  "category": "activities",
+  "draw": "Figure standing in front of a shop window looking at a displayed dress on a mannequin.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "donating-clothes",
+  "category": "activities",
+  "draw": "Hand dropping a bag of clothes into the chute of a donation bin marked with a heart.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "boarding-bus",
+  "category": "activities",
+  "draw": "Figure stepping up into the open front door of a bus.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "having-picnic",
+  "category": "activities",
+  "draw": "Two figures seated on a checked blanket with a picnic basket between them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "roasting-marshmallows",
+  "category": "activities",
+  "draw": "Figure holding a long stick with a marshmallow on the tip over a small campfire.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "throwing-snowball",
+  "category": "activities",
+  "draw": "Figure with an arm drawn back holding a snowball, with snowflakes around.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "jumping-in-puddles",
+  "category": "activities",
+  "draw": "Figure in boots jumping into a puddle with splash drops flying up.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "catching-snowflakes",
+  "category": "activities",
+  "draw": "Face tilted up with the tongue out and snowflakes falling toward it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "watching-sunset",
+  "category": "activities",
+  "draw": "Figure seen from behind sitting and facing a half sun setting on the horizon.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "doing-jigsaw",
+  "category": "activities",
+  "draw": "Hand placing the last piece into a nearly complete square jigsaw.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "singing-in-shower",
+  "category": "activities",
+  "draw": "Figure under a shower head with water lines and music notes floating beside it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "person-speaking",
+  "category": "activities",
+  "draw": "Head in profile with the mouth open and three curved sound lines coming out.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "passing-note",
+  "category": "activities",
+  "draw": "Hand passing a small folded note to another hand under a desk edge.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "waving-flag",
+  "category": "activities",
+  "draw": "Standing figure holding a small flag on a stick raised high and waving it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "applauding-audience",
+  "category": "activities",
+  "draw": "Row of three heads seen from behind with raised clapping hands and small impact lines.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "pushing-wheelchair",
+  "category": "activities",
+  "draw": "Standing figure pushing a seated figure in a wheelchair from behind.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "caring-for-sick",
+  "category": "activities",
+  "draw": "Figure placing a folded cloth on the forehead of another figure lying in bed.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "taking-pulse",
+  "category": "activities",
+  "draw": "Two fingertips pressed on the inside of a wrist with a small heartbeat line above.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "measuring-child-height",
+  "category": "activities",
+  "draw": "Small figure standing against a wall with a height chart and a hand placing a mark above its head.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "decluttering",
+  "category": "activities",
+  "draw": "Figure placing items into a box with a small curved arrow pointing out of a crowded shelf.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "hanging-picture",
+  "category": "activities",
+  "draw": "Figure holding a picture frame against a wall with a small spirit level on top.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "flipping-pancake",
+  "category": "activities",
+  "draw": "Frying pan tossed upward with a pancake flipping in the air above it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "tasting-with-spoon",
+  "category": "activities",
+  "draw": "Profile of a face sipping from a wooden spoon held out from a steaming pot.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "seasoning-food",
+  "category": "activities",
+  "draw": "Hand tilting a salt shaker over a plate with small grains falling.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "lighting-candle",
+  "category": "activities",
+  "draw": "Hand holding a lit match to the wick of a pillar candle.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "opening-window",
+  "category": "activities",
+  "draw": "Figure pushing open a window sash with breeze lines coming in.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "drawing-curtains",
+  "category": "activities",
+  "draw": "Two hands pulling a pair of curtains apart on a rail to let in sun rays.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "collecting-mail",
+  "category": "activities",
+  "draw": "Hand pulling a few envelopes out of a post-mounted mailbox with its door open.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "drop-cover-hold",
+  "category": "activities",
+  "draw": "Figure crouched under a table holding on to one table leg with shaking lines around the table.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "stop-drop-and-roll",
+  "category": "activities",
+  "draw": "Figure lying on the ground rolling sideways with a curved arrow and small flames behind it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "safe-lifting",
+  "category": "activities",
+  "draw": "Side view of a figure squatting with a straight back and bent knees lifting a box close to its body.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "fanning-oneself",
+  "category": "activities",
+  "draw": "Head in front view with a folding hand fan held beside the face and a few sweat drops.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "shivering",
+  "category": "activities",
+  "draw": "Front view of a figure hugging itself with jagged tremble lines at both sides and a snowflake above.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "warming-hands",
+  "category": "activities",
+  "draw": "Two cupped hands held to the mouth with small puffs of breath and a snowflake beside them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "wiping-brow",
+  "category": "activities",
+  "draw": "Head in profile with the back of a forearm drawn across the forehead and a flying sweat drop.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "rolling-up-sleeves",
+  "category": "activities",
+  "draw": "Forearm with a shirt sleeve folded back in two bands above the wrist by the other hand.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "picking-up-litter",
+  "category": "activities",
+  "draw": "Figure bending to drop a can into a trash bag held open in its other hand.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "turning-off-tap",
+  "category": "activities",
+  "draw": "Hand turning the handle of a faucet with a single last drop falling from the spout.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "carrying-water-buckets",
+  "category": "activities",
+  "draw": "Figure with a pole across its shoulders and a bucket hanging from each end.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "playing-tag",
+  "category": "activities",
+  "draw": "One running figure reaching out to touch the back of another running figure ahead of it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "tug-of-war",
+  "category": "activities",
+  "draw": "Two figures leaning back in opposite directions pulling a rope with a flag marker at its center.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "arm-wrestling",
+  "category": "activities",
+  "draw": "Two forearms on a tabletop with hands gripped together upright between them.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "blowing-dandelion",
+  "category": "activities",
+  "draw": "Profile of a face blowing at a round dandelion seed head with seeds drifting away.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "flipping-coin",
+  "category": "activities",
+  "draw": "Hand with the thumb just flicked up and a coin spinning in the air above it.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "breaking-bread",
+  "category": "activities",
+  "draw": "Two hands tearing a round loaf into two halves with a few crumbs.",
+  "domain": "activities-and-actions"
+ },
+ {
+  "name": "standing-up-from-chair",
+  "category": "activities",
+  "draw": "Figure rising from a chair with knees half straight and hands pushing on the armrests.",
+  "domain": "activities-and-actions"
+ }
+]

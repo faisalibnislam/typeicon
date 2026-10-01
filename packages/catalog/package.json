@@ -1,0 +1,35 @@
+{
+  "name": "@typeicon/catalog",
+  "version": "0.1.0",
+  "description": "TypeIcon icon metadata (icons.json, families.json) with TypeScript types and a lazy per-icon lookup helper.",
+  "private": true,
+  "license": "SEE LICENSE IN dist/licenses/ATTRIBUTION.md",
+  "type": "module",
+  "sideEffects": false,
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./icons.json": "./dist/icons.json",
+    "./families.json": "./dist/families.json",
+    "./manifest.json": "./dist/manifest.json",
+    "./names.json": "./dist/names.json",
+    "./icon/*.json": "./dist/icon/*.json",
+    "./names": {
+      "types": "./dist/names.d.ts",
+      "default": "./dist/names.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "dist"
+  ],
+  "scripts": {
+    "generate": "node ../scripts/generate.mjs"
+  }
+}

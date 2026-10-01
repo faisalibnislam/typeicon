@@ -1,0 +1,602 @@
+[
+  {
+    "name": "text-telephone",
+    "category": "inclusive",
+    "draw": "Flat desk device with a small keyboard and one line display, a telephone handset resting in two rubber cups on top."
+  },
+  {
+    "name": "remote-microphone-system",
+    "category": "inclusive",
+    "draw": "Small clip-on microphone box on the left sending curved wireless waves to a behind-the-ear hearing aid on the right."
+  },
+  {
+    "name": "flashing-doorbell-alert",
+    "category": "inclusive",
+    "draw": "Round wall doorbell button beside a small lamp with short rays bursting outward to show a light signal."
+  },
+  {
+    "name": "personal-sound-amplifier",
+    "category": "inclusive",
+    "draw": "Palm-sized box with a volume dial and a cord running to a pair of over-ear headphones."
+  },
+  {
+    "name": "amplified-telephone",
+    "category": "inclusive",
+    "draw": "Desk phone with oversized number keys and a large volume slider, sound waves rising from the handset."
+  },
+  {
+    "name": "hearing-aid-battery",
+    "category": "inclusive",
+    "draw": "Small flat button cell seen at an angle with a peel-off tab sticking out from its face."
+  },
+  {
+    "name": "bone-anchored-hearing-device",
+    "category": "inclusive",
+    "draw": "Side view of a head outline with a small round sound processor snapped onto the skull behind the ear."
+  },
+  {
+    "name": "cued-speech",
+    "category": "inclusive",
+    "draw": "Profile of a face with one hand held beside the cheek showing a handshape near the mouth."
+  },
+  {
+    "name": "live-captions",
+    "category": "inclusive",
+    "draw": "Rounded screen with a speech wave on the top half turning into two lines of caption text below."
+  },
+  {
+    "name": "sound-recognition",
+    "category": "inclusive",
+    "draw": "Phone outline with a sound wave on screen and a small bell above it to show an alert for a detected sound."
+  },
+  {
+    "name": "flash-notification",
+    "category": "inclusive",
+    "draw": "Back of a phone with the camera LED emitting bright radiating rays as an alert."
+  },
+  {
+    "name": "baby-cry-light-alert",
+    "category": "inclusive",
+    "draw": "Small crying baby face inside a speaker circle with a lamp beside it sending out light rays."
+  },
+  {
+    "name": "sign-language-video",
+    "category": "inclusive",
+    "draw": "Video window frame with a small person inset in the corner signing with both hands raised."
+  },
+  {
+    "name": "deaf-awareness-card",
+    "category": "inclusive",
+    "draw": "Wallet card with an ear symbol on the left and three short text lines on the right."
+  },
+  {
+    "name": "captioning-glasses",
+    "category": "inclusive",
+    "draw": "Eyeglasses with two short lines of text floating on one lens."
+  },
+  {
+    "name": "talking-watch",
+    "category": "inclusive",
+    "draw": "Round wristwatch with a push button on the side and sound waves coming out of the face."
+  },
+  {
+    "name": "tactile-watch",
+    "category": "inclusive",
+    "draw": "Wristwatch with its crystal lid flipped open and raised dots at the hour positions."
+  },
+  {
+    "name": "liquid-level-indicator",
+    "category": "inclusive",
+    "draw": "Mug with a small device clipped over the rim, two metal prongs reaching down into the liquid."
+  },
+  {
+    "name": "bump-dots",
+    "category": "inclusive",
+    "draw": "Stove knob dial with three raised dome dots stuck around its edge."
+  },
+  {
+    "name": "stand-magnifier",
+    "category": "inclusive",
+    "draw": "Round lens held in a short tripod stand sitting on a page of text lines."
+  },
+  {
+    "name": "bar-magnifier",
+    "category": "inclusive",
+    "draw": "Long clear ruler-shaped magnifying bar lying across text lines, one line shown enlarged beneath it."
+  },
+  {
+    "name": "head-worn-magnifier",
+    "category": "inclusive",
+    "draw": "Headband visor with a flip-down pair of thick magnifying lenses in front of the eyes."
+  },
+  {
+    "name": "handheld-monocular",
+    "category": "inclusive",
+    "draw": "Short single-eye telescope tube with a wrist strap, seen from the side."
+  },
+  {
+    "name": "vision-assist-glasses",
+    "category": "inclusive",
+    "draw": "Eyeglasses with a small camera module on one temple and sound waves near the ear."
+  },
+  {
+    "name": "signature-guide",
+    "category": "inclusive",
+    "draw": "Card with a rectangular cut-out window and a short signature squiggle written inside the slot."
+  },
+  {
+    "name": "raised-line-paper",
+    "category": "inclusive",
+    "draw": "Sheet of paper with thick raised writing lines shown as bold ridges with small shadows."
+  },
+  {
+    "name": "tactile-drawing-board",
+    "category": "inclusive",
+    "draw": "Rubber-topped board with a stylus drawing a raised star shape on a sheet."
+  },
+  {
+    "name": "tactile-ruler",
+    "category": "inclusive",
+    "draw": "Straight ruler with raised notches along its edge and small braille dots at each inch mark."
+  },
+  {
+    "name": "braille-dice",
+    "category": "inclusive",
+    "draw": "Cube die showing braille dot cells on each visible face instead of pips."
+  },
+  {
+    "name": "braille-playing-card",
+    "category": "inclusive",
+    "draw": "Playing card with a suit symbol in the middle and a small braille cell in the top corner."
+  },
+  {
+    "name": "braille-medicine-box",
+    "category": "inclusive",
+    "draw": "Medicine carton with a row of raised braille dots running along its side."
+  },
+  {
+    "name": "tactile-room-sign",
+    "category": "inclusive",
+    "draw": "Wall sign plate with raised letters on top and a row of braille dots underneath."
+  },
+  {
+    "name": "braille-elevator-button",
+    "category": "inclusive",
+    "draw": "Round elevator call button with a raised arrow and a braille cell beside it."
+  },
+  {
+    "name": "talking-book-player",
+    "category": "inclusive",
+    "draw": "Boxy handheld player with large round buttons, a speaker grille and a small disc slot."
+  },
+  {
+    "name": "talking-color-identifier",
+    "category": "inclusive",
+    "draw": "Handheld device held to a fabric swatch with a speech bubble coming from its top."
+  },
+  {
+    "name": "banknote-identifier",
+    "category": "inclusive",
+    "draw": "Small slot reader with a banknote half inserted and sound waves coming from the device."
+  },
+  {
+    "name": "tactile-exhibit",
+    "category": "inclusive",
+    "draw": "Two hands exploring a small statue on a plinth, fingertips touching its surface."
+  },
+  {
+    "name": "contrasting-stair-nosing",
+    "category": "inclusive",
+    "draw": "Side view of stair steps with a thick dark strip along the front edge of each tread."
+  },
+  {
+    "name": "gait-belt",
+    "category": "inclusive",
+    "draw": "Wide belt with a buckle and several fabric loop handles sewn along its length."
+  },
+  {
+    "name": "ceiling-track-hoist",
+    "category": "inclusive",
+    "draw": "Overhead ceiling rail with a motor unit hanging down on a strap that holds a U-shaped sling."
+  },
+  {
+    "name": "bath-lift",
+    "category": "inclusive",
+    "draw": "Bathtub side view with a flat seat inside raised on a scissor base above the water line."
+  },
+  {
+    "name": "bath-transfer-bench",
+    "category": "inclusive",
+    "draw": "Bench straddling a bathtub wall, two legs inside the tub and two outside, with a backrest."
+  },
+  {
+    "name": "toilet-safety-frame",
+    "category": "inclusive",
+    "draw": "Toilet seen from the front with a tubular armrest frame surrounding it on both sides."
+  },
+  {
+    "name": "pressure-relief-mattress",
+    "category": "inclusive",
+    "draw": "Mattress side view made of a row of rounded air cells with a small pump box at the foot."
+  },
+  {
+    "name": "long-handled-shoehorn",
+    "category": "inclusive",
+    "draw": "Tall slim shoehorn with a curved scoop at the bottom and a hook handle at the top."
+  },
+  {
+    "name": "dressing-stick",
+    "category": "inclusive",
+    "draw": "Long wooden dowel with a C-shaped hook on one end and a push hook on the other."
+  },
+  {
+    "name": "elastic-shoelaces",
+    "category": "inclusive",
+    "draw": "Sneaker with coiled curly elastic laces and a small lock toggle instead of a bow."
+  },
+  {
+    "name": "rocker-knife",
+    "category": "inclusive",
+    "draw": "Knife with a deep curved rocking blade and a T-shaped handle on top."
+  },
+  {
+    "name": "plate-guard",
+    "category": "inclusive",
+    "draw": "Round plate with a raised curved wall clipped around half of its rim."
+  },
+  {
+    "name": "cutout-cup",
+    "category": "inclusive",
+    "draw": "Tapered cup with a U-shaped notch cut from one side of the rim."
+  },
+  {
+    "name": "one-handed-cutting-board",
+    "category": "inclusive",
+    "draw": "Cutting board with raised corner rails and upright spikes holding a potato in place."
+  },
+  {
+    "name": "kettle-tipper",
+    "category": "inclusive",
+    "draw": "Kettle resting in a hinged cradle stand, tilted forward to pour into a cup below."
+  },
+  {
+    "name": "universal-cuff",
+    "category": "inclusive",
+    "draw": "Palm strap wrapped around an open hand with a spoon slotted into its pocket."
+  },
+  {
+    "name": "key-turner",
+    "category": "inclusive",
+    "draw": "Large paddle handle holding a key at its tip for easier twisting."
+  },
+  {
+    "name": "tap-turner",
+    "category": "inclusive",
+    "draw": "Lever arm clamped over a round faucet head to make turning easier."
+  },
+  {
+    "name": "lever-tap",
+    "category": "inclusive",
+    "draw": "Faucet with a long single lever handle extending sideways for easy elbow use."
+  },
+  {
+    "name": "doorknob-lever-adapter",
+    "category": "inclusive",
+    "draw": "Round doorknob with a long lever arm fitted over it."
+  },
+  {
+    "name": "rocker-light-switch",
+    "category": "inclusive",
+    "draw": "Wall plate with one large rectangular rocker paddle switch filling most of it."
+  },
+  {
+    "name": "big-button-tv-remote",
+    "category": "inclusive",
+    "draw": "Short chunky remote control with only four very large round buttons."
+  },
+  {
+    "name": "leg-lifter",
+    "category": "inclusive",
+    "draw": "Stiff strap with a hand loop at one end and a foot loop at the other, lifting a foot."
+  },
+  {
+    "name": "seat-cane",
+    "category": "inclusive",
+    "draw": "Walking stick with a small triangular fabric seat unfolded near the handle on three legs."
+  },
+  {
+    "name": "threshold-ramp",
+    "category": "inclusive",
+    "draw": "Small wedge-shaped ramp placed against a doorway step, seen from the side."
+  },
+  {
+    "name": "tilt-in-space-wheelchair",
+    "category": "inclusive",
+    "draw": "Wheelchair side view with the seat and backrest tilted back as one unit and a headrest."
+  },
+  {
+    "name": "standing-wheelchair",
+    "category": "inclusive",
+    "draw": "Wheelchair side view with the seat lifted upright into a standing frame with knee pads."
+  },
+  {
+    "name": "all-terrain-wheelchair",
+    "category": "inclusive",
+    "draw": "Wheelchair on two rubber tracks instead of wheels with a raised seat."
+  },
+  {
+    "name": "wheelchair-cushion",
+    "category": "inclusive",
+    "draw": "Square seat cushion with a grid of air cells shown as rounded bumps."
+  },
+  {
+    "name": "wheelchair-lap-tray",
+    "category": "inclusive",
+    "draw": "Flat tray with a curved cutout for the body resting across wheelchair armrests."
+  },
+  {
+    "name": "wheelchair-joystick",
+    "category": "inclusive",
+    "draw": "Wheelchair armrest control box with a short joystick with a ball knob and a small display."
+  },
+  {
+    "name": "wheelchair-securement",
+    "category": "inclusive",
+    "draw": "Wheelchair wheel with a strap and hook anchored to a floor track with ratchet buckles."
+  },
+  {
+    "name": "wheelchair-push-gloves",
+    "category": "inclusive",
+    "draw": "Fingerless glove with a padded palm seen from the palm side."
+  },
+  {
+    "name": "wheelchair-scale",
+    "category": "inclusive",
+    "draw": "Low platform scale with a ramp on one side and a digital readout on a post."
+  },
+  {
+    "name": "page-turner",
+    "category": "inclusive",
+    "draw": "Open book on a stand with a small motorized arm lifting and turning a page."
+  },
+  {
+    "name": "universal-book-holder",
+    "category": "inclusive",
+    "draw": "Adjustable stand clamped to a table edge holding an open book upright."
+  },
+  {
+    "name": "hearing-dog",
+    "category": "inclusive",
+    "draw": "Sitting dog with an ear raised and curved sound waves beside its head."
+  },
+  {
+    "name": "mobility-assistance-dog",
+    "category": "inclusive",
+    "draw": "Dog with a handle harness standing beside a wheelchair wheel."
+  },
+  {
+    "name": "seizure-alert-dog",
+    "category": "inclusive",
+    "draw": "Lying dog with a small pulse zigzag line above its head."
+  },
+  {
+    "name": "guide-horse",
+    "category": "inclusive",
+    "draw": "Miniature horse in side view wearing a harness with a rigid upright handle."
+  },
+  {
+    "name": "hippotherapy",
+    "category": "inclusive",
+    "draw": "Horse in side view with a rider seated on a pad and a person walking beside holding the rider."
+  },
+  {
+    "name": "kneeling-bus",
+    "category": "inclusive",
+    "draw": "Bus side view lowered at the front door with a ramp unfolding to the curb."
+  },
+  {
+    "name": "wheelchair-accessible-train-car",
+    "category": "inclusive",
+    "draw": "Train carriage side with a wheelchair symbol panel next to a wide door."
+  },
+  {
+    "name": "driving-hand-controls",
+    "category": "inclusive",
+    "draw": "Steering wheel with a lever running down from its left to the pedals, a hand gripping it."
+  },
+  {
+    "name": "steering-spinner-knob",
+    "category": "inclusive",
+    "draw": "Steering wheel rim with a small round knob mounted on it."
+  },
+  {
+    "name": "swivel-car-seat",
+    "category": "inclusive",
+    "draw": "Car seat rotated out through an open car door with a curved arrow under it."
+  },
+  {
+    "name": "car-transfer-handle",
+    "category": "inclusive",
+    "draw": "Short T-shaped grab handle with its metal tip hooked into a car door latch."
+  },
+  {
+    "name": "step-free-access",
+    "category": "inclusive",
+    "draw": "Door frame with a flat level floor line running through it and a small wheelchair outside."
+  },
+  {
+    "name": "accessible-pedestrian-button",
+    "category": "inclusive",
+    "draw": "Pole-mounted push button box with a large raised arrow and a speaker grille."
+  },
+  {
+    "name": "wayfinding-audio-beacon",
+    "category": "inclusive",
+    "draw": "Small wall box emitting sound waves with a pin marker below."
+  },
+  {
+    "name": "passenger-assistance-point",
+    "category": "inclusive",
+    "draw": "Signpost with a help button panel and a person offering a hand."
+  },
+  {
+    "name": "accessible-sink",
+    "category": "inclusive",
+    "draw": "Wall sink with a lever tap and open empty space beneath for knees."
+  },
+  {
+    "name": "accessible-toilet-key",
+    "category": "inclusive",
+    "draw": "Large key with a wide rounded bow and a toilet door symbol on it."
+  },
+  {
+    "name": "accessible-picnic-table",
+    "category": "inclusive",
+    "draw": "Picnic table with one bench shortened leaving an open end for a wheelchair."
+  },
+  {
+    "name": "audio-ballot",
+    "category": "inclusive",
+    "draw": "Voting booth box with a ballot slot and a pair of headphones plugged into its side."
+  },
+  {
+    "name": "talking-atm",
+    "category": "inclusive",
+    "draw": "Cash machine front with a headphone jack and a plugged-in earphone cord."
+  },
+  {
+    "name": "adaptive-swing-seat",
+    "category": "inclusive",
+    "draw": "Playground swing with a high backrest bucket seat and a front bar."
+  },
+  {
+    "name": "sensory-pod-swing",
+    "category": "inclusive",
+    "draw": "Hanging fabric cocoon swing shaped like a teardrop with an oval opening."
+  },
+  {
+    "name": "adaptive-tricycle",
+    "category": "inclusive",
+    "draw": "Tricycle with a high back support seat, foot straps and a push handle at the rear."
+  },
+  {
+    "name": "ski-outrigger",
+    "category": "inclusive",
+    "draw": "Forearm crutch with a short ski tip attached at its base."
+  },
+  {
+    "name": "beep-ball",
+    "category": "inclusive",
+    "draw": "Softball-sized ball with a small speaker grille and sound waves."
+  },
+  {
+    "name": "swim-tapper",
+    "category": "inclusive",
+    "draw": "Long pole with a soft foam ball on its tip tapping a swimmer's head outline."
+  },
+  {
+    "name": "showdown-table",
+    "category": "inclusive",
+    "draw": "Long rectangular table with raised side rails, a center screen and goal pockets."
+  },
+  {
+    "name": "boccia-ramp",
+    "category": "inclusive",
+    "draw": "Tall slanted chute on a stand with a ball rolling down it."
+  },
+  {
+    "name": "tactile-chess-board",
+    "category": "inclusive",
+    "draw": "Chessboard with some squares raised and small pegged pieces seen in perspective."
+  },
+  {
+    "name": "adaptive-game-controller",
+    "category": "inclusive",
+    "draw": "Flat wide controller board with two large round buttons and a row of small ports along the top."
+  },
+  {
+    "name": "switch-adapted-toy",
+    "category": "inclusive",
+    "draw": "Toy car connected by a cord to a large round push button switch."
+  },
+  {
+    "name": "head-pointer",
+    "category": "inclusive",
+    "draw": "Headband with a long thin pointer stick extending forward from the forehead."
+  },
+  {
+    "name": "mouth-stick",
+    "category": "inclusive",
+    "draw": "Slim stick with a mouthpiece at one end and a rubber tip pressing a key at the other."
+  },
+  {
+    "name": "sip-and-puff-switch",
+    "category": "inclusive",
+    "draw": "Thin tube on a flexible gooseneck arm with a small switch box at the base."
+  },
+  {
+    "name": "keyguard",
+    "category": "inclusive",
+    "draw": "Keyboard seen from above with a plate on top having a hole over each key."
+  },
+  {
+    "name": "dwell-click",
+    "category": "inclusive",
+    "draw": "Mouse pointer with a circular progress ring filling around its tip."
+  },
+  {
+    "name": "large-cursor",
+    "category": "inclusive",
+    "draw": "Oversized mouse pointer arrow beside a small standard pointer for scale."
+  },
+  {
+    "name": "accessibility-tree",
+    "category": "inclusive",
+    "draw": "Tree diagram of nodes where each node has a small person-in-circle symbol."
+  },
+  {
+    "name": "emotion-flashcards",
+    "category": "inclusive",
+    "draw": "Two fanned cards showing a smiling face and a sad face."
+  },
+  {
+    "name": "tangle-fidget",
+    "category": "inclusive",
+    "draw": "Chain of curved linked segments forming a looping twisted shape."
+  },
+  {
+    "name": "day-clock",
+    "category": "inclusive",
+    "draw": "Rectangular display showing a large day name and a sun or moon for morning or night."
+  },
+  {
+    "name": "picture-button-phone",
+    "category": "inclusive",
+    "draw": "Phone with four large buttons, each showing a small face photo."
+  },
+  {
+    "name": "relaxed-performance",
+    "category": "inclusive",
+    "draw": "Theater curtain with a soft wave line and a dimmed spotlight."
+  },
+  {
+    "name": "sensory-bag",
+    "category": "inclusive",
+    "draw": "Drawstring bag with headphones and a fidget toy peeking out of the top."
+  },
+  {
+    "name": "zero-entry-pool",
+    "category": "inclusive",
+    "draw": "Side view of a pool with a gentle sloped floor running from the deck down into the water, no steps."
+  },
+  {
+    "name": "pivot-transfer-disc",
+    "category": "inclusive",
+    "draw": "Two stacked round discs seen at an angle with a pair of footprints on top and a curved rotation arrow."
+  },
+  {
+    "name": "pronoun-badge",
+    "category": "inclusive",
+    "draw": "Round pin badge with a short text line and a small speech bubble at its top."
+  }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "name": "form-builder",
+  "category": "web",
+  "draw": "Form sheet with field bars and an arrow cursor dragging a new field bar onto it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "character-limit",
+  "category": "web",
+  "draw": "Text area box with a small fraction counter in its lower right corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "image-captcha-grid",
+  "category": "web",
+  "draw": "Three by three grid of image tiles with two tiles ticked.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "puzzle-captcha",
+  "category": "web",
+  "draw": "Picture frame with a puzzle piece shaped gap and a slider bar with a knob underneath.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "address-autocomplete",
+  "category": "web",
+  "draw": "Input field with a map pin at its start and a dropdown list of two suggestion lines under it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "booking-form",
+  "category": "web",
+  "draw": "Form sheet with a small calendar at the top and two field lines below.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "broken-image",
+  "category": "web",
+  "draw": "Image frame with a mountain and a jagged torn corner split off.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "event-listener",
+  "category": "web",
+  "draw": "Ear beside a button shape with small sound arcs between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "hreflang-tag",
+  "category": "web",
+  "draw": "Two pages side by side, each with a speech bubble holding a different script letter, joined by a two way arrow.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "browser-sandbox",
+  "category": "web",
+  "draw": "Browser window sitting inside a shallow sandbox tray with a small toy shovel beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "same-origin-policy",
+  "category": "web",
+  "draw": "Two browser windows side by side with a short brick wall standing between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "content-marketing",
+  "category": "web",
+  "draw": "Megaphone with a small document page coming out of its bell.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "inbound-marketing",
+  "category": "web",
+  "draw": "Horseshoe magnet drawing three small person silhouettes toward a browser window.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "personalized-email",
+  "category": "web",
+  "draw": "Envelope with a name tag label stuck on its front.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "real-user-monitoring",
+  "category": "web",
+  "draw": "Person silhouette with a heartbeat pulse line running across in front of it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "synthetic-monitoring",
+  "category": "web",
+  "draw": "Small robot head with a heartbeat pulse line running across in front of it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "duotone-image",
+  "category": "web",
+  "draw": "Image frame with a mountain where the left half is solid and the right half is hatched.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "free-shipping-bar",
+  "category": "web",
+  "draw": "Horizontal progress bar mostly filled with a small delivery truck at its end.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "math-captcha",
+  "category": "web",
+  "draw": "Input field showing a small plus sign between two dots and an equals sign followed by an empty box.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "cross-domain-tracking",
+  "category": "web",
+  "draw": "Two globes joined by a dotted line with a small tag riding on the line.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "buddy-list",
+  "category": "web",
+  "draw": "Narrow window with a list of four name lines, each with a small round status dot in front.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "chain-email",
+  "category": "web",
+  "draw": "Envelope with a length of chain links hanging from its corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "listicle",
+  "category": "web",
+  "draw": "Article page with three rows, each a large number beside a small image block and a text line.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "live-blog",
+  "category": "web",
+  "draw": "Post page with a vertical timeline of three entries and a filled live dot at the top.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "crowdsourcing",
+  "category": "web",
+  "draw": "Crowd of small person heads each sending an arrow up into one large lightbulb.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "bookmarklet",
+  "category": "web",
+  "draw": "Bookmark ribbon with code angle brackets on it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "email-list-cleaning",
+  "category": "web",
+  "draw": "Broom sweeping a few small envelopes out of a list of lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "conditional-form-logic",
+  "category": "web",
+  "draw": "Form with one field bar splitting into two branching arrows leading to two different field bars.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "content-repurposing",
+  "category": "web",
+  "draw": "One document in the center with circular arrows turning it into a play button card and an image card.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "mailto-link",
+  "category": "web",
+  "draw": "Chain link with a small envelope attached to one end.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "keyboard-warrior",
+  "category": "web",
+  "draw": "Keyboard with a small sword crossed over it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "hotlinking",
+  "category": "web",
+  "draw": "Image frame on one browser window pulled by a chain link into a second browser window.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "responsive-table",
+  "category": "web",
+  "draw": "Wide table grid on the left with an arrow to the same rows restacked as narrow cards on the right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "online-queue",
+  "category": "web",
+  "draw": "Browser window with a row of small person silhouettes lined up in the page above a partly filled progress bar.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "bot-check-page",
+  "category": "web",
+  "draw": "Browser window with a shield in the middle of the page and a small spinning loader circle beneath it.",
+  "domain": "r2-internet-web"
+ }
+]

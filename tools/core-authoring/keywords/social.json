@@ -1,0 +1,98 @@
+{
+  "comment-heart": {
+    "context": "Round speech bubble with a filled heart inside. Used for loving comments, heart reactions on messages, supportive replies, fan mail and appreciation posts.",
+    "keywords": ["comment", "love", "reaction", "like", "reply", "message", "heart", "love message", "heart reaction", "react", "appreciation", "kind words", "thank you", "fan mail", "supportive", "favorite comment", "favourite comment", "romance", "valentine", "chat", "social"]
+  },
+  "community-group": {
+    "context": "Three people side by side with the centre person standing in front. Used for communities, clubs, member groups, forums, social circles and team spaces.",
+    "keywords": ["community", "group", "team", "members", "people", "club", "communities", "group chat", "forum", "social circle", "membership", "network", "society", "association", "neighbours", "neighbors", "audience", "fan club", "meetup", "together", "crowd"]
+  },
+  "dislike": {
+    "context": "Heart split down the middle by a jagged crack. Used for unlike or remove from favourites, broken-heart reactions, breakups, sad moods and negative feedback.",
+    "keywords": ["unlike", "broken heart", "unfavourite", "unfavorite", "heartbreak", "remove like", "heart broken", "sad", "breakup", "break up", "remove from favorites", "remove favourite", "not interested", "hate", "thumbs down", "negative", "reaction", "sorrow", "grief", "lost love", "downvote"]
+  },
+  "feedback": {
+    "context": "Rectangular speech bubble with a smiling face inside. Used for feedback forms, customer satisfaction, rate your experience prompts, reviews and happy responses.",
+    "keywords": ["opinion", "sentiment", "satisfaction", "reaction", "comment", "smiley", "smile", "happy", "customer feedback", "send feedback", "give feedback", "survey", "rate us", "review", "nps", "csat", "experience", "suggestion", "response", "mood", "support"]
+  },
+  "follow": {
+    "context": "Head and shoulders of a person with a plus sign beside them. Used for follow buttons, add friend, invite a member, new connection requests and subscribe to a creator.",
+    "keywords": ["subscribe", "add friend", "connect", "user", "join", "add user", "add person", "new user", "invite", "add member", "friend request", "add contact", "user plus", "sign up", "register", "new account", "connection", "follow back", "add to team", "plus", "recruit"]
+  },
+  "followers": {
+    "context": "Head and shoulders of one person with a second person behind them. Used for follower counts, audience lists, subscribers, fans and profile stats in social apps.",
+    "keywords": ["audience", "fans", "subscribers", "people", "community", "follower count", "following", "friends", "connections", "network", "users", "members", "fan base", "reach", "social stats", "profile stats", "contacts", "two people", "group", "supporters", "circle"]
+  },
+  "hashtag-social": {
+    "context": "Round speech bubble with a # sign in the middle. Used for hashtags in posts, topic channels, trending tags, group chats by topic and social campaign tags.",
+    "keywords": ["hashtag", "topic", "tag", "trend", "channel", "social", "hash", "hash sign", "pound sign", "number sign", "trending", "topics", "tags", "chat channel", "keyword", "campaign", "discussion", "thread", "post", "category", "label"]
+  },
+  "heart": {
+    "context": "Classic heart shape outline. Used for like buttons, favourites, wishlists, saved items, love reactions, health apps and dating profiles.",
+    "keywords": ["like", "love", "favorite", "favourite", "health", "likes", "wishlist", "wish list", "save", "saved", "save for later", "favorites", "favourites", "love it", "reaction", "romance", "valentine", "dating", "care", "charity", "heart rate", "emotion"]
+  },
+  "influencer": {
+    "context": "Head and shoulders of a person with a star beside them. Used for creators, influencers, featured users, VIP members, celebrities and top contributor badges.",
+    "keywords": ["creator", "celebrity", "featured", "star", "popular", "content creator", "star user", "vip", "famous", "top contributor", "featured user", "brand ambassador", "ambassador", "blogger", "vlogger", "personality", "rising star", "talent", "favorite user", "user star", "partner"]
+  },
+  "live-stream": {
+    "context": "Computer screen on a stand showing a signal dot with waves on both sides. Used for going live, live streams, live events, webinars and broadcast channels.",
+    "keywords": ["live", "livestream", "streaming", "broadcast", "on air", "go live", "live video", "stream", "live event", "live now", "webcast", "webinar", "watch live", "monitor", "screen", "channel", "gaming stream", "online event", "virtual event", "tv", "signal"]
+  },
+  "notification-bell": {
+    "context": "Bell with a solid dot at its top right corner. Used for unread notifications, new alerts, activity badges, update counts and notification centre buttons.",
+    "keywords": ["notifications", "unread", "alert", "new", "bell", "badge", "new notification", "unread notifications", "alerts", "notification dot", "notification badge", "activity", "updates", "reminder", "inbox", "news", "ding", "ring", "notification center", "notification centre", "pending"]
+  },
+  "poll": {
+    "context": "Vertical line on the left with three horizontal bars of different lengths. Used for polls and their results, voting options, quick surveys and ranked answers.",
+    "keywords": ["vote results", "survey", "options", "question", "results", "polls", "voting", "vote", "poll results", "bar chart", "horizontal bars", "opinion poll", "quiz", "ranking", "choices", "answers", "statistics", "chart", "percentages", "tally", "election"]
+  },
+  "rating": {
+    "context": "Three stars, the middle one larger and raised above the two smaller ones. Used for ratings, reviews, star scores, rankings and customer satisfaction summaries.",
+    "keywords": ["stars", "score", "rank", "reviews", "evaluate", "three stars", "star rating", "rate", "rate us", "review", "feedback", "ranking", "quality", "top rated", "best", "award", "grade", "customer rating", "satisfaction", "evaluation", "excellence"]
+  },
+  "reel": {
+    "context": "Frame with a clapperboard strip along the top and a play button in the middle. Used for short videos, reels, clips, video stories and vertical video feeds.",
+    "keywords": ["short video", "clip", "shorts", "video", "play", "reels", "short clip", "clapperboard", "clapper", "film", "movie", "video feed", "vertical video", "video post", "video story", "play video", "watch", "media", "trailer", "highlights", "content"]
+  },
+  "repost": {
+    "context": "Small post card with an arrow curving up and out to the right. Used to repost or reshare someone's post to your own feed, boost content and share quoted posts.",
+    "keywords": ["reshare", "boost", "share", "quote post", "re-share", "share post", "share to feed", "forward", "republish", "crosspost", "cross-post", "amplify", "spread", "arrow", "post", "social", "share again", "curate", "recommend", "signal boost"]
+  },
+  "review": {
+    "context": "Rectangular speech bubble with a star inside. Used for writing reviews, customer testimonials, product ratings, feedback sections and starred comments.",
+    "keywords": ["testimonial", "rating", "opinion", "feedback", "comment", "reviews", "write a review", "leave a review", "customer review", "product review", "star", "rate", "rate product", "evaluation", "recommendation", "critique", "starred comment", "favorite comment", "speech bubble", "e-commerce", "reputation"]
+  },
+  "share-alt": {
+    "context": "Three dots joined by lines, one on the left and two on the right. Used for share buttons, sharing to social networks, distributing links and network connections.",
+    "keywords": ["share", "network", "connect", "send", "distribute", "nodes", "share nodes", "share button", "share link", "social share", "social media", "send to", "spread", "connections", "graph", "linked", "export", "invite", "forward", "three dots", "shared"]
+  },
+  "star": {
+    "context": "Five-pointed star outline. Used for favourites, starred items, bookmarks, ratings, featured content, wishlists and important markers.",
+    "keywords": ["favorite", "favourite", "rating", "bookmark", "important", "starred", "favorites", "favourites", "star rating", "rate", "review", "featured", "top", "best", "highlight", "special", "premium", "priority", "wishlist", "award", "achievement", "five point"]
+  },
+  "story": {
+    "context": "Head and shoulders of a person inside a dashed, segmented ring. Used for social stories, status updates, profile rings with new content and 24-hour posts.",
+    "keywords": ["stories", "status update", "moment", "avatar ring", "24 hours", "new story", "view story", "story ring", "status", "profile ring", "avatar", "highlights", "temporary post", "ephemeral", "update", "segmented ring", "dashed circle", "user", "profile", "social", "slideshow"]
+  },
+  "survey": {
+    "context": "Form page with rows of checked boxes and answer lines. Used for surveys, questionnaires, quizzes, feedback forms, checklists and research studies.",
+    "keywords": ["questionnaire", "form", "quiz", "checklist", "research", "surveys", "feedback form", "poll", "questions", "answers", "assessment", "test", "exam", "check boxes", "checkbox", "tick boxes", "evaluation", "sign up form", "application form", "data collection", "list"]
+  },
+  "trending": {
+    "context": "Flame with an upward arrow cut into it. Used for trending topics, hot items, popular posts, viral content, best sellers and what's hot sections.",
+    "keywords": ["hot", "popular", "viral", "fire", "top", "flame", "trend", "trends", "trending now", "whats hot", "hot deal", "best seller", "bestseller", "top picks", "most popular", "rising", "spike", "hype", "streak", "burn", "growth"]
+  },
+  "unfollow": {
+    "context": "Head and shoulders of a person with a minus sign beside them. Used for unfollow buttons, remove friend, remove a member, leave a group and block or mute options.",
+    "keywords": ["unsubscribe", "remove friend", "disconnect", "user", "leave", "remove user", "remove person", "delete user", "remove member", "user minus", "unfriend", "kick", "leave group", "revoke access", "deactivate", "minus", "remove contact", "stop following", "remove from team", "block", "mute"]
+  },
+  "verified-badge": {
+    "context": "Badge with a scalloped, wavy edge and a check mark in the middle. Used for verified accounts, official profiles, approved sellers, quality guarantees and certified content.",
+    "keywords": ["verified", "badge", "authentic", "official", "approved", "checkmark", "check mark", "verified account", "verification", "certified", "certificate", "trusted", "genuine", "seal", "quality", "guarantee", "blue tick", "approval", "legit", "validated", "rosette"]
+  },
+  "vote": {
+    "context": "Ballot paper with a check mark being dropped into a ballot box. Used for voting, elections, polls, casting a ballot, decisions and community governance.",
+    "keywords": ["ballot", "election", "ballot box", "poll", "democracy", "voting", "cast vote", "cast ballot", "elections", "voter", "polling station", "referendum", "choose", "decision", "check mark", "government", "politics", "civic", "governance", "upvote", "survey"]
+  }
+}

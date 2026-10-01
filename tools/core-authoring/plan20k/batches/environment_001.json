@@ -1,0 +1,482 @@
+[
+ {
+  "name": "sun-shower",
+  "category": "environment",
+  "draw": "Sun peeking from behind a cloud with three short slanted rain streaks below the cloud.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "heavy-rain",
+  "category": "environment",
+  "draw": "Dark cloud outline with five dense long slanted rain lines beneath it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "rain-thunderstorm",
+  "category": "environment",
+  "draw": "Cloud with a lightning bolt in the center flanked by two slanted rain streaks.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "snow-shower",
+  "category": "environment",
+  "draw": "Sun partly behind a cloud with two small snowflakes falling below.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "heavy-snow",
+  "category": "environment",
+  "draw": "Cloud with a dense grid of six snowflake asterisks falling beneath it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "light-snow",
+  "category": "environment",
+  "draw": "Cloud with two small widely spaced snowflake dots beneath it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "moon-rain",
+  "category": "environment",
+  "draw": "Crescent moon behind a cloud with two rain streaks beneath.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "moon-snow",
+  "category": "environment",
+  "draw": "Crescent moon behind a cloud with two small snowflakes beneath.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "moon-thunderstorm",
+  "category": "environment",
+  "draw": "Crescent moon behind a cloud with a lightning bolt beneath.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "windy-cloud",
+  "category": "environment",
+  "draw": "Cloud with three curling horizontal wind lines sweeping out from its lower edge.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "snow-wind",
+  "category": "environment",
+  "draw": "Snowflake with two curling horizontal wind lines blowing past it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "smoke-haze",
+  "category": "environment",
+  "draw": "Dim sun behind rising wavy smoke plumes drifting from the bottom edge.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "freezing-fog",
+  "category": "environment",
+  "draw": "Three horizontal fog bars with a small snowflake above them.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "black-ice",
+  "category": "environment",
+  "draw": "Road surface in perspective with a glossy patch and a small snowflake above it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "rime-ice",
+  "category": "environment",
+  "draw": "Thin branch coated on one side with a row of spiky ice needles.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "dew-drops",
+  "category": "environment",
+  "draw": "Blade of grass bending with three round droplets beaded along it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "puddle",
+  "category": "environment",
+  "draw": "Flat oval puddle with a single raindrop splash crown rising from it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "rain-on-window",
+  "category": "environment",
+  "draw": "Window frame with vertical wavy rain trails and droplets running down the glass.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "snow-accumulation",
+  "category": "environment",
+  "draw": "Ground line with a thick rounded mound of snow and flakes falling above it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "virga",
+  "category": "environment",
+  "draw": "Cloud with wispy curved rain streaks that fade out before reaching a ground line.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wall-cloud",
+  "category": "environment",
+  "draw": "Wide flat cloud base with a lowered blocky step of cloud beneath its center.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "supercell",
+  "category": "environment",
+  "draw": "Tall rotating storm cloud with spiral banding lines and a flat anvil top.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "microburst",
+  "category": "environment",
+  "draw": "Cloud with a downward rain shaft that splays outward in curls along the ground.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "noctilucent-cloud",
+  "category": "environment",
+  "draw": "Crescent moon over thin rippled glowing cloud bands above a dark horizon.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "altocumulus",
+  "category": "environment",
+  "draw": "Sky filled with rows of small puffy rounded cloudlets in a regular pattern.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "nimbostratus",
+  "category": "environment",
+  "draw": "Thick flat grey cloud layer with a veil of steady rain lines beneath.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "fogbow",
+  "category": "environment",
+  "draw": "Wide pale arc drawn with dashed lines over horizontal fog bars.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "monsoon",
+  "category": "environment",
+  "draw": "Heavy cloud with dense rain over a palm tree bending in the wind.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "whiteout",
+  "category": "environment",
+  "draw": "Square frame filled with diagonal snow streaks and a faint figure silhouette inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "dew-point",
+  "category": "environment",
+  "draw": "Thermometer with a single water droplet forming at its bulb.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "uv-index",
+  "category": "environment",
+  "draw": "Sun with rays around the letters UV in its center.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "pollen-count",
+  "category": "environment",
+  "draw": "Flower head releasing a cloud of small dots drifting to the side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "air-quality-index",
+  "category": "environment",
+  "draw": "Semicircle gauge with graded segments and a needle pointing to the middle.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "precipitation-chance",
+  "category": "environment",
+  "draw": "Open umbrella with a small percent sign beside its handle.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wind-speed",
+  "category": "environment",
+  "draw": "Three horizontal wind lines of different lengths with a small speedometer arc.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wind-gust",
+  "category": "environment",
+  "draw": "Two sharp curling wind lines bursting from the left with speed dashes.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wind-direction",
+  "category": "environment",
+  "draw": "Compass circle with N marker and a wind arrow crossing it with a feathered tail.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wind-chill",
+  "category": "environment",
+  "draw": "Thermometer with curling wind lines blowing across it and a snowflake.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "heat-index",
+  "category": "environment",
+  "draw": "Thermometer with high mercury and a water droplet beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "feels-like-temperature",
+  "category": "environment",
+  "draw": "Human head profile beside a thermometer.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "air-pressure",
+  "category": "environment",
+  "draw": "Round barometric dial with a needle and the letters hPa beneath.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "daylight-hours",
+  "category": "environment",
+  "draw": "Sun half above a horizon line with a small clock face beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "temperature-high-low",
+  "category": "environment",
+  "draw": "Thermometer with a small triangle mark at top and another at bottom beside the scale.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "weather-forecast",
+  "category": "environment",
+  "draw": "Calendar page with a sun and cloud drawn on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "weekly-forecast",
+  "category": "environment",
+  "draw": "Row of three small squares showing sun, cloud and rain symbols.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "hourly-forecast",
+  "category": "environment",
+  "draw": "Clock face with a small cloud overlapping its lower corner.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "cold-front",
+  "category": "environment",
+  "draw": "Horizontal curved line with solid triangles spaced along one side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "warm-front",
+  "category": "environment",
+  "draw": "Horizontal curved line with solid semicircles spaced along one side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "occluded-front",
+  "category": "environment",
+  "draw": "Curved line with alternating triangles and semicircles on the same side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "stationary-front",
+  "category": "environment",
+  "draw": "Line with triangles on one side and semicircles on the opposite side, alternating.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "high-pressure",
+  "category": "environment",
+  "draw": "Bold capital H centered inside concentric oval isobar rings.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "low-pressure",
+  "category": "environment",
+  "draw": "Bold capital L centered inside concentric oval isobar rings.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "isobars",
+  "category": "environment",
+  "draw": "Several nested irregular closed contour lines like a pressure chart.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "weather-map",
+  "category": "environment",
+  "draw": "Folded map outline with a sun symbol and a front line with triangles on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wind-barb",
+  "category": "environment",
+  "draw": "Straight shaft with a circle at one end and two feather ticks at the other.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "beaufort-scale",
+  "category": "environment",
+  "draw": "Horizontal bar split into rising steps with a wind line above it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "storm-warning-flag",
+  "category": "environment",
+  "draw": "Flagpole with a square red style flag that has a black square in its center.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "hurricane-warning-flags",
+  "category": "environment",
+  "draw": "Flagpole flying two stacked square flags each with a black center square.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "barograph",
+  "category": "environment",
+  "draw": "Rotating drum with a zigzag line trace and a pen arm touching it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "pyranometer",
+  "category": "environment",
+  "draw": "Small glass dome on a flat round base with a leveling foot.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "weather-radar",
+  "category": "environment",
+  "draw": "Round radome dome on top of a lattice tower.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "radar-sweep",
+  "category": "environment",
+  "draw": "Circular radar screen with concentric rings, a sweeping wedge and a few blobs.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "weather-satellite",
+  "category": "environment",
+  "draw": "Satellite body with two solar panel wings and a round sensor facing down to an earth arc.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "snow-gauge",
+  "category": "environment",
+  "draw": "Tall ruler stake planted in a snow mound with numbered marks.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "storm-glass",
+  "category": "environment",
+  "draw": "Sealed glass teardrop bottle on a stand with feathery crystals inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "weather-house",
+  "category": "environment",
+  "draw": "Tiny chalet with two doorways, one showing a figure with an umbrella.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "weather-buoy",
+  "category": "environment",
+  "draw": "Floating buoy on wavy water with a mast carrying a small anemometer.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "lightning-detector",
+  "category": "environment",
+  "draw": "Handheld box with an antenna and a small lightning bolt display.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "ceilometer",
+  "category": "environment",
+  "draw": "Box instrument firing a vertical dashed beam up to a cloud.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "four-seasons",
+  "category": "environment",
+  "draw": "Circle split into four quadrants holding a flower, sun, leaf and snowflake.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "harvest-moon",
+  "category": "environment",
+  "draw": "Large full moon low over a horizon with a wheat sheaf silhouette.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "hibernation",
+  "category": "environment",
+  "draw": "Sleeping bear curled up inside a cave opening with a small Z above.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "rainy-season",
+  "category": "environment",
+  "draw": "Calendar page with a cloud and dense rain drawn on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "daylight-saving-time",
+  "category": "environment",
+  "draw": "Clock face with a curved arrow looping around its edge and a sun at top.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "lap-timer",
+  "category": "environment",
+  "draw": "Stopwatch with a flag icon on its face.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wall-calendar",
+  "category": "environment",
+  "draw": "Hanging calendar page with a nail loop at the top and a grid of days.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "lunar-calendar",
+  "category": "environment",
+  "draw": "Calendar page with a crescent moon in place of the date number.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "advent-calendar",
+  "category": "environment",
+  "draw": "Grid of small numbered doors with one door opened.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "leap-year",
+  "category": "environment",
+  "draw": "Calendar page with the number 29 and a small frog leaping over it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "calendar-year",
+  "category": "environment",
+  "draw": "Twelve tiny month squares arranged in a 4 by 3 grid.",
+  "domain": "weather-time-environment"
+ }
+]

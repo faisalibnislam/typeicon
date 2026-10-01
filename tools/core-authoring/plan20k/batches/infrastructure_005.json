@@ -1,0 +1,206 @@
+[
+ {
+  "name": "emergency-brake-handle",
+  "category": "infrastructure",
+  "draw": "A red pull handle in a small box on a train wall with an arrow showing pull down.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tire-spikes",
+  "category": "infrastructure",
+  "draw": "A row of sharp teeth set in the road with a one way arrow beside them.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "queue-stanchion",
+  "category": "infrastructure",
+  "draw": "Two posts on round bases joined by a sagging retractable belt.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "wayfinding-totem",
+  "category": "infrastructure",
+  "draw": "A tall slim pillar sign with a small map at the top and arrows below.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "breakdown-triangle",
+  "category": "infrastructure",
+  "draw": "A reflective triangle outline standing on two small fold out legs.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bike-repair-station",
+  "category": "infrastructure",
+  "draw": "A post with a bike hanging on a hook arm, small tools on cables and a pump beside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-fine",
+  "category": "infrastructure",
+  "draw": "A paper ticket tucked under a car windscreen wiper.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "airport-lounge",
+  "category": "infrastructure",
+  "draw": "An armchair with a small aeroplane above it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "car-rental",
+  "category": "infrastructure",
+  "draw": "A car front with a key tag hanging beside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "spiral-parking-ramp",
+  "category": "infrastructure",
+  "draw": "Top view of a round ramp spiralling around a central core with a P in the middle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "signal-lever",
+  "category": "infrastructure",
+  "draw": "A tall railway lever with a spring catch handle rising from a floor frame.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "rail-profile",
+  "category": "infrastructure",
+  "draw": "Cross section of a railway rail with a rounded head, thin web and wide foot.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tank-container",
+  "category": "infrastructure",
+  "draw": "A cylindrical tank held inside a rectangular steel frame the size of a shipping container.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-idling-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a car exhaust pipe puffing smoke, crossed by a slash.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "no-phone-driving-sign",
+  "category": "infrastructure",
+  "draw": "A round sign with a phone in a hand over a steering wheel, crossed by a slash.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "car-sharing",
+  "category": "infrastructure",
+  "draw": "A car front with two small figures sharing a curved arrow above it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "vertiport",
+  "category": "infrastructure",
+  "draw": "Top view of a circular pad marked with a large V and small corner lights.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "driving-license",
+  "category": "infrastructure",
+  "draw": "A card with a small portrait box on the left and a car outline with text lines on the right.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bike-stair-ramp",
+  "category": "infrastructure",
+  "draw": "A flight of steps with a narrow wheeling channel on one side and a bicycle wheel in it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ropeway-pylon",
+  "category": "infrastructure",
+  "draw": "A tall lattice tower with a crossbar at the top carrying rollers under two cables.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "luggage-scale",
+  "category": "infrastructure",
+  "draw": "A handheld digital scale with a hook lifting a suitcase by its handle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "e-passport-gate",
+  "category": "infrastructure",
+  "draw": "A glass gate with a small camera screen on a post and a passport reader slot.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "security-wand",
+  "category": "infrastructure",
+  "draw": "A handheld metal detector paddle with a ring shaped head and a grip.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "overhead-cables-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a lightning bolt under a line of hanging wires.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "farm-vehicles-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a tractor in side view.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "horse-drawn-vehicle-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a horse pulling a small two wheel cart.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "radar-scope",
+  "category": "infrastructure",
+  "draw": "A round radar screen with range rings, a sweeping line and a few blips.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "flight-path",
+  "category": "infrastructure",
+  "draw": "Two dots joined by a long dashed arc with a small aeroplane on the arc.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "rack-railway",
+  "category": "infrastructure",
+  "draw": "Railway track with a toothed rack rail running between the two rails up a slope.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "traffic-control-room",
+  "category": "infrastructure",
+  "draw": "A desk facing a wall of screens showing road maps and camera views.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "traffic-map",
+  "category": "infrastructure",
+  "draw": "A map with a road network where one road is drawn thick and one dotted for slow traffic.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "emergency-vehicles-sign",
+  "category": "infrastructure",
+  "draw": "A rectangular sign with an ambulance front and flashing light rays.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "divided-highway-sign",
+  "category": "infrastructure",
+  "draw": "A diamond warning sign with a road splitting around a narrow median island.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "crossroads-sign",
+  "category": "infrastructure",
+  "draw": "A triangle warning sign with a bold plus shaped cross.",
+  "domain": "transport-infrastructure-signs"
+ }
+]

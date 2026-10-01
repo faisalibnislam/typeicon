@@ -1,0 +1,82 @@
+# TypeIcon local environment: PostgreSQL + S3-compatible storage (MinIO) + worker + web.
+# No paid credentials required. Start:  docker compose up --build
+# Then load data:                       docker compose run --rm worker catalog-init
+# NOTE: written for Docker Compose v2; not yet run on this repository's development machine (no Docker there).
+name: typeicon
+
+services:
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_USER: typeicon
+      POSTGRES_PASSWORD: typeicon
+      POSTGRES_DB: typeicon
+    ports: ["54329:5432"]
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U typeicon"]
+      interval: 5s
+      retries: 20
+
+  minio:
+    image: minio/minio:latest
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: typeicon
+      MINIO_ROOT_PASSWORD: typeicon-dev-secret
+    ports: ["9000:9000", "9001:9001"]
+    volumes: [minio:/data]
+    healthcheck:
+      test: ["CMD", "mc", "ready", "local"]
+      interval: 5s
+      retries: 20
+
+  minio-init:
+    image: minio/mc:latest
+    depends_on: { minio: { condition: service_healthy } }
+    entrypoint: >
+      /bin/sh -c "mc alias set local http://minio:9000 typeicon typeicon-dev-secret &&
+                  mc mb --ignore-existing local/typeicon && echo bucket ready"
+
+  migrate:
+    build: { context: ., dockerfile: apps/web/Dockerfile, target: migrate }
+    environment: &common-env
+      DATABASE_URL: postgres://typeicon:typeicon@postgres:5432/typeicon
+      STORAGE_DRIVER: s3
+      S3_ENDPOINT: http://minio:9000
+      S3_REGION: us-east-1
+      S3_BUCKET: typeicon
+      S3_ACCESS_KEY_ID: typeicon
+      S3_SECRET_ACCESS_KEY: typeicon-dev-secret
+    depends_on: { postgres: { condition: service_healthy } }
+
+  worker:
+    build: { context: ., dockerfile: apps/worker/Dockerfile }
+    environment:
+      <<: *common-env
+      WORKER_JOB_TIMEOUT_SECONDS: "300"
+      WORKER_MEMORY_LIMIT_MB: "2048"
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+      minio-init: { condition: service_completed_successfully }
+    # Hard container limits on top of the per-job rlimits inside the worker.
+    mem_limit: 3g
+    cpus: 2.0
+    restart: unless-stopped
+
+  web:
+    build: { context: ., dockerfile: apps/web/Dockerfile, target: runner }
+    environment:
+      <<: *common-env
+      BETTER_AUTH_SECRET: change-me-in-.env-for-anything-but-local
+      BETTER_AUTH_URL: http://localhost:3107
+      NEXT_PUBLIC_SITE_URL: http://localhost:3107
+      PORT: "3107"
+    ports: ["3107:3107"]
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+    restart: unless-stopped
+
+volumes:
+  pgdata:
+  minio:

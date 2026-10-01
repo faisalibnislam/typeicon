@@ -1,0 +1,482 @@
+[
+ {
+  "name": "accent-mark",
+  "category": "music",
+  "draw": "Wide sideways V accent above a filled note head.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "arpeggio-mark",
+  "category": "music",
+  "draw": "Vertical wavy line to the left of a stacked chord of three note heads.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "tremolo-mark",
+  "category": "music",
+  "draw": "Note stem crossed by three short slanted slashes.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "music-staff",
+  "category": "music",
+  "draw": "Five evenly spaced horizontal lines with a short barline at each end.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "grand-staff",
+  "category": "music",
+  "draw": "Two five-line staves joined on the left by a curly brace.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "chord-diagram",
+  "category": "music",
+  "draw": "Guitar chord grid of six vertical strings and frets with three dots marking finger positions.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "tablature",
+  "category": "music",
+  "draw": "Six horizontal lines with fret numbers placed on them and the letters TAB at the left.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "sheet-music",
+  "category": "music",
+  "draw": "Page with two staves of notes and a small title line at the top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "circle-of-fifths",
+  "category": "music",
+  "draw": "Ring divided into twelve segments with a letter C at the top and a centre dot.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "piano-roll",
+  "category": "music",
+  "draw": "Grid with a small keyboard down the left edge and horizontal note bars of varied lengths.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "music-composition",
+  "category": "music",
+  "draw": "Quill pen writing notes onto a five-line staff.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "songbook",
+  "category": "music",
+  "draw": "Closed book with a music note on the cover and a ribbon bookmark.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "lyrics",
+  "category": "music",
+  "draw": "Three text lines of varied length with a small music note in the top corner.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "music-stand",
+  "category": "music",
+  "draw": "Tall folding stand with a tilted slatted ledge holding a page on a tripod base.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "conductor-baton",
+  "category": "music",
+  "draw": "Thin tapering white stick with a pear-shaped cork handle.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "guitar-pick",
+  "category": "music",
+  "draw": "Rounded triangular plectrum shape with a small grip texture.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "capo",
+  "category": "music",
+  "draw": "Clamp bar across a guitar neck with a curved spring arm wrapped behind.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "guitar-case",
+  "category": "music",
+  "draw": "Hard case in the silhouette of a guitar with a handle and two latches.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "violin-case",
+  "category": "music",
+  "draw": "Oblong violin case wider at one end with a carry handle and a zip line.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "guitar-stand",
+  "category": "music",
+  "draw": "A-frame folding stand with a curved neck cradle at the top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "rosin",
+  "category": "music",
+  "draw": "Small round cake of rosin in a cloth wrapper with a scuffed groove on top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "woodwind-reed",
+  "category": "music",
+  "draw": "Thin flat cane reed tapering to a curved tip with a cut vamp line.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "brass-mouthpiece",
+  "category": "music",
+  "draw": "Small cup-shaped metal mouthpiece with a round rim and a tapering shank.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "trumpet-mute",
+  "category": "music",
+  "draw": "Cone-shaped straight mute with cork strips near the narrow end.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "guitar-tuner",
+  "category": "music",
+  "draw": "Clip-on tuner with a spring clip and a small round screen showing a needle.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "guitar-slide",
+  "category": "music",
+  "draw": "Short glass bottleneck tube worn on a finger across guitar strings.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "patch-cable",
+  "category": "music",
+  "draw": "Short cable with a straight jack plug at each end, looped in a curve.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "midi-connector",
+  "category": "music",
+  "draw": "Round DIN plug face with five pins arranged in a semicircle and a key notch.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "di-box",
+  "category": "music",
+  "draw": "Small metal box with a jack input on one side and an XLR output on the other and a switch.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "condenser-microphone",
+  "category": "music",
+  "draw": "Large side-address studio microphone with a mesh capsule held in a spider shock mount.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "shotgun-microphone",
+  "category": "music",
+  "draw": "Long thin tube microphone with slotted sides and a pistol grip.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "lavalier-microphone",
+  "category": "music",
+  "draw": "Tiny clip-on microphone with a small clip and a thin cable.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "boom-microphone",
+  "category": "music",
+  "draw": "Microphone in a fluffy windscreen on the end of a long boom pole.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "gooseneck-microphone",
+  "category": "music",
+  "draw": "Microphone on a long flexible curved neck rising from a small base.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "mic-boom-arm",
+  "category": "music",
+  "draw": "Articulated desk arm with springs, clamped to a table edge and holding a microphone.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "pop-filter",
+  "category": "music",
+  "draw": "Round mesh screen on a flexible gooseneck placed in front of a microphone.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "microphone-windscreen",
+  "category": "music",
+  "draw": "Furry windscreen cover over a microphone with long shaggy fibres.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "vocal-booth",
+  "category": "music",
+  "draw": "Curved half-shell reflection shield behind a microphone on a stand.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "acoustic-panel",
+  "category": "music",
+  "draw": "Square foam panel with a pattern of wedges or pyramids.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "on-air-sign",
+  "category": "music",
+  "draw": "Rounded rectangle lit sign with the words ON AIR.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "audio-interface",
+  "category": "music",
+  "draw": "Small box with two combo inputs, gain knobs and a large volume knob on top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "dj-controller",
+  "category": "music",
+  "draw": "Wide controller with two round jog wheels at the sides and faders between them.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "effects-pedal",
+  "category": "music",
+  "draw": "Stomp box pedal with two knobs on top, a footswitch and a small LED.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "wah-pedal",
+  "category": "music",
+  "draw": "Rocker foot pedal with a hinged treadle on a shaped base.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "guitar-amplifier",
+  "category": "music",
+  "draw": "Combo amp box with a speaker grille on the front and a row of knobs on top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "amp-stack",
+  "category": "music",
+  "draw": "Amplifier head sitting on a tall speaker cabinet with four round speakers.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "pa-speaker",
+  "category": "music",
+  "draw": "Trapezoid speaker cabinet on top of a tripod pole stand.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "stage-monitor-wedge",
+  "category": "music",
+  "draw": "Wedge-shaped floor speaker angled up with a round cone on the sloped face.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "line-array",
+  "category": "music",
+  "draw": "Stack of flat speaker cabinets hanging in a gentle J curve from a rigging bar.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "speaker-driver",
+  "category": "music",
+  "draw": "Front view of a single speaker cone with a surround ring and a dust cap in the centre.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "tape-deck",
+  "category": "music",
+  "draw": "Horizontal stereo cassette deck with a cassette door window and control buttons.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "stereo-system",
+  "category": "music",
+  "draw": "Stacked hi-fi components flanked by two tall speakers.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "record-crate",
+  "category": "music",
+  "draw": "Wooden crate filled with vinyl record sleeves standing upright.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "record-needle",
+  "category": "music",
+  "draw": "Tonearm tip with a cartridge and a stylus touching the grooves of a record.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "vu-meter",
+  "category": "music",
+  "draw": "Rectangular analog meter window with an arched scale and a needle.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "field-recorder",
+  "category": "music",
+  "draw": "Handheld recorder with two crossed microphones on top and a small screen.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "audio-knob",
+  "category": "music",
+  "draw": "Round rotary knob with a pointer line and a scale of ticks around it.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "audio-fader",
+  "category": "music",
+  "draw": "Vertical slot track with a rectangular fader cap and level ticks at the side.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "audio-balance",
+  "category": "music",
+  "draw": "Horizontal slider between letters L and R with the knob in the middle.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "multitrack-audio",
+  "category": "music",
+  "draw": "Three stacked horizontal tracks each with its own waveform.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "spectrogram",
+  "category": "music",
+  "draw": "Rectangle filled with vertical bands of varying heights and density like a heat map of sound.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "karaoke",
+  "category": "music",
+  "draw": "Microphone in front of a screen showing lyric lines and a music note.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "concert-stage",
+  "category": "music",
+  "draw": "Stage platform with open curtains at both sides and spotlights shining down.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "stage-light",
+  "category": "music",
+  "draw": "Can-shaped stage light on a yoke bracket with a cone of light.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "fog-machine",
+  "category": "music",
+  "draw": "Small box machine blowing a cloud of fog out of a nozzle.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "setlist",
+  "category": "music",
+  "draw": "Sheet of paper taped down with a numbered list of song lines.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "backstage-pass",
+  "category": "music",
+  "draw": "Laminated pass card on a lanyard with a star and a band of text.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "festival-wristband",
+  "category": "music",
+  "draw": "Fabric wristband loop with a small clasp and a pattern.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "gold-record",
+  "category": "music",
+  "draw": "Framed vinyl record disc with a small plaque below.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "opera-glasses",
+  "category": "music",
+  "draw": "Small binoculars on a long handle held to one side.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "concert-crowd",
+  "category": "music",
+  "draw": "Row of heads from behind with raised hands in front of a stage glow.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "busking",
+  "category": "music",
+  "draw": "Open guitar case on the ground with coins inside and a guitar leaning beside it.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "choir",
+  "category": "music",
+  "draw": "Three figures in robes standing in a row with open mouths and a music note.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "disc-jockey",
+  "category": "music",
+  "draw": "Person with headphones behind a turntable deck, one hand on a record.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "ballroom-dancing",
+  "category": "music",
+  "draw": "Couple in a closed waltz hold with one figure's skirt flaring.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "breakdancing",
+  "category": "music",
+  "draw": "Dancer upside down spinning on the head with legs spread in a V.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "flamenco-dancer",
+  "category": "music",
+  "draw": "Dancer with one arm raised high and a long ruffled dress swirling.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "hula-dance",
+  "category": "music",
+  "draw": "Dancer in a grass skirt and flower garland with arms extended to one side.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "indian-classical-dance",
+  "category": "music",
+  "draw": "Dancer in a deep bent-knee stance with one arm out in a mudra and a pleated fan skirt.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "lion-dance",
+  "category": "music",
+  "draw": "Front view of a lion dance head costume with big eyes, a horn and fringe with legs below.",
+  "domain": "music-and-audio"
+ }
+]

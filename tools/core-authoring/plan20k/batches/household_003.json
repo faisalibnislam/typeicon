@@ -1,0 +1,482 @@
+[
+ {
+  "name": "clothes-wringer",
+  "category": "household",
+  "draw": "Old mangle with two horizontal rollers and a crank wheel on its side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "top-load-washer",
+  "category": "household",
+  "draw": "Washing machine with a lid opening on top and a control panel at the back edge.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "stacked-washer-dryer",
+  "category": "household",
+  "draw": "Tall unit with a dryer stacked on a washing machine, two round doors.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "laundromat",
+  "category": "household",
+  "draw": "Row of three front-loading machines side by side with a coin slot symbol.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "clip-hanger",
+  "category": "household",
+  "draw": "Trouser hanger with a straight bar and two clips hanging from it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "pants-hanger",
+  "category": "household",
+  "draw": "Clothes hanger with a pair of pants folded over its bar.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "folded-clothes",
+  "category": "household",
+  "draw": "Stack of three neatly folded shirts with a collar visible on the top one.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "stain-remover",
+  "category": "household",
+  "draw": "Pen-shaped stain remover stick with a round tip over a small splotch.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "laundry-sorter",
+  "category": "household",
+  "draw": "Cart with three fabric bags side by side on a metal frame.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dry-cleaning",
+  "category": "household",
+  "draw": "Garment on a hanger covered by a clear plastic bag with a paper ticket.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "fabric-shaver",
+  "category": "household",
+  "draw": "Small handheld fabric shaver with a round mesh head and a lint chamber.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-label",
+  "category": "household",
+  "draw": "Garment care label hanging from a seam with a row of small laundry symbols.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "spin-cycle",
+  "category": "household",
+  "draw": "Round drum with a swirl of curved arrows inside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shoe-polish",
+  "category": "household",
+  "draw": "Round flat tin of shoe polish with its lid off and a shoe outline on the lid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shoe-brush",
+  "category": "household",
+  "draw": "Oval shoe brush with a wooden back and short bristles and a strap.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shoe-horn",
+  "category": "household",
+  "draw": "Long curved shoe horn with a hanging hole at the handle end.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shoe-tree",
+  "category": "household",
+  "draw": "Wooden shoe tree with a toe block and a heel knob joined by a spring bar.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "sewing-kit",
+  "category": "household",
+  "draw": "Small open tin with thread spools, a needle and a thimble.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "thimble",
+  "category": "household",
+  "draw": "Dimpled metal thimble with a rounded top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "darning-egg",
+  "category": "household",
+  "draw": "Wooden darning egg on a short handle with a stretched sock patch.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "mothballs",
+  "category": "household",
+  "draw": "Three round mothballs in a cluster beside a small moth outline.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-machine-wash",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with a wavy water line.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-hand-wash",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with a hand dipped into the water.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-delicate-wash",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with two horizontal lines underneath it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-wash-cold",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with one dot inside for cold water.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-wash-warm",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with two dots inside for warm water.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-wash-hot",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with three dots inside for hot water.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-bleach",
+  "category": "household",
+  "draw": "Laundry care symbol: an empty outline triangle for any bleach.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-non-chlorine-bleach",
+  "category": "household",
+  "draw": "Laundry care symbol: a triangle with two diagonal lines inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-tumble-dry",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a circle inside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-tumble-dry-low",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a circle and one dot inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-tumble-dry-high",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a circle and three dots inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-line-dry",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a curved line hanging from the top edge.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-drip-dry",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with three vertical lines inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-dry-flat",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with one horizontal line across the middle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-dry-in-shade",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with two short diagonal lines in the top left corner.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-iron-low",
+  "category": "household",
+  "draw": "Laundry care symbol: an iron outline with one dot inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-iron-medium",
+  "category": "household",
+  "draw": "Laundry care symbol: an iron outline with two dots inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-iron-high",
+  "category": "household",
+  "draw": "Laundry care symbol: an iron outline with three dots inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-steam-iron",
+  "category": "household",
+  "draw": "Laundry care symbol: an iron outline with short steam lines below its sole.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-dry-clean",
+  "category": "household",
+  "draw": "Laundry care symbol: an outline circle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-wet-clean",
+  "category": "household",
+  "draw": "Laundry care symbol: a circle with the letter W inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "care-wring",
+  "category": "household",
+  "draw": "Laundry care symbol: a twisted cloth shape like a bow with a knot in the middle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toothbrush",
+  "category": "household",
+  "draw": "Toothbrush at an angle with a long handle and a tuft of bristles at the head.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "electric-toothbrush",
+  "category": "household",
+  "draw": "Electric toothbrush with a thick handle, a power button and a small round head.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toothpaste",
+  "category": "household",
+  "draw": "Squeezed toothpaste tube with a screw cap and a curl of paste out of the end.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dental-floss",
+  "category": "household",
+  "draw": "Round floss dispenser with a strand of floss pulled out from a slot.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "floss-pick",
+  "category": "household",
+  "draw": "Plastic floss pick with a curved fork holding a taut strand and a pointed handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "interdental-brush",
+  "category": "household",
+  "draw": "Tiny bottle-brush tip bent at an angle on a slim handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "mouthwash",
+  "category": "household",
+  "draw": "Rounded bottle with a large cup-shaped cap and a wave on the label.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "breath-spray",
+  "category": "household",
+  "draw": "Small slim spray bottle with a mint leaf on the label and a puff of spray.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "tongue-scraper",
+  "category": "household",
+  "draw": "U-shaped flexible tongue scraper with two small grips on its ends.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "water-flosser",
+  "category": "household",
+  "draw": "Water flosser base with a tank and a wand spraying a thin jet.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dentures",
+  "category": "household",
+  "draw": "Set of false teeth, upper and lower rows with gums, slightly open.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dental-retainer",
+  "category": "household",
+  "draw": "Clear horseshoe-shaped orthodontic retainer with a thin wire across the front.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "teeth-braces",
+  "category": "household",
+  "draw": "Row of teeth with small square brackets joined by a wire.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "mouth-guard",
+  "category": "household",
+  "draw": "Horseshoe-shaped sports mouth guard with a thick rim.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toothpick",
+  "category": "household",
+  "draw": "Two thin pointed toothpicks crossed at an angle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "miswak",
+  "category": "household",
+  "draw": "Chewing stick twig with a frayed bristly tip at one end.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "brushing-teeth",
+  "category": "household",
+  "draw": "Smiling mouth with teeth and a toothbrush moving across them with bubbles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "deodorant-stick",
+  "category": "household",
+  "draw": "Twist-up deodorant stick with its cap off, showing an oval solid top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "roll-on-deodorant",
+  "category": "household",
+  "draw": "Small bottle with a ball on top under a domed cap.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "body-lotion",
+  "category": "household",
+  "draw": "Pump bottle of lotion with a drop of cream at its nozzle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shower-gel",
+  "category": "household",
+  "draw": "Upside-down squeeze bottle standing on its flip cap with a bubble on the label.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hand-cream",
+  "category": "household",
+  "draw": "Flat squeeze tube with a flip cap and a small hand symbol on its label.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "face-cream",
+  "category": "household",
+  "draw": "Short wide jar with its screw lid set aside and a swirl of cream visible.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "sunscreen",
+  "category": "household",
+  "draw": "Squeeze bottle with a flip cap and a sun symbol on its label.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hand-sanitizer",
+  "category": "household",
+  "draw": "Small flip-top bottle with a gel drop and a hand symbol on the label.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cotton-swab",
+  "category": "household",
+  "draw": "Two cotton swabs crossed, each a thin stick with fluffy tips at both ends.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cotton-pad",
+  "category": "household",
+  "draw": "Round flat cotton pad with a quilted dotted pattern.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cotton-balls",
+  "category": "household",
+  "draw": "Three fluffy cotton balls with soft scalloped outlines.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "tweezers",
+  "category": "household",
+  "draw": "Slanted-tip tweezers seen from the side, two arms joined at the top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "nail-clippers",
+  "category": "household",
+  "draw": "Nail clipper with a curved lever arm on top of its jaws.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "nail-file",
+  "category": "household",
+  "draw": "Long narrow emery board with rounded ends and a gritty texture.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "nail-scissors",
+  "category": "household",
+  "draw": "Small scissors with short curved blades and round finger loops.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cuticle-nipper",
+  "category": "household",
+  "draw": "Small plier-like cuticle nipper with a spring between its handles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cuticle-pusher",
+  "category": "household",
+  "draw": "Slim double-ended tool with a flat spoon tip and a pointed tip.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "nail-buffer",
+  "category": "household",
+  "draw": "Rectangular foam buffer block with each face in a different texture.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "foot-file",
+  "category": "household",
+  "draw": "Paddle-shaped foot file with a rough oval grating surface and a handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "pumice-stone",
+  "category": "household",
+  "draw": "Oval porous stone with scattered small holes.",
+  "domain": "bathroom-cleaning-laundry-care"
+ }
+]

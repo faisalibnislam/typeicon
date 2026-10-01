@@ -1,0 +1,1917 @@
+[
+ {
+  "name": "toilet-paper",
+  "category": "household",
+  "draw": "Front view of a toilet paper roll with a hollow core and a loose sheet hanging down."
+ },
+ {
+  "name": "toilet-paper-holder",
+  "category": "household",
+  "draw": "Wall bracket with a toilet roll on a bar and a short tail of paper hanging below."
+ },
+ {
+  "name": "toilet-paper-pack",
+  "category": "household",
+  "draw": "Plastic-wrapped pack of four toilet rolls in a square, two by two."
+ },
+ {
+  "name": "toilet-brush",
+  "category": "household",
+  "draw": "Toilet brush with a round bristle head standing in its cylindrical holder."
+ },
+ {
+  "name": "plunger",
+  "category": "household",
+  "draw": "Plunger with a straight wooden handle and a dome-shaped rubber cup at the bottom."
+ },
+ {
+  "name": "bidet",
+  "category": "household",
+  "draw": "Side view of a low floor-mounted bowl with a small tap on its back rim."
+ },
+ {
+  "name": "urinal",
+  "category": "household",
+  "draw": "Wall-mounted urinal, a tall rounded bowl open at the front with a flush pipe above."
+ },
+ {
+  "name": "squat-toilet",
+  "category": "household",
+  "draw": "Top view of a floor-level oval pan with two ridged footrests on either side."
+ },
+ {
+  "name": "child-potty",
+  "category": "household",
+  "draw": "Small plastic potty chair seen from the side with a curved backrest and a round seat."
+ },
+ {
+  "name": "toilet-seat",
+  "category": "household",
+  "draw": "Front view of an open toilet seat ring with the lid raised behind it."
+ },
+ {
+  "name": "dual-flush-button",
+  "category": "household",
+  "draw": "Rectangular wall plate holding two buttons, one small and one large, side by side."
+ },
+ {
+  "name": "pull-chain-toilet",
+  "category": "household",
+  "draw": "Toilet bowl below a high wall cistern with a hanging chain and a handle at its end."
+ },
+ {
+  "name": "toilet-cistern",
+  "category": "household",
+  "draw": "Toilet tank viewed from the front with the lid lifted and a float valve inside."
+ },
+ {
+  "name": "bidet-sprayer",
+  "category": "household",
+  "draw": "Handheld bidet spray nozzle with a trigger, joined to a coiled hose and a wall valve."
+ },
+ {
+  "name": "portable-toilet",
+  "category": "household",
+  "draw": "Tall portable toilet cabin with a roof vent, a door and a small occupied indicator."
+ },
+ {
+  "name": "outhouse",
+  "category": "household",
+  "draw": "Small wooden shed with a slanted roof and a crescent moon cut into the door."
+ },
+ {
+  "name": "chamber-pot",
+  "category": "household",
+  "draw": "Short round pot with a flared rim and a loop handle on one side."
+ },
+ {
+  "name": "handheld-shower",
+  "category": "household",
+  "draw": "Shower handset with a round spray face and a hose curving down from its handle."
+ },
+ {
+  "name": "shower-curtain",
+  "category": "household",
+  "draw": "Shower curtain hanging in folds from rings on a straight rod, drawn half open."
+ },
+ {
+  "name": "shower-enclosure",
+  "category": "household",
+  "draw": "Glass shower cubicle seen from the front, a square frame with a hinged door and a shower head inside."
+ },
+ {
+  "name": "shower-caddy",
+  "category": "household",
+  "draw": "Wire caddy hooked over a shower pipe holding two bottles on stacked baskets."
+ },
+ {
+  "name": "shower-drain",
+  "category": "household",
+  "draw": "Square floor grate with a slotted pattern and water drops falling onto it."
+ },
+ {
+  "name": "floor-drain",
+  "category": "household",
+  "draw": "Round floor drain cover with a grid of slots and curved lines of water flowing into it."
+ },
+ {
+  "name": "drain-strainer",
+  "category": "household",
+  "draw": "Round mesh basket strainer sitting in a drain hole with a few hairs caught in it."
+ },
+ {
+  "name": "shower-chair",
+  "category": "household",
+  "draw": "Short four-legged stool with a perforated seat and grab handles on each side."
+ },
+ {
+  "name": "shower-mixer",
+  "category": "household",
+  "draw": "Round thermostatic mixer valve on a wall with a lever and hot and cold marks."
+ },
+ {
+  "name": "bath-plug",
+  "category": "household",
+  "draw": "Round rubber sink plug with a small chain and ring attached to its top."
+ },
+ {
+  "name": "bath-mat",
+  "category": "household",
+  "draw": "Rectangular bath mat with rounded corners and a fringe of short tassels on both ends."
+ },
+ {
+  "name": "clawfoot-tub",
+  "category": "household",
+  "draw": "Freestanding roll-top bathtub raised on four curved claw feet."
+ },
+ {
+  "name": "hot-tub",
+  "category": "household",
+  "draw": "Round wooden tub filled with bubbling water and rising steam lines."
+ },
+ {
+  "name": "baby-bathtub",
+  "category": "household",
+  "draw": "Small oval baby bath with a sloped backrest and a rubber duck floating inside."
+ },
+ {
+  "name": "bubble-bath",
+  "category": "household",
+  "draw": "Bathtub overflowing with a mound of round foam bubbles above the rim."
+ },
+ {
+  "name": "bath-thermometer",
+  "category": "household",
+  "draw": "Floating bath thermometer shaped like a small fish with a scale on its side."
+ },
+ {
+  "name": "medicine-cabinet",
+  "category": "household",
+  "draw": "Wall-mounted cabinet with a mirrored door, partly open to show a shelf with bottles."
+ },
+ {
+  "name": "vanity-unit",
+  "category": "household",
+  "draw": "Bathroom vanity: a basin with a tap set on a cabinet with two doors."
+ },
+ {
+  "name": "pedestal-sink",
+  "category": "household",
+  "draw": "Freestanding washbasin on a single column pedestal with a tap on the back."
+ },
+ {
+  "name": "vessel-sink",
+  "category": "household",
+  "draw": "Round bowl-shaped basin sitting on top of a counter with a tall tap above it."
+ },
+ {
+  "name": "towel-stack",
+  "category": "household",
+  "draw": "Three folded towels stacked on top of each other with rounded edges."
+ },
+ {
+  "name": "heated-towel-rail",
+  "category": "household",
+  "draw": "Ladder-style radiator with several horizontal bars and a towel draped over the top rung."
+ },
+ {
+  "name": "towel-ring",
+  "category": "household",
+  "draw": "Round towel ring hanging from a wall mount with a hand towel pulled through."
+ },
+ {
+  "name": "robe-hook",
+  "category": "household",
+  "draw": "Double wall hook with a bathrobe hanging from it by its loop."
+ },
+ {
+  "name": "grab-bar",
+  "category": "household",
+  "draw": "Horizontal wall grab rail with round flanges at each end and a hand gripping it."
+ },
+ {
+  "name": "soap-dish",
+  "category": "household",
+  "draw": "Shallow oval dish with ribs holding a bar of soap."
+ },
+ {
+  "name": "soap-bar",
+  "category": "household",
+  "draw": "Rounded bar of soap with a small cluster of bubbles on one corner."
+ },
+ {
+  "name": "soap-dispenser",
+  "category": "household",
+  "draw": "Liquid soap pump bottle with a downward spout and bubbles beside it."
+ },
+ {
+  "name": "foam-soap-dispenser",
+  "category": "household",
+  "draw": "Soap pump bottle with a wide nozzle releasing a round blob of foam."
+ },
+ {
+  "name": "toothbrush-holder",
+  "category": "household",
+  "draw": "Cup-shaped holder with two toothbrushes standing in it."
+ },
+ {
+  "name": "rubber-duck",
+  "category": "household",
+  "draw": "Side view of a bath rubber duck with a flat base, round head and small beak."
+ },
+ {
+  "name": "bath-bomb",
+  "category": "household",
+  "draw": "Round bath bomb ball fizzing with small bubbles and specks on its surface."
+ },
+ {
+  "name": "bath-salts",
+  "category": "household",
+  "draw": "Wide glass jar of bath salt crystals with a small wooden scoop resting on it."
+ },
+ {
+  "name": "bath-caddy",
+  "category": "household",
+  "draw": "Long tray bridging across the rim of a bathtub holding a candle and a book."
+ },
+ {
+  "name": "bathroom-extractor-fan",
+  "category": "household",
+  "draw": "Square wall vent grille with a fan blade shape in the middle and airflow lines."
+ },
+ {
+  "name": "hand-dryer",
+  "category": "household",
+  "draw": "Wall-mounted hand dryer with a downward nozzle blowing air lines onto open hands."
+ },
+ {
+  "name": "paper-towel-dispenser",
+  "category": "household",
+  "draw": "Wall-mounted box dispenser with a single paper towel sheet sticking out the bottom."
+ },
+ {
+  "name": "pedal-bin",
+  "category": "household",
+  "draw": "Round pedal bin with a hinged lid lifted open and a foot pedal at the front."
+ },
+ {
+  "name": "hand-mirror",
+  "category": "household",
+  "draw": "Oval hand mirror with a long handle and a glint line on the glass."
+ },
+ {
+  "name": "compact-mirror",
+  "category": "household",
+  "draw": "Open round compact mirror with a hinge, mirror on the lid and a smaller mirror below."
+ },
+ {
+  "name": "magnifying-mirror",
+  "category": "household",
+  "draw": "Round swivel mirror on a stand with a magnified eye visible in the glass."
+ },
+ {
+  "name": "lighted-vanity-mirror",
+  "category": "household",
+  "draw": "Rectangular mirror framed by round light bulbs on all four sides."
+ },
+ {
+  "name": "wc-sign",
+  "category": "household",
+  "draw": "Rectangular sign with the letters WC in bold."
+ },
+ {
+  "name": "restroom-sign",
+  "category": "household",
+  "draw": "Rectangular sign split down the middle with a man figure on one side and a woman figure on the other."
+ },
+ {
+  "name": "baby-changing-table",
+  "category": "household",
+  "draw": "Changing table sign: an adult figure standing beside a baby lying on a flat table."
+ },
+ {
+  "name": "changing-pad",
+  "category": "household",
+  "draw": "Padded baby changing mat with raised sides and a curved dip in the middle."
+ },
+ {
+  "name": "sauna-bucket",
+  "category": "household",
+  "draw": "Wooden sauna bucket with metal bands and a long-handled ladle resting inside."
+ },
+ {
+  "name": "spray-bottle",
+  "category": "household",
+  "draw": "Cleaning spray bottle with a trigger nozzle and a fine mist coming out."
+ },
+ {
+  "name": "dustpan-and-brush",
+  "category": "household",
+  "draw": "Dustpan with a short handle and a hand brush lying across it."
+ },
+ {
+  "name": "lobby-dustpan",
+  "category": "household",
+  "draw": "Upright dustpan on a long handle with a hinged pan at the bottom."
+ },
+ {
+  "name": "feather-duster",
+  "category": "household",
+  "draw": "Feather duster with a round fan of feathers on a thin handle."
+ },
+ {
+  "name": "dusting-mitt",
+  "category": "household",
+  "draw": "Fuzzy chenille mitt with a thumb and a looped nubby texture."
+ },
+ {
+  "name": "microfiber-cloth",
+  "category": "household",
+  "draw": "Square cleaning cloth folded into a triangle with a quilted texture."
+ },
+ {
+  "name": "cleaning-sponge",
+  "category": "household",
+  "draw": "Rectangular kitchen sponge with a darker scouring layer on top."
+ },
+ {
+  "name": "scouring-pad",
+  "category": "household",
+  "draw": "Round steel wool pad with tangled curly lines."
+ },
+ {
+  "name": "scrub-brush",
+  "category": "household",
+  "draw": "Hand scrub brush with a curved wooden back and a row of stiff bristles below."
+ },
+ {
+  "name": "dish-brush",
+  "category": "household",
+  "draw": "Long-handled dish brush with a round bristle head."
+ },
+ {
+  "name": "sponge-wand",
+  "category": "household",
+  "draw": "Dish wand with a clear handle filled with soap and a sponge head."
+ },
+ {
+  "name": "bottle-brush",
+  "category": "household",
+  "draw": "Bottle cleaning brush with a twisted wire stem and a spiral cylinder of bristles."
+ },
+ {
+  "name": "grout-brush",
+  "category": "household",
+  "draw": "Narrow brush with a thin angled head for cleaning tile gaps, shown against a tile grid."
+ },
+ {
+  "name": "wire-brush",
+  "category": "household",
+  "draw": "Wire brush with a flat handle and short stiff metal bristles."
+ },
+ {
+  "name": "grill-brush",
+  "category": "household",
+  "draw": "Barbecue grill brush with a long handle, wire bristles and a scraper blade at the tip."
+ },
+ {
+  "name": "squeegee",
+  "category": "household",
+  "draw": "Window squeegee with a T-shaped rubber blade and a short handle."
+ },
+ {
+  "name": "window-cleaning",
+  "category": "household",
+  "draw": "Window pane with a squeegee wiping a clear stripe across it and sparkles."
+ },
+ {
+  "name": "extension-pole",
+  "category": "household",
+  "draw": "Telescopic cleaning pole with two visible sections and a clip head at the top."
+ },
+ {
+  "name": "scraper-blade",
+  "category": "household",
+  "draw": "Flat razor scraper with a wide metal blade and a short handle."
+ },
+ {
+  "name": "mop-bucket",
+  "category": "household",
+  "draw": "Wheeled mop bucket with a wringer press on top and a mop handle standing in it."
+ },
+ {
+  "name": "spin-mop",
+  "category": "household",
+  "draw": "Round spin mop head with microfiber strands and a bucket with a spinning basket."
+ },
+ {
+  "name": "flat-mop",
+  "category": "household",
+  "draw": "Flat rectangular mop pad on a swivel joint with a long straight handle."
+ },
+ {
+  "name": "steam-mop",
+  "category": "household",
+  "draw": "Upright steam mop with a triangular pad and wisps of steam at the base."
+ },
+ {
+  "name": "push-broom",
+  "category": "household",
+  "draw": "Wide push broom with a long rectangular bristle head on a straight pole."
+ },
+ {
+  "name": "whisk-broom",
+  "category": "household",
+  "draw": "Short hand broom with a fanned bundle of straw bristles bound at the top."
+ },
+ {
+  "name": "cobweb-duster",
+  "category": "household",
+  "draw": "Round bristle ball duster on a long pole reaching a cobweb in a corner."
+ },
+ {
+  "name": "lint-roller",
+  "category": "household",
+  "draw": "Lint roller with a sticky cylinder and a handle, with a peeled strip at one edge."
+ },
+ {
+  "name": "clothes-brush",
+  "category": "household",
+  "draw": "Oval wooden clothes brush with a dense pad of bristles."
+ },
+ {
+  "name": "rubber-gloves",
+  "category": "household",
+  "draw": "Pair of long cleaning gloves with rolled cuffs, one overlapping the other."
+ },
+ {
+  "name": "carpet-beater",
+  "category": "household",
+  "draw": "Rattan carpet beater with a looping trefoil head on a long handle."
+ },
+ {
+  "name": "carpet-cleaner",
+  "category": "household",
+  "draw": "Upright carpet cleaning machine with a clear water tank and a wide nozzle."
+ },
+ {
+  "name": "steam-cleaner",
+  "category": "household",
+  "draw": "Handheld steam cleaner with a nozzle releasing a puff of steam."
+ },
+ {
+  "name": "pressure-washer",
+  "category": "household",
+  "draw": "Pressure washer gun with a trigger and a long lance spraying a strong jet."
+ },
+ {
+  "name": "floor-scrubber",
+  "category": "household",
+  "draw": "Walk-behind floor scrubbing machine with a round brush deck and a handlebar."
+ },
+ {
+  "name": "robot-vacuum",
+  "category": "household",
+  "draw": "Top view of a round robot vacuum with a bumper band and a small sensor dome."
+ },
+ {
+  "name": "handheld-vacuum",
+  "category": "household",
+  "draw": "Small cordless handheld vacuum with a pistol grip and a narrow nozzle."
+ },
+ {
+  "name": "stick-vacuum",
+  "category": "household",
+  "draw": "Cordless stick vacuum with a motor body at the handle and a long tube to a floor head."
+ },
+ {
+  "name": "upright-vacuum",
+  "category": "household",
+  "draw": "Upright vacuum cleaner with a tall body, a bag and a wide floor head."
+ },
+ {
+  "name": "wet-dry-vacuum",
+  "category": "household",
+  "draw": "Drum-shaped shop vacuum on casters with a flexible hose on its lid."
+ },
+ {
+  "name": "cleaning-caddy",
+  "category": "household",
+  "draw": "Open plastic tote with a central carrying handle holding a spray bottle and a brush."
+ },
+ {
+  "name": "janitor-cart",
+  "category": "household",
+  "draw": "Cleaning trolley with shelves, a hanging bag and a mop bucket at the side."
+ },
+ {
+  "name": "wet-floor-sign",
+  "category": "household",
+  "draw": "A-frame caution sign with a slipping person figure on it."
+ },
+ {
+  "name": "chore-chart",
+  "category": "household",
+  "draw": "Clipboard with a checklist of ticked boxes and a small spray bottle beside it."
+ },
+ {
+  "name": "trash-bag",
+  "category": "household",
+  "draw": "Full garbage bag tied at the top with a knot and two ears."
+ },
+ {
+  "name": "bin-bag-roll",
+  "category": "household",
+  "draw": "Roll of garbage bags with one bag partly unrolled and perforation marks."
+ },
+ {
+  "name": "wheelie-bin",
+  "category": "household",
+  "draw": "Tall wheeled waste bin with a hinged lid and a large wheel at the back."
+ },
+ {
+  "name": "bleach-bottle",
+  "category": "household",
+  "draw": "Chunky jug with a handle and a screw cap, labelled with a small drop symbol."
+ },
+ {
+  "name": "dish-soap",
+  "category": "household",
+  "draw": "Tall squeeze bottle with a flip-top nozzle and a plate symbol with bubbles."
+ },
+ {
+  "name": "toilet-cleaner",
+  "category": "household",
+  "draw": "Cleaner bottle with a bent angled neck pointing forward."
+ },
+ {
+  "name": "drain-cleaner",
+  "category": "household",
+  "draw": "Heavy bottle with a child-safe cap and a curved pipe symbol on the label."
+ },
+ {
+  "name": "disinfectant-wipes",
+  "category": "household",
+  "draw": "Round wipes canister with one wipe pulled up through the lid."
+ },
+ {
+  "name": "wet-wipes",
+  "category": "household",
+  "draw": "Soft rectangular wet wipes pack with a resealable flap and a wipe peeking out."
+ },
+ {
+  "name": "paper-towel-roll",
+  "category": "household",
+  "draw": "Paper towel roll standing on a vertical holder with perforated sheets."
+ },
+ {
+  "name": "tissue-box",
+  "category": "household",
+  "draw": "Square tissue box with a tissue fluffed up out of its oval opening."
+ },
+ {
+  "name": "pocket-tissues",
+  "category": "household",
+  "draw": "Small flat packet of tissues with a tissue poking out of the top slit."
+ },
+ {
+  "name": "furniture-polish",
+  "category": "household",
+  "draw": "Round tin of wax polish with its lid off and a cloth beside it."
+ },
+ {
+  "name": "air-freshener-spray",
+  "category": "household",
+  "draw": "Aerosol can with a round cap spraying a mist with a small flower beside it."
+ },
+ {
+  "name": "plug-in-air-freshener",
+  "category": "household",
+  "draw": "Wall socket plug unit with a small scent bottle attached and scent waves rising."
+ },
+ {
+  "name": "reed-diffuser",
+  "category": "household",
+  "draw": "Small bottle with several thin reeds fanning out from its neck."
+ },
+ {
+  "name": "aroma-diffuser",
+  "category": "household",
+  "draw": "Dome-shaped ultrasonic diffuser releasing a soft curl of mist from the top."
+ },
+ {
+  "name": "drain-snake",
+  "category": "household",
+  "draw": "Coiled plumber's drain auger with a crank handle and a spiral cable end."
+ },
+ {
+  "name": "fly-swatter",
+  "category": "household",
+  "draw": "Fly swatter with a square mesh paddle on a long thin handle."
+ },
+ {
+  "name": "mousetrap",
+  "category": "household",
+  "draw": "Wooden spring mousetrap with a snap bar and a wedge of cheese on the trigger."
+ },
+ {
+  "name": "insect-spray",
+  "category": "household",
+  "draw": "Aerosol can with a round cap and a small bug symbol, spraying a mist."
+ },
+ {
+  "name": "mosquito-coil",
+  "category": "household",
+  "draw": "Spiral mosquito coil on a small stand with a thin line of smoke at its end."
+ },
+ {
+  "name": "sticky-fly-trap",
+  "category": "household",
+  "draw": "Hanging strip of fly paper curling down with a few small dots stuck on it."
+ },
+ {
+  "name": "dust-cloud",
+  "category": "household",
+  "draw": "Puff of dust particles with small dots floating around it."
+ },
+ {
+  "name": "dust-mite",
+  "category": "household",
+  "draw": "Tiny rounded mite with eight short legs and a segmented back."
+ },
+ {
+  "name": "wall-mold",
+  "category": "household",
+  "draw": "Wall corner with clusters of round fuzzy spots spreading on it."
+ },
+ {
+  "name": "hand-wiping",
+  "category": "household",
+  "draw": "Hand holding a cloth wiping a flat surface in a curved motion with sparkles."
+ },
+ {
+  "name": "disinfecting",
+  "category": "household",
+  "draw": "Spray bottle spraying a mist onto a round germ shape."
+ },
+ {
+  "name": "chimney-brush",
+  "category": "household",
+  "draw": "Round wire chimney sweep brush with a spiky star head on a flexible rod."
+ },
+ {
+  "name": "pool-skimmer",
+  "category": "household",
+  "draw": "Flat mesh skimmer net on a long pole with a leaf in it."
+ },
+ {
+  "name": "boot-scraper",
+  "category": "household",
+  "draw": "Metal boot scraper, a horizontal blade between two short posts with brushes on each side."
+ },
+ {
+  "name": "doormat",
+  "category": "household",
+  "draw": "Rectangular coir doormat with a coarse texture and a thin border."
+ },
+ {
+  "name": "dehumidifier",
+  "category": "household",
+  "draw": "Upright box with a vent grille on top and a water drop symbol on the front tank."
+ },
+ {
+  "name": "air-purifier",
+  "category": "household",
+  "draw": "Tall cylindrical air purifier with a grille band and air flow lines at the top."
+ },
+ {
+  "name": "humidifier",
+  "category": "household",
+  "draw": "Teardrop-shaped humidifier with a mist curl rising from its top spout."
+ },
+ {
+  "name": "laundry-detergent",
+  "category": "household",
+  "draw": "Detergent bottle with a handle, a spout and a measuring cap on top."
+ },
+ {
+  "name": "detergent-powder",
+  "category": "household",
+  "draw": "Box of washing powder with a scoop resting on its open top."
+ },
+ {
+  "name": "laundry-pod",
+  "category": "household",
+  "draw": "Soft pillow-shaped detergent pod with two swirled compartments."
+ },
+ {
+  "name": "fabric-softener",
+  "category": "household",
+  "draw": "Rounded bottle with a cap and a fluffy cloud symbol on the label."
+ },
+ {
+  "name": "dryer-sheet",
+  "category": "household",
+  "draw": "Thin rectangular sheet with a crinkled edge and small wavy scent lines."
+ },
+ {
+  "name": "dryer-ball",
+  "category": "household",
+  "draw": "Round wool dryer ball with a stitched felt texture."
+ },
+ {
+  "name": "lint-trap",
+  "category": "household",
+  "draw": "Dryer lint screen, a rectangular mesh frame with a layer of fluff on it."
+ },
+ {
+  "name": "clothespin",
+  "category": "household",
+  "draw": "Wooden clothespin with two prongs joined by a coiled spring."
+ },
+ {
+  "name": "peg-bag",
+  "category": "household",
+  "draw": "Fabric peg bag on a hanger with a round opening and clothespins inside."
+ },
+ {
+  "name": "clothesline",
+  "category": "household",
+  "draw": "Line strung between two posts with a shirt and a sock pegged on it."
+ },
+ {
+  "name": "clothes-drying-rack",
+  "category": "household",
+  "draw": "Folding clothes airer with an A-frame and horizontal rails holding a towel."
+ },
+ {
+  "name": "rotary-clothesline",
+  "category": "household",
+  "draw": "Umbrella-shaped rotary washing line on a central pole with radial lines."
+ },
+ {
+  "name": "ironing-board",
+  "category": "household",
+  "draw": "Side view of an ironing board with a pointed end and crossed folding legs."
+ },
+ {
+  "name": "garment-steamer",
+  "category": "household",
+  "draw": "Handheld garment steamer with a flat head releasing steam onto a hanging shirt."
+ },
+ {
+  "name": "laundry-bag",
+  "category": "household",
+  "draw": "Drawstring laundry bag with clothes bulging and a cord tied at the top."
+ },
+ {
+  "name": "mesh-laundry-bag",
+  "category": "household",
+  "draw": "Zippered mesh wash bag with a diamond net pattern."
+ },
+ {
+  "name": "washboard",
+  "category": "household",
+  "draw": "Wooden washboard with a ridged metal panel in a frame."
+ },
+ {
+  "name": "washtub",
+  "category": "household",
+  "draw": "Round metal washtub with two side handles and water with bubbles."
+ },
+ {
+  "name": "clothes-wringer",
+  "category": "household",
+  "draw": "Old mangle with two horizontal rollers and a crank wheel on its side."
+ },
+ {
+  "name": "top-load-washer",
+  "category": "household",
+  "draw": "Washing machine with a lid opening on top and a control panel at the back edge."
+ },
+ {
+  "name": "stacked-washer-dryer",
+  "category": "household",
+  "draw": "Tall unit with a dryer stacked on a washing machine, two round doors."
+ },
+ {
+  "name": "laundromat",
+  "category": "household",
+  "draw": "Row of three front-loading machines side by side with a coin slot symbol."
+ },
+ {
+  "name": "clip-hanger",
+  "category": "household",
+  "draw": "Trouser hanger with a straight bar and two clips hanging from it."
+ },
+ {
+  "name": "pants-hanger",
+  "category": "household",
+  "draw": "Clothes hanger with a pair of pants folded over its bar."
+ },
+ {
+  "name": "folded-clothes",
+  "category": "household",
+  "draw": "Stack of three neatly folded shirts with a collar visible on the top one."
+ },
+ {
+  "name": "stain-remover",
+  "category": "household",
+  "draw": "Pen-shaped stain remover stick with a round tip over a small splotch."
+ },
+ {
+  "name": "laundry-sorter",
+  "category": "household",
+  "draw": "Cart with three fabric bags side by side on a metal frame."
+ },
+ {
+  "name": "dry-cleaning",
+  "category": "household",
+  "draw": "Garment on a hanger covered by a clear plastic bag with a paper ticket."
+ },
+ {
+  "name": "fabric-shaver",
+  "category": "household",
+  "draw": "Small handheld fabric shaver with a round mesh head and a lint chamber."
+ },
+ {
+  "name": "care-label",
+  "category": "household",
+  "draw": "Garment care label hanging from a seam with a row of small laundry symbols."
+ },
+ {
+  "name": "spin-cycle",
+  "category": "household",
+  "draw": "Round drum with a swirl of curved arrows inside it."
+ },
+ {
+  "name": "shoe-polish",
+  "category": "household",
+  "draw": "Round flat tin of shoe polish with its lid off and a shoe outline on the lid."
+ },
+ {
+  "name": "shoe-brush",
+  "category": "household",
+  "draw": "Oval shoe brush with a wooden back and short bristles and a strap."
+ },
+ {
+  "name": "shoe-horn",
+  "category": "household",
+  "draw": "Long curved shoe horn with a hanging hole at the handle end."
+ },
+ {
+  "name": "shoe-tree",
+  "category": "household",
+  "draw": "Wooden shoe tree with a toe block and a heel knob joined by a spring bar."
+ },
+ {
+  "name": "sewing-kit",
+  "category": "household",
+  "draw": "Small open tin with thread spools, a needle and a thimble."
+ },
+ {
+  "name": "thimble",
+  "category": "household",
+  "draw": "Dimpled metal thimble with a rounded top."
+ },
+ {
+  "name": "darning-egg",
+  "category": "household",
+  "draw": "Wooden darning egg on a short handle with a stretched sock patch."
+ },
+ {
+  "name": "mothballs",
+  "category": "household",
+  "draw": "Three round mothballs in a cluster beside a small moth outline."
+ },
+ {
+  "name": "care-machine-wash",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with a wavy water line."
+ },
+ {
+  "name": "care-hand-wash",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with a hand dipped into the water."
+ },
+ {
+  "name": "care-delicate-wash",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with two horizontal lines underneath it."
+ },
+ {
+  "name": "care-wash-cold",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with one dot inside for cold water."
+ },
+ {
+  "name": "care-wash-warm",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with two dots inside for warm water."
+ },
+ {
+  "name": "care-wash-hot",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with three dots inside for hot water."
+ },
+ {
+  "name": "care-bleach",
+  "category": "household",
+  "draw": "Laundry care symbol: an empty outline triangle for any bleach."
+ },
+ {
+  "name": "care-non-chlorine-bleach",
+  "category": "household",
+  "draw": "Laundry care symbol: a triangle with two diagonal lines inside."
+ },
+ {
+  "name": "care-tumble-dry",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a circle inside it."
+ },
+ {
+  "name": "care-tumble-dry-low",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a circle and one dot inside."
+ },
+ {
+  "name": "care-tumble-dry-high",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a circle and three dots inside."
+ },
+ {
+  "name": "care-line-dry",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a curved line hanging from the top edge."
+ },
+ {
+  "name": "care-drip-dry",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with three vertical lines inside."
+ },
+ {
+  "name": "care-dry-flat",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with one horizontal line across the middle."
+ },
+ {
+  "name": "care-dry-in-shade",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with two short diagonal lines in the top left corner."
+ },
+ {
+  "name": "care-iron-low",
+  "category": "household",
+  "draw": "Laundry care symbol: an iron outline with one dot inside."
+ },
+ {
+  "name": "care-iron-medium",
+  "category": "household",
+  "draw": "Laundry care symbol: an iron outline with two dots inside."
+ },
+ {
+  "name": "care-iron-high",
+  "category": "household",
+  "draw": "Laundry care symbol: an iron outline with three dots inside."
+ },
+ {
+  "name": "care-steam-iron",
+  "category": "household",
+  "draw": "Laundry care symbol: an iron outline with short steam lines below its sole."
+ },
+ {
+  "name": "care-dry-clean",
+  "category": "household",
+  "draw": "Laundry care symbol: an outline circle."
+ },
+ {
+  "name": "care-wet-clean",
+  "category": "household",
+  "draw": "Laundry care symbol: a circle with the letter W inside."
+ },
+ {
+  "name": "care-wring",
+  "category": "household",
+  "draw": "Laundry care symbol: a twisted cloth shape like a bow with a knot in the middle."
+ },
+ {
+  "name": "toothbrush",
+  "category": "household",
+  "draw": "Toothbrush at an angle with a long handle and a tuft of bristles at the head."
+ },
+ {
+  "name": "electric-toothbrush",
+  "category": "household",
+  "draw": "Electric toothbrush with a thick handle, a power button and a small round head."
+ },
+ {
+  "name": "toothpaste",
+  "category": "household",
+  "draw": "Squeezed toothpaste tube with a screw cap and a curl of paste out of the end."
+ },
+ {
+  "name": "dental-floss",
+  "category": "household",
+  "draw": "Round floss dispenser with a strand of floss pulled out from a slot."
+ },
+ {
+  "name": "floss-pick",
+  "category": "household",
+  "draw": "Plastic floss pick with a curved fork holding a taut strand and a pointed handle."
+ },
+ {
+  "name": "interdental-brush",
+  "category": "household",
+  "draw": "Tiny bottle-brush tip bent at an angle on a slim handle."
+ },
+ {
+  "name": "mouthwash",
+  "category": "household",
+  "draw": "Rounded bottle with a large cup-shaped cap and a wave on the label."
+ },
+ {
+  "name": "breath-spray",
+  "category": "household",
+  "draw": "Small slim spray bottle with a mint leaf on the label and a puff of spray."
+ },
+ {
+  "name": "tongue-scraper",
+  "category": "household",
+  "draw": "U-shaped flexible tongue scraper with two small grips on its ends."
+ },
+ {
+  "name": "water-flosser",
+  "category": "household",
+  "draw": "Water flosser base with a tank and a wand spraying a thin jet."
+ },
+ {
+  "name": "dentures",
+  "category": "household",
+  "draw": "Set of false teeth, upper and lower rows with gums, slightly open."
+ },
+ {
+  "name": "dental-retainer",
+  "category": "household",
+  "draw": "Clear horseshoe-shaped orthodontic retainer with a thin wire across the front."
+ },
+ {
+  "name": "teeth-braces",
+  "category": "household",
+  "draw": "Row of teeth with small square brackets joined by a wire."
+ },
+ {
+  "name": "mouth-guard",
+  "category": "household",
+  "draw": "Horseshoe-shaped sports mouth guard with a thick rim."
+ },
+ {
+  "name": "toothpick",
+  "category": "household",
+  "draw": "Two thin pointed toothpicks crossed at an angle."
+ },
+ {
+  "name": "miswak",
+  "category": "household",
+  "draw": "Chewing stick twig with a frayed bristly tip at one end."
+ },
+ {
+  "name": "brushing-teeth",
+  "category": "household",
+  "draw": "Smiling mouth with teeth and a toothbrush moving across them with bubbles."
+ },
+ {
+  "name": "deodorant-stick",
+  "category": "household",
+  "draw": "Twist-up deodorant stick with its cap off, showing an oval solid top."
+ },
+ {
+  "name": "roll-on-deodorant",
+  "category": "household",
+  "draw": "Small bottle with a ball on top under a domed cap."
+ },
+ {
+  "name": "body-lotion",
+  "category": "household",
+  "draw": "Pump bottle of lotion with a drop of cream at its nozzle."
+ },
+ {
+  "name": "shower-gel",
+  "category": "household",
+  "draw": "Upside-down squeeze bottle standing on its flip cap with a bubble on the label."
+ },
+ {
+  "name": "hand-cream",
+  "category": "household",
+  "draw": "Flat squeeze tube with a flip cap and a small hand symbol on its label."
+ },
+ {
+  "name": "face-cream",
+  "category": "household",
+  "draw": "Short wide jar with its screw lid set aside and a swirl of cream visible."
+ },
+ {
+  "name": "sunscreen",
+  "category": "household",
+  "draw": "Squeeze bottle with a flip cap and a sun symbol on its label."
+ },
+ {
+  "name": "hand-sanitizer",
+  "category": "household",
+  "draw": "Small flip-top bottle with a gel drop and a hand symbol on the label."
+ },
+ {
+  "name": "cotton-swab",
+  "category": "household",
+  "draw": "Two cotton swabs crossed, each a thin stick with fluffy tips at both ends."
+ },
+ {
+  "name": "cotton-pad",
+  "category": "household",
+  "draw": "Round flat cotton pad with a quilted dotted pattern."
+ },
+ {
+  "name": "cotton-balls",
+  "category": "household",
+  "draw": "Three fluffy cotton balls with soft scalloped outlines."
+ },
+ {
+  "name": "tweezers",
+  "category": "household",
+  "draw": "Slanted-tip tweezers seen from the side, two arms joined at the top."
+ },
+ {
+  "name": "nail-clippers",
+  "category": "household",
+  "draw": "Nail clipper with a curved lever arm on top of its jaws."
+ },
+ {
+  "name": "nail-file",
+  "category": "household",
+  "draw": "Long narrow emery board with rounded ends and a gritty texture."
+ },
+ {
+  "name": "nail-scissors",
+  "category": "household",
+  "draw": "Small scissors with short curved blades and round finger loops."
+ },
+ {
+  "name": "cuticle-nipper",
+  "category": "household",
+  "draw": "Small plier-like cuticle nipper with a spring between its handles."
+ },
+ {
+  "name": "cuticle-pusher",
+  "category": "household",
+  "draw": "Slim double-ended tool with a flat spoon tip and a pointed tip."
+ },
+ {
+  "name": "nail-buffer",
+  "category": "household",
+  "draw": "Rectangular foam buffer block with each face in a different texture."
+ },
+ {
+  "name": "foot-file",
+  "category": "household",
+  "draw": "Paddle-shaped foot file with a rough oval grating surface and a handle."
+ },
+ {
+  "name": "pumice-stone",
+  "category": "household",
+  "draw": "Oval porous stone with scattered small holes."
+ },
+ {
+  "name": "back-scrubber",
+  "category": "household",
+  "draw": "Long curved handle with an oval bristle brush head at the end."
+ },
+ {
+  "name": "body-brush",
+  "category": "household",
+  "draw": "Round dry body brush with natural bristles and a strap across its back."
+ },
+ {
+  "name": "loofah",
+  "category": "household",
+  "draw": "Cylindrical natural loofah with a mesh texture and a hanging loop."
+ },
+ {
+  "name": "bath-pouf",
+  "category": "household",
+  "draw": "Round mesh bath pouf made of ruffled layers with a hanging string loop."
+ },
+ {
+  "name": "bath-sponge",
+  "category": "household",
+  "draw": "Irregular round natural sea sponge with holes of different sizes."
+ },
+ {
+  "name": "exfoliating-mitt",
+  "category": "household",
+  "draw": "Textured bath mitt with a thumb and a ribbed surface."
+ },
+ {
+  "name": "washcloth",
+  "category": "household",
+  "draw": "Square face cloth folded in quarters with a small hanging loop."
+ },
+ {
+  "name": "bathrobe",
+  "category": "household",
+  "draw": "Wrap bathrobe with a shawl collar, belt tied at the waist and wide sleeves."
+ },
+ {
+  "name": "shower-cap",
+  "category": "household",
+  "draw": "Elastic shower cap with a gathered frilly edge."
+ },
+ {
+  "name": "hair-towel-wrap",
+  "category": "household",
+  "draw": "Head with a towel wrapped into a twist on top like a turban."
+ },
+ {
+  "name": "hooded-baby-towel",
+  "category": "household",
+  "draw": "Square baby towel with a triangular hood on one corner showing two small ears."
+ },
+ {
+  "name": "sanitary-pad",
+  "category": "household",
+  "draw": "Menstrual pad seen from above with wings on both sides and a quilted centre."
+ },
+ {
+  "name": "tampon",
+  "category": "household",
+  "draw": "Cylindrical tampon with a rounded tip and a string at the other end."
+ },
+ {
+  "name": "menstrual-cup",
+  "category": "household",
+  "draw": "Bell-shaped menstrual cup with a short stem at the bottom."
+ },
+ {
+  "name": "diaper",
+  "category": "household",
+  "draw": "Front view of a disposable diaper with tabs at the waist."
+ },
+ {
+  "name": "baby-wipes",
+  "category": "household",
+  "draw": "Soft pack of wipes with a pop-up lid and a small baby face on the front."
+ },
+ {
+  "name": "baby-powder",
+  "category": "household",
+  "draw": "Talc shaker bottle with holes in its cap and a puff of powder."
+ },
+ {
+  "name": "contact-lens",
+  "category": "household",
+  "draw": "Soft contact lens balanced on a fingertip, a thin curved dome."
+ },
+ {
+  "name": "contact-lens-case",
+  "category": "household",
+  "draw": "Double contact lens case with two round screw caps marked L and R."
+ },
+ {
+  "name": "earplugs",
+  "category": "household",
+  "draw": "Two foam earplugs, short rounded cylinders side by side."
+ },
+ {
+  "name": "ear-cleaning",
+  "category": "household",
+  "draw": "Ear outline with a cotton swab next to its opening."
+ },
+ {
+  "name": "neti-pot",
+  "category": "household",
+  "draw": "Small teapot-like nasal rinse pot with a long narrow spout."
+ },
+ {
+  "name": "hot-water-bottle",
+  "category": "household",
+  "draw": "Rubber hot water bottle with a ribbed surface and a screw stopper at the neck."
+ },
+ {
+  "name": "foot-spa",
+  "category": "household",
+  "draw": "Oval basin with bubbling water and rollers on its floor for feet."
+ },
+ {
+  "name": "massage-gun",
+  "category": "household",
+  "draw": "Percussive massage gun shaped like a T with a round head at one end."
+ },
+ {
+  "name": "face-roller",
+  "category": "household",
+  "draw": "Facial roller with a larger stone roller on one end and a small one on the other."
+ },
+ {
+  "name": "gua-sha",
+  "category": "household",
+  "draw": "Flat heart-shaped stone with a notched curved edge."
+ },
+ {
+  "name": "derma-roller",
+  "category": "household",
+  "draw": "Small handheld roller with a spiked cylinder head."
+ },
+ {
+  "name": "hand-washing",
+  "category": "household",
+  "draw": "Two hands rubbing together under a stream of water with bubbles."
+ },
+ {
+  "name": "face-washing",
+  "category": "household",
+  "draw": "Face with eyes closed and water splashing from cupped hands."
+ },
+ {
+  "name": "toiletry-bag",
+  "category": "household",
+  "draw": "Hanging toiletry bag with a hook at the top and folding compartments."
+ },
+ {
+  "name": "travel-bottles",
+  "category": "household",
+  "draw": "Three small travel size bottles of different shapes in a clear pouch."
+ },
+ {
+  "name": "condom",
+  "category": "household",
+  "draw": "Square foil condom wrapper with a round ring shape inside and a serrated edge."
+ },
+ {
+  "name": "sleep-mask",
+  "category": "household",
+  "draw": "Eye mask with an elastic strap and two closed-eye curves on its front."
+ },
+ {
+  "name": "massage-stones",
+  "category": "household",
+  "draw": "Stack of three smooth flat stones balanced on each other."
+ },
+ {
+  "name": "essential-oil",
+  "category": "household",
+  "draw": "Small amber bottle with a dropper cap and a leaf on the label."
+ },
+ {
+  "name": "massage-table",
+  "category": "household",
+  "draw": "Padded massage table with a face cradle at one end on four legs."
+ },
+ {
+  "name": "aroma-oil-burner",
+  "category": "household",
+  "draw": "Ceramic oil burner with a tea light in the base and a bowl on top giving off scent waves."
+ },
+ {
+  "name": "hot-towel",
+  "category": "household",
+  "draw": "Rolled towel with steam lines rising from it."
+ },
+ {
+  "name": "cucumber-eye-mask",
+  "category": "household",
+  "draw": "Face with cucumber slices over both eyes and a cream mask."
+ },
+ {
+  "name": "tanning-bed",
+  "category": "household",
+  "draw": "Clamshell sunbed with a raised curved lid and light lines inside."
+ },
+ {
+  "name": "facial-steamer",
+  "category": "household",
+  "draw": "Table steamer with a round base and an arm with a nozzle releasing steam."
+ },
+ {
+  "name": "pore-strip",
+  "category": "household",
+  "draw": "Butterfly-shaped nose strip with a narrow bridge and flared wings."
+ },
+ {
+  "name": "eye-patches",
+  "category": "household",
+  "draw": "Two crescent-shaped under-eye gel patches."
+ },
+ {
+  "name": "cartridge-razor",
+  "category": "household",
+  "draw": "Disposable razor with a multi-blade head angled from a long handle."
+ },
+ {
+  "name": "straight-razor",
+  "category": "household",
+  "draw": "Open straight razor with its blade folded out from the handle."
+ },
+ {
+  "name": "razor-blade",
+  "category": "household",
+  "draw": "Double-edge razor blade, a thin rectangle with a slotted cutout in the middle."
+ },
+ {
+  "name": "electric-shaver",
+  "category": "household",
+  "draw": "Electric foil shaver with a rectangular head and a curved handle with a button."
+ },
+ {
+  "name": "rotary-shaver",
+  "category": "household",
+  "draw": "Electric shaver with three round rotating heads in a triangle."
+ },
+ {
+  "name": "shaving-brush",
+  "category": "household",
+  "draw": "Shaving brush with a short round handle and a fat dome of bristles."
+ },
+ {
+  "name": "shaving-cream",
+  "category": "household",
+  "draw": "Tall aerosol can with a swirl of foam on top of the nozzle."
+ },
+ {
+  "name": "shaving-bowl",
+  "category": "household",
+  "draw": "Shallow bowl filled with foam and a shaving brush resting on it."
+ },
+ {
+  "name": "beard-trimmer",
+  "category": "household",
+  "draw": "Slim beard trimmer with a comb guard with teeth on its head."
+ },
+ {
+  "name": "hair-clippers",
+  "category": "household",
+  "draw": "Hair clippers with a wide toothed blade and a cord from the base."
+ },
+ {
+  "name": "nose-hair-trimmer",
+  "category": "household",
+  "draw": "Pen-sized trimmer with a narrow slotted cylinder tip."
+ },
+ {
+  "name": "beard-oil",
+  "category": "household",
+  "draw": "Small dropper bottle with a mustache symbol on the label."
+ },
+ {
+  "name": "mustache-wax",
+  "category": "household",
+  "draw": "Small round tin with a curled mustache on its lid."
+ },
+ {
+  "name": "aftershave",
+  "category": "household",
+  "draw": "Square splash bottle with a wide stopper cap and a small wave on the front."
+ },
+ {
+  "name": "barber-pole",
+  "category": "household",
+  "draw": "Cylindrical barber pole with diagonal spiral stripes and round caps top and bottom."
+ },
+ {
+  "name": "barber-chair",
+  "category": "household",
+  "draw": "Barber chair with a headrest, arm rests and a footrest on a round hydraulic base."
+ },
+ {
+  "name": "thinning-shears",
+  "category": "household",
+  "draw": "Scissors with one plain blade and one blade with comb-like teeth."
+ },
+ {
+  "name": "hair-cutting-cape",
+  "category": "household",
+  "draw": "Salon cape draped over shoulders with a neck fastening at the top."
+ },
+ {
+  "name": "hair-dryer",
+  "category": "household",
+  "draw": "Side view of a hair dryer with a round barrel, a pistol handle and air flow lines."
+ },
+ {
+  "name": "hair-diffuser",
+  "category": "household",
+  "draw": "Hair dryer with a wide dish-shaped attachment with prongs on the end."
+ },
+ {
+  "name": "curling-iron",
+  "category": "household",
+  "draw": "Curling iron with a cylindrical barrel and a hinged clamp along it."
+ },
+ {
+  "name": "curling-wand",
+  "category": "household",
+  "draw": "Cone-shaped curling wand with a lock of hair wrapped around it."
+ },
+ {
+  "name": "hair-straightener",
+  "category": "household",
+  "draw": "Hair straightener with two long flat plates hinged at the handle, slightly open."
+ },
+ {
+  "name": "hot-air-brush",
+  "category": "household",
+  "draw": "Round brush with bristles on a thick motor handle with an air vent."
+ },
+ {
+  "name": "round-brush",
+  "category": "household",
+  "draw": "Round barrel hair brush with bristles all around and a long handle."
+ },
+ {
+  "name": "detangling-brush",
+  "category": "household",
+  "draw": "Oval hair brush with flexible long and short bristles in rows and no handle."
+ },
+ {
+  "name": "rat-tail-comb",
+  "category": "household",
+  "draw": "Fine-tooth comb with a long thin pointed tail as its handle."
+ },
+ {
+  "name": "wide-tooth-comb",
+  "category": "household",
+  "draw": "Comb with a few widely spaced thick teeth and a rounded spine."
+ },
+ {
+  "name": "afro-pick",
+  "category": "household",
+  "draw": "Hair pick with long straight tines and a raised fist handle."
+ },
+ {
+  "name": "hair-claw-clip",
+  "category": "household",
+  "draw": "Hair claw clip with two curved toothed jaws and a spring hinge."
+ },
+ {
+  "name": "barrette",
+  "category": "household",
+  "draw": "Long hair barrette with a decorative oval bar and a clasp underneath."
+ },
+ {
+  "name": "bobby-pin",
+  "category": "household",
+  "draw": "Bobby pin with one straight arm and one wavy arm joined at a rounded end."
+ },
+ {
+  "name": "scrunchie",
+  "category": "household",
+  "draw": "Ruffled fabric hair tie with gathered folds around an elastic ring."
+ },
+ {
+  "name": "hair-tie",
+  "category": "household",
+  "draw": "Plain elastic hair band loop with a small metal joint."
+ },
+ {
+  "name": "headband",
+  "category": "household",
+  "draw": "Hard curved hair headband seen from the front as an arc."
+ },
+ {
+  "name": "hair-roller",
+  "category": "household",
+  "draw": "Cylindrical hair roller with a mesh surface and a clip pin."
+ },
+ {
+  "name": "hair-net",
+  "category": "household",
+  "draw": "Round mesh hair net with an elastic rim."
+ },
+ {
+  "name": "shampoo",
+  "category": "household",
+  "draw": "Tall bottle with a flip cap and a small hair strand symbol on the label."
+ },
+ {
+  "name": "hairspray",
+  "category": "household",
+  "draw": "Tall aerosol can with a round cap, a wavy hair strand on its label and a fan of fine spray."
+ },
+ {
+  "name": "hair-wax",
+  "category": "household",
+  "draw": "Short squat pot with a textured lid and a finger swipe on the wax."
+ },
+ {
+  "name": "hair-dye",
+  "category": "household",
+  "draw": "Mixing bowl with a tint brush resting across it."
+ },
+ {
+  "name": "salon-hood-dryer",
+  "category": "household",
+  "draw": "Seated salon dryer with a large dome hood on an adjustable arm."
+ },
+ {
+  "name": "shampoo-basin",
+  "category": "household",
+  "draw": "Salon backwash basin with a curved neck rest and a reclining chair in front."
+ },
+ {
+  "name": "wig",
+  "category": "household",
+  "draw": "Wig of long hair on a rounded head form."
+ },
+ {
+  "name": "hair-extension",
+  "category": "household",
+  "draw": "Clip-in hair extension weft with a row of small clips on its top edge."
+ },
+ {
+  "name": "hair-bun",
+  "category": "household",
+  "draw": "Head seen from behind with hair gathered into a round bun."
+ },
+ {
+  "name": "braid",
+  "category": "household",
+  "draw": "Single plaited braid with interlocking segments and a tie at the end."
+ },
+ {
+  "name": "ponytail",
+  "category": "household",
+  "draw": "Head seen from the side with hair pulled back into a ponytail."
+ },
+ {
+  "name": "hair-loss",
+  "category": "household",
+  "draw": "Head outline with a thin crown and a few falling strands."
+ },
+ {
+  "name": "dandruff",
+  "category": "household",
+  "draw": "Hair strands with small flakes falling from them."
+ },
+ {
+  "name": "hair-wash",
+  "category": "household",
+  "draw": "Head with foam on top and water drops falling."
+ },
+ {
+  "name": "mascara",
+  "category": "household",
+  "draw": "Mascara wand with a spiky bristle brush pulled from its tube."
+ },
+ {
+  "name": "eyeliner",
+  "category": "household",
+  "draw": "Slim eyeliner pencil with a sharpened fine tip."
+ },
+ {
+  "name": "eyebrow-pencil",
+  "category": "household",
+  "draw": "Pencil with a spoolie brush at the other end and a brow arch beside it."
+ },
+ {
+  "name": "eyeshadow-palette",
+  "category": "household",
+  "draw": "Open rectangular palette with a grid of round shadow pans and a mirror lid."
+ },
+ {
+  "name": "powder-compact",
+  "category": "household",
+  "draw": "Open round compact with pressed powder and a powder puff resting on it."
+ },
+ {
+  "name": "makeup-brush",
+  "category": "household",
+  "draw": "Tapered makeup brush with a fluffy domed head and long handle."
+ },
+ {
+  "name": "fan-brush",
+  "category": "household",
+  "draw": "Makeup brush with a flat fan-shaped bristle head."
+ },
+ {
+  "name": "foundation",
+  "category": "household",
+  "draw": "Square glass bottle with a pump top and a drop of liquid."
+ },
+ {
+  "name": "lip-gloss",
+  "category": "household",
+  "draw": "Clear tube of lip gloss with a doe-foot wand and a shine glint."
+ },
+ {
+  "name": "lip-balm",
+  "category": "household",
+  "draw": "Small round flat tin of lip balm with lips on its lid."
+ },
+ {
+  "name": "makeup-sponge",
+  "category": "household",
+  "draw": "Egg-shaped makeup blending sponge with a flat side."
+ },
+ {
+  "name": "eyelash-curler",
+  "category": "household",
+  "draw": "Eyelash curler with scissor-like handles and a curved clamp at the top."
+ },
+ {
+  "name": "false-eyelashes",
+  "category": "household",
+  "draw": "Strip of false eyelashes with long curved lashes along a thin band."
+ },
+ {
+  "name": "nail-lamp",
+  "category": "household",
+  "draw": "Dome-shaped UV nail lamp with a hand inserted and light rays inside."
+ },
+ {
+  "name": "toe-separator",
+  "category": "household",
+  "draw": "Foam toe separator with rounded loops between five slots."
+ },
+ {
+  "name": "press-on-nails",
+  "category": "household",
+  "draw": "Row of five fake nails of decreasing sizes."
+ },
+ {
+  "name": "nail-polish-remover",
+  "category": "household",
+  "draw": "Round bottle with a pump dish on top and a cotton pad beside it."
+ },
+ {
+  "name": "makeup-bag",
+  "category": "household",
+  "draw": "Soft pouch with a zip along the top and a lipstick peeking out."
+ },
+ {
+  "name": "makeup-organizer",
+  "category": "household",
+  "draw": "Clear stepped organizer with lipsticks standing in slots and a drawer below."
+ },
+ {
+  "name": "vanity-case",
+  "category": "household",
+  "draw": "Hard boxy train case with a top handle and a mirror inside the open lid."
+ },
+ {
+  "name": "serum",
+  "category": "household",
+  "draw": "Slim bottle with a dropper releasing a single drop."
+ },
+ {
+  "name": "sheet-mask",
+  "category": "household",
+  "draw": "Face-shaped sheet mask with holes for eyes and mouth."
+ },
+ {
+  "name": "cleansing-brush",
+  "category": "household",
+  "draw": "Round electric facial cleansing brush head on a handle."
+ },
+ {
+  "name": "perfume-atomizer",
+  "category": "household",
+  "draw": "Vintage perfume bottle with a squeeze bulb on a tube."
+ },
+ {
+  "name": "wax-warmer",
+  "category": "household",
+  "draw": "Small pot heater with a lid and a wooden spatula dipped in wax."
+ },
+ {
+  "name": "wax-strip",
+  "category": "household",
+  "draw": "Rectangular wax strip with a tab being peeled back."
+ },
+ {
+  "name": "epilator",
+  "category": "household",
+  "draw": "Handheld epilator with a rounded head showing rows of small discs."
+ },
+ {
+  "name": "henna-cone",
+  "category": "household",
+  "draw": "Cone applicator with a folded top drawing a floral swirl line."
+ },
+ {
+  "name": "kohl-pot",
+  "category": "household",
+  "draw": "Small rounded pot with a thin applicator stick in its narrow neck."
+ },
+ {
+  "name": "care-permanent-press-wash",
+  "category": "household",
+  "draw": "Laundry care symbol: a washtub with one horizontal line underneath it."
+ },
+ {
+  "name": "care-tumble-dry-medium",
+  "category": "household",
+  "draw": "Laundry care symbol: a square with a circle and two dots inside."
+ },
+ {
+  "name": "care-dry-clean-gentle",
+  "category": "household",
+  "draw": "Laundry care symbol: an outline circle with one horizontal line underneath it."
+ },
+ {
+  "name": "dishwasher-tablet",
+  "category": "household",
+  "draw": "Square dishwasher tablet with two coloured layers and a small round ball pressed into its top."
+ },
+ {
+  "name": "stained-shirt",
+  "category": "household",
+  "draw": "T-shirt with a round splotch stain and a couple of drips on its front."
+ },
+ {
+  "name": "steam-generator-iron",
+  "category": "household",
+  "draw": "Clothes iron resting on a boxy water tank base joined by a hose, with a puff of steam."
+ },
+ {
+  "name": "trouser-press",
+  "category": "household",
+  "draw": "Upright wall-standing press panel with a pair of pants clamped flat inside it."
+ },
+ {
+  "name": "clip-drying-hanger",
+  "category": "household",
+  "draw": "Round drying hanger with a hook on top and many small pegs dangling from its rim."
+ },
+ {
+  "name": "garment-bag",
+  "category": "household",
+  "draw": "Long zippered garment bag with a hanger hook poking out of the top."
+ },
+ {
+  "name": "nit-comb",
+  "category": "household",
+  "draw": "Metal lice comb with a short handle and long, very fine closely packed teeth."
+ },
+ {
+  "name": "ear-pick",
+  "category": "household",
+  "draw": "Slim ear pick stick with a tiny scoop at one end and a fluffy tuft at the other."
+ },
+ {
+  "name": "henna-hand",
+  "category": "household",
+  "draw": "Open hand with a floral henna pattern of swirls and dots across the palm and fingers."
+ },
+ {
+  "name": "hammam-bowl",
+  "category": "household",
+  "draw": "Shallow round metal bath bowl with an embossed pattern and a lip for pouring water."
+ },
+ {
+  "name": "wooden-soaking-tub",
+  "category": "household",
+  "draw": "Square deep wooden bathtub made of vertical planks with steam rising from the water."
+ },
+ {
+  "name": "bath-bucket-and-mug",
+  "category": "household",
+  "draw": "Bathing bucket full of water with a plastic mug with a handle floating on top."
+ },
+ {
+  "name": "toothbrush-case",
+  "category": "household",
+  "draw": "Pill-shaped travel case with a toothbrush visible through its clear lid."
+ },
+ {
+  "name": "sanitizer-stand",
+  "category": "household",
+  "draw": "Freestanding pole with a hand sanitizer dispenser mounted at the top and a drip tray below."
+ },
+ {
+  "name": "soap-bubbles",
+  "category": "household",
+  "draw": "Cluster of three round soap bubbles of different sizes with small shine marks."
+ },
+ {
+  "name": "curly-hair",
+  "category": "household",
+  "draw": "A single lock of hair twisting into tight springy spiral curls."
+ }
+]

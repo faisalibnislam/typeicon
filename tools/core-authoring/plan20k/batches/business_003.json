@@ -1,0 +1,482 @@
+[
+ {
+  "name": "international-shipping",
+  "category": "business",
+  "draw": "Globe with a parcel box in front of its lower right side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "delivery-signature",
+  "category": "business",
+  "draw": "Handheld courier device with a scribbled signature on its screen and a stylus.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "shoe-size-measure",
+  "category": "business",
+  "draw": "Flat foot measuring device with a heel cup and a sliding width bar.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "shop-door-bell",
+  "category": "business",
+  "draw": "Small bell hanging from a curled spring bracket.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "product-lightbox",
+  "category": "business",
+  "draw": "Cube shaped photo tent with a product box inside and a camera in front.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "supply-chain",
+  "category": "business",
+  "draw": "Factory, truck and shop in a row connected by arrows.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "import-export",
+  "category": "business",
+  "draw": "Shipping container with two opposite arrows above it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "yard-sale",
+  "category": "business",
+  "draw": "Folding table covered with assorted items and a small sign on a stake beside it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "home-insurance",
+  "category": "business",
+  "draw": "House sheltered under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "life-insurance",
+  "category": "business",
+  "draw": "Two adults and a child sheltered under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "health-insurance",
+  "category": "business",
+  "draw": "Heart with a medical cross sheltered under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "flood-insurance",
+  "category": "business",
+  "draw": "House standing in wavy water lines under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "fire-insurance",
+  "category": "business",
+  "draw": "House with a small flame beside it under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "business-insurance",
+  "category": "business",
+  "draw": "Briefcase sheltered under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "crop-insurance",
+  "category": "business",
+  "draw": "Ear of wheat sheltered under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "dental-insurance",
+  "category": "business",
+  "draw": "Tooth sheltered under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "device-insurance",
+  "category": "business",
+  "draw": "Smartphone sheltered under an open umbrella.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "insurance-claim",
+  "category": "business",
+  "draw": "Clipboard form with a cracked glass mark drawn in the top section.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "car-collision",
+  "category": "business",
+  "draw": "Two small cars meeting nose to nose at an angle with a starburst at the point of impact.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "property-value",
+  "category": "business",
+  "draw": "House with a small rising bar chart beside it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "house-price-tag",
+  "category": "business",
+  "draw": "House with a price tag hanging from its roof corner.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "housing-estate",
+  "category": "business",
+  "draw": "Three identical small houses in a row on a curved street line.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "gated-community",
+  "category": "business",
+  "draw": "Two small houses behind a closed double gate between two pillars.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "zoning-map",
+  "category": "business",
+  "draw": "Street grid of blocks with blocks filled in different hatch patterns.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "eviction-notice",
+  "category": "business",
+  "draw": "Front door with a sheet of paper taped to its center.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "virtual-tour",
+  "category": "business",
+  "draw": "House inside a circular 360 degree orbit arrow.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "property-listing",
+  "category": "business",
+  "draw": "Card with a house photo on top and a price line and details below.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "open-house",
+  "category": "business",
+  "draw": "House with its front door open and a small balloon tied beside it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "home-equity",
+  "category": "business",
+  "draw": "House outline with a pie wedge shaded inside it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "home-inspection",
+  "category": "business",
+  "draw": "House with a clipboard in front of its lower corner.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "scales-of-justice",
+  "category": "business",
+  "draw": "Balance scale with two hanging pans on a tall center post and a round base.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "lady-justice",
+  "category": "business",
+  "draw": "Standing figure in a robe with a blindfold, holding scales raised in one hand and a sword pointing down in the other.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "judge-bench",
+  "category": "business",
+  "draw": "Raised courtroom bench with paneled front and a high backed chair behind it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "jury-box",
+  "category": "business",
+  "draw": "Railed box with two rows of six small heads.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "witness-stand",
+  "category": "business",
+  "draw": "Small enclosed box with a railing, a chair and a microphone on a gooseneck.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "crime-scene-tape",
+  "category": "business",
+  "draw": "Two crossing strips of barrier tape with diagonal stripes.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "pillory",
+  "category": "business",
+  "draw": "Wooden post with a hinged board holding three holes, a large one for the head between two small ones.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "sheriff-badge",
+  "category": "business",
+  "draw": "Six pointed star badge with small round balls on each point.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "police-badge",
+  "category": "business",
+  "draw": "Shield shaped badge with a star in the center and a banner across the bottom.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "police-cap",
+  "category": "business",
+  "draw": "Peaked cap with a stiff visor and a badge on the front band.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "contract-redline",
+  "category": "business",
+  "draw": "Document with some lines struck through and a pen writing in the margin.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "bribery",
+  "category": "business",
+  "draw": "Hand sliding an envelope with a banknote peeking out under the edge of a table.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "money-laundering",
+  "category": "business",
+  "draw": "Front loading washing machine with a banknote tumbling in the drum.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "pyramid-scheme",
+  "category": "business",
+  "draw": "Pyramid built from rows of small person heads, one head at the top.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "voting-booth",
+  "category": "business",
+  "draw": "Standing booth with a short curtain hanging from a top rail and a small shelf inside.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "mail-in-ballot",
+  "category": "business",
+  "draw": "Envelope with a ballot paper partly pulled out showing a marked box.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "electronic-voting-machine",
+  "category": "business",
+  "draw": "Tilted touchscreen on a stand with a privacy hood around the screen.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "inked-finger",
+  "category": "business",
+  "draw": "Raised index finger with a dark ink mark on the nail, showing a vote was cast.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "campaign-button",
+  "category": "business",
+  "draw": "Round pin back button with a star in its center and a pin behind.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "residence-permit",
+  "category": "business",
+  "draw": "ID card with a small globe on the left and text lines on the right.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "public-notice-board",
+  "category": "business",
+  "draw": "Board on two legs with a small roof and pinned papers on it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "treaty",
+  "category": "business",
+  "draw": "Document with two round wax seals side by side at the bottom.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "mayoral-chain",
+  "category": "business",
+  "draw": "Heavy linked chain of office hanging in a U with a large round medallion at the bottom.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "debate-podiums",
+  "category": "business",
+  "draw": "Two podiums facing each other at an angle with a microphone on each.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "summit-round-table",
+  "category": "business",
+  "draw": "Round table seen from above with small blank flag stands placed around its edge.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "show-of-hands",
+  "category": "business",
+  "draw": "Four raised open hands of different heights in a row.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "census-form",
+  "category": "business",
+  "draw": "Form with a small house icon at the top and rows of tick boxes.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "tax-stamp",
+  "category": "business",
+  "draw": "Small perforated revenue stamp with a wavy edge and a crown pattern in the center.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "food-bank-box",
+  "category": "business",
+  "draw": "Open cardboard box filled with cans and a loaf, with a heart on the side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "krona-sign",
+  "category": "business",
+  "draw": "Lowercase letters k and r side by side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "ringgit-sign",
+  "category": "business",
+  "draw": "Capital letters R and M side by side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "rupiah-sign",
+  "category": "business",
+  "draw": "Capital R followed by a lowercase p.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "dirham-sign",
+  "category": "business",
+  "draw": "Capital D with two horizontal bars crossing through its left side.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "trading-app",
+  "category": "business",
+  "draw": "Smartphone showing candlestick bars and a small buy button at the bottom.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "debt-snowball",
+  "category": "business",
+  "draw": "Snowball rolling down a slope, growing larger, with coins pressed into it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "cut-credit-card",
+  "category": "business",
+  "draw": "Open scissors cutting a payment card in half with the two pieces separating.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "domino-effect",
+  "category": "business",
+  "draw": "Row of dominoes toppling one after another from left to right.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "golden-parachute",
+  "category": "business",
+  "draw": "Open parachute canopy with a coin hanging from its lines.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "baton-handoff",
+  "category": "business",
+  "draw": "One hand passing a relay baton into another open hand.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "salary-bands",
+  "category": "business",
+  "draw": "Three staggered horizontal bars stacked upward, each with a small tick at its midpoint.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "pay-equity",
+  "category": "business",
+  "draw": "Balance scale level, with a person head on each pan.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "pink-slip",
+  "category": "business",
+  "draw": "Small slip of paper sticking out of an envelope with a short line of text.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "candidate-shortlist",
+  "category": "business",
+  "draw": "Clipboard with three avatar rows, one row marked with a tick.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "employee-handbook",
+  "category": "business",
+  "draw": "Closed book with a person icon and two text lines on its cover.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "brand-guidelines",
+  "category": "business",
+  "draw": "Open book with color swatches on the left page and a logo mark on the right page.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "search-ad",
+  "category": "business",
+  "draw": "Browser window with a search bar and a first result bar tagged with a small AD label.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "sms-marketing",
+  "category": "business",
+  "draw": "Smartphone with a speech bubble on screen and a small megaphone beside it.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "shelf-wobbler",
+  "category": "business",
+  "draw": "Shelf edge with a small round sign sticking out on a thin flexible strip.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "buy-one-get-one",
+  "category": "business",
+  "draw": "Two identical boxes side by side with a plus sign between them.",
+  "domain": "business-finance-legal"
+ },
+ {
+  "name": "trade-in",
+  "category": "business",
+  "draw": "Old phone and new phone side by side with two swap arrows between them.",
+  "domain": "business-finance-legal"
+ }
+]

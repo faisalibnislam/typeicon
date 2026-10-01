@@ -1,0 +1,482 @@
+[
+ {
+  "name": "hospital-gown",
+  "category": "medical",
+  "draw": "Patient gown: short sleeved loose gown with a small dot pattern and ties at the back.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "medical-gloves",
+  "category": "medical",
+  "draw": "Pair of medical exam gloves with long rolled cuffs, one lying over the other.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "glove-box",
+  "category": "medical",
+  "draw": "Box of disposable gloves with an oval opening at the top and a glove poking out.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "n95-respirator",
+  "category": "medical",
+  "draw": "Cup shaped respirator mask with a nose clip at the top and two head straps.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "shoe-covers",
+  "category": "medical",
+  "draw": "Pair of disposable shoe covers: puffy booties with elastic openings.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-loupes",
+  "category": "medical",
+  "draw": "Surgical loupes: glasses with two small telescope tubes fixed in the lenses.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "gurney",
+  "category": "medical",
+  "draw": "Gurney: flat padded stretcher on a wheeled frame with a raised backrest.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "stretcher",
+  "category": "medical",
+  "draw": "Carry stretcher: canvas bed between two long poles with handles at each end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "spine-board",
+  "category": "medical",
+  "draw": "Spine board: long flat board with hand holes along the edges and cross straps.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "stokes-basket",
+  "category": "medical",
+  "draw": "Rescue basket stretcher: shallow body-shaped basket with a wire rim.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "evacuation-chair",
+  "category": "medical",
+  "draw": "Stair evacuation chair: folding chair on tracks with a long handle for tipping down stairs.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "exam-table",
+  "category": "medical",
+  "draw": "Medical exam table: padded table with a raised head section, a paper roll and a step below.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "overbed-table",
+  "category": "medical",
+  "draw": "Overbed table: narrow tabletop on a single post over a C-shaped wheeled base.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "privacy-curtain",
+  "category": "medical",
+  "draw": "Hospital privacy curtain: ceiling track with a curtain hanging in folds on small hooks.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "nurse-call-button",
+  "category": "medical",
+  "draw": "Nurse call handset: pendant remote on a cord with a big round button with a cross.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "iv-pole",
+  "category": "medical",
+  "draw": "IV pole: tall thin stand with a hook at the top and a star-shaped wheeled base.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "infusion-pump",
+  "category": "medical",
+  "draw": "Infusion pump: boxy unit clamped to a pole, with a small screen, keypad and a tube running through it.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "syringe-pump",
+  "category": "medical",
+  "draw": "Syringe pump: flat horizontal device holding a syringe with a pusher block behind the plunger.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dialysis-machine",
+  "category": "medical",
+  "draw": "Dialysis machine: tall cart with a screen at the top, a round pump and a filter cylinder on the side.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "baby-incubator",
+  "category": "medical",
+  "draw": "Infant incubator: clear rectangular hood with round arm ports on a stand.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "hospital-bassinet",
+  "category": "medical",
+  "draw": "Hospital bassinet: clear tub cot on a small wheeled cart.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "crash-cart",
+  "category": "medical",
+  "draw": "Crash cart: wheeled cart with stacked drawers and a defibrillator sitting on top.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "medical-waste-bin",
+  "category": "medical",
+  "draw": "Clinical waste bin: pedal bin with a lid and a biohazard symbol on the front.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "sharps-container",
+  "category": "medical",
+  "draw": "Sharps container: box with a narrow slot in the lid and a syringe going into it.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "biohazard-bag",
+  "category": "medical",
+  "draw": "Biohazard waste bag: tied bag with a biohazard symbol on the side.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "autoclave",
+  "category": "medical",
+  "draw": "Autoclave: box sterilizer with a round door on the front, a pressure gauge and control panel.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "hospital-pager",
+  "category": "medical",
+  "draw": "Pager: small rectangular device with a narrow screen, a belt clip and one button.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "patient-wristband",
+  "category": "medical",
+  "draw": "Hospital wristband: plastic band with a label strip and a barcode, closed in a loop.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "paramedic-bag",
+  "category": "medical",
+  "draw": "Paramedic backpack: large pack with side pockets and a cross on the front flap.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "hyperbaric-chamber",
+  "category": "medical",
+  "draw": "Hyperbaric chamber: long clear tube chamber lying horizontally with a hatch and a patient inside.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "iron-lung",
+  "category": "medical",
+  "draw": "Iron lung: large horizontal cylinder with portholes and a patient head sticking out one end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "medical-drone",
+  "category": "medical",
+  "draw": "Delivery drone with four rotors carrying a box marked with a cross.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "medical-tent",
+  "category": "medical",
+  "draw": "Field hospital tent: gabled tent with a cross on the door flap.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "organ-transport-box",
+  "category": "medical",
+  "draw": "Organ transport cooler: carry box with a handle and a heart symbol on the side.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "medical-alert-bracelet",
+  "category": "medical",
+  "draw": "Medical alert bracelet: chain band with an oval tag showing a small snake staff symbol.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "fall-alert-pendant",
+  "category": "medical",
+  "draw": "Personal alarm pendant: round button pendant on a neck cord with signal waves.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "triage-tag",
+  "category": "medical",
+  "draw": "Triage tag: paper tag with a string loop and colored tear-off strips at the bottom.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "emergency-blanket",
+  "category": "medical",
+  "draw": "Foil emergency blanket: crinkled sheet wrapped around shoulders, with shine lines.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "trauma-shears",
+  "category": "medical",
+  "draw": "Trauma shears: angled blades bent at the pivot with a blunt tip and large plastic handles.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "ice-pack",
+  "category": "medical",
+  "draw": "Gel ice pack: rounded rectangle pack with a snowflake on it.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "heating-pad",
+  "category": "medical",
+  "draw": "Heating pad: quilted pad with a cord running to a small hand controller.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "cpr-manikin",
+  "category": "medical",
+  "draw": "CPR training manikin: torso with head tilted back and hands pressing on the chest.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "ivf",
+  "category": "medical",
+  "draw": "IVF: fine glass pipette approaching a round egg cell held by a blunt pipette on the other side.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "petri-dish",
+  "category": "medical",
+  "draw": "Petri dish seen at an angle: shallow round dish with a few colony dots inside.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "micropipette",
+  "category": "medical",
+  "draw": "Micropipette: thick handheld pipette with a plunger button on top and a disposable cone tip.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "centrifuge",
+  "category": "medical",
+  "draw": "Benchtop centrifuge: round lid box seen from above, with sample tubes arranged in a circle inside.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "test-tube-rack",
+  "category": "medical",
+  "draw": "Test tube rack: row of test tubes standing upright in a rack with holes.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "microplate",
+  "category": "medical",
+  "draw": "Well plate: rectangular tray with a grid of small round wells.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "microscope-slide",
+  "category": "medical",
+  "draw": "Microscope slide: long thin glass rectangle with a small square cover slip in the middle.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "specimen-cup",
+  "category": "medical",
+  "draw": "Specimen cup: short cylindrical cup with a screw lid and a label.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "blood-collection-tube",
+  "category": "medical",
+  "draw": "Blood collection tube: test tube with a thick rubber stopper, a label and blood filled halfway.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "swab-test",
+  "category": "medical",
+  "draw": "Long swab stick with a cotton tip beside an open collection tube.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "rapid-test",
+  "category": "medical",
+  "draw": "Rapid test cassette: flat rectangle with a small round sample well and a window showing two lines.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "pregnancy-test",
+  "category": "medical",
+  "draw": "Pregnancy test stick: long plastic stick with a cap at one end and a window with two lines.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "inoculation-loop",
+  "category": "medical",
+  "draw": "Inoculation loop: thin handle ending in a wire with a small circle loop.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "liquid-nitrogen-dewar",
+  "category": "medical",
+  "draw": "Cryogenic dewar: squat round tank with a narrow neck and vapor wisps rising out.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "biosafety-cabinet",
+  "category": "medical",
+  "draw": "Biosafety cabinet: boxy workstation with a sloped glass front sash and an open work area below.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "pcr-machine",
+  "category": "medical",
+  "draw": "PCR thermal cycler: low box with a hinged lid and a grid of sample tubes in the block.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "gel-electrophoresis",
+  "category": "medical",
+  "draw": "Electrophoresis gel: rectangle with several vertical lanes of short horizontal bands.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "vortex-mixer",
+  "category": "medical",
+  "draw": "Vortex mixer: small round base with a cup on top holding a tube with a swirl line.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "lab-incubator",
+  "category": "medical",
+  "draw": "Lab incubator: cabinet with a glass door showing shelves with petri dishes and a temperature display.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "wash-bottle",
+  "category": "medical",
+  "draw": "Lab wash bottle: squeezable bottle with a long bent spout tube coming from the cap.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "ampoule",
+  "category": "medical",
+  "draw": "Glass ampoule: small bottle with a narrow waist neck and a pointed sealed tip.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "vaccination-card",
+  "category": "medical",
+  "draw": "Vaccination record card with a syringe symbol and rows of check boxes.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "vaccine-cooler",
+  "category": "medical",
+  "draw": "Vaccine carrier: insulated box with a lid and a handle marked with a snowflake.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "microneedle-patch",
+  "category": "medical",
+  "draw": "Microneedle patch: square patch seen from the side with a row of tiny cone spikes underneath.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "softgel",
+  "category": "medical",
+  "draw": "Softgel capsule: glossy oval gel capsule with a shine highlight.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "lozenge",
+  "category": "medical",
+  "draw": "Throat lozenge: diamond shaped sweet in a twisted wrapper.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "syrup-bottle",
+  "category": "medical",
+  "draw": "Cough syrup bottle: brown bottle with a label and a measuring cup upside down on the cap.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "medicine-cup",
+  "category": "medical",
+  "draw": "Dosing cup: small plastic cup with measuring lines up its side.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "oral-syringe",
+  "category": "medical",
+  "draw": "Oral dosing syringe: needle-free syringe with a short round nozzle and measurement marks.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dosing-spoon",
+  "category": "medical",
+  "draw": "Medicine spoon: tubular spoon with a measured handle and a scooped end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "nasal-spray",
+  "category": "medical",
+  "draw": "Nasal spray: small bottle with a short tapered nozzle and a spray mist from the tip.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "throat-spray",
+  "category": "medical",
+  "draw": "Throat spray: bottle with a long curved spray arm and a mist cloud at the end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "suppository",
+  "category": "medical",
+  "draw": "Suppository: smooth bullet shape with a rounded tip, lying on its side.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "transdermal-patch",
+  "category": "medical",
+  "draw": "Skin patch: square adhesive patch on an upper arm with a small peeled corner.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "powder-sachet",
+  "category": "medical",
+  "draw": "Medicine sachet: small rectangular packet with a torn corner and powder spilling out.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "blister-pack",
+  "category": "medical",
+  "draw": "Pill blister pack: rectangular foil card with two rows of round bubbles, one pressed empty.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "contraceptive-pill-pack",
+  "category": "medical",
+  "draw": "Birth control pill pack: round dial case with pills arranged in a ring.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "pill-organizer",
+  "category": "medical",
+  "draw": "Weekly pill organizer: long box with seven small compartments with flip lids, one open.",
+  "domain": "medical-equipment"
+ }
+]

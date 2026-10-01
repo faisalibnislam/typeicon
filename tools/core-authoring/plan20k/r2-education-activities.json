@@ -1,0 +1,992 @@
+[
+  {
+    "name": "math-class",
+    "category": "classroom",
+    "draw": "Small chalkboard on a frame showing plus, minus, times and divide signs in a two by two grid."
+  },
+  {
+    "name": "music-class",
+    "category": "classroom",
+    "draw": "Small chalkboard showing a five line staff with two eighth notes on it."
+  },
+  {
+    "name": "language-arts",
+    "category": "classroom",
+    "draw": "Open book with a large capital A on the left page and a pencil lying across the right page."
+  },
+  {
+    "name": "social-studies-class",
+    "category": "classroom",
+    "draw": "Closed textbook with a small globe on the cover and a map pin above it."
+  },
+  {
+    "name": "home-economics-class",
+    "category": "classroom",
+    "draw": "Wooden spoon crossed with a threaded sewing needle over a small apron outline."
+  },
+  {
+    "name": "shop-class",
+    "category": "classroom",
+    "draw": "Hand saw crossed with a carpenter's try square in front of a wooden plank."
+  },
+  {
+    "name": "computer-lab",
+    "category": "classroom",
+    "draw": "Two desktop monitors side by side on a long desk with a small keyboard in front of each."
+  },
+  {
+    "name": "chemistry-class",
+    "category": "classroom",
+    "draw": "Small chalkboard showing a hexagonal benzene ring beside a conical flask."
+  },
+  {
+    "name": "physics-class",
+    "category": "classroom",
+    "draw": "Small chalkboard showing a ball on an inclined ramp with a pendulum hanging beside it."
+  },
+  {
+    "name": "biology-class",
+    "category": "classroom",
+    "draw": "Small chalkboard showing a simple leaf and a round cell with a nucleus dot."
+  },
+  {
+    "name": "typing-class",
+    "category": "classroom",
+    "draw": "Keyboard seen from above with two hands resting on the home row keys."
+  },
+  {
+    "name": "block-coding",
+    "category": "classroom",
+    "draw": "Three interlocking puzzle shaped code blocks stacked vertically with notches like jigsaw tabs."
+  },
+  {
+    "name": "circuit-kit",
+    "category": "classroom",
+    "draw": "Flat base board with snap on pieces: a battery block, a switch and a small light bulb joined by wire strips."
+  },
+  {
+    "name": "butterfly-habitat",
+    "category": "classroom",
+    "draw": "Tall mesh pop up cylinder with a zipper line and a butterfly resting inside."
+  },
+  {
+    "name": "bean-in-a-jar",
+    "category": "classroom",
+    "draw": "Glass jar with a bean pressed against paper towel, a shoot rising up and roots growing down."
+  },
+  {
+    "name": "potato-clock",
+    "category": "classroom",
+    "draw": "Two potatoes joined by wires with clips to a small digital clock display."
+  },
+  {
+    "name": "parts-of-a-plant",
+    "category": "classroom",
+    "draw": "Flowering plant with roots below a soil line and three short label lines pointing at flower, leaf and root."
+  },
+  {
+    "name": "butterfly-life-cycle",
+    "category": "classroom",
+    "draw": "Four stages around a circle of arrows: egg dot, caterpillar, hanging chrysalis and butterfly."
+  },
+  {
+    "name": "plant-life-cycle",
+    "category": "classroom",
+    "draw": "Four stages around a circle of arrows: seed, sprout, flowering plant and seed pod."
+  },
+  {
+    "name": "lung-model-balloon",
+    "category": "classroom",
+    "draw": "Clear bottle with a Y shaped straw holding two small balloons inside and a stretched balloon sheet across the base."
+  },
+  {
+    "name": "magnet-wand",
+    "category": "classroom",
+    "draw": "Short stick with a round magnet tip lifting a chain of three paperclips."
+  },
+  {
+    "name": "egg-in-a-bottle",
+    "category": "classroom",
+    "draw": "Glass milk bottle with a peeled egg squeezing into its narrow neck."
+  },
+  {
+    "name": "soda-geyser",
+    "category": "classroom",
+    "draw": "Plastic soda bottle on the ground with a tall fountain of foam spraying from its mouth."
+  },
+  {
+    "name": "elephant-toothpaste",
+    "category": "classroom",
+    "draw": "Conical flask with a thick column of foam overflowing and curling down its sides."
+  },
+  {
+    "name": "celery-color-experiment",
+    "category": "classroom",
+    "draw": "Glass of dyed water holding a celery stalk with colored lines running up into the leaves."
+  },
+  {
+    "name": "worm-farm",
+    "category": "classroom",
+    "draw": "Tall narrow clear box with layered soil stripes and wiggly worm tunnels."
+  },
+  {
+    "name": "two-color-counters",
+    "category": "classroom",
+    "draw": "Two overlapping round counters, one solid and one outlined, showing both sides of the chip."
+  },
+  {
+    "name": "pictograph",
+    "category": "classroom",
+    "draw": "Small chart with three rows of repeated smiley circles of different lengths beside row labels."
+  },
+  {
+    "name": "number-fan",
+    "category": "classroom",
+    "draw": "Fanned set of narrow numbered cards joined at the bottom by a rivet."
+  },
+  {
+    "name": "story-dice",
+    "category": "classroom",
+    "draw": "Two dice showing picture symbols on their faces, a moon on one and a key on the other."
+  },
+  {
+    "name": "big-book-easel",
+    "category": "classroom",
+    "draw": "Oversized open picture book standing on a low floor easel."
+  },
+  {
+    "name": "safety-scissors",
+    "category": "classroom",
+    "draw": "Child scissors with short blunt rounded blades and large chunky loop handles."
+  },
+  {
+    "name": "loop-scissors",
+    "category": "classroom",
+    "draw": "Scissors with a single springy loop handle joining both blades so they open by themselves."
+  },
+  {
+    "name": "paste-pot",
+    "category": "classroom",
+    "draw": "Short round jar of paste with a flat wooden spreader stick poking out of the lid."
+  },
+  {
+    "name": "glitter-glue",
+    "category": "classroom",
+    "draw": "Squeeze tube with a pointed nozzle dispensing a line with sparkle dots."
+  },
+  {
+    "name": "macaroni-art",
+    "category": "classroom",
+    "draw": "Sheet of paper with curved pasta pieces glued in the shape of a flower."
+  },
+  {
+    "name": "pasta-necklace",
+    "category": "classroom",
+    "draw": "Loop of string threaded with tube shaped pasta beads."
+  },
+  {
+    "name": "thumbprint-bugs",
+    "category": "classroom",
+    "draw": "Three oval thumbprint shapes with small drawn legs and antennae turning them into bugs."
+  },
+  {
+    "name": "paper-weaving-mat",
+    "category": "classroom",
+    "draw": "Square mat of paper strips woven over and under in a checkerboard pattern."
+  },
+  {
+    "name": "cardboard-tube-craft",
+    "category": "classroom",
+    "draw": "Upright cardboard roll with googly eyes and two pointed ears making an animal."
+  },
+  {
+    "name": "paper-bag-puppet",
+    "category": "classroom",
+    "draw": "Flat bottom paper bag with a face drawn on the folded flap and a mouth line under the fold."
+  },
+  {
+    "name": "egg-carton-caterpillar",
+    "category": "classroom",
+    "draw": "Row of joined egg carton cups with a face on the first cup and pipe cleaner antennae."
+  },
+  {
+    "name": "sports-day",
+    "category": "classroom",
+    "draw": "Running track lane lines with a string of triangle bunting flags above them."
+  },
+  {
+    "name": "play-parachute",
+    "category": "classroom",
+    "draw": "Large round parachute canopy in wedge segments with handles around the edge and a ball in the middle."
+  },
+  {
+    "name": "house-points-tubes",
+    "category": "classroom",
+    "draw": "Four tall clear tubes side by side filled with tokens to different heights."
+  },
+  {
+    "name": "training-pinnie",
+    "category": "classroom",
+    "draw": "Sleeveless mesh sports vest with a wide neck opening and dotted mesh texture."
+  },
+  {
+    "name": "kickball",
+    "category": "classroom",
+    "draw": "Foot kicking a rubber playground ball with short motion lines behind it."
+  },
+  {
+    "name": "scooter-board",
+    "category": "classroom",
+    "draw": "Square flat gym scooter board with four caster wheels and two side handles."
+  },
+  {
+    "name": "rounders-bat",
+    "category": "classroom",
+    "draw": "Short thick round bat with a tapered handle beside a small ball."
+  },
+  {
+    "name": "cross-country-run",
+    "category": "classroom",
+    "draw": "Runner with a race number on a winding trail marked by small flags."
+  },
+  {
+    "name": "school-bus-stop-arm",
+    "category": "classroom",
+    "draw": "Side of a bus with an octagonal stop sign arm swung out and two small lights."
+  },
+  {
+    "name": "walking-school-bus",
+    "category": "classroom",
+    "draw": "Line of three small children holding a rope led by an adult in a reflective vest."
+  },
+  {
+    "name": "school-drop-off",
+    "category": "classroom",
+    "draw": "Car at a curb with a child in a backpack stepping out toward a school door."
+  },
+  {
+    "name": "failing-grade",
+    "category": "classroom",
+    "draw": "Test paper with a large circled letter F at the top corner."
+  },
+  {
+    "name": "cheat-sheet",
+    "category": "classroom",
+    "draw": "Tiny folded paper with scribbled lines half hidden under a shirt cuff."
+  },
+  {
+    "name": "open-book-exam",
+    "category": "classroom",
+    "draw": "Open book beside a test paper with a pencil."
+  },
+  {
+    "name": "pop-quiz",
+    "category": "classroom",
+    "draw": "Test paper with a question mark and a lightning bolt beside it."
+  },
+  {
+    "name": "exam-retake",
+    "category": "classroom",
+    "draw": "Test paper with a circular arrow looping around its corner."
+  },
+  {
+    "name": "test-anxiety",
+    "category": "classroom",
+    "draw": "Student head with sweat drops above a test paper."
+  },
+  {
+    "name": "sealed-exam-papers",
+    "category": "classroom",
+    "draw": "Large envelope with a wax seal and a diagonal stripe across it."
+  },
+  {
+    "name": "grading-papers",
+    "category": "classroom",
+    "draw": "Stack of papers with a red pen making a check mark on the top sheet."
+  },
+  {
+    "name": "tardy-slip",
+    "category": "classroom",
+    "draw": "Small slip of paper with a clock face and a signature line."
+  },
+  {
+    "name": "novelty-eraser",
+    "category": "classroom",
+    "draw": "Small eraser shaped like a strawberry with seed dots."
+  },
+  {
+    "name": "pencil-topper",
+    "category": "classroom",
+    "draw": "Pencil with a round cartoon animal head fitted on the end."
+  },
+  {
+    "name": "pencil-grip",
+    "category": "classroom",
+    "draw": "Pencil with a triangular rubber grip sleeve near the tip."
+  },
+  {
+    "name": "pencil-shavings",
+    "category": "classroom",
+    "draw": "Pencil tip with curly shavings lying beside it."
+  },
+  {
+    "name": "mini-whiteboard",
+    "category": "classroom",
+    "draw": "Small handheld whiteboard with a marker clipped on the side and a scrawled sum."
+  },
+  {
+    "name": "diploma-tube",
+    "category": "classroom",
+    "draw": "Long cylindrical tube with end caps and a ribbon tied around the middle."
+  },
+  {
+    "name": "kindergarten-graduation",
+    "category": "classroom",
+    "draw": "Small child wearing an oversized mortarboard cap tilted on the head."
+  },
+  {
+    "name": "graduation-cake",
+    "category": "classroom",
+    "draw": "Round cake with a mortarboard cap and tassel on top."
+  },
+  {
+    "name": "graduation-balloons",
+    "category": "classroom",
+    "draw": "Two round balloons with a mortarboard shaped balloon between them."
+  },
+  {
+    "name": "graduation-photo",
+    "category": "classroom",
+    "draw": "Framed portrait of a graduate wearing a mortarboard."
+  },
+  {
+    "name": "decorated-graduation-cap",
+    "category": "classroom",
+    "draw": "Mortarboard top seen from above covered with small flowers along one edge and a tassel."
+  },
+  {
+    "name": "graduation-teddy-bear",
+    "category": "classroom",
+    "draw": "Seated teddy bear wearing a small mortarboard and holding a rolled diploma."
+  },
+  {
+    "name": "graduation-ceremony",
+    "category": "classroom",
+    "draw": "Three mortarboards on heads seen from behind with a stage and banner ahead."
+  },
+  {
+    "name": "tassel-turning",
+    "category": "classroom",
+    "draw": "Mortarboard with a curved arrow showing the tassel moving from one side to the other."
+  },
+  {
+    "name": "mnemonic",
+    "category": "classroom",
+    "draw": "Vertical stack of four capital letters with short lines extending from each to form a word list."
+  },
+  {
+    "name": "memory-palace",
+    "category": "classroom",
+    "draw": "House outline with numbered dots placed in its rooms linked by a path line."
+  },
+  {
+    "name": "cramming",
+    "category": "classroom",
+    "draw": "Student head peeking out from behind a tall stack of books."
+  },
+  {
+    "name": "summarizing",
+    "category": "classroom",
+    "draw": "Long page with many lines and an arrow pointing to a short page with three lines."
+  },
+  {
+    "name": "taking-notes",
+    "category": "classroom",
+    "draw": "Hand holding a pen writing on a lined notebook page."
+  },
+  {
+    "name": "color-coded-notes",
+    "category": "classroom",
+    "draw": "Notebook page with three horizontal bands of lines each marked with a different tab."
+  },
+  {
+    "name": "doodling",
+    "category": "classroom",
+    "draw": "Notebook margin filled with a spiral, a star and a small cube doodle."
+  },
+  {
+    "name": "daydreaming",
+    "category": "classroom",
+    "draw": "Student head resting on a hand with a thought cloud above."
+  },
+  {
+    "name": "sleeping-in-class",
+    "category": "classroom",
+    "draw": "Head resting on folded arms on a desk with small Z letters above."
+  },
+  {
+    "name": "dog-ate-homework",
+    "category": "classroom",
+    "draw": "Dog chewing a torn sheet of paper with lines on it."
+  },
+  {
+    "name": "sensory-bubble-tube",
+    "category": "classroom",
+    "draw": "Tall clear column filled with rising bubbles on a round base."
+  },
+  {
+    "name": "picture-exchange-cards",
+    "category": "classroom",
+    "draw": "Strip holding three small square picture cards attached by velcro dots."
+  },
+  {
+    "name": "speech-generating-device",
+    "category": "classroom",
+    "draw": "Tablet showing a grid of symbol buttons with sound waves coming from the side."
+  },
+  {
+    "name": "slant-board",
+    "category": "classroom",
+    "draw": "Angled writing board propped like a wedge with a paper clip at the top."
+  },
+  {
+    "name": "wobble-cushion",
+    "category": "classroom",
+    "draw": "Round inflated disc cushion with a bumpy dotted surface."
+  },
+  {
+    "name": "chew-necklace",
+    "category": "classroom",
+    "draw": "Cord necklace with a chunky chewable pendant in a simple shape."
+  },
+  {
+    "name": "first-then-board",
+    "category": "classroom",
+    "draw": "Board split into two panels labeled first and then with a picture card in each."
+  },
+  {
+    "name": "token-board",
+    "category": "classroom",
+    "draw": "Strip with five circular slots, three filled with star tokens and a reward picture at the end."
+  },
+  {
+    "name": "social-story",
+    "category": "classroom",
+    "draw": "Open booklet with two stick figures waving on one page and a speech bubble on the other."
+  },
+  {
+    "name": "feelings-chart",
+    "category": "classroom",
+    "draw": "Grid of four simple faces: happy, sad, angry and worried."
+  },
+  {
+    "name": "calm-down-corner",
+    "category": "classroom",
+    "draw": "Floor cushion beside a small tent opening and a breathing star poster."
+  },
+  {
+    "name": "individual-education-plan",
+    "category": "classroom",
+    "draw": "Document with a person symbol at the top and a target with an arrow below."
+  },
+  {
+    "name": "teaching-assistant",
+    "category": "classroom",
+    "draw": "Adult kneeling beside a seated child at a desk pointing at a page."
+  },
+  {
+    "name": "colored-reading-overlay",
+    "category": "classroom",
+    "draw": "Tinted transparent sheet laid over lines of text with its edge visible."
+  },
+  {
+    "name": "visual-timer",
+    "category": "classroom",
+    "draw": "Round timer face with a shaded pie sector showing the time remaining."
+  },
+  {
+    "name": "break-card",
+    "category": "classroom",
+    "draw": "Small card showing a pause symbol and a short text line."
+  },
+  {
+    "name": "sensory-path",
+    "category": "classroom",
+    "draw": "Hallway floor with a trail of footprints, hand prints and a zigzag line."
+  },
+  {
+    "name": "reading-pen",
+    "category": "classroom",
+    "draw": "Pen shaped scanner with a small screen and sound waves at the tip passing over text."
+  },
+  {
+    "name": "tablet-arm-desk",
+    "category": "classroom",
+    "draw": "Chair with an attached writing tablet arm curving in front of the seat."
+  },
+  {
+    "name": "pull-down-map",
+    "category": "classroom",
+    "draw": "Map hanging from a wall roller case with a pull ring at the bottom."
+  },
+  {
+    "name": "bulletin-board",
+    "category": "classroom",
+    "draw": "Framed corkboard with three pinned papers and a pushpin."
+  },
+  {
+    "name": "weather-chart",
+    "category": "classroom",
+    "draw": "Classroom board with sun, cloud and rain symbols and a pointer arrow on one."
+  },
+  {
+    "name": "marble-reward-jar",
+    "category": "classroom",
+    "draw": "Glass jar partly filled with marbles and a fill line mark."
+  },
+  {
+    "name": "school-gate",
+    "category": "classroom",
+    "draw": "Iron gate with two posts and an arched sign bar across the top."
+  },
+  {
+    "name": "detention",
+    "category": "classroom",
+    "draw": "Chalkboard filled with repeated scrawled lines with a clock above it."
+  },
+  {
+    "name": "school-blazer",
+    "category": "classroom",
+    "draw": "Blazer front with lapels and a crest patch on the breast pocket."
+  },
+  {
+    "name": "show-and-tell",
+    "category": "classroom",
+    "draw": "Child standing holding up a toy in front of two seated children seen from behind."
+  },
+  {
+    "name": "bake-sale",
+    "category": "classroom",
+    "draw": "Small table with cupcakes on it and a price sign on a stand."
+  },
+  {
+    "name": "first-day-of-school",
+    "category": "classroom",
+    "draw": "Child with a backpack holding a small chalkboard sign with the number 1."
+  },
+  {
+    "name": "book-fair",
+    "category": "classroom",
+    "draw": "Stall with shelves of books under a strip of bunting."
+  },
+  {
+    "name": "school-garden",
+    "category": "classroom",
+    "draw": "Raised wooden garden bed with sprouts and a small sign stake."
+  },
+  {
+    "name": "rhythm-sticks",
+    "category": "classroom",
+    "draw": "Pair of short ridged wooden sticks crossed in an X."
+  },
+  {
+    "name": "school-band-hat",
+    "category": "classroom",
+    "draw": "Tall cylindrical marching band hat with a plume and a chin strap."
+  },
+  {
+    "name": "talent-show",
+    "category": "classroom",
+    "draw": "Stage with curtains and a microphone on a stand with a star above."
+  },
+  {
+    "name": "yearbook-signing",
+    "category": "classroom",
+    "draw": "Open book with a pen writing a looped signature across a page of photos."
+  },
+  {
+    "name": "fossil-dig-kit",
+    "category": "classroom",
+    "draw": "Rectangular plaster block with a half exposed fossil shell shape and a small brush resting on top."
+  },
+  {
+    "name": "syringe-hydraulic-arm",
+    "category": "classroom",
+    "draw": "Cardboard robot arm with a jointed boom and two plastic syringes joined by a tube driving it."
+  },
+  {
+    "name": "straw-rocket",
+    "category": "classroom",
+    "draw": "Paper rocket with fins slid onto the end of a drinking straw, a puff of air lines behind."
+  },
+  {
+    "name": "greater-than-alligator",
+    "category": "classroom",
+    "draw": "Alligator head with its wide open jaws forming a greater than sign facing a bigger number."
+  },
+  {
+    "name": "marble-painting",
+    "category": "classroom",
+    "draw": "Shallow box tray with a marble inside leaving looping paint trails across the paper."
+  },
+  {
+    "name": "clothespin-butterfly",
+    "category": "classroom",
+    "draw": "Wooden clothespin body clipped through the middle of a pleated paper wing shape."
+  },
+  {
+    "name": "elastic-skipping",
+    "category": "classroom",
+    "draw": "Loop of elastic stretched around two pairs of ankles with a child jumping over it."
+  },
+  {
+    "name": "worry-box",
+    "category": "classroom",
+    "draw": "Small box with a slot in the lid and a folded note with a squiggle cloud going in."
+  },
+  {
+    "name": "breathing-ball",
+    "category": "classroom",
+    "draw": "Expanding geodesic ball made of linked hinged segments held between two hands."
+  },
+  {
+    "name": "pinafore-dress",
+    "category": "classroom",
+    "draw": "Sleeveless school pinafore dress with a square neckline worn over a collared blouse."
+  },
+  {
+    "name": "quoits",
+    "category": "classroom",
+    "draw": "Two thick rubber rings beside an upright peg on a small base."
+  },
+  {
+    "name": "all-about-me-poster",
+    "category": "classroom",
+    "draw": "Poster with a child face drawing at the center and small boxes with a heart, a star and a house around it."
+  },
+  {
+    "name": "hundredth-day-of-school",
+    "category": "classroom",
+    "draw": "Number 100 with a small party hat on the first digit and confetti dots."
+  },
+  {
+    "name": "braille-labeler",
+    "category": "classroom",
+    "draw": "Handheld embossing labeler with a dial and a tape strip showing raised dots."
+  },
+  {
+    "name": "results-envelope",
+    "category": "classroom",
+    "draw": "Opened envelope with a paper sliding out showing a circled letter grade."
+  },
+  {
+    "name": "nature-scavenger-hunt",
+    "category": "classroom",
+    "draw": "Checklist sheet with a leaf, a pinecone and a feather beside checkboxes."
+  },
+  {
+    "name": "video-magnifier",
+    "category": "classroom",
+    "draw": "Screen on a stand above a reading tray showing enlarged letters of the page below."
+  },
+  {
+    "name": "economics-class",
+    "category": "classroom",
+    "draw": "Small chalkboard showing two crossing lines, one rising and one falling, with a dot at the crossing."
+  },
+  {
+    "name": "solar-system-mobile",
+    "category": "classroom",
+    "draw": "Hanging ring with planets of different sizes dangling on strings around a central sun ball."
+  },
+  {
+    "name": "star-jump",
+    "category": "classroom",
+    "draw": "Figure mid jump with arms and legs spread wide making an X shape."
+  },
+  {
+    "name": "rainstick",
+    "category": "classroom",
+    "draw": "Long tube with a spiral of dots inside and closed caps at both ends, held at a tilt."
+  },
+  {
+    "name": "shuttle-run",
+    "category": "classroom",
+    "draw": "Runner between two cones with a double headed arrow along the ground between them."
+  },
+  {
+    "name": "sit-and-reach",
+    "category": "classroom",
+    "draw": "Seated figure with legs straight reaching forward over a box with a sliding ruler on top."
+  },
+  {
+    "name": "hole-reinforcement",
+    "category": "classroom",
+    "draw": "Punched binder paper edge with a round ring sticker around one of the holes."
+  },
+  {
+    "name": "school-sign",
+    "category": "classroom",
+    "draw": "Low sign board on two posts with a small school building symbol and text lines."
+  },
+  {
+    "name": "safety-patrol-belt",
+    "category": "classroom",
+    "draw": "Reflective belt with a diagonal shoulder strap and a round badge at the crossing."
+  },
+  {
+    "name": "star-breathing",
+    "category": "classroom",
+    "draw": "Five point star outline with small arrows tracing up and down its edges."
+  },
+  {
+    "name": "touch-and-feel-book",
+    "category": "classroom",
+    "draw": "Board book with a fuzzy textured patch on its cover and a hand touching it."
+  },
+  {
+    "name": "past-papers",
+    "category": "classroom",
+    "draw": "Stack of three offset exam papers each with a different year tab on the corner."
+  },
+  {
+    "name": "brain-dump",
+    "category": "classroom",
+    "draw": "Head profile with arrows flowing out of the top onto a page of scribbled lines."
+  },
+  {
+    "name": "think-pair-share",
+    "category": "classroom",
+    "draw": "Two heads facing each other, each with a thought bubble, joined by a two way arrow."
+  },
+  {
+    "name": "fraction-pizza",
+    "category": "classroom",
+    "draw": "Round pizza cut into eight slices with one slice pulled out and shaded."
+  },
+  {
+    "name": "balloon-car",
+    "category": "classroom",
+    "draw": "Small toy car with an inflated balloon taped on top, its neck pointing backward."
+  },
+  {
+    "name": "dressing-frame",
+    "category": "classroom",
+    "draw": "Square wooden frame holding two fabric flaps fastened with a row of buttons."
+  },
+  {
+    "name": "knobbed-cylinders",
+    "category": "classroom",
+    "draw": "Long wooden block with a row of four cylinders of shrinking size, each with a small knob on top."
+  },
+  {
+    "name": "small-world-play",
+    "category": "classroom",
+    "draw": "Shallow tray with miniature trees, a small house and animal figures."
+  },
+  {
+    "name": "insulated-lunch-bag",
+    "category": "classroom",
+    "draw": "Soft zippered lunch bag with a padded quilt pattern and a top carry handle."
+  },
+  {
+    "name": "big-key-keyboard",
+    "category": "classroom",
+    "draw": "Chunky keyboard with a few oversized square keys each showing a single letter."
+  },
+  {
+    "name": "accessibility-switch",
+    "category": "classroom",
+    "draw": "Large round push button switch on a low base with a cable coming out the back."
+  },
+  {
+    "name": "chair-kick-band",
+    "category": "classroom",
+    "draw": "Front chair legs with a stretchy band looped between them and a foot pushing it."
+  },
+  {
+    "name": "fine-motor-tongs",
+    "category": "classroom",
+    "draw": "Small tongs picking up a pom pom above a tray of sorting cups."
+  },
+  {
+    "name": "lacing-beads",
+    "category": "classroom",
+    "draw": "Large wooden beads in cube, ball and cylinder shapes threaded on a lace with a stiff tip."
+  },
+  {
+    "name": "cutting-practice",
+    "category": "classroom",
+    "draw": "Sheet with dashed zigzag and wavy lines and child scissors cutting along one."
+  },
+  {
+    "name": "dress-up-trunk",
+    "category": "classroom",
+    "draw": "Open trunk with a crown, a cape and a feathered hat spilling over the edge."
+  },
+  {
+    "name": "homework-pass",
+    "category": "classroom",
+    "draw": "Ticket shaped coupon with a notched edge and a crossed out pencil symbol."
+  },
+  {
+    "name": "buddy-bench",
+    "category": "classroom",
+    "draw": "Park style bench with a heart shaped plaque on its backrest."
+  },
+  {
+    "name": "brag-tags",
+    "category": "classroom",
+    "draw": "Ball chain necklace with three small shaped tags, a star, a heart and a circle."
+  },
+  {
+    "name": "graduation-yard-sign",
+    "category": "classroom",
+    "draw": "Lawn sign on wire stakes showing a mortarboard and a year line."
+  },
+  {
+    "name": "graduation-bunting",
+    "category": "classroom",
+    "draw": "String of triangular pennants each showing a small mortarboard."
+  },
+  {
+    "name": "exam-admit-card",
+    "category": "classroom",
+    "draw": "Card with a small photo box, a barcode strip and a header bar for an exam hall pass."
+  },
+  {
+    "name": "coordinate-grid",
+    "category": "classroom",
+    "draw": "Grid with bold x and y axes crossing at the center and a plotted point in one quadrant."
+  },
+  {
+    "name": "rain-cloud-in-a-jar",
+    "category": "classroom",
+    "draw": "Glass jar of water with a foam cloud on top and colored drops falling through it."
+  },
+  {
+    "name": "magic-milk-experiment",
+    "category": "classroom",
+    "draw": "Shallow plate of milk with swirling color bursts and a cotton swab touching the center."
+  },
+  {
+    "name": "dancing-raisins",
+    "category": "classroom",
+    "draw": "Tall glass of fizzy water with bubbles lifting small raisins up and down."
+  },
+  {
+    "name": "cartesian-diver",
+    "category": "classroom",
+    "draw": "Plastic bottle of water with a small pipette diver floating inside and a hand squeezing the side."
+  },
+  {
+    "name": "balloon-hovercraft",
+    "category": "classroom",
+    "draw": "Flat disc with a bottle cap in the middle and an inflated balloon sitting on top."
+  },
+  {
+    "name": "foil-boat-challenge",
+    "category": "classroom",
+    "draw": "Small folded foil boat floating in water loaded with a pile of coins."
+  },
+  {
+    "name": "ocean-drum",
+    "category": "classroom",
+    "draw": "Round flat frame drum with small beads visible inside the clear head and wave lines."
+  },
+  {
+    "name": "floor-hockey",
+    "category": "classroom",
+    "draw": "Plastic floor hockey stick with a wide blade beside a hollow puck ring."
+  },
+  {
+    "name": "school-bus-stop-sign",
+    "category": "classroom",
+    "draw": "Sign on a pole showing a school bus silhouette with children beside it."
+  },
+  {
+    "name": "fiber-optic-lamp",
+    "category": "classroom",
+    "draw": "Base with a fountain of thin glowing fiber strands spraying up and out with dots at the tips."
+  },
+  {
+    "name": "gait-trainer",
+    "category": "classroom",
+    "draw": "Wheeled frame with a padded chest support and seat sling for a child learning to walk."
+  },
+  {
+    "name": "classroom-fm-system",
+    "category": "classroom",
+    "draw": "Teacher lanyard microphone sending curved signal waves to a small ear receiver."
+  },
+  {
+    "name": "tray-storage-unit",
+    "category": "classroom",
+    "draw": "Low cabinet with rows of pull out shallow trays, one tray slid half open."
+  },
+  {
+    "name": "rain-boot-rack",
+    "category": "classroom",
+    "draw": "Row of upside down rain boots hung on angled pegs of a wooden rack."
+  },
+  {
+    "name": "randoseru",
+    "category": "classroom",
+    "draw": "Boxy stiff school backpack with a rounded flap lid, a buckle clasp and side hooks."
+  },
+  {
+    "name": "pouring-practice",
+    "category": "classroom",
+    "draw": "Tray with two small jugs, one tilted pouring beads into the other."
+  },
+  {
+    "name": "egg-carton-seedlings",
+    "category": "classroom",
+    "draw": "Open egg carton with a small seedling sprouting from each soil filled cup."
+  },
+  {
+    "name": "pinecone-bird-feeder",
+    "category": "classroom",
+    "draw": "Pinecone hanging from a string, coated with seeds and a small bird perched on it."
+  },
+  {
+    "name": "lunchbox-note",
+    "category": "classroom",
+    "draw": "Folded paper note with a heart doodle tucked beside a sandwich."
+  },
+  {
+    "name": "finger-counting",
+    "category": "classroom",
+    "draw": "Hand with three fingers raised and a small number 3 floating beside it."
+  },
+  {
+    "name": "whisper-phone",
+    "category": "classroom",
+    "draw": "Curved tube shaped like a telephone handset running from the ear to the mouth of a reading child."
+  },
+  {
+    "name": "reading-finger-pointer",
+    "category": "classroom",
+    "draw": "Thin wand with a tiny pointing hand at its tip resting on a line of text."
+  },
+  {
+    "name": "leveled-reader",
+    "category": "classroom",
+    "draw": "Thin picture book with a circled letter level badge on the top corner of its cover."
+  },
+  {
+    "name": "question-parking-lot",
+    "category": "classroom",
+    "draw": "Board drawn as a parking lot outline with sticky notes parked in the bays and a question mark."
+  },
+  {
+    "name": "brain-break",
+    "category": "classroom",
+    "draw": "Simple brain shape with two small running legs underneath and motion lines."
+  },
+  {
+    "name": "wobble-stool",
+    "category": "classroom",
+    "draw": "Round seat stool on a single post with a rounded rocking base and tilt arcs."
+  }
+]

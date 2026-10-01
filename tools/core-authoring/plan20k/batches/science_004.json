@@ -1,0 +1,482 @@
+[
+ {
+  "name": "redox-reaction",
+  "category": "science",
+  "draw": "Two atoms with an electron dot jumping from one to the other along a curved arrow.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "dissolving",
+  "category": "science",
+  "draw": "Sugar cube in a glass of water with small particles drifting off it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "sublimation",
+  "category": "science",
+  "draw": "Solid block with wisps of vapor rising straight off it and an arrow skipping a drop.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "chain-reaction",
+  "category": "science",
+  "draw": "Branching cascade where one nucleus splits and releases particles that split two more.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "isotope",
+  "category": "science",
+  "draw": "Three small nuclei in a row, each with one more neutron ball than the last.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "radioactive-decay",
+  "category": "science",
+  "draw": "Nucleus emitting a small particle along an arrow with a wavy ray.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "radiation-penetration",
+  "category": "science",
+  "draw": "Three arrows passing toward a sheet of paper, a metal plate and a thick block, stopping at different ones.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "atomic-orbital",
+  "category": "science",
+  "draw": "Two teardrop lobes meeting at a point on crossed axes, like a figure eight.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "galvanic-cell",
+  "category": "science",
+  "draw": "Two beakers with metal strips joined by a wire through a meter and an upside-down U tube between them.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "corrosion",
+  "category": "science",
+  "draw": "Metal bolt with rough flaking patches and small falling flakes.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "oil-and-water",
+  "category": "science",
+  "draw": "Glass with a darker layer floating over a lighter layer and a few drops between.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "energy-levels",
+  "category": "science",
+  "draw": "Stack of horizontal lines with an electron jumping down between two and a wavy photon leaving.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "plum-pudding-model",
+  "category": "science",
+  "draw": "Large sphere dotted with small minus sign dots spread evenly inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "phase-diagram",
+  "category": "science",
+  "draw": "Graph with three regions divided by curved lines meeting at a single point.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "boiling-point",
+  "category": "science",
+  "draw": "Pot of bubbling water with a thermometer standing in it at a high mark.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "freezing-point",
+  "category": "science",
+  "draw": "Thermometer with the level at a low mark beside an ice cube.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "light-polarization",
+  "category": "science",
+  "draw": "Wavy line passing through a slotted filter and coming out as a flat wave in one plane.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "optical-fiber",
+  "category": "science",
+  "draw": "Curved glass strand with a zigzag light ray bouncing along the inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "concave-mirror",
+  "category": "science",
+  "draw": "Curved mirror arc with parallel rays reflecting and meeting at a focal point.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "standing-wave",
+  "category": "science",
+  "draw": "Wave line fixed at both ends with loops and still nodes, shown as two mirrored curves.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "heat-conduction",
+  "category": "science",
+  "draw": "Metal rod held over a flame at one end with heat marks spreading along it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "elastic-collision",
+  "category": "science",
+  "draw": "Two balls with motion lines hitting each other and bouncing apart with arrows.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "centripetal-force",
+  "category": "science",
+  "draw": "Ball on a string circling a center point with an arrow pointing inward.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "potential-energy",
+  "category": "science",
+  "draw": "Ball resting on a high ledge with a height arrow down to the ground.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electroscope",
+  "category": "science",
+  "draw": "Glass jar with a metal rod through the stopper ending in two thin leaves spread apart.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electromagnetic-induction",
+  "category": "science",
+  "draw": "Bar magnet moving into a wire coil connected to a meter with a swinging needle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "optical-bench",
+  "category": "science",
+  "draw": "Straight rail with a candle, a lens holder and a screen standing along it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "airfoil-lift",
+  "category": "science",
+  "draw": "Wing cross-section with streamlines curving over and under it and an up arrow.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "light-dispersion",
+  "category": "science",
+  "draw": "White beam entering a triangular prism and fanning out into a spread of colored rays.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "damped-oscillation",
+  "category": "science",
+  "draw": "Wave that starts tall and shrinks steadily toward a flat line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "magnetic-repulsion",
+  "category": "science",
+  "draw": "Two bar magnets facing like poles with arrows pushing them apart.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "cyclotron",
+  "category": "science",
+  "draw": "Two D-shaped halves facing each other with a spiral particle path winding out from the center.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "cloud-chamber",
+  "category": "science",
+  "draw": "Box tank with a dark base and thin wispy particle trails crossing inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "laser-interferometer",
+  "category": "science",
+  "draw": "Two long arms at a right angle with mirrors at the ends and a laser at the corner.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ferrofluid",
+  "category": "science",
+  "draw": "Spiky blob of liquid standing up in points over a magnet.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "string-telephone",
+  "category": "science",
+  "draw": "Two cups joined by a taut string with sound arcs at one cup.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "tornado-bottle",
+  "category": "science",
+  "draw": "Two bottles joined neck to neck with a spiral vortex swirling in the top one.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "sand-filter",
+  "category": "science",
+  "draw": "Cut bottle filled with layers of gravel, sand and charcoal, dirty water above and clear drips below.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "absorption-spectrum",
+  "category": "science",
+  "draw": "Rainbow band crossed by a few thin dark vertical lines.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "blackbody-radiation",
+  "category": "science",
+  "draw": "Curve rising to a peak then falling, over a spectrum band along the bottom axis.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "photoelectric-effect",
+  "category": "science",
+  "draw": "Wavy light arrow hitting a metal plate with a small electron shooting off.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "bloch-sphere",
+  "category": "science",
+  "draw": "Sphere with vertical and horizontal axes and a state arrow pointing from the center to the surface.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "cosmic-ray-shower",
+  "category": "science",
+  "draw": "Single line from the top branching into a widening cascade of particle tracks.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "antimatter",
+  "category": "science",
+  "draw": "Particle ball with a plus and its mirror ball with a minus, a spark between them.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "standard-model",
+  "category": "science",
+  "draw": "Grid of four by four circles each with a letter, plus one separate circle to the side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "vector-addition",
+  "category": "science",
+  "draw": "Two arrows placed tip to tail and a third arrow closing the triangle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "free-fall",
+  "category": "science",
+  "draw": "Large ball and small ball falling side by side with equal speed lines.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "beam-splitter",
+  "category": "science",
+  "draw": "Glass cube with one beam entering and splitting into a straight and a sideways beam.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "chladni-plate",
+  "category": "science",
+  "draw": "Square plate on a central post with sand gathered into a symmetric line pattern.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "turbulent-flow",
+  "category": "science",
+  "draw": "Smooth parallel flow lines passing an obstacle and breaking into swirling eddies behind.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "surface-tension",
+  "category": "science",
+  "draw": "Paperclip resting on a water surface that dips slightly under it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "viscosity",
+  "category": "science",
+  "draw": "Two drips from spoons side by side, one long and slow, one fast and thin.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "fluid-pressure",
+  "category": "science",
+  "draw": "Tall container with holes at three heights, jets of water arcing farther from the lower holes.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ribosome",
+  "category": "science",
+  "draw": "Two-lobed blob, a small lobe on a large one, sitting on a thin strand.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "meiosis",
+  "category": "science",
+  "draw": "One cell dividing into two and then four smaller cells with arrows.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "dna-sequence",
+  "category": "science",
+  "draw": "Horizontal strip of blocks labeled with the letters A, T, G and C.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "dna-fingerprint",
+  "category": "science",
+  "draw": "Several vertical lanes of horizontal bars at different heights, like a barcode.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "transfer-rna",
+  "category": "science",
+  "draw": "Cloverleaf shape with three rounded loops and a stem with an open end.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "crossing-over",
+  "category": "science",
+  "draw": "Two X chromosomes side by side with their arms crossing and swapping tips.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "action-potential",
+  "category": "science",
+  "draw": "Flat line with a sharp spike up, a dip below and a return to flat.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "transpiration",
+  "category": "science",
+  "draw": "Plant with arrows running up from the roots through the stem and out of the leaves as vapor.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "phagocytosis",
+  "category": "science",
+  "draw": "Large blobby cell wrapping its arms around a small rod bacterium.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "coccolithophore",
+  "category": "science",
+  "draw": "Sphere covered in overlapping round plates like buttons.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "desmid",
+  "category": "science",
+  "draw": "Symmetric green cell with two mirrored lobes pinched at the middle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "bacteria-shapes",
+  "category": "science",
+  "draw": "Three microbes side by side: a round dot cluster, a rod and a corkscrew.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "trypanosome",
+  "category": "science",
+  "draw": "Slim wavy cell with a rippled fin along one side and a flagellum at the front.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "chlamydomonas",
+  "category": "science",
+  "draw": "Round cell with two whip flagella at the top and a small eyespot.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "cyanobacteria",
+  "category": "science",
+  "draw": "Chain of beaded round cells forming a curling filament.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "penicillium-mold",
+  "category": "science",
+  "draw": "Stalk ending in a brush of branches with chains of round spores.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "nematode",
+  "category": "science",
+  "draw": "Slender smooth worm with tapered ends curving in an S shape under a microscope circle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "pitfall-trap",
+  "category": "science",
+  "draw": "Cup sunk into the ground with its rim level with the soil and a raised cover above.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "mist-net",
+  "category": "science",
+  "draw": "Fine net strung between two poles with horizontal shelf lines and a small bird caught.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "bat-detector",
+  "category": "science",
+  "draw": "Handheld box with a microphone on top, a dial and sound wave lines, a bat above.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "telemetry-antenna",
+  "category": "science",
+  "draw": "Handheld directional antenna with several crossbars on a boom and a receiver box.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "plaster-track-cast",
+  "category": "science",
+  "draw": "Plaster disc with a raised animal paw print on it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "population-growth-curve",
+  "category": "science",
+  "draw": "S-shaped curve rising slowly, then steeply, then leveling off under a dashed limit line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "predator-prey-cycle",
+  "category": "science",
+  "draw": "Two offset wave lines on axes, one following the other.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "equatorial-mount",
+  "category": "science",
+  "draw": "Telescope on a tilted axis mount with a counterweight bar sticking out below.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "stellar-wobble",
+  "category": "science",
+  "draw": "Star moving in a small circle around a point as a planet orbits in a large circle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "elliptical-orbit",
+  "category": "science",
+  "draw": "Ellipse orbit path with a sun at one focus and a planet on the path.",
+  "domain": "science-and-lab"
+ }
+]

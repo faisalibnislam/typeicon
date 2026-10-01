@@ -1,0 +1,482 @@
+[
+ {
+  "name": "bamboo-slips",
+  "category": "documents",
+  "draw": "Row of vertical bamboo strips bound together with two horizontal cords.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "palm-leaf-manuscript",
+  "category": "documents",
+  "draw": "Stack of long narrow leaves threaded on a cord through a hole, between two boards.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "punched-tape",
+  "category": "documents",
+  "draw": "Long paper strip with a row of small sprocket holes and scattered larger holes.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "herbarium-sheet",
+  "category": "documents",
+  "draw": "Sheet with a pressed plant sprig and a label box in the lower right corner.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "restaurant-menu",
+  "category": "documents",
+  "draw": "Tall bifold card with a fork and knife on the cover.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "label-printer",
+  "category": "documents",
+  "draw": "Small printer with a label strip coming out of the front slot.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "receipt-printer",
+  "category": "documents",
+  "draw": "Compact thermal printer with a curling receipt emerging from the top.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "photo-printer",
+  "category": "documents",
+  "draw": "Compact printer with a photo showing a mountain emerging from the front.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "pen-scanner",
+  "category": "documents",
+  "draw": "Pen shaped scanner gliding over a line of text with a light beam.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "book-scanner",
+  "category": "documents",
+  "draw": "V shaped cradle holding an open book with an overhead camera arm.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "film-scanner",
+  "category": "documents",
+  "draw": "Small box scanner with a negative film strip entering from the side.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "mobile-scan",
+  "category": "documents",
+  "draw": "Phone screen framing a page with four corner brackets.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "print-queue",
+  "category": "documents",
+  "draw": "Printer with a column of three numbered pages lined up beside it.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "certified-copy",
+  "category": "documents",
+  "draw": "Page with a stamped rectangle reading COPY and a small seal.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "tracing-paper",
+  "category": "documents",
+  "draw": "Translucent sheet partly overlapping a drawing, with the drawing faintly visible through it.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "book-cart",
+  "category": "documents",
+  "draw": "Library trolley with two slanted shelves of books and four small wheels.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "book-drop",
+  "category": "documents",
+  "draw": "Box with a hinged slot at the front and a book entering it.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-rtf",
+  "category": "documents",
+  "draw": "Page with a folded corner and a tag band reading RTF across the lower half.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-bookmark",
+  "category": "documents",
+  "draw": "Page with a folded corner and a ribbon bookmark with a notched tail hanging from the top edge.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "virtual-folder",
+  "category": "documents",
+  "draw": "Folder drawn with a dashed outline and a solid tab.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "folder-shortcut",
+  "category": "documents",
+  "draw": "Folder with a small square in the lower left corner holding a curved arrow.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "lottery-ticket",
+  "category": "documents",
+  "draw": "Ticket with a grid of small numbers, three of them circled.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "scratch-card",
+  "category": "documents",
+  "draw": "Card with a rectangular panel partly scratched away and a coin resting on its edge.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "lyric-sheet",
+  "category": "documents",
+  "draw": "Page with a music note at the top left and short verse lines below.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "cartouche",
+  "category": "documents",
+  "draw": "Upright rounded oblong with a short bar at its base enclosing three small glyph symbols.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "hornbook",
+  "category": "documents",
+  "draw": "Paddle shaped board with a short handle and a framed sheet of letter lines on its face.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "daisy-wheel",
+  "category": "documents",
+  "draw": "Flat print wheel with many thin spokes radiating from a hub, each ending in a small letter pad.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "dust-jacket",
+  "category": "documents",
+  "draw": "Hardcover book with its paper jacket partly slid off to show the plain board underneath.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "book-light",
+  "category": "documents",
+  "draw": "Small clip on lamp with a bendy neck clipped to the top of an open book.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "paid-stamp",
+  "category": "documents",
+  "draw": "Rectangular stamp mark with a double border reading PAID set at an angle.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "page-margins",
+  "category": "documents",
+  "draw": "Page outline with a dashed inner rectangle marking the margins on all four sides.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "cornell-notes",
+  "category": "documents",
+  "draw": "Page divided into a narrow left cue column, a wide notes area and a summary strip across the bottom.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "handwriting-paper",
+  "category": "documents",
+  "draw": "Page with pairs of solid lines and a dashed midline between each pair.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "job-description",
+  "category": "documents",
+  "draw": "Page with a small briefcase at the top and bulleted lines below.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "bill-of-sale",
+  "category": "documents",
+  "draw": "Page with a handshake at the top and two signature lines at the bottom.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "vehicle-title",
+  "category": "documents",
+  "draw": "Page with a small car at the top and a round seal in the lower corner.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "business-license",
+  "category": "documents",
+  "draw": "Framed certificate with a small shop awning at the top.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "divorce-decree",
+  "category": "documents",
+  "draw": "Page with a single ring split into two broken halves at the top.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "inventory-sheet",
+  "category": "documents",
+  "draw": "Page with rows that each begin with a small box icon and end with a count.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "sales-quote",
+  "category": "documents",
+  "draw": "Page with a small price tag at the top and item lines with a total below.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "bill-of-lading",
+  "category": "documents",
+  "draw": "Page with a small cargo ship at the top and table lines below.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "large-print-book",
+  "category": "documents",
+  "draw": "Book with a large Aa printed on its cover.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "document-summary",
+  "category": "documents",
+  "draw": "Long page with many lines beside a short page with two lines, an arrow pointing from long to short.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "red-tape",
+  "category": "documents",
+  "draw": "Bundle of stacked papers tied with a ribbon crossing over the top.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "page-thumbnails",
+  "category": "documents",
+  "draw": "Grid of four small pages with the top left one outlined thicker as selected.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "document-pouch",
+  "category": "documents",
+  "draw": "Clear flat pouch holding a page, closed with a round snap button on the flap.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "cylinder-seal",
+  "category": "documents",
+  "draw": "Small stone cylinder rolling across a clay strip and leaving a band of pattern.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "trifold-display-board",
+  "category": "documents",
+  "draw": "Standing board with a wide center panel and two angled side panels showing pinned sheets.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "multi-step-form",
+  "category": "documents",
+  "draw": "Form page with a row of three numbered circles joined by a line at the top.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "reading-ruler",
+  "category": "documents",
+  "draw": "Clear strip laid over lines of text, tinting a single line.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "book-strap",
+  "category": "documents",
+  "draw": "Stack of three books held together by a leather strap with a buckle and handle.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "torn-page",
+  "category": "documents",
+  "draw": "Notebook page with a ragged torn left edge and half torn punch holes.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "document-handover",
+  "category": "documents",
+  "draw": "Two hands passing a single sheet of paper between them.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "seating-chart",
+  "category": "documents",
+  "draw": "Page with a grid of small desk rectangles, each with a short name line.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "sign-up-sheet",
+  "category": "documents",
+  "draw": "Clipboard with numbered name lines and a pen tied on a string.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "gradebook",
+  "category": "documents",
+  "draw": "Open book with a grid of small cells and an A plus in the corner.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "circuit-schematic",
+  "category": "documents",
+  "draw": "Page with a zigzag resistor, a capacitor gap and connecting lines.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "playbook",
+  "category": "documents",
+  "draw": "Clipboard with X and O marks and curved arrows showing a play.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "character-sheet",
+  "category": "documents",
+  "draw": "Page with a portrait box, stat boxes and a small twenty sided die.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "golf-scorecard",
+  "category": "documents",
+  "draw": "Narrow card with a grid of hole numbers and a small pencil beside it.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-webp",
+  "category": "documents",
+  "draw": "Page with a folded corner and a tag band reading WEBP across the lower half.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-bmp",
+  "category": "documents",
+  "draw": "Page with a folded corner and a tag band reading BMP across the lower half.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-eps",
+  "category": "documents",
+  "draw": "Page with a folded corner and a tag band reading EPS below a small pen nib.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-flac",
+  "category": "documents",
+  "draw": "Page with a folded corner and a tag band reading FLAC below a short waveform.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-avi",
+  "category": "documents",
+  "draw": "Page with a folded corner and a tag band reading AVI below a small film frame.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-tar",
+  "category": "documents",
+  "draw": "Page with a folded corner and a tag band reading TAR below a short zipper track.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "activity-book",
+  "category": "documents",
+  "draw": "Book with a small maze on the cover and a pencil leaning against it.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "poetry-book",
+  "category": "documents",
+  "draw": "Book with a feather quill laid diagonally across its cover.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "mystery-novel",
+  "category": "documents",
+  "draw": "Book with a detective fedora hat on its cover.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "science-fiction-book",
+  "category": "documents",
+  "draw": "Book with a ringed planet and a small rocket on its cover.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "acceptance-letter",
+  "category": "documents",
+  "draw": "Open envelope with a letter rising out and a graduation cap on the letter.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "wireless-printer",
+  "category": "documents",
+  "draw": "Printer with a page in its output tray and signal arcs above it.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "braille-printer",
+  "category": "documents",
+  "draw": "Printer with a page coming out that is covered in raised dot cells.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-preview",
+  "category": "documents",
+  "draw": "Page with a folded corner and an open eye in the middle.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-info",
+  "category": "documents",
+  "draw": "Page with a folded corner and a lowercase i inside a circle.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "ransom-note",
+  "category": "documents",
+  "draw": "Note made of cut out letters of mismatched sizes glued in uneven rows.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "newspaper-holder",
+  "category": "documents",
+  "draw": "Newspaper hanging from a long wooden rod clamped along its fold.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "3d-scanner",
+  "category": "documents",
+  "draw": "Turntable with an object on it and a scanning head casting a fan of light lines.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-barcode",
+  "category": "documents",
+  "draw": "Page with a folded corner and a block of vertical barcode bars in the middle.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "folder-mail",
+  "category": "documents",
+  "draw": "Folder with a small closed envelope on its front.",
+  "domain": "files-and-documents"
+ }
+]

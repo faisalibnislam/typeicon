@@ -1,0 +1,482 @@
+[
+ {
+  "name": "brown-dwarf",
+  "category": "astronomy",
+  "draw": "Small banded ball with faint glow, shown beside a tiny sun dot for scale.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "protoplanetary-disk",
+  "category": "astronomy",
+  "draw": "Central glowing star inside a tilted disk with two dark gap rings.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "star-lifecycle",
+  "category": "astronomy",
+  "draw": "Row of circles growing then shrinking: small star, big red giant, tiny dwarf.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "bipolar-nebula",
+  "category": "astronomy",
+  "draw": "Hourglass shaped nebula: two puffy lobes meeting at a bright central star.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "supernova-remnant",
+  "category": "astronomy",
+  "draw": "Ragged expanding shell ring with filament streaks and an empty center.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "nebula-pillars",
+  "category": "astronomy",
+  "draw": "Three tall ragged gas columns rising from the bottom with small stars around.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "lenticular-galaxy",
+  "category": "astronomy",
+  "draw": "Lens shaped ellipse with a bright bulge and no spiral arms, seen at a tilt.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "irregular-galaxy",
+  "category": "astronomy",
+  "draw": "Shapeless clump of star dots and small patchy clouds with no arms.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "ring-galaxy",
+  "category": "astronomy",
+  "draw": "Bright ring of stars around an empty gap with a small core dot in the middle.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "edge-on-galaxy",
+  "category": "astronomy",
+  "draw": "Thin flat disk seen from the side with a central bulge and a dark dust lane.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "galaxy-cluster",
+  "category": "astronomy",
+  "draw": "Several small elliptical and spiral galaxies grouped around a larger one.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cosmic-web",
+  "category": "astronomy",
+  "draw": "Net of glowing filaments connecting knot points like a spider web.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "multiverse",
+  "category": "astronomy",
+  "draw": "Cluster of overlapping bubbles, each holding a tiny spiral.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "observable-universe",
+  "category": "astronomy",
+  "draw": "Circle with an eye dot at the center and concentric shells of galaxies.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "time-dilation",
+  "category": "astronomy",
+  "draw": "Clock face stretched and warped beside a heavy sphere bending grid lines.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "spaghettification",
+  "category": "astronomy",
+  "draw": "Stretched thin wavy strand pulled into a black hole with an accretion ring.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "hr-diagram",
+  "category": "astronomy",
+  "draw": "Chart axes with a diagonal band of dots and a separate clump at upper right.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "stellar-magnitude-scale",
+  "category": "astronomy",
+  "draw": "Row of star dots shrinking from large to tiny with small tick labels.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "interstellar-object",
+  "category": "astronomy",
+  "draw": "Long thin cigar shaped rock tumbling with a motion trail.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "hot-jupiter",
+  "category": "astronomy",
+  "draw": "Large banded planet very close to a star with heat wavy lines between them.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "lava-planet",
+  "category": "astronomy",
+  "draw": "Planet sphere covered in glowing crack lines like molten veins.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "ocean-planet",
+  "category": "astronomy",
+  "draw": "Planet sphere covered in wave lines with no land shapes.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "oort-cloud",
+  "category": "astronomy",
+  "draw": "Small sun and orbit lines inside a big spherical shell made of dots.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "io-moon",
+  "category": "astronomy",
+  "draw": "Mottled moon sphere with a small volcanic plume arching off its edge.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "europa-moon",
+  "category": "astronomy",
+  "draw": "Smooth moon sphere crossed by long crisscrossing crack lines.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "titan-moon",
+  "category": "astronomy",
+  "draw": "Moon sphere wrapped in a thick hazy halo ring of atmosphere.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "enceladus-geysers",
+  "category": "astronomy",
+  "draw": "Small white moon with jets of spray fanning out from its south pole.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "binary-asteroid",
+  "category": "astronomy",
+  "draw": "Two lumpy asteroids of different sizes orbiting each other on a dashed loop.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "comet-nucleus",
+  "category": "astronomy",
+  "draw": "Lumpy icy rock with small gas jets venting from its sunlit side.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "near-earth-asteroid",
+  "category": "astronomy",
+  "draw": "Asteroid on a dashed path crossing a small Earth orbit ring.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "planetary-alignment",
+  "category": "astronomy",
+  "draw": "Sun at left with several planets lined up in a straight row.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "planetary-conjunction",
+  "category": "astronomy",
+  "draw": "Crescent moon with two bright points close together beside it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "retrograde-motion",
+  "category": "astronomy",
+  "draw": "Dotted path across star dots that loops back on itself in a Z shaped loop.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "occultation",
+  "category": "astronomy",
+  "draw": "Moon disk sliding in front of a bright star point with a motion arrow.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "eclipse-diamond-ring",
+  "category": "astronomy",
+  "draw": "Black disk with a thin bright ring and one sparkling bead on its edge.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "umbra-penumbra",
+  "category": "astronomy",
+  "draw": "Sun, moon and Earth in a row with two shadow cones from the moon.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "coronal-mass-ejection",
+  "category": "astronomy",
+  "draw": "Sun blasting a cloud burst toward a small Earth with a shield curve.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "heliosphere",
+  "category": "astronomy",
+  "draw": "Sun inside a comet shaped bubble with a curved bow shock in front.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "radiation-belts",
+  "category": "astronomy",
+  "draw": "Earth with two nested donut rings wrapped around its equator.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "moonbow",
+  "category": "astronomy",
+  "draw": "Faint arc over a waterfall with a crescent moon in the sky.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "earthshine",
+  "category": "astronomy",
+  "draw": "Thin bright crescent moon with the rest of the disk faintly outlined.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "transfer-orbit",
+  "category": "astronomy",
+  "draw": "Two circular orbits around a planet joined by a half ellipse path.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "orbital-inclination",
+  "category": "astronomy",
+  "draw": "Planet with a flat orbit ring and a second tilted ring with an angle arc.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "apogee-perigee",
+  "category": "astronomy",
+  "draw": "Earth near one end of an ellipse with near and far points marked.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "geostationary-orbit",
+  "category": "astronomy",
+  "draw": "Earth with a satellite on a wide circle ring and a fixed dotted line down.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "polar-orbit",
+  "category": "astronomy",
+  "draw": "Earth with an orbit ring running over the north and south poles.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "orbital-decay",
+  "category": "astronomy",
+  "draw": "Satellite spiraling inward toward a planet on a tightening dashed line.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "equal-area-orbit",
+  "category": "astronomy",
+  "draw": "Ellipse orbit around a sun with two shaded pie wedges of equal area.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "escape-velocity",
+  "category": "astronomy",
+  "draw": "Planet with curved paths falling back and one arrow flying off straight.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "tidal-bulge",
+  "category": "astronomy",
+  "draw": "Earth stretched into an oval toward a small moon beside it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "free-return-trajectory",
+  "category": "astronomy",
+  "draw": "Figure eight path looping around Earth and a smaller moon.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "launch-trajectory",
+  "category": "astronomy",
+  "draw": "Curved dashed arc rising from a small rocket on the ground into orbit.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "orbital-velocity",
+  "category": "astronomy",
+  "draw": "Satellite on a circle with a tangent arrow pointing along its path.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "earth-rotation",
+  "category": "astronomy",
+  "draw": "Globe with a tilted axis line and a curved arrow circling around it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "analemma",
+  "category": "astronomy",
+  "draw": "Tall figure eight loop in the sky above a horizon line with a small sun on it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "alt-azimuth-coordinates",
+  "category": "astronomy",
+  "draw": "Dome over a flat horizon disk with a star and two angle arcs.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "dobsonian-telescope",
+  "category": "astronomy",
+  "draw": "Fat open tube sitting in a boxy rocker base on the ground.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "catadioptric-telescope",
+  "category": "astronomy",
+  "draw": "Short stubby tube with a round corrector plate on a single fork arm.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "telescope-eyepiece",
+  "category": "astronomy",
+  "draw": "Short cylinder with ridged grip rings and a lens on top.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "neutrino-detector",
+  "category": "astronomy",
+  "draw": "Large sphere lined inside with rows of round sensor dots.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "astrophotography",
+  "category": "astronomy",
+  "draw": "Camera body attached to the back of a small telescope with a star above.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "solar-telescope",
+  "category": "astronomy",
+  "draw": "Telescope with a dark filter cap on its front pointed at a sun.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "x-ray-telescope",
+  "category": "astronomy",
+  "draw": "Long spacecraft tube with nested cone mirrors visible at the front.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "telescope-finder-scope",
+  "category": "astronomy",
+  "draw": "Small tube mounted on top of a larger telescope tube with crosshair.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "star-diagonal",
+  "category": "astronomy",
+  "draw": "Right angle bent tube with an eyepiece at the top end.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "transit-instrument",
+  "category": "astronomy",
+  "draw": "Telescope on a horizontal axle between two stone piers.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "nocturnal-instrument",
+  "category": "astronomy",
+  "draw": "Round dial with a long pointer arm and a hole in the center.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "astronomy-red-flashlight",
+  "category": "astronomy",
+  "draw": "Small flashlight with a red filter cap and a star beside it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "all-sky-camera",
+  "category": "astronomy",
+  "draw": "Small fisheye dome camera on a post facing straight up.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "binocular-mount",
+  "category": "astronomy",
+  "draw": "Large binoculars on a tall parallelogram arm stand.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "spacesuit-glove",
+  "category": "astronomy",
+  "draw": "Bulky padded glove with a metal wrist ring connector.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-boot",
+  "category": "astronomy",
+  "draw": "Chunky padded boot with thick ridged sole and ankle ring.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "manned-maneuvering-unit",
+  "category": "astronomy",
+  "draw": "Backpack chair frame with two armrests holding hand controllers and thrusters.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "life-support-backpack",
+  "category": "astronomy",
+  "draw": "Boxy backpack with hoses running to a small control panel.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "launch-entry-suit",
+  "category": "astronomy",
+  "draw": "Full body pressure suit with a round helmet and hose connector on the chest.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "retro-space-helmet",
+  "category": "astronomy",
+  "draw": "Round fishbowl glass helmet with a small antenna on top.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-food-pouch",
+  "category": "astronomy",
+  "draw": "Flat foil pouch with a spout and a straw clip.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "parabolic-flight",
+  "category": "astronomy",
+  "draw": "Airplane on an arched up and down curve with a floating person at the top.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "mission-patch",
+  "category": "astronomy",
+  "draw": "Oval embroidered patch with a stitched border, a rocket and stars.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "astronaut-wings",
+  "category": "astronomy",
+  "draw": "Pin badge with spread wings and a shooting star in the middle.",
+  "domain": "r2-space-astronomy"
+ }
+]

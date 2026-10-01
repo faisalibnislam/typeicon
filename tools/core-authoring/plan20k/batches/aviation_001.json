@@ -1,0 +1,482 @@
+[
+ {
+  "name": "baggage-dolly",
+  "category": "aviation",
+  "draw": "Side view of a low open baggage cart on four small wheels with a tow bar at the front and a few suitcases stacked on its flat deck.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "underseat-bag",
+  "category": "aviation",
+  "draw": "Side view of an airline seat with a small soft bag tucked on the floor underneath it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "explosive-trace-swab",
+  "category": "aviation",
+  "draw": "Gloved hand holding a small paddle with a round white swab pad next to the rounded handle of a carry-on bag.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "security-pat-down",
+  "category": "aviation",
+  "draw": "Front view of a person standing with arms held out sideways while a second smaller figure runs flat hands down their side.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "ambulift",
+  "category": "aviation",
+  "draw": "Side view of a box-bodied truck with its passenger cabin raised high on a scissor lift up to an aircraft door.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "cabin-reading-light",
+  "category": "aviation",
+  "draw": "Overhead passenger service panel seen from below with a round reading lamp casting a cone of light downward.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "overhead-air-vent",
+  "category": "aviation",
+  "draw": "Close view of a round swivelling air nozzle in a ceiling panel with three curved air lines flowing out of it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-lavatory",
+  "category": "aviation",
+  "draw": "Narrow aircraft toilet cubicle seen from the folding door with a compact toilet and a tiny sink on the side wall.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "cabin-crew-jumpseat",
+  "category": "aviation",
+  "draw": "Fold-down seat on a cabin wall next to a door, shown open with a shoulder harness crossing its back.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "cockpit-door",
+  "category": "aviation",
+  "draw": "Reinforced flight deck door with a small peephole, a keypad beside it and a sturdy handle.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "cockpit",
+  "category": "aviation",
+  "draw": "View from behind two pilot seats looking forward through angled windshield panes above a glare shield and instrument screens.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "pilot-wings",
+  "category": "aviation",
+  "draw": "Metal pilot badge with a small central shield and two spread feathered wings on either side.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "pilot-flight-bag",
+  "category": "aviation",
+  "draw": "Boxy hard-sided pilot case with a top carry handle and a flip-over front flap with two latches.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "kneeboard",
+  "category": "aviation",
+  "draw": "Small clipboard strapped around a thigh with an elastic band, holding a notepad and pencil.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "electronic-flight-bag",
+  "category": "aviation",
+  "draw": "Tablet showing a runway chart with a small airplane symbol, held in a mount clamp on a yoke.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aeronautical-chart",
+  "category": "aviation",
+  "draw": "Folded map sheet showing an airport symbol, airspace circles and a compass rose.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "e6b-flight-computer",
+  "category": "aviation",
+  "draw": "Round circular slide rule with a rotating wind face disc and a clear grommet window in the middle.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "preflight-checklist",
+  "category": "aviation",
+  "draw": "Laminated card with a small airplane at the top and a column of check boxes, some ticked.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "sidestick",
+  "category": "aviation",
+  "draw": "Short ergonomic control stick rising from a side console with a thumb button on top and an armrest behind.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "flap-lever",
+  "category": "aviation",
+  "draw": "Cockpit lever with a flat notched handle sliding in a slotted gate marked with detent lines.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "landing-gear-lever",
+  "category": "aviation",
+  "draw": "Cockpit lever whose knob is shaped like a small wheel, set in a vertical slot with up and down stops.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "trim-wheel",
+  "category": "aviation",
+  "draw": "Large vertical wheel with ridged grip marks set into a center console with a pointer scale beside it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "airspeed-indicator",
+  "category": "aviation",
+  "draw": "Round gauge with a needle and a curved arc band along the edge split into sections, and a small knot label.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "vertical-speed-indicator",
+  "category": "aviation",
+  "draw": "Round gauge with a needle resting at the nine o'clock zero mark and tick marks running up and down from it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "horizontal-situation-indicator",
+  "category": "aviation",
+  "draw": "Round compass card gauge with a small airplane in the center and a long course arrow crossing it with a deviation bar.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "turn-coordinator",
+  "category": "aviation",
+  "draw": "Round gauge with a small airplane seen from behind tilted in a bank and a ball inside a curved tube below it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "whiskey-compass",
+  "category": "aviation",
+  "draw": "Small cylindrical liquid compass housing with a viewing window showing a floating card with letters and a vertical lubber line.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "primary-flight-display",
+  "category": "aviation",
+  "draw": "Rectangular screen with a split sky and ground horizon in the middle and vertical speed and altitude tapes on each side.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "navigation-display",
+  "category": "aviation",
+  "draw": "Rectangular screen showing a curved compass arc at the top, a small airplane triangle at the bottom and a line of route waypoints.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "autopilot",
+  "category": "aviation",
+  "draw": "Cockpit control panel strip with a few rounded buttons and knobs and the letters AP on the central button.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "transponder",
+  "category": "aviation",
+  "draw": "Rectangular avionics box with a four digit number display and a row of small buttons below it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "ground-proximity-warning",
+  "category": "aviation",
+  "draw": "Aircraft nose heading toward a mountain peak with a warning triangle between them.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "collision-avoidance-display",
+  "category": "aviation",
+  "draw": "Round screen with a small airplane in the center, a dashed range ring and a diamond shaped traffic symbol ahead.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "stall-warning",
+  "category": "aviation",
+  "draw": "Airfoil wing cross section at a steep angle with airflow lines breaking into swirls above it and an exclamation mark.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "master-caution",
+  "category": "aviation",
+  "draw": "Square illuminated cockpit push button with glow lines around it and a bold horizontal bar across its face.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "flight-management-computer",
+  "category": "aviation",
+  "draw": "Cockpit keypad unit with a small screen at the top, line select keys along both sides and a grid of letter keys below.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "pitot-tube",
+  "category": "aviation",
+  "draw": "Side view of an L-shaped probe sticking forward from a curved fuselage skin with a small opening at its tip.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "angle-of-attack-vane",
+  "category": "aviation",
+  "draw": "Small wedge shaped weather vane on a round base mounted on the side of an aircraft nose.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "winglet",
+  "category": "aviation",
+  "draw": "Wing tip seen from the front with its end turning sharply upward into a tall swept fin.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aileron",
+  "category": "aviation",
+  "draw": "Top view of a swept wing with the outer trailing edge panel shaded and a curved arrow showing it hinging.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "wing-flap",
+  "category": "aviation",
+  "draw": "Side cross section of a wing with a curved flap panel extended down and back from the trailing edge.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "thrust-reverser",
+  "category": "aviation",
+  "draw": "Side view of a jet engine nacelle with its rear cowl slid open and curved arrows blowing air forward.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "auxiliary-power-unit",
+  "category": "aviation",
+  "draw": "Tapered tail cone of an airliner with a small exhaust opening at the tip and heat lines coming out.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "cargo-door",
+  "category": "aviation",
+  "draw": "Side of a fuselage with a large rectangular hatch hinged open upward above a cargo compartment.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-door",
+  "category": "aviation",
+  "draw": "Tall rounded rectangle plug door on a curved fuselage with a small round window and a lift handle.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "cargo-hold",
+  "category": "aviation",
+  "draw": "Round fuselage cross section with passenger seats on the upper floor and two contoured cargo containers in the lower hold.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "airplane-wing",
+  "category": "aviation",
+  "draw": "Top view of a single swept airliner wing with an engine pod hanging under it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "glide-slope",
+  "category": "aviation",
+  "draw": "Side view of an airplane descending along a straight dashed line angled down to a runway, with a small angle arc at the ground.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "instrument-landing-system",
+  "category": "aviation",
+  "draw": "Row of antenna masts standing at the end of a runway with radio wave arcs spreading from them.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "vor-beacon",
+  "category": "aviation",
+  "draw": "Round white ground station shaped like a traffic cone topped with a short spike, surrounded by a ring of small antennas.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "non-directional-beacon",
+  "category": "aviation",
+  "draw": "Tall radio mast with guy wires and concentric radio wave circles radiating from its top.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "papi-lights",
+  "category": "aviation",
+  "draw": "Row of four square light units beside a runway edge, two shown filled and two outlined.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "runway-edge-lights",
+  "category": "aviation",
+  "draw": "Perspective runway strip bordered on both sides by rows of small raised light dots.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "runway-centerline-lights",
+  "category": "aviation",
+  "draw": "Perspective runway strip with a single dashed line of glowing lights running down its center.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "touchdown-zone-markings",
+  "category": "aviation",
+  "draw": "Top view of a runway section with pairs of short parallel bars placed symmetrically on both sides of the centerline.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aiming-point-markings",
+  "category": "aviation",
+  "draw": "Top view of a runway section with two long thick rectangular blocks on either side of a dashed centerline.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "runway-holding-position-sign",
+  "category": "aviation",
+  "draw": "Rectangular airport ground sign on short legs showing a runway number pair separated by a dash.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "runway-distance-remaining-sign",
+  "category": "aviation",
+  "draw": "Square airport sign on short legs showing a single large digit beside the runway edge.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "stop-bar-lights",
+  "category": "aviation",
+  "draw": "Top view of a taxiway entrance with a straight row of in-ground lights spanning its whole width.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "runway-guard-lights",
+  "category": "aviation",
+  "draw": "Pair of round lamps mounted side by side on a short post with flashing rays from alternating lamps.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "wind-tee",
+  "category": "aviation",
+  "draw": "Large T-shaped wind indicator seen from above resting on a pivot, shaped like a small airplane silhouette.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "landing-tetrahedron",
+  "category": "aviation",
+  "draw": "Pyramid shaped wind indicator with a pointed nose, mounted on a pivot stand on the ground.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "signal-square",
+  "category": "aviation",
+  "draw": "Square ground panel with a white border containing a painted cross shape, used as an airfield signal area.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "light-gun",
+  "category": "aviation",
+  "draw": "Handheld lamp shaped like a large spotlight with a pistol grip and trigger, emitting a straight beam.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "airport-beacon",
+  "category": "aviation",
+  "draw": "Short tower with a rotating two-sided lamp on top casting two opposite light beams.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "runway-visual-range",
+  "category": "aviation",
+  "draw": "Two sensor heads on a post facing each other across a short gap with fog lines between them.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "arresting-gear",
+  "category": "aviation",
+  "draw": "Top view of a runway with a cable stretched across it and a jet tail hook catching the cable.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "arrestor-bed",
+  "category": "aviation",
+  "draw": "Side view of an aircraft nose wheel sinking into a textured block bed at the end of a runway.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "blast-fence",
+  "category": "aviation",
+  "draw": "Tall curved slatted barrier wall behind a jet engine with exhaust lines hitting it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "bird-scarer",
+  "category": "aviation",
+  "draw": "Gas cannon on a tripod with a flared barrel emitting a bang burst and a flying bird escaping away.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "foreign-object-debris",
+  "category": "aviation",
+  "draw": "Tire tread on runway pavement with a small bolt and scattered fragments in front of it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "follow-me-car",
+  "category": "aviation",
+  "draw": "Small car with a checkered roof sign on top and a lit sign on its back.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-tow-bar",
+  "category": "aviation",
+  "draw": "Long bar on two small wheels with a ring towing eye at one end and a forked head at the other.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "ground-power-unit",
+  "category": "aviation",
+  "draw": "Boxy wheeled cart with a thick power cable coiled on the side ending in a large plug.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "preconditioned-air-unit",
+  "category": "aviation",
+  "draw": "Wide flexible accordion hose running from a box unit under a jet bridge up to a fuselage belly.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "lavatory-service-truck",
+  "category": "aviation",
+  "draw": "Small service truck with a round waste tank on its back and a hose extending up to a fuselage.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "fuel-hydrant-pit",
+  "category": "aviation",
+  "draw": "Round flush lid in the apron pavement opened to show a valve with a fuel hose connected to it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "wing-walker",
+  "category": "aviation",
+  "draw": "Ground crew figure in a vest standing beside a wing tip holding a raised baton in one hand.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-maintenance-dock",
+  "category": "aviation",
+  "draw": "Airplane tail and fuselage surrounded by a tall scaffold platform with railings and stairs.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-jack",
+  "category": "aviation",
+  "draw": "Tall tripod jack with a long vertical ram lifting the underside of a wing.",
+  "domain": "r3-aviation-airport"
+ }
+]

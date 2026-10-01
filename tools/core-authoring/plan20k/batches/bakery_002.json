@@ -1,0 +1,482 @@
+[
+ {
+  "name": "bubble-waffle",
+  "category": "bakery",
+  "draw": "Cone of waffle folded around ice cream whose surface is covered in round bubble bumps.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "hamantaschen",
+  "category": "bakery",
+  "draw": "Triangular cookie with its three sides folded up around a round filling in the middle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cake-slice",
+  "category": "bakery",
+  "draw": "Triangular wedge of layered cake with frosting on top and a cherry on the point.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sheet-cake",
+  "category": "bakery",
+  "draw": "Flat rectangular cake seen at an angle with a piped shell border along the top edge.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "wedding-cake",
+  "category": "bakery",
+  "draw": "Three-tier round cake stacked in decreasing sizes with small piped decorations on each tier.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bundt-cake",
+  "category": "bakery",
+  "draw": "Ring-shaped cake with fluted ridges down the sides and a hole in the middle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "king-cake",
+  "category": "bakery",
+  "draw": "Oval ring cake with bands of sugar sprinkles across it and a tiny crown resting on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pound-cake",
+  "category": "bakery",
+  "draw": "Rectangular loaf cake with a cracked split along the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "upside-down-cake",
+  "category": "bakery",
+  "draw": "Round cake seen from above with pineapple rings and a cherry in the middle of each ring.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "carrot-cake",
+  "category": "bakery",
+  "draw": "Slice of layered cake with frosting and a small piped carrot with leaves on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheesecake",
+  "category": "bakery",
+  "draw": "Wedge-shaped slice with a thick smooth filling on a thin crumb base and a fruit sauce drip.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "swiss-roll",
+  "category": "bakery",
+  "draw": "Log cake with its round cut end facing forward showing a spiral of cream.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "yule-log",
+  "category": "bakery",
+  "draw": "Log-shaped cake with bark lines on the side, a cut stump branch and a small holly sprig.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "charlotte-cake",
+  "category": "bakery",
+  "draw": "Round cake ringed by upright ladyfinger biscuits tied with a ribbon and topped with berries.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "tiramisu",
+  "category": "bakery",
+  "draw": "Square portion showing alternating soaked sponge and cream layers with a dusted cocoa top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "lamington",
+  "category": "bakery",
+  "draw": "Cube of sponge cake coated all over in coconut flake dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "petit-four",
+  "category": "bakery",
+  "draw": "Tiny square iced cake with a small piped flower on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cake-pop",
+  "category": "bakery",
+  "draw": "Round ball of cake on a stick with a coating and a few sprinkles.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "brownie",
+  "category": "bakery",
+  "draw": "Square chunk of dense cake with a crackled top surface.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "battenberg",
+  "category": "bakery",
+  "draw": "Rectangular cake with a square end face showing a two-by-two checkerboard of light and dark squares.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "baumkuchen",
+  "category": "bakery",
+  "draw": "Round slice of cake with many concentric rings like a tree trunk and a hole in the middle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mooncake",
+  "category": "bakery",
+  "draw": "Round pastry with a thick edge and an embossed flower pattern pressed into its top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "molten-lava-cake",
+  "category": "bakery",
+  "draw": "Small domed chocolate cake cut open with thick sauce flowing out onto the plate.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "strawberry-shortcake",
+  "category": "bakery",
+  "draw": "Slice of sponge with whipped cream layers and a whole strawberry on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "crepe-cake",
+  "category": "bakery",
+  "draw": "Round cake made of many thin stacked crepe layers visible on the cut side.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "whoopie-pie",
+  "category": "bakery",
+  "draw": "Two soft round domed cakes sandwiching a thick layer of white filling.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mug-cake",
+  "category": "bakery",
+  "draw": "Coffee mug with a domed sponge cake rising above its rim.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "muffin",
+  "category": "bakery",
+  "draw": "Paper-lined muffin with a big rounded top overflowing the pleated case.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pavlova",
+  "category": "bakery",
+  "draw": "Round meringue nest with a crisp shell and a mound of cream topped with berries.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "meringue",
+  "category": "bakery",
+  "draw": "Single swirled meringue kiss with a pointed curled tip and ridged sides.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "baked-alaska",
+  "category": "bakery",
+  "draw": "Dome of swirled meringue with toasted tips sitting on a flat cake base.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mont-blanc-dessert",
+  "category": "bakery",
+  "draw": "Small mound covered in piped strands of chestnut cream like noodles with a dusting of sugar on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "christmas-pudding",
+  "category": "bakery",
+  "draw": "Round dark dome pudding with white sauce drizzled over the top and a holly sprig.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "souffle",
+  "category": "bakery",
+  "draw": "Straight-sided ramekin with a puffed golden top rising well above the rim.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "trifle",
+  "category": "bakery",
+  "draw": "Clear footed bowl showing stacked layers of sponge, fruit, custard and cream.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "yogurt-parfait",
+  "category": "bakery",
+  "draw": "Tall narrow glass with alternating layers of yogurt, granola and fruit and a spoon sticking out.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "panna-cotta",
+  "category": "bakery",
+  "draw": "Smooth dome-shaped dessert turned out on a plate with sauce pooling around its base.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "creme-brulee",
+  "category": "bakery",
+  "draw": "Shallow round ramekin with a cracked caramel top and a spoon tapping it.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "flan",
+  "category": "bakery",
+  "draw": "Short round custard turned out on a plate with caramel sauce running down its sides.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gelatin-dessert",
+  "category": "bakery",
+  "draw": "Wobbly fluted jelly on a plate with short curved motion lines on either side.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mochi",
+  "category": "bakery",
+  "draw": "Soft round flattened rice cake with a dusting of flour dots and a gentle sheen.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "dorayaki",
+  "category": "bakery",
+  "draw": "Two small pancakes seen from the side with a thick layer of bean paste between them.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "taiyaki",
+  "category": "bakery",
+  "draw": "Fish-shaped cake with a scale pattern, a round eye and a fanned tail.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "dango",
+  "category": "bakery",
+  "draw": "Three round dumplings threaded on a thin skewer.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "tanghulu",
+  "category": "bakery",
+  "draw": "Skewer of three glossy candied strawberries with a shine mark on each.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gulab-jamun",
+  "category": "bakery",
+  "draw": "Small bowl holding round dark balls half submerged in syrup.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "jalebi",
+  "category": "bakery",
+  "draw": "Loose spiral coil of fried batter piped in overlapping loops.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ladoo",
+  "category": "bakery",
+  "draw": "Small pyramid of three round sweet balls with a textured dot surface on a plate.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sesame-balls",
+  "category": "bakery",
+  "draw": "Two round fried balls covered all over in sesame seed dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "chocolate-fountain",
+  "category": "bakery",
+  "draw": "Three-tier round fountain with thick chocolate sheets flowing down between the tiers.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "soft-serve",
+  "category": "bakery",
+  "draw": "Cone topped with a tall twisted swirl of soft ice cream ending in a curled tip.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "popsicle",
+  "category": "bakery",
+  "draw": "Round-topped frozen ice block on a flat wooden stick with a bite taken from one corner.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "freezer-pop",
+  "category": "bakery",
+  "draw": "Long thin plastic tube of frozen juice with sealed crimped ends and one end snipped open.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ice-cream-bar",
+  "category": "bakery",
+  "draw": "Rectangular coated ice cream bar on a stick with a drip line of chocolate.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ice-cream-sandwich",
+  "category": "bakery",
+  "draw": "Rectangular block of ice cream between two dark wafer layers with dot holes.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sundae",
+  "category": "bakery",
+  "draw": "Tulip glass holding scoops of ice cream topped with whipped cream and a cherry.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "banana-split",
+  "category": "bakery",
+  "draw": "Long oval boat dish with a split banana on each side and three scoops in the middle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ice-cream-cup",
+  "category": "bakery",
+  "draw": "Small paper cup with two scoops and a flat wooden spoon sticking out.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ice-cream-tub",
+  "category": "bakery",
+  "draw": "Round cardboard tub with a lid slightly lifted showing ice cream inside.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "neapolitan-ice-cream",
+  "category": "bakery",
+  "draw": "Rectangular block of ice cream with three distinct vertical stripes and a scoop mark.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "rolled-ice-cream",
+  "category": "bakery",
+  "draw": "Cup holding four upright tight rolls of ice cream with a sauce drizzle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "dropped-ice-cream",
+  "category": "bakery",
+  "draw": "Upside-down cone stuck in a splattered puddle of melted scoop on the ground.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "frozen-banana",
+  "category": "bakery",
+  "draw": "Banana on a stick dipped halfway in chocolate with nut dots on the coating.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "snow-cone",
+  "category": "bakery",
+  "draw": "Paper cone holding a rounded mound of shaved ice with syrup streaks.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "shaved-ice",
+  "category": "bakery",
+  "draw": "Bowl with a tall mountain of fluffy shaved ice topped with fruit and syrup drizzle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "kulfi",
+  "category": "bakery",
+  "draw": "Tall conical frozen dessert on a stick with a few chopped nut dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gelato-pan",
+  "category": "bakery",
+  "draw": "Rectangular metal pan heaped with swirled gelato and a flat paddle spatula stuck in it.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ice-cream-cart",
+  "category": "bakery",
+  "draw": "Push cart with a rounded freezer box, two wheels and a small striped umbrella.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ice-cream-scoop",
+  "category": "bakery",
+  "draw": "Scoop tool with a long handle and a round bowl holding a ball of ice cream.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ice-cream-maker",
+  "category": "bakery",
+  "draw": "Wooden bucket with a crank handle on top and a metal canister inside.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sandwich-cookie",
+  "category": "bakery",
+  "draw": "Two round dark cookies with an embossed pattern and a white cream layer between them.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "fortune-cookie",
+  "category": "bakery",
+  "draw": "Folded crescent cookie with a small paper slip poking out of the fold.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gingerbread-man",
+  "category": "bakery",
+  "draw": "Cookie shaped like a simple figure with round head and icing dots for eyes and buttons.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gingerbread-house",
+  "category": "bakery",
+  "draw": "Small cookie house with an icing-trimmed pitched roof, candy dots and a door.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "lebkuchen",
+  "category": "bakery",
+  "draw": "Large heart-shaped gingerbread cookie with an iced scalloped border and a ribbon loop at the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "biscotti",
+  "category": "bakery",
+  "draw": "Two long oblong slices of twice-baked biscuit with nut dots in the cut face.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "shortbread",
+  "category": "bakery",
+  "draw": "Rectangular finger biscuit with rows of pricked fork holes.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "thumbprint-cookie",
+  "category": "bakery",
+  "draw": "Round cookie with a rough edge and a round dip in the center filled with jam.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "coconut-macaroon",
+  "category": "bakery",
+  "draw": "Craggy dome-shaped mound of shredded coconut with its base dipped in chocolate.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "wafer",
+  "category": "bakery",
+  "draw": "Rectangular wafer biscuit with a crosshatched grid top and visible layered sides.",
+  "domain": "bakery-sweets-dairy"
+ }
+]

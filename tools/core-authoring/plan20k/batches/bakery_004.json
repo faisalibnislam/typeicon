@@ -1,0 +1,422 @@
+[
+ {
+  "name": "mayonnaise",
+  "category": "bakery",
+  "draw": "Wide squat jar with a glossy swirl dollop visible through the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "hot-sauce",
+  "category": "bakery",
+  "draw": "Slim bottle with a long narrow neck, a small cap and a chili pepper label.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "soy-sauce",
+  "category": "bakery",
+  "draw": "Small glass dispenser with a spout next to a shallow round dipping dish.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "soy-fish",
+  "category": "bakery",
+  "draw": "Small fish-shaped squeeze container with a screw cap in its mouth.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gravy-boat",
+  "category": "bakery",
+  "draw": "Low oval sauce boat with a long pouring lip and a looped handle on a saucer.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "oil-cruet",
+  "category": "bakery",
+  "draw": "Slender glass bottle with a stopper and a thin angled pouring spout.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "dipping-sauce",
+  "category": "bakery",
+  "draw": "Small round ramekin filled with sauce and a chip dipping into it.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sauce-cup",
+  "category": "bakery",
+  "draw": "Small round plastic portion cup with a clear lid snapped on, filled with sauce.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sauce-packet",
+  "category": "bakery",
+  "draw": "Small rectangular sachet with a tear notch on one corner and zigzag sealed edges.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "condiment-pump",
+  "category": "bakery",
+  "draw": "Countertop dispenser jar with a large push-down pump head and a curved spout.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "honey-bear-bottle",
+  "category": "bakery",
+  "draw": "Squeeze bottle shaped like a sitting bear with a pointed cap on its head.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "syrup-dispenser",
+  "category": "bakery",
+  "draw": "Glass jar with a handle and a hinged metal lid with a thumb lever.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sugar-dispenser",
+  "category": "bakery",
+  "draw": "Glass jar with a metal lid and a slanted pouring spout.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "rolling-pin",
+  "category": "bakery",
+  "draw": "Cylindrical rolling pin with two handles lying on a flat sheet of dough.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "piping-bag",
+  "category": "bakery",
+  "draw": "Cone-shaped bag with a star nozzle at the tip squeezing out a swirl of icing.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "piping-tip",
+  "category": "bakery",
+  "draw": "Small metal cone nozzle with a star-shaped serrated opening.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cookie-cutter",
+  "category": "bakery",
+  "draw": "Outline of a metal cutter shaped like a gingerbread figure with a rolled edge.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "doughnut-cutter",
+  "category": "bakery",
+  "draw": "Round cutter with an inner ring for the hole and a handle across the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "muffin-tin",
+  "category": "bakery",
+  "draw": "Rectangular pan seen from above with a grid of six round cups.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "loaf-pan",
+  "category": "bakery",
+  "draw": "Deep rectangular pan with slightly flared sides seen at an angle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bundt-pan",
+  "category": "bakery",
+  "draw": "Round fluted ring pan with a central tube seen at an angle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "springform-pan",
+  "category": "bakery",
+  "draw": "Round pan with straight sides and a clamp latch on its side.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cake-pan",
+  "category": "bakery",
+  "draw": "Round shallow straight-sided pan seen at an angle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "tart-pan",
+  "category": "bakery",
+  "draw": "Shallow round pan with a fluted rim.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pie-dish",
+  "category": "bakery",
+  "draw": "Shallow round dish with a wide rim and sloped sides.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "baking-sheet",
+  "category": "bakery",
+  "draw": "Flat rectangular sheet pan with a rim holding round cookies in rows.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cooling-rack",
+  "category": "bakery",
+  "draw": "Rectangular wire grid on short feet holding a couple of cookies.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "flour-sifter",
+  "category": "bakery",
+  "draw": "Cylindrical cup sifter with a side crank handle and flour falling through a mesh bottom.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pastry-brush",
+  "category": "bakery",
+  "draw": "Short brush with a wooden handle and flat bristles.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bench-scraper",
+  "category": "bakery",
+  "draw": "Flat rectangular metal blade with a rolled handle along one long edge.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pastry-wheel",
+  "category": "bakery",
+  "draw": "Handle with a small fluted cutting wheel at its end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pastry-blender",
+  "category": "bakery",
+  "draw": "Handle with several curved U-shaped wires for cutting in butter.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "proofing-basket",
+  "category": "bakery",
+  "draw": "Round proofing basket with concentric coil rings seen from above at an angle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bread-lame",
+  "category": "bakery",
+  "draw": "Small straight handle holding a curved razor blade for scoring dough.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "dough-hook",
+  "category": "bakery",
+  "draw": "Spiral hook-shaped mixer attachment with a round coupling at the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "offset-spatula",
+  "category": "bakery",
+  "draw": "Long thin rounded blade with a bent neck and a handle, smoothing frosting.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cake-turntable",
+  "category": "bakery",
+  "draw": "Flat round rotating top on a short base with a curved arrow.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cake-stand",
+  "category": "bakery",
+  "draw": "Round plate on a single tall pedestal foot holding a cake.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "tiered-stand",
+  "category": "bakery",
+  "draw": "Three round plates stacked on a central rod with a looped handle on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cake-carrier",
+  "category": "bakery",
+  "draw": "Round lidded cake container with a folding carry handle over the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cupcake-liner",
+  "category": "bakery",
+  "draw": "Empty pleated paper cup with flared ridged sides.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "doily",
+  "category": "bakery",
+  "draw": "Round lace paper mat with a scalloped edge and a ring of cut-out holes.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pastry-box",
+  "category": "bakery",
+  "draw": "Folded cardboard cake box with a window and string tied in a bow on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "donut-box",
+  "category": "bakery",
+  "draw": "Long box with its lid flipped open showing two rows of ring doughnuts.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bakery-bag",
+  "category": "bakery",
+  "draw": "Paper bag with a folded rim and two baguettes sticking out of the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bread-box",
+  "category": "bakery",
+  "draw": "Box with a rolled-up tambour lid opening to show a loaf inside.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bread-basket",
+  "category": "bakery",
+  "draw": "Woven oval basket lined with a cloth holding a few rolls.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bread-machine",
+  "category": "bakery",
+  "draw": "Boxy countertop appliance with a hinged lid window showing a loaf inside.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "toast-rack",
+  "category": "bakery",
+  "draw": "Small metal rack with arched dividers holding three upright slices of toast.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pastry-display",
+  "category": "bakery",
+  "draw": "Glass-fronted counter case with two shelves of cakes and pastries.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bakery-shop",
+  "category": "bakery",
+  "draw": "Small shopfront with a scalloped awning, a window display and a loaf sign.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "choux-swan",
+  "category": "bakery",
+  "draw": "Cream puff shaped like a swan: a round cream body with wing-shaped pastry halves and a thin curved S-shaped neck.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cupcake-tower",
+  "category": "bakery",
+  "draw": "Tiered round stand holding rows of cupcakes arranged in a pyramid.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "candy-bag",
+  "category": "bakery",
+  "draw": "Striped paper bag with its top open and round sweets and a lollipop peeking out.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mint-tin",
+  "category": "bakery",
+  "draw": "Small flat rectangular tin with its hinged lid open showing oval mints inside.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "milk-splash",
+  "category": "bakery",
+  "draw": "Crown-shaped splash of milk with droplets flying up from a flat pool.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "milk-powder",
+  "category": "bakery",
+  "draw": "Round tin with its lid off, a scoop resting on a heap of fine powder.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "condensed-milk",
+  "category": "bakery",
+  "draw": "Short can with a punched hole in its lid and a thick ribbon of milk pouring out.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "twin-popsicle",
+  "category": "bakery",
+  "draw": "Rectangular ice pop split down the middle with two wooden sticks at the base.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "rocket-popsicle",
+  "category": "bakery",
+  "draw": "Ice pop in three stacked tiers narrowing to a pointed tip, on a wooden stick.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "monkey-bread",
+  "category": "bakery",
+  "draw": "Ring-shaped loaf built from many small round dough balls stuck together.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bread-wreath",
+  "category": "bakery",
+  "draw": "Round braided ring of bread with a visible twisted plait running all the way around.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cookie-press",
+  "category": "bakery",
+  "draw": "Tube-shaped hand press with a trigger handle pushing a shaped cookie out of the nozzle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pyramid-cheese",
+  "category": "bakery",
+  "draw": "Squat four-sided cheese pyramid with a flat cut top and a dusted rind.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "provolone",
+  "category": "bakery",
+  "draw": "Pear-shaped cheese hanging from a rope tied around its narrow neck.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "melon-pan",
+  "category": "bakery",
+  "draw": "Round domed sweet bun with a crisp top scored in a crosshatch grid.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "princess-cake",
+  "category": "bakery",
+  "draw": "Smooth dome-shaped cake covered in a marzipan layer with a single rose on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "tomato-paste-tube",
+  "category": "bakery",
+  "draw": "Squeezable metal food tube with a screw cap and its flat end rolled up.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cake-decorating",
+  "category": "bakery",
+  "draw": "Piping bag held over a round cake piping a swirl onto its top edge.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cake-cutting",
+  "category": "bakery",
+  "draw": "Round tiered cake with a knife blade pushed into it from above.",
+  "domain": "bakery-sweets-dairy"
+ }
+]

@@ -1,0 +1,1182 @@
+[
+  {
+    "name": "product-variants",
+    "category": "retail",
+    "draw": "Three identical T-shirt silhouettes side by side, one filled, one outlined and one hatched to show colour options."
+  },
+  {
+    "name": "size-guide",
+    "category": "retail",
+    "draw": "Folded T-shirt with a horizontal ruler across its chest and small tick marks along the ruler."
+  },
+  {
+    "name": "size-selector",
+    "category": "retail",
+    "draw": "Row of three rounded square chips labelled S, M and L, with the middle chip filled."
+  },
+  {
+    "name": "fit-scale",
+    "category": "retail",
+    "draw": "Horizontal slider line with a knob in the middle and a small shoe outline above each end."
+  },
+  {
+    "name": "virtual-try-on",
+    "category": "retail",
+    "draw": "Smartphone showing a face outline wearing a pair of glasses with sparkle marks beside the frame."
+  },
+  {
+    "name": "digital-product",
+    "category": "retail",
+    "draw": "Box outline with a download arrow pointing down into its open top."
+  },
+  {
+    "name": "print-on-demand",
+    "category": "retail",
+    "draw": "T-shirt outline with a small printer head above it spraying a square design onto the chest."
+  },
+  {
+    "name": "wholesale",
+    "category": "retail",
+    "draw": "Stacked pallet of three rows of boxes with a large price tag hanging from the top corner."
+  },
+  {
+    "name": "marketplace",
+    "category": "retail",
+    "draw": "Three small shop awnings side by side on one long counter, each awning a different stripe pattern."
+  },
+  {
+    "name": "delivery-slot",
+    "category": "retail",
+    "draw": "Calendar page with one grid cell filled and a tiny parcel box drawn inside that cell."
+  },
+  {
+    "name": "sort-by-price",
+    "category": "retail",
+    "draw": "Price tag with a pair of stacked up and down sort arrows beside it."
+  },
+  {
+    "name": "pre-order",
+    "category": "retail",
+    "draw": "Parcel box with a calendar page leaning against its front and a small arrow pointing to the box."
+  },
+  {
+    "name": "sold-out-sign",
+    "category": "retail",
+    "draw": "Rectangular sign hanging on two strings with a bold diagonal band across its face."
+  },
+  {
+    "name": "new-arrival-tag",
+    "category": "retail",
+    "draw": "Pointed swing tag with a small eight point burst star on its face and a looped string."
+  },
+  {
+    "name": "bestseller-ribbon",
+    "category": "retail",
+    "draw": "Rosette badge with two ribbon tails and a small upward trend line inside the circle."
+  },
+  {
+    "name": "limited-edition",
+    "category": "retail",
+    "draw": "Round seal with a scalloped edge and a small number 1 above a short line inside it."
+  },
+  {
+    "name": "strikethrough-price",
+    "category": "retail",
+    "draw": "Price tag with a larger number crossed out by a diagonal line and a smaller number below it."
+  },
+  {
+    "name": "price-drop",
+    "category": "retail",
+    "draw": "Price tag with a bold downward arrow overlapping its lower right corner."
+  },
+  {
+    "name": "price-match",
+    "category": "retail",
+    "draw": "Two price tags side by side with an equals sign between them."
+  },
+  {
+    "name": "unit-price-label",
+    "category": "retail",
+    "draw": "Small rectangular shelf label split in two, a large price on the left and a small per kilogram box on the right."
+  },
+  {
+    "name": "price-sticker",
+    "category": "retail",
+    "draw": "Round peel off sticker with a price dash on it and one edge lifting away from the backing."
+  },
+  {
+    "name": "security-spider-wrap",
+    "category": "retail",
+    "draw": "Box wrapped with crossing cables in an X pattern that meet at a small square lock on top."
+  },
+  {
+    "name": "full-cart",
+    "category": "retail",
+    "draw": "Shopping cart seen from the side with boxes and a bottle piled above the basket rim."
+  },
+  {
+    "name": "one-click-buy",
+    "category": "retail",
+    "draw": "Rounded button with a mouse pointer clicking it and a small lightning bolt beside the pointer."
+  },
+  {
+    "name": "express-checkout",
+    "category": "retail",
+    "draw": "Shopping cart with a lightning bolt on the basket and speed lines behind it."
+  },
+  {
+    "name": "guest-checkout",
+    "category": "retail",
+    "draw": "Dashed outline of a person head and shoulders beside a small shopping cart."
+  },
+  {
+    "name": "order-summary",
+    "category": "retail",
+    "draw": "Receipt style sheet with three item lines, a divider and a bold total line at the bottom."
+  },
+  {
+    "name": "buy-button",
+    "category": "retail",
+    "draw": "Wide pill shaped button with a small shopping bag icon on its left and a text dash on its right."
+  },
+  {
+    "name": "car-shaped-shopping-cart",
+    "category": "retail",
+    "draw": "Shopping cart with a toy car body attached to its front, showing a steering wheel and round headlights."
+  },
+  {
+    "name": "flatbed-cart",
+    "category": "retail",
+    "draw": "Low flat platform cart on four casters with a tall upright handle frame at one end, loaded with long boards."
+  },
+  {
+    "name": "stacked-shopping-carts",
+    "category": "retail",
+    "draw": "Three shopping carts nested into each other in a row, seen from the side."
+  },
+  {
+    "name": "cart-token",
+    "category": "retail",
+    "draw": "Round coin sized token with a hole at the top attached to a key ring."
+  },
+  {
+    "name": "checkout-divider-bar",
+    "category": "retail",
+    "draw": "Long triangular prism bar lying on a conveyor belt strip between two small items."
+  },
+  {
+    "name": "bagging-area",
+    "category": "retail",
+    "draw": "Flat scale platform with a shopping bag standing on it and a small arrow pointing down."
+  },
+  {
+    "name": "express-lane-sign",
+    "category": "retail",
+    "draw": "Tall pole sign above a counter showing a small basket and a number 10 below it."
+  },
+  {
+    "name": "checkout-lane-number",
+    "category": "retail",
+    "draw": "Tall slim pole topped with a lit box showing the number 3 and light rays around it."
+  },
+  {
+    "name": "pole-display",
+    "category": "retail",
+    "draw": "Small two line customer display screen mounted on top of a thin pole with a round base."
+  },
+  {
+    "name": "change-tray",
+    "category": "retail",
+    "draw": "Shallow rounded tray seen at an angle holding two coins and a folded banknote."
+  },
+  {
+    "name": "tipping-screen",
+    "category": "retail",
+    "draw": "Tablet screen showing three rounded buttons in a row with percent signs on them."
+  },
+  {
+    "name": "tablet-pos-stand",
+    "category": "retail",
+    "draw": "Tablet mounted on a swivel stand with a square card reader attached to its side."
+  },
+  {
+    "name": "pos-workstation",
+    "category": "retail",
+    "draw": "Monitor on a stand above a cash drawer with a small receipt printer beside it."
+  },
+  {
+    "name": "wrist-payment",
+    "category": "retail",
+    "draw": "Smartwatch on a strap with contactless wave arcs coming out of its face."
+  },
+  {
+    "name": "virtual-card",
+    "category": "retail",
+    "draw": "Payment card drawn with a dashed outline and a small cloud symbol in its corner."
+  },
+  {
+    "name": "card-security-code",
+    "category": "retail",
+    "draw": "Back of a payment card with a dark magnetic stripe and a small box of three dots on the signature strip."
+  },
+  {
+    "name": "layaway",
+    "category": "retail",
+    "draw": "Parcel box on a shelf with a hanging tag and a small calendar page leaning against it."
+  },
+  {
+    "name": "split-tender",
+    "category": "retail",
+    "draw": "Payment card and a banknote overlapping, with a vertical dashed line dividing them in half."
+  },
+  {
+    "name": "card-charge-slip",
+    "category": "retail",
+    "draw": "Narrow paper slip with a card number dash line, an amount box and a signature squiggle at the bottom."
+  },
+  {
+    "name": "mobile-wallet",
+    "category": "retail",
+    "draw": "Smartphone with a folded wallet shape and a card peeking out of it on the screen."
+  },
+  {
+    "name": "payment-gateway",
+    "category": "retail",
+    "draw": "Payment card on the left, an arch shaped gate in the middle and a bank building on the right, joined by an arrow."
+  },
+  {
+    "name": "chargeback",
+    "category": "retail",
+    "draw": "Payment card with a curved arrow looping back from its right edge to its left edge."
+  },
+  {
+    "name": "payment-methods",
+    "category": "retail",
+    "draw": "Payment card, a banknote and a smartphone fanned out and overlapping."
+  },
+  {
+    "name": "partial-refund",
+    "category": "retail",
+    "draw": "Coin with one half filled and a curved return arrow wrapping around the empty half."
+  },
+  {
+    "name": "merchant-payout",
+    "category": "retail",
+    "draw": "Shop awning above a coin with a downward arrow leading into a bank building outline."
+  },
+  {
+    "name": "sales-commission",
+    "category": "retail",
+    "draw": "Hand palm up receiving a small coin marked with a percent sign."
+  },
+  {
+    "name": "round-up-donation",
+    "category": "retail",
+    "draw": "Coin with an upward arrow above it dropping into a small box with a heart on the front."
+  },
+  {
+    "name": "multi-currency-pricing",
+    "category": "retail",
+    "draw": "Price tag with two small overlapping coins in its corner, each showing a different generic currency mark."
+  },
+  {
+    "name": "bill-acceptor",
+    "category": "retail",
+    "draw": "Front panel with a narrow horizontal slot and a banknote half inserted, green light dot above."
+  },
+  {
+    "name": "cash-only-sign",
+    "category": "retail",
+    "draw": "Small hanging sign showing a banknote with a small crossed out card beneath it."
+  },
+  {
+    "name": "loyalty-punch-card",
+    "category": "retail",
+    "draw": "Rectangular card with a row of ten small circles, the first six punched out as holes."
+  },
+  {
+    "name": "loyalty-tiers",
+    "category": "retail",
+    "draw": "Three stacked horizontal bars of increasing width like steps, a small crown on the top bar."
+  },
+  {
+    "name": "redeem-points",
+    "category": "retail",
+    "draw": "Coin with a star flowing along a curved arrow into a wrapped gift box."
+  },
+  {
+    "name": "loyalty-key-tag",
+    "category": "retail",
+    "draw": "Small rounded card with a barcode on it and a hole at one end threaded onto a key ring."
+  },
+  {
+    "name": "double-points",
+    "category": "retail",
+    "draw": "Coin with a star on its face and a bold multiplication sign with the number 2 beside it."
+  },
+  {
+    "name": "gift-with-purchase",
+    "category": "retail",
+    "draw": "Shopping bag with a small wrapped gift box and bow sitting on top of it."
+  },
+  {
+    "name": "free-sample-tray",
+    "category": "retail",
+    "draw": "Round serving tray holding three tiny paper cups with toothpicks sticking up from them."
+  },
+  {
+    "name": "perfume-tester-strip",
+    "category": "retail",
+    "draw": "Thin paper blotter strip held upright with scent wave lines rising from its tip beside a small spray bottle."
+  },
+  {
+    "name": "flash-sale",
+    "category": "retail",
+    "draw": "Price tag with a large lightning bolt across its face."
+  },
+  {
+    "name": "promo-starburst",
+    "category": "retail",
+    "draw": "Jagged starburst sticker shape with a percent sign in the middle."
+  },
+  {
+    "name": "bulk-discount",
+    "category": "retail",
+    "draw": "Three stacked boxes with a percent sign tag hanging from the top box."
+  },
+  {
+    "name": "mail-in-rebate",
+    "category": "retail",
+    "draw": "Envelope with a coin and a curved return arrow coming out of its flap."
+  },
+  {
+    "name": "daily-deal",
+    "category": "retail",
+    "draw": "Calendar page with a price tag hanging from its top ring."
+  },
+  {
+    "name": "giveaway",
+    "category": "retail",
+    "draw": "Open gift box with confetti pieces and small stars bursting out of the top."
+  },
+  {
+    "name": "coupon-booklet",
+    "category": "retail",
+    "draw": "Small booklet with a perforated dashed edge tearing off a coupon strip at the front."
+  },
+  {
+    "name": "price-freeze",
+    "category": "retail",
+    "draw": "Price tag with a snowflake drawn on its face."
+  },
+  {
+    "name": "satisfaction-guarantee",
+    "category": "retail",
+    "draw": "Round seal with a scalloped edge and a smiling face in the centre."
+  },
+  {
+    "name": "buyer-protection",
+    "category": "retail",
+    "draw": "Shield outline with a shopping bag drawn inside it."
+  },
+  {
+    "name": "trial-size",
+    "category": "retail",
+    "draw": "Small travel sized bottle standing beside a full sized bottle of the same shape."
+  },
+  {
+    "name": "value-pack",
+    "category": "retail",
+    "draw": "Large box with a smaller box drawn in front of it and a burst tag on the corner."
+  },
+  {
+    "name": "featured-product",
+    "category": "retail",
+    "draw": "Product box on a low stand with spotlight rays shining down on it from above."
+  },
+  {
+    "name": "mobile-coupon",
+    "category": "retail",
+    "draw": "Smartphone with a ticket shaped coupon with notched sides shown on its screen."
+  },
+  {
+    "name": "endcap-display",
+    "category": "retail",
+    "draw": "Short shelf unit at the end of an aisle with a large header sign on top and boxes on each shelf."
+  },
+  {
+    "name": "pallet-display",
+    "category": "retail",
+    "draw": "Wooden pallet on the floor with a pyramid of stacked boxes on it and a tall sign stick in the middle."
+  },
+  {
+    "name": "aisle-marker-sign",
+    "category": "retail",
+    "draw": "Rectangular sign hanging from two ceiling wires with a large number on it."
+  },
+  {
+    "name": "window-display",
+    "category": "retail",
+    "draw": "Storefront window frame with a dress on a mannequin and a small price tag inside the glass."
+  },
+  {
+    "name": "gondola-shelving",
+    "category": "retail",
+    "draw": "Freestanding shelf unit seen from the end, four shelves on each side of a central upright back panel."
+  },
+  {
+    "name": "slatwall-panel",
+    "category": "retail",
+    "draw": "Wall panel of evenly spaced horizontal grooves with two hooks and a small shelf fixed into the slots."
+  },
+  {
+    "name": "peg-hook-display",
+    "category": "retail",
+    "draw": "Pegboard square with two long straight hooks sticking out, each holding a hanging blister pack."
+  },
+  {
+    "name": "hat-display-stand",
+    "category": "retail",
+    "draw": "Tall pole stand with three round caps on short arms at different heights."
+  },
+  {
+    "name": "eyewear-display-tower",
+    "category": "retail",
+    "draw": "Narrow vertical tower with four pairs of glasses resting on small ledges, one above another."
+  },
+  {
+    "name": "ring-display-tray",
+    "category": "retail",
+    "draw": "Shallow rectangular tray with rows of slots, three rings standing up in the slots."
+  },
+  {
+    "name": "watch-display-cushion",
+    "category": "retail",
+    "draw": "Small oval pillow with a wristwatch strap wrapped around it and the watch face on top."
+  },
+  {
+    "name": "earring-card",
+    "category": "retail",
+    "draw": "Small rectangular card with a hanging hole at the top and a pair of stud earrings pushed through it."
+  },
+  {
+    "name": "mannequin-hand",
+    "category": "retail",
+    "draw": "Upright hand shaped display form on a round base with a ring on one finger."
+  },
+  {
+    "name": "hosiery-leg-form",
+    "category": "retail",
+    "draw": "Single leg shaped display form standing on its toe, stretched stocking on it and a hook at the thigh top."
+  },
+  {
+    "name": "checkout-impulse-rack",
+    "category": "retail",
+    "draw": "Low slanted rack of small bins with candy bars and gum packs beside a checkout counter edge."
+  },
+  {
+    "name": "glass-door-cooler",
+    "category": "retail",
+    "draw": "Upright refrigerator with a full glass door, three shelves of bottles and a handle bar."
+  },
+  {
+    "name": "open-display-chiller",
+    "category": "retail",
+    "draw": "Tall open front refrigerated case with stepped shelves of packs and a curtain line at the top."
+  },
+  {
+    "name": "deli-counter",
+    "category": "retail",
+    "draw": "Curved glass front counter with trays of sliced meat inside and a scale on top."
+  },
+  {
+    "name": "gravity-bin-dispenser",
+    "category": "retail",
+    "draw": "Clear vertical bin mounted on a wall with a lever handle at the bottom above a chute."
+  },
+  {
+    "name": "pick-and-mix-bins",
+    "category": "retail",
+    "draw": "Row of three clear bins with angled lids propped open, sweets inside and a small scoop hanging below."
+  },
+  {
+    "name": "live-seafood-tank",
+    "category": "retail",
+    "draw": "Glass tank with a lobster at the bottom, bubbles rising and a wavy water line at the top."
+  },
+  {
+    "name": "flower-bucket-stand",
+    "category": "retail",
+    "draw": "Tiered stand with three metal buckets on steps, bunches of flowers standing in each."
+  },
+  {
+    "name": "paint-chip-rack",
+    "category": "retail",
+    "draw": "Wall rack with rows of narrow colour strip cards standing in slots, each strip with three shade blocks."
+  },
+  {
+    "name": "lumber-rack",
+    "category": "retail",
+    "draw": "Tall metal rack with long wooden boards resting horizontally on cantilever arms."
+  },
+  {
+    "name": "rope-spool-rack",
+    "category": "retail",
+    "draw": "Frame holding three large spools of rope on a horizontal bar with the rope ends hanging down."
+  },
+  {
+    "name": "seed-packet-display",
+    "category": "retail",
+    "draw": "Small rack with rows of pockets each holding a seed packet showing a flower picture."
+  },
+  {
+    "name": "greeting-card-rack",
+    "category": "retail",
+    "draw": "Tiered rack with rows of folded greeting cards standing upright in pockets."
+  },
+  {
+    "name": "nail-polish-display",
+    "category": "retail",
+    "draw": "Stepped acrylic rack with three rows of small nail polish bottles."
+  },
+  {
+    "name": "clip-strip-display",
+    "category": "retail",
+    "draw": "Long vertical plastic strip with small snack bags clipped one below another and a hook at the top."
+  },
+  {
+    "name": "shirt-folding-board",
+    "category": "retail",
+    "draw": "Flat hinged board with three folding panels and a folded T-shirt outline beside it."
+  },
+  {
+    "name": "waterfall-display-arm",
+    "category": "retail",
+    "draw": "Sloped bar sticking out of a wall panel with small knobs along it and two hangers hooked on."
+  },
+  {
+    "name": "floor-shoe-mirror",
+    "category": "retail",
+    "draw": "Small low mirror angled upward on the floor with a shoe standing beside it."
+  },
+  {
+    "name": "makeup-tester-display",
+    "category": "retail",
+    "draw": "Sloped counter tray holding a row of lipsticks and round compact pans, with a small mirror at the back."
+  },
+  {
+    "name": "merchandise-table",
+    "category": "retail",
+    "draw": "Low table with stacks of folded shirts in piles and a small sign stand on the corner."
+  },
+  {
+    "name": "folded-shirt-stack",
+    "category": "retail",
+    "draw": "Stack of four neatly folded T-shirts seen from the front with collars showing on top."
+  },
+  {
+    "name": "ball-cage-display",
+    "category": "retail",
+    "draw": "Wire mesh cage bin on the floor filled with sports balls poking above the rim."
+  },
+  {
+    "name": "listening-station",
+    "category": "retail",
+    "draw": "Pair of headphones hanging on a stand with a small screen and a play button below."
+  },
+  {
+    "name": "rug-flip-rack",
+    "category": "retail",
+    "draw": "Wall mounted rack of hinged arms fanning out, each arm draped with a hanging rug."
+  },
+  {
+    "name": "can-pyramid-display",
+    "category": "retail",
+    "draw": "Pyramid of stacked cans, four on the bottom row rising to one on top."
+  },
+  {
+    "name": "acrylic-display-riser",
+    "category": "retail",
+    "draw": "Three clear stepped blocks of different heights with a small product on each step."
+  },
+  {
+    "name": "acrylic-sign-holder",
+    "category": "retail",
+    "draw": "Clear T shaped stand holding an upright card with text lines on the counter."
+  },
+  {
+    "name": "poster-floor-stand",
+    "category": "retail",
+    "draw": "Rectangular poster frame on a single post standing on a heavy round base."
+  },
+  {
+    "name": "phone-display-tether",
+    "category": "retail",
+    "draw": "Smartphone standing on a small puck base connected by a coiled security cable."
+  },
+  {
+    "name": "tag-detacher",
+    "category": "retail",
+    "draw": "Dome shaped magnetic device fixed on a counter with a round security tag pressed on top."
+  },
+  {
+    "name": "ice-merchandiser",
+    "category": "retail",
+    "draw": "Chest style outdoor freezer with double doors on the front and a snowflake on the panel."
+  },
+  {
+    "name": "paint-shaker",
+    "category": "retail",
+    "draw": "Boxy machine with a paint can clamped between two plates inside and motion lines on each side."
+  },
+  {
+    "name": "propane-exchange-cage",
+    "category": "retail",
+    "draw": "Metal mesh cage with a small door holding two rows of gas cylinders."
+  },
+  {
+    "name": "bread-slicer",
+    "category": "retail",
+    "draw": "Upright machine with a loaf of bread in a front slot and vertical blade lines behind it."
+  },
+  {
+    "name": "fitting-room-tag",
+    "category": "retail",
+    "draw": "Plastic tag shaped like a hanger hook with a large number 3 on its face."
+  },
+  {
+    "name": "shoe-fitting-stool",
+    "category": "retail",
+    "draw": "Low stool with a sloped foot rest ramp on its front edge."
+  },
+  {
+    "name": "hanger-size-divider",
+    "category": "retail",
+    "draw": "Round disc with a slot cut to the centre hung on a rail with the letter M on it."
+  },
+  {
+    "name": "electronic-shelf-label",
+    "category": "retail",
+    "draw": "Small rectangular digital label clipped to a shelf edge showing a price and a tiny barcode."
+  },
+  {
+    "name": "price-check-kiosk",
+    "category": "retail",
+    "draw": "Small wall mounted screen with a scanner window below it and a barcode beam line."
+  },
+  {
+    "name": "bag-carousel",
+    "category": "retail",
+    "draw": "Rotating stand with three shopping bags hanging open on arms around a central post."
+  },
+  {
+    "name": "boutique-bag",
+    "category": "retail",
+    "draw": "Stiff rectangular shopping bag with two twisted rope handles and a folded top edge."
+  },
+  {
+    "name": "u-boat-stocking-cart",
+    "category": "retail",
+    "draw": "Long narrow flat cart with two upturned ends like a boat and boxes stacked in the middle."
+  },
+  {
+    "name": "cart-wipes-dispenser",
+    "category": "retail",
+    "draw": "Upright stand holding a wipes canister with one wipe pulled up and a small bin at its base."
+  },
+  {
+    "name": "produce-bag-dispenser",
+    "category": "retail",
+    "draw": "Roll of thin plastic bags on a horizontal bar with one bag hanging down and being pulled."
+  },
+  {
+    "name": "chalkboard-price-card",
+    "category": "retail",
+    "draw": "Small chalkboard sign on a spike stuck into a pile of apples with a price dash on it."
+  },
+  {
+    "name": "store-hours-sign",
+    "category": "retail",
+    "draw": "Door sign on a string showing a clock face above three short lines of times."
+  },
+  {
+    "name": "self-order-kiosk",
+    "category": "retail",
+    "draw": "Tall slim kiosk with a large portrait touch screen showing a grid of tiles and a card slot below."
+  },
+  {
+    "name": "customer-service-desk",
+    "category": "retail",
+    "draw": "Counter desk with a round question mark sign hanging above it."
+  },
+  {
+    "name": "antique-cash-register",
+    "category": "retail",
+    "draw": "Ornate old cash register with a tall number flag window on top, a crank handle and piano style keys."
+  },
+  {
+    "name": "inventory-handheld",
+    "category": "retail",
+    "draw": "Rugged handheld computer with a screen, a small keypad and a scanning beam from its top edge."
+  },
+  {
+    "name": "cart-escalator",
+    "category": "retail",
+    "draw": "Inclined moving walkway strip with a shopping cart riding up it at an angle."
+  },
+  {
+    "name": "smart-shopping-cart",
+    "category": "retail",
+    "draw": "Shopping cart with a small screen mounted on the handle and a scan beam from the screen."
+  },
+  {
+    "name": "kids-shopping-cart",
+    "category": "retail",
+    "draw": "Small child sized shopping cart with a tall flag pole sticking up from the back."
+  },
+  {
+    "name": "wheelchair-shopping-cart",
+    "category": "retail",
+    "draw": "Wheelchair seen from the side with a shopping basket frame attached to its front."
+  },
+  {
+    "name": "produce-plu-sticker",
+    "category": "retail",
+    "draw": "Apple with a small oval sticker on its side showing a four digit number dash."
+  },
+  {
+    "name": "bulk-refill-dispenser",
+    "category": "retail",
+    "draw": "Row of three pump dispensers on a wall with a glass jar underneath the middle nozzle."
+  },
+  {
+    "name": "photo-kiosk",
+    "category": "retail",
+    "draw": "Standing kiosk with a touch screen showing a picture and a printed photo coming out of a slot below."
+  },
+  {
+    "name": "movie-rental-kiosk",
+    "category": "retail",
+    "draw": "Tall vending kiosk with a screen on the side panel and a thin disc slot below it."
+  },
+  {
+    "name": "windowed-box-packaging",
+    "category": "retail",
+    "draw": "Product box with a clear cut out window on the front showing a small toy inside."
+  },
+  {
+    "name": "gift-wrap-roll",
+    "category": "retail",
+    "draw": "Roll of patterned wrapping paper partly unrolled with a ribbon and bow beside it."
+  },
+  {
+    "name": "refurbished-item",
+    "category": "retail",
+    "draw": "Box with a small wrench crossed over a circular recycle arrow on its front."
+  },
+  {
+    "name": "return-authorization",
+    "category": "retail",
+    "draw": "Form with a checkbox list and a large curved return arrow stamped in its corner."
+  },
+  {
+    "name": "footfall-counter",
+    "category": "retail",
+    "draw": "Door frame with a small sensor box above it and a person silhouette walking through with a number counter."
+  },
+  {
+    "name": "shoplifting",
+    "category": "retail",
+    "draw": "Hand slipping a small box into an open coat pocket with dashed motion lines."
+  },
+  {
+    "name": "mystery-shopper",
+    "category": "retail",
+    "draw": "Person in a brimmed hat and sunglasses holding a clipboard and a shopping bag."
+  },
+  {
+    "name": "price-history",
+    "category": "retail",
+    "draw": "Price tag with a small line chart zigzag drawn across its face."
+  },
+  {
+    "name": "handmade-goods",
+    "category": "retail",
+    "draw": "Knitted item with a small hand stitched tag showing a heart."
+  },
+  {
+    "name": "waitlist",
+    "category": "retail",
+    "draw": "Clipboard list with three rows, each row a small person head and a line."
+  },
+  {
+    "name": "product-configurator",
+    "category": "retail",
+    "draw": "Product box beside three horizontal slider lines with knobs in different positions."
+  },
+  {
+    "name": "cross-sell",
+    "category": "retail",
+    "draw": "Central box with two small arrows pointing outward to two smaller boxes on either side."
+  },
+  {
+    "name": "omnichannel",
+    "category": "retail",
+    "draw": "Shop front, laptop and smartphone arranged in a triangle joined by connecting lines."
+  },
+  {
+    "name": "price-range-filter",
+    "category": "retail",
+    "draw": "Horizontal slider track with two round knobs and the section between them filled."
+  },
+  {
+    "name": "voice-shopping",
+    "category": "retail",
+    "draw": "Cylindrical smart speaker with sound waves and a small shopping cart beside it."
+  },
+  {
+    "name": "tv-shopping",
+    "category": "retail",
+    "draw": "Television screen showing a product box and a telephone handset beside the set."
+  },
+  {
+    "name": "ship-from-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a delivery truck driving away from its door."
+  },
+  {
+    "name": "order-pickup-shelf",
+    "category": "retail",
+    "draw": "Shelf unit with bagged orders on it, each bag with a small name tag."
+  },
+  {
+    "name": "haggling",
+    "category": "retail",
+    "draw": "Two hands facing each other with a price tag between them and small back and forth arrows."
+  },
+  {
+    "name": "department-store",
+    "category": "retail",
+    "draw": "Wide multi storey store building with rows of windows, a flat roof sign and a large entrance."
+  },
+  {
+    "name": "convenience-store",
+    "category": "retail",
+    "draw": "Small shop front with a wide window, an awning and a sign showing a clock with 24."
+  },
+  {
+    "name": "boutique",
+    "category": "retail",
+    "draw": "Narrow elegant shop front with an arched window displaying a dress and a hanging sign."
+  },
+  {
+    "name": "pop-up-shop",
+    "category": "retail",
+    "draw": "Folding tent canopy over a small table with goods and a hanging banner along the front."
+  },
+  {
+    "name": "hardware-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a hammer and wrench crossed on the sign."
+  },
+  {
+    "name": "pet-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a paw print on the sign."
+  },
+  {
+    "name": "garden-center",
+    "category": "retail",
+    "draw": "Greenhouse style building with a pitched glass roof and potted plants by the door."
+  },
+  {
+    "name": "bridal-shop",
+    "category": "retail",
+    "draw": "Shop front with a large window showing a wedding dress and a small heart on the sign."
+  },
+  {
+    "name": "cheese-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a wedge of cheese with holes on the sign."
+  },
+  {
+    "name": "beauty-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a lipstick on the sign."
+  },
+  {
+    "name": "optical-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a large pair of glasses on the sign."
+  },
+  {
+    "name": "gift-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a wrapped gift box with bow on the sign."
+  },
+  {
+    "name": "general-store",
+    "category": "retail",
+    "draw": "Old wooden shop front with a porch, a pitched false front and two barrels by the door."
+  },
+  {
+    "name": "bazaar",
+    "category": "retail",
+    "draw": "Row of pointed arches with hanging lanterns and draped fabric stalls beneath them."
+  },
+  {
+    "name": "fabric-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a spool of thread with a needle on the sign."
+  },
+  {
+    "name": "craft-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a paintbrush crossed with scissors on the sign."
+  },
+  {
+    "name": "big-box-store",
+    "category": "retail",
+    "draw": "Wide low windowless warehouse building with a large sign band and a shopping cart by the entrance."
+  },
+  {
+    "name": "strip-mall",
+    "category": "retail",
+    "draw": "Row of four connected single storey shop fronts with a shared flat roof and parking lines in front."
+  },
+  {
+    "name": "high-street",
+    "category": "retail",
+    "draw": "Street in perspective lined with shop fronts and awnings on both sides."
+  },
+  {
+    "name": "hat-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a top hat on the sign."
+  },
+  {
+    "name": "party-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a bunch of three balloons on the sign."
+  },
+  {
+    "name": "baby-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a baby stroller on the sign."
+  },
+  {
+    "name": "appliance-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a front loading washing machine on the sign."
+  },
+  {
+    "name": "tea-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a teapot on the sign."
+  },
+  {
+    "name": "showroom",
+    "category": "retail",
+    "draw": "Room corner with a sofa and floor lamp on a platform and a price tag hanging from the sofa arm."
+  },
+  {
+    "name": "flea-market",
+    "category": "retail",
+    "draw": "Row of folding tables under small tents with assorted items and a hanging price tag."
+  },
+  {
+    "name": "health-food-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and an apple with a leaf on the sign."
+  },
+  {
+    "name": "kitchenware-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a cooking pot with a lid on the sign."
+  },
+  {
+    "name": "lighting-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a hanging pendant lamp on the sign."
+  },
+  {
+    "name": "outdoor-gear-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a small tent on the sign."
+  },
+  {
+    "name": "surf-shop",
+    "category": "retail",
+    "draw": "Small beach shack shop front with a surfboard leaning upright beside the door."
+  },
+  {
+    "name": "spice-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a mortar and pestle on the sign."
+  },
+  {
+    "name": "hobby-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a small model airplane on the sign."
+  },
+  {
+    "name": "comic-book-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a jagged speech bubble on the sign."
+  },
+  {
+    "name": "discount-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a large percent sign on the sign."
+  },
+  {
+    "name": "auction-house",
+    "category": "retail",
+    "draw": "Classical building front with columns and a gavel on the pediment sign."
+  },
+  {
+    "name": "mall-kiosk",
+    "category": "retail",
+    "draw": "Island kiosk with a curved counter on all sides, a central display column and a canopy on top."
+  },
+  {
+    "name": "food-court",
+    "category": "retail",
+    "draw": "Row of three small counter fronts with awnings and a table with two chairs in front."
+  },
+  {
+    "name": "assistance-call-button",
+    "category": "retail",
+    "draw": "Small wall box on a shelf edge with a large round button and a bell symbol above it."
+  },
+  {
+    "name": "gift-set",
+    "category": "retail",
+    "draw": "Open box with a divided insert holding two small bottles and a jar."
+  },
+  {
+    "name": "coin-counting-tray",
+    "category": "retail",
+    "draw": "Triangular tray with parallel grooves holding rows of coins lying edge to edge."
+  },
+  {
+    "name": "store-brand",
+    "category": "retail",
+    "draw": "Plain box with a simple label band and a small shop awning mark on the label."
+  },
+  {
+    "name": "made-to-measure",
+    "category": "retail",
+    "draw": "Shirt outline with a tape measure draped around its collar and chest."
+  },
+  {
+    "name": "engraving-service",
+    "category": "retail",
+    "draw": "Ring lying flat with a fine pointed engraving tool tip touching its inner band and a spark."
+  },
+  {
+    "name": "parking-validation",
+    "category": "retail",
+    "draw": "Parking ticket being stamped by a small round stamp with a check mark imprint."
+  },
+  {
+    "name": "order-form",
+    "category": "retail",
+    "draw": "Paper form with a small box drawing at the top and three rows with checkboxes and quantity boxes."
+  },
+  {
+    "name": "coupon-organizer",
+    "category": "retail",
+    "draw": "Accordion file folder expanded open with coupon tickets sticking out of its pockets."
+  },
+  {
+    "name": "security-label-sticker",
+    "category": "retail",
+    "draw": "Square sticker with a flat spiral coil pattern printed on it and a barcode strip below."
+  },
+  {
+    "name": "bottle-security-cap",
+    "category": "retail",
+    "draw": "Wine bottle neck with a bulky locking cap clamped over the top and a small keyhole on its side."
+  },
+  {
+    "name": "cart-coin-mechanism",
+    "category": "retail",
+    "draw": "Small box clamped to a shopping cart handle with a coin slot on top and a short chain with a key hanging from it."
+  },
+  {
+    "name": "in-counter-scanner",
+    "category": "retail",
+    "draw": "Flat glass window set into a counter top with a vertical glass panel behind it and crossing laser lines on the glass."
+  },
+  {
+    "name": "frame-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and an empty picture frame on the sign."
+  },
+  {
+    "name": "fishing-tackle-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a fishing hook with a small float on the sign."
+  },
+  {
+    "name": "umbrella-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and an open umbrella on the sign."
+  },
+  {
+    "name": "luggage-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a wheeled suitcase on the sign."
+  },
+  {
+    "name": "watch-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a wristwatch on the sign."
+  },
+  {
+    "name": "mattress-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a thick mattress with quilted lines on the sign."
+  },
+  {
+    "name": "carpet-store",
+    "category": "retail",
+    "draw": "Shop front with an awning and a partly rolled carpet on the sign."
+  },
+  {
+    "name": "costume-shop",
+    "category": "retail",
+    "draw": "Shop front with an awning and a masquerade mask on the sign."
+  },
+  {
+    "name": "tag-fastener",
+    "category": "retail",
+    "draw": "Thin plastic filament with a small T shaped bar at one end and a flat paddle at the other, holding a tiny tag."
+  },
+  {
+    "name": "group-buying",
+    "category": "retail",
+    "draw": "Three person heads side by side above one shared shopping cart."
+  },
+  {
+    "name": "feedback-kiosk",
+    "category": "retail",
+    "draw": "Short post with a sloped top panel holding four round buttons, each with a face from frowning to smiling."
+  },
+  {
+    "name": "self-scan-handset-rack",
+    "category": "retail",
+    "draw": "Wall rack of charging slots holding a row of handheld scanners, one lifted halfway out."
+  },
+  {
+    "name": "tiered-discount",
+    "category": "retail",
+    "draw": "Three price tags in a rising staircase row, each with a percent sign and each larger than the one before."
+  },
+  {
+    "name": "christmas-market",
+    "category": "retail",
+    "draw": "Small wooden chalet stall with a pointed roof, a star on top and string lights along the eaves."
+  }
+]

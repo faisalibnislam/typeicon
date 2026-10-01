@@ -1,0 +1,1602 @@
+{
+ "sandstorm": {
+  "context": "Curling wind streaks and flying sand grains above a dune. Used for desert weather warnings, dust alerts and travel conditions.",
+  "keywords": [
+   "dust storm",
+   "haboob",
+   "sand storm",
+   "blowing sand",
+   "desert wind",
+   "desert weather",
+   "dust",
+   "dune",
+   "wind",
+   "visibility",
+   "air quality",
+   "weather warning",
+   "sirocco",
+   "simoom",
+   "sahara",
+   "storm alert"
+  ]
+ },
+ "waterspout": {
+  "context": "A funnel cloud hanging from a storm cloud down to choppy sea waves. Used for marine forecasts, boating warnings and storm guides.",
+  "keywords": [
+   "tornado over water",
+   "funnel cloud",
+   "sea tornado",
+   "marine weather",
+   "boating warning",
+   "twister",
+   "storm",
+   "ocean",
+   "waves",
+   "severe weather",
+   "cyclone",
+   "sea spout",
+   "coast",
+   "forecast",
+   "maritime hazard"
+  ]
+ },
+ "ball-lightning": {
+  "context": "A glowing ball with jagged sparks crackling away from it. Used for rare weather phenomena, electricity and thunderstorm content.",
+  "keywords": [
+   "lightning ball",
+   "plasma orb",
+   "electric ball",
+   "glowing sphere",
+   "thunderstorm",
+   "storm",
+   "lightning",
+   "spark",
+   "electricity",
+   "rare weather",
+   "strange light",
+   "st elmo",
+   "energy",
+   "orb",
+   "weather phenomenon"
+  ]
+ },
+ "mirage": {
+  "context": "An upside down palm tree floating above a desert horizon with shimmer lines below. Used for illusions, heat haze and desert scenes.",
+  "keywords": [
+   "desert mirage",
+   "heat haze",
+   "heat shimmer",
+   "optical illusion",
+   "oasis",
+   "palm tree",
+   "reflection",
+   "illusion",
+   "desert",
+   "horizon",
+   "hallucination",
+   "refraction",
+   "fata morgana",
+   "hot air",
+   "false image"
+  ]
+ },
+ "moon-halo": {
+  "context": "A crescent moon inside a large thin ring of light. Used for night weather notes, ice crystal halos and moon gazing.",
+  "keywords": [
+   "lunar halo",
+   "ring around moon",
+   "moon ring",
+   "ice crystals",
+   "cirrus",
+   "night sky",
+   "weather sign",
+   "22 degree halo",
+   "moon",
+   "halo",
+   "crescent",
+   "atmospheric optics",
+   "rain sign",
+   "glow",
+   "sky phenomenon"
+  ]
+ },
+ "jet-stream": {
+  "context": "A globe with a wavy band of fast wind running across it and ending in an arrow. Used for upper air forecasts, flight routes and climate explainers.",
+  "keywords": [
+   "high altitude wind",
+   "upper atmosphere",
+   "wind current",
+   "air current",
+   "polar vortex",
+   "weather pattern",
+   "meteorology",
+   "global wind",
+   "flight route",
+   "forecast",
+   "climate",
+   "atmosphere",
+   "west to east",
+   "wind band",
+   "earth wind"
+  ]
+ },
+ "mercury-planet": {
+  "context": "A small cratered planet disc. Used for solar system guides, planet lists and science lessons about the closest planet to the sun.",
+  "keywords": [
+   "mercury",
+   "planet",
+   "innermost planet",
+   "solar system",
+   "craters",
+   "rocky planet",
+   "inner planet",
+   "astronomy",
+   "closest to sun",
+   "space",
+   "science class",
+   "terrestrial planet",
+   "small planet",
+   "pitted world"
+  ]
+ },
+ "venus-planet": {
+  "context": "A planet disc wrapped in thick swirling cloud bands. Used for solar system guides and lessons about the hot cloud covered second planet.",
+  "keywords": [
+   "venus",
+   "planet",
+   "evening star",
+   "morning star",
+   "solar system",
+   "thick clouds",
+   "hot planet",
+   "greenhouse effect",
+   "inner planet",
+   "astronomy",
+   "space",
+   "rocky planet",
+   "cloud bands",
+   "second planet",
+   "sulfuric clouds"
+  ]
+ },
+ "mars-planet": {
+  "context": "A planet disc with a white polar cap and a long canyon scar. Used for Mars missions, colonization topics and solar system guides.",
+  "keywords": [
+   "mars",
+   "red planet",
+   "planet",
+   "polar cap",
+   "canyon",
+   "valles marineris",
+   "solar system",
+   "mars mission",
+   "colony",
+   "rocky planet",
+   "astronomy",
+   "space",
+   "fourth planet",
+   "martian",
+   "rover target"
+  ]
+ },
+ "jupiter-planet": {
+  "context": "A large banded planet disc with an oval storm spot. Used for solar system guides and gas giant topics.",
+  "keywords": [
+   "jupiter",
+   "gas giant",
+   "planet",
+   "great red spot",
+   "storm",
+   "bands",
+   "largest planet",
+   "solar system",
+   "astronomy",
+   "space",
+   "giant planet",
+   "fifth planet",
+   "cloud belts",
+   "jovian",
+   "science class"
+  ]
+ },
+ "uranus-planet": {
+  "context": "A planet disc circled by a thin ring tilted nearly upright with a tiny moon. Used for solar system guides and ice giant topics.",
+  "keywords": [
+   "uranus",
+   "ice giant",
+   "planet",
+   "tilted ring",
+   "sideways planet",
+   "solar system",
+   "seventh planet",
+   "astronomy",
+   "space",
+   "cold planet",
+   "blue green planet",
+   "rings",
+   "science class",
+   "outer planet",
+   "axial tilt"
+  ]
+ },
+ "neptune-planet": {
+  "context": "A planet disc with a tilted cloud band, a dark oval storm and a small bright cloud. Used for solar system guides and ice giant topics.",
+  "keywords": [
+   "neptune",
+   "ice giant",
+   "planet",
+   "great dark spot",
+   "storm",
+   "solar system",
+   "eighth planet",
+   "astronomy",
+   "space",
+   "blue planet",
+   "outer planet",
+   "windy planet",
+   "science class",
+   "deep blue",
+   "cloud streak"
+  ]
+ },
+ "pluto-planet": {
+  "context": "A small dwarf planet disc with a large heart shaped plain. Used for dwarf planet topics, Kuiper belt content and solar system guides.",
+  "keywords": [
+   "pluto",
+   "dwarf planet",
+   "heart",
+   "kuiper belt",
+   "tombaugh regio",
+   "solar system",
+   "astronomy",
+   "space",
+   "former planet",
+   "ninth planet",
+   "icy world",
+   "new horizons",
+   "small world",
+   "distant world",
+   "science class"
+  ]
+ },
+ "planet-orbit": {
+  "context": "A tilted orbit ring around a central star with a planet on it. Used for solar system diagrams, orbital mechanics and astronomy lessons.",
+  "keywords": [
+   "orbit",
+   "solar system",
+   "planetary orbit",
+   "star",
+   "planet",
+   "orbital path",
+   "ellipse",
+   "revolution",
+   "year",
+   "astronomy",
+   "space",
+   "kepler",
+   "orbit diagram",
+   "heliocentric",
+   "circling"
+  ]
+ },
+ "asteroid-belt": {
+  "context": "A half ring of small rocks between two orbit lines around a sun. Used for solar system maps and lessons about the rocky band between Mars and Jupiter.",
+  "keywords": [
+   "asteroid belt",
+   "main belt",
+   "asteroids",
+   "space rocks",
+   "solar system",
+   "orbit",
+   "ceres",
+   "between mars and jupiter",
+   "minor planets",
+   "astronomy",
+   "space",
+   "rock field",
+   "debris ring",
+   "belt",
+   "planetoids"
+  ]
+ },
+ "meteor-shower": {
+  "context": "Three parallel streaks with glowing heads falling diagonally across the night sky. Used for stargazing events and night sky calendars.",
+  "keywords": [
+   "shooting stars",
+   "meteors",
+   "perseids",
+   "leonids",
+   "geminids",
+   "falling stars",
+   "night sky",
+   "stargazing",
+   "meteor storm",
+   "astronomy event",
+   "comet trail",
+   "wish",
+   "sky watching",
+   "streaks",
+   "space event"
+  ]
+ },
+ "meteorite-impact": {
+  "context": "A rock with a fiery tail striking the ground beside a shallow crater with flying debris. Used for asteroid strike, disaster and geology topics.",
+  "keywords": [
+   "meteorite",
+   "asteroid strike",
+   "impact",
+   "collision",
+   "crater",
+   "space rock",
+   "disaster",
+   "extinction",
+   "debris",
+   "meteor landing",
+   "astronomy",
+   "geology",
+   "fireball",
+   "impact event",
+   "chicxulub"
+  ]
+ },
+ "impact-crater": {
+  "context": "A cross section of ground dug into a bowl with raised rims and a central peak. Used for geology, planetary science and impact site maps.",
+  "keywords": [
+   "crater",
+   "impact crater",
+   "meteor crater",
+   "moon crater",
+   "bowl",
+   "central peak",
+   "rim",
+   "impact site",
+   "geology",
+   "planetary science",
+   "pit",
+   "astronomy",
+   "hole",
+   "basin",
+   "barringer"
+  ]
+ },
+ "half-moon": {
+  "context": "A moon disc with its right half lit and craters on the lit side. Used for first quarter and last quarter phases in moon calendars.",
+  "keywords": [
+   "half moon",
+   "first quarter",
+   "last quarter",
+   "quarter moon",
+   "moon phase",
+   "lunar phase",
+   "waxing",
+   "waning",
+   "moon calendar",
+   "night sky",
+   "crescent and gibbous",
+   "lunar cycle",
+   "astronomy",
+   "half lit",
+   "phase icon"
+  ]
+ },
+ "gibbous-moon": {
+  "context": "A moon disc that is mostly lit with a thin dark crescent on its left edge. Used in moon phase calendars and lunar cycle charts.",
+  "keywords": [
+   "gibbous moon",
+   "waxing gibbous",
+   "waning gibbous",
+   "moon phase",
+   "lunar phase",
+   "almost full moon",
+   "moon calendar",
+   "lunar cycle",
+   "night sky",
+   "astronomy",
+   "bulging moon",
+   "phase icon",
+   "moon tracker",
+   "tide",
+   "gardening by moon"
+  ]
+ },
+ "new-moon": {
+  "context": "A dark moon disc inside a thin outline ring, the phase with no lit face. Used in moon calendars and lunar cycle charts.",
+  "keywords": [
+   "new moon",
+   "dark moon",
+   "moon phase",
+   "lunar phase",
+   "no moon",
+   "moon calendar",
+   "lunar cycle",
+   "night sky",
+   "astronomy",
+   "stargazing",
+   "dark sky",
+   "black moon",
+   "phase icon",
+   "start of cycle",
+   "moonless"
+  ]
+ },
+ "blood-moon": {
+  "context": "A full moon disc crossed by curved shadow bands with a red drop. Used for total lunar eclipse events and night sky news.",
+  "keywords": [
+   "blood moon",
+   "red moon",
+   "total lunar eclipse",
+   "lunar eclipse",
+   "eclipse",
+   "moon",
+   "night sky",
+   "umbra",
+   "earth shadow",
+   "astronomy event",
+   "copper moon",
+   "super blood moon",
+   "stargazing",
+   "sky event",
+   "totality"
+  ]
+ },
+ "lunar-eclipse": {
+  "context": "A moon disc partly covered by the curved dark shadow of the Earth. Used for eclipse schedules and astronomy events.",
+  "keywords": [
+   "lunar eclipse",
+   "moon eclipse",
+   "partial eclipse",
+   "earth shadow",
+   "umbra",
+   "penumbra",
+   "moon",
+   "night sky",
+   "astronomy event",
+   "eclipse calendar",
+   "stargazing",
+   "shadow on moon",
+   "sky event",
+   "syzygy",
+   "eclipse"
+  ]
+ },
+ "annular-eclipse": {
+  "context": "A dark disc centred inside a larger sun ring with corona dots, leaving a bright thin ring. Used for ring of fire solar eclipse events.",
+  "keywords": [
+   "annular eclipse",
+   "ring of fire",
+   "solar eclipse",
+   "sun",
+   "moon",
+   "eclipse",
+   "annulus",
+   "corona",
+   "astronomy event",
+   "eclipse safety",
+   "sky event",
+   "bright ring",
+   "sun and moon",
+   "eclipse path",
+   "stargazing"
+  ]
+ },
+ "supermoon": {
+  "context": "A huge full moon rising behind the horizon with a small tree in front. Used for moonrise events and big moon photo guides.",
+  "keywords": [
+   "supermoon",
+   "big moon",
+   "full moon",
+   "moonrise",
+   "perigee",
+   "horizon",
+   "tree",
+   "night sky",
+   "moon photography",
+   "astronomy event",
+   "harvest moon",
+   "huge moon",
+   "landscape",
+   "skyline",
+   "moon gazing"
+  ]
+ },
+ "earthrise": {
+  "context": "The Earth hanging above the curved horizon of the moon with a few stars. Used for space exploration, environment and moon mission themes.",
+  "keywords": [
+   "earthrise",
+   "earth from moon",
+   "lunar horizon",
+   "blue marble",
+   "moon",
+   "earth",
+   "apollo",
+   "space photo",
+   "planet earth",
+   "lunar mission",
+   "environment",
+   "one planet",
+   "stars",
+   "astronomy",
+   "space exploration"
+  ]
+ },
+ "lunar-surface": {
+  "context": "Dusty moon ground with craters and rocks under a small Earth in the dark sky. Used for moon base, moon mission and lunar map content.",
+  "keywords": [
+   "lunar surface",
+   "moon ground",
+   "moonscape",
+   "regolith",
+   "craters",
+   "rocks",
+   "earth in sky",
+   "moon mission",
+   "moon base",
+   "lunar map",
+   "astronomy",
+   "space",
+   "dust",
+   "landing site",
+   "moon walk"
+  ]
+ },
+ "sunspots": {
+  "context": "A sun disc marked with several dark irregular spots. Used for solar activity reports, space weather and solar cycle lessons.",
+  "keywords": [
+   "sunspots",
+   "solar activity",
+   "sun",
+   "photosphere",
+   "solar cycle",
+   "dark spots",
+   "space weather",
+   "star",
+   "astronomy",
+   "solar observation",
+   "solar maximum",
+   "magnetic storm",
+   "sun surface",
+   "solar telescope",
+   "sun science"
+  ]
+ },
+ "solar-flare": {
+  "context": "A loop of hot plasma arching off the edge of the sun. Used for space weather alerts, solar storm warnings and sun science.",
+  "keywords": [
+   "solar flare",
+   "solar storm",
+   "plasma loop",
+   "coronal loop",
+   "prominence",
+   "sun",
+   "space weather",
+   "cme",
+   "magnetic storm",
+   "geomagnetic",
+   "aurora cause",
+   "radio blackout",
+   "solar activity",
+   "astronomy",
+   "eruption"
+  ]
+ },
+ "solar-wind": {
+  "context": "A sun on the left with streams of particles curling past a small planet. Used for space weather, magnetosphere and heliosphere explainers.",
+  "keywords": [
+   "solar wind",
+   "particle stream",
+   "charged particles",
+   "sun",
+   "planet",
+   "space weather",
+   "magnetosphere",
+   "heliosphere",
+   "aurora",
+   "plasma",
+   "astronomy",
+   "radiation",
+   "solar storm",
+   "space physics",
+   "outflow"
+  ]
+ },
+ "supernova": {
+  "context": "A jagged burst with a bright core showing an exploding star. Used for stellar death topics, astronomy news and explosion graphics.",
+  "keywords": [
+   "supernova",
+   "exploding star",
+   "stellar explosion",
+   "nova",
+   "star death",
+   "blast",
+   "burst",
+   "astronomy",
+   "space",
+   "neutron star",
+   "black hole birth",
+   "kilonova",
+   "remnant",
+   "big star",
+   "deep space"
+  ]
+ },
+ "nebula": {
+  "context": "An irregular gas cloud with a swirl through it and a few stars. Used for deep sky, star birth and astronomy photo content.",
+  "keywords": [
+   "nebula",
+   "gas cloud",
+   "dust cloud",
+   "interstellar cloud",
+   "star forming",
+   "star nursery",
+   "deep sky",
+   "space",
+   "astronomy",
+   "hubble style",
+   "cosmic cloud",
+   "emission nebula",
+   "stardust",
+   "galactic cloud",
+   "sky object"
+  ]
+ },
+ "planetary-nebula": {
+  "context": "A glowing ring shell of gas around a small star at its centre. Used for dying star topics and deep sky catalogues.",
+  "keywords": [
+   "planetary nebula",
+   "ring nebula",
+   "dying star",
+   "gas shell",
+   "stellar remnant",
+   "deep sky",
+   "astronomy",
+   "space",
+   "white dwarf birth",
+   "cosmic ring",
+   "messier",
+   "telescope target",
+   "star death",
+   "shell of gas",
+   "halo"
+  ]
+ },
+ "pulsar": {
+  "context": "A small star with two narrow beams sweeping out of opposite sides and a spin arc. Used for neutron star and radio astronomy topics.",
+  "keywords": [
+   "pulsar",
+   "neutron star",
+   "radio pulsar",
+   "lighthouse star",
+   "beam",
+   "rotating star",
+   "spin",
+   "magnetar",
+   "astronomy",
+   "space",
+   "radio signal",
+   "dense star",
+   "pulse",
+   "cosmic clock",
+   "deep space"
+  ]
+ },
+ "quasar": {
+  "context": "A bright core inside a flat disk with two long jets shooting out opposite ways. Used for active galaxy and black hole topics.",
+  "keywords": [
+   "quasar",
+   "active galactic nucleus",
+   "agn",
+   "black hole jet",
+   "distant galaxy",
+   "accretion",
+   "jets",
+   "astronomy",
+   "space",
+   "cosmology",
+   "bright core",
+   "radio galaxy",
+   "blazar",
+   "deep space",
+   "supermassive"
+  ]
+ },
+ "red-giant": {
+  "context": "A very large star circle beside a tiny sun circle for comparison. Used for star size charts and stellar evolution lessons.",
+  "keywords": [
+   "red giant",
+   "giant star",
+   "dying star",
+   "star size",
+   "size comparison",
+   "stellar evolution",
+   "sun",
+   "big star",
+   "astronomy",
+   "space",
+   "supergiant",
+   "expanding star",
+   "star life",
+   "betelgeuse style",
+   "comparison"
+  ]
+ },
+ "white-dwarf": {
+  "context": "A tiny bright star with rays beside a much larger faint dashed circle. Used for stellar remnant and star size lessons.",
+  "keywords": [
+   "white dwarf",
+   "dwarf star",
+   "dead star",
+   "stellar remnant",
+   "small star",
+   "star size",
+   "dense star",
+   "astronomy",
+   "space",
+   "cooling star",
+   "star end",
+   "earth sized star",
+   "size comparison",
+   "faint halo",
+   "compact star"
+  ]
+ },
+ "double-star-system": {
+  "context": "Two stars circling each other on a shared tilted orbit. Used for binary star topics, exoplanet worlds with two suns and astronomy lessons.",
+  "keywords": [
+   "binary star",
+   "double star",
+   "twin stars",
+   "star pair",
+   "orbit",
+   "binary system",
+   "two suns",
+   "astronomy",
+   "space",
+   "circumbinary",
+   "barycenter",
+   "stellar pair",
+   "tatooine style",
+   "dual stars",
+   "orbiting stars"
+  ]
+ },
+ "star-cluster": {
+  "context": "A dense round group of small stars bunched together inside a dashed outline. Used for deep sky lists and star catalogue pages.",
+  "keywords": [
+   "star cluster",
+   "globular cluster",
+   "open cluster",
+   "star group",
+   "stars",
+   "deep sky",
+   "astronomy",
+   "space",
+   "stellar family",
+   "messier",
+   "telescope target",
+   "cluster",
+   "dense stars",
+   "night sky",
+   "star ball"
+  ]
+ },
+ "elliptical-galaxy": {
+  "context": "A smooth oval galaxy glowing brighter toward its centre. Used for galaxy type charts and deep space content.",
+  "keywords": [
+   "elliptical galaxy",
+   "oval galaxy",
+   "galaxy",
+   "old stars",
+   "deep sky",
+   "space",
+   "astronomy",
+   "galaxy types",
+   "smooth galaxy",
+   "giant galaxy",
+   "hubble classification",
+   "cosmos",
+   "glow",
+   "stellar population",
+   "messier 87 style"
+  ]
+ },
+ "barred-galaxy": {
+  "context": "A spiral galaxy with a straight bar across its core and an arm curling from each end. Used for galaxy type charts and Milky Way topics.",
+  "keywords": [
+   "barred galaxy",
+   "barred spiral",
+   "spiral galaxy",
+   "galaxy",
+   "milky way",
+   "bar",
+   "arms",
+   "deep sky",
+   "astronomy",
+   "space",
+   "galaxy types",
+   "cosmos",
+   "spiral arms",
+   "hubble classification",
+   "stellar bar"
+  ]
+ },
+ "accretion-disk": {
+  "context": "A swirling flat disk of matter spiralling into a dark sphere at the centre. Used for black hole, neutron star and protostar topics.",
+  "keywords": [
+   "accretion disk",
+   "accretion disc",
+   "black hole disk",
+   "gas disk",
+   "infall",
+   "spiral",
+   "gravity",
+   "matter swirl",
+   "astronomy",
+   "space",
+   "event horizon",
+   "protostar",
+   "x ray binary",
+   "orbiting gas",
+   "cosmic whirlpool"
+  ]
+ },
+ "wormhole": {
+  "context": "A funnel shaped tunnel pinching to a narrow throat and opening out again like an hourglass. Used for science fiction, spacetime and travel shortcut themes.",
+  "keywords": [
+   "wormhole",
+   "einstein rosen bridge",
+   "space tunnel",
+   "portal",
+   "spacetime",
+   "shortcut",
+   "sci fi",
+   "interstellar travel",
+   "throat",
+   "gateway",
+   "physics",
+   "astronomy",
+   "hyperspace",
+   "cosmic bridge",
+   "time travel"
+  ]
+ },
+ "big-bang": {
+  "context": "A tiny bright point bursting outward with expanding arcs and scattered specks. Used for cosmology, universe origin and physics lessons.",
+  "keywords": [
+   "big bang",
+   "origin of universe",
+   "cosmic explosion",
+   "expansion",
+   "cosmology",
+   "singularity",
+   "beginning",
+   "universe",
+   "astronomy",
+   "space",
+   "inflation",
+   "creation",
+   "early universe",
+   "physics",
+   "cosmic birth"
+  ]
+ },
+ "gravitational-lensing": {
+  "context": "A heavy mass in the middle bending distant light into curved arcs around it. Used for relativity, dark matter and deep space imaging.",
+  "keywords": [
+   "gravitational lensing",
+   "einstein ring",
+   "light bending",
+   "dark matter",
+   "cosmology",
+   "galaxy cluster",
+   "relativity",
+   "curved light",
+   "astronomy",
+   "space",
+   "lens",
+   "distant galaxy",
+   "arc images",
+   "gravity",
+   "physics"
+  ]
+ },
+ "spacetime-grid": {
+  "context": "A curved sheet dipping into a well beneath a heavy sphere. Used for gravity, relativity and physics education.",
+  "keywords": [
+   "spacetime",
+   "gravity well",
+   "general relativity",
+   "curved space",
+   "mass",
+   "physics",
+   "einstein",
+   "fabric of space",
+   "gravity",
+   "astronomy",
+   "grid",
+   "warped space",
+   "dip",
+   "black hole model",
+   "science lesson"
+  ]
+ },
+ "exoplanet": {
+  "context": "A star with a small planet crossing in front of it and a dip in the light curve below. Used for planet hunting and transit method topics.",
+  "keywords": [
+   "exoplanet",
+   "transit",
+   "planet hunting",
+   "light curve",
+   "kepler",
+   "alien world",
+   "extrasolar planet",
+   "star dimming",
+   "astronomy",
+   "space",
+   "tess",
+   "habitable world",
+   "detection",
+   "brightness dip",
+   "planet search"
+  ]
+ },
+ "habitable-zone": {
+  "context": "A star with a shaded ring band between two orbit circles where water can stay liquid. Used for exoplanet and life search topics.",
+  "keywords": [
+   "habitable zone",
+   "goldilocks zone",
+   "life zone",
+   "liquid water",
+   "star",
+   "orbit",
+   "exoplanet",
+   "astronomy",
+   "space",
+   "astrobiology",
+   "ring band",
+   "just right",
+   "alien life",
+   "circumstellar",
+   "temperate"
+  ]
+ },
+ "kuiper-belt": {
+  "context": "A wide ring of scattered small rocks far outside the inner planet orbits. Used for outer solar system maps and dwarf planet topics.",
+  "keywords": [
+   "kuiper belt",
+   "trans neptunian",
+   "icy objects",
+   "outer solar system",
+   "dwarf planets",
+   "orbit",
+   "pluto",
+   "comets",
+   "astronomy",
+   "space",
+   "ring of rocks",
+   "distant belt",
+   "solar system map",
+   "frozen bodies",
+   "edge of system"
+  ]
+ },
+ "polaris": {
+  "context": "A bright star with long cross spikes above two pointer stars. Used for navigation, north finding and stargazing guides.",
+  "keywords": [
+   "polaris",
+   "north star",
+   "pole star",
+   "navigation",
+   "pointer stars",
+   "star",
+   "night sky",
+   "astronomy",
+   "find north",
+   "stargazing",
+   "guide star",
+   "celestial pole",
+   "direction",
+   "camping skill",
+   "sky guide"
+  ]
+ },
+ "big-dipper": {
+  "context": "Seven stars joined in the ladle shape of the dipper. Used for star charts, constellation guides and navigation lessons.",
+  "keywords": [
+   "big dipper",
+   "ursa major",
+   "plough",
+   "great bear",
+   "asterism",
+   "stars",
+   "constellation",
+   "night sky",
+   "ladle",
+   "star chart",
+   "astronomy",
+   "stargazing",
+   "north sky",
+   "pointer",
+   "seven stars"
+  ]
+ },
+ "little-dipper": {
+  "context": "Seven small stars in a smaller ladle shape ending at a bright star. Used for star charts and constellation guides.",
+  "keywords": [
+   "little dipper",
+   "ursa minor",
+   "little bear",
+   "asterism",
+   "stars",
+   "constellation",
+   "night sky",
+   "polaris",
+   "star chart",
+   "astronomy",
+   "stargazing",
+   "ladle",
+   "north star",
+   "seven stars",
+   "sky guide"
+  ]
+ },
+ "orion-constellation": {
+  "context": "Star dots in the hunter pattern with three belt stars in a line. Used for winter sky guides and constellation charts.",
+  "keywords": [
+   "orion",
+   "hunter",
+   "orion belt",
+   "betelgeuse",
+   "rigel",
+   "constellation",
+   "stars",
+   "night sky",
+   "winter sky",
+   "star chart",
+   "astronomy",
+   "stargazing",
+   "three stars",
+   "sky guide",
+   "asterism"
+  ]
+ },
+ "cassiopeia": {
+  "context": "Five stars joined in a W zigzag. Used for star charts, northern sky guides and constellation lists.",
+  "keywords": [
+   "cassiopeia",
+   "w shape",
+   "queen",
+   "asterism",
+   "stars",
+   "constellation",
+   "night sky",
+   "northern sky",
+   "star chart",
+   "astronomy",
+   "stargazing",
+   "zigzag",
+   "circumpolar",
+   "sky guide",
+   "five stars"
+  ]
+ },
+ "southern-cross": {
+  "context": "Four bright stars in a kite cross pattern with a small fifth star. Used for southern sky guides, navigation and national symbol references.",
+  "keywords": [
+   "southern cross",
+   "crux",
+   "southern hemisphere",
+   "navigation",
+   "stars",
+   "constellation",
+   "night sky",
+   "star chart",
+   "astronomy",
+   "stargazing",
+   "south pole",
+   "cross",
+   "sky guide",
+   "kite shape",
+   "outback"
+  ]
+ },
+ "pleiades": {
+  "context": "A tight group of seven star dots in a small dipper shape with a hazy arc either side. Used for star cluster guides and winter sky content.",
+  "keywords": [
+   "pleiades",
+   "seven sisters",
+   "star cluster",
+   "messier 45",
+   "open cluster",
+   "stars",
+   "night sky",
+   "astronomy",
+   "stargazing",
+   "subaru",
+   "blue stars",
+   "winter sky",
+   "cluster",
+   "sky guide",
+   "bright group"
+  ]
+ },
+ "celestial-sphere": {
+  "context": "A sphere with a tilted axis through its poles and an equator ring. Used for sky coordinate lessons and astronomy models.",
+  "keywords": [
+   "celestial sphere",
+   "sky sphere",
+   "equator",
+   "ecliptic",
+   "astronomy model",
+   "coordinates",
+   "celestial equator",
+   "poles",
+   "right ascension",
+   "declination",
+   "axis",
+   "stargazing",
+   "sky map",
+   "navigation",
+   "science class"
+  ]
+ },
+ "light-year": {
+  "context": "A star and a planet joined by a long measuring line with arrowheads. Used for distance in space, units and astronomy teaching.",
+  "keywords": [
+   "light year",
+   "distance",
+   "space distance",
+   "measure",
+   "stellar distance",
+   "parsec",
+   "astronomy",
+   "space",
+   "scale",
+   "unit",
+   "far away",
+   "interstellar",
+   "travel time",
+   "speed of light",
+   "cosmic scale"
+  ]
+ },
+ "dark-matter": {
+  "context": "A faint dashed halo around a small spiral galaxy. Used for cosmology, invisible mass and galaxy rotation topics.",
+  "keywords": [
+   "dark matter",
+   "invisible mass",
+   "galaxy halo",
+   "cosmology",
+   "gravity",
+   "physics",
+   "astronomy",
+   "space",
+   "hidden mass",
+   "unseen",
+   "rotation curve",
+   "dark halo",
+   "universe",
+   "mystery",
+   "dashed circle"
+  ]
+ },
+ "galaxy-collision": {
+  "context": "Two galaxies overlapping with a tidal tail of stars streaming between them. Used for galaxy merger and cosmic event topics.",
+  "keywords": [
+   "galaxy collision",
+   "merging galaxies",
+   "galaxy merger",
+   "interaction",
+   "tidal tail",
+   "deep sky",
+   "astronomy",
+   "space",
+   "andromeda",
+   "milky way",
+   "cosmic crash",
+   "star streams",
+   "cosmos",
+   "colliding",
+   "deep space"
+  ]
+ },
+ "sun-cross-section": {
+  "context": "A sun cut open showing its core and the layers around it. Used for solar structure lessons and star science.",
+  "keywords": [
+   "sun layers",
+   "solar interior",
+   "core",
+   "convection zone",
+   "radiative zone",
+   "star structure",
+   "sun",
+   "astronomy",
+   "space",
+   "cross section",
+   "solar physics",
+   "fusion",
+   "science class",
+   "inside the sun",
+   "diagram"
+  ]
+ },
+ "earth-axis-tilt": {
+  "context": "A globe leaning on a slanted axis beside an upright reference line. Used for seasons, geography lessons and Earth science.",
+  "keywords": [
+   "earth tilt",
+   "axial tilt",
+   "obliquity",
+   "seasons",
+   "earth",
+   "globe",
+   "axis",
+   "geography",
+   "science class",
+   "solstice",
+   "equinox",
+   "23.5 degrees",
+   "planet earth",
+   "orbit",
+   "climate"
+  ]
+ },
+ "day-night-terminator": {
+  "context": "A globe with its night side solid, starry holes in the dark and a curved edge where day meets night. Used for time zone, map and daylight features.",
+  "keywords": [
+   "terminator",
+   "day and night",
+   "sunrise line",
+   "sunset line",
+   "earth",
+   "shadow line",
+   "daylight map",
+   "time zones",
+   "geography",
+   "globe",
+   "night side",
+   "day side",
+   "twilight",
+   "world clock",
+   "astronomy"
+  ]
+ },
+ "moon-orbit": {
+  "context": "An Earth circle with a smaller moon travelling on a ring around it. Used for lunar cycle, tides and satellite topics.",
+  "keywords": [
+   "moon orbit",
+   "lunar orbit",
+   "satellite",
+   "earth and moon",
+   "month",
+   "orbit",
+   "astronomy",
+   "space",
+   "tides",
+   "lunar cycle",
+   "natural satellite",
+   "revolution",
+   "earth",
+   "moon",
+   "orbit diagram"
+  ]
+ },
+ "radio-telescope": {
+  "context": "A large dish on an A shaped frame with a feed on its arm, aimed at the sky. Used for radio astronomy, observatories and signal listening.",
+  "keywords": [
+   "radio telescope",
+   "antenna",
+   "dish",
+   "radio astronomy",
+   "observatory",
+   "signal",
+   "space listening",
+   "seti",
+   "astronomy",
+   "space",
+   "receiver",
+   "parabolic dish",
+   "deep space",
+   "research",
+   "listening array"
+  ]
+ },
+ "space-telescope": {
+  "context": "A cylinder telescope tube with two solar panels and an open aperture door. Used for orbital observatory and deep space imaging topics.",
+  "keywords": [
+   "space telescope",
+   "orbital telescope",
+   "observatory",
+   "satellite",
+   "deep space",
+   "astronomy",
+   "solar panels",
+   "imaging",
+   "space",
+   "infrared",
+   "mirror",
+   "tube",
+   "research",
+   "hubble style",
+   "webb style"
+  ]
+ },
+ "armillary-sphere": {
+  "context": "Nested metal rings around a central ball on a small stand. Used for old astronomy models, navigation history and antique decor.",
+  "keywords": [
+   "armillary sphere",
+   "ring sphere",
+   "astronomy model",
+   "zodiac",
+   "sky model",
+   "antique",
+   "navigation",
+   "rings",
+   "celestial",
+   "history of science",
+   "globe",
+   "ancient astronomy",
+   "decor",
+   "meridian",
+   "equator ring"
+  ]
+ },
+ "astrolabe": {
+  "context": "A round disk with a hanging ring, a pointer rule through the centre and scale marks. Used for medieval navigation and history of astronomy.",
+  "keywords": [
+   "astrolabe",
+   "old navigation",
+   "star finder",
+   "medieval instrument",
+   "altitude",
+   "antique",
+   "astronomy",
+   "history of science",
+   "timekeeping",
+   "islamic astronomy",
+   "sailing",
+   "measurement",
+   "pointer",
+   "scale",
+   "ancient tool"
+  ]
+ },
+ "orrery": {
+  "context": "A mechanical model with a central sun ball and planet balls on arms around it. Used for solar system models and museum exhibits.",
+  "keywords": [
+   "orrery",
+   "solar system model",
+   "clockwork planets",
+   "planetarium",
+   "mechanical",
+   "antique",
+   "astronomy",
+   "planets",
+   "museum",
+   "science toy",
+   "heliocentric",
+   "gears",
+   "model",
+   "sun and planets",
+   "teaching tool"
+  ]
+ },
+ "planisphere": {
+  "context": "A round star wheel with an oval window showing stars and an outer date scale. Used for stargazing and star chart tools.",
+  "keywords": [
+   "planisphere",
+   "star wheel",
+   "star chart",
+   "sky map",
+   "stargazing",
+   "night sky finder",
+   "astronomy",
+   "date scale",
+   "constellation finder",
+   "rotating chart",
+   "amateur astronomy",
+   "guide",
+   "window",
+   "stars",
+   "sky tool"
+  ]
+ },
+ "sextant": {
+  "context": "A pie shaped navigation instrument with a scale arc, pointer arm and sighting mirror. Used for maritime navigation and history content.",
+  "keywords": [
+   "sextant",
+   "navigation",
+   "ship",
+   "star sighting",
+   "altitude",
+   "antique",
+   "celestial navigation",
+   "sailing",
+   "maritime",
+   "measure angle",
+   "latitude",
+   "explorer",
+   "nautical",
+   "old instrument",
+   "arc scale"
+  ]
+ },
+ "space-probe": {
+  "context": "A small spacecraft body with a large dish antenna and a long boom arm. Used for robotic mission and deep space exploration topics.",
+  "keywords": [
+   "space probe",
+   "deep space probe",
+   "voyager style",
+   "spacecraft",
+   "antenna",
+   "explorer",
+   "robotic mission",
+   "satellite",
+   "astronomy",
+   "space",
+   "flyby",
+   "interstellar",
+   "science instruments",
+   "boom",
+   "unmanned"
+  ]
+ },
+ "mars-rover": {
+  "context": "A six wheeled rover with a tall mast camera and a folded robot arm. Used for planetary exploration and robotics content.",
+  "keywords": [
+   "mars rover",
+   "rover",
+   "planetary explorer",
+   "robotic vehicle",
+   "mars",
+   "science vehicle",
+   "spacecraft",
+   "curiosity style",
+   "wheels",
+   "mast camera",
+   "robot arm",
+   "astronomy",
+   "space",
+   "exploration",
+   "lander companion"
+  ]
+ },
+ "lunar-lander": {
+  "context": "A boxy lander body on four angled legs with foot pads and an engine bell below. Used for moon mission and touchdown themes.",
+  "keywords": [
+   "lunar lander",
+   "moon lander",
+   "apollo style",
+   "spacecraft",
+   "landing module",
+   "touchdown",
+   "moon mission",
+   "legs",
+   "astronomy",
+   "space",
+   "eagle style",
+   "descent stage",
+   "moon landing",
+   "exploration",
+   "lander"
+  ]
+ },
+ "space-capsule": {
+  "context": "A cone shaped crew capsule with a round window and a curved heat shield. Used for crewed spaceflight and re-entry topics.",
+  "keywords": [
+   "space capsule",
+   "crew capsule",
+   "re entry vehicle",
+   "spacecraft",
+   "command module",
+   "astronaut ship",
+   "splashdown",
+   "heat shield",
+   "window",
+   "astronomy",
+   "space",
+   "orion style",
+   "dragon style",
+   "return vehicle",
+   "cabin"
+  ]
+ },
+ "space-shuttle": {
+  "context": "A winged orbiter seen from the side with a tall tail fin and a pointed nose. Used for reusable spaceflight history and space travel content.",
+  "keywords": [
+   "space shuttle",
+   "orbiter",
+   "spaceplane",
+   "reusable spacecraft",
+   "shuttle",
+   "nasa era",
+   "space travel",
+   "wings",
+   "tail fin",
+   "astronomy",
+   "space",
+   "launch",
+   "mission",
+   "astronauts",
+   "orbit"
+  ]
+ },
+ "solar-sail": {
+  "context": "A small craft at the centre of a large square sail held by diagonal struts. Used for future propulsion and interstellar travel ideas.",
+  "keywords": [
+   "solar sail",
+   "light sail",
+   "photon sail",
+   "spacecraft",
+   "propulsion",
+   "future travel",
+   "interstellar",
+   "sail",
+   "struts",
+   "astronomy",
+   "space",
+   "radiation pressure",
+   "lightsail",
+   "deep space",
+   "concept"
+  ]
+ },
+ "space-debris": {
+  "context": "Broken satellite shards and a bolt drifting above the curve of a planet. Used for orbital junk, collision risk and space sustainability topics.",
+  "keywords": [
+   "space debris",
+   "orbital junk",
+   "space junk",
+   "satellite fragments",
+   "collision",
+   "clutter",
+   "orbit",
+   "kessler",
+   "shards",
+   "astronomy",
+   "space",
+   "pollution",
+   "hazard",
+   "broken satellite",
+   "cleanup"
+  ]
+ },
+ "spacewalk": {
+  "context": "An astronaut in a suit floating in space with a curly tether line trailing behind. Used for extravehicular activity and space station news.",
+  "keywords": [
+   "spacewalk",
+   "eva",
+   "astronaut",
+   "space suit",
+   "tether",
+   "floating",
+   "extravehicular",
+   "space station",
+   "repair",
+   "astronomy",
+   "space",
+   "zero gravity",
+   "orbit",
+   "mission",
+   "helmet"
+  ]
+ },
+ "moon-landing-flag": {
+  "context": "A flag on a pole with a horizontal top bar planted in cratered ground. Used for moon mission, exploration and achievement themes.",
+  "keywords": [
+   "moon landing flag",
+   "lunar flag",
+   "moon mission",
+   "apollo style",
+   "landing site",
+   "exploration",
+   "astronaut",
+   "flagpole",
+   "achievement",
+   "astronomy",
+   "space",
+   "crater",
+   "moon walk",
+   "giant leap",
+   "first steps"
+  ]
+ }
+}

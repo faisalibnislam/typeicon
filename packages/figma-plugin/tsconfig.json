@@ -1,0 +1,18 @@
+{
+  // Main thread (Figma sandbox): no DOM, Figma plugin globals only.
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "lib": ["ES2020"],
+    "types": ["@figma/plugin-typings"],
+    "strict": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "erasableSyntaxOnly": true,
+    "verbatimModuleSyntax": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": false
+  },
+  "include": ["src/code.ts", "src/shared.ts", "src/messages.ts"]
+}

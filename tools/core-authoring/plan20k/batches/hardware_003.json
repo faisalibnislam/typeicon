@@ -1,0 +1,482 @@
+[
+ {
+  "name": "plumb-bob",
+  "category": "hardware",
+  "draw": "Pointed brass weight shaped like a spinning top hanging from a vertical string.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "chalk-line-reel",
+  "category": "hardware",
+  "draw": "Teardrop shaped reel case with a crank handle and a string pulled out of the front with a hook.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "laser-level",
+  "category": "hardware",
+  "draw": "Small box on a tripod projecting straight horizontal and vertical laser lines.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "laser-distance-meter",
+  "category": "hardware",
+  "draw": "Handheld rectangular device with a small screen and a dashed beam coming out of the top end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "stud-finder",
+  "category": "hardware",
+  "draw": "Palm sized oval device with a row of small indicator lights along the top edge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "measuring-wheel",
+  "category": "hardware",
+  "draw": "Wheel on the end of a long handle with a small counter box near the grip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "folding-ruler",
+  "category": "hardware",
+  "draw": "Zigzag ruler made of hinged segments partly unfolded, with tick marks.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "moisture-meter",
+  "category": "hardware",
+  "draw": "Handheld meter with a small display and two sharp metal pins sticking out of the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "infrared-thermometer",
+  "category": "hardware",
+  "draw": "Pistol shaped thermometer with a display on the back and a dashed beam from the front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pressure-gauge",
+  "category": "hardware",
+  "draw": "Round gauge with a needle and a threaded stem at the bottom, a hex nut above the thread.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "multimeter",
+  "category": "hardware",
+  "draw": "Rectangular meter with a display at the top, a large round selector dial and two probe leads.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "clamp-meter",
+  "category": "hardware",
+  "draw": "Tall handheld meter with a large jaw loop at the top that opens around a wire.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "voltage-tester-pen",
+  "category": "hardware",
+  "draw": "Pen shaped tester with a pointed tip, a clip on the side and a small lightning mark.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "contour-gauge",
+  "category": "hardware",
+  "draw": "Row of many thin parallel pins held in a bar, the pins shifted to trace a wavy profile.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "angle-finder",
+  "category": "hardware",
+  "draw": "Two hinged arms opening like a compass with a round protractor dial at the joint.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "marking-gauge",
+  "category": "hardware",
+  "draw": "Wooden beam passing through a sliding fence block with a small pin at the end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "carpenter-pencil",
+  "category": "hardware",
+  "draw": "Flat rectangular pencil with a chisel shaped lead point.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "scribe-tool",
+  "category": "hardware",
+  "draw": "Slim pen shaped rod with a fine hardened point at each end, one end bent at a right angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "thread-gauge",
+  "category": "hardware",
+  "draw": "Fan of thin leaves each with a saw toothed edge, pivoting from one end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "inspection-mirror",
+  "category": "hardware",
+  "draw": "Small round mirror on the end of a telescoping rod with a pen style handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "theodolite",
+  "category": "hardware",
+  "draw": "Surveying instrument on a tripod: a telescope mounted between two uprights on a round base.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "surveyor-rod",
+  "category": "hardware",
+  "draw": "Tall striped staff with alternating blocks of markings and numbers along its length.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "survey-stake",
+  "category": "hardware",
+  "draw": "Wooden stake driven in the ground with a small ribbon flag tied near the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "lag-screw",
+  "category": "hardware",
+  "draw": "Large screw with a hex head, thick shank and coarse threads ending in a point.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "machine-screw",
+  "category": "hardware",
+  "draw": "Screw with a round slotted head and fine even threads ending in a flat tip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "thumbscrew",
+  "category": "hardware",
+  "draw": "Screw with a wide flat knurled wing head for turning by hand and a threaded shank.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "set-screw",
+  "category": "hardware",
+  "draw": "Short fully threaded headless cylinder with a hex socket on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "eyebolt",
+  "category": "hardware",
+  "draw": "Bolt with a round closed ring at the top and a threaded shank below.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "u-bolt-clamp",
+  "category": "hardware",
+  "draw": "U shaped threaded rod with a flat bar plate across the open ends and two nuts.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "carriage-bolt-and-nut",
+  "category": "hardware",
+  "draw": "Bolt with a smooth domed head, a small square neck and a threaded end with a nut.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "toggle-anchor",
+  "category": "hardware",
+  "draw": "Bolt with a folding spring wing toggle at the end, wings spread out.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wall-anchor",
+  "category": "hardware",
+  "draw": "Ribbed plastic tube anchor with a flange at the top and split fins along its sides.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "threaded-rod",
+  "category": "hardware",
+  "draw": "Long straight rod with thread lines along its whole length and a nut on it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wing-nut",
+  "category": "hardware",
+  "draw": "Nut with two flat rounded wings sticking up on opposite sides.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cap-nut",
+  "category": "hardware",
+  "draw": "Hex nut topped with a smooth rounded dome, side view.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "lock-nut",
+  "category": "hardware",
+  "draw": "Hex nut with a narrower ring collar on top, side view.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "t-nut",
+  "category": "hardware",
+  "draw": "Round flange disc with a threaded barrel sticking down and small pointed prongs.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "flange-nut",
+  "category": "hardware",
+  "draw": "Hex nut with a wide round washer flange at its base, side view.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "flat-washer",
+  "category": "hardware",
+  "draw": "Flat ring with a round hole, seen from the top at a slight angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "split-lock-washer",
+  "category": "hardware",
+  "draw": "Ring washer split at one point with the two ends offset like a coil.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rivet",
+  "category": "hardware",
+  "draw": "Mushroom shaped fastener with a rounded head and a straight smooth shank.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pop-rivet",
+  "category": "hardware",
+  "draw": "Rivet with a small flange head and a long thin mandrel pin sticking through the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cotter-pin",
+  "category": "hardware",
+  "draw": "Bent pin with a round loop at the top and two parallel legs, the ends slightly spread.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hitch-pin-clip",
+  "category": "hardware",
+  "draw": "R shaped spring clip with a straight leg and a wavy curved leg.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "clevis-pin",
+  "category": "hardware",
+  "draw": "Short pin with a round head at one end and a small cross hole at the other.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wooden-dowel",
+  "category": "hardware",
+  "draw": "Short round wooden peg with fluted grooves and chamfered ends, at an angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "staples-strip",
+  "category": "hardware",
+  "draw": "Row of joined U shaped staples forming a strip, seen at an angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "upholstery-tack",
+  "category": "hardware",
+  "draw": "Tack with a big round domed head and a short sharp spike.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hose-clamp",
+  "category": "hardware",
+  "draw": "Round band clamp with slotted holes and a screw housing on one side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cable-tie",
+  "category": "hardware",
+  "draw": "Long thin strap with ridges looped into a circle through a small square head.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "snap-ring",
+  "category": "hardware",
+  "draw": "Open C shaped retaining ring with two small eyelet holes at the ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "o-ring",
+  "category": "hardware",
+  "draw": "Thick round rubber ring, drawn slightly in perspective with a shaded inner edge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "gasket",
+  "category": "hardware",
+  "draw": "Flat irregular plate outline with a large central opening and bolt holes around the edge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "grommet",
+  "category": "hardware",
+  "draw": "Round metal eyelet ring with a rolled edge set in fabric.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "compression-spring",
+  "category": "hardware",
+  "draw": "Tall helical compression spring drawn as a zigzag of loops.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "extension-spring",
+  "category": "hardware",
+  "draw": "Tight coil spring with a hook loop at each end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "torsion-spring",
+  "category": "hardware",
+  "draw": "Short coil spring with two long straight legs sticking out at an angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "s-hook",
+  "category": "hardware",
+  "draw": "Metal hook bent into an S shape with two open curls.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "screw-hook",
+  "category": "hardware",
+  "draw": "Curved open hook on a short threaded screw shank.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "picture-hanger",
+  "category": "hardware",
+  "draw": "Small angled hook plate with a slim nail passing through it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "magnetic-hook",
+  "category": "hardware",
+  "draw": "Round disc magnet with a hook rising from the centre.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "butt-hinge",
+  "category": "hardware",
+  "draw": "Two rectangular leaves joined by a knuckle pin in the middle, with screw holes.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "strap-hinge",
+  "category": "hardware",
+  "draw": "Long tapered strap leaf joined by a knuckle to a short rectangular leaf.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "piano-hinge",
+  "category": "hardware",
+  "draw": "Very long thin hinge with a continuous knuckle along its length.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hasp-and-staple",
+  "category": "hardware",
+  "draw": "Hinged flat hasp plate with a slot, closing over a loop staple on a separate plate.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "barrel-bolt-latch",
+  "category": "hardware",
+  "draw": "Door bolt with a round rod sliding in a housing, a knob handle and a keeper.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "gate-latch",
+  "category": "hardware",
+  "draw": "Thumb latch with a lever bar pivoting into a hooked catch.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "door-chain",
+  "category": "hardware",
+  "draw": "Short chain with a slide knob end hanging from a track plate on a door.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "door-stopper",
+  "category": "hardware",
+  "draw": "Wedge shaped rubber stop sitting under the edge of a door.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "door-closer",
+  "category": "hardware",
+  "draw": "Rectangular hydraulic cylinder body on a door top with a jointed arm to the frame.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "peephole",
+  "category": "hardware",
+  "draw": "Small round door viewer with a lens in a ring on a door surface.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mail-slot",
+  "category": "hardware",
+  "draw": "Rectangular flap letterbox plate on a door with a horizontal hinged flap.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "combination-padlock",
+  "category": "hardware",
+  "draw": "Padlock body with a round numbered dial on its front and a shackle on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "shackle-hardware",
+  "category": "hardware",
+  "draw": "U shaped metal shackle with a threaded pin bolt across the open end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "turnbuckle",
+  "category": "hardware",
+  "draw": "Long open frame with two threaded eye hooks screwed into opposite ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "carabiner",
+  "category": "hardware",
+  "draw": "Oval metal clip with a spring gate on one side, slightly D shaped.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "d-ring",
+  "category": "hardware",
+  "draw": "Metal ring shaped like a letter D with a flat straight side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "chain-links",
+  "category": "hardware",
+  "draw": "Three interlocking oval chain links in a diagonal line.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wire-rope",
+  "category": "hardware",
+  "draw": "Thick twisted rope made of spiral strands with a looped thimble end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pulley",
+  "category": "hardware",
+  "draw": "Round grooved wheel in a side bracket with a hook on top and a rope over the wheel.",
+  "domain": "tools-hardware-construction"
+ }
+]

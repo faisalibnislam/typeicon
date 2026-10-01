@@ -1,0 +1,482 @@
+[
+ {
+  "name": "squat-exercise",
+  "category": "wellness",
+  "draw": "Side view figure with hips back and thighs level, arms stretched forward.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "lunge",
+  "category": "wellness",
+  "draw": "Side view figure with one leg stepped forward bent at 90 degrees and the back knee near the floor.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "burpee",
+  "category": "wellness",
+  "draw": "A standing figure jumping with arms up beside a small figure in a plank, joined by a curved arrow.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "jumping-jacks",
+  "category": "wellness",
+  "draw": "Front view figure in the air with arms and legs spread in an X shape.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "mountain-climbers",
+  "category": "wellness",
+  "draw": "Side view figure in a plank position driving one knee toward the chest.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "pull-up",
+  "category": "wellness",
+  "draw": "Front view figure hanging from a bar with chin above it and elbows bent.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "tricep-dips",
+  "category": "wellness",
+  "draw": "Side view figure with hands on a bench behind, legs extended forward, lowering the hips.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "deadlift",
+  "category": "wellness",
+  "draw": "Side view figure bent at the hips gripping a loaded barbell at shin height.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "bench-press",
+  "category": "wellness",
+  "draw": "Side view figure lying on a bench pressing a barbell straight up above the chest.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "bicep-curl",
+  "category": "wellness",
+  "draw": "Front view standing figure curling a dumbbell up to the shoulder with one arm.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "kettlebell-swing",
+  "category": "wellness",
+  "draw": "Side view figure with hips pushed forward swinging a kettlebell to chest height with straight arms.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "box-jump",
+  "category": "wellness",
+  "draw": "Side view figure in mid air tucking knees above a box.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "high-knees",
+  "category": "wellness",
+  "draw": "Front view figure running in place with one knee raised to hip height.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "glute-bridge",
+  "category": "wellness",
+  "draw": "Side view figure lying on the back with feet planted and hips lifted into a straight line.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "superman-exercise",
+  "category": "wellness",
+  "draw": "Side view figure lying face down with arms and legs lifted off the floor.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "bicycle-crunch",
+  "category": "wellness",
+  "draw": "Side view figure lying with shoulders lifted, one knee tucked in and the other leg extended.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "wall-sit",
+  "category": "wellness",
+  "draw": "Side view figure seated against a vertical wall line with knees at a right angle and no chair.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "leg-raises",
+  "category": "wellness",
+  "draw": "Side view figure lying flat with straight legs lifted up to vertical.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "calf-raises",
+  "category": "wellness",
+  "draw": "Side view standing figure up on tiptoes with heels lifted off a step edge.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "russian-twist",
+  "category": "wellness",
+  "draw": "Front view figure seated in a V with feet lifted, rotating a ball to one side.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "bear-crawl",
+  "category": "wellness",
+  "draw": "Side view figure on hands and feet with knees hovering just above the ground.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "handstand",
+  "category": "wellness",
+  "draw": "Front view figure balanced upside down on both hands with legs straight up.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "farmers-walk",
+  "category": "wellness",
+  "draw": "Front view walking figure holding a heavy kettlebell hanging in each hand.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "tire-flip",
+  "category": "wellness",
+  "draw": "Side view figure lifting the edge of a large upright tractor tire.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "rope-climb",
+  "category": "wellness",
+  "draw": "Figure gripping a vertical rope with hands above and feet clamped on the rope below.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "nordic-walking",
+  "category": "wellness",
+  "draw": "Side view walking figure holding two long poles planted diagonally behind.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "step-aerobics",
+  "category": "wellness",
+  "draw": "Side view figure stepping one foot up onto a low aerobic step with arms swinging.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "aqua-aerobics",
+  "category": "wellness",
+  "draw": "Figure standing waist deep in wavy water with arms raised, holding a foam noodle.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "tai-chi",
+  "category": "wellness",
+  "draw": "Side view figure in a wide low stance with both arms extended in a slow flowing curve.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "pilates-exercise",
+  "category": "wellness",
+  "draw": "Side view figure balanced on the sit bones in a V shape with arms reaching forward.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "stretching",
+  "category": "wellness",
+  "draw": "Front view standing figure reaching both arms overhead and leaning to one side.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "hamstring-stretch",
+  "category": "wellness",
+  "draw": "Side view figure seated with legs straight out, reaching forward to touch the toes.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "quad-stretch",
+  "category": "wellness",
+  "draw": "Side view standing figure holding one foot behind against the buttock.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "neck-stretch",
+  "category": "wellness",
+  "draw": "Front view head and shoulders with one hand gently pulling the head to the side.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "butterfly-stretch",
+  "category": "wellness",
+  "draw": "Front view figure seated upright with soles of the feet together and knees out to the sides.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "tree-pose",
+  "category": "wellness",
+  "draw": "Front view figure standing on one leg, other foot on the inner thigh, palms together overhead.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "warrior-three-pose",
+  "category": "wellness",
+  "draw": "Side view figure balanced on one leg with torso, arms and back leg in one horizontal line.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "downward-dog",
+  "category": "wellness",
+  "draw": "Side view figure in an inverted V with hands and feet on the floor and hips high.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "cobra-pose",
+  "category": "wellness",
+  "draw": "Side view figure lying face down with legs flat and the chest lifted on straight arms.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "childs-pose",
+  "category": "wellness",
+  "draw": "Side view figure kneeling folded forward with forehead on the floor and arms stretched ahead.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "triangle-pose",
+  "category": "wellness",
+  "draw": "Front view figure with legs wide, one hand down to the shin and the other arm pointing straight up.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "boat-pose",
+  "category": "wellness",
+  "draw": "Side view figure balanced on the sit bones with straight legs and torso raised in a V, arms forward.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "camel-pose",
+  "category": "wellness",
+  "draw": "Side view figure kneeling upright and arching backward with hands reaching back to the heels.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "cat-cow-pose",
+  "category": "wellness",
+  "draw": "Side view figure on hands and knees with the back rounded up in an arch.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "crow-pose",
+  "category": "wellness",
+  "draw": "Side view figure crouched with hands on the floor, knees resting on the upper arms and feet lifted.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "headstand",
+  "category": "wellness",
+  "draw": "Side view figure upside down on the head and forearms with legs straight up.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "shoulder-stand",
+  "category": "wellness",
+  "draw": "Side view figure on the shoulders with hands supporting the lower back and legs straight up.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "wheel-pose",
+  "category": "wellness",
+  "draw": "Side view figure in a full backbend arch on hands and feet with the belly facing up.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "bow-pose",
+  "category": "wellness",
+  "draw": "Side view figure lying on the belly holding the ankles behind, body curved like a bow.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "pigeon-pose",
+  "category": "wellness",
+  "draw": "Side view figure with front leg folded under the torso, back leg stretched long and chest upright.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "dancer-pose",
+  "category": "wellness",
+  "draw": "Side view figure on one leg, holding the other foot raised behind with one hand, other arm reaching forward.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "half-moon-pose",
+  "category": "wellness",
+  "draw": "Front view figure balanced on one leg and one hand, body horizontal and the top arm pointing up.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "chair-pose",
+  "category": "wellness",
+  "draw": "Side view figure with knees bent as if sitting on an invisible chair and arms raised overhead.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "eagle-pose",
+  "category": "wellness",
+  "draw": "Front view figure on one bent leg with the other leg and both arms wrapped around each other.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "fish-pose",
+  "category": "wellness",
+  "draw": "Side view figure lying on the back with the chest arched up and the crown of the head on the floor.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "plow-pose",
+  "category": "wellness",
+  "draw": "Side view figure lying on the shoulders with legs folded back over the head, toes touching the floor.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "corpse-pose",
+  "category": "wellness",
+  "draw": "Top view figure lying flat on the back with arms slightly out and palms up.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "happy-baby-pose",
+  "category": "wellness",
+  "draw": "Side view figure lying on the back holding the feet with knees bent toward the armpits.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "seated-forward-bend",
+  "category": "wellness",
+  "draw": "Side view figure seated with legs straight, torso folded flat over the legs.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "standing-forward-bend",
+  "category": "wellness",
+  "draw": "Side view figure standing with torso folded down over straight legs, hands to the floor.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "garland-pose",
+  "category": "wellness",
+  "draw": "Front view figure in a deep squat with heels down, palms together at the chest and elbows inside the knees.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "goddess-pose",
+  "category": "wellness",
+  "draw": "Front view figure in a wide squat stance with knees out and arms bent up like goalposts.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "seated-twist-pose",
+  "category": "wellness",
+  "draw": "Front view seated figure twisting the torso to one side with one knee crossed over the other leg.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "splits-pose",
+  "category": "wellness",
+  "draw": "Side view figure on the floor with legs split front and back and arms raised.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "legs-up-the-wall",
+  "category": "wellness",
+  "draw": "Side view figure lying on the back with straight legs resting up against a vertical wall line.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "partner-yoga",
+  "category": "wellness",
+  "draw": "Two figures standing back to back, leaning apart with joined hands to balance each other.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "aerial-yoga",
+  "category": "wellness",
+  "draw": "Figure hanging upside down in a fabric hammock looped from a single ceiling point.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "yoga-block",
+  "category": "wellness",
+  "draw": "Three-quarter view of a rectangular foam block with rounded edges.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "yoga-strap",
+  "category": "wellness",
+  "draw": "A long strap with a D ring buckle curling into a loop.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "yoga-wheel",
+  "category": "wellness",
+  "draw": "Three-quarter view of a wide hoop wheel with a padded outer band.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "yoga-bolster",
+  "category": "wellness",
+  "draw": "Side view of a long cylindrical cushion with a handle loop on one end.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "meditation-cushion",
+  "category": "wellness",
+  "draw": "Side view of a round plump floor cushion with pleated sides, sitting on a flat square mat.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "meditation-bench",
+  "category": "wellness",
+  "draw": "Side view of a low slanted kneeling bench on two short legs.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "sauna",
+  "category": "wellness",
+  "draw": "Front view of a wooden room with two tiers of slatted benches and a stove with steam lines.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "steam-room",
+  "category": "wellness",
+  "draw": "Front view of a tiled bench with thick clouds of steam rising in front of it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "cold-plunge",
+  "category": "wellness",
+  "draw": "Side view of a round tub filled with water and floating ice cubes, with a cold snowflake above.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "float-tank",
+  "category": "wellness",
+  "draw": "Side view of a closed pod shaped like an egg with the lid raised and water inside.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "cryotherapy-chamber",
+  "category": "wellness",
+  "draw": "Front view of a tall cylinder cabin with a person head showing at the top and frosty vapour.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "sauna-whisk",
+  "category": "wellness",
+  "draw": "A bundle of leafy birch twigs tied together at the handle.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "back-massage",
+  "category": "wellness",
+  "draw": "Side view figure lying face down on a table with two hands pressing on the back.",
+  "domain": "wellness-and-fitness"
+ }
+]

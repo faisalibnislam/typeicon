@@ -1,0 +1,482 @@
+[
+ {
+  "name": "mountain-range",
+  "category": "landscape",
+  "draw": "Front view of three overlapping triangular peaks of different heights along one baseline.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "snowcapped-peak",
+  "category": "landscape",
+  "draw": "Single tall triangular mountain with a zigzag snow line cutting across its upper third.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mountain-pass",
+  "category": "landscape",
+  "draw": "Two mountain slopes meeting at a low saddle with a small winding road crossing between them.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mountain-ridge",
+  "category": "landscape",
+  "draw": "Long jagged ridgeline profile running across the icon with sawtooth crests over a flat base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rolling-hills",
+  "category": "landscape",
+  "draw": "Two or three smooth overlapping rounded hill curves stacked toward a flat horizon line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mesa",
+  "category": "landscape",
+  "draw": "Flat-topped wide rock formation with steep vertical sides and a few horizontal strata lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "butte",
+  "category": "landscape",
+  "draw": "Narrow flat-topped rock tower with steep sides standing alone on a flat ground line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "plateau",
+  "category": "landscape",
+  "draw": "Wide raised flat tableland with one sloped edge descending to a lower plain line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "hoodoo",
+  "category": "landscape",
+  "draw": "Tall thin stacked rock pillar with a wider balancing cap stone on top.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "natural-arch",
+  "category": "landscape",
+  "draw": "Thick rock arch spanning an open gap, with ground line below and layered texture lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sea-stack",
+  "category": "landscape",
+  "draw": "Isolated tall rock column rising from wavy sea lines near a cliff edge.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sea-arch",
+  "category": "landscape",
+  "draw": "Rock arch standing in the sea with wavy water lines passing through the opening.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cliff",
+  "category": "landscape",
+  "draw": "Side view of a flat top edge dropping vertically to the ground, with rock crack lines on the face.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sea-cliff",
+  "category": "landscape",
+  "draw": "Vertical cliff face on the left dropping into wavy sea lines on the right.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fjord",
+  "category": "landscape",
+  "draw": "Narrow strip of water winding between two steep mountain walls seen from above at an angle.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "u-shaped-valley",
+  "category": "landscape",
+  "draw": "Cross section of a broad U-curved valley between two mountain shoulders with a small river dot at the bottom.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "v-shaped-valley",
+  "category": "landscape",
+  "draw": "Two steep slopes forming a sharp V with a thin river line at the base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sand-dune",
+  "category": "landscape",
+  "draw": "Two smooth crescent dune shapes with a sharp crest line and wind ripple marks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "oasis",
+  "category": "landscape",
+  "draw": "Palm tree beside a small pool shape set between low dune curves.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "badlands",
+  "category": "landscape",
+  "draw": "Eroded striped hills with sharp gullies and horizontal banding lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "salt-flat",
+  "category": "landscape",
+  "draw": "Flat ground plane covered in a hexagonal crack pattern under a low horizon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "savanna",
+  "category": "landscape",
+  "draw": "Flat-topped acacia tree over a grassy horizon line with a few grass tufts.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tundra",
+  "category": "landscape",
+  "draw": "Flat horizon with low shrubs, a few tufts and a snow patch under a low sun.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "prairie",
+  "category": "landscape",
+  "draw": "Wide flat horizon with tall wavy grass blades in the foreground.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "meadow",
+  "category": "landscape",
+  "draw": "Rolling ground line dotted with small flowers and grass tufts.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "jungle",
+  "category": "landscape",
+  "draw": "Dense cluster of broad leaves, a hanging vine and a palm frond overlapping.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mangrove",
+  "category": "landscape",
+  "draw": "Tree with arching stilt roots standing in wavy water lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "peninsula",
+  "category": "landscape",
+  "draw": "Top view of a landmass tongue extending into water surrounded on three sides by wave marks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "isthmus",
+  "category": "landscape",
+  "draw": "Top view of two landmasses joined by a narrow strip of land between waters.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "archipelago",
+  "category": "landscape",
+  "draw": "Top view of a scattered chain of small irregular island blobs in water.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "atoll",
+  "category": "landscape",
+  "draw": "Top view of a ring-shaped coral island surrounding a central lagoon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lagoon",
+  "category": "landscape",
+  "draw": "Shallow water body separated from the sea by a curved sandbar with a palm.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "bay",
+  "category": "landscape",
+  "draw": "Top view of a curved coastline wrapping around a rounded body of water.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "headland",
+  "category": "landscape",
+  "draw": "High rocky point jutting into the sea with waves breaking at its tip.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sandbar",
+  "category": "landscape",
+  "draw": "Low elongated sand ridge breaking the water surface between wave lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tide-pool",
+  "category": "landscape",
+  "draw": "Rocky pool rim holding water with a small starfish and shell inside.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mudflat",
+  "category": "landscape",
+  "draw": "Flat cracked mud surface with shallow water streaks and bird footprints.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "marsh",
+  "category": "landscape",
+  "draw": "Clump of tall reeds and cattails rising from flat water lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "swamp",
+  "category": "landscape",
+  "draw": "Bald cypress trunk with flared base and knees standing in still water with hanging moss.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "river-delta",
+  "category": "landscape",
+  "draw": "Top view of a river splitting into many branching channels fanning out to the sea.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "estuary",
+  "category": "landscape",
+  "draw": "Top view of a river widening into a funnel mouth meeting the sea.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "river-meander",
+  "category": "landscape",
+  "draw": "Top view of a river line looping in tight S-shaped bends.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "oxbow-lake",
+  "category": "landscape",
+  "draw": "Top view of a curved crescent lake cut off beside a straighter river line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "river-rapids",
+  "category": "landscape",
+  "draw": "River with jagged white water crests breaking over several small rocks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cascade-falls",
+  "category": "landscape",
+  "draw": "Water stepping down a staircase of three rock ledges in short falls.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "plunge-pool",
+  "category": "landscape",
+  "draw": "Waterfall stream dropping into a round pool with splash marks at the base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "natural-spring",
+  "category": "landscape",
+  "draw": "Water bubbling up from a gap between stones and flowing away in a small stream.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "river-confluence",
+  "category": "landscape",
+  "draw": "Top view of two river lines joining into a single wider channel, Y-shaped.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "wadi",
+  "category": "landscape",
+  "draw": "Dry riverbed channel with cracked floor and pebbles winding between banks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "whirlpool",
+  "category": "landscape",
+  "draw": "Top view of a spiral vortex of water lines tightening toward the center.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "floodplain",
+  "category": "landscape",
+  "draw": "Flat wide land beside a meandering river with water spilling over its banks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "alpine-lake",
+  "category": "landscape",
+  "draw": "Still lake with mirrored mountain peaks reflected below a jagged skyline.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "crater-lake",
+  "category": "landscape",
+  "draw": "Round lake sitting inside a volcanic cone crater rim.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rice-terraces",
+  "category": "landscape",
+  "draw": "Stepped curved terrace lines climbing a hillside with small water glints.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "farm-fields",
+  "category": "landscape",
+  "draw": "Patchwork of fields in perspective with row lines running in different directions.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "scree-slope",
+  "category": "landscape",
+  "draw": "Mountain slope with a fan of loose small stones collecting at its base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "karst-towers",
+  "category": "landscape",
+  "draw": "Several tall rounded limestone pinnacles rising steeply from flat ground or water.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cenote",
+  "category": "landscape",
+  "draw": "Round sinkhole opening with vines hanging down into a pool of water.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sinkhole",
+  "category": "landscape",
+  "draw": "Circular collapsed hole in flat ground with cracked edges and depth shading lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tepui",
+  "category": "landscape",
+  "draw": "Massive flat-topped cliff-sided table mountain with a thin waterfall off its edge.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ocean-trench",
+  "category": "landscape",
+  "draw": "Cross section of the seafloor with a deep narrow V-shaped trench under wave lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "seamount",
+  "category": "landscape",
+  "draw": "Underwater mountain cone rising from a seabed line well below a wavy surface line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mid-ocean-ridge",
+  "category": "landscape",
+  "draw": "Cross section of the seafloor with a raised ridge and a split rift valley at its center.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "hydrothermal-vent",
+  "category": "landscape",
+  "draw": "Chimney-shaped rock tower on the seabed puffing a dark plume.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "continental-shelf",
+  "category": "landscape",
+  "draw": "Cross section of a coastline with shallow shelf dropping off a steep slope into deep water.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "coral-reef",
+  "category": "landscape",
+  "draw": "Cluster of branching coral, a fan coral and a small fish above a seabed line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "kelp-forest",
+  "category": "landscape",
+  "draw": "Several tall wavy kelp strands with float bulbs rising from the seabed.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tsunami",
+  "category": "landscape",
+  "draw": "Huge curling wave towering over a tiny shoreline with small buildings.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "high-tide",
+  "category": "landscape",
+  "draw": "Shore slope with water level line high up and a small tide gauge post.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "low-tide",
+  "category": "landscape",
+  "draw": "Shore slope with water level line low and exposed rocks and sand.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tide-chart",
+  "category": "landscape",
+  "draw": "Sine wave curve over a time axis with high and low points marked.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "coastline",
+  "category": "landscape",
+  "draw": "Top view of an irregular wiggly shoreline separating land from wave-marked water.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pebble-beach",
+  "category": "landscape",
+  "draw": "Shoreline of rounded stones of varied sizes meeting small waves.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sandy-beach",
+  "category": "landscape",
+  "draw": "Smooth sand slope meeting a gentle wave with a shell on the sand.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "coastal-erosion",
+  "category": "landscape",
+  "draw": "Crumbling cliff edge with a falling chunk and waves hitting its base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "breakwater",
+  "category": "landscape",
+  "draw": "Line of stacked rocks extending into the sea with waves breaking against it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "driftwood",
+  "category": "landscape",
+  "draw": "Weathered branching log lying on a sand line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rip-current",
+  "category": "landscape",
+  "draw": "Beach top view with waves arriving and a narrow channel of water pulling out to sea.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sea-cave",
+  "category": "landscape",
+  "draw": "Dark arched opening in a cliff at the waterline with waves entering.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "volcanic-eruption",
+  "category": "landscape",
+  "draw": "Cone volcano with a burst of lava fragments and a billowing plume above the crater.",
+  "domain": "landscape-geology-sky"
+ }
+]

@@ -1,0 +1,46 @@
+{
+  "crescent-star": {
+    "context": "A crescent moon beside a five-pointed star. Used for Islamic and Muslim content, mosque and prayer time apps, Ramadan and Eid greetings, and faith or religion filters.",
+    "keywords": ["star and crescent", "crescent moon", "hilal", "islam", "islamic", "muslim", "mosque", "masjid", "ramadan", "ramadan kareem", "eid", "eid mubarak", "eid al-fitr", "eid al-adha", "prayer times", "salah", "halal", "faith", "religion", "religious", "moon", "star"]
+  },
+  "cross-christian": {
+    "context": "A Latin cross with a longer lower arm. Used for Christian and church content, faith and religion filters, Easter and Sunday service listings, and places of worship on maps.",
+    "keywords": ["cross", "latin cross", "christian", "christianity", "church", "chapel", "cathedral", "jesus", "christ", "crucifix", "faith", "religion", "religious", "worship", "place of worship", "bible", "gospel", "easter", "good friday", "sunday service", "prayer", "catholic", "protestant"]
+  },
+  "dharma-wheel": {
+    "context": "An eight-spoked wheel with a hub, the dharmachakra of Buddhist teaching. Used for Buddhist temples and content, meditation and mindfulness apps, and faith or religion filters.",
+    "keywords": ["dharmachakra", "dhamma wheel", "wheel of dharma", "wheel of law", "eightfold path", "noble eightfold path", "buddhism", "buddhist", "buddha", "temple", "monastery", "meditation", "mindfulness", "enlightenment", "dharma", "vesak", "faith", "religion", "religious", "spiritual", "eight spokes", "wheel"]
+  },
+  "hamsa": {
+    "context": "An open hand with a thumb on each side and an eye in the palm. Used for protection and good luck charms, jewellery and amulets, Middle Eastern and North African culture, and spiritual content.",
+    "keywords": ["hand of fatima", "hand of miriam", "khamsa", "hamesh", "amulet", "talisman", "charm", "protection", "good luck", "luck", "evil eye", "nazar", "open hand", "palm", "eye", "middle east", "north africa", "mediterranean", "jewelry", "jewellery", "spiritual", "blessing"]
+  },
+  "khanda": {
+    "context": "The Khanda: a double-edged sword standing through a ring, flanked by two curved swords that cross below. Used for Sikh content, gurdwara listings, Vaisakhi greetings and faith or religion filters.",
+    "keywords": ["sikh", "sikhism", "khalsa", "gurdwara", "gurudwara", "chakkar", "chakar", "kirpan", "double-edged sword", "swords", "guru nanak", "vaisakhi", "baisakhi", "punjab", "punjabi", "nishan sahib", "faith", "religion", "religious", "emblem", "symbol"]
+  },
+  "om": {
+    "context": "The Om symbol, written as the sacred syllable in Devanagari with a crescent and dot above. Used for Hindu content and temples, yoga and meditation apps, mantras and spiritual practice.",
+    "keywords": ["aum", "ohm", "omkara", "pranava", "sacred syllable", "mantra", "chant", "hindu", "hinduism", "hindu temple", "mandir", "buddhism", "jainism", "yoga", "yoga studio", "meditation", "mindfulness", "spiritual", "spirituality", "sanskrit", "devanagari", "india", "religion"]
+  },
+  "peace-sign": {
+    "context": "A circle with a vertical line and two lines angled down from its centre, the peace symbol. Used for peace and anti-war messages, protests and activism, 1960s and hippie themes, and calm or harmony designs.",
+    "keywords": ["peace symbol", "peace", "cnd", "nuclear disarmament", "anti-war", "no war", "pacifism", "pacifist", "protest", "activism", "harmony", "hippie", "hippy", "sixties", "1960s", "flower power", "woodstock", "love and peace", "calm", "unity", "ceasefire", "retro"]
+  },
+  "prayer-beads": {
+    "context": "A loop of beads with one larger bead and a tassel hanging below. Used for prayer and meditation apps, counting recitations, rosary, mala or tasbih content, and spiritual practice.",
+    "keywords": ["mala", "japa mala", "rosary", "misbaha", "tasbih", "subha", "worry beads", "beads", "bead string", "tassel", "prayer", "praying", "pray", "dhikr", "zikr", "mantra", "meditation", "counting", "counter", "spiritual", "religion", "faith"]
+  },
+  "star-of-david": {
+    "context": "The Star of David: two overlapping equilateral triangles forming a six-pointed star. Used for Jewish and Judaism content, synagogue listings, Jewish holidays and faith or religion filters.",
+    "keywords": ["magen david", "shield of david", "hexagram", "six-pointed star", "jewish", "judaism", "jew", "synagogue", "shul", "temple", "rabbi", "torah", "hebrew", "kosher", "shabbat", "hanukkah", "passover", "israel", "faith", "religion", "religious"]
+  },
+  "torii": {
+    "context": "A torii gate with two pillars, a curved top lintel and a straight crossbeam below. Used for Shinto shrines, Japan travel guides and maps, Japanese culture content and temple or shrine listings.",
+    "keywords": ["torii gate", "shrine gate", "shinto", "shinto shrine", "shrine", "jinja", "japan", "japanese", "japan travel", "kyoto", "gate", "gateway", "archway", "temple", "landmark", "sightseeing", "tourism", "asia", "culture", "religion", "sacred", "place of worship"]
+  },
+  "yin-yang": {
+    "context": "A circle split by an S-shaped curve into two halves, each holding a dot of the opposite side. Used for balance and harmony themes, Taoism and Chinese philosophy, martial arts, and wellness or meditation apps.",
+    "keywords": ["yin and yang", "taijitu", "tai chi", "taoism", "tao", "daoism", "dao", "balance", "harmony", "duality", "opposites", "equilibrium", "dark and light", "chinese philosophy", "philosophy", "martial arts", "kung fu", "feng shui", "wellness", "meditation", "zen", "spiritual"]
+  }
+}

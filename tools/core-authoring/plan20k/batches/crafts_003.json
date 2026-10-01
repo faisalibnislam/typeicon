@@ -1,0 +1,482 @@
+[
+ {
+  "name": "crossword",
+  "category": "crafts",
+  "draw": "Grid of squares with some black squares and a small number in a corner square.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "sudoku",
+  "category": "crafts",
+  "draw": "Three by three grid of boxes, each with a few small digits written in.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "connect-the-dots",
+  "category": "crafts",
+  "draw": "Numbered dots partly joined by straight lines forming the outline of a star.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "sand-art-bottle",
+  "category": "crafts",
+  "draw": "Small glass bottle filled with wavy horizontal layers of different sand.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "string-art",
+  "category": "crafts",
+  "draw": "Board with nails arranged in a heart outline and thread zigzagging between them.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "glitter",
+  "category": "crafts",
+  "draw": "Shaker tube with a perforated cap and sparkle stars sprinkling out.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "modeling-clay",
+  "category": "crafts",
+  "draw": "Round tub with lid off and a squashed lump of clay beside it with a fingerprint dent.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "craft-punch",
+  "category": "crafts",
+  "draw": "Squat square punch with a lever on top and a small star shape falling out below.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "paper-quilling",
+  "category": "crafts",
+  "draw": "Tight paper coil spirals arranged as petals around a center coil.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "paper-snowflake",
+  "category": "crafts",
+  "draw": "Six sided paper snowflake with small triangular cutouts in its arms.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "pop-up-card",
+  "category": "crafts",
+  "draw": "Open card with a small house shape standing up from the fold.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "stencil-brush",
+  "category": "crafts",
+  "draw": "Short round brush with a flat blunt bristle end dabbing through a star stencil.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "heat-press",
+  "category": "crafts",
+  "draw": "Clamshell machine with a hinged top plate and handle open above a flat bottom plate.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "vinyl-cutter",
+  "category": "crafts",
+  "draw": "Long desktop machine with a sheet feeding through and a cutting blade carriage on top.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "3d-pen",
+  "category": "crafts",
+  "draw": "Chunky pen with a heated nozzle drawing a raised wiggly strand in the air.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "drawing-tablet",
+  "category": "crafts",
+  "draw": "Flat rectangular tablet with a working area and a stylus pen lying diagonally across it.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "model-kit",
+  "category": "crafts",
+  "draw": "Rectangular plastic frame with small parts attached inside by thin runners.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "model-ship",
+  "category": "crafts",
+  "draw": "Tall ship with three masts and square sails on a small display stand.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "model-rocket",
+  "category": "crafts",
+  "draw": "Slim rocket with a pointed nose cone, three fins and a launch rod beside it.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "rc-transmitter",
+  "category": "crafts",
+  "draw": "Handheld controller with two joysticks and a long extended antenna.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "diorama",
+  "category": "crafts",
+  "draw": "Open box scene with a tree, a hill and a small figure inside.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "hobby-knife",
+  "category": "crafts",
+  "draw": "Pen shaped knife with a knurled grip and a pointed angled blade tip.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "model-paint-pot",
+  "category": "crafts",
+  "draw": "Small hexagonal dropper bottle or pot with a flip lid and paint rim.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "tabletop-miniature",
+  "category": "crafts",
+  "draw": "Small warrior figure standing on a round base with a tiny brush pointing at it.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "balsa-glider",
+  "category": "crafts",
+  "draw": "Simple toy glider with a straight wing and tail slotted into a stick body.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "pottery-kiln",
+  "category": "crafts",
+  "draw": "Squat box shaped studio kiln with a front door, a round peephole and a small vent on top, heat wavy lines above.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "glassblowing-pipe",
+  "category": "crafts",
+  "draw": "Long blowpipe held diagonally with a glowing round molten glass bubble at its far end.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "paint-box",
+  "category": "crafts",
+  "draw": "Open wooden artist box with a lid propped up, holding a row of paint tubes and two brushes.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "palette-cup",
+  "category": "crafts",
+  "draw": "Two small round cups joined side by side with a clip underneath for hooking onto a palette.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "foam-brush",
+  "category": "crafts",
+  "draw": "Wedge shaped foam sponge head with a pointed tip on a plain wooden stick handle.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "portrait-sketch",
+  "category": "crafts",
+  "draw": "Sheet of paper with a loosely drawn face in three quarter view and hatching on one cheek.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "gesture-drawing",
+  "category": "crafts",
+  "draw": "Flowing figure drawn with a few quick curved lines showing a dynamic pose.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "cross-hatching",
+  "category": "crafts",
+  "draw": "Square filled with two sets of crossing diagonal lines that get denser toward one corner.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "stippling",
+  "category": "crafts",
+  "draw": "Circle shaded only with dots, dense on one side and sparse on the other to suggest a sphere.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "abstract-painting",
+  "category": "crafts",
+  "draw": "Framed canvas holding a circle, a square and a triangle overlapping in a loose composition.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "portrait-painting",
+  "category": "crafts",
+  "draw": "Thick framed canvas showing a head and shoulders silhouette against a plain background.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "brush-hanger",
+  "category": "crafts",
+  "draw": "Small T shaped stand with a crossbar from which three calligraphy brushes hang tip down.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "abstract-sculpture",
+  "category": "crafts",
+  "draw": "Smooth looping ribbon shape twisting back on itself, mounted on a small square base.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "painted-tile",
+  "category": "crafts",
+  "draw": "Square ceramic tile with a symmetrical four petal floral motif and a border line.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "pottery-shard",
+  "category": "crafts",
+  "draw": "Broken curved fragment of pottery with jagged edges and a band of painted zigzags.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "yarn-cone",
+  "category": "crafts",
+  "draw": "Tall cone of wound yarn with a tapered top and the loose end trailing to the side.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "niddy-noddy",
+  "category": "crafts",
+  "draw": "Straight central shaft with a crossbar at each end set at right angles, yarn wound around it.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "latch-hook",
+  "category": "crafts",
+  "draw": "Straight tool with a hook at the tip and a small hinged latch flap just below the hook.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "cable-needle",
+  "category": "crafts",
+  "draw": "Short needle bent into a shallow U with a dip in the middle holding a few stitches.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "double-pointed-needles",
+  "category": "crafts",
+  "draw": "Four short needles arranged in a square with a tube of knitting growing below them.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "batik-wax-pen",
+  "category": "crafts",
+  "draw": "Small wooden handle with a tiny copper cup and a thin spout, drawing a wax line on cloth.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "embroidery-scissors",
+  "category": "crafts",
+  "draw": "Small ornate scissors shaped like a long beaked stork, the beak forming the blades.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "presser-foot",
+  "category": "crafts",
+  "draw": "Sewing machine foot with two flat toes, a slot for the needle and a mounting shank on top.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "serger",
+  "category": "crafts",
+  "draw": "Compact sewing machine with four thread cones standing in a row on top of it.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "hook-knife",
+  "category": "crafts",
+  "draw": "Wooden handle with a blade curved into a tight hook for hollowing out spoons.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "miter-joint",
+  "category": "crafts",
+  "draw": "Two boards meeting at a right angle corner with a diagonal 45 degree seam line.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "tongue-and-groove",
+  "category": "crafts",
+  "draw": "Two boards slightly apart, one with a protruding tongue and one with a matching slot.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "lampworking",
+  "category": "crafts",
+  "draw": "Small torch flame with a glass rod melting into a round bead on a thin mandrel.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "mosaic-nippers",
+  "category": "crafts",
+  "draw": "Pliers with two small round wheel shaped blades at the tip, biting a square tile.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "metal-stamping",
+  "category": "crafts",
+  "draw": "Small hammer striking a letter punch onto a round metal disc blank.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "chainmaille",
+  "category": "crafts",
+  "draw": "Pattern of small interlocking rings, each ring linking through four neighbors.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "papier-mache",
+  "category": "crafts",
+  "draw": "Round balloon shape covered in overlapping paper strips with a brush dipping in paste.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "die-cut-machine",
+  "category": "crafts",
+  "draw": "Flat roller machine with a side crank handle and a cutting plate sandwich feeding through.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "light-painting",
+  "category": "crafts",
+  "draw": "Camera on a small tripod facing a bright looping light trail drawn in the dark.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "contact-sheet",
+  "category": "crafts",
+  "draw": "Sheet with a grid of small photo frames in rows and one frame circled.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "film-drying-clip",
+  "category": "crafts",
+  "draw": "Weighted clip hanging from a line holding a strip of film with sprocket holes.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "photo-booth",
+  "category": "crafts",
+  "draw": "Tall booth with a curtain drawn partly open, a stool inside and a photo strip slot on the side.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "coin-album",
+  "category": "crafts",
+  "draw": "Open folder page with rows of round holes, some filled with coins.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "card-binder-page",
+  "category": "crafts",
+  "draw": "Clear sheet with a three by three grid of pockets, each holding a small card.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "graded-card",
+  "category": "crafts",
+  "draw": "Trading card sealed in a rigid clear case with a label strip across the top.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "decal-sheet",
+  "category": "crafts",
+  "draw": "Small sheet with printed stars, numbers and stripes, one decal peeling away.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "word-search-puzzle",
+  "category": "crafts",
+  "draw": "Grid of letters with one horizontal word circled by an oval loop.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "family-tree",
+  "category": "crafts",
+  "draw": "Tree with a trunk and branches ending in small round portrait frames.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "magic-rings",
+  "category": "crafts",
+  "draw": "Three large metal rings linked together in a chain.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "rc-boat",
+  "category": "crafts",
+  "draw": "Speedboat with a pointed hull, a small cabin and a thin antenna on its deck.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "sprue-cutter",
+  "category": "crafts",
+  "draw": "Small spring loaded side cutter with short flat jaws, snipping a part from a runner.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "pin-vise",
+  "category": "crafts",
+  "draw": "Slender knurled hand drill holding a tiny drill bit, with a swivel cap on top.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "clay-extruder",
+  "category": "crafts",
+  "draw": "Metal tube with a plunger lever pushing a shaped clay coil out of the bottom.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "slab-roller",
+  "category": "crafts",
+  "draw": "Flat table with a large roller on side frames and a crank, pressing a clay slab.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "pottery-trimming-tool",
+  "category": "crafts",
+  "draw": "Wooden handle with a flat looped metal ribbon blade bent at an angle.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "glaze-test-tiles",
+  "category": "crafts",
+  "draw": "Row of three small upright tiles with a hanging hole, each with a different glaze drip.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "felt-sheets",
+  "category": "crafts",
+  "draw": "Stack of three soft fabric sheets fanned out slightly with a cut star shape.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "quilting-hoop",
+  "category": "crafts",
+  "draw": "Large round wooden hoop on a floor stand holding stretched patchwork.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "applique",
+  "category": "crafts",
+  "draw": "Fabric square with a heart shape sewn on top using small blanket stitches around the edge.",
+  "domain": "arts-crafts-hobbies"
+ },
+ {
+  "name": "blanket-stitch",
+  "category": "crafts",
+  "draw": "Fabric edge with evenly spaced L shaped stitches running along it.",
+  "domain": "arts-crafts-hobbies"
+ }
+]

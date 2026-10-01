@@ -1,0 +1,40 @@
+{
+  "name": "@typeicon/react",
+  "version": "0.1.0",
+  "description": "TypeIcon icons as individually importable, typed React components.",
+  "private": true,
+  "license": "SEE LICENSE IN generated/licenses/ATTRIBUTION.md",
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./package.json": "./package.json",
+    "./subpaths.json": "./generated/subpaths.json",
+    "./*": {
+      "types": "./generated/*.d.ts",
+      "default": "./generated/*.js"
+    }
+  },
+  "files": [
+    "dist",
+    "generated",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "generate": "node ../scripts/generate.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "react": "19.2.8",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,2562 @@
+[
+  {
+    "name": "sledgehammer",
+    "category": "hardware",
+    "draw": "Long straight wooden handle with a heavy rectangular double faced steel head at the top, drawn diagonally."
+  },
+  {
+    "name": "ball-peen-hammer",
+    "category": "hardware",
+    "draw": "Hammer seen from the side with a flat striking face on one end of the head and a rounded ball on the other."
+  },
+  {
+    "name": "rubber-mallet",
+    "category": "hardware",
+    "draw": "Hammer with a fat barrel shaped rubber head, both ends flat and round, on a short straight handle."
+  },
+  {
+    "name": "wooden-mallet",
+    "category": "hardware",
+    "draw": "Carpenter mallet with a chunky rectangular wooden block head, slightly tapered faces, on a short handle."
+  },
+  {
+    "name": "club-hammer",
+    "category": "hardware",
+    "draw": "Short handled hammer with a heavy square double faced head, stubby and compact."
+  },
+  {
+    "name": "rock-hammer",
+    "category": "hardware",
+    "draw": "Geologist hammer with a square striking face on one side and a long pointed pick on the other, on a straight shaft."
+  },
+  {
+    "name": "brick-hammer",
+    "category": "hardware",
+    "draw": "Mason hammer with a square face on one end and a flat chisel blade on the other end of the head."
+  },
+  {
+    "name": "tack-hammer",
+    "category": "hardware",
+    "draw": "Slim light hammer with a long narrow head, one end split for pulling tacks, on a thin handle."
+  },
+  {
+    "name": "splitting-maul",
+    "category": "hardware",
+    "draw": "Heavy wedge shaped axe head, very thick at the back, on a long straight handle."
+  },
+  {
+    "name": "double-bit-axe",
+    "category": "hardware",
+    "draw": "Axe with two symmetric curved blades on opposite sides of the head, on a long straight handle."
+  },
+  {
+    "name": "adze",
+    "category": "hardware",
+    "draw": "Woodworking tool with a curved blade set at a right angle to the handle, like a hoe, in side view."
+  },
+  {
+    "name": "mattock",
+    "category": "hardware",
+    "draw": "Digging tool with a horizontal flat blade on one side and a pointed pick on the other, on a long handle."
+  },
+  {
+    "name": "hand-tamper",
+    "category": "hardware",
+    "draw": "Tall pole handle ending in a flat square steel plate at the bottom for tamping soil."
+  },
+  {
+    "name": "post-driver",
+    "category": "hardware",
+    "draw": "Hollow steel tube with two side handles and a closed heavy top, placed over a fence post."
+  },
+  {
+    "name": "phillips-screwdriver",
+    "category": "hardware",
+    "draw": "Screwdriver with a chunky handle and a shaft ending in a pointed cross shaped tip, tip shown enlarged."
+  },
+  {
+    "name": "flathead-screwdriver",
+    "category": "hardware",
+    "draw": "Screwdriver with a chunky handle and a shaft ending in a flat wide blade tip."
+  },
+  {
+    "name": "ratchet-screwdriver",
+    "category": "hardware",
+    "draw": "Screwdriver with a thick handle, a small ratchet collar ring near the shaft and a curved arrow around the collar."
+  },
+  {
+    "name": "precision-screwdriver-set",
+    "category": "hardware",
+    "draw": "Row of three slim thin screwdrivers of decreasing size standing upright side by side."
+  },
+  {
+    "name": "screwdriver-bit",
+    "category": "hardware",
+    "draw": "Short hexagonal bit with a cross shaped tip, drawn at an angle with its six sided shank visible."
+  },
+  {
+    "name": "bit-set-case",
+    "category": "hardware",
+    "draw": "Open small case holding a neat row of short driver bits standing in slots."
+  },
+  {
+    "name": "phillips-screw-head",
+    "category": "hardware",
+    "draw": "Top view circle of a screw head with a cross shaped recess in the middle."
+  },
+  {
+    "name": "slotted-screw-head",
+    "category": "hardware",
+    "draw": "Top view circle of a screw head with a single straight slot across it."
+  },
+  {
+    "name": "torx-screw-head",
+    "category": "hardware",
+    "draw": "Top view circle of a screw head with a six pointed rounded star recess."
+  },
+  {
+    "name": "hex-socket-screw-head",
+    "category": "hardware",
+    "draw": "Top view circle of a screw head with a hexagonal recess in the middle."
+  },
+  {
+    "name": "square-drive-screw-head",
+    "category": "hardware",
+    "draw": "Top view circle of a screw head with a small square recess in the middle."
+  },
+  {
+    "name": "tamper-proof-screw-head",
+    "category": "hardware",
+    "draw": "Top view circle of a screw head with two small round holes on either side of the centre."
+  },
+  {
+    "name": "adjustable-wrench",
+    "category": "hardware",
+    "draw": "Wrench with an angled open jaw and a visible worm screw adjuster knurled wheel below the jaw."
+  },
+  {
+    "name": "open-end-wrench",
+    "category": "hardware",
+    "draw": "Flat wrench with an open U shaped jaw on both ends, one larger than the other."
+  },
+  {
+    "name": "box-end-wrench",
+    "category": "hardware",
+    "draw": "Flat wrench with a closed ring end with inner teeth on both ends, slightly offset."
+  },
+  {
+    "name": "pipe-wrench",
+    "category": "hardware",
+    "draw": "Heavy wrench with a long handle, a hooked toothed upper jaw and a large adjusting nut below it."
+  },
+  {
+    "name": "torque-wrench",
+    "category": "hardware",
+    "draw": "Long wrench with a round ratchet head and a small dial gauge on the handle."
+  },
+  {
+    "name": "socket-wrench",
+    "category": "hardware",
+    "draw": "Ratchet handle with a round head and a short square drive stub, a small switch lever on top."
+  },
+  {
+    "name": "wrench-socket",
+    "category": "hardware",
+    "draw": "Short cylinder socket with a hexagonal opening on top and a square hole at the base, in perspective."
+  },
+  {
+    "name": "socket-set",
+    "category": "hardware",
+    "draw": "Open case with a row of hex sockets of increasing size and a ratchet handle lying below."
+  },
+  {
+    "name": "allen-key",
+    "category": "hardware",
+    "draw": "L shaped hexagonal bar key, short leg and long leg at a right angle."
+  },
+  {
+    "name": "hex-key-set",
+    "category": "hardware",
+    "draw": "Fan of several L shaped hex keys of different sizes held in a folding holder."
+  },
+  {
+    "name": "lug-wrench",
+    "category": "hardware",
+    "draw": "Cross shaped wrench with four arms, each ending in a socket, seen from above."
+  },
+  {
+    "name": "strap-wrench",
+    "category": "hardware",
+    "draw": "Short handle with a loop of flat strap wrapped around a round pipe."
+  },
+  {
+    "name": "basin-wrench",
+    "category": "hardware",
+    "draw": "Long vertical shaft with a T bar handle at the bottom and a small hinged gripping jaw at the top."
+  },
+  {
+    "name": "spark-plug-wrench",
+    "category": "hardware",
+    "draw": "T handle wrench with a long tube socket at the end."
+  },
+  {
+    "name": "locking-pliers",
+    "category": "hardware",
+    "draw": "Pliers with curved jaws, a release lever under one handle and an adjusting screw at the end of the other."
+  },
+  {
+    "name": "tongue-and-groove-pliers",
+    "category": "hardware",
+    "draw": "Pliers with long handles, angled jaws and a slotted row of pivot positions at the joint."
+  },
+  {
+    "name": "wire-stripper",
+    "category": "hardware",
+    "draw": "Pliers like tool with a row of small graduated notches along the jaws for stripping wire."
+  },
+  {
+    "name": "crimping-tool",
+    "category": "hardware",
+    "draw": "Pliers with short thick jaws that have small shaped crimp cavities and long handles."
+  },
+  {
+    "name": "diagonal-cutters",
+    "category": "hardware",
+    "draw": "Short pliers with angled pointed cutting jaws that meet in a sharp edge, curved handles."
+  },
+  {
+    "name": "lineman-pliers",
+    "category": "hardware",
+    "draw": "Heavy pliers with blunt square flat jaws and a cutting edge near the pivot."
+  },
+  {
+    "name": "snap-ring-pliers",
+    "category": "hardware",
+    "draw": "Pliers with two thin bent pin tips at the jaws for expanding retaining rings."
+  },
+  {
+    "name": "bolt-cutters",
+    "category": "hardware",
+    "draw": "Long handled cutter with two very long arms and short heavy pointed jaws at the top."
+  },
+  {
+    "name": "tin-snips",
+    "category": "hardware",
+    "draw": "Scissor like metal cutter with short thick curved blades and long cushioned handles."
+  },
+  {
+    "name": "pipe-cutter",
+    "category": "hardware",
+    "draw": "C shaped frame around a pipe with a cutting wheel on one side and a turning knob screw below."
+  },
+  {
+    "name": "glass-cutter",
+    "category": "hardware",
+    "draw": "Slim pen like handle with a tiny cutting wheel at the tip and a ball at the other end."
+  },
+  {
+    "name": "tile-cutter",
+    "category": "hardware",
+    "draw": "Flat base with a rail across it and a lever handle with a scoring wheel, a tile on the base."
+  },
+  {
+    "name": "cable-cutter",
+    "category": "hardware",
+    "draw": "Cutter with long handles and curved hooked jaws that enclose a round cable."
+  },
+  {
+    "name": "hacksaw",
+    "category": "hardware",
+    "draw": "C shaped metal frame holding a thin straight blade with small teeth along the bottom, pistol handle."
+  },
+  {
+    "name": "coping-saw",
+    "category": "hardware",
+    "draw": "Deep U shaped frame with a very thin blade stretched across the open end and a straight handle."
+  },
+  {
+    "name": "bow-saw",
+    "category": "hardware",
+    "draw": "Curved bow shaped tubular frame with a wide toothed blade across its open side."
+  },
+  {
+    "name": "keyhole-saw",
+    "category": "hardware",
+    "draw": "Narrow pointed tapering blade with teeth, sticking straight out of a pistol grip handle."
+  },
+  {
+    "name": "pull-saw",
+    "category": "hardware",
+    "draw": "Long straight handle wrapped with cord and a thin rectangular blade with fine teeth."
+  },
+  {
+    "name": "miter-box",
+    "category": "hardware",
+    "draw": "Open topped U shaped box with angled slots cut in the side walls and a saw resting in one slot."
+  },
+  {
+    "name": "hole-saw",
+    "category": "hardware",
+    "draw": "Short cup shaped cylinder with a toothed rim and a pointed pilot drill in the centre."
+  },
+  {
+    "name": "circular-saw-blade",
+    "category": "hardware",
+    "draw": "Round disc with sharp angled teeth around the edge and a hole in the centre."
+  },
+  {
+    "name": "jigsaw-blade",
+    "category": "hardware",
+    "draw": "Short narrow straight blade with teeth on one edge and a tang with a notch at the top."
+  },
+  {
+    "name": "band-saw-blade",
+    "category": "hardware",
+    "draw": "Coiled loop of thin toothed blade folded into three smaller rings."
+  },
+  {
+    "name": "chainsaw-chain",
+    "category": "hardware",
+    "draw": "Oval loop of chain made of linked cutters with small hooked teeth along the edge."
+  },
+  {
+    "name": "drawknife",
+    "category": "hardware",
+    "draw": "Long straight blade with a handle at each end bent toward the user, drawn in top view."
+  },
+  {
+    "name": "wood-chisel",
+    "category": "hardware",
+    "draw": "Flat bevelled steel blade with a straight sharp end set into a wooden handle."
+  },
+  {
+    "name": "cold-chisel",
+    "category": "hardware",
+    "draw": "Short thick hexagonal steel bar with a wedge edge at one end and a mushroomed striking top."
+  },
+  {
+    "name": "carving-gouge",
+    "category": "hardware",
+    "draw": "Chisel with a curved U shaped blade tip set in a round wooden handle."
+  },
+  {
+    "name": "hand-plane",
+    "category": "hardware",
+    "draw": "Side view of a block plane: a boat shaped body with a knob at the front and a tote handle at the back."
+  },
+  {
+    "name": "spokeshave",
+    "category": "hardware",
+    "draw": "Short plane blade in a body with two wing handles spreading out to either side."
+  },
+  {
+    "name": "wood-rasp",
+    "category": "hardware",
+    "draw": "Flat half round file covered with a grid of raised dots, with a wooden handle."
+  },
+  {
+    "name": "metal-file",
+    "category": "hardware",
+    "draw": "Long flat tapering file with a diagonal crosshatch texture and a tang in a handle."
+  },
+  {
+    "name": "needle-file-set",
+    "category": "hardware",
+    "draw": "Fan of four very thin files with different cross sections, handles together at the bottom."
+  },
+  {
+    "name": "putty-knife",
+    "category": "hardware",
+    "draw": "Flexible flat rounded rectangle blade on a short fat handle."
+  },
+  {
+    "name": "awl",
+    "category": "hardware",
+    "draw": "Round bulb handle with a thin sharp pointed steel spike."
+  },
+  {
+    "name": "center-punch",
+    "category": "hardware",
+    "draw": "Knurled steel rod tapering to a sharp conical point at one end."
+  },
+  {
+    "name": "nail-set",
+    "category": "hardware",
+    "draw": "Short knurled steel rod tapering to a tiny cupped tip, placed over a nail head."
+  },
+  {
+    "name": "letter-punch-set",
+    "category": "hardware",
+    "draw": "Row of short square steel punches, each with a raised letter on its tip."
+  },
+  {
+    "name": "crowbar",
+    "category": "hardware",
+    "draw": "Long steel bar with a curved hook and split claw at one end and a flat chisel end at the other."
+  },
+  {
+    "name": "flat-pry-bar",
+    "category": "hardware",
+    "draw": "Flat wide steel bar with a slight bend at each end and a nail slot."
+  },
+  {
+    "name": "cats-paw-nail-puller",
+    "category": "hardware",
+    "draw": "Short steel bar with a small curled claw at the tip bent at a sharp angle."
+  },
+  {
+    "name": "staple-gun",
+    "category": "hardware",
+    "draw": "Side view of a heavy staple gun: a boxy body with a hinged lever handle on top."
+  },
+  {
+    "name": "rivet-gun",
+    "category": "hardware",
+    "draw": "Hand riveter with two long handles and a nose piece holding a pop rivet."
+  },
+  {
+    "name": "caulking-gun",
+    "category": "hardware",
+    "draw": "Open frame holding a cartridge tube, with a trigger handle and a long plunger rod at the back."
+  },
+  {
+    "name": "grease-gun",
+    "category": "hardware",
+    "draw": "Cylinder barrel with a lever handle on top and a thin bent nozzle tube coming out the front."
+  },
+  {
+    "name": "hot-glue-gun",
+    "category": "hardware",
+    "draw": "Pistol shaped glue gun with a thin nozzle at the front and a glue stick coming out the back."
+  },
+  {
+    "name": "soldering-iron",
+    "category": "hardware",
+    "draw": "Pen shaped tool with a cushioned grip, a slim metal shaft and a fine pointed tip, with a cord."
+  },
+  {
+    "name": "soldering-station",
+    "category": "hardware",
+    "draw": "Small box base with a dial and a curled coil stand holding a soldering iron."
+  },
+  {
+    "name": "solder-wire-spool",
+    "category": "hardware",
+    "draw": "Small spool with thin wire wound around it and a loose end trailing off."
+  },
+  {
+    "name": "heat-gun",
+    "category": "hardware",
+    "draw": "Pistol shaped tool with a wide round nozzle and wavy heat lines coming out the front."
+  },
+  {
+    "name": "blowtorch",
+    "category": "hardware",
+    "draw": "Squat fuel canister with a torch head on top, an angled nozzle and a flame coming out."
+  },
+  {
+    "name": "cutting-torch",
+    "category": "hardware",
+    "draw": "Long torch handle with two hose valves at the back and a bent head at the front with a flame."
+  },
+  {
+    "name": "welding-helmet",
+    "category": "hardware",
+    "draw": "Front view of a welding mask covering the whole face with a dark rectangular viewing window."
+  },
+  {
+    "name": "welding-rod",
+    "category": "hardware",
+    "draw": "Bundle of three thin straight rods with bare metal ends and coated bodies."
+  },
+  {
+    "name": "oil-can",
+    "category": "hardware",
+    "draw": "Round oiler can with a pump thumb lever and a long thin straight spout pointing up at an angle."
+  },
+  {
+    "name": "lubricant-spray",
+    "category": "hardware",
+    "draw": "Spray can with a thin red straw nozzle sticking out from the actuator at the top."
+  },
+  {
+    "name": "paint-sprayer",
+    "category": "hardware",
+    "draw": "Spray gun with a trigger handle, a cup underneath and a mist cone out of the nozzle."
+  },
+  {
+    "name": "paint-tray",
+    "category": "hardware",
+    "draw": "Angled rectangular roller tray seen in perspective with a ribbed slope and a deeper well."
+  },
+  {
+    "name": "sanding-block",
+    "category": "hardware",
+    "draw": "Rounded rectangular pad with a handle hump on top and sandpaper wrapped on the bottom."
+  },
+  {
+    "name": "steel-wool",
+    "category": "hardware",
+    "draw": "Rounded nest of tangled curly lines forming a soft pad."
+  },
+  {
+    "name": "dust-brush",
+    "category": "hardware",
+    "draw": "Flat wide brush with a short handle and long bristles, like a bench brush."
+  },
+  {
+    "name": "impact-driver",
+    "category": "hardware",
+    "draw": "Compact pistol shaped power tool with a short hex collet at the front and a battery under the grip."
+  },
+  {
+    "name": "hammer-drill",
+    "category": "hardware",
+    "draw": "Pistol shaped drill with a side handle sticking out below the chuck and a masonry bit."
+  },
+  {
+    "name": "drill-press",
+    "category": "hardware",
+    "draw": "Tall column on a heavy base with a table and a drill head on top with three spoke handles."
+  },
+  {
+    "name": "circular-saw",
+    "category": "hardware",
+    "draw": "Handheld saw with a round blade under a curved guard, a top handle and a flat base plate."
+  },
+  {
+    "name": "power-jigsaw",
+    "category": "hardware",
+    "draw": "Power jigsaw in side view with a closed D handle on top and a short blade poking out underneath."
+  },
+  {
+    "name": "reciprocating-saw",
+    "category": "hardware",
+    "draw": "Long power saw with a body grip at the back and a straight blade sticking out of the front."
+  },
+  {
+    "name": "miter-saw",
+    "category": "hardware",
+    "draw": "Circular saw blade on a pivoting arm above a round turntable base with a fence."
+  },
+  {
+    "name": "table-saw",
+    "category": "hardware",
+    "draw": "Flat table top with a round blade poking up through the middle and a fence rail along one side."
+  },
+  {
+    "name": "chainsaw",
+    "category": "hardware",
+    "draw": "Chainsaw in side view with a motor body, a top handle and a long flat bar wrapped with chain teeth."
+  },
+  {
+    "name": "band-saw",
+    "category": "hardware",
+    "draw": "Tall C shaped frame housing two wheels with a vertical blade running across a small table."
+  },
+  {
+    "name": "scroll-saw",
+    "category": "hardware",
+    "draw": "Low machine with a long overhead arm and a thin vertical blade over a small table."
+  },
+  {
+    "name": "angle-grinder",
+    "category": "hardware",
+    "draw": "Long cylindrical motor body with a round disc and half guard at the front, set at a right angle."
+  },
+  {
+    "name": "bench-grinder",
+    "category": "hardware",
+    "draw": "Central motor with a grinding wheel on each side under curved guards, on a small base."
+  },
+  {
+    "name": "belt-sander",
+    "category": "hardware",
+    "draw": "Handheld sander with a loop of sanding belt around two rollers, a top handle and a dust bag."
+  },
+  {
+    "name": "orbital-sander",
+    "category": "hardware",
+    "draw": "Palm sander with a round pad at the bottom and a round dome grip on top."
+  },
+  {
+    "name": "detail-sander",
+    "category": "hardware",
+    "draw": "Palm sander with an iron shaped triangular pointed pad at the bottom."
+  },
+  {
+    "name": "wood-router",
+    "category": "hardware",
+    "draw": "Round motor body standing on a flat round base with two knob handles on the sides."
+  },
+  {
+    "name": "electric-planer",
+    "category": "hardware",
+    "draw": "Handheld planer with a long flat sole, a top handle and a chip chute on the side."
+  },
+  {
+    "name": "nail-gun",
+    "category": "hardware",
+    "draw": "Pneumatic nailer in side view with a handle, a long nose and an angled nail magazine strip."
+  },
+  {
+    "name": "air-compressor",
+    "category": "hardware",
+    "draw": "Horizontal tank on small wheels with a motor on top and a round pressure gauge."
+  },
+  {
+    "name": "air-hose-coil",
+    "category": "hardware",
+    "draw": "Coiled hose spiral with a quick connect fitting on one end."
+  },
+  {
+    "name": "rotary-tool",
+    "category": "hardware",
+    "draw": "Slim pen shaped power tool with a tiny round cutting bit at the front."
+  },
+  {
+    "name": "oscillating-multitool",
+    "category": "hardware",
+    "draw": "Long body power tool with a small flat fan shaped blade attached at the front end."
+  },
+  {
+    "name": "wood-lathe",
+    "category": "hardware",
+    "draw": "Long bed with a headstock on the left, a tailstock on the right and a spindle shaped workpiece between."
+  },
+  {
+    "name": "shop-vacuum",
+    "category": "hardware",
+    "draw": "Round drum canister on casters with a lid motor top and a flexible hose coming from the side."
+  },
+  {
+    "name": "jackhammer",
+    "category": "hardware",
+    "draw": "Tall pneumatic breaker with a T handle at the top, a cylinder body and a long chisel point at the bottom."
+  },
+  {
+    "name": "demolition-hammer",
+    "category": "hardware",
+    "draw": "Large power tool with a rear D handle, a side handle and a pointed chisel bit at the front."
+  },
+  {
+    "name": "tile-saw",
+    "category": "hardware",
+    "draw": "Small table with a round blade in the middle over a water tray and a sliding guide."
+  },
+  {
+    "name": "cordless-tool-battery",
+    "category": "hardware",
+    "draw": "Rectangular battery pack with a slide rail on top and a row of charge level bars on the front."
+  },
+  {
+    "name": "drill-chuck",
+    "category": "hardware",
+    "draw": "Knurled cylindrical chuck with three jaws meeting at the front and a keyhole on the side."
+  },
+  {
+    "name": "chuck-key",
+    "category": "hardware",
+    "draw": "T shaped key with a small toothed gear near the pin end."
+  },
+  {
+    "name": "twist-drill-bit",
+    "category": "hardware",
+    "draw": "Long straight drill bit with a spiral groove along its body and a pointed tip."
+  },
+  {
+    "name": "spade-bit",
+    "category": "hardware",
+    "draw": "Drill bit with a flat paddle shaped blade and a sharp central point at the tip."
+  },
+  {
+    "name": "forstner-bit",
+    "category": "hardware",
+    "draw": "Short cylinder bit with a flat face, a toothed rim and a tiny centre spur."
+  },
+  {
+    "name": "auger-bit",
+    "category": "hardware",
+    "draw": "Long drill bit with a wide open corkscrew spiral and a threaded screw point."
+  },
+  {
+    "name": "step-drill-bit",
+    "category": "hardware",
+    "draw": "Cone shaped bit built from stacked steps of decreasing diameter."
+  },
+  {
+    "name": "countersink-bit",
+    "category": "hardware",
+    "draw": "Short bit with a cone shaped cutting head that has a few flutes."
+  },
+  {
+    "name": "masonry-drill-bit",
+    "category": "hardware",
+    "draw": "Straight spiral drill bit with a wider arrow shaped carbide tip at the end."
+  },
+  {
+    "name": "grinding-disc",
+    "category": "hardware",
+    "draw": "Flat round disc with a raised centre hub and a hole in the middle."
+  },
+  {
+    "name": "flap-disc",
+    "category": "hardware",
+    "draw": "Round disc covered in overlapping flaps arranged like fish scales around a centre hole."
+  },
+  {
+    "name": "sanding-disc",
+    "category": "hardware",
+    "draw": "Round sanding pad with a ring of small holes and a grainy dotted texture."
+  },
+  {
+    "name": "wire-wheel",
+    "category": "hardware",
+    "draw": "Round wheel of radiating bristle lines around a centre hub."
+  },
+  {
+    "name": "bench-vise",
+    "category": "hardware",
+    "draw": "Heavy vise with two jaws, a long screw with a sliding T bar handle, mounted on a bench edge."
+  },
+  {
+    "name": "bar-clamp",
+    "category": "hardware",
+    "draw": "Long flat bar with a fixed jaw at one end and a sliding jaw with a trigger grip."
+  },
+  {
+    "name": "spring-clamp",
+    "category": "hardware",
+    "draw": "Clamp shaped like a big clothes peg with two handles, a coil spring and padded tips."
+  },
+  {
+    "name": "pipe-clamp",
+    "category": "hardware",
+    "draw": "Clamp made from a round pipe with a jaw at one end and a screw handle jaw at the other."
+  },
+  {
+    "name": "corner-clamp",
+    "category": "hardware",
+    "draw": "Right angle clamp holding two boards together at a corner with a screw handle."
+  },
+  {
+    "name": "f-clamp",
+    "category": "hardware",
+    "draw": "F shaped clamp with a long bar, a fixed upper arm and a lower arm with a screw and handle."
+  },
+  {
+    "name": "magnetic-pickup-tool",
+    "category": "hardware",
+    "draw": "Telescoping pen shaped rod with a small magnet at the tip lifting a screw."
+  },
+  {
+    "name": "helping-hands",
+    "category": "hardware",
+    "draw": "Small weighted base with two jointed arms holding crocodile clips and a round magnifier."
+  },
+  {
+    "name": "caliper",
+    "category": "hardware",
+    "draw": "Vernier caliper with a long graduated bar, one fixed jaw and a sliding jaw with a small scale."
+  },
+  {
+    "name": "digital-caliper",
+    "category": "hardware",
+    "draw": "Caliper with a long bar and a sliding head carrying a small rectangular digital display."
+  },
+  {
+    "name": "micrometer",
+    "category": "hardware",
+    "draw": "C shaped frame with an anvil on one side and a thick graduated barrel with a thimble on the other."
+  },
+  {
+    "name": "feeler-gauge",
+    "category": "hardware",
+    "draw": "Fan of thin metal blades pivoting from a common screw at one end."
+  },
+  {
+    "name": "dial-indicator",
+    "category": "hardware",
+    "draw": "Round gauge face with a needle and a long plunger rod sticking out of the bottom."
+  },
+  {
+    "name": "carpenter-square",
+    "category": "hardware",
+    "draw": "Large flat L shaped steel square with ruler tick marks along both arms."
+  },
+  {
+    "name": "speed-square",
+    "category": "hardware",
+    "draw": "Triangular rafter square with a thick lip on one edge and degree marks along the hypotenuse."
+  },
+  {
+    "name": "try-square",
+    "category": "hardware",
+    "draw": "Small L square with a thick wooden stock and a thin steel blade at a right angle."
+  },
+  {
+    "name": "sliding-bevel",
+    "category": "hardware",
+    "draw": "Handle stock with a thin blade pivoting on a wing nut at an adjustable angle."
+  },
+  {
+    "name": "plumb-bob",
+    "category": "hardware",
+    "draw": "Pointed brass weight shaped like a spinning top hanging from a vertical string."
+  },
+  {
+    "name": "chalk-line-reel",
+    "category": "hardware",
+    "draw": "Teardrop shaped reel case with a crank handle and a string pulled out of the front with a hook."
+  },
+  {
+    "name": "laser-level",
+    "category": "hardware",
+    "draw": "Small box on a tripod projecting straight horizontal and vertical laser lines."
+  },
+  {
+    "name": "laser-distance-meter",
+    "category": "hardware",
+    "draw": "Handheld rectangular device with a small screen and a dashed beam coming out of the top end."
+  },
+  {
+    "name": "stud-finder",
+    "category": "hardware",
+    "draw": "Palm sized oval device with a row of small indicator lights along the top edge."
+  },
+  {
+    "name": "measuring-wheel",
+    "category": "hardware",
+    "draw": "Wheel on the end of a long handle with a small counter box near the grip."
+  },
+  {
+    "name": "folding-ruler",
+    "category": "hardware",
+    "draw": "Zigzag ruler made of hinged segments partly unfolded, with tick marks."
+  },
+  {
+    "name": "moisture-meter",
+    "category": "hardware",
+    "draw": "Handheld meter with a small display and two sharp metal pins sticking out of the top."
+  },
+  {
+    "name": "infrared-thermometer",
+    "category": "hardware",
+    "draw": "Pistol shaped thermometer with a display on the back and a dashed beam from the front."
+  },
+  {
+    "name": "pressure-gauge",
+    "category": "hardware",
+    "draw": "Round gauge with a needle and a threaded stem at the bottom, a hex nut above the thread."
+  },
+  {
+    "name": "multimeter",
+    "category": "hardware",
+    "draw": "Rectangular meter with a display at the top, a large round selector dial and two probe leads."
+  },
+  {
+    "name": "clamp-meter",
+    "category": "hardware",
+    "draw": "Tall handheld meter with a large jaw loop at the top that opens around a wire."
+  },
+  {
+    "name": "voltage-tester-pen",
+    "category": "hardware",
+    "draw": "Pen shaped tester with a pointed tip, a clip on the side and a small lightning mark."
+  },
+  {
+    "name": "contour-gauge",
+    "category": "hardware",
+    "draw": "Row of many thin parallel pins held in a bar, the pins shifted to trace a wavy profile."
+  },
+  {
+    "name": "angle-finder",
+    "category": "hardware",
+    "draw": "Two hinged arms opening like a compass with a round protractor dial at the joint."
+  },
+  {
+    "name": "marking-gauge",
+    "category": "hardware",
+    "draw": "Wooden beam passing through a sliding fence block with a small pin at the end."
+  },
+  {
+    "name": "carpenter-pencil",
+    "category": "hardware",
+    "draw": "Flat rectangular pencil with a chisel shaped lead point."
+  },
+  {
+    "name": "scribe-tool",
+    "category": "hardware",
+    "draw": "Slim pen shaped rod with a fine hardened point at each end, one end bent at a right angle."
+  },
+  {
+    "name": "thread-gauge",
+    "category": "hardware",
+    "draw": "Fan of thin leaves each with a saw toothed edge, pivoting from one end."
+  },
+  {
+    "name": "inspection-mirror",
+    "category": "hardware",
+    "draw": "Small round mirror on the end of a telescoping rod with a pen style handle."
+  },
+  {
+    "name": "theodolite",
+    "category": "hardware",
+    "draw": "Surveying instrument on a tripod: a telescope mounted between two uprights on a round base."
+  },
+  {
+    "name": "surveyor-rod",
+    "category": "hardware",
+    "draw": "Tall striped staff with alternating blocks of markings and numbers along its length."
+  },
+  {
+    "name": "survey-stake",
+    "category": "hardware",
+    "draw": "Wooden stake driven in the ground with a small ribbon flag tied near the top."
+  },
+  {
+    "name": "lag-screw",
+    "category": "hardware",
+    "draw": "Large screw with a hex head, thick shank and coarse threads ending in a point."
+  },
+  {
+    "name": "machine-screw",
+    "category": "hardware",
+    "draw": "Screw with a round slotted head and fine even threads ending in a flat tip."
+  },
+  {
+    "name": "thumbscrew",
+    "category": "hardware",
+    "draw": "Screw with a wide flat knurled wing head for turning by hand and a threaded shank."
+  },
+  {
+    "name": "set-screw",
+    "category": "hardware",
+    "draw": "Short fully threaded headless cylinder with a hex socket on top."
+  },
+  {
+    "name": "eyebolt",
+    "category": "hardware",
+    "draw": "Bolt with a round closed ring at the top and a threaded shank below."
+  },
+  {
+    "name": "u-bolt-clamp",
+    "category": "hardware",
+    "draw": "U shaped threaded rod with a flat bar plate across the open ends and two nuts."
+  },
+  {
+    "name": "carriage-bolt-and-nut",
+    "category": "hardware",
+    "draw": "Bolt with a smooth domed head, a small square neck and a threaded end with a nut."
+  },
+  {
+    "name": "toggle-anchor",
+    "category": "hardware",
+    "draw": "Bolt with a folding spring wing toggle at the end, wings spread out."
+  },
+  {
+    "name": "wall-anchor",
+    "category": "hardware",
+    "draw": "Ribbed plastic tube anchor with a flange at the top and split fins along its sides."
+  },
+  {
+    "name": "threaded-rod",
+    "category": "hardware",
+    "draw": "Long straight rod with thread lines along its whole length and a nut on it."
+  },
+  {
+    "name": "wing-nut",
+    "category": "hardware",
+    "draw": "Nut with two flat rounded wings sticking up on opposite sides."
+  },
+  {
+    "name": "cap-nut",
+    "category": "hardware",
+    "draw": "Hex nut topped with a smooth rounded dome, side view."
+  },
+  {
+    "name": "lock-nut",
+    "category": "hardware",
+    "draw": "Hex nut with a narrower ring collar on top, side view."
+  },
+  {
+    "name": "t-nut",
+    "category": "hardware",
+    "draw": "Round flange disc with a threaded barrel sticking down and small pointed prongs."
+  },
+  {
+    "name": "flange-nut",
+    "category": "hardware",
+    "draw": "Hex nut with a wide round washer flange at its base, side view."
+  },
+  {
+    "name": "flat-washer",
+    "category": "hardware",
+    "draw": "Flat ring with a round hole, seen from the top at a slight angle."
+  },
+  {
+    "name": "split-lock-washer",
+    "category": "hardware",
+    "draw": "Ring washer split at one point with the two ends offset like a coil."
+  },
+  {
+    "name": "rivet",
+    "category": "hardware",
+    "draw": "Mushroom shaped fastener with a rounded head and a straight smooth shank."
+  },
+  {
+    "name": "pop-rivet",
+    "category": "hardware",
+    "draw": "Rivet with a small flange head and a long thin mandrel pin sticking through the middle."
+  },
+  {
+    "name": "cotter-pin",
+    "category": "hardware",
+    "draw": "Bent pin with a round loop at the top and two parallel legs, the ends slightly spread."
+  },
+  {
+    "name": "hitch-pin-clip",
+    "category": "hardware",
+    "draw": "R shaped spring clip with a straight leg and a wavy curved leg."
+  },
+  {
+    "name": "clevis-pin",
+    "category": "hardware",
+    "draw": "Short pin with a round head at one end and a small cross hole at the other."
+  },
+  {
+    "name": "wooden-dowel",
+    "category": "hardware",
+    "draw": "Short round wooden peg with fluted grooves and chamfered ends, at an angle."
+  },
+  {
+    "name": "staples-strip",
+    "category": "hardware",
+    "draw": "Row of joined U shaped staples forming a strip, seen at an angle."
+  },
+  {
+    "name": "upholstery-tack",
+    "category": "hardware",
+    "draw": "Tack with a big round domed head and a short sharp spike."
+  },
+  {
+    "name": "hose-clamp",
+    "category": "hardware",
+    "draw": "Round band clamp with slotted holes and a screw housing on one side."
+  },
+  {
+    "name": "cable-tie",
+    "category": "hardware",
+    "draw": "Long thin strap with ridges looped into a circle through a small square head."
+  },
+  {
+    "name": "snap-ring",
+    "category": "hardware",
+    "draw": "Open C shaped retaining ring with two small eyelet holes at the ends."
+  },
+  {
+    "name": "o-ring",
+    "category": "hardware",
+    "draw": "Thick round rubber ring, drawn slightly in perspective with a shaded inner edge."
+  },
+  {
+    "name": "gasket",
+    "category": "hardware",
+    "draw": "Flat irregular plate outline with a large central opening and bolt holes around the edge."
+  },
+  {
+    "name": "grommet",
+    "category": "hardware",
+    "draw": "Round metal eyelet ring with a rolled edge set in fabric."
+  },
+  {
+    "name": "compression-spring",
+    "category": "hardware",
+    "draw": "Tall helical compression spring drawn as a zigzag of loops."
+  },
+  {
+    "name": "extension-spring",
+    "category": "hardware",
+    "draw": "Tight coil spring with a hook loop at each end."
+  },
+  {
+    "name": "torsion-spring",
+    "category": "hardware",
+    "draw": "Short coil spring with two long straight legs sticking out at an angle."
+  },
+  {
+    "name": "s-hook",
+    "category": "hardware",
+    "draw": "Metal hook bent into an S shape with two open curls."
+  },
+  {
+    "name": "screw-hook",
+    "category": "hardware",
+    "draw": "Curved open hook on a short threaded screw shank."
+  },
+  {
+    "name": "picture-hanger",
+    "category": "hardware",
+    "draw": "Small angled hook plate with a slim nail passing through it."
+  },
+  {
+    "name": "magnetic-hook",
+    "category": "hardware",
+    "draw": "Round disc magnet with a hook rising from the centre."
+  },
+  {
+    "name": "butt-hinge",
+    "category": "hardware",
+    "draw": "Two rectangular leaves joined by a knuckle pin in the middle, with screw holes."
+  },
+  {
+    "name": "strap-hinge",
+    "category": "hardware",
+    "draw": "Long tapered strap leaf joined by a knuckle to a short rectangular leaf."
+  },
+  {
+    "name": "piano-hinge",
+    "category": "hardware",
+    "draw": "Very long thin hinge with a continuous knuckle along its length."
+  },
+  {
+    "name": "hasp-and-staple",
+    "category": "hardware",
+    "draw": "Hinged flat hasp plate with a slot, closing over a loop staple on a separate plate."
+  },
+  {
+    "name": "barrel-bolt-latch",
+    "category": "hardware",
+    "draw": "Door bolt with a round rod sliding in a housing, a knob handle and a keeper."
+  },
+  {
+    "name": "gate-latch",
+    "category": "hardware",
+    "draw": "Thumb latch with a lever bar pivoting into a hooked catch."
+  },
+  {
+    "name": "door-chain",
+    "category": "hardware",
+    "draw": "Short chain with a slide knob end hanging from a track plate on a door."
+  },
+  {
+    "name": "door-stopper",
+    "category": "hardware",
+    "draw": "Wedge shaped rubber stop sitting under the edge of a door."
+  },
+  {
+    "name": "door-closer",
+    "category": "hardware",
+    "draw": "Rectangular hydraulic cylinder body on a door top with a jointed arm to the frame."
+  },
+  {
+    "name": "peephole",
+    "category": "hardware",
+    "draw": "Small round door viewer with a lens in a ring on a door surface."
+  },
+  {
+    "name": "mail-slot",
+    "category": "hardware",
+    "draw": "Rectangular flap letterbox plate on a door with a horizontal hinged flap."
+  },
+  {
+    "name": "combination-padlock",
+    "category": "hardware",
+    "draw": "Padlock body with a round numbered dial on its front and a shackle on top."
+  },
+  {
+    "name": "shackle-hardware",
+    "category": "hardware",
+    "draw": "U shaped metal shackle with a threaded pin bolt across the open end."
+  },
+  {
+    "name": "turnbuckle",
+    "category": "hardware",
+    "draw": "Long open frame with two threaded eye hooks screwed into opposite ends."
+  },
+  {
+    "name": "carabiner",
+    "category": "hardware",
+    "draw": "Oval metal clip with a spring gate on one side, slightly D shaped."
+  },
+  {
+    "name": "d-ring",
+    "category": "hardware",
+    "draw": "Metal ring shaped like a letter D with a flat straight side."
+  },
+  {
+    "name": "chain-links",
+    "category": "hardware",
+    "draw": "Three interlocking oval chain links in a diagonal line."
+  },
+  {
+    "name": "wire-rope",
+    "category": "hardware",
+    "draw": "Thick twisted rope made of spiral strands with a looped thimble end."
+  },
+  {
+    "name": "pulley",
+    "category": "hardware",
+    "draw": "Round grooved wheel in a side bracket with a hook on top and a rope over the wheel."
+  },
+  {
+    "name": "block-and-tackle",
+    "category": "hardware",
+    "draw": "Two pulley blocks, one above the other, with rope running between them and a hook below."
+  },
+  {
+    "name": "caster-wheel",
+    "category": "hardware",
+    "draw": "Small wheel in a swivel fork with a flat mounting plate on top."
+  },
+  {
+    "name": "drawer-slide",
+    "category": "hardware",
+    "draw": "Two long telescoping rails partly extended with small mounting holes."
+  },
+  {
+    "name": "drawer-pull",
+    "category": "hardware",
+    "draw": "U shaped bar handle with two mounting posts on a drawer front."
+  },
+  {
+    "name": "cabinet-knob",
+    "category": "hardware",
+    "draw": "Small round mushroom knob on a short neck, side view."
+  },
+  {
+    "name": "shelf-bracket",
+    "category": "hardware",
+    "draw": "Right angle bracket with a diagonal brace between its two arms."
+  },
+  {
+    "name": "l-bracket",
+    "category": "hardware",
+    "draw": "Flat metal L shaped angle plate with two screw holes on each leg."
+  },
+  {
+    "name": "mending-plate",
+    "category": "hardware",
+    "draw": "Flat straight metal strip with a row of screw holes."
+  },
+  {
+    "name": "joist-hanger",
+    "category": "hardware",
+    "draw": "U shaped metal saddle with flanges and nail holes holding the end of a beam."
+  },
+  {
+    "name": "ball-bearing",
+    "category": "hardware",
+    "draw": "Two concentric rings with a ring of small balls between them, front view."
+  },
+  {
+    "name": "gear-wheel",
+    "category": "hardware",
+    "draw": "Single spur gear with square teeth around the rim and a hub hole in the centre."
+  },
+  {
+    "name": "sprocket",
+    "category": "hardware",
+    "draw": "Flat wheel with pointed hooked teeth around its rim and a centre hole."
+  },
+  {
+    "name": "bevel-gear",
+    "category": "hardware",
+    "draw": "Two cone shaped gears meshing at a right angle."
+  },
+  {
+    "name": "worm-gear",
+    "category": "hardware",
+    "draw": "Threaded screw shaft meshing with the teeth of a round gear wheel."
+  },
+  {
+    "name": "rack-and-pinion",
+    "category": "hardware",
+    "draw": "Small round gear meshing with a straight toothed bar."
+  },
+  {
+    "name": "belt-drive",
+    "category": "hardware",
+    "draw": "Two round pulleys of different size joined by a long belt loop."
+  },
+  {
+    "name": "piston",
+    "category": "hardware",
+    "draw": "Cylinder shaped piston with ring grooves on top and a connecting rod below."
+  },
+  {
+    "name": "crankshaft",
+    "category": "hardware",
+    "draw": "Long shaft with offset zigzag throws and round counterweights along it."
+  },
+  {
+    "name": "spark-plug",
+    "category": "hardware",
+    "draw": "Tall plug with a ribbed ceramic insulator, a hex nut middle and a threaded tip with an electrode."
+  },
+  {
+    "name": "hydraulic-cylinder",
+    "category": "hardware",
+    "draw": "Long tube cylinder with a shiny rod extending out one end and mounting eyes on both ends."
+  },
+  {
+    "name": "universal-joint",
+    "category": "hardware",
+    "draw": "Two yoke forks joined at right angles by a cross shaped centre piece."
+  },
+  {
+    "name": "shaft-coupling",
+    "category": "hardware",
+    "draw": "Short cylinder joining two shafts end to end with set screws on top."
+  },
+  {
+    "name": "leaf-spring",
+    "category": "hardware",
+    "draw": "Stack of curved flat steel leaves bundled together with eyes at both ends."
+  },
+  {
+    "name": "shock-absorber",
+    "category": "hardware",
+    "draw": "Cylinder with a coil spring wrapped around it and mounting eyes at each end."
+  },
+  {
+    "name": "handwheel",
+    "category": "hardware",
+    "draw": "Round wheel with spokes and a small crank knob on the rim."
+  },
+  {
+    "name": "key-blank",
+    "category": "hardware",
+    "draw": "Uncut flat key with a round bow and a smooth straight blade."
+  },
+  {
+    "name": "key-cutting",
+    "category": "hardware",
+    "draw": "Key held in a clamp with a round cutting wheel touching its blade."
+  },
+  {
+    "name": "pegboard",
+    "category": "hardware",
+    "draw": "Board with a regular grid of holes and a few hooks holding tools."
+  },
+  {
+    "name": "parts-organizer",
+    "category": "hardware",
+    "draw": "Box with a grid of small drawers or compartments, each with a tiny pull."
+  },
+  {
+    "name": "rolling-tool-cabinet",
+    "category": "hardware",
+    "draw": "Rolling cabinet with several wide flat drawers, a top lid and caster wheels."
+  },
+  {
+    "name": "tool-belt",
+    "category": "hardware",
+    "draw": "Belt with a buckle and pouches holding a hammer and screwdriver."
+  },
+  {
+    "name": "tool-bag",
+    "category": "hardware",
+    "draw": "Open wide mouthed bag with a rigid frame handle and tools sticking out the top."
+  },
+  {
+    "name": "workbench",
+    "category": "hardware",
+    "draw": "Sturdy table with a thick top, a vise at one end and a lower shelf."
+  },
+  {
+    "name": "sawhorse",
+    "category": "hardware",
+    "draw": "A frame trestle: a horizontal beam on two splayed pairs of legs."
+  },
+  {
+    "name": "step-stool",
+    "category": "hardware",
+    "draw": "Small two step folding stool seen from the side."
+  },
+  {
+    "name": "extension-ladder",
+    "category": "hardware",
+    "draw": "Tall ladder with two overlapping parallel sections side by side leaning at an angle."
+  },
+  {
+    "name": "platform-ladder",
+    "category": "hardware",
+    "draw": "Step ladder with a flat standing platform at the top and a guard rail loop."
+  },
+  {
+    "name": "scaffolding",
+    "category": "hardware",
+    "draw": "Grid of vertical and horizontal poles with a plank platform and cross braces."
+  },
+  {
+    "name": "scaffold-tower",
+    "category": "hardware",
+    "draw": "Narrow rolling scaffold tower with ladder frame sides, a platform and caster wheels."
+  },
+  {
+    "name": "duct-tape",
+    "category": "hardware",
+    "draw": "Thick roll of wide tape with a torn strip hanging off, seen at an angle."
+  },
+  {
+    "name": "electrical-tape",
+    "category": "hardware",
+    "draw": "Narrow flat roll of tape with a large hole in the middle."
+  },
+  {
+    "name": "thread-seal-tape",
+    "category": "hardware",
+    "draw": "Very thin narrow spool of white tape wound on a small core."
+  },
+  {
+    "name": "glue-bottle",
+    "category": "hardware",
+    "draw": "Squeeze bottle with a pointed nozzle cap and a label band."
+  },
+  {
+    "name": "super-glue-tube",
+    "category": "hardware",
+    "draw": "Small flat squeezed tube with a long pointed nozzle and a cap."
+  },
+  {
+    "name": "epoxy-syringe",
+    "category": "hardware",
+    "draw": "Double barrel syringe with two parallel tubes joined to a single plunger."
+  },
+  {
+    "name": "caulk-tube",
+    "category": "hardware",
+    "draw": "Cylindrical cartridge with a long cone nozzle cut at an angle."
+  },
+  {
+    "name": "spray-foam-can",
+    "category": "hardware",
+    "draw": "Aerosol can with a long thin straw applicator and a puff of foam."
+  },
+  {
+    "name": "wood-filler",
+    "category": "hardware",
+    "draw": "Small round tub with the lid off and a putty knife resting on it."
+  },
+  {
+    "name": "pipe-section",
+    "category": "hardware",
+    "draw": "Short length of pipe in perspective with an open round end."
+  },
+  {
+    "name": "pipe-elbow",
+    "category": "hardware",
+    "draw": "Ninety degree bent pipe fitting with two thicker socket ends."
+  },
+  {
+    "name": "pipe-tee",
+    "category": "hardware",
+    "draw": "T shaped pipe fitting with three open socket ends."
+  },
+  {
+    "name": "pipe-coupling",
+    "category": "hardware",
+    "draw": "Short sleeve fitting joining two pipe ends in a straight line."
+  },
+  {
+    "name": "pipe-reducer",
+    "category": "hardware",
+    "draw": "Fitting that steps from a wide pipe opening to a narrow one."
+  },
+  {
+    "name": "pipe-union",
+    "category": "hardware",
+    "draw": "Pipe joint with a large hex nut collar in the middle between two threaded ends."
+  },
+  {
+    "name": "pipe-flange",
+    "category": "hardware",
+    "draw": "Round flat disc with a ring of bolt holes and a pipe coming out of its centre."
+  },
+  {
+    "name": "pipe-cap",
+    "category": "hardware",
+    "draw": "Short capped fitting with a closed domed end."
+  },
+  {
+    "name": "ball-valve",
+    "category": "hardware",
+    "draw": "Straight pipe valve with a round body and a flat lever handle on top."
+  },
+  {
+    "name": "gate-valve",
+    "category": "hardware",
+    "draw": "Valve with a tall bonnet stem and a round spoked handwheel on top."
+  },
+  {
+    "name": "check-valve",
+    "category": "hardware",
+    "draw": "Pipe valve body with an arrow on the side showing one way flow."
+  },
+  {
+    "name": "butterfly-valve",
+    "category": "hardware",
+    "draw": "Round wafer valve with a disc in the middle and a lever on top."
+  },
+  {
+    "name": "angle-stop-valve",
+    "category": "hardware",
+    "draw": "Small right angle valve with an oval handle, one pipe coming from the wall."
+  },
+  {
+    "name": "pressure-relief-valve",
+    "category": "hardware",
+    "draw": "Valve with a lever lifting a spring cap and a pipe outlet on the side."
+  },
+  {
+    "name": "outdoor-spigot",
+    "category": "hardware",
+    "draw": "Wall mounted hose tap with a round handle on top and a threaded spout pointing down."
+  },
+  {
+    "name": "expansion-tank",
+    "category": "hardware",
+    "draw": "Small round bellied tank with a pipe stub on top."
+  },
+  {
+    "name": "toilet-auger",
+    "category": "hardware",
+    "draw": "Long curved tube with a crank handle on top and a bent end at the bottom."
+  },
+  {
+    "name": "p-trap",
+    "category": "hardware",
+    "draw": "Pipe bent into a U curve below a sink drain with an outlet going sideways."
+  },
+  {
+    "name": "pipe-bender",
+    "category": "hardware",
+    "draw": "Hand tool with two long handles and a round grooved form with a pipe bent around it."
+  },
+  {
+    "name": "pex-crimp-tool",
+    "category": "hardware",
+    "draw": "Long handled crimping tool with round jaws holding a ring on a pipe."
+  },
+  {
+    "name": "manhole-cover",
+    "category": "hardware",
+    "draw": "Round cover with a grid pattern of raised ridges and two small lift holes."
+  },
+  {
+    "name": "water-filter-cartridge",
+    "category": "hardware",
+    "draw": "Tall cylinder cartridge with ribbed pleats and a hole on top."
+  },
+  {
+    "name": "fire-sprinkler-head",
+    "category": "hardware",
+    "draw": "Ceiling fire sprinkler with a small glass bulb and a flat notched deflector below."
+  },
+  {
+    "name": "backflow-preventer",
+    "category": "hardware",
+    "draw": "Horizontal pipe assembly with two valves and small test ports in between."
+  },
+  {
+    "name": "pipe-insulation",
+    "category": "hardware",
+    "draw": "Foam tube slit lengthwise wrapped around a pipe."
+  },
+  {
+    "name": "wire-spool",
+    "category": "hardware",
+    "draw": "Large spool reel with wire wound around it and an end trailing off."
+  },
+  {
+    "name": "cord-reel",
+    "category": "hardware",
+    "draw": "Round reel on a frame with a crank handle and a cable wound on it."
+  },
+  {
+    "name": "wire-nut",
+    "category": "hardware",
+    "draw": "Cone shaped twist on connector with spiral ridges and two wires coming out."
+  },
+  {
+    "name": "breaker-panel",
+    "category": "hardware",
+    "draw": "Tall panel box with an open door and two columns of small switches inside."
+  },
+  {
+    "name": "cartridge-fuse",
+    "category": "hardware",
+    "draw": "Glass cylinder with metal caps on each end and a thin wire running through it."
+  },
+  {
+    "name": "blade-fuse",
+    "category": "hardware",
+    "draw": "Flat plastic fuse with two prongs at the bottom and a small window on top."
+  },
+  {
+    "name": "electrical-conduit",
+    "category": "hardware",
+    "draw": "Straight rigid tube with a bend near one end and a coupling fitting."
+  },
+  {
+    "name": "conduit-bender",
+    "category": "hardware",
+    "draw": "Long handle with a curved hooked shoe at the bottom bending a pipe."
+  },
+  {
+    "name": "fish-tape",
+    "category": "hardware",
+    "draw": "Round reel case with a handle and a long flat steel tape with a hooked tip."
+  },
+  {
+    "name": "terminal-block",
+    "category": "hardware",
+    "draw": "Row of small boxes, each with a screw on top and wire openings on the sides."
+  },
+  {
+    "name": "ring-terminal",
+    "category": "hardware",
+    "draw": "Crimp connector with a round ring end and a wire barrel sleeve."
+  },
+  {
+    "name": "wire-strands",
+    "category": "hardware",
+    "draw": "Cut cable end showing the jacket and separated conductors fanning out."
+  },
+  {
+    "name": "coaxial-cable",
+    "category": "hardware",
+    "draw": "Cross section of a round cable showing a centre wire, insulation ring and outer braid."
+  },
+  {
+    "name": "utility-pole",
+    "category": "hardware",
+    "draw": "Wooden pole with a cross arm, insulators and hanging wires."
+  },
+  {
+    "name": "pole-transformer",
+    "category": "hardware",
+    "draw": "Cylindrical transformer can mounted on the side of a pole with bushings on top."
+  },
+  {
+    "name": "usb-wall-outlet",
+    "category": "hardware",
+    "draw": "Wall plate with one power socket and two small rectangular usb ports."
+  },
+  {
+    "name": "light-bulb-socket",
+    "category": "hardware",
+    "draw": "Threaded lamp holder cup with two wire leads coming out of the bottom."
+  },
+  {
+    "name": "clamp-light",
+    "category": "hardware",
+    "draw": "Metal cone reflector lamp with a spring clamp attached to its back."
+  },
+  {
+    "name": "mobile-light-tower",
+    "category": "hardware",
+    "draw": "Tall mast on a small trailer with a bank of four floodlights at the top."
+  },
+  {
+    "name": "grounding-rod",
+    "category": "hardware",
+    "draw": "Long rod driven into the ground with a clamp and wire near the top."
+  },
+  {
+    "name": "battery-terminal",
+    "category": "hardware",
+    "draw": "Round battery post with a clamp and bolt attached to a cable."
+  },
+  {
+    "name": "jumper-cables",
+    "category": "hardware",
+    "draw": "Two coiled cables with large crocodile clamps on both ends."
+  },
+  {
+    "name": "alligator-clip",
+    "category": "hardware",
+    "draw": "Spring clip with serrated jaws like a crocodile mouth and a wire lead."
+  },
+  {
+    "name": "cable-tray",
+    "category": "hardware",
+    "draw": "Long open ladder like tray holding a bundle of cables."
+  },
+  {
+    "name": "cable-gland",
+    "category": "hardware",
+    "draw": "Hex body fitting with a domed cap nut and a cable passing through."
+  },
+  {
+    "name": "air-duct",
+    "category": "hardware",
+    "draw": "Rectangular sheet metal duct with a ninety degree bend."
+  },
+  {
+    "name": "flexible-duct",
+    "category": "hardware",
+    "draw": "Round ribbed flexible hose bending in a curve."
+  },
+  {
+    "name": "air-vent-register",
+    "category": "hardware",
+    "draw": "Rectangular floor or wall vent with parallel louvre slats."
+  },
+  {
+    "name": "ac-condenser-unit",
+    "category": "hardware",
+    "draw": "Square outdoor unit with a large round fan grille on top and slatted sides."
+  },
+  {
+    "name": "chimney-cap",
+    "category": "hardware",
+    "draw": "Small roof shaped cap on four legs sitting on top of a flue pipe."
+  },
+  {
+    "name": "lumber-stack",
+    "category": "hardware",
+    "draw": "Stack of long rectangular boards seen from the end, end grain rings visible."
+  },
+  {
+    "name": "wood-plank",
+    "category": "hardware",
+    "draw": "Single long board in perspective with wood grain lines."
+  },
+  {
+    "name": "plywood-sheet",
+    "category": "hardware",
+    "draw": "Thin flat sheet seen at an angle with layered stripes on its edge."
+  },
+  {
+    "name": "wooden-beam",
+    "category": "hardware",
+    "draw": "Thick square timber beam in perspective with grain lines on the end."
+  },
+  {
+    "name": "steel-i-beam",
+    "category": "hardware",
+    "draw": "Steel beam with an I shaped cross section shown in perspective."
+  },
+  {
+    "name": "angle-iron",
+    "category": "hardware",
+    "draw": "Long steel bar with an L shaped cross section in perspective."
+  },
+  {
+    "name": "c-channel",
+    "category": "hardware",
+    "draw": "Long steel bar with a C shaped cross section in perspective."
+  },
+  {
+    "name": "square-tubing",
+    "category": "hardware",
+    "draw": "Short length of hollow square steel tube in perspective."
+  },
+  {
+    "name": "rebar",
+    "category": "hardware",
+    "draw": "Two crossing ribbed steel bars tied together with a wire twist."
+  },
+  {
+    "name": "wire-mesh",
+    "category": "hardware",
+    "draw": "Square grid of welded wires with a slight perspective."
+  },
+  {
+    "name": "cinder-block",
+    "category": "hardware",
+    "draw": "Rectangular concrete block with two large square holes through it."
+  },
+  {
+    "name": "single-brick",
+    "category": "hardware",
+    "draw": "One rectangular brick in perspective with three holes on top."
+  },
+  {
+    "name": "cement-bag",
+    "category": "hardware",
+    "draw": "Paper sack with a folded top corner and a small pile of powder beside it."
+  },
+  {
+    "name": "concrete-slab",
+    "category": "hardware",
+    "draw": "Thick flat slab in perspective with rebar ends sticking out of the edge."
+  },
+  {
+    "name": "roof-shingles",
+    "category": "hardware",
+    "draw": "Rows of overlapping rectangular shingle tabs, offset like bricks."
+  },
+  {
+    "name": "roof-tiles",
+    "category": "hardware",
+    "draw": "Rows of overlapping curved clay tiles with wavy profiles."
+  },
+  {
+    "name": "drywall-sheet",
+    "category": "hardware",
+    "draw": "Thin large panel leaning in perspective with a paper edge and tape seam."
+  },
+  {
+    "name": "insulation-roll",
+    "category": "hardware",
+    "draw": "Thick fluffy roll of batting with wavy edges partly unrolled."
+  },
+  {
+    "name": "floor-tiles",
+    "category": "hardware",
+    "draw": "Grid of square tiles in perspective with grout lines."
+  },
+  {
+    "name": "paving-stones",
+    "category": "hardware",
+    "draw": "Interlocking brick pattern of paving blocks in perspective."
+  },
+  {
+    "name": "gravel-pile",
+    "category": "hardware",
+    "draw": "Heap of small round stones in a mound."
+  },
+  {
+    "name": "corrugated-sheet",
+    "category": "hardware",
+    "draw": "Wavy sheet metal panel in perspective with parallel ridges."
+  },
+  {
+    "name": "roof-truss",
+    "category": "hardware",
+    "draw": "Triangular timber frame with internal diagonal web members."
+  },
+  {
+    "name": "wall-framing",
+    "category": "hardware",
+    "draw": "Timber stud wall frame with evenly spaced vertical studs and top and bottom plates."
+  },
+  {
+    "name": "house-frame",
+    "category": "hardware",
+    "draw": "House outline built only of bare framing studs and roof rafters."
+  },
+  {
+    "name": "floor-joists",
+    "category": "hardware",
+    "draw": "Row of parallel beams in perspective resting on a sill."
+  },
+  {
+    "name": "wooden-log",
+    "category": "hardware",
+    "draw": "Short round log on its side with bark lines and end grain rings."
+  },
+  {
+    "name": "pallet",
+    "category": "hardware",
+    "draw": "Wooden shipping pallet with top slats and three block supports, in perspective."
+  },
+  {
+    "name": "sheet-metal-roll",
+    "category": "hardware",
+    "draw": "Coil of flat sheet metal with the loose end partly unrolled."
+  },
+  {
+    "name": "stone-wall",
+    "category": "hardware",
+    "draw": "Wall of irregular fitted stones in rounded shapes."
+  },
+  {
+    "name": "concrete-column",
+    "category": "hardware",
+    "draw": "Tall cylindrical column with rebar poking out of the top."
+  },
+  {
+    "name": "siding-panels",
+    "category": "hardware",
+    "draw": "Wall section of horizontal overlapping lap siding boards."
+  },
+  {
+    "name": "chain-link-fence",
+    "category": "hardware",
+    "draw": "Fence section with a diamond mesh between two posts and a top rail."
+  },
+  {
+    "name": "barbed-wire",
+    "category": "hardware",
+    "draw": "Twisted wire strand with small spiky barbs knotted along it."
+  },
+  {
+    "name": "vapor-barrier-roll",
+    "category": "hardware",
+    "draw": "Roll of thin plastic sheet with a translucent loose end."
+  },
+  {
+    "name": "tar-paper-roll",
+    "category": "hardware",
+    "draw": "Thick roll of felt paper with a darker edge, partly unrolled."
+  },
+  {
+    "name": "rain-gutter",
+    "category": "hardware",
+    "draw": "Half round gutter along a roof edge with a downspout pipe going down."
+  },
+  {
+    "name": "skylight",
+    "category": "hardware",
+    "draw": "Sloped roof section with a rectangular glass window in it."
+  },
+  {
+    "name": "staircase-stringer",
+    "category": "hardware",
+    "draw": "Zigzag notched board cut for stair treads."
+  },
+  {
+    "name": "expansion-joint",
+    "category": "hardware",
+    "draw": "Two concrete slabs with a gap between them filled with a wavy strip."
+  },
+  {
+    "name": "notched-trowel",
+    "category": "hardware",
+    "draw": "Flat rectangular trowel with square notches along two edges and a handle."
+  },
+  {
+    "name": "grout-float",
+    "category": "hardware",
+    "draw": "Rectangular rubber pad with a handle on top, rounded corners."
+  },
+  {
+    "name": "bull-float",
+    "category": "hardware",
+    "draw": "Wide flat blade on a very long pole handle lying at an angle."
+  },
+  {
+    "name": "plastering-hawk",
+    "category": "hardware",
+    "draw": "Square flat board with a short handle underneath in the middle, holding a mound."
+  },
+  {
+    "name": "mortar-tub",
+    "category": "hardware",
+    "draw": "Wide shallow tub with sloped sides and a hoe resting inside."
+  },
+  {
+    "name": "concrete-mixer",
+    "category": "hardware",
+    "draw": "Rotating drum tilted on a wheeled stand with a hand wheel on its side."
+  },
+  {
+    "name": "tile-spacer",
+    "category": "hardware",
+    "draw": "Small cross shaped plastic spacer set between the corners of four tiles."
+  },
+  {
+    "name": "brick-jointer",
+    "category": "hardware",
+    "draw": "S shaped steel bar with rounded ends for striking mortar joints."
+  },
+  {
+    "name": "masonry-line-blocks",
+    "category": "hardware",
+    "draw": "Two small blocks on brick corners with a taut string stretched between them."
+  },
+  {
+    "name": "drywall-t-square",
+    "category": "hardware",
+    "draw": "Long T shaped ruler with a crossbar at the top and tick marks."
+  },
+  {
+    "name": "mud-pan",
+    "category": "hardware",
+    "draw": "Long narrow tray with sloped ends and a taping knife resting on it."
+  },
+  {
+    "name": "wallpaper-brush",
+    "category": "hardware",
+    "draw": "Wide flat brush with a long row of bristles and a flat handle across the back."
+  },
+  {
+    "name": "drop-cloth",
+    "category": "hardware",
+    "draw": "Folded fabric sheet with a wavy edge and a few paint spots."
+  },
+  {
+    "name": "power-trowel",
+    "category": "hardware",
+    "draw": "Machine with a round cage of spinning blades on the ground and a tall handle."
+  },
+  {
+    "name": "plate-compactor",
+    "category": "hardware",
+    "draw": "Flat heavy base plate with an engine on top and a long handle behind."
+  },
+  {
+    "name": "concrete-vibrator",
+    "category": "hardware",
+    "draw": "Motor unit with a long flexible hose ending in a metal probe."
+  },
+  {
+    "name": "rebar-tie-tool",
+    "category": "hardware",
+    "draw": "Pliers with long handles holding a coil of tie wire."
+  },
+  {
+    "name": "post-hole-digger",
+    "category": "hardware",
+    "draw": "Two long handles joined at a hinge with curved clamshell blades at the bottom."
+  },
+  {
+    "name": "earth-auger",
+    "category": "hardware",
+    "draw": "Engine powerhead with two side handles and a long spiral bit below."
+  },
+  {
+    "name": "backhoe-loader",
+    "category": "hardware",
+    "draw": "Wheeled tractor with a front loader bucket and a jointed digging arm at the back."
+  },
+  {
+    "name": "wheel-loader",
+    "category": "hardware",
+    "draw": "Large four wheeled machine with a raised wide front bucket on two lift arms."
+  },
+  {
+    "name": "skid-steer",
+    "category": "hardware",
+    "draw": "Compact box shaped machine with a cage cab and a front bucket on side arms."
+  },
+  {
+    "name": "dump-truck",
+    "category": "hardware",
+    "draw": "Truck in side view with a large tipping bed raised at the back."
+  },
+  {
+    "name": "articulated-dump-truck",
+    "category": "hardware",
+    "draw": "Off road truck with a separate cab and tipping body joined by a pivot, big tyres."
+  },
+  {
+    "name": "road-roller",
+    "category": "hardware",
+    "draw": "Machine with a big smooth drum roller at the front and a small cab on top."
+  },
+  {
+    "name": "motor-grader",
+    "category": "hardware",
+    "draw": "Long machine with a cab at the back, a long frame and a blade slung under the middle."
+  },
+  {
+    "name": "asphalt-paver",
+    "category": "hardware",
+    "draw": "Low tracked machine with a hopper at the front and a wide screed at the back."
+  },
+  {
+    "name": "scissor-lift",
+    "category": "hardware",
+    "draw": "Platform with rails raised on a crisscross X frame on a wheeled base."
+  },
+  {
+    "name": "boom-lift",
+    "category": "hardware",
+    "draw": "Wheeled base with a long angled boom arm ending in a small railed basket."
+  },
+  {
+    "name": "telehandler",
+    "category": "hardware",
+    "draw": "Four wheeled machine with a long telescopic boom and forks on the front."
+  },
+  {
+    "name": "trencher",
+    "category": "hardware",
+    "draw": "Tracked machine with a long angled digging chain boom behind it."
+  },
+  {
+    "name": "pile-driver",
+    "category": "hardware",
+    "draw": "Tall vertical mast on a tracked base with a hammer dropping onto a pile."
+  },
+  {
+    "name": "concrete-pump-truck",
+    "category": "hardware",
+    "draw": "Truck with a long folded jointed boom arm along its top."
+  },
+  {
+    "name": "cement-truck",
+    "category": "hardware",
+    "draw": "Truck with a large rotating tilted drum with spiral fins on its back."
+  },
+  {
+    "name": "mobile-crane",
+    "category": "hardware",
+    "draw": "Truck with outriggers and a long telescopic boom angled upward, a hook hanging."
+  },
+  {
+    "name": "crawler-crane",
+    "category": "hardware",
+    "draw": "Tracked base with a cab and a tall lattice boom with a hanging hook."
+  },
+  {
+    "name": "mini-excavator",
+    "category": "hardware",
+    "draw": "Small tracked digger with a short arm and bucket and an open canopy cab."
+  },
+  {
+    "name": "wrecking-ball",
+    "category": "hardware",
+    "draw": "Heavy ball hanging from a chain on a crane arm, swinging toward a wall."
+  },
+  {
+    "name": "chain-hoist",
+    "category": "hardware",
+    "draw": "Hoist body hanging from a top hook with a loop of hand chain and a lower hook."
+  },
+  {
+    "name": "winch",
+    "category": "hardware",
+    "draw": "Drum of cable on a frame with a hand crank and a hook on the cable end."
+  },
+  {
+    "name": "bottle-jack",
+    "category": "hardware",
+    "draw": "Short upright cylinder jack with a lift saddle on top and a pump socket on the side."
+  },
+  {
+    "name": "floor-jack",
+    "category": "hardware",
+    "draw": "Low long jack on wheels with a lifting arm and a long handle."
+  },
+  {
+    "name": "scissor-jack",
+    "category": "hardware",
+    "draw": "Diamond shaped jack with a screw rod running horizontally through its middle."
+  },
+  {
+    "name": "jack-stand",
+    "category": "hardware",
+    "draw": "Tripod shaped stand with a notched centre post and a saddle top."
+  },
+  {
+    "name": "engine-hoist",
+    "category": "hardware",
+    "draw": "Folding crane on wheels with a long boom arm, a hydraulic ram and a chain hook."
+  },
+  {
+    "name": "stack-light",
+    "category": "hardware",
+    "draw": "Beacon light stacked in coloured segments on a pole."
+  },
+  {
+    "name": "road-sweeper",
+    "category": "hardware",
+    "draw": "Compact vehicle with a round rotating brush at the front corner."
+  },
+  {
+    "name": "water-truck",
+    "category": "hardware",
+    "draw": "Tank truck with spray nozzles at the back spraying water."
+  },
+  {
+    "name": "compact-track-loader",
+    "category": "hardware",
+    "draw": "Small machine on rubber tracks with a front bucket, cab in the middle."
+  },
+  {
+    "name": "tunnel-boring-machine",
+    "category": "hardware",
+    "draw": "Front view of a big round cutting wheel with spokes and cutter teeth."
+  },
+  {
+    "name": "drilling-rig",
+    "category": "hardware",
+    "draw": "Tall lattice derrick tower on a platform with a drill pipe going down."
+  },
+  {
+    "name": "traffic-barrel",
+    "category": "hardware",
+    "draw": "Tall drum barrel with horizontal reflective stripes and a wider base ring."
+  },
+  {
+    "name": "jersey-barrier",
+    "category": "hardware",
+    "draw": "Long concrete road barrier with a wide sloped base and narrow top, end view."
+  },
+  {
+    "name": "road-barricade",
+    "category": "hardware",
+    "draw": "Horizontal striped board on two A frame legs."
+  },
+  {
+    "name": "caution-tape",
+    "category": "hardware",
+    "draw": "Wavy ribbon with diagonal stripes stretched between two posts."
+  },
+  {
+    "name": "road-work-sign",
+    "category": "hardware",
+    "draw": "Triangle sign with a figure digging with a shovel next to a mound."
+  },
+  {
+    "name": "stop-slow-paddle",
+    "category": "hardware",
+    "draw": "Octagon sign on a short pole handle, the flagger paddle."
+  },
+  {
+    "name": "construction-fence",
+    "category": "hardware",
+    "draw": "Temporary mesh fence panel on block feet with a clamp between panels."
+  },
+  {
+    "name": "dumpster",
+    "category": "hardware",
+    "draw": "Open topped trapezoid waste container with lifting lugs on its sides."
+  },
+  {
+    "name": "site-office-trailer",
+    "category": "hardware",
+    "draw": "Long box cabin on blocks with a door, steps and small windows."
+  },
+  {
+    "name": "warning-beacon",
+    "category": "hardware",
+    "draw": "Round flashing light dome on a small base with rays around it."
+  },
+  {
+    "name": "sandbag-wall",
+    "category": "hardware",
+    "draw": "Stack of sandbags laid in offset rows."
+  },
+  {
+    "name": "site-hoarding",
+    "category": "hardware",
+    "draw": "Tall solid wooden panel wall with a door and posts."
+  },
+  {
+    "name": "safety-net",
+    "category": "hardware",
+    "draw": "Rectangular net with a grid of squares hanging between two poles."
+  },
+  {
+    "name": "debris-chute",
+    "category": "hardware",
+    "draw": "Chain of stacked funnel tubes running down the side of a building into a skip."
+  },
+  {
+    "name": "tarp",
+    "category": "hardware",
+    "draw": "Flat rectangular sheet with grommet holes at the corners, one corner folded."
+  },
+  {
+    "name": "ratchet-strap",
+    "category": "hardware",
+    "draw": "Strap with a ratchet buckle in the middle and hooks on both ends."
+  },
+  {
+    "name": "bungee-cord",
+    "category": "hardware",
+    "draw": "Stretchy coiled cord with a hook on each end."
+  },
+  {
+    "name": "fuel-jerry-can",
+    "category": "hardware",
+    "draw": "Rectangular can with a triple handle on top, an X embossed side and a spout."
+  },
+  {
+    "name": "first-aid-cabinet",
+    "category": "hardware",
+    "draw": "Wall mounted cabinet with a cross on the front and an eyewash bottle next to it."
+  },
+  {
+    "name": "muster-point",
+    "category": "hardware",
+    "draw": "Sign with four arrows pointing inward to a group of people figures."
+  },
+  {
+    "name": "blueprint-table",
+    "category": "hardware",
+    "draw": "Tilted drafting table with a rolled out blueprint on it."
+  },
+  {
+    "name": "building-permit",
+    "category": "hardware",
+    "draw": "Document with a house symbol at the top and a round stamp at the bottom."
+  },
+  {
+    "name": "demolition-site",
+    "category": "hardware",
+    "draw": "Partly broken building with a jagged top and falling debris."
+  },
+  {
+    "name": "excavation-pit",
+    "category": "hardware",
+    "draw": "Rectangular hole in the ground shown in cross section with a ladder inside."
+  },
+  {
+    "name": "foundation-footing",
+    "category": "hardware",
+    "draw": "Cross section of an inverted T shaped concrete footing under a wall."
+  },
+  {
+    "name": "safety-goggles",
+    "category": "hardware",
+    "draw": "Wide single lens goggles with vents on the sides and an elastic strap."
+  },
+  {
+    "name": "safety-glasses",
+    "category": "hardware",
+    "draw": "Wraparound glasses with side shields and a single curved lens."
+  },
+  {
+    "name": "ear-muffs-safety",
+    "category": "hardware",
+    "draw": "Two large round ear cups joined by a padded headband arching over them."
+  },
+  {
+    "name": "respirator-mask",
+    "category": "hardware",
+    "draw": "Half face mask with two round filter cartridges on the sides."
+  },
+  {
+    "name": "face-shield",
+    "category": "hardware",
+    "draw": "Clear curved visor hanging from a headband."
+  },
+  {
+    "name": "hi-vis-vest",
+    "category": "hardware",
+    "draw": "Sleeveless vest with two horizontal reflective bands and a front zip line."
+  },
+  {
+    "name": "safety-harness",
+    "category": "hardware",
+    "draw": "Full body harness with shoulder straps, leg loops and a D ring at the back."
+  },
+  {
+    "name": "lanyard-hook",
+    "category": "hardware",
+    "draw": "Short webbing lanyard with a large snap hook on each end."
+  },
+  {
+    "name": "knee-pads",
+    "category": "hardware",
+    "draw": "Two padded knee cups with straps."
+  },
+  {
+    "name": "steel-toe-boot",
+    "category": "hardware",
+    "draw": "Work boot in side view with a thick sole and a visible toe cap outline."
+  },
+  {
+    "name": "hard-hat-headlamp",
+    "category": "hardware",
+    "draw": "Hard hat with a small lamp on the front and light rays coming out."
+  },
+  {
+    "name": "eyewash-station",
+    "category": "hardware",
+    "draw": "Two spray nozzles over a small bowl with a push plate, water arcs up."
+  },
+  {
+    "name": "lockout-tag",
+    "category": "hardware",
+    "draw": "Padlock hanging through a hasp with a large tag attached."
+  },
+  {
+    "name": "fall-arrest-block",
+    "category": "hardware",
+    "draw": "Round self retracting lifeline housing with a cable and hook coming out below."
+  },
+  {
+    "name": "cut-resistant-glove",
+    "category": "hardware",
+    "draw": "Glove with a knit pattern and a blade that bounces off it."
+  },
+  {
+    "name": "welding-gloves",
+    "category": "hardware",
+    "draw": "Long cuffed gauntlet glove with a thick stitched palm."
+  },
+  {
+    "name": "welding-apron",
+    "category": "hardware",
+    "draw": "Heavy full length apron with neck strap and waist ties, shown flat."
+  },
+  {
+    "name": "safety-shower",
+    "category": "hardware",
+    "draw": "Overhead shower head on a pipe with a pull ring hanging down."
+  },
+  {
+    "name": "ppe-kit",
+    "category": "hardware",
+    "draw": "Hard hat, goggles and gloves grouped together."
+  },
+  {
+    "name": "fire-extinguisher",
+    "category": "hardware",
+    "draw": "Cylinder with a squeeze handle, a pressure gauge and a hose."
+  },
+  {
+    "name": "fire-hose-reel",
+    "category": "hardware",
+    "draw": "Wall mounted round reel with a coiled flat hose and a nozzle."
+  },
+  {
+    "name": "blacksmith-forge",
+    "category": "hardware",
+    "draw": "Brick hearth with a glowing fire bed and a hood on top."
+  },
+  {
+    "name": "blacksmith-tongs",
+    "category": "hardware",
+    "draw": "Long scissor like tongs with gripping jaws holding a small bar."
+  },
+  {
+    "name": "tap-and-die",
+    "category": "hardware",
+    "draw": "A threaded tap and a round die with holes, side by side."
+  },
+  {
+    "name": "tap-wrench",
+    "category": "hardware",
+    "draw": "Straight bar handle with a small chuck in the middle holding a tap."
+  },
+  {
+    "name": "die-stock",
+    "category": "hardware",
+    "draw": "Round die held in a centre ring with two long straight handles out to the sides."
+  },
+  {
+    "name": "metal-lathe",
+    "category": "hardware",
+    "draw": "Long bed with a headstock chuck on the left and a tool post carriage in the middle."
+  },
+  {
+    "name": "milling-machine",
+    "category": "hardware",
+    "draw": "Upright column with a spindle head above a flat table with handwheels."
+  },
+  {
+    "name": "cnc-router",
+    "category": "hardware",
+    "draw": "Gantry frame over a flat bed with a spindle hanging from the crossbeam."
+  },
+  {
+    "name": "sheet-metal-brake",
+    "category": "hardware",
+    "draw": "Long flat bed with a hinged clamping bar and a bending leaf handle."
+  },
+  {
+    "name": "welding-machine",
+    "category": "hardware",
+    "draw": "Box unit with dials on the front, a ground clamp cable and a torch cable."
+  },
+  {
+    "name": "welding-clamp",
+    "category": "hardware",
+    "draw": "Spring loaded ground clamp with copper jaws and a cable."
+  },
+  {
+    "name": "crucible",
+    "category": "hardware",
+    "draw": "Deep cup shaped vessel with molten metal and tongs gripping it."
+  },
+  {
+    "name": "casting-mold",
+    "category": "hardware",
+    "draw": "Two part box mold with a pour hole on top and a cavity shape inside."
+  },
+  {
+    "name": "quench-bucket",
+    "category": "hardware",
+    "draw": "Bucket of water with steam rising as a hot bar is dipped in."
+  },
+  {
+    "name": "dovetail-joint",
+    "category": "hardware",
+    "draw": "Two boards joined at a corner with interlocking fan shaped pins and tails."
+  },
+  {
+    "name": "mortise-and-tenon",
+    "category": "hardware",
+    "draw": "Board with a rectangular tongue ready to slot into a hole in another board."
+  },
+  {
+    "name": "finger-joint",
+    "category": "hardware",
+    "draw": "Two boards joined at a corner with interlocking square fingers."
+  },
+  {
+    "name": "pocket-hole-jig",
+    "category": "hardware",
+    "draw": "Small clamp jig with an angled drill guide over a board."
+  },
+  {
+    "name": "sawdust-pile",
+    "category": "hardware",
+    "draw": "Small mound of speckled dots with a saw blade edge above it."
+  },
+  {
+    "name": "wood-shavings",
+    "category": "hardware",
+    "draw": "Several curly spiral ribbons of wood shavings."
+  },
+  {
+    "name": "bandsaw-mill",
+    "category": "hardware",
+    "draw": "Log on a long track with a horizontal band saw head straddling it."
+  },
+  {
+    "name": "log-splitter",
+    "category": "hardware",
+    "draw": "Horizontal beam with a hydraulic ram pushing a log into a wedge."
+  },
+  {
+    "name": "screw-extractor",
+    "category": "hardware",
+    "draw": "Short bit with reverse spiral flutes tapering to a point."
+  },
+  {
+    "name": "breaker-bar",
+    "category": "hardware",
+    "draw": "Very long straight bar with a hinged square drive head at the end."
+  },
+  {
+    "name": "nut-driver",
+    "category": "hardware",
+    "draw": "Screwdriver handle with a shaft ending in a small hex socket."
+  },
+  {
+    "name": "oil-filter-wrench",
+    "category": "hardware",
+    "draw": "Band loop wrapped around a round filter with a handle."
+  },
+  {
+    "name": "oil-funnel",
+    "category": "hardware",
+    "draw": "Wide cone funnel with a long narrow spout."
+  },
+  {
+    "name": "drip-pan",
+    "category": "hardware",
+    "draw": "Wide shallow rectangular tray with a small puddle drop inside."
+  },
+  {
+    "name": "mechanic-creeper",
+    "category": "hardware",
+    "draw": "Flat padded board on small caster wheels with a headrest."
+  },
+  {
+    "name": "parts-washer",
+    "category": "hardware",
+    "draw": "Tub on a stand with a lid, a flexible hose nozzle and a drain."
+  },
+  {
+    "name": "wheel-chock",
+    "category": "hardware",
+    "draw": "Wedge shaped block resting against a tyre."
+  },
+  {
+    "name": "traffic-delineator-post",
+    "category": "hardware",
+    "draw": "Tall thin flexible post with reflective bands on a round base."
+  }
+]

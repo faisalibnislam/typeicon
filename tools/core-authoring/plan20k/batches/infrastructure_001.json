@@ -1,0 +1,482 @@
+[
+ {
+  "name": "mini-roundabout-sign",
+  "category": "infrastructure",
+  "draw": "Round blue sign with three curved arrows chasing each other in a circle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "y-junction",
+  "category": "infrastructure",
+  "draw": "Top view of a single road splitting into two roads that fan out in a Y shape.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "staggered-junction",
+  "category": "infrastructure",
+  "draw": "Top view of a main road with two side roads joining from opposite sides at offset points.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "diamond-interchange",
+  "category": "infrastructure",
+  "draw": "Top view of a highway passing under a straight road with four diagonal ramps forming a diamond.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "highway-ramp",
+  "category": "infrastructure",
+  "draw": "Top view of a road peeling off a straight highway in a smooth curve.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "underpass",
+  "category": "infrastructure",
+  "draw": "A rounded opening under a road embankment with a footpath running into the dark arch.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "winding-road",
+  "category": "infrastructure",
+  "draw": "A road with dashed centre line snaking back and forth into the distance in an S curve.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "hairpin-bend",
+  "category": "infrastructure",
+  "draw": "Top view of a road climbing a slope that turns back on itself in a tight U shaped loop.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "dual-carriageway",
+  "category": "infrastructure",
+  "draw": "Top view of two parallel roads separated by a narrow grass median strip.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "single-track-road",
+  "category": "infrastructure",
+  "draw": "A narrow road into the distance with no centre line and a small passing place bulge on one side.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "causeway",
+  "category": "infrastructure",
+  "draw": "A narrow raised road running straight across water, wavy lines on both sides.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "ford-crossing",
+  "category": "infrastructure",
+  "draw": "A road dipping into a band of wavy water lines and rising out the other side.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "gravel-road",
+  "category": "infrastructure",
+  "draw": "A road into the distance filled with small scattered dots for loose stones.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "cobblestone-street",
+  "category": "infrastructure",
+  "draw": "Top view of a street paved with rows of rounded rectangular setts.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "pothole",
+  "category": "infrastructure",
+  "draw": "A road surface with an irregular broken hole and small cracks radiating from it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "speed-bump",
+  "category": "infrastructure",
+  "draw": "Side view of a car wheel about to roll over a low rounded hump in the road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "rumble-strip",
+  "category": "infrastructure",
+  "draw": "Top view of a road edge with a row of short raised ridges beside the edge line.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "guardrail",
+  "category": "infrastructure",
+  "draw": "A corrugated steel crash barrier rail running along short posts beside a road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "road-median",
+  "category": "infrastructure",
+  "draw": "Top view of two opposing lanes divided by a raised curbed strip with a small tree.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "traffic-island",
+  "category": "infrastructure",
+  "draw": "Top view of a teardrop shaped raised island splitting a road, with a bollard on its tip.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "pedestrian-refuge",
+  "category": "infrastructure",
+  "draw": "Top view of a crosswalk interrupted by a small raised island in the middle of the road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "curb-ramp",
+  "category": "infrastructure",
+  "draw": "A dropped kerb sloping down from the pavement to the road with a wheelchair symbol above.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tactile-paving",
+  "category": "infrastructure",
+  "draw": "A square paving slab covered in a grid of raised round dots.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "storm-drain",
+  "category": "infrastructure",
+  "draw": "A rectangular grate with parallel slots set into the gutter at the edge of a kerb.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "road-stud",
+  "category": "infrastructure",
+  "draw": "A small square reflective stud with two glowing lens eyes set into a road line.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "snow-pole",
+  "category": "infrastructure",
+  "draw": "A tall thin striped marker pole beside a road half buried in a snowbank.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "noise-barrier",
+  "category": "infrastructure",
+  "draw": "A tall wall of panels on posts running beside a highway with sound waves stopped against it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "wildlife-crossing-bridge",
+  "category": "infrastructure",
+  "draw": "A green planted bridge over a highway with a deer standing on top.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "culvert",
+  "category": "infrastructure",
+  "draw": "A round concrete pipe opening under a road embankment with a stream flowing out.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "retaining-wall",
+  "category": "infrastructure",
+  "draw": "A stepped wall of stacked blocks holding back a sloping bank of earth.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "avalanche-gallery",
+  "category": "infrastructure",
+  "draw": "A road running under a concrete roof built into a mountainside, snow sliding over the top.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "rockfall-net",
+  "category": "infrastructure",
+  "draw": "A steep rock face covered with a diamond mesh net held by anchors above a road.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "runaway-truck-ramp",
+  "category": "infrastructure",
+  "draw": "An uphill gravel lane branching off a steep downhill road, with a truck heading onto it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "lay-by",
+  "category": "infrastructure",
+  "draw": "Top view of a road with a lozenge shaped pull in bay beside it holding a parked car.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "hard-shoulder",
+  "category": "infrastructure",
+  "draw": "Top view of a highway with a wide solid lined emergency lane along the outside edge.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "emergency-phone-box",
+  "category": "infrastructure",
+  "draw": "A small roadside box on a post with a telephone handset symbol and SOS panel.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "rest-area",
+  "category": "infrastructure",
+  "draw": "A picnic table under a tree beside a road with a parked car.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "truck-stop",
+  "category": "infrastructure",
+  "draw": "A semi truck parked in front of a small diner building with a fuel pump.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "service-area",
+  "category": "infrastructure",
+  "draw": "A highway building with fuel pump and knife and fork symbols on a roadside sign.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bus-lane",
+  "category": "infrastructure",
+  "draw": "Top view of a lane with the word BUS painted on it between solid lines.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "carpool-lane",
+  "category": "infrastructure",
+  "draw": "Top view of a lane with a diamond marking painted in the middle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tram-tracks-street",
+  "category": "infrastructure",
+  "draw": "Top view of a street with two pairs of embedded rails running down the middle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "give-way-marking",
+  "category": "infrastructure",
+  "draw": "Top view of a lane with a row of short dashes across it and a painted inverted triangle.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "yellow-box-junction",
+  "category": "infrastructure",
+  "draw": "Top view of an intersection square filled with crisscross diagonal hatching.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "lane-arrow-marking",
+  "category": "infrastructure",
+  "draw": "Top view of a lane with a painted arrow that goes straight and branches to one side.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "chevron-hatching",
+  "category": "infrastructure",
+  "draw": "Top view of a road area filled with painted V shaped chevron stripes inside a border line.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "parking-bay-lines",
+  "category": "infrastructure",
+  "draw": "Top view of three rectangular parking spaces marked by painted lines.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "accessible-parking-space",
+  "category": "infrastructure",
+  "draw": "Top view of a parking space with a wheelchair symbol painted inside it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "keep-clear-marking",
+  "category": "infrastructure",
+  "draw": "Top view of a road with the words KEEP CLEAR painted across the lane.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "zigzag-road-marking",
+  "category": "infrastructure",
+  "draw": "Top view of a road edge with a painted zigzag line leading up to a crossing.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "suspension-bridge",
+  "category": "infrastructure",
+  "draw": "Two tall towers with a deep curved main cable between them and vertical hangers down to a flat deck.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "cable-stayed-bridge",
+  "category": "infrastructure",
+  "draw": "One tall central pylon with straight cables fanning down diagonally to a flat deck.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "arch-bridge",
+  "category": "infrastructure",
+  "draw": "A steel arch rising above a flat deck with vertical hangers connecting them.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "truss-bridge",
+  "category": "infrastructure",
+  "draw": "A flat deck topped by a steel frame of repeated triangles.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "beam-bridge",
+  "category": "infrastructure",
+  "draw": "A flat straight deck resting on three simple square piers over water.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "cantilever-bridge",
+  "category": "infrastructure",
+  "draw": "Two diamond shaped steel frames meeting in the middle over water, joined by a short center span.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "bascule-bridge",
+  "category": "infrastructure",
+  "draw": "A bridge whose two deck leaves are tilted upward in the middle to let a boat pass.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "swing-bridge",
+  "category": "infrastructure",
+  "draw": "Top view of a bridge deck pivoted sideways on a central pier, a curved arrow showing it turning.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "vertical-lift-bridge",
+  "category": "infrastructure",
+  "draw": "Two tall towers with a flat deck section raised high between them above a boat.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "footbridge",
+  "category": "infrastructure",
+  "draw": "A narrow arched walkway with railings and a small walking person on it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "covered-bridge",
+  "category": "infrastructure",
+  "draw": "A wooden bridge with a pitched roof and walls, like a barn spanning a stream.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "stone-arch-bridge",
+  "category": "infrastructure",
+  "draw": "A stone bridge with three round arches over water and block lines on the arch.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "pontoon-bridge",
+  "category": "infrastructure",
+  "draw": "A flat roadway resting on a row of floating boats on wavy water.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "railway-tunnel",
+  "category": "infrastructure",
+  "draw": "A round arched tunnel mouth in a rock face with railway tracks leading into it.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "underwater-tunnel",
+  "category": "infrastructure",
+  "draw": "A tube shaped tunnel running under wavy water lines with a car inside.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "tunnel-portal-sign",
+  "category": "infrastructure",
+  "draw": "Rectangular blue sign showing a white tunnel arch with a road going in.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "crossbuck-sign",
+  "category": "infrastructure",
+  "draw": "Two white boards crossed in an X on a post, the railroad crossing sign.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "level-crossing-lights",
+  "category": "infrastructure",
+  "draw": "A post with two round lamps side by side under a crossbuck.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "level-crossing-barrier",
+  "category": "infrastructure",
+  "draw": "A long red and white striped boom lowered across a road from a pivot post.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "railway-track",
+  "category": "infrastructure",
+  "draw": "Two parallel rails on evenly spaced wooden sleepers running into the distance.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "railway-switch",
+  "category": "infrastructure",
+  "draw": "Top view of a railway track dividing into two tracks with a pointed moving rail.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "buffer-stop",
+  "category": "infrastructure",
+  "draw": "The end of a railway track with a heavy frame holding two round buffers.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "railway-signal",
+  "category": "infrastructure",
+  "draw": "A tall post with a rectangular head holding three round lamps and a hood above each.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "semaphore-signal",
+  "category": "infrastructure",
+  "draw": "A tall post with a flat signal arm sticking out sideways near the top, with a lamp.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "signal-box",
+  "category": "infrastructure",
+  "draw": "A two storey railway building with a long row of windows on the upper floor beside tracks.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "train-platform",
+  "category": "infrastructure",
+  "draw": "A raised platform edge with a warning line, a canopy on posts and a station sign.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "overhead-catenary",
+  "category": "infrastructure",
+  "draw": "A tall mast with a cantilever arm holding the overhead wire above a rail track.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "railway-turntable",
+  "category": "infrastructure",
+  "draw": "Top view of a circular pit with a rotating track bridge across it and tracks radiating out.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "rail-yard",
+  "category": "infrastructure",
+  "draw": "Top view of many parallel tracks fanning out from a single track.",
+  "domain": "transport-infrastructure-signs"
+ },
+ {
+  "name": "engine-shed",
+  "category": "infrastructure",
+  "draw": "A long shed with an arched doorway and railway tracks running inside.",
+  "domain": "transport-infrastructure-signs"
+ }
+]

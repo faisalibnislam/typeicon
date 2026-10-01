@@ -1,0 +1,482 @@
+[
+ {
+  "name": "resistor-symbol",
+  "category": "electronics",
+  "draw": "Resistor schematic symbol: a horizontal zigzag line with a straight lead on each end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "potentiometer-symbol",
+  "category": "electronics",
+  "draw": "Horizontal zigzag resistor with a third lead ending in an arrowhead pointing at its middle from above.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "capacitor-symbol",
+  "category": "electronics",
+  "draw": "Capacitor schematic symbol: two short parallel vertical plates with a lead on each side.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "variable-capacitor-symbol",
+  "category": "electronics",
+  "draw": "Two parallel capacitor plates with a diagonal arrow drawn through them.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "inductor-symbol",
+  "category": "electronics",
+  "draw": "Inductor schematic symbol: a row of four humps along a line with a lead on each end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "iron-core-inductor-symbol",
+  "category": "electronics",
+  "draw": "Row of four inductor humps with two straight parallel lines drawn above them for the core.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "diode-symbol",
+  "category": "electronics",
+  "draw": "Diode schematic symbol: a filled triangle pointing at a vertical bar on a horizontal line.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "led-symbol",
+  "category": "electronics",
+  "draw": "Diode triangle and bar on a line with two small arrows pointing outward from it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "schottky-diode-symbol",
+  "category": "electronics",
+  "draw": "Diode triangle pointing at a bar whose ends are bent into small S hooks.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "tunnel-diode-symbol",
+  "category": "electronics",
+  "draw": "Diode triangle pointing at a bar with short right angle flags at both ends forming a bracket.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "varactor-diode-symbol",
+  "category": "electronics",
+  "draw": "Diode triangle and bar followed immediately by a second parallel bar like a capacitor plate.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "tvs-diode-symbol",
+  "category": "electronics",
+  "draw": "Two diode triangles pointing at each other from both sides of a single bar with bent tips.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "bridge-rectifier-symbol",
+  "category": "electronics",
+  "draw": "Diamond made of four small diode triangles with leads at all four corners.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "npn-transistor-symbol",
+  "category": "electronics",
+  "draw": "Circle with a vertical base bar, two diagonal legs, and an arrow on the lower leg pointing out.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pnp-transistor-symbol",
+  "category": "electronics",
+  "draw": "Circle with a vertical base bar, two diagonal legs, and an arrow on the lower leg pointing in toward the bar.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "mosfet-symbol",
+  "category": "electronics",
+  "draw": "Gate line beside a broken three segment channel bar with source and drain leads and a small arrow, all in a circle.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "jfet-symbol",
+  "category": "electronics",
+  "draw": "Circle with a vertical channel bar, a gate lead with an arrow meeting it from the side and leads off the top and bottom.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "igbt-symbol",
+  "category": "electronics",
+  "draw": "Transistor symbol with a separate gate line parallel to the base bar and an arrow on the emitter leg.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "thyristor-symbol",
+  "category": "electronics",
+  "draw": "Diode triangle and bar with a short gate lead angled off the bar end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "triac-symbol",
+  "category": "electronics",
+  "draw": "Two opposing diode triangles stacked between two bars with a gate lead off one corner.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "diac-symbol",
+  "category": "electronics",
+  "draw": "Two opposing diode triangles stacked between two parallel bars without a gate lead.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "phototransistor-symbol",
+  "category": "electronics",
+  "draw": "Transistor symbol in a circle with two small arrows pointing inward at the base.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "optocoupler-symbol",
+  "category": "electronics",
+  "draw": "Rectangle containing an LED symbol on the left and a phototransistor on the right with arrows between them.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "photoresistor-symbol",
+  "category": "electronics",
+  "draw": "Resistor rectangle inside a circle with two arrows pointing at it from above.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "varistor-symbol",
+  "category": "electronics",
+  "draw": "Resistor rectangle with a diagonal line through it bent into a short flat tail at the bottom.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "spdt-switch-symbol",
+  "category": "electronics",
+  "draw": "Single pivot dot with a hinged lever touching one of two contact dots, the other left open.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "dpdt-switch-symbol",
+  "category": "electronics",
+  "draw": "Two stacked changeover switches joined by a dashed line between their levers.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "reed-switch-symbol",
+  "category": "electronics",
+  "draw": "Two overlapping switch contacts drawn inside an elongated capsule outline.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "relay-coil-symbol",
+  "category": "electronics",
+  "draw": "Rectangle coil box linked by a dashed line to a switch contact beside it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "circuit-breaker-symbol",
+  "category": "electronics",
+  "draw": "Switch lever lifted off a contact with a small curved hook arc drawn above the gap.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "speaker-symbol",
+  "category": "electronics",
+  "draw": "Loudspeaker schematic: a small rectangle attached to a flared trapezoid cone with two leads.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "microphone-symbol",
+  "category": "electronics",
+  "draw": "Microphone schematic: a circle with a short straight bar along one side and two leads.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "antenna-symbol",
+  "category": "electronics",
+  "draw": "Antenna schematic: a vertical lead ending in an upside down triangle made of three lines.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "ammeter-symbol",
+  "category": "electronics",
+  "draw": "Circle with a capital A inside and a lead on each side.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "voltmeter-symbol",
+  "category": "electronics",
+  "draw": "Circle with a capital V inside and a lead on each side.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "signal-ground-symbol",
+  "category": "electronics",
+  "draw": "Signal ground: a vertical lead ending in a small solid downward pointing triangle.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "xnor-gate",
+  "category": "electronics",
+  "draw": "OR gate shape with a double curved back line and a small bubble on the output tip.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "buffer-gate",
+  "category": "electronics",
+  "draw": "Logic buffer: a plain triangle pointing right with one input line and one output line.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "schmitt-trigger-symbol",
+  "category": "electronics",
+  "draw": "Triangle buffer with a small square hysteresis loop drawn inside.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "tri-state-buffer-symbol",
+  "category": "electronics",
+  "draw": "Buffer triangle with an extra enable line entering from the top edge.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "d-flip-flop",
+  "category": "electronics",
+  "draw": "Rectangle block with D and clock inputs on the left, a small clock wedge, and Q outputs on the right.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "multiplexer-symbol",
+  "category": "electronics",
+  "draw": "Trapezoid block wider on the left with several input lines and one output line on the right.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "comparator-symbol",
+  "category": "electronics",
+  "draw": "Triangle with plus and minus inputs and a small step waveform drawn in its body.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "adc-converter",
+  "category": "electronics",
+  "draw": "Rectangle split by a diagonal line with a sine wave in one half and a stepped staircase in the other.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "voltage-regulator-symbol",
+  "category": "electronics",
+  "draw": "Rectangle block labelled IN and OUT with a ground lead coming down from the bottom.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "wire-junction-symbol",
+  "category": "electronics",
+  "draw": "Two lines crossing at right angles with a solid dot at the junction.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "test-point-symbol",
+  "category": "electronics",
+  "draw": "Short lead ending in a small open circle marking a test point.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "thermocouple-symbol",
+  "category": "electronics",
+  "draw": "Two lines of different weight meeting in a V with a dot at the junction and small plus and minus marks.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "spark-gap-symbol",
+  "category": "electronics",
+  "draw": "Two leads ending in arrow points facing each other across a small gap.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "neon-lamp-symbol",
+  "category": "electronics",
+  "draw": "Circle containing two short parallel electrodes and a small dot for the gas.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "crystal-symbol",
+  "category": "electronics",
+  "draw": "Crystal schematic: a small rectangle between two parallel plates with a lead on each side.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "transformer-symbol",
+  "category": "electronics",
+  "draw": "Two facing coils of humps with two parallel core lines drawn between them.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "hall-sensor-symbol",
+  "category": "electronics",
+  "draw": "Rectangle with an X drawn through it and a lead on each of its four sides.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "three-phase-symbol",
+  "category": "electronics",
+  "draw": "Three sine waves offset from each other along one horizontal line.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "pwm-signal",
+  "category": "electronics",
+  "draw": "Pulse train with flat topped pulses of changing width above a baseline.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "signal-noise",
+  "category": "electronics",
+  "draw": "Horizontal line with a jagged random spiky trace running along it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "am-modulation",
+  "category": "electronics",
+  "draw": "Fast sine wave whose peaks swell and shrink inside a slow wavy outline envelope.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "fm-modulation",
+  "category": "electronics",
+  "draw": "Sine wave of constant height whose waves bunch tightly in the middle and spread out at the ends.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "smd-resistor",
+  "category": "electronics",
+  "draw": "Tiny flat rectangular chip with metal caps on both ends and a three digit code on top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "resistor-network",
+  "category": "electronics",
+  "draw": "Flat single row package with a row of pins along its bottom edge and a dot at pin one.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "ceramic-disc-capacitor",
+  "category": "electronics",
+  "draw": "Flat round disc with two thin legs coming out of the bottom.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "film-capacitor",
+  "category": "electronics",
+  "draw": "Rectangular boxy block with rounded corners and two legs from its underside.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "tantalum-capacitor",
+  "category": "electronics",
+  "draw": "Small teardrop shaped bead with a plus mark and two legs.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "supercapacitor",
+  "category": "electronics",
+  "draw": "Wide squat coin shaped cylinder with two legs and a large plus sign.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "trimmer-potentiometer",
+  "category": "electronics",
+  "draw": "Small square block with a round slotted screw adjuster on top and three pins below.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "slide-potentiometer",
+  "category": "electronics",
+  "draw": "Long narrow track with a rectangular slider knob sitting midway along it.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "rotary-switch",
+  "category": "electronics",
+  "draw": "Round switch body with a pointed knob and a ring of numbered position dots.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "dip-switch",
+  "category": "electronics",
+  "draw": "Small rectangle with a row of tiny slide toggles, some up and some down.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "tactile-switch",
+  "category": "electronics",
+  "draw": "Small square base with four legs and a round button on top.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "slide-switch",
+  "category": "electronics",
+  "draw": "Small box with a short sliding nub in a slot and three pins below.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "reed-switch",
+  "category": "electronics",
+  "draw": "Glass capsule with two thin metal reeds overlapping in the middle and leads out each end.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "tilt-switch",
+  "category": "electronics",
+  "draw": "Small cylinder with a metal ball resting at one end inside and two leads.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "selector-switch",
+  "category": "electronics",
+  "draw": "Round panel switch with a bar shaped handle across its face and two position marks.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "panel-indicator-light",
+  "category": "electronics",
+  "draw": "Round panel indicator lamp with a domed lens on a short threaded bezel.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "dip-chip",
+  "category": "electronics",
+  "draw": "Rectangular chip seen from above with a notch at one end and a row of legs on both long sides.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "soic-chip",
+  "category": "electronics",
+  "draw": "Small low chip with short gull wing legs bent outward along two sides.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "qfp-chip",
+  "category": "electronics",
+  "draw": "Square flat chip with fine legs along all four sides and a dot in one corner.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "bga-chip",
+  "category": "electronics",
+  "draw": "Square chip seen from below with a grid of small round solder balls.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "metal-can-transistor",
+  "category": "electronics",
+  "draw": "Short round metal can with a small tab on its rim and three legs underneath.",
+  "domain": "r2-electronics-components"
+ },
+ {
+  "name": "ic-socket",
+  "category": "electronics",
+  "draw": "Rectangular open frame socket with rows of holes along both long sides.",
+  "domain": "r2-electronics-components"
+ }
+]

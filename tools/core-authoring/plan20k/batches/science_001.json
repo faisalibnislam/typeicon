@@ -1,0 +1,482 @@
+[
+ {
+  "name": "round-bottom-flask",
+  "category": "science",
+  "draw": "Spherical flask with a narrow straight neck, liquid filling the lower half of the ball.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "volumetric-flask",
+  "category": "science",
+  "draw": "Pear-shaped flask with a very long thin neck carrying a single fill mark ring and a stopper on top.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "side-arm-flask",
+  "category": "science",
+  "draw": "Conical flask with a short hose barb sticking out sideways from the neck.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "graduated-cylinder",
+  "category": "science",
+  "draw": "Tall narrow cylinder with a pouring spout, a hexagonal foot and tick marks up one side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "burette",
+  "category": "science",
+  "draw": "Long vertical graduated tube with a small tap near the bottom and a drop falling from the tip.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "separatory-funnel",
+  "category": "science",
+  "draw": "Pear-shaped glass funnel with a stopper on top, two liquid layers inside and a tap on the stem.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "buchner-funnel",
+  "category": "science",
+  "draw": "Wide flat-topped funnel with a perforated plate visible as dots, sitting in a rubber collar on a flask neck.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "thistle-funnel",
+  "category": "science",
+  "draw": "Long thin glass tube with a small bulb and flared cup at the top, like a thistle head.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "filter-funnel",
+  "category": "science",
+  "draw": "Lab glass funnel holding a folded paper cone with a drip falling from the stem.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "watch-glass",
+  "category": "science",
+  "draw": "Shallow curved glass dish seen from the side, a thin lens shape with a small puddle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "evaporating-dish",
+  "category": "science",
+  "draw": "Wide shallow porcelain bowl with a pouring lip and wisps of vapor rising.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "crucible-tongs",
+  "category": "science",
+  "draw": "Long scissor-like tongs with curved gripping tips holding a small cup.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "test-tube-holder",
+  "category": "science",
+  "draw": "Wooden clothespin-style clamp gripping a test tube near its mouth.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "reagent-bottle",
+  "category": "science",
+  "draw": "Squat glass bottle with a mushroom stopper and a blank label.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "dropper-bottle",
+  "category": "science",
+  "draw": "Small bottle with a rubber bulb dropper cap sitting in the neck.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "desiccator",
+  "category": "science",
+  "draw": "Wide glass pot with a domed lid and knob, a perforated plate across the middle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "glass-condenser",
+  "category": "science",
+  "draw": "Long diagonal tube inside a wider jacket with two small hose inlets on opposite sides.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "distillation-setup",
+  "category": "science",
+  "draw": "Round flask over a flame connected by an angled condenser tube to a collecting flask.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "retort-stand",
+  "category": "science",
+  "draw": "Heavy flat base with an upright rod and a clamp arm holding a small flask.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "bunsen-burner",
+  "category": "science",
+  "draw": "Narrow upright barrel on a round base with a side gas inlet and a pointed flame on top.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "spirit-lamp",
+  "category": "science",
+  "draw": "Squat glass jar with a wick holder in the lid and a small teardrop flame.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "tripod-gauze",
+  "category": "science",
+  "draw": "Three-legged metal stand with a square wire mesh on top and a flame below.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "stirring-rod",
+  "category": "science",
+  "draw": "Slim glass rod standing diagonally in a beaker with swirl lines in the liquid.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "lab-spatula",
+  "category": "science",
+  "draw": "Thin metal scoop with a curved spoon end and a flat blade at the other end.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "rubber-stopper",
+  "category": "science",
+  "draw": "Tapered cylindrical plug seen from the side, one hole through the middle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "retort",
+  "category": "science",
+  "draw": "Round glass vessel with a long neck bending down and tapering to a point.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "vacuum-bell-jar",
+  "category": "science",
+  "draw": "Glass dome with a knob sitting on a flat plate, a small bell hanging inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "chromatography-column",
+  "category": "science",
+  "draw": "Vertical glass column with colored bands stacked inside and a tap at the bottom.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "paper-chromatography",
+  "category": "science",
+  "draw": "Strip of paper hanging in a beaker of solvent with separated spots rising up the strip.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "sample-vial",
+  "category": "science",
+  "draw": "Short cylindrical vial with a crimped cap and a septum dot on top.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "microcentrifuge-tube",
+  "category": "science",
+  "draw": "Small conical tube with a hinged snap cap open to the side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "cuvette",
+  "category": "science",
+  "draw": "Small square-sided transparent tube with a light beam arrow passing through it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "volumetric-pipette",
+  "category": "science",
+  "draw": "Long thin glass tube with a bulge in the middle and a mark on the upper stem.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "magnetic-stirrer",
+  "category": "science",
+  "draw": "Flat plate machine with a beaker on top, a small bar and a vortex in the liquid.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "orbital-shaker",
+  "category": "science",
+  "draw": "Platform on a base holding two flasks with circular motion arrows.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "lab-water-bath",
+  "category": "science",
+  "draw": "Rectangular tank with a lid and a rack of test tubes poking out, wavy heat lines.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "fume-hood",
+  "category": "science",
+  "draw": "Tall cabinet with a sash window raised halfway and a duct on top.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "spectrophotometer",
+  "category": "science",
+  "draw": "Benchtop box with a sample lid, a small screen and a graph peak.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "rotary-evaporator",
+  "category": "science",
+  "draw": "Round flask tilted on a motor arm dipping into a bath, with a coiled condenser above.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electron-microscope",
+  "category": "science",
+  "draw": "Tall column instrument with stacked cylindrical sections on a desk with a monitor.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "microtome",
+  "category": "science",
+  "draw": "Block machine with a large hand wheel on the side and a blade slicing a thin ribbon.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "bioreactor",
+  "category": "science",
+  "draw": "Stainless tank with a domed top, a motor and stirrer shaft and pipes leading in.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "chemistry-set",
+  "category": "science",
+  "draw": "Open box with a row of small labeled vials, a test tube and a tiny flask.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "analytical-balance",
+  "category": "science",
+  "draw": "Precision scale with a glass draft shield box around the weighing pan and a display.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "beam-balance",
+  "category": "science",
+  "draw": "Classic two-pan balance on a central post with a pointer, one pan lower.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "triple-beam-balance",
+  "category": "science",
+  "draw": "Single pan at one end and three parallel sliding weight beams at the other.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "spring-scale",
+  "category": "science",
+  "draw": "Hanging tube scale with a hook at the bottom holding a weight and a scale on the body.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "calibration-weight",
+  "category": "science",
+  "draw": "Stubby cylindrical weight with a knob handle on top, a smaller one beside it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "chemical-reaction",
+  "category": "science",
+  "draw": "Two small molecules, then an arrow pointing to one combined molecule.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "reversible-reaction",
+  "category": "science",
+  "draw": "Two stacked half-arrows pointing in opposite directions between two blobs.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "covalent-bond",
+  "category": "science",
+  "draw": "Two atoms overlapping their circles with a shared pair of electron dots in the overlap.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ionic-bond",
+  "category": "science",
+  "draw": "One small circle with a plus and one large circle with a minus, an attraction arrow between.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "hydrogen-bond",
+  "category": "science",
+  "draw": "Two water molecules with a dashed line linking a hydrogen of one to the oxygen of the other.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "crystal-lattice",
+  "category": "science",
+  "draw": "Cube of balls joined by straight rods in a repeating three-dimensional grid.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "water-molecule",
+  "category": "science",
+  "draw": "Large ball with two smaller balls attached at an angle, like a mouse head.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "carbon-dioxide-molecule",
+  "category": "science",
+  "draw": "Three balls in a straight line, the middle one slightly smaller, double bond marks between.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "methane-molecule",
+  "category": "science",
+  "draw": "Central ball with four smaller balls on sticks spread in a tetrahedron.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "buckyball",
+  "category": "science",
+  "draw": "Soccer-ball like sphere made of hexagons and pentagons with dots at the vertices.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "graphene-sheet",
+  "category": "science",
+  "draw": "Flat tilted sheet of connected hexagons with dots at each corner.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "carbon-nanotube",
+  "category": "science",
+  "draw": "Cylinder made of a hexagon mesh seen at an angle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "polymer-chain",
+  "category": "science",
+  "draw": "Long zigzag chain of linked beads with a repeating bracket marking one unit.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "protein-structure",
+  "category": "science",
+  "draw": "Coiled ribbon helix flowing into a flat arrow-shaped sheet.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "lipid-bilayer",
+  "category": "science",
+  "draw": "Two rows of round heads with wavy tails pointing toward each other.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "enzyme",
+  "category": "science",
+  "draw": "Pac-man shaped blob with a key-shaped molecule fitting into its notch.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "states-of-matter",
+  "category": "science",
+  "draw": "Three panels: tightly packed dots, loose clustered dots, and widely scattered dots.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "filtration",
+  "category": "science",
+  "draw": "Funnel with a paper cone over a flask, murky liquid above and clear drips below.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "evaporation",
+  "category": "science",
+  "draw": "Dish of liquid with wavy vapor lines rising and small droplets leaving the surface.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "condensation",
+  "category": "science",
+  "draw": "Cold glass with droplets beading on the outside and one drop running down.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electrolysis",
+  "category": "science",
+  "draw": "Beaker with two electrodes wired to a battery, bubbles rising from each electrode.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "voltaic-pile",
+  "category": "science",
+  "draw": "Stack of alternating discs in a column with a wire coming off the top and bottom.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "lemon-battery",
+  "category": "science",
+  "draw": "Half lemon with two metal strips pushed in and wires leading to a small bulb.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "element-tile",
+  "category": "science",
+  "draw": "Square tile with a large one or two letter symbol, a small number in the corner and a mass below.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "chirality",
+  "category": "science",
+  "draw": "Two mirror-image tetrahedral molecules facing each other across a vertical dashed line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "fire-triangle",
+  "category": "science",
+  "draw": "Triangle with a flame in the middle and a small symbol at each corner for heat, fuel and oxygen.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "flame-test",
+  "category": "science",
+  "draw": "Wire loop with a sample held in a bunsen flame that flares brighter at the tip.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "litmus-paper",
+  "category": "science",
+  "draw": "Thin strip of paper, lower half darker where it was dipped, beside a drop.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ph-scale",
+  "category": "science",
+  "draw": "Horizontal bar divided into segments numbered 0 to 14 with a pointer at 7.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ph-meter",
+  "category": "science",
+  "draw": "Handheld meter with a digital display and a probe on a cord dipped in a beaker.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "precipitate",
+  "category": "science",
+  "draw": "Test tube of clear liquid with a layer of settled grains at the bottom and falling specks.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "effervescence",
+  "category": "science",
+  "draw": "Beaker of liquid with many rising bubbles and a fizz of bubbles bursting above the rim.",
+  "domain": "science-and-lab"
+ }
+]

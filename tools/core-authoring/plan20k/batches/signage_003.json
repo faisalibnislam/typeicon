@@ -1,0 +1,332 @@
+[
+ {
+  "name": "oversize-baggage",
+  "category": "signage",
+  "draw": "A tall golf bag and a long ski bag standing beside a normal suitcase for scale.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "lost-baggage",
+  "category": "signage",
+  "draw": "A suitcase with a bold question mark above it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "airport-shuttle",
+  "category": "signage",
+  "draw": "A minibus in side view with a small airplane silhouette above its roof.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "kiss-and-ride",
+  "category": "signage",
+  "draw": "A car in side view with an open door and a figure stepping out onto the curb with a suitcase.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "pet-relief-area",
+  "category": "signage",
+  "draw": "A dog standing beside a small fire hydrant post on a patch of grass.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "rail-replacement-bus",
+  "category": "signage",
+  "draw": "A bus in side view with a small train front symbol on its side panel.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "bicycle-carriage",
+  "category": "signage",
+  "draw": "A train carriage side view with a bicycle symbol shown in its window.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "trolley-return",
+  "category": "signage",
+  "draw": "A luggage trolley rolling into a nest of other trolleys with a curved return arrow.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "unaccompanied-minor",
+  "category": "signage",
+  "draw": "A small child figure wearing a pouch hung on a lanyard around the neck, holding a small backpack.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "clear-stadium-bag",
+  "category": "signage",
+  "draw": "A transparent tote bag outline with visible small items inside and short handles.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "playbill",
+  "category": "signage",
+  "draw": "A slim theater program booklet with a pair of drama masks on the cover.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "apron-bus",
+  "category": "signage",
+  "draw": "A low wide airport bus with many doors in side view with an airplane tail behind it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "detection-dog",
+  "category": "signage",
+  "draw": "A dog in profile wearing a harness sniffing at a suitcase.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "night-bus",
+  "category": "signage",
+  "draw": "A bus in side view with a crescent moon and a small star above its roof.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "amnesty-bin",
+  "category": "signage",
+  "draw": "A lidded bin with a slot and an apple and a leaf being dropped in.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "bus-bike-rack",
+  "category": "signage",
+  "draw": "The front of a bus with a folding rack holding a bicycle in front of the windshield.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "car-shuttle-train",
+  "category": "signage",
+  "draw": "A flat rail wagon carrying a car in side view on top of it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "cable-ferry",
+  "category": "signage",
+  "draw": "A flat ferry deck on water attached to a cable strung between two river banks.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "firefighter-lift",
+  "category": "signage",
+  "draw": "An elevator door with a firefighter helmet symbol above it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "emergency-door-release",
+  "category": "signage",
+  "draw": "A red handle lever on a panel beside a sliding door edge with a pull-down arrow.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "bridleway-sign",
+  "category": "signage",
+  "draw": "A horse and rider in profile on a marker post arrow disc.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "boot-cleaning-station",
+  "category": "signage",
+  "draw": "A boot pressing against an upright brush set on a low tray with a water spray.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "kissing-gate",
+  "category": "signage",
+  "draw": "Top view of a small semicircular fenced enclosure with a gate swinging between its ends.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "ground-nesting-birds-sign",
+  "category": "signage",
+  "draw": "A small bird sitting on a nest cup on the ground among grass blades.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "tide-table",
+  "category": "signage",
+  "draw": "A board showing a wavy tide curve over a row of time columns with an up arrow and a down arrow.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "vinegar-station",
+  "category": "signage",
+  "draw": "A post-mounted box holding a squeeze bottle with a small jellyfish symbol on the box.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "avalanche-beacon-checkpoint",
+  "category": "signage",
+  "draw": "A post with a round sensor panel and signal arcs reaching toward a skier's chest pack.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "ski-patrol",
+  "category": "signage",
+  "draw": "A skier wearing a backpack with a cross emblem.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "ski-school",
+  "category": "signage",
+  "draw": "A large skier followed by a small skier in a line on a gentle slope.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "magic-carpet-lift",
+  "category": "signage",
+  "draw": "A small skier standing on a flat conveyor belt that rises up a short slope under a tunnel cover.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "terrain-park",
+  "category": "signage",
+  "draw": "A snowboarder in the air above a curved kicker jump.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "platter-lift",
+  "category": "signage",
+  "draw": "A skier holding a pole with a round disc seat tucked between the legs, hanging from an overhead cable.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "rope-tow",
+  "category": "signage",
+  "draw": "A skier gripping a low moving rope running between two short pulley posts.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "pump-out-station",
+  "category": "signage",
+  "draw": "A dockside post with a coiled hose and a nozzle attached to the deck fitting of a small boat.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "fishing-line-recycling-bin",
+  "category": "signage",
+  "draw": "A vertical tube bin on a post with a curved elbow opening and a tangle of fishing line going in.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "fish-cleaning-station",
+  "category": "signage",
+  "draw": "A table with a sink and a fish lying flat beside a filleting knife.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "pilgrim-route-marker",
+  "category": "signage",
+  "draw": "A small square marker post plate showing a scallop shell with radiating ribs.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "hang-gliding",
+  "category": "signage",
+  "draw": "A triangular delta wing glider with a pilot hanging horizontally beneath it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "windsurfing",
+  "category": "signage",
+  "draw": "A sailboard with a tilted triangular sail and a figure leaning back holding the boom.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "outdoor-fitness-station",
+  "category": "signage",
+  "draw": "A park exercise frame with parallel bars and a figure doing a dip between them.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "hammam",
+  "category": "signage",
+  "draw": "A domed bathhouse roof with small star-shaped skylights and steam rising from the dome.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "shoe-locker",
+  "category": "signage",
+  "draw": "A grid of small wooden lockers with a pair of shoes in one open door.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "foot-shower",
+  "category": "signage",
+  "draw": "A low outdoor tap spraying water over a bare foot on a slatted platform.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "holy-water-font",
+  "category": "signage",
+  "draw": "A shallow stone basin mounted on a wall bracket with a fingertip dipping into it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "priority-queue-sign",
+  "category": "signage",
+  "draw": "A queue lane with small wheelchair, pregnant and walking-cane figure symbols standing at its front.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "fare-box",
+  "category": "signage",
+  "draw": "A pedestal coin box with a slot on top and a card reader panel on its face, as beside a bus driver.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "rapid-water-rise-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a dam wall releasing water and a figure standing on a riverbank below with an upward arrow.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "swift-water-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a swimmer's head swept along by strong curved current lines in a river bend.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "remain-seated-sign",
+  "category": "signage",
+  "draw": "A figure seated in a ride car with a lap bar across the thighs and a downward arrow above the head.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "keep-arms-inside-sign",
+  "category": "signage",
+  "draw": "A figure seated in a ride car with arms tucked in and an arm outside the car shown crossed out.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "ride-height-requirement",
+  "category": "signage",
+  "draw": "A child figure standing beside a tall measuring post with a horizontal bar at head height.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "splash-zone-sign",
+  "category": "signage",
+  "draw": "A seated figure in front of a large curling wave splash with droplets flying toward the seats.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "snack-vending-machine",
+  "category": "signage",
+  "draw": "A tall vending cabinet with a glass front showing rows of spiral coils holding snack packets.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "beach-clean-station",
+  "category": "signage",
+  "draw": "An upright board holding a litter picker and a roll of bags beside a small bin on sand.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "dog-tie-up-point",
+  "category": "signage",
+  "draw": "A metal ring on a wall bracket with a dog leash clipped to it and a small bowl below.",
+  "domain": "r2-public-signage"
+ }
+]

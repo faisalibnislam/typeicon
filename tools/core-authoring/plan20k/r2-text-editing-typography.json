@@ -1,0 +1,1197 @@
+[
+  {
+    "name": "double-underline",
+    "category": "typography",
+    "draw": "Capital letter A with two parallel horizontal lines beneath it."
+  },
+  {
+    "name": "dotted-underline",
+    "category": "typography",
+    "draw": "Capital letter A with a row of evenly spaced dots running beneath it."
+  },
+  {
+    "name": "dashed-underline",
+    "category": "typography",
+    "draw": "Capital letter A with a short dashed line beneath it."
+  },
+  {
+    "name": "overline",
+    "category": "typography",
+    "draw": "Capital letter A with a single horizontal bar drawn above its apex."
+  },
+  {
+    "name": "double-strikethrough",
+    "category": "typography",
+    "draw": "Capital letter S crossed by two close parallel horizontal lines through its middle."
+  },
+  {
+    "name": "bold-italic",
+    "category": "typography",
+    "draw": "Heavy slanted capital B with thick strokes leaning to the right."
+  },
+  {
+    "name": "embossed-text",
+    "category": "typography",
+    "draw": "Capital letter A with a thin offset highlight edge on one side and a shadow edge on the other, as if raised."
+  },
+  {
+    "name": "glowing-text",
+    "category": "typography",
+    "draw": "Capital letter A surrounded by short radiating rays like a glow."
+  },
+  {
+    "name": "gradient-text",
+    "category": "typography",
+    "draw": "Bold capital A whose fill fades from solid to diagonal hatching across the letter."
+  },
+  {
+    "name": "extruded-text",
+    "category": "typography",
+    "draw": "Capital letter A with parallel depth lines extending back from each corner into a 3D block letter."
+  },
+  {
+    "name": "reflected-text",
+    "category": "typography",
+    "draw": "Capital letter A standing on a line with a fainter dashed upside down copy beneath it."
+  },
+  {
+    "name": "knockout-text",
+    "category": "typography",
+    "draw": "Solid filled rectangle with a capital letter A cut out of it as empty space."
+  },
+  {
+    "name": "warped-text",
+    "category": "typography",
+    "draw": "Row of three letters bulging along an arched envelope with curved top and bottom guide lines."
+  },
+  {
+    "name": "sketched-text",
+    "category": "typography",
+    "draw": "Capital letter A drawn with loose double strokes and small overshooting ends like a pencil sketch."
+  },
+  {
+    "name": "distressed-text",
+    "category": "typography",
+    "draw": "Bold capital A with small irregular gaps and specks worn out of its strokes."
+  },
+  {
+    "name": "glitch-text",
+    "category": "typography",
+    "draw": "Capital letter A sliced into three horizontal bands, the middle band shifted sideways."
+  },
+  {
+    "name": "perspective-text",
+    "category": "typography",
+    "draw": "Three text lines narrowing toward the top as they recede into the distance."
+  },
+  {
+    "name": "camel-case",
+    "category": "typography",
+    "draw": "The letters aBc with a raised capital in the middle and a small hump arc above it."
+  },
+  {
+    "name": "snake-case",
+    "category": "typography",
+    "draw": "Two lowercase letters joined by an underscore bar at the baseline, as a_b."
+  },
+  {
+    "name": "kebab-case",
+    "category": "typography",
+    "draw": "Two lowercase letters joined by a short mid height hyphen, as a-b."
+  },
+  {
+    "name": "heading-4",
+    "category": "typography",
+    "draw": "Capital H followed by the digit 4."
+  },
+  {
+    "name": "heading-5",
+    "category": "typography",
+    "draw": "Capital H followed by the digit 5."
+  },
+  {
+    "name": "heading-6",
+    "category": "typography",
+    "draw": "Capital H followed by the digit 6."
+  },
+  {
+    "name": "raised-initial",
+    "category": "typography",
+    "draw": "Large capital A sitting on the first line of text and rising well above the text block."
+  },
+  {
+    "name": "text-expansion",
+    "category": "typography",
+    "draw": "Short abbreviation of two letters on the left with an arrow leading to a longer line of text."
+  },
+  {
+    "name": "paraphrase",
+    "category": "typography",
+    "draw": "Two text lines with a circular pair of arrows between them showing a rewrite."
+  },
+  {
+    "name": "expand-text",
+    "category": "typography",
+    "draw": "One short text line opening through outward arrows into three longer lines."
+  },
+  {
+    "name": "readability-score",
+    "category": "typography",
+    "draw": "Text lines above a half circle gauge with a needle pointing into the high range."
+  },
+  {
+    "name": "writers-block",
+    "category": "typography",
+    "draw": "Pen nib pressed against a small brick wall."
+  },
+  {
+    "name": "pen-name",
+    "category": "typography",
+    "draw": "Quill pen crossed in front of a simple eye mask."
+  },
+  {
+    "name": "style-manual",
+    "category": "typography",
+    "draw": "Closed book with a large Aa on the cover and a bookmark ribbon."
+  },
+  {
+    "name": "variable-font",
+    "category": "typography",
+    "draw": "Capital A above a horizontal slider track with a round knob."
+  },
+  {
+    "name": "font-width",
+    "category": "typography",
+    "draw": "Capital A flanked by two horizontal arrows pointing outward from its sides."
+  },
+  {
+    "name": "optical-size",
+    "category": "typography",
+    "draw": "Small bold A next to a large thin A standing on the same baseline."
+  },
+  {
+    "name": "font-interpolation",
+    "category": "typography",
+    "draw": "Thin A and heavy A at the ends of a line with a medium A in the middle."
+  },
+  {
+    "name": "pixel-font",
+    "category": "typography",
+    "draw": "Capital A built from square pixel blocks on a stepped grid."
+  },
+  {
+    "name": "geometric-sans-font",
+    "category": "typography",
+    "draw": "Lowercase a formed by a perfect circle with a straight vertical stem beside it."
+  },
+  {
+    "name": "handwritten-font",
+    "category": "typography",
+    "draw": "Loose handwritten Aa with an uneven baseline and a pen nib tip at its end."
+  },
+  {
+    "name": "dingbat-font",
+    "category": "typography",
+    "draw": "Grid of four small symbols: a star, a pointing hand, a check and a pair of scissors."
+  },
+  {
+    "name": "icon-font",
+    "category": "typography",
+    "draw": "Tall glyph cell with baseline guides containing a small house symbol instead of a letter."
+  },
+  {
+    "name": "font-fallback",
+    "category": "typography",
+    "draw": "Dashed outline letter A with an arrow pointing to a solid letter A."
+  },
+  {
+    "name": "embedded-font",
+    "category": "typography",
+    "draw": "Document page with a capital A set inside a small square on the sheet."
+  },
+  {
+    "name": "missing-glyph",
+    "category": "typography",
+    "draw": "Tall empty rectangle with an X crossing it, the placeholder box for a character not in the font."
+  },
+  {
+    "name": "glyph-outline",
+    "category": "typography",
+    "draw": "Outline of capital A with small square anchor points at its corners and one curve handle."
+  },
+  {
+    "name": "font-hinting",
+    "category": "typography",
+    "draw": "Capital A outline laid over a coarse pixel grid with a few squares filled along its strokes."
+  },
+  {
+    "name": "hand-lettering",
+    "category": "typography",
+    "draw": "Brush pen drawing a thick to thin swooping letter stroke."
+  },
+  {
+    "name": "swash-letter",
+    "category": "typography",
+    "draw": "Capital A whose right leg extends into a long curling flourish beneath the baseline."
+  },
+  {
+    "name": "stylistic-alternates",
+    "category": "typography",
+    "draw": "Double story lowercase a and single story lowercase a side by side with a swap arrow between."
+  },
+  {
+    "name": "old-style-figures",
+    "category": "typography",
+    "draw": "Digits 1 2 3 4 with the 3 and 4 dropping below the baseline line."
+  },
+  {
+    "name": "tabular-figures",
+    "category": "typography",
+    "draw": "Two rows of digits aligned in equal width columns inside a grid of cells."
+  },
+  {
+    "name": "slashed-zero",
+    "category": "typography",
+    "draw": "Tall oval zero with a diagonal slash crossing its center."
+  },
+  {
+    "name": "discretionary-ligature",
+    "category": "typography",
+    "draw": "Two letters s and t joined at the top by a curved connecting arc."
+  },
+  {
+    "name": "full-width-character",
+    "category": "typography",
+    "draw": "Narrow letter A beside a wide letter A that fills a square cell."
+  },
+  {
+    "name": "letter-ascender",
+    "category": "typography",
+    "draw": "Lowercase h on a baseline with its stem part above the x height line drawn solid."
+  },
+  {
+    "name": "letter-descender",
+    "category": "typography",
+    "draw": "Lowercase p with its stem extending below the baseline guide drawn solid."
+  },
+  {
+    "name": "cap-height",
+    "category": "typography",
+    "draw": "Capital H between a baseline and a top guide line with a vertical dimension arrow at its side."
+  },
+  {
+    "name": "tittle",
+    "category": "typography",
+    "draw": "Lowercase i with its dot circled by a small ring."
+  },
+  {
+    "name": "letter-crossbar",
+    "category": "typography",
+    "draw": "Capital A outline with only its horizontal crossbar drawn in solid weight."
+  },
+  {
+    "name": "letter-apex",
+    "category": "typography",
+    "draw": "Capital A with a small circle marking the pointed top where its strokes meet."
+  },
+  {
+    "name": "letter-vertex",
+    "category": "typography",
+    "draw": "Capital V with a small circle marking the pointed bottom where its strokes meet."
+  },
+  {
+    "name": "letter-bowl",
+    "category": "typography",
+    "draw": "Lowercase b with its rounded bowl drawn solid and the stem as a thin outline."
+  },
+  {
+    "name": "letter-counter",
+    "category": "typography",
+    "draw": "Capital O outline with the enclosed inner space filled solid."
+  },
+  {
+    "name": "letter-ear",
+    "category": "typography",
+    "draw": "Double story lowercase g with the small flag at its upper right circled."
+  },
+  {
+    "name": "letter-spine",
+    "category": "typography",
+    "draw": "Capital S with its central diagonal curve drawn solid and the ends as thin outline."
+  },
+  {
+    "name": "letter-tail",
+    "category": "typography",
+    "draw": "Capital Q with the short tail stroke crossing its bottom drawn solid."
+  },
+  {
+    "name": "letter-terminal",
+    "category": "typography",
+    "draw": "Double story lowercase a with the ball shaped end of its top stroke circled."
+  },
+  {
+    "name": "letter-spur",
+    "category": "typography",
+    "draw": "Capital G with the small projection at its lower right circled."
+  },
+  {
+    "name": "letter-stem",
+    "category": "typography",
+    "draw": "Lowercase l with its main vertical stroke drawn solid between two guide lines."
+  },
+  {
+    "name": "letter-shoulder",
+    "category": "typography",
+    "draw": "Lowercase n with its arched curve from the stem drawn solid."
+  },
+  {
+    "name": "letter-arm",
+    "category": "typography",
+    "draw": "Capital E with its top horizontal stroke drawn solid."
+  },
+  {
+    "name": "letter-leg",
+    "category": "typography",
+    "draw": "Capital R with its diagonal lower stroke drawn solid."
+  },
+  {
+    "name": "letter-loop",
+    "category": "typography",
+    "draw": "Double story lowercase g with its lower closed loop below the baseline drawn solid."
+  },
+  {
+    "name": "letter-overshoot",
+    "category": "typography",
+    "draw": "Letter O dipping slightly below the baseline and above the cap line beside a flat H."
+  },
+  {
+    "name": "stroke-contrast",
+    "category": "typography",
+    "draw": "Letter O with thick sides and thin top and bottom, small arrows pointing at the thick and thin parts."
+  },
+  {
+    "name": "stress-axis",
+    "category": "typography",
+    "draw": "Letter O with uneven stroke weight and a tilted dashed line through its thinnest points."
+  },
+  {
+    "name": "ink-trap",
+    "category": "typography",
+    "draw": "Junction of two strokes with a small notch cut into the inside corner."
+  },
+  {
+    "name": "em-square",
+    "category": "typography",
+    "draw": "Square frame containing a letter A with dashed guide lines at its baseline and cap height."
+  },
+  {
+    "name": "advance-width",
+    "category": "typography",
+    "draw": "Letter n inside a rectangle with a dimension arrow spanning the full width below."
+  },
+  {
+    "name": "vertical-metrics",
+    "category": "typography",
+    "draw": "Word Hxp crossed by four horizontal guide lines for cap height, x height, baseline and descender."
+  },
+  {
+    "name": "word-spacing",
+    "category": "typography",
+    "draw": "Two short word blocks on a line with a two headed arrow in the gap between them."
+  },
+  {
+    "name": "baseline-shift",
+    "category": "typography",
+    "draw": "Capital A beside a smaller raised a with a short up arrow and a dashed baseline."
+  },
+  {
+    "name": "hanging-punctuation",
+    "category": "typography",
+    "draw": "Left aligned text lines with an opening quotation mark sitting outside the left edge."
+  },
+  {
+    "name": "first-line-indent",
+    "category": "typography",
+    "draw": "Paragraph lines with the first line starting further in, marked by a small arrow."
+  },
+  {
+    "name": "hanging-indent",
+    "category": "typography",
+    "draw": "Paragraph with the first line flush to the edge and the lines below it indented."
+  },
+  {
+    "name": "non-breaking-space",
+    "category": "typography",
+    "draw": "Two letters joined by a small upturned arc bridging the space between them."
+  },
+  {
+    "name": "space-symbol",
+    "category": "typography",
+    "draw": "Open box symbol: a horizontal baseline with short upturned ends, the visible space mark."
+  },
+  {
+    "name": "decimal-tab",
+    "category": "typography",
+    "draw": "Column of numbers of varied length with their decimal points aligned on a vertical dashed line."
+  },
+  {
+    "name": "justify-all-lines",
+    "category": "typography",
+    "draw": "Justified text lines where the short last line is stretched full width with small outward arrows."
+  },
+  {
+    "name": "vertical-justification",
+    "category": "typography",
+    "draw": "Text frame with lines spread evenly from top to bottom and a vertical two headed arrow at its side."
+  },
+  {
+    "name": "align-to-spine",
+    "category": "typography",
+    "draw": "Open book spread with text lines on each page aligned toward the center fold."
+  },
+  {
+    "name": "widows-and-orphans",
+    "category": "typography",
+    "draw": "Two page outlines where a single short line sits alone at the top of the second page."
+  },
+  {
+    "name": "keep-with-next",
+    "category": "typography",
+    "draw": "Heading bar and paragraph lines linked together by a small chain link."
+  },
+  {
+    "name": "keep-lines-together",
+    "category": "typography",
+    "draw": "Paragraph block with a bracket on its side holding all lines as one group."
+  },
+  {
+    "name": "line-length",
+    "category": "typography",
+    "draw": "Paragraph of text lines with a horizontal dimension arrow spanning the width of one line."
+  },
+  {
+    "name": "text-rivers",
+    "category": "typography",
+    "draw": "Justified paragraph with a wavy blank channel running down through the gaps between words."
+  },
+  {
+    "name": "text-frame",
+    "category": "typography",
+    "draw": "Dashed rectangle with small square handles at its corners and a capital T inside."
+  },
+  {
+    "name": "threaded-text-frames",
+    "category": "typography",
+    "draw": "Two dashed text boxes with text lines connected by a curved arrow from one to the other."
+  },
+  {
+    "name": "overset-text",
+    "category": "typography",
+    "draw": "Text box filled with lines and a small square with a plus sign at its lower corner."
+  },
+  {
+    "name": "shrink-text-to-fit",
+    "category": "typography",
+    "draw": "Text box with a capital A inside and inward pointing arrows at two corners."
+  },
+  {
+    "name": "span-columns",
+    "category": "typography",
+    "draw": "Wide heading bar stretching across two columns of text lines below it."
+  },
+  {
+    "name": "column-break",
+    "category": "typography",
+    "draw": "Two text columns where the first column ends early with a dashed break line."
+  },
+  {
+    "name": "page-border",
+    "category": "typography",
+    "draw": "Page outline with a decorative inner frame of double lines around its edge."
+  },
+  {
+    "name": "anchored-image",
+    "category": "typography",
+    "draw": "Image frame in a text column with a small anchor symbol tied to one paragraph."
+  },
+  {
+    "name": "wrap-top-and-bottom",
+    "category": "typography",
+    "draw": "Image block spanning full width with text lines above and below it only."
+  },
+  {
+    "name": "wrap-behind-text",
+    "category": "typography",
+    "draw": "Dashed image block drawn beneath text lines that run over it."
+  },
+  {
+    "name": "wrap-in-front-of-text",
+    "category": "typography",
+    "draw": "Solid image block covering the middle of several text lines."
+  },
+  {
+    "name": "wrap-tight",
+    "category": "typography",
+    "draw": "Circle image with text lines that end close around its curved edge."
+  },
+  {
+    "name": "inline-image",
+    "category": "typography",
+    "draw": "Single line of text with a small picture frame sitting inside the line like a word."
+  },
+  {
+    "name": "bleed-area",
+    "category": "typography",
+    "draw": "Page rectangle with a dashed outline drawn slightly outside its edges and a picture running past the trim."
+  },
+  {
+    "name": "page-imposition",
+    "category": "typography",
+    "draw": "Large sheet divided into eight numbered page panels, some upside down."
+  },
+  {
+    "name": "perfect-binding",
+    "category": "typography",
+    "draw": "Book spine seen from the end with a flat glued edge holding stacked page lines."
+  },
+  {
+    "name": "multilevel-list",
+    "category": "typography",
+    "draw": "Outline list with numbers 1 and 1.1 style entries indented at two levels beside text lines."
+  },
+  {
+    "name": "lettered-list",
+    "category": "typography",
+    "draw": "Three list lines each led by a small letter a, b and c."
+  },
+  {
+    "name": "roman-numeral-list",
+    "category": "typography",
+    "draw": "Three list lines led by the roman numerals I, II and III."
+  },
+  {
+    "name": "definition-list",
+    "category": "typography",
+    "draw": "Bold term line followed by an indented description line, repeated twice."
+  },
+  {
+    "name": "dash-list",
+    "category": "typography",
+    "draw": "Three list lines each led by a short horizontal dash."
+  },
+  {
+    "name": "toggle-list",
+    "category": "typography",
+    "draw": "List lines each led by a small solid triangle, one turned down with indented lines under it."
+  },
+  {
+    "name": "restart-numbering",
+    "category": "typography",
+    "draw": "Numbered list lines 1 and 2 followed by a circular arrow and another 1."
+  },
+  {
+    "name": "bullet-point",
+    "category": "typography",
+    "draw": "Single solid round dot beside a short horizontal text line."
+  },
+  {
+    "name": "arrow-bullet-list",
+    "category": "typography",
+    "draw": "Three list lines each led by a small arrowhead bullet."
+  },
+  {
+    "name": "alphabetical-order",
+    "category": "typography",
+    "draw": "Letters A and Z stacked vertically with a downward arrow beside them."
+  },
+  {
+    "name": "cell-alignment",
+    "category": "typography",
+    "draw": "Table cell with a small text block in its center and alignment ticks on its edges."
+  },
+  {
+    "name": "cell-padding",
+    "category": "typography",
+    "draw": "Table cell with a dashed inner rectangle and small arrows between the two borders."
+  },
+  {
+    "name": "draw-table",
+    "category": "typography",
+    "draw": "Pencil drawing the last line of a small grid table."
+  },
+  {
+    "name": "text-to-table",
+    "category": "typography",
+    "draw": "Text lines on the left, an arrow, and a small table grid on the right."
+  },
+  {
+    "name": "distribute-columns",
+    "category": "typography",
+    "draw": "Table with three equal columns and small equal spacing arrows above each."
+  },
+  {
+    "name": "diagonal-cell-split",
+    "category": "typography",
+    "draw": "Table corner cell crossed by a diagonal line with small text marks in each half."
+  },
+  {
+    "name": "repeat-header-row",
+    "category": "typography",
+    "draw": "Two table pieces on stacked pages both topped by the same solid header row."
+  },
+  {
+    "name": "split-table",
+    "category": "typography",
+    "draw": "Table grid broken into two parts with a gap and small scissors mark between them."
+  },
+  {
+    "name": "table-gridlines",
+    "category": "typography",
+    "draw": "Table drawn in dotted lines with no solid borders."
+  },
+  {
+    "name": "erase-table-border",
+    "category": "typography",
+    "draw": "Small table grid with an eraser rubbing out one of its inner lines."
+  },
+  {
+    "name": "tab-leader",
+    "category": "typography",
+    "draw": "Short word on the left and a number on the right joined by a row of dots."
+  },
+  {
+    "name": "table-of-figures",
+    "category": "typography",
+    "draw": "Page listing small picture thumbnails each followed by a dotted leader and a page number."
+  },
+  {
+    "name": "comment-thread",
+    "category": "typography",
+    "draw": "Two speech bubbles stacked with a thin vertical line connecting them as replies."
+  },
+  {
+    "name": "inline-comment",
+    "category": "typography",
+    "draw": "Highlighted word in a text line with a small speech bubble attached above it."
+  },
+  {
+    "name": "suggest-edits",
+    "category": "typography",
+    "draw": "Text line with a crossed out word and a pen nib pointing at an inserted word above it."
+  },
+  {
+    "name": "change-bar",
+    "category": "typography",
+    "draw": "Text lines with a thick vertical bar in the margin beside two of them."
+  },
+  {
+    "name": "stet-mark",
+    "category": "typography",
+    "draw": "Dotted underline beneath a word with the small handwritten word stet in the margin."
+  },
+  {
+    "name": "transpose-mark",
+    "category": "typography",
+    "draw": "Two letters with an S shaped curved line looping over one and under the other."
+  },
+  {
+    "name": "insert-space-mark",
+    "category": "typography",
+    "draw": "Proofreading caret below two joined words with a hash sign above it."
+  },
+  {
+    "name": "capitalize-proof-mark",
+    "category": "typography",
+    "draw": "Lowercase letter with three short parallel lines underneath it, the proofreading mark for capitals."
+  },
+  {
+    "name": "lowercase-proof-mark",
+    "category": "typography",
+    "draw": "Capital letter crossed by a single diagonal slash, the proofreading mark for lowercase."
+  },
+  {
+    "name": "endnote",
+    "category": "typography",
+    "draw": "Document page with a thin rule near the bottom and numbered short lines below it."
+  },
+  {
+    "name": "cross-reference",
+    "category": "typography",
+    "draw": "Two text lines with a curved arrow from a small number in one to a heading in the other."
+  },
+  {
+    "name": "comments-sidebar",
+    "category": "typography",
+    "draw": "Page with text on the left and a column of stacked small speech bubbles along the right side."
+  },
+  {
+    "name": "mark-as-final",
+    "category": "typography",
+    "draw": "Document with a small ribbon seal at its bottom corner."
+  },
+  {
+    "name": "errata-slip",
+    "category": "typography",
+    "draw": "Small narrow slip of paper with two lines tucked between the pages of an open book."
+  },
+  {
+    "name": "em-dash",
+    "category": "typography",
+    "draw": "Single long horizontal bar at mid height between two small letter blocks."
+  },
+  {
+    "name": "en-dash",
+    "category": "typography",
+    "draw": "Medium length horizontal bar between the digits 1 and 9 as a range."
+  },
+  {
+    "name": "interpunct",
+    "category": "typography",
+    "draw": "Single small dot at mid letter height between two letters."
+  },
+  {
+    "name": "apostrophe",
+    "category": "typography",
+    "draw": "Single curved comma shaped mark raised high beside a letter s."
+  },
+  {
+    "name": "full-stop",
+    "category": "typography",
+    "draw": "Solid round dot on a baseline after a short word block."
+  },
+  {
+    "name": "smart-quotes",
+    "category": "typography",
+    "draw": "Pair of curly double quotation marks next to a pair of straight vertical quote marks."
+  },
+  {
+    "name": "low-quotation-marks",
+    "category": "typography",
+    "draw": "Comma shaped double quote at the baseline on one side of a word and a raised pair on the other."
+  },
+  {
+    "name": "cjk-corner-brackets",
+    "category": "typography",
+    "draw": "Pair of East Asian quotation brackets shaped like an upper left and a lower right corner."
+  },
+  {
+    "name": "irony-mark",
+    "category": "typography",
+    "draw": "Reversed question mark with its hook opening to the other side."
+  },
+  {
+    "name": "dinkus",
+    "category": "typography",
+    "draw": "Three asterisks spaced in a horizontal row as a section break."
+  },
+  {
+    "name": "grave-accent",
+    "category": "typography",
+    "draw": "Lowercase e with a short stroke slanting down to the right above it."
+  },
+  {
+    "name": "caron",
+    "category": "typography",
+    "draw": "Lowercase c with a small v shaped mark above it."
+  },
+  {
+    "name": "dot-above",
+    "category": "typography",
+    "draw": "Capital I with a single round dot above it."
+  },
+  {
+    "name": "dotless-i",
+    "category": "typography",
+    "draw": "Lowercase i stem without its dot, next to a dotted i for comparison."
+  },
+  {
+    "name": "solidus",
+    "category": "typography",
+    "draw": "Single forward slanting slash between the digits 1 and 2."
+  },
+  {
+    "name": "block-selection",
+    "category": "typography",
+    "draw": "Several text lines with a rectangular column shaped selection box across them."
+  },
+  {
+    "name": "overtype-mode",
+    "category": "typography",
+    "draw": "Word with a solid block cursor covering one letter."
+  },
+  {
+    "name": "vertical-text-cursor",
+    "category": "typography",
+    "draw": "I beam cursor turned on its side beside a column of vertical text marks."
+  },
+  {
+    "name": "match-whole-word",
+    "category": "typography",
+    "draw": "Word ab inside square brackets with a short underline beneath."
+  },
+  {
+    "name": "go-to-line",
+    "category": "typography",
+    "draw": "Numbered line list with an arrow pointing to one highlighted line."
+  },
+  {
+    "name": "paste-as-text",
+    "category": "typography",
+    "draw": "Clipboard with a capital T on its sheet."
+  },
+  {
+    "name": "clipboard-history",
+    "category": "typography",
+    "draw": "Clipboard with a small clock and stacked sheet edges behind it."
+  },
+  {
+    "name": "insert-symbol",
+    "category": "typography",
+    "draw": "Omega sign inside a rounded square."
+  },
+  {
+    "name": "insert-equation",
+    "category": "typography",
+    "draw": "Pi sign inside a rounded square with a small equals mark."
+  },
+  {
+    "name": "character-limit",
+    "category": "typography",
+    "draw": "Text field with a line of text and a small counter reading a fraction like 9 over 10 in its corner."
+  },
+  {
+    "name": "autosave",
+    "category": "typography",
+    "draw": "Document with a small circular arrow wrapped around a cloud at its corner."
+  },
+  {
+    "name": "ruby-annotation",
+    "category": "typography",
+    "draw": "Large East Asian style character block with a row of tiny characters above it."
+  },
+  {
+    "name": "emphasis-dots",
+    "category": "typography",
+    "draw": "Three character blocks in a row each with a small dot above it."
+  },
+  {
+    "name": "kashida-justification",
+    "category": "typography",
+    "draw": "Flowing cursive stroke with one stretched horizontal connection and outward arrows."
+  },
+  {
+    "name": "bidirectional-text",
+    "category": "typography",
+    "draw": "Two text lines with arrows pointing in opposite directions on each line."
+  },
+  {
+    "name": "boustrophedon",
+    "category": "typography",
+    "draw": "Three text lines joined into a zigzag path with an arrow turning at each line end."
+  },
+  {
+    "name": "phonetic-transcription",
+    "category": "typography",
+    "draw": "Schwa symbol placed between two forward slashes."
+  },
+  {
+    "name": "transliteration",
+    "category": "typography",
+    "draw": "Latin letter A, an arrow, and a Cyrillic letter Ya."
+  },
+  {
+    "name": "enclosed-character",
+    "category": "typography",
+    "draw": "Single letter A inside a circle with a second circled letter overlapping behind it."
+  },
+  {
+    "name": "dyslexia-friendly-text",
+    "category": "typography",
+    "draw": "Letters b and d with heavy weighted bottoms sitting on a thick baseline."
+  },
+  {
+    "name": "scansion-marks",
+    "category": "typography",
+    "draw": "Row of short syllable blocks with alternating stress accents and small curved breves above them."
+  },
+  {
+    "name": "typing-speed",
+    "category": "typography",
+    "draw": "Keyboard outline with a small speedometer gauge above it."
+  },
+  {
+    "name": "grease-pencil",
+    "category": "typography",
+    "draw": "Wax marking pencil wrapped in a spiral paper sleeve with a pull string and a peeled tip."
+  },
+  {
+    "name": "typewriter-eraser",
+    "category": "typography",
+    "draw": "Round pencil shaped eraser with a small brush at its other end."
+  },
+  {
+    "name": "pica-ruler",
+    "category": "typography",
+    "draw": "Straight ruler with type scale markings and small point numbers along its edge."
+  },
+  {
+    "name": "linen-tester",
+    "category": "typography",
+    "draw": "Small folding magnifier with a square lens on a hinged metal stand."
+  },
+  {
+    "name": "printers-chase",
+    "category": "typography",
+    "draw": "Rectangular metal frame holding blocks of type locked by wedges at its side."
+  },
+  {
+    "name": "type-slug",
+    "category": "typography",
+    "draw": "Long metal bar with a single raised line of letters cast along its top edge."
+  },
+  {
+    "name": "dry-transfer-lettering",
+    "category": "typography",
+    "draw": "Sheet of alphabet letters with a pencil rubbing one letter off onto paper below."
+  },
+  {
+    "name": "proof-press",
+    "category": "typography",
+    "draw": "Flat bed press with a large roller on side rails over a type bed."
+  },
+  {
+    "name": "book-chapter",
+    "category": "typography",
+    "draw": "Open book with a large numeral 1 heading on the left page above text lines."
+  },
+  {
+    "name": "ghostwriter",
+    "category": "typography",
+    "draw": "Small ghost shape holding a pen over a sheet of paper."
+  },
+  {
+    "name": "digital-notepad",
+    "category": "typography",
+    "draw": "Thin tablet with a stylus writing handwritten lines on its screen."
+  },
+  {
+    "name": "letter-stamps",
+    "category": "typography",
+    "draw": "Row of small rubber stamps each topped with a letter on its base."
+  },
+  {
+    "name": "calligraphy-guide-sheet",
+    "category": "typography",
+    "draw": "Sheet of paper ruled with horizontal lines crossed by evenly spaced slanted guide lines."
+  },
+  {
+    "name": "didone-font",
+    "category": "typography",
+    "draw": "Capital A with extreme contrast between one heavy stroke and hairline strokes, finished with thin flat unbracketed serifs."
+  },
+  {
+    "name": "seven-segment-digits",
+    "category": "typography",
+    "draw": "Digital number 8 built from seven separate bar segments like a calculator display."
+  },
+  {
+    "name": "letter-aperture",
+    "category": "typography",
+    "draw": "Lowercase c with the opening between its two stroke ends marked by a small dashed arc."
+  },
+  {
+    "name": "side-bearings",
+    "category": "typography",
+    "draw": "Letter n inside a glyph box with the narrow empty strips at its left and right sides hatched."
+  },
+  {
+    "name": "cjk-full-stop",
+    "category": "typography",
+    "draw": "Short row of character blocks ending in a small hollow circle sitting at the baseline."
+  },
+  {
+    "name": "pinyin-tone-marks",
+    "category": "typography",
+    "draw": "Four lowercase a letters in a row topped by a flat bar, a rising stroke, a v shape and a falling stroke."
+  },
+  {
+    "name": "home-row-keys",
+    "category": "typography",
+    "draw": "Row of four keyboard keys with a small raised bump on two of them."
+  },
+  {
+    "name": "eyebrow-heading",
+    "category": "typography",
+    "draw": "Small short line of spaced capitals sitting above a thick heading bar and body text lines."
+  },
+  {
+    "name": "shape-poem",
+    "category": "typography",
+    "draw": "Short text lines of varying lengths stacked to form the outline of a tree."
+  },
+  {
+    "name": "palimpsest",
+    "category": "typography",
+    "draw": "Parchment sheet with bold text lines written over faint older dashed lines beneath."
+  },
+  {
+    "name": "underline-skip-ink",
+    "category": "typography",
+    "draw": "Lowercase g and y with an underline that breaks into gaps where their descenders cross it."
+  },
+  {
+    "name": "thousands-separator",
+    "category": "typography",
+    "draw": "Number 1,000 with the comma between the digits enlarged and circled."
+  },
+  {
+    "name": "hook-above-accent",
+    "category": "typography",
+    "draw": "Lowercase a with a small question mark shaped hook above it."
+  },
+  {
+    "name": "typewriter-key",
+    "category": "typography",
+    "draw": "Round typewriter key with a metal rim and a letter on its face, mounted on a slanted lever arm."
+  },
+  {
+    "name": "proportion-wheel",
+    "category": "typography",
+    "draw": "Two stacked concentric paper discs with scale ticks around their edges and a small window cut in the top disc."
+  },
+  {
+    "name": "ornamental-rule",
+    "category": "typography",
+    "draw": "Horizontal line with a small diamond and two curls at its center."
+  },
+  {
+    "name": "alt-text",
+    "category": "typography",
+    "draw": "Picture frame with a mountain above a small text label bar with short lines."
+  },
+  {
+    "name": "ai-writing-assistant",
+    "category": "typography",
+    "draw": "Pen nib writing a line with a small four point sparkle beside it."
+  },
+  {
+    "name": "paragraph-shading",
+    "category": "typography",
+    "draw": "Block of paragraph lines drawn over a solid filled background rectangle."
+  },
+  {
+    "name": "paragraph-border",
+    "category": "typography",
+    "draw": "Block of paragraph lines enclosed by a thin rectangular outline."
+  },
+  {
+    "name": "table-of-authorities",
+    "category": "typography",
+    "draw": "Document with a list of lines ending in page numbers and a small gavel at the top."
+  },
+  {
+    "name": "handwritten-markup",
+    "category": "typography",
+    "draw": "Document with text lines, one word circled by a hand drawn loop and an arrow pointing to the margin."
+  },
+  {
+    "name": "synchronized-scrolling",
+    "category": "typography",
+    "draw": "Two document pages side by side with a linked pair of vertical arrows between them."
+  },
+  {
+    "name": "synced-block",
+    "category": "typography",
+    "draw": "Two content blocks stacked with a pair of circular sync arrows linking them."
+  },
+  {
+    "name": "master-page",
+    "category": "typography",
+    "draw": "Two stacked page outlines with the letter A in a small tab at the corner of the back page."
+  },
+  {
+    "name": "page-construction-canon",
+    "category": "typography",
+    "draw": "Two facing pages crossed by diagonal lines with a small text block placed at their intersections on each page."
+  },
+  {
+    "name": "mahl-stick",
+    "category": "typography",
+    "draw": "Long thin stick with a padded ball at one end, used to steady a lettering brush hand."
+  },
+  {
+    "name": "comic-sound-effect",
+    "category": "typography",
+    "draw": "Jagged burst shape with bold slanted letters inside it."
+  },
+  {
+    "name": "acronym",
+    "category": "typography",
+    "draw": "Three stacked words with their first letters drawn larger and bold, lined up in a column."
+  },
+  {
+    "name": "replacement-character",
+    "category": "typography",
+    "draw": "Solid diamond with a white question mark inside it, the symbol for an unreadable character."
+  },
+  {
+    "name": "interlinear-translation",
+    "category": "typography",
+    "draw": "Alternating text lines where each bold line has a thinner smaller line directly beneath it."
+  },
+  {
+    "name": "parallel-text",
+    "category": "typography",
+    "draw": "Open book with a letter A heading on the left page and a Cyrillic letter heading on the right, both above matching text lines."
+  },
+  {
+    "name": "typewriter-typeball",
+    "category": "typography",
+    "draw": "Small sphere covered in rows of tiny raised letter bumps with a clip on top."
+  },
+  {
+    "name": "fluid-typography",
+    "category": "typography",
+    "draw": "Phone and wide monitor side by side, each showing a letter A scaled to its screen size."
+  },
+  {
+    "name": "numbered-equation",
+    "category": "typography",
+    "draw": "Centered equation line with an equals sign and a small number in parentheses at the far side."
+  },
+  {
+    "name": "code-ligature",
+    "category": "typography",
+    "draw": "Equals sign and greater than sign merging into a single arrow glyph, shown with a small arrow between the before and after."
+  },
+  {
+    "name": "postscript-note",
+    "category": "typography",
+    "draw": "Letter page with a signature scribble and a short extra line below it led by the letters PS."
+  },
+  {
+    "name": "spoiler-text",
+    "category": "typography",
+    "draw": "Text line with a middle section covered by a solid bar speckled with small dots."
+  },
+  {
+    "name": "backlinks",
+    "category": "typography",
+    "draw": "Two note pages with a curved arrow running from the second page back to the first."
+  },
+  {
+    "name": "diacritic-anchor",
+    "category": "typography",
+    "draw": "Lowercase a with a small crosshair target marking the attachment point above it."
+  },
+  {
+    "name": "horizontal-in-vertical-text",
+    "category": "typography",
+    "draw": "Vertical column of character blocks with two small digits set side by side in its middle."
+  },
+  {
+    "name": "erasing-shield",
+    "category": "typography",
+    "draw": "Thin flat metal plate pierced with several small slots and holes of different shapes."
+  }
+]

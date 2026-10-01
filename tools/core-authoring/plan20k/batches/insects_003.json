@@ -1,0 +1,374 @@
+[
+ {
+  "name": "bee-sting",
+  "category": "insects",
+  "draw": "A close-up of a barbed stinger stuck in skin with a small swollen bump around it.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "insect-swarm",
+  "category": "insects",
+  "draw": "A cloud of many tiny dots and small winged specks buzzing around in a loose round shape.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "chewed-leaf",
+  "category": "insects",
+  "draw": "A leaf with scalloped bite marks along its edge and a few holes in the middle.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "leaf-miner",
+  "category": "insects",
+  "draw": "A leaf with a pale winding tunnel line meandering across its surface.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "oak-gall",
+  "category": "insects",
+  "draw": "A round ball growth attached to the underside of a lobed oak leaf.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "butterfly-net",
+  "category": "insects",
+  "draw": "A long handle with a round hoop and a deep conical mesh net hanging from it.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "bug-jar",
+  "category": "insects",
+  "draw": "A glass jar with a twig inside, a bug on the twig and a lid with air holes.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "specimen-box",
+  "category": "insects",
+  "draw": "A shallow display box with a glass lid holding a grid of pinned insects and butterflies.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "firefly-jar",
+  "category": "insects",
+  "draw": "A glass jar with a lid, several fireflies inside shown as glowing dots with small rays.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "cricket-cage",
+  "category": "insects",
+  "draw": "A small round domed cage made of thin bamboo bars with a handle ring on top.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "butterfly-house",
+  "category": "insects",
+  "draw": "A tall narrow wooden box on a post with thin vertical slots in the front and a pitched roof.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "spider-catcher",
+  "category": "insects",
+  "draw": "A long pole with a trigger handle and a bristled cup at the far end closing around a spider.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "flypaper",
+  "category": "insects",
+  "draw": "A curled sticky strip hanging from a ceiling tube with a few flies stuck to it.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "mosquito-net",
+  "category": "insects",
+  "draw": "A canopy net hanging from a ceiling point in a bell shape draped over a bed.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "mosquito-racket",
+  "category": "insects",
+  "draw": "A tennis racket shaped electric swatter with a mesh face and a small spark.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "mosquito-fogger",
+  "category": "insects",
+  "draw": "A handheld fogging machine with a long nozzle blowing out a billowing cloud.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "bug-spray",
+  "category": "insects",
+  "draw": "An aerosol can spraying a fan of mist, with a small bug outline on its label.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "citronella-candle",
+  "category": "insects",
+  "draw": "A small bucket candle with a flame and a small bug flying away from the rising scent curls.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "ant-bait-station",
+  "category": "insects",
+  "draw": "A small round flat disc trap with entrance gaps around its rim and an ant walking in.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "roach-trap",
+  "category": "insects",
+  "draw": "A small cardboard box shaped like a tiny house with open door ends and a sticky floor.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "wasp-trap",
+  "category": "insects",
+  "draw": "A hanging bottle-shaped trap with a funnel entrance at the bottom and liquid inside.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "sticky-trap",
+  "category": "insects",
+  "draw": "A rectangular yellow card with a grid printed on it and a few small bugs stuck to it, on a stake.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "insecticide-sprayer",
+  "category": "insects",
+  "draw": "A pump pressure sprayer tank with a carry handle, hose and long wand nozzle.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "fumigation-tent",
+  "category": "insects",
+  "draw": "A house shape fully covered by a striped tarp tent tied down at the base.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "flea-collar",
+  "category": "insects",
+  "draw": "A pet collar ring with a buckle and a small bug symbol tag.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "lice-comb",
+  "category": "insects",
+  "draw": "A fine-tooth metal comb with long, very closely spaced teeth and a small handle.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "tick-remover",
+  "category": "insects",
+  "draw": "A small hooked forked tool sliding under a tick to twist it out.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "hercules-beetle",
+  "category": "insects",
+  "draw": "Side view of a beetle with a very long upper horn curving forward over a shorter lower horn, forming a pincer.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "rove-beetle",
+  "category": "insects",
+  "draw": "Side view of a long slim beetle with short wing covers and its bare segmented tail curled up over its back.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "trap-jaw-ant",
+  "category": "insects",
+  "draw": "Top view of an ant with two long straight mandibles snapped wide open to form a flat line across its head.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "katydid",
+  "category": "insects",
+  "draw": "Side view of a green bush cricket with leaf-shaped veined wings, long jumping legs and very long thread antennae.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "springtail",
+  "category": "insects",
+  "draw": "Side view of a tiny plump wingless hexapod with a forked spring tail tucked under it and short antennae.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "scorpionfly",
+  "category": "insects",
+  "draw": "Side view of a slim winged fly with a long beak-like face and a bulbous tail curled up like a scorpion stinger.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "zebra-longwing",
+  "category": "insects",
+  "draw": "Top view of a butterfly with long narrow rounded wings crossed by bold stripes.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "fruit-fly",
+  "category": "insects",
+  "draw": "Side view of a tiny fly with big round eyes perched on the cut end of a banana.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "giant-water-bug",
+  "category": "insects",
+  "draw": "Top view of a flat oval water bug with grasping front legs and a patch of round eggs on its back.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "spittlebug-foam",
+  "category": "insects",
+  "draw": "A blob of frothy bubbles clinging to a plant stem with a tiny bug inside.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "funnel-web",
+  "category": "insects",
+  "draw": "A flat sheet of web draped over a surface narrowing into a dark funnel tunnel at one corner.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "ballooning-spider",
+  "category": "insects",
+  "draw": "A tiny spider floating through the air on a fan of long silk threads blowing upward.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "weaver-ant-nest",
+  "category": "insects",
+  "draw": "A round ball of leaves stitched together with silk, hanging among branches.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "mud-dauber-nest",
+  "category": "insects",
+  "draw": "A row of long vertical mud tubes side by side like organ pipes, stuck to a wall.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "paper-wasp-nest",
+  "category": "insects",
+  "draw": "An open umbrella of hexagonal paper cells facing down, hanging from a single stalk under a beam.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "tent-caterpillar-nest",
+  "category": "insects",
+  "draw": "A silky tent web filling the fork of a tree branch with small caterpillars on it.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "house-centipede",
+  "category": "insects",
+  "draw": "Top view of a short centipede fringed by many extremely long thin legs and long antennae at both ends.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "moth-eaten-sweater",
+  "category": "insects",
+  "draw": "A folded sweater with several small ragged holes and a tiny moth flying beside it.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "mantis-egg-case",
+  "category": "insects",
+  "draw": "A rounded foamy egg case with ridged layers glued along a twig.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "insect-aspirator",
+  "category": "insects",
+  "draw": "A small jar with a lid pierced by two tubes, one for sucking and one for collecting bugs.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "bug-viewer",
+  "category": "insects",
+  "draw": "A small clear cube box with a round magnifying lens set into its lid and a bug inside.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "insect-terrarium",
+  "category": "insects",
+  "draw": "A glass tank with a mesh lid, a branch inside and a stick insect or mantis on the branch.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "varroa-mite",
+  "category": "insects",
+  "draw": "Top view of a honeybee with a small round flat mite stuck on its back.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "amber-insect",
+  "category": "insects",
+  "draw": "A rounded drop of amber with a small winged insect trapped inside it and a shine highlight.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "mosquito-plug-in",
+  "category": "insects",
+  "draw": "A wall plug-in device with a small vapor bottle, wavy scent lines rising and a mosquito flying away.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "insect-screen",
+  "category": "insects",
+  "draw": "A window frame filled with fine mesh and a fly resting on the outside of it.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "slug-trap",
+  "category": "insects",
+  "draw": "A small cup sunk into the soil line with a rain cover on top and a slug heading toward it.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "butterfly-feeder",
+  "category": "insects",
+  "draw": "A hanging round dish on three strings holding orange slices with a butterfly landing on it.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "bee-bath",
+  "category": "insects",
+  "draw": "A shallow dish of water with pebbles poking above the surface and a bee drinking from one.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "butterfly-migration",
+  "category": "insects",
+  "draw": "Three butterflies flying in a diagonal line following a long curved arrow.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "leech-jar",
+  "category": "insects",
+  "draw": "An old apothecary jar with a lid and handles holding a few wriggling leeches.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "rotifer",
+  "category": "insects",
+  "draw": "A tiny vase-shaped animal with two wheel-like crowns of cilia on top and a forked foot below.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "mealworm",
+  "category": "insects",
+  "draw": "Side view of a straight cylindrical golden larva with hard ring segments and three pairs of tiny legs near the head.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "brown-recluse",
+  "category": "insects",
+  "draw": "Top view of a slender long-legged spider with a dark violin-shaped mark on its front body section.",
+  "domain": "insects-and-small-creatures"
+ },
+ {
+  "name": "anthill",
+  "category": "insects",
+  "draw": "A small cone-shaped mound of soil with an entrance hole at the top and two ants walking on it.",
+  "domain": "insects-and-small-creatures"
+ }
+]

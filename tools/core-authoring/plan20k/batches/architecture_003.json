@@ -1,0 +1,482 @@
+[
+ {
+  "name": "tree-grate",
+  "category": "architecture",
+  "draw": "Square metal grate with radial slots around the base of a tree in the pavement.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "road-barrier",
+  "category": "architecture",
+  "draw": "Striped horizontal barrier board on two legs across a road.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "crowd-barrier",
+  "category": "architecture",
+  "draw": "Portable metal fence panel of vertical bars on flat feet.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "flagpole",
+  "category": "architecture",
+  "draw": "Tall pole on a small base with a blank flag at the top.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "hand-pump",
+  "category": "architecture",
+  "draw": "Cast iron water pump with a long curved handle and a downward spout.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "public-bookcase",
+  "category": "architecture",
+  "draw": "Small house shaped box on a post with a glass door and books inside.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "picnic-shelter",
+  "category": "architecture",
+  "draw": "Open roofed shelter on four posts over a picnic table.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "beach-shower",
+  "category": "architecture",
+  "draw": "Tall post with a shower head at the top and a foot tap below.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "wrought-iron-gate",
+  "category": "architecture",
+  "draw": "Double gate of vertical iron bars with curled scroll tops between stone pillars.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "jewelry-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a faceted diamond symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "toy-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a teddy bear head on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "clothing-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a clothes hanger symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "shoe-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a shoe symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "electronics-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a plug symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "music-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a guitar symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "tailor-shop",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a sewing needle and thread symbol on the sign.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "nightclub",
+  "category": "architecture",
+  "draw": "Windowless building with a disco ball hanging from the sign above the door.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "zoo",
+  "category": "architecture",
+  "draw": "Arched entrance gate with a sign bar across the top and a giraffe head peeking over it.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "drop-tower",
+  "category": "architecture",
+  "draw": "Very tall thin tower with a ring of seats gripping it partway up.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "rock-cut-temple",
+  "category": "architecture",
+  "draw": "Temple facade with columns and a pediment carved into a vertical cliff face.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "rock-cut-dwelling",
+  "category": "architecture",
+  "draw": "Cone shaped rock formation with a door and small windows carved into it.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "coffered-ceiling",
+  "category": "architecture",
+  "draw": "Ceiling seen from below as a grid of deep recessed square panels.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "barrel-vault",
+  "category": "architecture",
+  "draw": "Half cylinder ceiling shown in perspective with evenly spaced ribs.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "ribbed-vault",
+  "category": "architecture",
+  "draw": "Square bay seen from below with pointed ribs crossing diagonally to a central boss.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "dome-oculus",
+  "category": "architecture",
+  "draw": "Dome seen from directly below with rings of coffers around a round open center.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "facade-louvers",
+  "category": "architecture",
+  "draw": "Building facade with deep horizontal sun shading fins across every floor.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "cantilevered-building",
+  "category": "architecture",
+  "draw": "Building whose long upper block juts far out beyond its narrow base.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "rooftops",
+  "category": "architecture",
+  "draw": "Cluster of overlapping pitched rooftops at different heights with small chimneys.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "street-planter",
+  "category": "architecture",
+  "draw": "Large square concrete planter box holding a small round tree.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "lamppost-banner",
+  "category": "architecture",
+  "draw": "Street lamp post with two vertical fabric banners hanging from arms.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "bottle-bank",
+  "category": "architecture",
+  "draw": "Dome shaped recycling container with round bottle holes around its top.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "tower-viewer",
+  "category": "architecture",
+  "draw": "Coin operated binocular viewer on a post with two eyepieces.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "newspaper-box",
+  "category": "architecture",
+  "draw": "Metal box on short legs with a front window and a coin slot on top.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "spirit-house",
+  "category": "architecture",
+  "draw": "Small ornate house shrine with a steep pointed roof standing on a single pedestal.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "columbarium",
+  "category": "architecture",
+  "draw": "Wall of small square niches in a grid, each with a plaque.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "eternal-flame",
+  "category": "architecture",
+  "draw": "Shallow bowl on a stone pedestal holding a steady flame.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "lion-statue",
+  "category": "architecture",
+  "draw": "Seated guardian lion on a rectangular pedestal.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "stele",
+  "category": "architecture",
+  "draw": "Tall upright stone slab with a rounded top and rows of carved inscription lines.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "acropolis",
+  "category": "architecture",
+  "draw": "Columned temple sitting on top of a steep rocky hill with walls.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "motte-and-bailey",
+  "category": "architecture",
+  "draw": "Small wooden tower on a steep round mound with a fenced yard below.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "clapper-bridge",
+  "category": "architecture",
+  "draw": "Flat stone slabs resting on stacked stone piers across a stream.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "bicycle-shelter",
+  "category": "architecture",
+  "draw": "Curved roof shelter on posts over a row of parked bicycles.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "woodshed",
+  "category": "architecture",
+  "draw": "Open fronted lean to shelter stacked full of round firewood logs.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "bicycle-shop",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a bicycle symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "candy-store",
+  "category": "architecture",
+  "draw": "Shop front with a striped awning and a wrapped candy symbol on the sign.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "wine-shop",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a wine bottle and glass symbol on the sign.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "sporting-goods-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a soccer ball symbol on the sign.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "wayside-cross",
+  "category": "architecture",
+  "draw": "Tall wooden cross under a small peaked roof standing beside a path.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "archaeological-site",
+  "category": "architecture",
+  "draw": "Rectangular dig pit marked with a string grid, a trowel and a pottery shard.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "split-gate",
+  "category": "architecture",
+  "draw": "Tall stepped gateway split into two mirrored halves with a narrow opening between them.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "rumah-gadang",
+  "category": "architecture",
+  "draw": "Long raised house whose roof sweeps up into several sharp horn shaped peaks.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "palapa",
+  "category": "architecture",
+  "draw": "Open sided shelter with a thick thatched palm roof on four wooden posts.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "caryatid",
+  "category": "architecture",
+  "draw": "Column in the form of a standing draped figure supporting a slab on its head.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "house-foundation",
+  "category": "architecture",
+  "draw": "House outline resting on a thick highlighted foundation slab below the ground line.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "saddle-roof",
+  "category": "architecture",
+  "draw": "Building topped by a saddle shaped roof curving up at two opposite corners.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "jalousie-window",
+  "category": "architecture",
+  "draw": "Window of stacked horizontal glass slats tilted open.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "folding-door",
+  "category": "architecture",
+  "draw": "Door made of hinged panels folded into a zigzag within its frame.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "stepwell",
+  "category": "architecture",
+  "draw": "Top down square pit of zigzag stairs descending on all sides to water at the center.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "zigzag-bridge",
+  "category": "architecture",
+  "draw": "Top down plank bridge crossing water in sharp zigzag turns.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "chain-barrier",
+  "category": "architecture",
+  "draw": "Row of short posts linked by sagging chains.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "historical-marker",
+  "category": "architecture",
+  "draw": "Plaque with a rounded top on a single post showing lines of raised text.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "vendor-cart",
+  "category": "architecture",
+  "draw": "Push cart with two wheels, a small umbrella on top and a serving counter.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "swing-ride",
+  "category": "architecture",
+  "draw": "Spinning tower top with seats hanging on long chains swung outward.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "water-slide",
+  "category": "architecture",
+  "draw": "Tall platform with a tube slide twisting down into a pool.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "sentry-box",
+  "category": "architecture",
+  "draw": "Narrow upright booth with a peaked roof standing beside a gate.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "hay-barn",
+  "category": "architecture",
+  "draw": "Open sided barn with a curved roof over stacked hay bales.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "mastaba",
+  "category": "architecture",
+  "draw": "Low flat topped rectangular tomb with sloping sides and a small doorway.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "building-dimensions",
+  "category": "architecture",
+  "draw": "Building front outline with horizontal and vertical dimension lines ending in ticks.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "theater-marquee",
+  "category": "architecture",
+  "draw": "Projecting sign board rimmed with round light bulbs above an entrance.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "hanging-shop-sign",
+  "category": "architecture",
+  "draw": "Wrought iron bracket on a wall holding a swinging sign board on two rings.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "lightning-rod",
+  "category": "architecture",
+  "draw": "Pointed rod on a roof peak with a cable running down the wall to the ground.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "abandoned-building",
+  "category": "architecture",
+  "draw": "Building with broken windows, a boarded up door and a crack across the wall.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "recycling-center",
+  "category": "architecture",
+  "draw": "Building with a large recycling arrows symbol and bins lined up in front.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "bottle-kiln",
+  "category": "architecture",
+  "draw": "Tall bottle shaped brick kiln with a wide base and a narrow neck.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "mud-brick-house",
+  "category": "architecture",
+  "draw": "Boxy mud brick house with rounded edges and wooden beams poking out of its walls.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "cape-cod-house",
+  "category": "architecture",
+  "draw": "Small one and a half story house with a steep roof, a central chimney and two dormers.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "stationery-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a pencil symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "phone-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a smartphone symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "computer-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a laptop symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ },
+ {
+  "name": "camera-store",
+  "category": "architecture",
+  "draw": "Shop front with an awning and a camera symbol on the sign above the window.",
+  "domain": "buildings-architecture"
+ }
+]

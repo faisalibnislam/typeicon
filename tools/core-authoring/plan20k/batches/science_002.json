@@ -1,0 +1,482 @@
+[
+ {
+  "name": "exothermic-reaction",
+  "category": "science",
+  "draw": "Flask with bubbling liquid and wavy heat lines radiating outward with outward arrows.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "endothermic-reaction",
+  "category": "science",
+  "draw": "Flask with a snowflake on its side and arrows pointing inward toward it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "chemical-spill",
+  "category": "science",
+  "draw": "Tipped-over beaker with liquid spreading into a puddle and a warning triangle.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "baking-soda-volcano",
+  "category": "science",
+  "draw": "Small cone model volcano with foam overflowing down its sides.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "crystal-growing-jar",
+  "category": "science",
+  "draw": "Jar with a pencil across the rim and a string hanging down covered in crystals.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "titration",
+  "category": "science",
+  "draw": "Burette dripping into a conical flask sitting on a white tile, one drop mid-fall.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "flammable-hazard",
+  "category": "science",
+  "draw": "Diamond frame on its point with a flame over a horizontal line inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "corrosive-hazard",
+  "category": "science",
+  "draw": "Diamond frame with liquid dripping from two tubes onto a hand and a bar being eaten away.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "toxic-hazard",
+  "category": "science",
+  "draw": "Diamond frame with a skull and crossbones inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "oxidizer-hazard",
+  "category": "science",
+  "draw": "Diamond frame with a flame over a circle inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "explosive-hazard",
+  "category": "science",
+  "draw": "Diamond frame with a bursting ball and flying fragments inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "compressed-gas-hazard",
+  "category": "science",
+  "draw": "Diamond frame with a gas cylinder lying on its side inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "health-hazard",
+  "category": "science",
+  "draw": "Diamond frame with a person's upper body and a starburst on the chest.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "environmental-hazard",
+  "category": "science",
+  "draw": "Diamond frame with a bare tree and a dead fish on its back.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "irritant-hazard",
+  "category": "science",
+  "draw": "Diamond frame with a bold exclamation mark inside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "laser-hazard",
+  "category": "science",
+  "draw": "Warning triangle with a starburst and a single ray line extending from it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "atomic-nucleus",
+  "category": "science",
+  "draw": "Tight cluster of balls, half plain and half marked with plus signs.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electron",
+  "category": "science",
+  "draw": "Small ball with a minus sign trailing a short curved orbit line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "proton",
+  "category": "science",
+  "draw": "Ball with a plus sign inside and a subtle shine.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "neutron",
+  "category": "science",
+  "draw": "Ball with a zero or blank center and a ring outline, clearly neutral.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "photon",
+  "category": "science",
+  "draw": "Wavy squiggle line ending in an arrowhead with a small spark at the tip.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "quarks",
+  "category": "science",
+  "draw": "Circle containing three small dots joined by springy wavy lines.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "nuclear-fission",
+  "category": "science",
+  "draw": "Small ball striking a large nucleus that splits into two halves with sparks and three small balls flying off.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "nuclear-fusion",
+  "category": "science",
+  "draw": "Two small nuclei colliding from each side and merging into one with a burst of energy.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "half-life",
+  "category": "science",
+  "draw": "Decay curve on axes halving at each step with dashed guide lines.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "particle-accelerator",
+  "category": "science",
+  "draw": "Large ring with a small ball traveling around it and a motion trail.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "particle-collision",
+  "category": "science",
+  "draw": "Starburst of curved and straight track lines radiating from one central point.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "quantum-entanglement",
+  "category": "science",
+  "draw": "Two spheres with spin arrows linked by a wavy line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "mass-energy-equivalence",
+  "category": "science",
+  "draw": "The equation E equals m c squared written in bold.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "gravitational-wave",
+  "category": "science",
+  "draw": "Two small dots orbiting each other at the center of expanding ripple rings.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "cathode-ray-tube",
+  "category": "science",
+  "draw": "Glass tube with a narrow neck and a wide end, a beam line crossing to a glowing spot.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "brownian-motion",
+  "category": "science",
+  "draw": "One highlighted dot with a jagged zigzag path among scattered smaller dots.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "inclined-plane",
+  "category": "science",
+  "draw": "Right-triangle ramp with a box sitting on the slope and an arrow up the slope.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "wheel-and-axle",
+  "category": "science",
+  "draw": "Large wheel fixed to a narrow axle with a rope wound around the axle lifting a bucket.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "free-body-diagram",
+  "category": "science",
+  "draw": "Small square with four arrows pointing outward, up, down, left and right.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "friction",
+  "category": "science",
+  "draw": "Block on a textured surface with a push arrow forward and a short arrow opposing it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "projectile-motion",
+  "category": "science",
+  "draw": "Ball at the end of a dashed parabolic arc launched from ground level.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "gravity",
+  "category": "science",
+  "draw": "Apple falling with a downward arrow above a ground line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "balancing-bird",
+  "category": "science",
+  "draw": "Toy bird with long downturned wings balancing on its beak on a fingertip.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "drinking-bird",
+  "category": "science",
+  "draw": "Glass bird with a top hat dipping its beak into a glass, pivoting on a stand.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "hookes-law-spring",
+  "category": "science",
+  "draw": "Coiled spring hanging from a bar, stretched by a weight with a length arrow beside it.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "buoyancy",
+  "category": "science",
+  "draw": "Block floating in water with a large up arrow below and a small down arrow above.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "density-column",
+  "category": "science",
+  "draw": "Tall cylinder with four stacked liquid layers of different fills and a ball floating at one layer.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "siphon",
+  "category": "science",
+  "draw": "Curved tube running from a higher container over the rim down into a lower container.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "capillary-action",
+  "category": "science",
+  "draw": "Three thin tubes of different widths standing in water, the liquid rising highest in the narrowest.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "meniscus",
+  "category": "science",
+  "draw": "Close-up of a graduated tube with a curved liquid surface and an eye-level dashed line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "convection-current",
+  "category": "science",
+  "draw": "Pot over a flame with looping arrows rising in the middle and falling at the sides.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "bimetallic-strip",
+  "category": "science",
+  "draw": "Two-layer strip bending into a curve over a small flame.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "galileo-thermometer",
+  "category": "science",
+  "draw": "Tall sealed glass cylinder with floating glass balls carrying small tags at different heights.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "calorimeter",
+  "category": "science",
+  "draw": "Insulated cup with a lid, a thermometer and a stirrer poking through.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "gas-piston",
+  "category": "science",
+  "draw": "Cylinder with a movable piston on top and scattered gas dots below with a pressure arrow.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "convex-lens",
+  "category": "science",
+  "draw": "Lens thicker in the middle with parallel rays entering and meeting at a focal point.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "concave-lens",
+  "category": "science",
+  "draw": "Lens thinner in the middle with parallel rays spreading outward after passing through.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "light-refraction",
+  "category": "science",
+  "draw": "Ray entering a rectangular glass block at an angle, bending, then exiting parallel.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "light-reflection",
+  "category": "science",
+  "draw": "Ray striking a flat mirror line and bouncing off at an equal angle with a dashed normal.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "periscope",
+  "category": "science",
+  "draw": "Z-shaped tube with angled mirrors at the top and bottom bends and a light path line.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "camera-obscura",
+  "category": "science",
+  "draw": "Box with a pinhole on one side and an upside-down tree projected on the back wall.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "laser",
+  "category": "science",
+  "draw": "Rectangular emitter box shooting a straight beam line that ends in a small star.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "double-slit-experiment",
+  "category": "science",
+  "draw": "Waves passing through a barrier with two slits and spreading into an interference pattern of bands.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electromagnetic-spectrum",
+  "category": "science",
+  "draw": "Single wave line whose peaks get closer together from left to right.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "emission-spectrum",
+  "category": "science",
+  "draw": "Horizontal band with a few sharp vertical lines at irregular spacing.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "spectroscope",
+  "category": "science",
+  "draw": "Handheld tube with an eyepiece and a small rainbow band shown coming out the side.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "doppler-effect",
+  "category": "science",
+  "draw": "Moving dot with circular waves bunched tightly in front and spread out behind.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "wavelength",
+  "category": "science",
+  "draw": "Sine wave with a double-headed arrow spanning from one crest to the next.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "longitudinal-wave",
+  "category": "science",
+  "draw": "Horizontal coil spring with bunched and stretched sections and a direction arrow.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "light-meter",
+  "category": "science",
+  "draw": "Handheld meter with a white dome sensor on top and a digital readout.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "radiometer",
+  "category": "science",
+  "draw": "Glass bulb on a stand with four vanes on a pivot spinning inside, one side of each vane dark.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electric-circuit",
+  "category": "science",
+  "draw": "Rectangle of wire connecting a battery, a switch and a small bulb.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electromagnet",
+  "category": "science",
+  "draw": "Iron nail wrapped in coiled wire connected to a battery, paper clips stuck to the tip.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "bar-magnet",
+  "category": "science",
+  "draw": "Rectangular bar split into two halves marked N and S.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "magnetic-field-lines",
+  "category": "science",
+  "draw": "Bar magnet with looping curved lines running from one end around to the other.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electric-field-lines",
+  "category": "science",
+  "draw": "Plus charge and minus charge circles with curved lines arcing between them.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "right-hand-rule",
+  "category": "science",
+  "draw": "Hand with thumb up and fingers curled around a vertical wire with a circular arrow.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "leyden-jar",
+  "category": "science",
+  "draw": "Jar with a foil band around the bottom and a rod with a ball on top through the lid.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "electrostatic-generator",
+  "category": "science",
+  "draw": "Large metal sphere on an insulating column over a base, sparks jumping to a small ball.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "faraday-cage",
+  "category": "science",
+  "draw": "Mesh cage with a small figure inside and lightning striking the outside.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "static-electricity",
+  "category": "science",
+  "draw": "Balloon beside a head with hair standing up toward it and small charge signs.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "ohms-law",
+  "category": "science",
+  "draw": "Triangle split into three parts with the letters V on top and I and R below.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "transformer-coil",
+  "category": "science",
+  "draw": "Square iron core ring with a coil of few turns on one side and many turns on the other.",
+  "domain": "science-and-lab"
+ },
+ {
+  "name": "voltmeter",
+  "category": "science",
+  "draw": "Analog dial meter with a needle and a large letter V on the face.",
+  "domain": "science-and-lab"
+ }
+]

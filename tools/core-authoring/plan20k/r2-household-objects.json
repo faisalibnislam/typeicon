@@ -1,0 +1,902 @@
+[
+  {
+    "name": "gratitude-jar",
+    "category": "objects",
+    "draw": "Glass jar with a lid filled with small folded paper notes, one note tucked at the rim."
+  },
+  {
+    "name": "clay-water-pot",
+    "category": "objects",
+    "draw": "Round-bellied clay water pot with a short neck and rolled rim, sitting on a ring stand."
+  },
+  {
+    "name": "surahi",
+    "category": "objects",
+    "draw": "Round clay water carafe with a very long narrow neck and a small flared mouth."
+  },
+  {
+    "name": "lota",
+    "category": "objects",
+    "draw": "Small round-bodied metal water vessel with a short flared neck and no handle."
+  },
+  {
+    "name": "well-bucket",
+    "category": "objects",
+    "draw": "Wooden bucket with metal bands hanging from a rope under a small well pulley."
+  },
+  {
+    "name": "utensil-crock",
+    "category": "objects",
+    "draw": "Straight-sided ceramic crock holding a spatula, a whisk and a wooden spoon."
+  },
+  {
+    "name": "ash-bucket",
+    "category": "objects",
+    "draw": "Metal bucket with a lid and a handle, a little shovel leaning against it."
+  },
+  {
+    "name": "sake-bottle",
+    "category": "objects",
+    "draw": "Slender ceramic tokkuri flask with a bulbous base and a narrow neck, beside a small cup."
+  },
+  {
+    "name": "genie-bottle",
+    "category": "objects",
+    "draw": "Squat round bottle with a long narrow neck, flared lip and a curl of smoke rising from it."
+  },
+  {
+    "name": "crushed-can",
+    "category": "objects",
+    "draw": "Drink can crumpled and bent in the middle with its pull tab still on top."
+  },
+  {
+    "name": "sardine-tin",
+    "category": "objects",
+    "draw": "Flat rectangular tin with its lid rolled back on a key, showing fish lying side by side."
+  },
+  {
+    "name": "lavender-sachet",
+    "category": "objects",
+    "draw": "Small fabric pouch tied with a ribbon bow and a sprig of lavender tucked in the knot."
+  },
+  {
+    "name": "charcoal-bag",
+    "category": "objects",
+    "draw": "Paper sack with a folded top and lumps of charcoal shown on the front."
+  },
+  {
+    "name": "vacuum-storage-bag",
+    "category": "objects",
+    "draw": "Flat storage bag squeezed tight around folded clothes with a round valve on the front."
+  },
+  {
+    "name": "bindle",
+    "category": "objects",
+    "draw": "Cloth bundle tied at the end of a stick carried over the shoulder."
+  },
+  {
+    "name": "bowling-bag",
+    "category": "objects",
+    "draw": "Rounded barrel-shaped bag with two short handles and a zipper along the top."
+  },
+  {
+    "name": "shoe-bag",
+    "category": "objects",
+    "draw": "Drawstring pouch with a shoe outline printed on the front."
+  },
+  {
+    "name": "clutch-bag",
+    "category": "objects",
+    "draw": "Slim rectangular handbag with a fold-over flap and a clasp, no handle."
+  },
+  {
+    "name": "laptop-sleeve",
+    "category": "objects",
+    "draw": "Padded zippered sleeve with a laptop edge showing at the partly open zip."
+  },
+  {
+    "name": "yoga-mat-bag",
+    "category": "objects",
+    "draw": "Long tube-shaped bag with a drawstring end and a shoulder strap, a rolled mat peeking out."
+  },
+  {
+    "name": "hydration-pack",
+    "category": "objects",
+    "draw": "Slim backpack with a drinking tube looping over the shoulder strap to a bite valve."
+  },
+  {
+    "name": "shoe-box",
+    "category": "objects",
+    "draw": "Low rectangular box with its lid lifted, a shoe visible inside."
+  },
+  {
+    "name": "hat-box",
+    "category": "objects",
+    "draw": "Round cylindrical box with a lid and a cord handle on top."
+  },
+  {
+    "name": "keepsake-box",
+    "category": "objects",
+    "draw": "Square lidded box with the lid propped open showing a photo and a ribbon tucked inside."
+  },
+  {
+    "name": "watch-box",
+    "category": "objects",
+    "draw": "Box with a glass-window lid showing a watch wrapped around a small pillow."
+  },
+  {
+    "name": "phone-case",
+    "category": "objects",
+    "draw": "Rear view of a phone case with a camera cut-out in the corner and raised edges."
+  },
+  {
+    "name": "cigarette-case",
+    "category": "objects",
+    "draw": "Flat metal case opened like a book with a row of cigarettes held by a band."
+  },
+  {
+    "name": "passport-holder",
+    "category": "objects",
+    "draw": "Folding cover wrapped around a passport with a small card slot on the inside flap."
+  },
+  {
+    "name": "mortise-lock",
+    "category": "objects",
+    "draw": "Rectangular lock body set in a door edge with a latch, a bolt and a keyhole."
+  },
+  {
+    "name": "rim-lock",
+    "category": "objects",
+    "draw": "Box-shaped lock mounted on the surface of a door with a small knob and a keyhole."
+  },
+  {
+    "name": "escutcheon",
+    "category": "objects",
+    "draw": "Decorative plate around a keyhole with a pivoting cover swung to one side."
+  },
+  {
+    "name": "key-card-lock",
+    "category": "objects",
+    "draw": "Hotel-style door lock with a card slot, a small light and a card being inserted."
+  },
+  {
+    "name": "key-under-mat",
+    "category": "objects",
+    "draw": "Doormat with a corner lifted to reveal a key underneath."
+  },
+  {
+    "name": "double-bit-key",
+    "category": "objects",
+    "draw": "Long key with a round bow and identical bits on both sides of the tip."
+  },
+  {
+    "name": "key-organizer",
+    "category": "objects",
+    "draw": "Compact holder with several keys folded inside like a pocket knife, one key swung out."
+  },
+  {
+    "name": "garage-door-remote",
+    "category": "objects",
+    "draw": "Small clip-on remote with two large buttons and a house-with-garage symbol."
+  },
+  {
+    "name": "folding-umbrella",
+    "category": "objects",
+    "draw": "Short collapsed umbrella in a sleeve beside its telescopic handle."
+  },
+  {
+    "name": "closed-umbrella",
+    "category": "objects",
+    "draw": "Tall umbrella closed and furled with a strap, a hooked handle and a pointed tip."
+  },
+  {
+    "name": "paper-umbrella",
+    "category": "objects",
+    "draw": "Oil-paper parasol seen from below with many thin bamboo ribs radiating to the edge."
+  },
+  {
+    "name": "bubble-umbrella",
+    "category": "objects",
+    "draw": "Deep dome umbrella that curves down almost to the shoulders, with a straight handle."
+  },
+  {
+    "name": "broken-umbrella",
+    "category": "objects",
+    "draw": "Umbrella blown inside out with bent ribs and a torn edge."
+  },
+  {
+    "name": "umbrella-hat",
+    "category": "objects",
+    "draw": "Small umbrella canopy attached to a headband."
+  },
+  {
+    "name": "lace-parasol",
+    "category": "objects",
+    "draw": "Small handheld sun parasol with a scalloped frilled edge and a long slim shaft."
+  },
+  {
+    "name": "taper-candle",
+    "category": "objects",
+    "draw": "Tall thin candle tapering to the top with a flame, in a simple holder."
+  },
+  {
+    "name": "jar-candle",
+    "category": "objects",
+    "draw": "Candle poured into a glass jar with a lid set beside it and a lit wick."
+  },
+  {
+    "name": "floating-candle",
+    "category": "objects",
+    "draw": "Flat round candle floating on a wavy water line with a small flame."
+  },
+  {
+    "name": "spiral-candle",
+    "category": "objects",
+    "draw": "Tall candle with a twisted spiral body and a flame on top."
+  },
+  {
+    "name": "melting-candle",
+    "category": "objects",
+    "draw": "Short candle with wax drips running down its sides and a pool at the base."
+  },
+  {
+    "name": "birthday-candle",
+    "category": "objects",
+    "draw": "Thin striped candle with a flame standing in a small holder."
+  },
+  {
+    "name": "chamberstick",
+    "category": "objects",
+    "draw": "Short candle in a saucer-shaped holder with a finger loop handle."
+  },
+  {
+    "name": "multi-wick-candle",
+    "category": "objects",
+    "draw": "Wide candle in a bowl with three flames across the top."
+  },
+  {
+    "name": "extinguished-candle",
+    "category": "objects",
+    "draw": "Candle with no flame and a curl of smoke rising from the blackened wick."
+  },
+  {
+    "name": "wick-trimmer",
+    "category": "objects",
+    "draw": "Scissor-like tool with long angled arms and a small flat cutting head."
+  },
+  {
+    "name": "wax-melt",
+    "category": "objects",
+    "draw": "Snap-apart tray of scented wax cubes with one cube broken off."
+  },
+  {
+    "name": "candle-sconce",
+    "category": "objects",
+    "draw": "Wall bracket with a back plate holding a single candle arm and candle."
+  },
+  {
+    "name": "bottle-candle",
+    "category": "objects",
+    "draw": "Candle standing in the neck of a round bottle with wax drips down the glass."
+  },
+  {
+    "name": "matchstick",
+    "category": "objects",
+    "draw": "Single wooden match with a rounded head."
+  },
+  {
+    "name": "matchbook",
+    "category": "objects",
+    "draw": "Folded card matchbook open to show a row of paper matches and the striking strip."
+  },
+  {
+    "name": "lighter",
+    "category": "objects",
+    "draw": "Pocket lighter with a rectangular body, a thumb wheel and a flame on top."
+  },
+  {
+    "name": "firelighter",
+    "category": "objects",
+    "draw": "Small white fire-starter cube with a flame on one corner."
+  },
+  {
+    "name": "kindling",
+    "category": "objects",
+    "draw": "Small pile of thin split sticks crossed over each other."
+  },
+  {
+    "name": "fire-poker",
+    "category": "objects",
+    "draw": "Long metal rod with a hooked point and a looped handle."
+  },
+  {
+    "name": "fire-tongs",
+    "category": "objects",
+    "draw": "Long hinged tongs with curved gripping ends holding a small log."
+  },
+  {
+    "name": "fire-grate",
+    "category": "objects",
+    "draw": "Iron basket grate on short legs holding two logs."
+  },
+  {
+    "name": "firewood-bundle",
+    "category": "objects",
+    "draw": "Several split logs tied together with a strap."
+  },
+  {
+    "name": "lantern-battery",
+    "category": "objects",
+    "draw": "Square block battery with two spring terminals on top."
+  },
+  {
+    "name": "battery-organizer",
+    "category": "objects",
+    "draw": "Wall case with rows of cylindrical batteries in slots."
+  },
+  {
+    "name": "replacing-battery",
+    "category": "objects",
+    "draw": "Hand sliding a cylindrical battery into an open battery compartment."
+  },
+  {
+    "name": "leaking-battery",
+    "category": "objects",
+    "draw": "Cylindrical battery with a drip of fluid running from the terminal."
+  },
+  {
+    "name": "swollen-battery",
+    "category": "objects",
+    "draw": "Flat rectangular battery pack bulging outward in the middle."
+  },
+  {
+    "name": "globe-bulb",
+    "category": "objects",
+    "draw": "Large spherical light bulb on a short screw base."
+  },
+  {
+    "name": "corn-led-bulb",
+    "category": "objects",
+    "draw": "Tall cylindrical bulb covered in rows of small square LED chips on a screw base."
+  },
+  {
+    "name": "circular-fluorescent-tube",
+    "category": "objects",
+    "draw": "Ring-shaped fluorescent tube with a small plug connector at one point."
+  },
+  {
+    "name": "broken-bulb",
+    "category": "objects",
+    "draw": "Light bulb with a jagged crack across the glass and a loose filament."
+  },
+  {
+    "name": "bulb-changer",
+    "category": "objects",
+    "draw": "Long pole with a cup-shaped grip holding a light bulb at the top."
+  },
+  {
+    "name": "pendant-bulb",
+    "category": "objects",
+    "draw": "Bare bulb hanging from a long cord with a small ceiling canopy."
+  },
+  {
+    "name": "rope-light",
+    "category": "objects",
+    "draw": "Flexible clear tube with tiny bulbs inside, coiled in a loose loop."
+  },
+  {
+    "name": "puck-light",
+    "category": "objects",
+    "draw": "Flat round light mounted under a shelf with a cone of light below."
+  },
+  {
+    "name": "cable-clip",
+    "category": "objects",
+    "draw": "Small clip stuck to a desk edge holding three cables in slots."
+  },
+  {
+    "name": "motion-sensor-light",
+    "category": "objects",
+    "draw": "Wall light with a dome sensor below and radiating detection arcs."
+  },
+  {
+    "name": "emergency-radio",
+    "category": "objects",
+    "draw": "Compact radio with a hand crank on the side, a small solar panel and an antenna."
+  },
+  {
+    "name": "inline-switch",
+    "category": "objects",
+    "draw": "Section of cord with a small oval switch in the middle."
+  },
+  {
+    "name": "festoon-lights",
+    "category": "objects",
+    "draw": "Row of round bulbs hanging in a sagging curve from a cable between two posts."
+  },
+  {
+    "name": "sticky-tack",
+    "category": "objects",
+    "draw": "Blob of reusable adhesive putty with a poster corner stuck to it."
+  },
+  {
+    "name": "glue-dots",
+    "category": "objects",
+    "draw": "Strip of backing paper with a row of round adhesive dots."
+  },
+  {
+    "name": "paste-brush",
+    "category": "objects",
+    "draw": "Wide flat brush with thick bristles beside an open pot of paste."
+  },
+  {
+    "name": "rubber-cement",
+    "category": "objects",
+    "draw": "Glass jar with a brush attached under the screw lid."
+  },
+  {
+    "name": "caulk-gun",
+    "category": "objects",
+    "draw": "Frame gun with a trigger handle holding a long cartridge with a pointed nozzle."
+  },
+  {
+    "name": "sealant-tube",
+    "category": "objects",
+    "draw": "Soft tube with a long pointed nozzle and a bead of sealant coming out."
+  },
+  {
+    "name": "iron-on-patch",
+    "category": "objects",
+    "draw": "Embroidered badge patch with an iron hovering above it."
+  },
+  {
+    "name": "sticker-roll",
+    "category": "objects",
+    "draw": "Roll of round stickers on a backing strip with the end pulled out."
+  },
+  {
+    "name": "reinforcement-label",
+    "category": "objects",
+    "draw": "Punched paper hole with a small ring sticker around it."
+  },
+  {
+    "name": "price-gun",
+    "category": "objects",
+    "draw": "Handheld labeller with a trigger grip and a strip of price stickers coming out."
+  },
+  {
+    "name": "bow-knot",
+    "category": "objects",
+    "draw": "Simple bow tied in a string with two loops and two tails."
+  },
+  {
+    "name": "tangled-string",
+    "category": "objects",
+    "draw": "Messy loop of string knotted in the middle with loose ends."
+  },
+  {
+    "name": "tangled-cable",
+    "category": "objects",
+    "draw": "Knot of tangled cable with a plug at one end."
+  },
+  {
+    "name": "cord-lock",
+    "category": "objects",
+    "draw": "Spring toggle stopper with a hole and a cord passing through it."
+  },
+  {
+    "name": "cable-organizer",
+    "category": "objects",
+    "draw": "Row of cables held side by side in a slotted holder on a desk edge."
+  },
+  {
+    "name": "paper-fastener",
+    "category": "objects",
+    "draw": "Brass split pin with a round head and two flat legs spread apart."
+  },
+  {
+    "name": "ball-chain",
+    "category": "objects",
+    "draw": "Short length of beaded ball chain ending in a small connector."
+  },
+  {
+    "name": "phone-strap",
+    "category": "objects",
+    "draw": "Short wrist loop cord attached to the corner of a phone."
+  },
+  {
+    "name": "over-door-hook",
+    "category": "objects",
+    "draw": "Hook that loops over the top of a door with two hooks hanging on the front."
+  },
+  {
+    "name": "adhesive-hook",
+    "category": "objects",
+    "draw": "Small hook on a flat square adhesive pad with a pull tab."
+  },
+  {
+    "name": "suction-hook",
+    "category": "objects",
+    "draw": "Round suction cup with a hook underneath on a tiled surface."
+  },
+  {
+    "name": "purse-hook",
+    "category": "objects",
+    "draw": "Folding hook hanging off a table edge with a bag strap on it."
+  },
+  {
+    "name": "bike-hook",
+    "category": "objects",
+    "draw": "Wall hook holding a bicycle wheel from the rim."
+  },
+  {
+    "name": "hook-rail",
+    "category": "objects",
+    "draw": "Wooden board with a row of four peg hooks."
+  },
+  {
+    "name": "curtain-ring",
+    "category": "objects",
+    "draw": "Ring with a small clip hanging from a curtain pole."
+  },
+  {
+    "name": "meat-hook",
+    "category": "objects",
+    "draw": "S-shaped butcher hook with sharp pointed ends."
+  },
+  {
+    "name": "wreath-hanger",
+    "category": "objects",
+    "draw": "Thin metal hanger over the top of a door holding a wreath."
+  },
+  {
+    "name": "shepherds-hook",
+    "category": "objects",
+    "draw": "Tall garden rod with a curled top holding a hanging lantern."
+  },
+  {
+    "name": "headphone-hook",
+    "category": "objects",
+    "draw": "Under-desk hook holding a pair of headphones by the band."
+  },
+  {
+    "name": "scarf-hanger",
+    "category": "objects",
+    "draw": "Hanger with a row of round holes, a scarf threaded through one."
+  },
+  {
+    "name": "belt-hanger",
+    "category": "objects",
+    "draw": "Hanger with a vertical bar of small hooks holding belts."
+  },
+  {
+    "name": "cascading-hanger",
+    "category": "objects",
+    "draw": "Vertical chain of hangers linked one below another."
+  },
+  {
+    "name": "shirt-on-hanger",
+    "category": "objects",
+    "draw": "Button-up shirt draped on a coat hanger."
+  },
+  {
+    "name": "hanging-shoe-organizer",
+    "category": "objects",
+    "draw": "Fabric panel of clear pockets holding shoes hung over a door."
+  },
+  {
+    "name": "hanging-closet-organizer",
+    "category": "objects",
+    "draw": "Fabric shelf column hanging from a rail with folded clothes in its cubbies."
+  },
+  {
+    "name": "closet-rod",
+    "category": "objects",
+    "draw": "Horizontal rod with end brackets and three hangers on it."
+  },
+  {
+    "name": "wire-basket",
+    "category": "objects",
+    "draw": "Open metal grid basket with two fold-down handles."
+  },
+  {
+    "name": "sewing-basket",
+    "category": "objects",
+    "draw": "Round lidded basket with a spool of thread and a needle stuck in the lid."
+  },
+  {
+    "name": "back-basket",
+    "category": "objects",
+    "draw": "Tall woven basket with shoulder straps worn on the back."
+  },
+  {
+    "name": "log-basket",
+    "category": "objects",
+    "draw": "Low wide woven basket with rope handles holding firewood logs."
+  },
+  {
+    "name": "cat-basket",
+    "category": "objects",
+    "draw": "Round woven basket bed with a cushion and a curled cat."
+  },
+  {
+    "name": "wine-cradle",
+    "category": "objects",
+    "draw": "Angled wicker holder cradling a wine bottle on its side."
+  },
+  {
+    "name": "carry-caddy",
+    "category": "objects",
+    "draw": "Open tote tray with a central handle and divided sections of supplies."
+  },
+  {
+    "name": "wallet-chain",
+    "category": "objects",
+    "draw": "Wallet with a curved chain running to a belt clip."
+  },
+  {
+    "name": "phone-stand",
+    "category": "objects",
+    "draw": "Angled stand holding a smartphone upright on a desk."
+  },
+  {
+    "name": "phone-ring-holder",
+    "category": "objects",
+    "draw": "Back of a phone with a small fold-out ring grip."
+  },
+  {
+    "name": "phone-wallet",
+    "category": "objects",
+    "draw": "Back of a phone with a stick-on card pocket holding a card."
+  },
+  {
+    "name": "phone-armband",
+    "category": "objects",
+    "draw": "Stretch band around an upper arm holding a phone in a clear window."
+  },
+  {
+    "name": "charging-dock",
+    "category": "objects",
+    "draw": "Stand with a slot holding a phone and earbuds case side by side, a cable behind."
+  },
+  {
+    "name": "tablet-stand",
+    "category": "objects",
+    "draw": "Folding stand holding a tablet at an angle."
+  },
+  {
+    "name": "screen-protector",
+    "category": "objects",
+    "draw": "Clear film being peeled onto a phone screen at one corner."
+  },
+  {
+    "name": "clip-on-sunglasses",
+    "category": "objects",
+    "draw": "Dark lenses on a small clip attached over a pair of regular glasses."
+  },
+  {
+    "name": "eyeglass-screwdriver",
+    "category": "objects",
+    "draw": "Tiny screwdriver next to the hinge of a pair of glasses."
+  },
+  {
+    "name": "tobacco-pipe",
+    "category": "objects",
+    "draw": "Curved smoking pipe with a round bowl and a long stem."
+  },
+  {
+    "name": "cigar",
+    "category": "objects",
+    "draw": "Thick rolled cigar with a band near one end and a glowing tip."
+  },
+  {
+    "name": "cigarette",
+    "category": "objects",
+    "draw": "Single cigarette with a filter end and a wisp of smoke."
+  },
+  {
+    "name": "cigar-cutter",
+    "category": "objects",
+    "draw": "Guillotine cutter with two finger holes around a cigar tip."
+  },
+  {
+    "name": "rolling-paper",
+    "category": "objects",
+    "draw": "Thin sheet of paper with a hand rolling it around loose tobacco."
+  },
+  {
+    "name": "hookah",
+    "category": "objects",
+    "draw": "Tall water pipe with a round glass base, a bowl on top and a coiled hose."
+  },
+  {
+    "name": "vape",
+    "category": "objects",
+    "draw": "Slim vaping pen with a mouthpiece and a cloud of vapor."
+  },
+  {
+    "name": "ashtray",
+    "category": "objects",
+    "draw": "Round shallow dish with notches on the rim and a resting cigarette."
+  },
+  {
+    "name": "nicotine-patch",
+    "category": "objects",
+    "draw": "Square skin patch with rounded corners stuck on an upper arm."
+  },
+  {
+    "name": "ring-holder",
+    "category": "objects",
+    "draw": "Tapered cone stand with rings stacked on it."
+  },
+  {
+    "name": "watch-winder",
+    "category": "objects",
+    "draw": "Box with a rotating cushion holding a wristwatch and turning arrows."
+  },
+  {
+    "name": "jewelry-roll",
+    "category": "objects",
+    "draw": "Fabric roll partly unrolled with rings and earrings in pockets."
+  },
+  {
+    "name": "drawer-organizer",
+    "category": "objects",
+    "draw": "Top-down view of an open drawer divided into small compartments."
+  },
+  {
+    "name": "under-bed-storage",
+    "category": "objects",
+    "draw": "Low flat zipped storage box sliding under a bed frame."
+  },
+  {
+    "name": "bin-label",
+    "category": "objects",
+    "draw": "Storage bin with a label holder clipped to the front."
+  },
+  {
+    "name": "boot-tray",
+    "category": "objects",
+    "draw": "Shallow rimmed tray holding a pair of wet boots."
+  },
+  {
+    "name": "hand-fan",
+    "category": "objects",
+    "draw": "Round rigid paddle fan with a straight handle and radiating ribs."
+  },
+  {
+    "name": "neck-fan",
+    "category": "objects",
+    "draw": "Horseshoe-shaped fan worn around the neck with vents on both arms."
+  },
+  {
+    "name": "cooling-towel",
+    "category": "objects",
+    "draw": "Towel draped around a neck with small snowflakes beside it."
+  },
+  {
+    "name": "furniture-pads",
+    "category": "objects",
+    "draw": "Chair leg with a round felt pad on its foot."
+  },
+  {
+    "name": "curtain-tieback",
+    "category": "objects",
+    "draw": "Curtain gathered to one side by a tasseled cord."
+  },
+  {
+    "name": "valet-tray",
+    "category": "objects",
+    "draw": "Shallow tray holding keys, a watch and coins."
+  },
+  {
+    "name": "paper-straw",
+    "category": "objects",
+    "draw": "Straw with diagonal stripes standing in a cup."
+  },
+  {
+    "name": "bedsheet",
+    "category": "objects",
+    "draw": "Flat sheet folded in a neat rectangle with a hem line along one edge."
+  },
+  {
+    "name": "fitted-sheet",
+    "category": "objects",
+    "draw": "Sheet with elasticated rounded corners pulled over a mattress corner."
+  },
+  {
+    "name": "bolster-pillow",
+    "category": "objects",
+    "draw": "Long cylindrical pillow with gathered ends lying on a bed."
+  },
+  {
+    "name": "bed-rail",
+    "category": "objects",
+    "draw": "Low fold-down safety rail fixed along the side of a bed."
+  },
+  {
+    "name": "bed-warmer",
+    "category": "objects",
+    "draw": "Round lidded brass pan on a long wooden handle."
+  },
+  {
+    "name": "kamidana",
+    "category": "objects",
+    "draw": "Small wall shelf shrine with a miniature roof and a rope with paper streamers."
+  },
+  {
+    "name": "omikuji",
+    "category": "objects",
+    "draw": "Folded paper fortune strip tied in a knot around a string line."
+  },
+  {
+    "name": "joss-paper",
+    "category": "objects",
+    "draw": "Square sheet of paper with a gold foil square in the center."
+  },
+  {
+    "name": "offering-bowl",
+    "category": "objects",
+    "draw": "Small footed bowl heaped with fruit on a low stand."
+  },
+  {
+    "name": "wind-spinner",
+    "category": "objects",
+    "draw": "Hanging twisted metal spiral that spins below a hook."
+  },
+  {
+    "name": "mounted-antlers",
+    "category": "objects",
+    "draw": "Pair of antlers fixed to a shield-shaped wall plaque."
+  },
+  {
+    "name": "push-plate",
+    "category": "objects",
+    "draw": "Rectangular metal plate on a door with a hand pushing it."
+  },
+  {
+    "name": "unpacking-box",
+    "category": "objects",
+    "draw": "Open cardboard box with items being lifted out of it."
+  },
+  {
+    "name": "fire-escape-ladder",
+    "category": "objects",
+    "draw": "Folding chain ladder hooked over a window sill."
+  },
+  {
+    "name": "tubular-bulb",
+    "category": "objects",
+    "draw": "Long thin tube-shaped bulb with a small screw base at one end."
+  },
+  {
+    "name": "toggle-latch",
+    "category": "objects",
+    "draw": "Over-center clamp latch on a box edge with a lever arm and a wire loop hooked on a catch."
+  },
+  {
+    "name": "christmas-tree-stand",
+    "category": "objects",
+    "draw": "Round bowl stand with three splayed legs and screw clamps gripping a tree trunk."
+  },
+  {
+    "name": "junk-drawer",
+    "category": "objects",
+    "draw": "Open drawer seen from above, jumbled with keys, a battery, rubber bands and a pen."
+  },
+  {
+    "name": "ice-melt",
+    "category": "objects",
+    "draw": "Bag of rock salt granules with a snowflake on the front and crystals spilling out."
+  },
+  {
+    "name": "cedar-block",
+    "category": "objects",
+    "draw": "Small cedar wood ring slipped over a hanger hook, with a few wood grain lines."
+  },
+  {
+    "name": "tape-strip",
+    "category": "objects",
+    "draw": "Short strip of adhesive tape with zigzag torn ends, stuck on at an angle."
+  }
+]

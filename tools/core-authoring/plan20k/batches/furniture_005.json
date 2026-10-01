@@ -1,0 +1,38 @@
+[
+ {
+  "name": "studio-apartment",
+  "category": "furniture",
+  "draw": "Single open room seen in plan with a bed, a sofa and a small kitchenette along one wall.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "open-plan-office",
+  "category": "furniture",
+  "draw": "Rows of shared desks with monitors and chairs in one open space.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "view-in-room",
+  "category": "furniture",
+  "draw": "Smartphone held up showing an armchair placed in a room on its screen with corner markers.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "furniture-dimensions",
+  "category": "furniture",
+  "draw": "Sofa with measuring arrows along its width and height.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "hanging-scroll",
+  "category": "furniture",
+  "draw": "Tall vertical painted scroll with wooden rods at top and bottom, hung from a cord.",
+  "domain": "furniture-and-decor"
+ },
+ {
+  "name": "blanket-fort",
+  "category": "furniture",
+  "draw": "Blanket draped over two chairs forming a tent with pillows peeking out.",
+  "domain": "furniture-and-decor"
+ }
+]

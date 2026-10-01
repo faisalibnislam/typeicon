@@ -1,0 +1,482 @@
+[
+ {
+  "name": "goulash",
+  "category": "dishes",
+  "draw": "Cauldron hanging from a tripod over a small fire, stew bubbling inside.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "khachapuri",
+  "category": "dishes",
+  "draw": "Boat-shaped bread with twisted pointed ends, a pool of cheese and a whole egg yolk in the centre.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "borek",
+  "category": "dishes",
+  "draw": "Round coiled spiral pastry seen from above with flaky layer lines.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "chimney-cake",
+  "category": "dishes",
+  "draw": "Hollow spiral pastry cylinder with a helix groove and sugar dots.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "fish-and-chips",
+  "category": "dishes",
+  "draw": "Battered fish fillet over a pile of chunky chips in a paper cone with a lemon wedge.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "shepherds-pie",
+  "category": "dishes",
+  "draw": "Rectangular dish with a ridged piped mashed potato top browned in peaks.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "sausage-roll",
+  "category": "dishes",
+  "draw": "Flaky pastry log cut on the end showing a round meat centre, with diagonal slashes on top.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "yorkshire-pudding",
+  "category": "dishes",
+  "draw": "Puffed crisp pastry cup with tall irregular risen edges and a hollow centre.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "bangers-and-mash",
+  "category": "dishes",
+  "draw": "Mound of mashed potato with two sausages leaning on it and a gravy pool.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "pork-pie",
+  "category": "dishes",
+  "draw": "Tall round raised pie with a crimped top edge and a small hole in the lid.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "beef-wellington",
+  "category": "dishes",
+  "draw": "Pastry wrapped log with lattice top, one slice cut showing a pink round centre ringed by layers.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "roast-beef",
+  "category": "dishes",
+  "draw": "Joint of roast meat with twine ties, a few thin slices fanned beside it.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "glazed-ham",
+  "category": "dishes",
+  "draw": "Whole ham with a diamond crosshatch scored surface and a clove at each intersection.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "roast-chicken",
+  "category": "dishes",
+  "draw": "Whole roasted chicken on a platter with two drumsticks up and a trussed body.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "roast-turkey",
+  "category": "dishes",
+  "draw": "Plump whole roast turkey with frilled paper caps on the leg ends on an oval platter.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "roast-duck",
+  "category": "dishes",
+  "draw": "Glossy whole duck hanging from a hook by the neck.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "roast-pig",
+  "category": "dishes",
+  "draw": "Whole roast pig lying on an oval platter with crackled skin and an apple in its mouth.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "crown-roast",
+  "category": "dishes",
+  "draw": "Ring of lamb ribs standing upright with frilled caps on the bone tips.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "lamb-chop",
+  "category": "dishes",
+  "draw": "Single chop with a long clean rib bone handle and a round eye of meat.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "bbq-ribs",
+  "category": "dishes",
+  "draw": "Rack of ribs with parallel bone ends sticking out and glaze drips.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "brisket",
+  "category": "dishes",
+  "draw": "Slab of smoked beef sliced on one end showing a dark bark edge and a smoke ring line.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "meatloaf",
+  "category": "dishes",
+  "draw": "Loaf-shaped block of meat with a glaze stripe on top and one slice cut off.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "pot-roast",
+  "category": "dishes",
+  "draw": "Dutch oven with lid removed showing a meat joint with carrot chunks around it.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "chicken-pot-pie",
+  "category": "dishes",
+  "draw": "Round ramekin topped with a domed pastry lid with steam vent slits.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "baked-potato",
+  "category": "dishes",
+  "draw": "Potato split open in foil with a pat of butter, a sour cream dollop and chive specks.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "mashed-potatoes",
+  "category": "dishes",
+  "draw": "Mound of mash with a well of gravy in the top and a melting butter pat.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "cranberry-sauce",
+  "category": "dishes",
+  "draw": "Cylinder of jellied sauce standing upright with horizontal can ridge lines, one slice cut.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "deli-sandwich",
+  "category": "dishes",
+  "draw": "Towering sandwich of rye bread with thick stacked meat slices and a pickle pierced by a toothpick.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "sub-sandwich",
+  "category": "dishes",
+  "draw": "Long split roll with layers of lettuce, tomato and meat seen from the side.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "club-sandwich",
+  "category": "dishes",
+  "draw": "Triangle sandwich with three bread layers and a frilled toothpick on top.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "grilled-cheese",
+  "category": "dishes",
+  "draw": "Two toasted sandwich triangles, one pulled away with a stretching cheese string.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "lobster-roll",
+  "category": "dishes",
+  "draw": "Split-top hot dog bun overflowing with chunky lobster pieces and a lemon wedge.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "open-sandwich",
+  "category": "dishes",
+  "draw": "Single dark bread slice with carefully arranged toppings like egg slices and herbs.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "wrap-sandwich",
+  "category": "dishes",
+  "draw": "Rolled flatbread wrap cut diagonally showing a spiral of fillings, half wrapped in paper.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "packaged-sandwich",
+  "category": "dishes",
+  "draw": "Triangle sandwich box with a clear window showing two sandwich halves inside.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "banh-mi",
+  "category": "dishes",
+  "draw": "Crusty baguette split open with pickled vegetable strips and herb sprigs sticking out.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "katsu-sando",
+  "category": "dishes",
+  "draw": "Crustless white bread sandwich cut in half showing a thick breaded cutlet cross section.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "gua-bao",
+  "category": "dishes",
+  "draw": "Folded steamed bun like a taco holding a slab of pork belly and herbs.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "fish-sticks",
+  "category": "dishes",
+  "draw": "Three rectangular breaded fish fingers on a plate with a lemon wedge.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "chicken-nuggets",
+  "category": "dishes",
+  "draw": "Open box with irregular rounded breaded nugget pieces and a dip cup.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "fried-chicken-bucket",
+  "category": "dishes",
+  "draw": "Tapered paper bucket with fried drumsticks and pieces piled over the rim.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "chicken-wing",
+  "category": "dishes",
+  "draw": "Single bent chicken wing flat with sauce glaze and a drip.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "onion-rings",
+  "category": "dishes",
+  "draw": "Stack of thick battered rings leaning against each other.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "mozzarella-sticks",
+  "category": "dishes",
+  "draw": "Two breaded cheese sticks, one pulled apart with a cheese stretch between halves.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "potato-tots",
+  "category": "dishes",
+  "draw": "Paper tray of small cylindrical potato bites with a crispy grated texture.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "curly-fries",
+  "category": "dishes",
+  "draw": "Tangle of spiral curled fries in a paper tray.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "poutine",
+  "category": "dishes",
+  "draw": "Bowl of fries covered with gravy pour and cheese curd lumps.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "corn-dog",
+  "category": "dishes",
+  "draw": "Sausage coated in thick batter on a wooden stick with a mustard zigzag.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "combo-meal",
+  "category": "dishes",
+  "draw": "Burger, fries carton and a drink cup with a straw grouped together on a tray.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "frozen-dinner",
+  "category": "dishes",
+  "draw": "Top view of a divided tray with three compartments holding different portions under a film.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "pigs-in-a-blanket",
+  "category": "dishes",
+  "draw": "Three small sausages each wrapped in a spiral strip of pastry.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "chips-and-dip",
+  "category": "dishes",
+  "draw": "Triangular chip dipping into a small round bowl of dip.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "charcuterie-board",
+  "category": "dishes",
+  "draw": "Paddle board with a cheese wedge, folded meat slices, grapes and crackers.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "canapes",
+  "category": "dishes",
+  "draw": "Serving tray with a row of small round bite-sized toasts with toppings.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "crudites",
+  "category": "dishes",
+  "draw": "Cup holding upright vegetable sticks with a small dip bowl beside it.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "seafood-tower",
+  "category": "dishes",
+  "draw": "Two-tier platter stand with oysters on ice, prawns and lemon wedges.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "oyster-platter",
+  "category": "dishes",
+  "draw": "Round plate of crushed ice with open oyster half shells and a lemon wedge.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "shrimp-cocktail",
+  "category": "dishes",
+  "draw": "Stemmed glass with sauce and curled prawns hanging over the rim.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "grilled-fish",
+  "category": "dishes",
+  "draw": "Whole fish side view with diagonal grill marks and a lemon slice.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "sashimi",
+  "category": "dishes",
+  "draw": "Fanned slices of raw fish laid overlapping on a rectangular plate with a leaf.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "maki-roll",
+  "category": "dishes",
+  "draw": "Round sushi slice with a dark seaweed ring, rice layer and centre filling dots.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "temaki",
+  "category": "dishes",
+  "draw": "Seaweed cone hand roll with rice and fillings spilling out of the open top.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "gunkan",
+  "category": "dishes",
+  "draw": "Oval rice base wrapped with a tall seaweed band and topped with round fish roe dots.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "inarizushi",
+  "category": "dishes",
+  "draw": "Plump pouch of fried tofu skin stuffed with rice, open slightly at the top.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "onigiri",
+  "category": "dishes",
+  "draw": "Triangular rice ball with rounded corners and a rectangular seaweed band at the base.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "musubi",
+  "category": "dishes",
+  "draw": "Rectangular rice block with a slice of meat on top and a seaweed band wrapped around the middle.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "tempura",
+  "category": "dishes",
+  "draw": "Battered prawn with a bumpy crispy coating and a tail fin at one end.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "takoyaki",
+  "category": "dishes",
+  "draw": "Boat-shaped paper tray of round batter balls with sauce zigzag and a toothpick.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "okonomiyaki",
+  "category": "dishes",
+  "draw": "Thick round savoury pancake with crosshatch sauce lines and flakes on top.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "zaru-soba",
+  "category": "dishes",
+  "draw": "Square bamboo mat tray with a mound of thin noodles, a dipping cup beside it.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "curry-rice",
+  "category": "dishes",
+  "draw": "Top view of an oval plate split into white rice on one side and chunky curry on the other.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "miso-soup",
+  "category": "dishes",
+  "draw": "Lacquer bowl with a lid resting askew, soup with small tofu cubes and seaweed pieces.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "narutomaki",
+  "category": "dishes",
+  "draw": "Round fish cake slice with a wavy edge and a spiral swirl in the middle.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "oden",
+  "category": "dishes",
+  "draw": "Skewer holding a triangle, a ball and a cylinder of simmered items.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "omurice",
+  "category": "dishes",
+  "draw": "Oval omelette dome over rice on a plate with a ketchup zigzag on top.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "bibimbap",
+  "category": "dishes",
+  "draw": "Top view of a stone bowl with sectioned vegetable toppings in wedges and an egg yolk in the centre.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "kimchi",
+  "category": "dishes",
+  "draw": "Glass jar packed with fermented cabbage leaves and chili flakes.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "tteokbokki",
+  "category": "dishes",
+  "draw": "Shallow pan of cylinder rice cakes in thick sauce with a sesame sprinkle.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "banchan",
+  "category": "dishes",
+  "draw": "Group of small round side dishes with different contents arranged together.",
+  "domain": "world-dishes"
+ },
+ {
+  "name": "spring-roll",
+  "category": "dishes",
+  "draw": "Two cylindrical crisp rolls with blistered skin, one cut diagonally showing filling.",
+  "domain": "world-dishes"
+ }
+]

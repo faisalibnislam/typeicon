@@ -1,0 +1,482 @@
+[
+ {
+  "name": "cello",
+  "category": "music",
+  "draw": "Upright cello body with narrow waist, f-holes, scroll at the top and a spike endpin touching the ground, a bow across the strings.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "double-bass",
+  "category": "music",
+  "draw": "Very tall upright bass with sloped shoulders, f-holes, long neck with scroll and a short endpin, drawn taller than wide.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "violin-bow",
+  "category": "music",
+  "draw": "Long thin straight bow stick with a frog block at one end and the hair drawn as a parallel line beneath.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "lyre",
+  "category": "music",
+  "draw": "U-shaped frame with two curved arms joined by a crossbar at the top and five vertical strings to a small sound box.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "lute",
+  "category": "music",
+  "draw": "Pear-shaped rounded body with a rosette sound hole, short neck and a pegbox bent back sharply at a right angle.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "mandolin",
+  "category": "music",
+  "draw": "Small teardrop body with an oval sound hole, short fretted neck and a flat headstock with side tuners.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "banjo",
+  "category": "music",
+  "draw": "Round drum-head body with a ring of brackets, long fretted neck and a short fifth-string peg halfway up the neck.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "ukulele",
+  "category": "music",
+  "draw": "Small figure-eight guitar body with a round sound hole, short neck and four tuning pegs, compact proportions.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "bass-guitar",
+  "category": "music",
+  "draw": "Offset double-cutaway electric body with an extra-long neck and four large tuners in a row on the headstock.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "double-neck-guitar",
+  "category": "music",
+  "draw": "Electric guitar body with two parallel necks side by side rising from one body.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "resonator-guitar",
+  "category": "music",
+  "draw": "Acoustic guitar body with a large round perforated metal cover plate in the middle instead of a sound hole.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "balalaika",
+  "category": "music",
+  "draw": "Triangular body with a small sound hole, long thin neck and three tuning pegs.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "sitar",
+  "category": "music",
+  "draw": "Long wide neck with curved frets, a large round gourd at the bottom and a second smaller gourd at the top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "erhu",
+  "category": "music",
+  "draw": "Two-string Chinese fiddle: small hexagonal drum body at the bottom of a tall thin vertical neck with two pegs and a bow.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "guzheng",
+  "category": "music",
+  "draw": "Long flat curved-top zither seen from above at an angle, many strings with a diagonal row of small bridges.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "shamisen",
+  "category": "music",
+  "draw": "Small square body with rounded corners, long thin neck, three pegs at the top and a wide fan-shaped plectrum beside it.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "kora",
+  "category": "music",
+  "draw": "Large round half-gourd body with a very tall neck rising through it and many strings fanning to a central bridge.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "zither",
+  "category": "music",
+  "draw": "Flat trapezoid box seen from above with a round sound hole, a fretboard strip on one side and many parallel strings.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "hammered-dulcimer",
+  "category": "music",
+  "draw": "Trapezoid box seen from above with many strings across two bridges and two small spoon-shaped hammers.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "appalachian-dulcimer",
+  "category": "music",
+  "draw": "Long narrow hourglass-shaped body seen from above with a raised fretboard down the centre and heart sound holes.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "hurdy-gurdy",
+  "category": "music",
+  "draw": "Lute-like body with a crank handle at the tail end and a box of keys along the neck.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "morin-khuur",
+  "category": "music",
+  "draw": "Trapezoid box body with a long neck topped by a carved horse head and two strings, with a bow.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "ektara",
+  "category": "music",
+  "draw": "One-string instrument: round gourd resonator with a bamboo neck split into two arms holding a single peg at the top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "berimbau",
+  "category": "music",
+  "draw": "Tall curved wooden bow with a single wire string and a round gourd resonator tied near the lower end.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "valiha",
+  "category": "music",
+  "draw": "Vertical bamboo tube with strings running along its length held up by small bridges, showing the tube nodes.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "cigar-box-guitar",
+  "category": "music",
+  "draw": "Rectangular box body with a stick neck through it, three strings and a few simple sound holes.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "washtub-bass",
+  "category": "music",
+  "draw": "Upturned round washtub with a broom handle standing on its rim and a single string from the top of the stick to the tub.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "musical-saw",
+  "category": "music",
+  "draw": "Handsaw bent into a gentle S curve with a violin bow touching its smooth back edge.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "harpsichord",
+  "category": "music",
+  "draw": "Wing-shaped case seen from above with two stacked keyboards at the straight end and a raised lid.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "upright-piano",
+  "category": "music",
+  "draw": "Front view of a tall rectangular piano cabinet with a keyboard strip across the middle and pedals below.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "pipe-organ",
+  "category": "music",
+  "draw": "Front view of a row of organ pipes rising in a symmetrical fan above a console with keyboards.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "harmonium",
+  "category": "music",
+  "draw": "Box with a keyboard on top, a hinged bellows flap at the back and a row of stop knobs on the front.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "concertina",
+  "category": "music",
+  "draw": "Hexagonal end boxes with button grids joined by a pleated zigzag bellows.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "melodica",
+  "category": "music",
+  "draw": "Small keyboard strip on a narrow body with a flexible mouthpiece tube coming from one end.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "synthesizer",
+  "category": "music",
+  "draw": "Wide keyboard with a panel of knobs and sliders above the keys and a small display.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "modular-synthesizer",
+  "category": "music",
+  "draw": "Rack panel of small modules with rows of knobs and jack holes connected by looping patch cables.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "keytar",
+  "category": "music",
+  "draw": "Keyboard shaped like a guitar with keys along a body and a neck with a strap button, slung at an angle.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "theremin",
+  "category": "music",
+  "draw": "Small cabinet with a vertical antenna rod on one side and a horizontal loop antenna on the other.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "piano-pedals",
+  "category": "music",
+  "draw": "Three brass pedals side by side at the base of a piano, the middle one slightly lower.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "clarinet",
+  "category": "music",
+  "draw": "Straight black tube with a mouthpiece and reed at the top, silver keys along the body and a small flared bell.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "oboe",
+  "category": "music",
+  "draw": "Thin conical tube narrowing to a tiny double reed at the top, keys along the body and no flared bell.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "bassoon",
+  "category": "music",
+  "draw": "Tall wooden tube with a thin curved metal crook near the top holding the reed, drawn diagonally.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "recorder",
+  "category": "music",
+  "draw": "Straight wooden recorder with a beak-shaped mouthpiece, a window notch and a row of finger holes.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "pan-flute",
+  "category": "music",
+  "draw": "Row of tube pipes bound together with a band, lengths stepping down from long to short.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "ocarina",
+  "category": "music",
+  "draw": "Rounded egg-shaped vessel flute with a short mouthpiece nub and a few finger holes on top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "harmonica",
+  "category": "music",
+  "draw": "Long flat rectangle with a row of square holes along the front edge and metal cover plates.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "bagpipes",
+  "category": "music",
+  "draw": "Round bag with three drone pipes rising diagonally, a blowpipe and a chanter pipe hanging below.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "didgeridoo",
+  "category": "music",
+  "draw": "Very long slightly irregular wooden tube drawn diagonally, flaring a little at the far end with simple dot patterns.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "shakuhachi",
+  "category": "music",
+  "draw": "End-blown bamboo flute with visible nodes, an angled notch at the top and a bulbous root end.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "shawm",
+  "category": "music",
+  "draw": "Conical wooden pipe with a flared trumpet bell, a disc near the top and a short reed.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "crumhorn",
+  "category": "music",
+  "draw": "Narrow wind pipe with the lower end curved up into a J hook and a capped top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "serpent-horn",
+  "category": "music",
+  "draw": "Wind instrument tube winding in a tall S snake shape with a mouthpiece at the top and finger holes.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "sheng",
+  "category": "music",
+  "draw": "Chinese mouth organ: cluster of vertical bamboo pipes of varied heights rising from a round cup with a mouthpiece.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "hulusi",
+  "category": "music",
+  "draw": "Gourd with a round bulb on top and three bamboo pipes coming out of the bottom.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "pitch-pipe",
+  "category": "music",
+  "draw": "Round disc with pipe holes around the edge and a mouthpiece hole.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "trombone",
+  "category": "music",
+  "draw": "Brass trombone side view with a long U-shaped slide, a mouthpiece and a flared bell facing forward.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "french-horn",
+  "category": "music",
+  "draw": "Circular coiled brass tubing with rotary valves in the middle and a wide flared bell.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "tuba",
+  "category": "music",
+  "draw": "Large upright brass instrument with coiled tubing, three valves and a huge bell pointing up.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "sousaphone",
+  "category": "music",
+  "draw": "Brass tubing wrapping in a big circle with an enormous bell facing forward over the top.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "bugle",
+  "category": "music",
+  "draw": "Simple brass horn with one loop of tubing, no valves and a flared bell.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "hunting-horn",
+  "category": "music",
+  "draw": "Brass horn coiled into a round ring with a flared bell and a small mouthpiece.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "alphorn",
+  "category": "music",
+  "draw": "Extremely long straight wooden horn resting on the ground with an upturned bell at the far end.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "shofar",
+  "category": "music",
+  "draw": "Curved ram's horn with a twisting spiral shape, narrow mouth end and wider open end.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "carnyx",
+  "category": "music",
+  "draw": "Tall vertical war trumpet topped with an open-mouthed animal head bell.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "vuvuzela",
+  "category": "music",
+  "draw": "Long straight plastic horn that widens steadily into a large flared bell.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "air-horn",
+  "category": "music",
+  "draw": "Aerosol can with a red trumpet horn on top and sound arcs from the horn opening.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "jaw-harp",
+  "category": "music",
+  "draw": "Small metal horseshoe frame with a thin springy tongue running through the middle and bent at the tip.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "bullroarer",
+  "category": "music",
+  "draw": "Flat pointed wooden slat on a long cord swung in a circle, with motion arcs.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "bass-drum",
+  "category": "music",
+  "draw": "Front view of a large round drum head with tension rods around the rim and a pedal beater below.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "drum-kit",
+  "category": "music",
+  "draw": "Set of a bass drum in front, two tom drums on top, a snare and a cymbal on a stand.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "timpani",
+  "category": "music",
+  "draw": "Large copper kettle-shaped bowl drum on legs with a flat head and a mallet resting on it.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "congas",
+  "category": "music",
+  "draw": "Two tall barrel-shaped drums with wide heads standing next to each other.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "djembe",
+  "category": "music",
+  "draw": "Goblet-shaped drum with a wide head, a narrow waist and diamond rope lacing down the body.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "tabla",
+  "category": "music",
+  "draw": "Pair of drums: a small tall wooden drum and a larger rounded metal drum, each with a dark centre spot.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "dhol",
+  "category": "music",
+  "draw": "Horizontal barrel drum with rope lacing along the body and a curved stick beside it.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "cajon",
+  "category": "music",
+  "draw": "Wooden box drum with a round sound hole on the back side, drawn at a three quarter view.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "taiko",
+  "category": "music",
+  "draw": "Large barrel drum with studs around the head on a wooden stand, with two thick sticks.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "frame-drum",
+  "category": "music",
+  "draw": "Wide shallow round drum with a thin wooden rim and a short double-ended tipper stick.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "talking-drum",
+  "category": "music",
+  "draw": "Hourglass drum with many cords running from head to head and a curved beater.",
+  "domain": "music-and-audio"
+ },
+ {
+  "name": "steelpan",
+  "category": "music",
+  "draw": "Round shallow steel pan seen from above with dimpled note segments on its surface and two sticks.",
+  "domain": "music-and-audio"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "industrial-storage-tank",
+  "category": "industry",
+  "draw": "Squat upright cylinder tank with a shallow domed roof, a ladder running up its side and a small railing on top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "water-tower",
+  "category": "industry",
+  "draw": "Round water tank on four splayed legs with X cross bracing between them and a pointed conical roof.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "gas-holder",
+  "category": "industry",
+  "draw": "Gasometer: a round drum inside an open frame of tall vertical columns tied together by two horizontal rings.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "oil-refinery",
+  "category": "industry",
+  "draw": "Cluster of three tall thin distillation columns of different heights joined by pipes, with a small flame on one stack.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "chemical-plant",
+  "category": "industry",
+  "draw": "Two round-bottomed reactor vessels on legs joined by a pipe, standing in front of a tall thin chimney.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "blast-furnace",
+  "category": "industry",
+  "draw": "Tall tapering furnace tower with a round hot-blast stove beside it and a pipe bridge linking their tops.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "bessemer-converter",
+  "category": "industry",
+  "draw": "Egg-shaped steel vessel tilted on side trunnions, pouring a stream of molten metal from its open mouth.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "steel-ladle",
+  "category": "industry",
+  "draw": "Deep bucket-shaped ladle hanging from a crane hook by a bail, tipped to pour a stream of molten metal.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "industrial-kiln",
+  "category": "industry",
+  "draw": "Brick dome kiln with a glowing arched opening at the bottom and a short chimney on top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "rotary-kiln",
+  "category": "industry",
+  "draw": "Long tilted tube resting on two support rings, with a flame at its lower end and a hopper feeding the upper end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "flare-stack",
+  "category": "industry",
+  "draw": "Tall thin pipe tower held by guy wires with a flame burning at its tip.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "industrial-control-panel",
+  "category": "industry",
+  "draw": "Tall metal cabinet front with a row of round dial gauges, a row of indicator lights and toggle switches below.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "water-treatment-plant",
+  "category": "industry",
+  "draw": "Two round open settling tanks seen at an angle, each with a bridge arm across it, and a water drop above.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "shipyard",
+  "category": "industry",
+  "draw": "Ship hull sitting on a sloping slipway beside a tall gantry crane.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "silicon-wafer",
+  "category": "industry",
+  "draw": "Round disc covered in a grid of small square chips with one flat edge at the bottom.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "lathe-chuck",
+  "category": "industry",
+  "draw": "Round chuck face seen head on with three stepped jaws pointing toward a central hole.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "cnc-machine",
+  "category": "industry",
+  "draw": "Enclosed boxy machine with a large window door showing a spindle inside and a small control screen on the side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "hydraulic-press",
+  "category": "industry",
+  "draw": "Tall H-shaped frame with a thick piston ram pressing down onto a flat bed plate.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "steam-hammer",
+  "category": "industry",
+  "draw": "A-frame with a steam cylinder on top driving a heavy hammer block down onto an anvil block.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "rolling-mill",
+  "category": "industry",
+  "draw": "Two large rollers stacked one above the other, squeezing a thick slab into a thinner sheet coming out the side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "injection-molding-machine",
+  "category": "industry",
+  "draw": "Long machine body with a funnel hopper on top at one end and a boxy mold clamp at the other end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "laser-cutter",
+  "category": "industry",
+  "draw": "Nozzle head shining a thin straight beam down onto a flat sheet, leaving a cut line with small sparks.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "industrial-shredder",
+  "category": "industry",
+  "draw": "Box hopper with two rows of interlocking toothed rotors visible inside and scraps falling out below.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "jaw-crusher",
+  "category": "industry",
+  "draw": "V-shaped chamber between a fixed jaw and a swinging jaw, rocks entering at the top and gravel dropping out below.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "ball-mill",
+  "category": "industry",
+  "draw": "Horizontal drum on two rollers, cut open to show loose steel balls tumbling inside.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "filter-press",
+  "category": "industry",
+  "draw": "Row of many upright plates squeezed together between a fixed head and a hydraulic cylinder on a long frame.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "cyclone-separator",
+  "category": "industry",
+  "draw": "Upright cylinder narrowing to a long cone at the bottom, with a side inlet pipe near the top and an outlet pipe out the top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "agitator-tank",
+  "category": "industry",
+  "draw": "Open tank with a motor mounted on top driving a shaft down to a propeller mixing blade inside.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "industrial-boiler",
+  "category": "industry",
+  "draw": "Horizontal cylindrical boiler on a stand with a chimney pipe rising from the top and a small pressure gauge.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "heat-exchanger",
+  "category": "industry",
+  "draw": "Horizontal shell cylinder with a zigzag tube drawn inside and short nozzles on top and bottom.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "gear-pump",
+  "category": "industry",
+  "draw": "Oval casing cut open to show two meshing gears, with an inlet port on one side and an outlet on the other.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "submersible-pump",
+  "category": "industry",
+  "draw": "Slim vertical cylinder pump with a strainer band near the bottom and a pipe and cable leaving its top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "steam-turbine",
+  "category": "industry",
+  "draw": "Cutaway horizontal rotor with rows of blades that grow longer from left to right inside a tapered casing.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "alternator",
+  "category": "industry",
+  "draw": "Round automotive alternator with cooling slots around the body and a belt pulley on the front.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "electric-motor",
+  "category": "industry",
+  "draw": "Cylindrical motor lying on its side with cooling fins, a mounting foot underneath and a shaft sticking out one end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "servo-motor",
+  "category": "industry",
+  "draw": "Small rectangular hobby servo with mounting tabs on both sides and a cross-shaped output horn on top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "flywheel",
+  "category": "industry",
+  "draw": "Heavy spoked wheel on a horizontal shaft held between two bearing blocks.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "centrifugal-governor",
+  "category": "industry",
+  "draw": "Vertical spindle with two heavy balls on hinged arms swinging outward from its top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "steam-engine",
+  "category": "industry",
+  "draw": "Horizontal cylinder whose piston rod drives a crank that turns a large spoked flywheel.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "toggle-clamp",
+  "category": "industry",
+  "draw": "Lever clamp on a base plate with a hinged handle and a rubber-tipped spindle pressing down.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "paint-spray-gun",
+  "category": "industry",
+  "draw": "Spray gun with a paint cup on top, a pistol trigger grip and a cone of spray dots from the nozzle.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "roller-conveyor",
+  "category": "industry",
+  "draw": "Row of parallel cylinder rollers in a frame seen at an angle, with a box riding on top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "screw-conveyor",
+  "category": "industry",
+  "draw": "Horizontal tube cut open to show a spiral auger screw inside, with material entering one end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "bucket-elevator",
+  "category": "industry",
+  "draw": "Tall vertical belt with small buckets attached, running over a top wheel and a bottom wheel.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "overhead-conveyor",
+  "category": "industry",
+  "draw": "Horizontal rail with trolleys rolling along it, each carrying a hook with a part hanging below.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "gantry-crane",
+  "category": "industry",
+  "draw": "Rectangular portal frame on wheeled legs with a trolley on the top beam and a hook hanging down.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "jib-crane",
+  "category": "industry",
+  "draw": "Vertical pillar with a horizontal arm swinging out from its top and a hoist and hook hanging from the arm.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "capstan",
+  "category": "industry",
+  "draw": "Short vertical drum with push bars sticking out from its top like spokes and a rope wrapped around it.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "lifting-magnet",
+  "category": "industry",
+  "draw": "Round flat electromagnet hanging from crane chains with scrap pieces stuck to its underside.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "clamshell-grab",
+  "category": "industry",
+  "draw": "Grab bucket hanging from cables with two curved jaws meeting at the bottom.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "planetary-gear",
+  "category": "industry",
+  "draw": "Small central gear with three planet gears around it, all inside a large ring gear with inward teeth.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "herringbone-gear",
+  "category": "industry",
+  "draw": "Gear seen from the side as a short cylinder with V-shaped chevron teeth across its face.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "ratchet-and-pawl",
+  "category": "industry",
+  "draw": "Wheel with slanted sawtooth teeth and a hinged pawl arm catching one tooth.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "roller-chain",
+  "category": "industry",
+  "draw": "Short diagonal section of chain with figure-eight side plates and round rollers.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "pillow-block-bearing",
+  "category": "industry",
+  "draw": "Bearing housing on a flat base with a bolt hole on each side and a shaft passing through its round middle.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "cam-and-follower",
+  "category": "industry",
+  "draw": "Egg-shaped cam on a shaft with a vertical rod resting on its edge above.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "crank-handle",
+  "category": "industry",
+  "draw": "Z-shaped crank arm fixed to a shaft with a round knob grip at the far end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "geneva-drive",
+  "category": "industry",
+  "draw": "Drive wheel with a pin engaging one slot of a four-slotted star-shaped wheel.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "clutch-plate",
+  "category": "industry",
+  "draw": "Round disc with a friction ring, small spring windows around a splined center hub.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "brake-disc",
+  "category": "industry",
+  "draw": "Round disc rotor with drilled holes and a caliper clamped over one edge.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "solenoid",
+  "category": "industry",
+  "draw": "Coil of wire wrapped around a tube with a metal plunger half inserted from one end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "lead-screw",
+  "category": "industry",
+  "draw": "Long threaded rod with a nut block riding on it and a small motor at one end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "ball-joint",
+  "category": "industry",
+  "draw": "Ball gripped in a round socket cup with a threaded stud sticking out of the ball.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "lever-and-fulcrum",
+  "category": "industry",
+  "draw": "Straight plank balanced on a small triangle, a heavy block on one end.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "connecting-rod",
+  "category": "industry",
+  "draw": "Rod with a large round split ring at one end and a small round eye at the other.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "camshaft",
+  "category": "industry",
+  "draw": "Straight shaft with a row of egg-shaped cam lobes along it.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "engine-valve",
+  "category": "industry",
+  "draw": "Poppet valve: long thin stem with a flat mushroom head at the bottom and a coil spring around the stem.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "turbocharger",
+  "category": "industry",
+  "draw": "Two snail-shaped housings back to back on a shared shaft, each with a round inlet.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "fuel-injector",
+  "category": "industry",
+  "draw": "Slim cylinder with an electrical connector near the top and a fine cone of spray from its tip.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "exhaust-muffler",
+  "category": "industry",
+  "draw": "Oval canister with a thin pipe entering one end and leaving the other.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "oil-filter",
+  "category": "industry",
+  "draw": "Cylindrical canister with ribbed grip bands and a ring of holes around a threaded center on top.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "v-engine",
+  "category": "industry",
+  "draw": "Engine block from the front with two banks of cylinders angled apart in a V above a rounded crankcase.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "rotary-engine",
+  "category": "industry",
+  "draw": "Rounded triangle rotor inside an oval housing pinched at the middle, with a small central shaft.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "radial-engine",
+  "category": "industry",
+  "draw": "Circle of cylinders arranged like a star around a central round hub.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "turbofan-engine",
+  "category": "industry",
+  "draw": "Side cutaway of a jet engine with a large front fan, a tapering core and an exhaust nozzle.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "marine-propeller",
+  "category": "industry",
+  "draw": "Three-bladed ship propeller seen from the front with broad curved blades around a round hub.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "impeller",
+  "category": "industry",
+  "draw": "Round disc with curved vanes spiraling out from a central hub.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "pressure-regulator",
+  "category": "industry",
+  "draw": "Valve body on a pipe with a big round diaphragm dome on top and a small gauge on the side.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "float-valve",
+  "category": "industry",
+  "draw": "Valve on a pipe end with a long arm ending in a round float ball.",
+  "domain": "industry-and-machinery"
+ },
+ {
+  "name": "y-strainer",
+  "category": "industry",
+  "draw": "Pipe fitting with a slanted leg branching downward in a Y and ending in a capped end.",
+  "domain": "industry-and-machinery"
+ }
+]

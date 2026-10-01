@@ -1,0 +1,206 @@
+{
+  "address-book": {
+    "context": "Ring-bound book with a person on its cover and tabs along the spine. Used for contact lists, phone books, directories, CRM address records and saved recipients.",
+    "keywords": ["contacts", "phonebook", "phone book", "directory", "people", "contact list", "address list", "saved contacts", "recipients", "crm", "customer list", "names", "numbers", "addresses", "notebook", "binder", "agenda", "white pages", "friends list"]
+  },
+  "announcement": {
+    "context": "Rectangular speech bubble with an exclamation mark inside. Used for announcements, news posts, important notices, product updates, service alerts and pinned messages.",
+    "keywords": ["notice", "news", "important", "alert", "broadcast", "update", "notification", "message", "exclamation", "attention", "bulletin", "news post", "whats new", "release notes", "pinned message", "important message", "info", "heads up", "banner", "system message", "public notice"]
+  },
+  "antenna": {
+    "context": "Radio mast with a transmitter at its tip sending out waves on both sides. Used for radio stations, cell towers, network coverage, transmission status and broadcasting.",
+    "keywords": ["radio tower", "transmitter", "signal", "broadcast", "mast", "radio mast", "cell tower", "phone mast", "tower", "transmission", "wireless", "radio", "network", "coverage", "reception", "telecom", "telecommunications", "frequency", "radio station", "waves", "hotspot", "5g"]
+  },
+  "bell": {
+    "context": "Plain bell with a clapper at its base. Used for the notifications button, alert settings, reminders, subscribe prompts and inbox of updates.",
+    "keywords": ["notification", "notifications", "alert", "alarm", "reminder", "ring", "alerts", "notify", "subscribe", "updates", "news", "chime", "doorbell", "reception bell", "notification settings", "notification center", "notification centre", "push notification", "remind me", "activity", "inbox"]
+  },
+  "broadcast": {
+    "context": "Central dot with curved signal waves on both sides. Used for live status, going on air, radio and wireless signals, broadcast messages to many users and hotspots.",
+    "keywords": ["signal", "live", "radio", "transmit", "on air", "podcast", "broadcasting", "go live", "streaming", "live stream", "wireless", "hotspot", "beacon", "cast", "transmission", "waves", "announce", "mass message", "channel", "radio waves"]
+  },
+  "chat": {
+    "context": "Rectangular speech bubble with a pointed tail at the bottom left. Used for chat buttons, comments, messaging apps, live support widgets and reply actions.",
+    "keywords": ["message", "comment", "conversation", "talk", "bubble", "speech bubble", "messaging", "chat box", "live chat", "support chat", "reply", "discussion", "text", "sms", "im", "instant message", "dm", "direct message", "comments", "feedback", "contact us", "say"]
+  },
+  "chat-bubbles": {
+    "context": "Two round speech bubbles overlapping, one large and one small, with tails on opposite sides. Used for conversations, group chat, discussion forums, messaging tabs and community Q&A.",
+    "keywords": ["chat", "conversation", "talk", "discussion", "messages", "bubbles", "dialogue", "group chat", "forum", "community", "reply", "replies", "comments", "exchange", "messaging", "q&a", "questions", "support", "speech bubbles", "two bubbles", "talk back"]
+  },
+  "chat-dots": {
+    "context": "Rectangular speech bubble holding three dots. Used for chat buttons, unread messages, SMS threads, comments and a message waiting to be read or written.",
+    "keywords": ["chat", "message", "typing", "ellipsis", "comment", "sms", "text message", "messaging", "dots", "three dots", "speech bubble", "conversation", "live chat", "reply", "talk", "more", "writing", "support", "im", "dm", "inbox"]
+  },
+  "chat-typing": {
+    "context": "Pill-shaped bubble with three dots and a trail of two small circles. Used as the typing indicator in chats, a pending reply, a bot thinking and live-chat status.",
+    "keywords": ["typing", "typing indicator", "chat", "writing", "ellipsis", "pending", "is typing", "someone is typing", "dots", "three dots", "reply", "waiting", "thinking", "bot", "assistant", "chatbot", "live chat", "composing", "in progress", "message", "loading"]
+  },
+  "comment-dots": {
+    "context": "Round speech bubble with three dots in the middle. Used for comments, replies, discussion threads, add-a-comment buttons and someone composing a reply.",
+    "keywords": ["comment", "chat", "typing", "ellipsis", "reply", "message", "comments", "dots", "three dots", "round bubble", "speech bubble", "conversation", "discussion", "thread", "talk", "add comment", "leave a comment", "feedback", "annotation", "note", "response"]
+  },
+  "contact": {
+    "context": "Head and shoulders of a person with a telephone handset beside them. Used for contact us pages, calling a contact, customer service numbers and phone details in profiles.",
+    "keywords": ["person", "call", "reach", "get in touch", "phone", "contact us", "contact person", "call contact", "telephone", "phone number", "customer service", "help line", "hotline", "support", "caller", "call someone", "reach out", "contacts", "dial", "user", "contact details"]
+  },
+  "conversation": {
+    "context": "Two rectangular speech bubbles coming from opposite sides, one above the other. Used for dialogue, back-and-forth replies, interviews, chat history and discussions.",
+    "keywords": ["dialogue", "dialog", "discussion", "reply", "talk", "exchange", "chat", "messages", "back and forth", "chat history", "interview", "two people talking", "communication", "debate", "consultation", "q&a", "speech bubbles", "thread", "reply all", "support", "forum"]
+  },
+  "email-at": {
+    "context": "Envelope with a large @ sign at its corner. Used for email address fields, contact details, email sign-up, verification messages and mailing settings.",
+    "keywords": ["email", "address", "at", "contact", "mail", "e-mail", "email address", "at sign", "at symbol", "arroba", "envelope", "inbox", "sign up", "verify email", "email verification", "mailing list", "contact email", "newsletter", "send email", "message", "login"]
+  },
+  "fax": {
+    "context": "Fax machine with a keypad and a sheet of paper rising from the top. Used for fax numbers on contact pages, office equipment, sending documents and old-style business details.",
+    "keywords": ["facsimile", "machine", "office", "document", "print", "fax machine", "fax number", "send fax", "printer", "copier", "telefax", "paper", "office equipment", "scan", "business", "contact", "transmit", "telephone", "legacy", "hardware"]
+  },
+  "headset-support": {
+    "context": "Head wearing an over-ear headset with a microphone arm. Used for customer support, help desks, call centres, live agents and contact support buttons.",
+    "keywords": ["support", "customer service", "help desk", "call center", "call centre", "agent", "headset", "headphones", "microphone", "customer support", "helpdesk", "helpline", "hotline", "live agent", "contact support", "operator", "service desk", "assistance", "help", "tech support", "receptionist"]
+  },
+  "inbox-full": {
+    "context": "Inbox tray with a stack of papers resting in it. Used for unread messages, a full inbox, pending tasks, received files and an in-tray of documents.",
+    "keywords": ["inbox", "tray", "full", "unread", "pending", "messages", "in tray", "mailbox", "received", "incoming", "documents", "papers", "backlog", "queue", "to do", "new mail", "mail", "storage", "archive", "files", "email"]
+  },
+  "intercom": {
+    "context": "Wall-mounted panel with a round speaker grille and a call button. Used for building entry systems, door phones, apartment buzzers, reception calls and smart home access.",
+    "keywords": ["door phone", "entry phone", "buzzer", "doorbell", "speaker", "entryphone", "door entry", "access control", "building entry", "apartment", "flat", "gate", "smart home", "video doorbell", "reception", "call button", "visitor", "front door", "security", "panel", "interphone"]
+  },
+  "letter": {
+    "context": "Closed envelope sealed with a round wax seal where the flap meets. Used for letters, invitations, formal messages, postal mail and private or sealed correspondence.",
+    "keywords": ["envelope", "post", "mail", "correspondence", "sealed", "wax seal", "seal", "invitation", "invite", "card", "postal", "love letter", "note", "message", "formal", "private", "confidential", "greeting card", "send", "letter post", "posted"]
+  },
+  "mail": {
+    "context": "Closed envelope with its flap folded down in a V. Used for email buttons, the inbox, contact links, newsletters and anywhere a message can be sent or read.",
+    "keywords": ["email", "envelope", "message", "inbox", "letter", "e-mail", "post", "send email", "contact", "contact us", "mailbox", "correspondence", "newsletter", "mail app", "unread", "messages", "compose", "write email", "mailing", "postal", "notification"]
+  },
+  "mail-flag": {
+    "context": "Closed envelope with a small flag on a pole at its right. Used for flagged emails, messages marked for follow-up, important mail and priority filters in an inbox.",
+    "keywords": ["flagged", "important", "follow up", "email", "mail", "mark", "flag", "envelope", "priority", "starred", "flagged email", "mark as important", "reminder", "urgent", "to do", "inbox", "filter", "message", "attention", "tag", "follow-up"]
+  },
+  "mail-open": {
+    "context": "Opened envelope with its flap raised. Used for read emails, mark as read, opened messages, invitations and inbox states once a message has been viewed.",
+    "keywords": ["email", "read", "opened", "envelope", "inbox", "message", "envelope open", "mark as read", "read mail", "open email", "seen", "viewed", "letter", "invitation", "unfolded", "received", "mail", "correspondence", "open letter", "post", "e-mail"]
+  },
+  "mail-stack": {
+    "context": "Two envelopes, one stacked behind the other. Used for multiple emails, bulk mail, mail merges, email campaigns, message folders and all-mail views.",
+    "keywords": ["emails", "mail", "envelopes", "bulk", "inbox", "messages", "mails", "multiple emails", "bulk email", "mass mail", "mail merge", "email campaign", "newsletter", "mailing list", "all mail", "folder", "stack", "correspondence", "batch", "letters", "marketing"]
+  },
+  "mailbox": {
+    "context": "Curbside mailbox on a post with its flag raised. Used for postal mail, delivery addresses, new mail notices, parcel drop-offs and home or shipping settings.",
+    "keywords": ["postbox", "letterbox", "post", "delivery", "mail", "mail box", "post box", "letter box", "postal", "mailing address", "delivery address", "you have mail", "new mail", "inbox", "flag up", "shipping", "parcel", "home address", "mail delivery", "postal service", "po box"]
+  },
+  "megaphone": {
+    "context": "Hand-held megaphone with a trigger handle, pointing up to the right. Used for marketing campaigns, announcements, promotions, public notices and shout-outs.",
+    "keywords": ["bullhorn", "loudhailer", "shout", "marketing", "campaign", "announcement", "announce", "promotion", "promote", "advertising", "ads", "loud", "voice", "broadcast", "public address", "news", "shout out", "protest", "attention", "speaker"]
+  },
+  "message-circle": {
+    "context": "Round speech bubble with a small pointed tail at the lower left. Used for messages, chat buttons, comments, replies and messaging tabs in mobile apps.",
+    "keywords": ["message", "chat", "comment", "bubble", "talk", "reply", "round bubble", "speech bubble", "messaging", "conversation", "comments", "dm", "direct message", "im", "text", "chat bubble", "discussion", "support chat", "say", "response", "social"]
+  },
+  "message-square": {
+    "context": "Square speech bubble whose bottom-left corner extends into the tail. Used for messages, comments, SMS, chat entries and message buttons in toolbars.",
+    "keywords": ["message", "chat", "comment", "bubble", "sms", "text", "square bubble", "speech bubble", "text message", "messaging", "conversation", "comments", "dm", "direct message", "reply", "chat box", "discussion", "note", "feedback", "talk", "im"]
+  },
+  "messages": {
+    "context": "Two overlapping rectangular speech bubbles, one behind the other. Used for message threads, inbox lists, direct messages, conversations and chat history.",
+    "keywords": ["thread", "chat", "conversation", "inbox", "dm", "message thread", "direct messages", "chats", "message list", "chat history", "conversations", "messaging", "talk", "replies", "discussion", "group chat", "speech bubbles", "sms", "texts", "communication", "forum"]
+  },
+  "newsletter": {
+    "context": "Page with a masthead and text lines sliding out of an open envelope. Used for newsletter sign-ups, email digests, subscriptions, bulletins and email marketing.",
+    "keywords": ["subscribe", "bulletin", "digest", "email", "news", "email newsletter", "sign up", "mailing list", "subscription", "email marketing", "weekly digest", "news update", "magazine", "journal", "article", "envelope", "campaign", "updates", "inbox", "blog", "press"]
+  },
+  "pager": {
+    "context": "Small pager with a text display and a button below it. Used for on-call alerts, hospital staff paging, restaurant table buzzers and incident notifications.",
+    "keywords": ["beeper", "bleeper", "on call", "notification", "device", "page", "paging", "on-call", "alert", "incident", "hospital", "doctor", "buzzer", "restaurant buzzer", "table buzzer", "text display", "receiver", "retro", "nineties", "emergency", "call"]
+  },
+  "paper-plane": {
+    "context": "Folded paper plane flying up and to the right. Used for send buttons, sharing, direct messages, delivered status and email or chat submit actions.",
+    "keywords": ["send", "message", "deliver", "share", "fly", "send message", "submit", "sent", "dm", "direct message", "email", "post", "dispatch", "forward", "origami", "plane", "delivery", "go", "launch", "reply"]
+  },
+  "phone": {
+    "context": "Classic telephone handset tilted on its side. Used for call buttons, phone numbers, contact details, dialers, support lines and click-to-call links.",
+    "keywords": ["call", "telephone", "contact", "dial", "handset", "phone number", "call us", "contact us", "mobile", "cell", "cellphone", "landline", "dialer", "hotline", "support line", "click to call", "ring", "voice call", "tel", "phone call", "receiver"]
+  },
+  "phone-call": {
+    "context": "Telephone handset with two sound arcs above it. Used for an active call, calling now, voice call buttons, ringing status and call in progress screens.",
+    "keywords": ["call", "calling", "telephone", "phone", "ring", "talk", "active call", "on a call", "voice call", "in call", "call in progress", "handset", "ringing", "sound waves", "audio call", "dial", "contact", "hotline", "speaking", "conversation", "busy"]
+  },
+  "phone-incoming": {
+    "context": "Telephone handset with an arrow pointing in toward it. Used for incoming calls, received calls in call logs, inbound lines and answer call prompts.",
+    "keywords": ["incoming call", "receive", "call", "telephone", "inbound", "received call", "call log", "call history", "answer", "answer call", "arrow in", "handset", "phone", "caller", "inbound call", "recent calls", "accept call", "pick up", "call center", "ringing", "contact"]
+  },
+  "phone-missed": {
+    "context": "Telephone handset with an arrow that bends back on itself. Used for missed calls in call logs, unanswered call alerts, callback reminders and notifications.",
+    "keywords": ["missed call", "call", "telephone", "unanswered", "notification", "missed", "no answer", "call back", "callback", "call log", "call history", "recent calls", "handset", "phone", "failed call", "declined", "rejected call", "alert", "voicemail", "arrow", "caller"]
+  },
+  "phone-outgoing": {
+    "context": "Telephone handset with an arrow pointing away up to the right. Used for outgoing calls, dialled numbers in call logs, place a call and outbound call reports.",
+    "keywords": ["outgoing call", "dial", "call", "telephone", "outbound", "dialed", "dialled", "make a call", "place call", "call log", "call history", "recent calls", "arrow out", "handset", "phone", "outbound call", "call out", "sales call", "cold call", "caller", "contact"]
+  },
+  "phone-ringing": {
+    "context": "Telephone handset with short ringing marks beside it. Used for a ringing phone, incoming call alerts, ringtone settings, vibrate mode and wake-up calls.",
+    "keywords": ["ringing", "ring", "call", "telephone", "incoming", "vibrate", "ringtone", "incoming call", "alert", "handset", "phone", "sound", "call alert", "buzz", "notification", "wake up call", "loud", "calling", "answer", "phone call"]
+  },
+  "podcast": {
+    "context": "Studio microphone with curved sound waves on both sides. Used for podcast players, episode lists, audio shows, recording studios and listen buttons.",
+    "keywords": ["audio show", "episode", "microphone", "listen", "broadcast", "podcasts", "mic", "audio", "radio", "talk show", "recording", "studio", "on air", "show", "series", "streaming", "voice", "interview", "listening", "audio content", "subscribe"]
+  },
+  "postcard": {
+    "context": "Postcard with a stamp in the top corner, a message area and address lines. Used for travel greetings, holiday mail, direct mail campaigns, gift cards and postal services.",
+    "keywords": ["travel", "greeting", "mail", "card", "holiday", "vacation", "post card", "stamp", "greetings", "souvenir", "tourism", "postal", "direct mail", "send card", "message", "address", "correspondence", "letter", "trip", "wish you were here", "post"]
+  },
+  "quote-bubble": {
+    "context": "Speech bubble holding a pair of quotation marks. Used for testimonials, customer quotes, cited replies, quote posts and review snippets.",
+    "keywords": ["quote", "quotation", "testimonial", "cite", "said", "comment", "quotation marks", "quotes", "citation", "customer quote", "review", "saying", "reply with quote", "quote post", "statement", "speech bubble", "blockquote", "feedback", "words", "remark", "endorsement"]
+  },
+  "rss": {
+    "context": "Dot in the corner with two quarter-circle arcs spreading out from it. Used for RSS and Atom feeds, blog subscriptions, news readers and podcast feed links.",
+    "keywords": ["feed", "subscribe", "atom", "blog", "news feed", "rss feed", "web feed", "syndication", "xml", "feed reader", "news reader", "subscription", "updates", "podcast feed", "blog feed", "news", "signal", "broadcast", "channel", "articles", "content"]
+  },
+  "satellite-dish": {
+    "context": "Satellite dish on a stand, aimed up and to the right with a receiver arm. Used for satellite TV, signal reception, space communication, ground stations and broadcast links.",
+    "keywords": ["satellite", "dish", "receiver", "tv", "signal", "parabolic", "antenna", "satellite tv", "reception", "broadcast", "ground station", "radar", "telescope", "space", "uplink", "downlink", "telecom", "transmission", "communication", "network", "dish antenna"]
+  },
+  "send": {
+    "context": "Arrowhead pointing right with a notch cut into its tail. Used for send buttons in chats and email, submit actions, forwarding a message and post comment controls.",
+    "keywords": ["submit", "message", "deliver", "post", "arrow", "send message", "send button", "send email", "sent", "forward", "dispatch", "reply", "paper plane", "go", "share", "transmit", "chat", "comment", "enter", "arrow right", "publish"]
+  },
+  "signal-bars": {
+    "context": "Four bars rising in height from left to right. Used for cellular signal strength, network reception, connection quality, Wi-Fi strength and level meters.",
+    "keywords": ["signal", "reception", "cellular", "strength", "bars", "network", "signal strength", "cell signal", "mobile signal", "coverage", "connection", "connection quality", "wifi", "bandwidth", "level", "4g", "5g", "lte", "status bar", "full signal", "bar chart"]
+  },
+  "speakerphone": {
+    "context": "Mobile phone with sound waves coming from its side. Used for putting a call on speaker, hands-free mode, loudspeaker settings and conference calls.",
+    "keywords": ["speaker", "loudspeaker", "hands-free", "call", "phone", "hands free", "on speaker", "speaker mode", "loud", "volume", "mobile", "smartphone", "cell phone", "audio", "sound waves", "conference call", "call settings", "vibrate", "ring", "sound", "voice"]
+  },
+  "speech-bubble": {
+    "context": "Oval speech bubble with a curved tail at the bottom left. Used for dialogue, comic speech, quotes, voice or talk buttons and someone saying something.",
+    "keywords": ["speech", "talk", "say", "dialogue", "comic", "bubble", "saying", "speak", "speaking", "voice", "chat", "comment", "message", "comic bubble", "cartoon", "oval bubble", "conversation", "caption", "talking", "statement", "words"]
+  },
+  "stamp-postage": {
+    "context": "Postage stamp with perforated edges and a small picture of hills inside. Used for postage, mailing costs, postal services, stamp collecting and sending letters.",
+    "keywords": ["stamp", "postage", "post", "mail", "philately", "letter", "postage stamp", "postal", "postal service", "stamp collecting", "perforated", "shipping cost", "send letter", "envelope", "post office", "sticker", "collectible", "mailing", "delivery", "first class", "franking"]
+  },
+  "telegram-message": {
+    "context": "Strip of telegraph tape printed with dots and dashes of Morse code. Used for telegrams, urgent short messages, Morse code topics, history of communication and retro messaging.",
+    "keywords": ["telegram", "telegraph", "morse", "wire", "cable", "message", "morse code", "dots and dashes", "ticker tape", "tape", "urgent message", "short message", "retro", "history", "old communication", "signal", "code", "cablegram", "dispatch", "news wire"]
+  },
+  "thought-bubble": {
+    "context": "Cloud-shaped bubble with a trail of small circles leading down to it. Used for thoughts, ideas, daydreams, thinking states, brainstorming and comic inner monologue.",
+    "keywords": ["thought", "think", "idea", "dream", "thinking", "cloud", "thoughts", "daydream", "imagine", "brainstorm", "wonder", "comic", "cartoon", "mind", "inner voice", "reflection", "consider", "ponder", "bubble", "musing", "wish"]
+  },
+  "video-call": {
+    "context": "Video camera with a person shown inside its body. Used for video calls, video chat buttons, online meetings, webcam settings and telehealth appointments.",
+    "keywords": ["video chat", "meeting", "webcam", "conference", "video conference", "online meeting", "virtual meeting", "camera", "video camera", "call", "face to face", "remote meeting", "telehealth", "live video", "join meeting", "start video", "webinar", "person", "facecam"]
+  },
+  "voicemail": {
+    "context": "Two circles joined by a straight line at their base, like the reels of a tape. Used for voicemail messages, answering machines, voice memos and missed call recordings.",
+    "keywords": ["voice message", "answering machine", "tape", "recording", "voice mail", "voice memo", "audio message", "message", "leave a message", "listen", "mailbox", "phone", "call", "missed call", "recorder", "reel", "cassette", "playback", "inbox", "audio"]
+  },
+  "walkie-talkie": {
+    "context": "Hand-held two-way radio with a short antenna and a speaker grille. Used for push-to-talk buttons, team radio channels, security staff, events crews and outdoor communication.",
+    "keywords": ["two-way radio", "radio", "transceiver", "push to talk", "walkie", "handheld radio", "ptt", "two way radio", "cb radio", "intercom", "channel", "frequency", "security", "event staff", "field team", "outdoor", "hiking", "camping", "talk", "antenna", "communication"]
+  }
+}

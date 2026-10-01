@@ -1,0 +1,26 @@
+[
+ {
+  "name": "resin-3d-printer",
+  "category": "hardware-pc",
+  "draw": "Box printer under a tinted cover with an upside-down build plate lifting a small printed object out of a shallow vat.",
+  "domain": "r3-computer-hardware"
+ },
+ {
+  "name": "filament-spool",
+  "category": "hardware-pc",
+  "draw": "Round spool of wound filament at three-quarter view with one loose strand trailing off the side.",
+  "domain": "r3-computer-hardware"
+ },
+ {
+  "name": "3d-printer-nozzle",
+  "category": "hardware-pc",
+  "draw": "Heater block with a cone-shaped nozzle laying a line of plastic onto a few stacked layers below.",
+  "domain": "r3-computer-hardware"
+ },
+ {
+  "name": "laser-engraver",
+  "category": "hardware-pc",
+  "draw": "Open square gantry frame with a laser head firing a short beam down onto a board marked with a burned pattern.",
+  "domain": "r3-computer-hardware"
+ }
+]

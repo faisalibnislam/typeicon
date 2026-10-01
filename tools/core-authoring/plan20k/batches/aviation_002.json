@@ -1,0 +1,482 @@
+[
+ {
+  "name": "tail-stand",
+  "category": "aviation",
+  "draw": "Side view of an airliner tail cone resting on a slim vertical pole support on a wheeled base.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "remove-before-flight-tag",
+  "category": "aviation",
+  "draw": "Long rectangular streamer tag with a grommet hole at one end and bold lettering lines along it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "flight-strip",
+  "category": "aviation",
+  "draw": "Long narrow paper strip in a slotted plastic holder with columns of callsign and altitude text lines.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "air-traffic-control-console",
+  "category": "aviation",
+  "draw": "Desk console with two angled screens showing radar blips, a microphone arm and a headset on the desk.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "airspace-classes",
+  "category": "aviation",
+  "draw": "Side view of stepped airspace layers stacked like an upside down wedding cake above a small airport.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "restricted-airspace",
+  "category": "aviation",
+  "draw": "Map area bounded by a closed outline with short hatched ticks along the inside edge.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "no-fly-zone",
+  "category": "aviation",
+  "draw": "Dashed circle boundary with a small airplane outside it and a diagonal bar inside the circle.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "flight-plan",
+  "category": "aviation",
+  "draw": "Clipboard form with a small airplane at the top, boxes for route fields and a dotted line joining two dots.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "notam",
+  "category": "aviation",
+  "draw": "Sheet of paper with a warning triangle at the top and a small airplane beside several text lines.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "metar-report",
+  "category": "aviation",
+  "draw": "Paper strip with coded text lines and a cloud and wind barb symbol at the start.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "go-around",
+  "category": "aviation",
+  "draw": "Side view of an airplane just above a runway climbing away on a curved upward arrow path.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "touch-and-go",
+  "category": "aviation",
+  "draw": "Airplane path shown as a dashed line dipping down to touch a runway and rising again.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "crosswind-landing",
+  "category": "aviation",
+  "draw": "Airplane approaching a runway angled sideways into wind arrows coming from one side.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "mach-number",
+  "category": "aviation",
+  "draw": "Airplane nose with a cone shaped shock wave line and the letter M beside it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "flight-level",
+  "category": "aviation",
+  "draw": "Side view of an airplane flying along a horizontal dashed line with an altitude scale bar on the left.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "cabin-pressure",
+  "category": "aviation",
+  "draw": "Airplane fuselage outline with a pressure gauge dial in its center and inward arrows around it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "emergency-landing",
+  "category": "aviation",
+  "draw": "Airplane descending toward a runway with a small flame symbol on one engine and a curved approach arrow.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "ditching",
+  "category": "aviation",
+  "draw": "Airplane resting on water with its wings level and waves around the fuselage.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "mayday",
+  "category": "aviation",
+  "draw": "Microphone on a coiled cord with a large exclamation mark inside radio wave arcs.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "flight-diverted",
+  "category": "aviation",
+  "draw": "Airplane at the start of a dashed route that forks, with one branch crossed out and the other bending to a new pin.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "layover",
+  "category": "aviation",
+  "draw": "Two short flight arcs meeting at a map pin in the middle, with a small clock above the pin.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "red-eye-flight",
+  "category": "aviation",
+  "draw": "Airplane flying past a crescent moon with a few small stars around.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "frequent-flyer",
+  "category": "aviation",
+  "draw": "Membership card with a small airplane emblem and a row of stars along the bottom edge.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "seat-upgrade",
+  "category": "aviation",
+  "draw": "Airline seat with a thick upward arrow and a crown shaped top above it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "fragile-baggage-tag",
+  "category": "aviation",
+  "draw": "Luggage tag on a looped strap printed with a wine glass symbol.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "heavy-baggage-tag",
+  "category": "aviation",
+  "draw": "Luggage tag on a looped strap printed with a kettlebell weight symbol.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "bike-box",
+  "category": "aviation",
+  "draw": "Tall rectangular cardboard travel box with carry handle cutouts and a bicycle outline printed on its side.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "amenity-kit",
+  "category": "aviation",
+  "draw": "Small zipped pouch with a sleep mask, a toothbrush and a tiny tube peeking out of the top.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "regional-jet",
+  "category": "aviation",
+  "draw": "Side view of a slim airliner with two engines mounted on the rear fuselage and a high T-shaped tail.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "trijet",
+  "category": "aviation",
+  "draw": "Side view of an airliner with an engine under each wing and a third engine built into the base of the tail fin.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "bush-plane",
+  "category": "aviation",
+  "draw": "Side view of a high-wing single propeller plane with wing struts and oversized fat tundra tires.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "warbird",
+  "category": "aviation",
+  "draw": "Top view of a vintage single-seat propeller fighter with elliptical wings and a bubble canopy.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "twin-boom-aircraft",
+  "category": "aviation",
+  "draw": "Top view of a plane with a central pod and two long tail booms joined by a horizontal tail.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "ram-air-turbine",
+  "category": "aviation",
+  "draw": "Small two blade propeller on a strut lowered out of the belly of a fuselage.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "wingtip-vortex",
+  "category": "aviation",
+  "draw": "Wing tip seen from behind with a tight spiral of air curling off it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-galley",
+  "category": "aviation",
+  "draw": "Wall of stacked metal compartments with a trolley bay, a coffee maker and an oven door.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "floor-path-lighting",
+  "category": "aviation",
+  "draw": "Aircraft aisle floor seen in perspective with two rows of small glowing strip lights leading to an exit sign.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "prohibited-items",
+  "category": "aviation",
+  "draw": "Small group of scissors, a lighter and a bottle inside a circle with a diagonal bar.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "plane-spotting",
+  "category": "aviation",
+  "draw": "Person holding binoculars looking up at a small airplane flying overhead.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "baggage-handler",
+  "category": "aviation",
+  "draw": "Figure in ear defenders and a vest lifting a suitcase with both hands.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "pilot-logbook",
+  "category": "aviation",
+  "draw": "Hardcover book lying open with ruled columns and a small airplane emblem on the cover edge.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "pilot-license",
+  "category": "aviation",
+  "draw": "Identification card with a pair of wings emblem and a small portrait square.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "closed-runway-marking",
+  "category": "aviation",
+  "draw": "Top view of a runway strip with a large X painted across it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-stand",
+  "category": "aviation",
+  "draw": "Top view of an apron parking spot with a curved yellow lead-in line ending at a short stop bar and a number.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "visual-docking-guidance",
+  "category": "aviation",
+  "draw": "Rectangular display board on a wall showing a vertical distance bar and a centering arrow for a parking pilot.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "flight-simulator",
+  "category": "aviation",
+  "draw": "Enclosed box shaped cockpit capsule sitting on six angled hydraulic legs.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "four-forces-of-flight",
+  "category": "aviation",
+  "draw": "Small airplane with four arrows pointing up, down, forward and backward from its center.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "flight-booking",
+  "category": "aviation",
+  "draw": "Calendar page with a small airplane in one date square and a check tick.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-landing-light",
+  "category": "aviation",
+  "draw": "Front view of an airliner with two bright beams shining forward from its wing roots.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "afterburner",
+  "category": "aviation",
+  "draw": "Rear view of a round jet exhaust nozzle with petals and a long flame shooting out.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "safety-demonstration",
+  "category": "aviation",
+  "draw": "Flight attendant figure holding up an oxygen mask with one hand and a seatbelt buckle with the other.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "passenger-manifest",
+  "category": "aviation",
+  "draw": "Clipboard with a list of person icons in rows and a small airplane at the top.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "weight-and-balance",
+  "category": "aviation",
+  "draw": "Small airplane resting on a triangular fulcrum like a seesaw with a weight block on one side.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "boarding-pass-reader",
+  "category": "aviation",
+  "draw": "Pedestal scanner with a slanted glass window and a boarding pass hovering above it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "gate-podium",
+  "category": "aviation",
+  "draw": "Counter desk with a screen on top and a number sign on a post beside it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "traffic-pattern",
+  "category": "aviation",
+  "draw": "Top view of a runway with a rectangular circuit path drawn around it and an airplane on one leg.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "overhead-panel",
+  "category": "aviation",
+  "draw": "Ceiling panel seen from below filled with rows of small toggle switches and push buttons.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "baggage-claim-ticket",
+  "category": "aviation",
+  "draw": "Small sticker slip with a barcode and a tear-off stub attached to a boarding pass corner.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "damaged-baggage",
+  "category": "aviation",
+  "draw": "Hard shell suitcase with a zigzag crack across its face and a broken wheel.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "skydiver",
+  "category": "aviation",
+  "draw": "Figure in free fall seen from above, belly down with arms and legs spread and goggles on.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "formation-flight",
+  "category": "aviation",
+  "draw": "Three small jets flying in a V formation, each trailing a straight smoke line.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "balloon-burner",
+  "category": "aviation",
+  "draw": "Hot air balloon burner frame with coiled pipes and a tall flame rising above a basket rim.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "mooring-mast",
+  "category": "aviation",
+  "draw": "Tall lattice tower with the nose of a large airship attached to its top.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "pitch-roll-yaw",
+  "category": "aviation",
+  "draw": "Small airplane at the center of three curved arrows, one around each axis.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aisle-wheelchair",
+  "category": "aviation",
+  "draw": "Narrow upright transfer chair with a tall back, chest straps and small wheels, sized to fit an airplane aisle.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "in-flight-map",
+  "category": "aviation",
+  "draw": "Seatback screen showing a curved dashed arc between two dots with a small airplane partway along it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "fuel-dumping",
+  "category": "aviation",
+  "draw": "Airliner seen from below with two long spray trails coming out of its wing tips.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-lightning-strike",
+  "category": "aviation",
+  "draw": "Airliner in flight with a jagged lightning bolt touching its wing.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "barrel-roll",
+  "category": "aviation",
+  "draw": "Small airplane trailing a dashed corkscrew spiral path behind it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "laser-strike",
+  "category": "aviation",
+  "draw": "Airplane cockpit window with a thin straight laser beam hitting it from below and a small starburst at the impact.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "engine-fire-handle",
+  "category": "aviation",
+  "draw": "T-shaped pull handle in a cockpit panel with a small flame symbol on its grip.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "boarding-plane",
+  "category": "aviation",
+  "draw": "Person with a rolling bag climbing a set of air stairs up to an open aircraft door.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "running-to-gate",
+  "category": "aviation",
+  "draw": "Figure running while pulling a wheeled suitcase toward a gate sign with a small airplane.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "fear-of-flying",
+  "category": "aviation",
+  "draw": "Seated passenger gripping both armrests with a tense face and sweat drops beside the head.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aircraft-noise",
+  "category": "aviation",
+  "draw": "Low flying airplane above a house roof with sound wave arcs spreading down from it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aviation-obstruction-light",
+  "category": "aviation",
+  "draw": "Tall thin mast with a round red lamp at its very top and glow rays around it.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "baggage-chute",
+  "category": "aviation",
+  "draw": "Sloped slide chute with a suitcase sliding down it onto a round turntable.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "runway-end-identifier-lights",
+  "category": "aviation",
+  "draw": "Top view of a runway end with a pair of bright flashing lights flanking it on each side.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "aerotow",
+  "category": "aviation",
+  "draw": "Small propeller plane pulling a long-winged glider behind it on a thin tow rope.",
+  "domain": "r3-aviation-airport"
+ },
+ {
+  "name": "thermal-soaring",
+  "category": "aviation",
+  "draw": "Glider circling above spiraling upward arrows rising from warm ground.",
+  "domain": "r3-aviation-airport"
+ }
+]

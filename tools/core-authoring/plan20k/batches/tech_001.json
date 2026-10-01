@@ -1,0 +1,482 @@
+[
+ {
+  "name": "git-stash",
+  "category": "tech",
+  "draw": "Stack of three shallow drawer trays with a small commit dot being tucked into the top one.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-cherry-pick",
+  "category": "tech",
+  "draw": "Commit graph line of three dots with one dot plucked off to the side as a cherry on a stem.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-blame",
+  "category": "tech",
+  "draw": "Code lines with a small person head beside each line on the left margin.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-bisect",
+  "category": "tech",
+  "draw": "Vertical commit line cut through its midpoint by a short bar, with a magnifier over one half.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-submodule",
+  "category": "tech",
+  "draw": "Repository box containing a smaller nested repository box with a commit dot.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-worktree",
+  "category": "tech",
+  "draw": "One commit dot branching into two separate folder shapes below it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-tag-annotated",
+  "category": "tech",
+  "draw": "Commit dot on a line with a tag shape hanging from it holding two text lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-pull",
+  "category": "tech",
+  "draw": "Cloud outline at top with an arrow coming down onto a commit dot on a short line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-hook",
+  "category": "tech",
+  "draw": "Commit dot on a vertical line with a fishing hook hanging from it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-ignore-file",
+  "category": "tech",
+  "draw": "Document page with a slash-through circle in its lower corner and dotted text lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-log",
+  "category": "tech",
+  "draw": "Vertical line of commit dots, each with a short text line to its right.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "git-diff-split",
+  "category": "tech",
+  "draw": "Two side by side panes with minus signs on the left lines and plus signs on the right lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "pull-request-approved",
+  "category": "tech",
+  "draw": "Two commit dots joined by a curved branch line with a large check in a circle at the tip.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "patch-file",
+  "category": "tech",
+  "draw": "Document page with a stitched square patch sewn onto its center.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "monorepo",
+  "category": "tech",
+  "draw": "One large repository box containing a two by two grid of small package cubes.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "build-status",
+  "category": "tech",
+  "draw": "Hammer beside a round status light holding a check mark.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "nightly-build",
+  "category": "tech",
+  "draw": "Crescent moon over a small gear with a hammer head crossing it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "test-coverage",
+  "category": "tech",
+  "draw": "Page of code lines with a progress ring three quarters filled in the lower corner.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "end-to-end-test",
+  "category": "tech",
+  "draw": "Two small circles at the ends of a long horizontal line with a check mark in the middle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "smoke-test",
+  "category": "tech",
+  "draw": "Laptop with a wisp of smoke rising from its screen and a check mark beside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "load-test",
+  "category": "tech",
+  "draw": "Server box pressed under a heavy weight block marked with a small gauge needle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "test-case",
+  "category": "tech",
+  "draw": "Clipboard holding a single checkbox with a small flask on the clip.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "canary-deployment",
+  "category": "tech",
+  "draw": "Small songbird perched on top of a server box.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "blue-green-deployment",
+  "category": "tech",
+  "draw": "Two identical server boxes side by side with a toggle switch between them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "rolling-update",
+  "category": "tech",
+  "draw": "Row of three server boxes with a circular refresh arrow sweeping across their tops.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "feature-flag",
+  "category": "tech",
+  "draw": "Pennant flag on a pole with a toggle switch at the base of the pole.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "artifact-registry",
+  "category": "tech",
+  "draw": "Shelf holding three sealed boxes, each with a small hanging tag.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "cron-job",
+  "category": "tech",
+  "draw": "Clock face with a small gear overlapping its lower right.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "job-scheduler",
+  "category": "tech",
+  "draw": "Calendar page with a gear in its center and a clock hand on the gear.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "background-job",
+  "category": "tech",
+  "draw": "Gear drawn half hidden behind a window outline.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "worker-process",
+  "category": "tech",
+  "draw": "Gear with a small hard hat sitting on top of it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "daemon-process",
+  "category": "tech",
+  "draw": "Gear with two small horns and a pointed tail, a friendly background process.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "merge-queue",
+  "category": "tech",
+  "draw": "Three arrows lined up in single file converging into one line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "release-train",
+  "category": "tech",
+  "draw": "Small train engine pulling two carriages, each marked with a version tag.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "deployment-pipeline",
+  "category": "tech",
+  "draw": "Conveyor belt carrying a box toward a cloud at its far end.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "devops-loop",
+  "category": "tech",
+  "draw": "Infinity loop with a small gear on the left loop and a rocket on the right loop.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "build-cache",
+  "category": "tech",
+  "draw": "Box with a lightning bolt beside a stack of three layered disks.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-coverage-report",
+  "category": "tech",
+  "draw": "Page with three horizontal progress bars and a percentage sign.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "staging-environment",
+  "category": "tech",
+  "draw": "Theatre stage platform with side curtains and a server box standing on it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "dev-environment",
+  "category": "tech",
+  "draw": "Laptop with code brackets on the screen and a small wrench beside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "yaml-file",
+  "category": "tech",
+  "draw": "Document page with dash-prefixed lines stepping in by indentation.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "env-file",
+  "category": "tech",
+  "draw": "Document page with key equals value lines and a small padlock in the corner.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "container-file",
+  "category": "tech",
+  "draw": "Document page with a shipping container outline drawn on it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "script-file",
+  "category": "tech",
+  "draw": "Document page with a scroll curl at the top and code brackets in the middle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "shell-script",
+  "category": "tech",
+  "draw": "Document page with a chevron prompt and underscore cursor.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sql-file",
+  "category": "tech",
+  "draw": "Document page with a small database cylinder in its corner.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "xml-file",
+  "category": "tech",
+  "draw": "Document page with angle brackets and a slash inside.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "html-file",
+  "category": "tech",
+  "draw": "Document page with an angle bracket tag and an equals sign.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "css-file",
+  "category": "tech",
+  "draw": "Document page with a hash sign and a pair of curly braces.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-file",
+  "category": "tech",
+  "draw": "Document page with a folded corner and angle code brackets in the middle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "binary-file",
+  "category": "tech",
+  "draw": "Document page filled with two rows of ones and zeros.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "license-file",
+  "category": "tech",
+  "draw": "Document page with a small scale of justice on it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "lockfile",
+  "category": "tech",
+  "draw": "Document page with a padlock over a list of dependency lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "iso-image",
+  "category": "tech",
+  "draw": "Optical disc overlapping the corner of a document page.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "disk-image",
+  "category": "tech",
+  "draw": "Hard drive shape inside a dashed frame outline.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "microservices",
+  "category": "tech",
+  "draw": "Six small hexagons linked by short lines in a honeycomb cluster.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "monolithic-architecture",
+  "category": "tech",
+  "draw": "Single tall solid block divided by horizontal layer lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "service-mesh",
+  "category": "tech",
+  "draw": "Four small boxes at the corners, each linked to every other box by crossing lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sidecar-container",
+  "category": "tech",
+  "draw": "Large container box with a small container box attached to its side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "api-gateway",
+  "category": "tech",
+  "draw": "Archway gate with three lines fanning out behind it to small boxes.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "load-balancer",
+  "category": "tech",
+  "draw": "One circle at top splitting into three lines that lead to three boxes below.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "reverse-proxy",
+  "category": "tech",
+  "draw": "Globe on the left, a shield box in the middle and a server on the right joined by one line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "proxy-server",
+  "category": "tech",
+  "draw": "Server box standing between two person heads with a line passing through it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "content-delivery-network",
+  "category": "tech",
+  "draw": "Globe with four small server nodes placed around its outline.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "edge-computing",
+  "category": "tech",
+  "draw": "Cloud with a line dropping to a small chip at the edge of a network line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "event-bus",
+  "category": "tech",
+  "draw": "Horizontal bus bar with three short lines dropping down to small boxes.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "message-broker",
+  "category": "tech",
+  "draw": "Central hub box with envelopes arriving on the left and leaving on the right.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "pub-sub",
+  "category": "tech",
+  "draw": "Broadcast tower on the left sending arcs toward three small boxes on the right.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "event-stream",
+  "category": "tech",
+  "draw": "Wavy line carrying small square packets along its length.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "event-driven",
+  "category": "tech",
+  "draw": "Lightning bolt striking a small box that emits a ripple ring.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "client-server",
+  "category": "tech",
+  "draw": "Laptop on the left linked by a double line to a server tower on the right.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "peer-to-peer",
+  "category": "tech",
+  "draw": "Three laptops in a triangle, each connected to the other two.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "cache-memory",
+  "category": "tech",
+  "draw": "Chip outline with a lightning bolt in its center.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "rate-limiter",
+  "category": "tech",
+  "draw": "Funnel with a speedometer needle beside its spout.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "circuit-breaker-pattern",
+  "category": "tech",
+  "draw": "Service box with a broken chain link and a small lightning bolt.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "retry-policy",
+  "category": "tech",
+  "draw": "Circular arrow wrapped around the number three.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "request-timeout",
+  "category": "tech",
+  "draw": "Hourglass with a broken link chain beneath it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "callback-function",
+  "category": "tech",
+  "draw": "Function parentheses with a curved arrow looping back into them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "object-storage-bucket",
+  "category": "tech",
+  "draw": "Pail bucket holding three small cubes.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "cloud-database",
+  "category": "tech",
+  "draw": "Cloud outline with a database cylinder in front of its base.",
+  "domain": "dev-cloud-ai"
+ }
+]

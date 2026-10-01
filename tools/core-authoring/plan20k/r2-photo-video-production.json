@@ -1,0 +1,1092 @@
+[
+  {
+    "name": "dslr-camera",
+    "category": "production",
+    "draw": "Side-on camera body with a raised prism hump on top, a deep hand grip on the right and a large lens barrel at the front."
+  },
+  {
+    "name": "medium-format-camera",
+    "category": "production",
+    "draw": "Cube shaped camera body with a square lens at the front and an open waist level finder hood folded up on top."
+  },
+  {
+    "name": "point-and-shoot-camera",
+    "category": "production",
+    "draw": "Slim rectangular compact camera with a small retracting lens off center, a tiny flash window and a shutter button on top."
+  },
+  {
+    "name": "disposable-camera",
+    "category": "production",
+    "draw": "Plastic single use camera with a cardboard wrap band, a small fixed lens, a flash window and a ridged film advance wheel on top."
+  },
+  {
+    "name": "box-camera",
+    "category": "production",
+    "draw": "Simple upright box camera with a small round lens low on the front, a carrying handle on top and a winding key on the side."
+  },
+  {
+    "name": "cinema-camera",
+    "category": "production",
+    "draw": "Boxy digital cinema camera with a top carry handle, a large lens and a small flip out monitor on the side."
+  },
+  {
+    "name": "hand-crank-film-camera",
+    "category": "production",
+    "draw": "Early wooden film camera on a tall tripod with a crank handle on its side and a round lens at the front."
+  },
+  {
+    "name": "camera-film-magazine",
+    "category": "production",
+    "draw": "Figure eight film magazine with two round lobes side by side seated on top of a small camera body."
+  },
+  {
+    "name": "wide-angle-lens",
+    "category": "production",
+    "draw": "Short lens barrel seen from the side with a large bulging curved front element wider than its body."
+  },
+  {
+    "name": "zoom-lens",
+    "category": "production",
+    "draw": "Long lens barrel with a ribbed zoom ring and a row of focal length tick marks along its side."
+  },
+  {
+    "name": "tilt-shift-lens",
+    "category": "production",
+    "draw": "Lens barrel with its front half visibly tilted at an angle on a hinge and a small adjustment knob."
+  },
+  {
+    "name": "anamorphic-lens",
+    "category": "production",
+    "draw": "Front view of a lens with an oval horizontally stretched glass element and a horizontal streak across it."
+  },
+  {
+    "name": "pancake-lens",
+    "category": "production",
+    "draw": "Very thin flat disc shaped lens mounted on the front of a small camera body."
+  },
+  {
+    "name": "cine-lens",
+    "category": "production",
+    "draw": "Cylindrical cinema lens with two toothed gear rings around its barrel and a flat front."
+  },
+  {
+    "name": "lens-mount",
+    "category": "production",
+    "draw": "Front view of a round camera mount opening with three bayonet tabs around the rim and a small locking pin."
+  },
+  {
+    "name": "extension-tube",
+    "category": "production",
+    "draw": "Hollow open cylinder with mounting rings at both ends placed between a camera body and a lens."
+  },
+  {
+    "name": "lens-adapter",
+    "category": "production",
+    "draw": "Short ring shaped adapter with a different sized bayonet on each face, shown at an angle."
+  },
+  {
+    "name": "teleconverter",
+    "category": "production",
+    "draw": "Short stubby cylinder with a small glass element visible in its center, fitted between a lens and a camera."
+  },
+  {
+    "name": "polarizing-filter",
+    "category": "production",
+    "draw": "Round screw on filter with an outer rotating ring and parallel diagonal lines across the glass."
+  },
+  {
+    "name": "graduated-filter",
+    "category": "production",
+    "draw": "Square filter plate with the top half filled dark and the bottom half clear, blending at a soft middle line."
+  },
+  {
+    "name": "nd-filter",
+    "category": "production",
+    "draw": "Round screw on filter whose glass is filled solid dark with a small light glint line."
+  },
+  {
+    "name": "matte-box",
+    "category": "production",
+    "draw": "Rectangular hood with hinged flaps on top and sides mounted on rails in front of a camera lens."
+  },
+  {
+    "name": "follow-focus",
+    "category": "production",
+    "draw": "Small side box with a large round knob and a toothed gear that meshes with a lens gear ring."
+  },
+  {
+    "name": "lens-flare",
+    "category": "production",
+    "draw": "Bright star burst in a corner with a diagonal line of small circles and hexagons of different sizes."
+  },
+  {
+    "name": "lens-cleaning-pen",
+    "category": "production",
+    "draw": "Pen shaped tool with a soft brush sticking out of one end and a round felt tip on the other."
+  },
+  {
+    "name": "chromatic-aberration",
+    "category": "production",
+    "draw": "Circle outline drawn twice slightly offset so a thin double edge fringe shows on one side."
+  },
+  {
+    "name": "barrel-distortion",
+    "category": "production",
+    "draw": "Square grid whose lines bulge outward toward the edges like the surface of a barrel."
+  },
+  {
+    "name": "field-of-view",
+    "category": "production",
+    "draw": "Small camera on the left with two lines spreading into a wide cone and an arc marking the angle."
+  },
+  {
+    "name": "rack-focus",
+    "category": "production",
+    "draw": "Two figures one behind the other, the near one solid and the far one dashed, with a focus ring arrow between them."
+  },
+  {
+    "name": "focus-peaking",
+    "category": "production",
+    "draw": "Flower outline in a viewfinder frame with its edges traced by a row of small bright dots."
+  },
+  {
+    "name": "focus-stacking",
+    "category": "production",
+    "draw": "Three slightly offset stacked layers each showing part of a small flower, merging into one sharp flower."
+  },
+  {
+    "name": "camera-strap",
+    "category": "production",
+    "draw": "Camera body with a wide padded strap looping up above it in a U shape."
+  },
+  {
+    "name": "hot-shoe",
+    "category": "production",
+    "draw": "Close view of the top of a camera with a flat rectangular metal slot rail and a center contact dot."
+  },
+  {
+    "name": "camera-mode-dial",
+    "category": "production",
+    "draw": "Round ridged dial seen from above with letters around its edge and a small pointer notch."
+  },
+  {
+    "name": "articulating-screen",
+    "category": "production",
+    "draw": "Camera body seen from the back with its screen swung out to the side on a hinge and tilted."
+  },
+  {
+    "name": "camera-rain-cover",
+    "category": "production",
+    "draw": "Camera and lens wrapped in a loose hooded plastic sleeve with a few rain drops falling on top."
+  },
+  {
+    "name": "camera-cage",
+    "category": "production",
+    "draw": "Camera body enclosed by a rectangular metal frame with a top handle and small mounting holes."
+  },
+  {
+    "name": "quick-release-plate",
+    "category": "production",
+    "draw": "Flat rectangular plate with a captive screw on top and a slanted dovetail edge on each side."
+  },
+  {
+    "name": "camera-brick-battery",
+    "category": "production",
+    "draw": "Large rectangular brick battery with a row of level indicator bars and a tapered mounting plate on its back."
+  },
+  {
+    "name": "star-test-chart",
+    "category": "production",
+    "draw": "Square focus chart with a round star of alternating black and white wedges meeting in the center."
+  },
+  {
+    "name": "crop-factor",
+    "category": "production",
+    "draw": "Two nested rectangles, a large outer frame and a smaller inner frame, with a small diagonal arrow between their corners."
+  },
+  {
+    "name": "image-sensor",
+    "category": "production",
+    "draw": "Square chip with a fine grid of pixels in the middle and short pins along its edges."
+  },
+  {
+    "name": "slr-cross-section",
+    "category": "production",
+    "draw": "Cross section of a camera with a lens, an angled mirror inside and a triangular prism on top leading to an eyepiece."
+  },
+  {
+    "name": "smartphone-video-rig",
+    "category": "production",
+    "draw": "Phone held horizontally in a handled frame with a small microphone and a light mounted on top."
+  },
+  {
+    "name": "phone-clip-lens",
+    "category": "production",
+    "draw": "Phone corner with a small clip on lens attached over its camera."
+  },
+  {
+    "name": "dashcam",
+    "category": "production",
+    "draw": "Small camera with a lens hanging from a windshield mount behind a curved glass line."
+  },
+  {
+    "name": "shoulder-rig",
+    "category": "production",
+    "draw": "Camera on rails over a curved shoulder pad with two forward hand grips below."
+  },
+  {
+    "name": "camera-stabilizer-vest",
+    "category": "production",
+    "draw": "Upper body vest with an articulated spring arm holding a camera on a vertical post with a weight at the bottom."
+  },
+  {
+    "name": "dolly-track",
+    "category": "production",
+    "draw": "Short section of straight track with rails and cross ties and a small wheeled platform carrying a camera."
+  },
+  {
+    "name": "suction-cup-mount",
+    "category": "production",
+    "draw": "Large round suction cup pad with a short articulated arm holding a small camera."
+  },
+  {
+    "name": "cable-cam",
+    "category": "production",
+    "draw": "Camera hanging from a small carriage on four cables stretched from high corner posts."
+  },
+  {
+    "name": "camera-car",
+    "category": "production",
+    "draw": "Car side view with a long arm reaching out from its roof holding a camera ahead of the car."
+  },
+  {
+    "name": "robotic-camera-arm",
+    "category": "production",
+    "draw": "Industrial robot arm on a round base with jointed segments holding a camera at its tip."
+  },
+  {
+    "name": "apple-box",
+    "category": "production",
+    "draw": "Wooden crate shaped box with a hand hole cut into each end, seen at an angle."
+  },
+  {
+    "name": "c-stand",
+    "category": "production",
+    "draw": "Stand with three staggered legs, a tall column and a horizontal arm with a knuckle clamp at the top."
+  },
+  {
+    "name": "copy-stand",
+    "category": "production",
+    "draw": "Flat baseboard with a vertical column holding a downward pointing camera and two lamps angled in from the sides."
+  },
+  {
+    "name": "photo-turntable",
+    "category": "production",
+    "draw": "Low round rotating platform with a small product box on top and a curved arrow around its edge."
+  },
+  {
+    "name": "star-tracker-mount",
+    "category": "production",
+    "draw": "Tripod top with a wedge shaped mount tilted toward a small star, holding a camera on a ball head."
+  },
+  {
+    "name": "fresnel-light",
+    "category": "production",
+    "draw": "Stage light housing with a round stepped ring lens on its front and hinged barn door flaps."
+  },
+  {
+    "name": "ellipsoidal-spotlight",
+    "category": "production",
+    "draw": "Long narrow spotlight barrel with a lens tube in front, shutter handles sticking out and a yoke underneath."
+  },
+  {
+    "name": "moving-head-light",
+    "category": "production",
+    "draw": "Round light head on a U shaped yoke above a square base, with a narrow beam coming out."
+  },
+  {
+    "name": "follow-spot",
+    "category": "production",
+    "draw": "Long cylindrical spotlight on a tall stand with a rear handle and a single narrow beam."
+  },
+  {
+    "name": "footlights",
+    "category": "production",
+    "draw": "Row of small hooded lamps along the front edge of a stage floor shining upward."
+  },
+  {
+    "name": "lighting-console",
+    "category": "production",
+    "draw": "Sloped control desk with a row of vertical fader sliders and a small screen above them."
+  },
+  {
+    "name": "lighting-plot",
+    "category": "production",
+    "draw": "Top down stage outline with small light symbols arranged on bars above it."
+  },
+  {
+    "name": "gobo",
+    "category": "production",
+    "draw": "Round metal disc with a cut out leaf pattern and the same pattern projected as light on a floor."
+  },
+  {
+    "name": "lighting-gel",
+    "category": "production",
+    "draw": "Stage lamp with a colored square filter sheet held in a slotted frame at its front."
+  },
+  {
+    "name": "snoot",
+    "category": "production",
+    "draw": "Light head with a long narrowing tube attached to its front producing a small round spot."
+  },
+  {
+    "name": "honeycomb-grid",
+    "category": "production",
+    "draw": "Round disc filled with a hexagonal honeycomb pattern fitted over a light reflector."
+  },
+  {
+    "name": "lantern-softbox",
+    "category": "production",
+    "draw": "Round paper lantern shaped ball light hanging from the end of a long pole."
+  },
+  {
+    "name": "lighting-flag",
+    "category": "production",
+    "draw": "Black rectangular panel on an arm clamped to a stand, blocking part of a light beam."
+  },
+  {
+    "name": "butterfly-frame",
+    "category": "production",
+    "draw": "Large square fabric frame held overhead on two tall stands, with sunlight rays above it."
+  },
+  {
+    "name": "cucoloris",
+    "category": "production",
+    "draw": "Board with irregular cut out holes held in front of a light, casting a dappled pattern below."
+  },
+  {
+    "name": "studio-strobe",
+    "category": "production",
+    "draw": "Cylindrical studio flash head with a round reflector bowl and a small cooling vent on its back, on a stand."
+  },
+  {
+    "name": "flash-diffuser",
+    "category": "production",
+    "draw": "Hot shoe flash unit with a rounded translucent dome cap on its head."
+  },
+  {
+    "name": "led-light-tube",
+    "category": "production",
+    "draw": "Slim handheld light wand tube with a glowing length and a small end cap, held vertically."
+  },
+  {
+    "name": "audience-blinder",
+    "category": "production",
+    "draw": "Rectangular panel with a two by two grid of round bright lamps and rays shining outward."
+  },
+  {
+    "name": "blacklight",
+    "category": "production",
+    "draw": "Long fluorescent tube in a fixture with short wavy lines radiating from it."
+  },
+  {
+    "name": "three-point-lighting",
+    "category": "production",
+    "draw": "Top down diagram with a person circle in the center and three lamp shapes placed around it."
+  },
+  {
+    "name": "split-lighting",
+    "category": "production",
+    "draw": "Face outline split down the middle with one half filled solid and the other half left open."
+  },
+  {
+    "name": "catchlight",
+    "category": "production",
+    "draw": "Eye with a small square window shaped highlight reflected in its pupil."
+  },
+  {
+    "name": "color-temperature",
+    "category": "production",
+    "draw": "Horizontal gradient scale from a flame on one end to a snowflake on the other with a pointer on it."
+  },
+  {
+    "name": "flash-powder-lamp",
+    "category": "production",
+    "draw": "Handheld T shaped flash pan raised on a stick with a puff of smoke and a flash burst above it."
+  },
+  {
+    "name": "orchestra-pit",
+    "category": "production",
+    "draw": "Stage edge in front view with a sunken pit below it holding a conductor with a raised baton."
+  },
+  {
+    "name": "theater-box-seat",
+    "category": "production",
+    "draw": "Curved balcony box with a draped curtain top and two small seated figures looking out."
+  },
+  {
+    "name": "ghost-light",
+    "category": "production",
+    "draw": "Single bare light bulb in a wire cage on top of a tall stand on an empty stage floor."
+  },
+  {
+    "name": "stage-flat",
+    "category": "production",
+    "draw": "Rectangular scenery panel seen from the back showing its wooden frame and a diagonal support brace."
+  },
+  {
+    "name": "stage-fly-system",
+    "category": "production",
+    "draw": "Pulley at the top with a rope running down to a hanging scenery batten and a counterweight on the other side."
+  },
+  {
+    "name": "revolving-stage",
+    "category": "production",
+    "draw": "Round stage platform drawn in perspective with a curved rotation arrow around its edge."
+  },
+  {
+    "name": "theater-in-the-round",
+    "category": "production",
+    "draw": "Top down circular stage surrounded by rings of curved seat rows on all sides."
+  },
+  {
+    "name": "prompt-box",
+    "category": "production",
+    "draw": "Small hooded box at the front center edge of a stage with a script page peeking out."
+  },
+  {
+    "name": "wig-head",
+    "category": "production",
+    "draw": "Rounded mannequin head on a short stand wearing a full curly wig."
+  },
+  {
+    "name": "costume-rack",
+    "category": "production",
+    "draw": "Rolling clothes rail on wheels with several hanging costumes including a cape and a dress."
+  },
+  {
+    "name": "spike-mark",
+    "category": "production",
+    "draw": "Floor seen from above with a T shaped tape mark and a small footprint next to it."
+  },
+  {
+    "name": "surtitle-screen",
+    "category": "production",
+    "draw": "Wide narrow text screen hanging above a stage opening with two short lines of text."
+  },
+  {
+    "name": "thunder-sheet",
+    "category": "production",
+    "draw": "Large thin metal sheet hanging from a bar with wavy wobble lines and a jagged bolt beside it."
+  },
+  {
+    "name": "wind-machine",
+    "category": "production",
+    "draw": "Slatted wooden drum covered by fabric on a stand with a crank handle on its side."
+  },
+  {
+    "name": "slapstick",
+    "category": "production",
+    "draw": "Two flat wooden paddles joined at the handle and spread apart at the tip like a hinged bat."
+  },
+  {
+    "name": "vaudeville-hook",
+    "category": "production",
+    "draw": "Long cane with a large curved hook reaching out from the side of a curtain."
+  },
+  {
+    "name": "stagebox",
+    "category": "production",
+    "draw": "Metal box with a grid of round connector sockets on its face and a thick cable leaving from one side."
+  },
+  {
+    "name": "in-ear-monitor",
+    "category": "production",
+    "draw": "Custom molded earpiece with a thin cable looping down behind an ear outline."
+  },
+  {
+    "name": "line-array-speaker",
+    "category": "production",
+    "draw": "Vertical curved stack of flat speaker boxes hanging from a rigging bar."
+  },
+  {
+    "name": "snow-machine",
+    "category": "production",
+    "draw": "Box machine on a stand blowing a spray of small snowflakes out of its front nozzle."
+  },
+  {
+    "name": "confetti-cannon",
+    "category": "production",
+    "draw": "Handheld tube cannon angled upward bursting out a spray of small confetti pieces."
+  },
+  {
+    "name": "stage-pyrotechnics",
+    "category": "production",
+    "draw": "Row of small floor boxes along a stage edge each shooting a tall column of flame and sparks."
+  },
+  {
+    "name": "projection-mapping",
+    "category": "production",
+    "draw": "Building facade with a projector beam from the side and a geometric pattern painted across the facade."
+  },
+  {
+    "name": "hologram-display",
+    "category": "production",
+    "draw": "Round base emitting upward light lines with a translucent figure floating above it."
+  },
+  {
+    "name": "tally-light",
+    "category": "production",
+    "draw": "Studio camera with a small lamp on top shining bright with short rays to show it is live."
+  },
+  {
+    "name": "studio-clock",
+    "category": "production",
+    "draw": "Round clock face with a ring of dots marking seconds and a digital time readout in its center."
+  },
+  {
+    "name": "lower-third",
+    "category": "production",
+    "draw": "Screen frame with a person silhouette and a name banner bar across the lower third of the frame."
+  },
+  {
+    "name": "mic-flag",
+    "category": "production",
+    "draw": "Handheld microphone with a square cube flag fitted around its shaft just below the grille."
+  },
+  {
+    "name": "talk-show-set",
+    "category": "production",
+    "draw": "Desk on the left and a two seat sofa on the right in front of a city skyline backdrop."
+  },
+  {
+    "name": "cue-light",
+    "category": "production",
+    "draw": "Small box on a stand with one lamp lit and a push button below it."
+  },
+  {
+    "name": "news-helicopter",
+    "category": "production",
+    "draw": "Helicopter side view with a round camera gimbal ball mounted under its nose."
+  },
+  {
+    "name": "telestrator",
+    "category": "production",
+    "draw": "TV screen showing a player dot with a hand drawn curved arrow and circle drawn over it."
+  },
+  {
+    "name": "instant-replay",
+    "category": "production",
+    "draw": "Screen with a play triangle inside a circular counterclockwise rewind arrow."
+  },
+  {
+    "name": "field-reporter",
+    "category": "production",
+    "draw": "Person holding a handheld microphone facing forward inside a camera viewfinder frame."
+  },
+  {
+    "name": "sound-cart",
+    "category": "production",
+    "draw": "Wheeled cart with an audio mixer on its top shelf, an antenna pole and a small screen."
+  },
+  {
+    "name": "shot-list",
+    "category": "production",
+    "draw": "Clipboard with a numbered list, each line beginning with a small camera symbol."
+  },
+  {
+    "name": "director-viewfinder",
+    "category": "production",
+    "draw": "Small handheld viewfinder tube with a rectangular eyepiece hanging from a neck cord."
+  },
+  {
+    "name": "film-can",
+    "category": "production",
+    "draw": "Round flat metal film tin with a lid and a label strip across the top, seen at an angle."
+  },
+  {
+    "name": "film-platter",
+    "category": "production",
+    "draw": "Tall stand holding three large horizontal film platters stacked one above another."
+  },
+  {
+    "name": "flatbed-film-editor",
+    "category": "production",
+    "draw": "Table top editing machine with two flat film reels on each side and a small viewing screen in the middle."
+  },
+  {
+    "name": "film-trim-bin",
+    "category": "production",
+    "draw": "Canvas bin on a frame with a rack of pins above it and strips of film hanging down into it."
+  },
+  {
+    "name": "film-rewinder",
+    "category": "production",
+    "draw": "Bench mounted crank arm with a film reel on its spindle and a curved rotation arrow."
+  },
+  {
+    "name": "jog-shuttle-wheel",
+    "category": "production",
+    "draw": "Round editing controller with a large outer spring ring around an inner dimpled jog wheel."
+  },
+  {
+    "name": "movie-poster",
+    "category": "production",
+    "draw": "Tall portrait poster with a figure silhouette, a title bar at the top and small credit lines at the bottom."
+  },
+  {
+    "name": "intertitle-card",
+    "category": "production",
+    "draw": "Ornate rectangular frame with decorative corners and two lines of centered text inside."
+  },
+  {
+    "name": "close-up-shot",
+    "category": "production",
+    "draw": "Viewfinder frame with a head and shoulders filling almost the whole frame."
+  },
+  {
+    "name": "extreme-close-up-shot",
+    "category": "production",
+    "draw": "Viewfinder frame filled edge to edge by a single eye."
+  },
+  {
+    "name": "wide-shot",
+    "category": "production",
+    "draw": "Viewfinder frame with a small full body figure standing on a ground line with space all around."
+  },
+  {
+    "name": "medium-shot",
+    "category": "production",
+    "draw": "Viewfinder frame showing a figure from the waist up."
+  },
+  {
+    "name": "two-shot",
+    "category": "production",
+    "draw": "Viewfinder frame with two figures from the waist up standing side by side."
+  },
+  {
+    "name": "over-the-shoulder-shot",
+    "category": "production",
+    "draw": "Viewfinder frame with the back of a large head and shoulder in the corner facing a smaller figure."
+  },
+  {
+    "name": "point-of-view-shot",
+    "category": "production",
+    "draw": "Eye outline on the left with a viewfinder frame in front of it showing two hands reaching forward."
+  },
+  {
+    "name": "dutch-angle",
+    "category": "production",
+    "draw": "Viewfinder frame with a building and horizon line inside tilted at a strong diagonal."
+  },
+  {
+    "name": "overhead-shot",
+    "category": "production",
+    "draw": "Viewfinder frame looking straight down on the top of a head and shoulders from above."
+  },
+  {
+    "name": "dolly-zoom",
+    "category": "production",
+    "draw": "Three nested frames of shrinking size around a figure with a camera on a track below."
+  },
+  {
+    "name": "tracking-shot",
+    "category": "production",
+    "draw": "Camera on a small wheeled dolly following behind a walking figure with motion lines."
+  },
+  {
+    "name": "establishing-shot",
+    "category": "production",
+    "draw": "Wide viewfinder frame showing a skyline of buildings with a small title bar in the corner."
+  },
+  {
+    "name": "panning-shot",
+    "category": "production",
+    "draw": "Sharp car in the center of a frame with horizontal streak lines behind it."
+  },
+  {
+    "name": "razor-edit-tool",
+    "category": "production",
+    "draw": "Timeline clip bar with a razor blade cutting a vertical line through its middle."
+  },
+  {
+    "name": "trim-clip",
+    "category": "production",
+    "draw": "Timeline clip bar with a thick square bracket handle gripping one of its ends."
+  },
+  {
+    "name": "dissolve-transition",
+    "category": "production",
+    "draw": "Two overlapping clip rectangles with a crossing X of fading lines in their overlap."
+  },
+  {
+    "name": "wipe-transition",
+    "category": "production",
+    "draw": "Frame split by a diagonal edge with one side filled solid and a small arrow across the edge."
+  },
+  {
+    "name": "fade-to-black",
+    "category": "production",
+    "draw": "Row of three frames going from open to half filled to fully filled solid."
+  },
+  {
+    "name": "split-edit",
+    "category": "production",
+    "draw": "Two stacked timeline tracks, video above and audio below, with the audio cut offset from the video cut."
+  },
+  {
+    "name": "multicam-edit",
+    "category": "production",
+    "draw": "Two by two grid of camera frames with one frame outlined thick as the active angle."
+  },
+  {
+    "name": "render-queue",
+    "category": "production",
+    "draw": "Stack of three film frames with a horizontal progress bar beneath them."
+  },
+  {
+    "name": "in-out-points",
+    "category": "production",
+    "draw": "Timeline ruler with a left bracket and a matching right bracket marking a span between them."
+  },
+  {
+    "name": "timeline-marker",
+    "category": "production",
+    "draw": "Timeline ruler with a small pentagon marker flag and a thin line dropping down from it."
+  },
+  {
+    "name": "speed-ramp",
+    "category": "production",
+    "draw": "Film strip along the bottom with a curve above it rising steeply then flattening."
+  },
+  {
+    "name": "freeze-frame",
+    "category": "production",
+    "draw": "Single film frame with a snowflake in its center."
+  },
+  {
+    "name": "video-stabilization",
+    "category": "production",
+    "draw": "Camera with a wavy line entering on one side and a straight line leaving on the other."
+  },
+  {
+    "name": "motion-tracking",
+    "category": "production",
+    "draw": "Crosshair target square on a moving dot with a trail of smaller dots behind it."
+  },
+  {
+    "name": "rotoscoping",
+    "category": "production",
+    "draw": "Figure silhouette traced by a dashed outline with small square anchor points along it."
+  },
+  {
+    "name": "lut-cube",
+    "category": "production",
+    "draw": "Three dimensional cube with a graded shade across its faces and a small grid on one side."
+  },
+  {
+    "name": "vectorscope",
+    "category": "production",
+    "draw": "Round scope display with a crosshair, six small target boxes around the circle and a blob in the center."
+  },
+  {
+    "name": "title-safe-area",
+    "category": "production",
+    "draw": "Screen rectangle with two nested dashed rectangles inside and short text lines in the middle."
+  },
+  {
+    "name": "letterboxed-video",
+    "category": "production",
+    "draw": "Screen with solid black bars across the top and bottom and a wide play frame between them."
+  },
+  {
+    "name": "zebra-stripes-warning",
+    "category": "production",
+    "draw": "Viewfinder frame with a patch of diagonal stripes over a bright area and a small sun."
+  },
+  {
+    "name": "frame-rate",
+    "category": "production",
+    "draw": "Film strip of three frames with a small speedometer gauge overlapping the corner."
+  },
+  {
+    "name": "4k-video",
+    "category": "production",
+    "draw": "Screen outline with the text 4K centered inside it."
+  },
+  {
+    "name": "hdr-video",
+    "category": "production",
+    "draw": "Screen outline with the text HDR centered inside it and a small sun above."
+  },
+  {
+    "name": "auto-reframe",
+    "category": "production",
+    "draw": "Wide landscape frame with a tall vertical frame inside it centered on a person silhouette."
+  },
+  {
+    "name": "scene-detection",
+    "category": "production",
+    "draw": "Film strip with small scissor cut marks between some frames and a sparkle above."
+  },
+  {
+    "name": "dubbing",
+    "category": "production",
+    "draw": "Studio microphone facing a screen that shows a speaking face with a speech bubble."
+  },
+  {
+    "name": "lip-sync-chart",
+    "category": "production",
+    "draw": "Grid of six small mouth shapes, each open to a different shape."
+  },
+  {
+    "name": "thaumatrope",
+    "category": "production",
+    "draw": "Round disc on a twisted string with a bird on one face and a cage outline visible behind."
+  },
+  {
+    "name": "phenakistoscope",
+    "category": "production",
+    "draw": "Round disc with slots around its rim and a ring of small figures in sequence, on a handle."
+  },
+  {
+    "name": "kinetoscope",
+    "category": "production",
+    "draw": "Tall wooden cabinet with a peephole viewer on top and a crank on its side."
+  },
+  {
+    "name": "animation-cel",
+    "category": "production",
+    "draw": "Clear rectangular sheet with peg holes along the top and a character outline painted on it."
+  },
+  {
+    "name": "onion-skinning",
+    "category": "production",
+    "draw": "A figure drawn solid with two faded dashed copies of it offset behind."
+  },
+  {
+    "name": "tweening",
+    "category": "production",
+    "draw": "Two solid key poses of a ball at either end with small faded balls in a row between them."
+  },
+  {
+    "name": "walk-cycle",
+    "category": "production",
+    "draw": "Row of four small figure poses showing the stages of a walking step."
+  },
+  {
+    "name": "bouncing-ball-animation",
+    "category": "production",
+    "draw": "Ball squashed flat on a ground line with a dotted arc path of balls rising away from it."
+  },
+  {
+    "name": "character-turnaround",
+    "category": "production",
+    "draw": "Three simple figure outlines side by side showing front, side and back views."
+  },
+  {
+    "name": "character-rig",
+    "category": "production",
+    "draw": "Figure outline with a skeleton of straight bones joined by round joint dots inside it."
+  },
+  {
+    "name": "motion-capture-suit",
+    "category": "production",
+    "draw": "Standing figure in a tight suit with small round marker dots on its joints."
+  },
+  {
+    "name": "facial-capture-helmet",
+    "category": "production",
+    "draw": "Head wearing a helmet with a thin boom arm holding a tiny camera in front of the face."
+  },
+  {
+    "name": "led-volume-stage",
+    "category": "production",
+    "draw": "Curved wall of screen panels showing mountains, with a small camera on a tripod in front."
+  },
+  {
+    "name": "photogrammetry-scan",
+    "category": "production",
+    "draw": "Small object in the center with a ring of small cameras around it pointing inward."
+  },
+  {
+    "name": "exposure-triangle",
+    "category": "production",
+    "draw": "Triangle with an aperture iris at one corner, a shutter speed dial at another and the text ISO at the third."
+  },
+  {
+    "name": "iso-sensitivity",
+    "category": "production",
+    "draw": "Rounded rectangle badge with the text ISO and small grain dots beneath."
+  },
+  {
+    "name": "exposure-bracketing",
+    "category": "production",
+    "draw": "Three overlapping photo frames fanned out, marked with minus, zero and plus."
+  },
+  {
+    "name": "burst-mode",
+    "category": "production",
+    "draw": "Stack of many overlapping photo frames offset in a row with short motion lines."
+  },
+  {
+    "name": "high-speed-photography",
+    "category": "production",
+    "draw": "Milk drop crown splash with droplets rising above a flat surface."
+  },
+  {
+    "name": "light-leak",
+    "category": "production",
+    "draw": "Photo frame with a large soft glowing blob spilling in from one corner edge."
+  },
+  {
+    "name": "film-grain",
+    "category": "production",
+    "draw": "Photo frame filled with an even speckle of small dots of different sizes."
+  },
+  {
+    "name": "sepia-tone",
+    "category": "production",
+    "draw": "Photo frame with a mountain scene and a small brown tint drop beside it."
+  },
+  {
+    "name": "moire-pattern",
+    "category": "production",
+    "draw": "Two sets of fine curved line patterns overlapping to form wavy interference bands."
+  },
+  {
+    "name": "rolling-shutter-distortion",
+    "category": "production",
+    "draw": "Propeller with its blades bent into curved bananas inside a camera frame."
+  },
+  {
+    "name": "motion-photo",
+    "category": "production",
+    "draw": "Photo frame with a small play circle in its corner and concentric rings behind it."
+  },
+  {
+    "name": "night-mode-photo",
+    "category": "production",
+    "draw": "Camera outline with a crescent moon and a small star inside its lens."
+  },
+  {
+    "name": "photo-filters",
+    "category": "production",
+    "draw": "Three overlapping circles forming a Venn shape over a small photo frame."
+  },
+  {
+    "name": "switch-camera",
+    "category": "production",
+    "draw": "Camera outline with two curved arrows chasing each other in a circle inside its body."
+  },
+  {
+    "name": "photo-collage",
+    "category": "production",
+    "draw": "Rectangular frame divided into several irregular photo panels of different sizes."
+  },
+  {
+    "name": "eye-autofocus",
+    "category": "production",
+    "draw": "Eye outline with four corner focus brackets around it."
+  },
+  {
+    "name": "red-eye-reduction",
+    "category": "production",
+    "draw": "Eye with a filled pupil and a small lightning flash crossed through beside it."
+  },
+  {
+    "name": "dodge-and-burn",
+    "category": "production",
+    "draw": "Two tools side by side, a round paddle on a stick and a hand shape with a hole in its palm."
+  },
+  {
+    "name": "clone-stamp-tool",
+    "category": "production",
+    "draw": "Rubber stamp tool shape with a small crosshair target beside it."
+  },
+  {
+    "name": "curves-adjustment",
+    "category": "production",
+    "draw": "Square graph with a light grid and an S shaped curve running from bottom left to top right."
+  },
+  {
+    "name": "levels-adjustment",
+    "category": "production",
+    "draw": "Histogram hill shape above a horizontal slider bar with three triangle handles."
+  },
+  {
+    "name": "noise-reduction",
+    "category": "production",
+    "draw": "Photo frame half filled with speckle dots and half smooth, with a small sweeping line between."
+  },
+  {
+    "name": "darkroom-tray",
+    "category": "production",
+    "draw": "Shallow rectangular tray seen at an angle holding a photo print in liquid with tongs resting on the rim."
+  },
+  {
+    "name": "film-changing-bag",
+    "category": "production",
+    "draw": "Flat lightproof bag with two sleeve openings on the sides for arms and a zipper on top."
+  },
+  {
+    "name": "slide-loupe",
+    "category": "production",
+    "draw": "Cone shaped magnifier standing on a small square slide, with a large eyepiece at the top."
+  },
+  {
+    "name": "medium-format-film-roll",
+    "category": "production",
+    "draw": "Short spool of film wrapped in backing paper with a tape tab holding the end, on a wide spool."
+  },
+  {
+    "name": "110-film-cartridge",
+    "category": "production",
+    "draw": "Flat plastic cartridge with two chambers linked by a narrow bridge showing a small film window."
+  },
+  {
+    "name": "sheet-film-holder",
+    "category": "production",
+    "draw": "Flat rectangular holder with a dark slide pulled halfway out of its end tab."
+  },
+  {
+    "name": "instant-film-pack",
+    "category": "production",
+    "draw": "Box pack of stacked instant photo prints with the top print sticking out of a slot."
+  },
+  {
+    "name": "daguerreotype",
+    "category": "production",
+    "draw": "Small hinged case opened like a book with an ornate oval frame holding a portrait on one side."
+  },
+  {
+    "name": "iris-transition",
+    "category": "production",
+    "draw": "Frame filled solid except for a small circle opening in the center showing a figure, like a closing iris."
+  },
+  {
+    "name": "rain-machine",
+    "category": "production",
+    "draw": "Tall stand holding a horizontal pipe bar that sprays rows of rain lines down onto the ground."
+  },
+  {
+    "name": "stunt-airbag",
+    "category": "production",
+    "draw": "Large puffy inflated cushion on the ground with a falling figure above it."
+  },
+  {
+    "name": "ptz-camera-controller",
+    "category": "production",
+    "draw": "Desk control panel with a tall joystick on the right and rows of small buttons and a tiny screen on the left."
+  },
+  {
+    "name": "sound-stage",
+    "category": "production",
+    "draw": "Large hangar shaped studio building with a big sliding door and a large number painted on its wall."
+  },
+  {
+    "name": "probe-lens",
+    "category": "production",
+    "draw": "Camera with a very long thin tube lens that bends to an angled tip at the end."
+  }
+]

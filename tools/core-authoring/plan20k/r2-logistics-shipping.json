@@ -1,0 +1,1022 @@
+[
+  {
+    "name": "reefer-container",
+    "category": "logistics",
+    "draw": "Side view of a shipping container with corrugated walls and a boxy refrigeration unit with a fan grille on one end."
+  },
+  {
+    "name": "open-top-container",
+    "category": "logistics",
+    "draw": "Shipping container at three quarters with no roof, bows of a tarp frame across the open top and cargo peeking out."
+  },
+  {
+    "name": "flat-rack-container",
+    "category": "logistics",
+    "draw": "Flat container base with tall end walls only at each end and a crate strapped on the open platform between them."
+  },
+  {
+    "name": "container-doors",
+    "category": "logistics",
+    "draw": "Rear view of a shipping container with two tall doors, four vertical locking bars and cam handles."
+  },
+  {
+    "name": "container-truck",
+    "category": "logistics",
+    "draw": "Side view of a semi truck cab pulling a skeletal chassis loaded with a corrugated shipping container."
+  },
+  {
+    "name": "container-spreader",
+    "category": "logistics",
+    "draw": "Crane spreader frame: a long horizontal beam hanging from cables with twistlock legs dropping at each corner."
+  },
+  {
+    "name": "terminal-tractor",
+    "category": "logistics",
+    "draw": "Short single-seat yard truck with a cab offset to one side and a raised fifth-wheel plate behind it."
+  },
+  {
+    "name": "swap-body",
+    "category": "logistics",
+    "draw": "Truck box body standing on four fold-down steel legs with no truck underneath."
+  },
+  {
+    "name": "x-ray-cargo-scanner",
+    "category": "logistics",
+    "draw": "Arched gantry frame over a truck with radiating scan lines passing through its cargo box."
+  },
+  {
+    "name": "container-yard",
+    "category": "logistics",
+    "draw": "Top-down grid of stacked shipping container blocks separated by lanes, with a small gantry crane over one row."
+  },
+  {
+    "name": "well-car",
+    "category": "logistics",
+    "draw": "Side view of a low-slung railcar with a dropped center well carrying two containers stacked on top of each other."
+  },
+  {
+    "name": "gondola-railcar",
+    "category": "logistics",
+    "draw": "Side view of a low open-top railcar with ribbed sides, heaped scrap or coal visible above the rim."
+  },
+  {
+    "name": "curtainsider-truck",
+    "category": "logistics",
+    "draw": "Side view of a truck trailer with a fabric curtain side shown in vertical folds and buckled straps along the bottom."
+  },
+  {
+    "name": "road-train",
+    "category": "logistics",
+    "draw": "Side view of a truck cab pulling three trailers in a long chain."
+  },
+  {
+    "name": "dry-bulk-trailer",
+    "category": "logistics",
+    "draw": "Side view of a tanker trailer with two or three V-shaped hopper cones hanging under a rounded tank."
+  },
+  {
+    "name": "tail-lift-truck",
+    "category": "logistics",
+    "draw": "Rear three-quarter view of a box truck with a flat lift platform lowered to the ground and a box on it."
+  },
+  {
+    "name": "truck-mounted-forklift",
+    "category": "logistics",
+    "draw": "Side view of a truck with a compact three-wheeled forklift clipped onto the rear of its bed."
+  },
+  {
+    "name": "knuckle-boom-truck",
+    "category": "logistics",
+    "draw": "Side view of a flatbed truck with a folded jointed crane arm mounted behind the cab lifting a pallet."
+  },
+  {
+    "name": "oversize-load",
+    "category": "logistics",
+    "draw": "Truck carrying a wide load, with a rectangular banner on its front bumper and two flags at the corners."
+  },
+  {
+    "name": "tachograph",
+    "category": "logistics",
+    "draw": "Rectangular in-dash recorder with a small display showing a steering wheel symbol and a card slot below."
+  },
+  {
+    "name": "nose-loading-freighter",
+    "category": "logistics",
+    "draw": "Front three-quarter view of a jumbo cargo jet with its nose cone swung upward and a pallet entering the opening."
+  },
+  {
+    "name": "cargo-dolly",
+    "category": "logistics",
+    "draw": "Airport cargo dolly: a flat roller-bed platform on four small wheels with a tow bar."
+  },
+  {
+    "name": "pack-mule",
+    "category": "logistics",
+    "draw": "Side view of a mule carrying bulging pannier bags and a tied bundle on its back."
+  },
+  {
+    "name": "handcart",
+    "category": "logistics",
+    "draw": "Two-wheeled flat pushcart with a wooden bed, a long handle and a stacked load of sacks."
+  },
+  {
+    "name": "reach-truck",
+    "category": "logistics",
+    "draw": "Side view of a narrow electric lift truck with outrigger legs forward, a tall mast and a stand-up operator cage."
+  },
+  {
+    "name": "order-picker",
+    "category": "logistics",
+    "draw": "Side view of a tall lift with an operator platform raised high up the mast next to a pallet shelf."
+  },
+  {
+    "name": "walkie-stacker",
+    "category": "logistics",
+    "draw": "Side view of a pedestrian pallet stacker with a mast, raised forks and a long steering tiller handle."
+  },
+  {
+    "name": "warehouse-robot",
+    "category": "logistics",
+    "draw": "Squat round-edged drive robot lifting a four-legged shelf pod from underneath."
+  },
+  {
+    "name": "palletizing-robot",
+    "category": "logistics",
+    "draw": "Industrial robot arm with a suction gripper placing a box onto a neat stack on a pallet."
+  },
+  {
+    "name": "vertical-lift-module",
+    "category": "logistics",
+    "draw": "Tall cabinet machine with a service window showing a tray of parts pulled out at waist height."
+  },
+  {
+    "name": "carton-flow-rack",
+    "category": "logistics",
+    "draw": "Side view of a shelf with sloped roller lanes, boxes sliding down toward the front picking face."
+  },
+  {
+    "name": "cantilever-rack",
+    "category": "logistics",
+    "draw": "Side view of a central upright column with long horizontal arms reaching out, holding pipes and lumber."
+  },
+  {
+    "name": "warehouse-mezzanine",
+    "category": "logistics",
+    "draw": "Raised steel platform on columns with a handrail and staircase, pallets stored underneath."
+  },
+  {
+    "name": "picking-cart",
+    "category": "logistics",
+    "draw": "Wheeled cart with a push handle and two shelves holding small labeled totes."
+  },
+  {
+    "name": "dock-leveler",
+    "category": "logistics",
+    "draw": "Side view of a hinged steel plate bridging a loading dock edge to the back of a trailer."
+  },
+  {
+    "name": "dock-shelter",
+    "category": "logistics",
+    "draw": "Front view of a loading door framed by thick padded curtains on three sides."
+  },
+  {
+    "name": "dock-bumper",
+    "category": "logistics",
+    "draw": "Thick rubber block with a laminated rib texture bolted to a wall plate."
+  },
+  {
+    "name": "yard-ramp",
+    "category": "logistics",
+    "draw": "Side view of a mobile steel ramp on wheels sloping up to the back of a trailer, with a forklift on it."
+  },
+  {
+    "name": "dock-plate",
+    "category": "logistics",
+    "draw": "Thin rectangular metal plate with a diamond tread pattern and two lifting handles along one edge."
+  },
+  {
+    "name": "telescopic-conveyor",
+    "category": "logistics",
+    "draw": "Side view of a nested stacked belt conveyor extending into the open back of a truck trailer."
+  },
+  {
+    "name": "ball-transfer-table",
+    "category": "logistics",
+    "draw": "Top view of a square table surface covered in a grid of small balls with a box resting on it."
+  },
+  {
+    "name": "parcel-sorter",
+    "category": "logistics",
+    "draw": "Top view of a conveyor line with angled branches splitting boxes toward several chutes."
+  },
+  {
+    "name": "drum-truck",
+    "category": "logistics",
+    "draw": "Two-wheeled hand truck with a curved cradle and a top hook holding a steel drum."
+  },
+  {
+    "name": "furniture-dolly",
+    "category": "logistics",
+    "draw": "Low square platform with carpeted edges on four caster wheels, seen at three quarters."
+  },
+  {
+    "name": "stair-climbing-hand-truck",
+    "category": "logistics",
+    "draw": "Side view of a hand truck with a three-wheeled triangular star cluster at the bottom and a box on it."
+  },
+  {
+    "name": "pallet-wrapper",
+    "category": "logistics",
+    "draw": "Round turntable carrying a pallet load being wound with stretch film from a tall mast carriage."
+  },
+  {
+    "name": "pallet-stack",
+    "category": "logistics",
+    "draw": "Side view of five empty wooden pallets stacked neatly on top of each other."
+  },
+  {
+    "name": "pallet-collar",
+    "category": "logistics",
+    "draw": "Wooden pallet with two hinged wooden frames stacked on top forming an open crate."
+  },
+  {
+    "name": "cage-pallet",
+    "category": "logistics",
+    "draw": "Steel wire mesh box on a pallet base with a fold-down front panel."
+  },
+  {
+    "name": "pallet-box",
+    "category": "logistics",
+    "draw": "Large corrugated box as big as the pallet it sits on, with forklift openings visible below."
+  },
+  {
+    "name": "octabin",
+    "category": "logistics",
+    "draw": "Large eight-sided corrugated bulk box sitting on a pallet, seen at three quarters."
+  },
+  {
+    "name": "plastic-pallet",
+    "category": "logistics",
+    "draw": "Molded plastic pallet with a ribbed grid top deck and nine blocky feet."
+  },
+  {
+    "name": "edge-protector",
+    "category": "logistics",
+    "draw": "Long L-shaped cardboard angle strip fitted over the corner of a stacked pallet load."
+  },
+  {
+    "name": "pallet-scale",
+    "category": "logistics",
+    "draw": "Low square weighing platform with a pallet on it and a digital readout on a post."
+  },
+  {
+    "name": "spill-pallet",
+    "category": "logistics",
+    "draw": "Grated platform on a deep sump tray with two upright drums standing on it."
+  },
+  {
+    "name": "strip-curtain",
+    "category": "logistics",
+    "draw": "Doorway hung with overlapping vertical clear plastic strips, one strip pushed aside."
+  },
+  {
+    "name": "louvered-bin-rack",
+    "category": "logistics",
+    "draw": "Wall panel with rows of horizontal louver slots holding small open-front parts bins."
+  },
+  {
+    "name": "tote-dolly",
+    "category": "logistics",
+    "draw": "Square wheeled base with four casters and a stack of plastic totes on top."
+  },
+  {
+    "name": "collapsible-crate",
+    "category": "logistics",
+    "draw": "Plastic crate with its walls folded flat into the base, one wall half raised."
+  },
+  {
+    "name": "rfid-portal",
+    "category": "logistics",
+    "draw": "Doorway gate with antenna panels on both sides and radio wave arcs over a pallet passing through."
+  },
+  {
+    "name": "rfid-reader",
+    "category": "logistics",
+    "draw": "Handheld pistol-grip reader with a flat antenna paddle on top emitting radio waves."
+  },
+  {
+    "name": "ring-scanner",
+    "category": "logistics",
+    "draw": "Barcode scanner worn on a finger with a strap, emitting a scan beam toward a small barcode."
+  },
+  {
+    "name": "voice-picking-headset",
+    "category": "logistics",
+    "draw": "Single-ear headset with a boom microphone beside a box on a shelf."
+  },
+  {
+    "name": "pick-to-light",
+    "category": "logistics",
+    "draw": "Shelf front with a row of bins, one bin marked by a lit button with a number display above it."
+  },
+  {
+    "name": "put-wall",
+    "category": "logistics",
+    "draw": "Grid of open cubbies with some small parcels inside and indicator lights above a few slots."
+  },
+  {
+    "name": "freight-elevator",
+    "category": "logistics",
+    "draw": "Wide elevator car with vertical sliding gate bars and a pallet inside."
+  },
+  {
+    "name": "mailer-box",
+    "category": "logistics",
+    "draw": "Flat folded cardboard box with a hinged lid tucked into the front, lid slightly raised."
+  },
+  {
+    "name": "poly-mailer",
+    "category": "logistics",
+    "draw": "Flat plastic shipping bag with a peel strip flap at the top and a label on the front."
+  },
+  {
+    "name": "paper-void-fill",
+    "category": "logistics",
+    "draw": "Open box with crumpled kraft paper ribbons bulging out of the top."
+  },
+  {
+    "name": "packing-list-pouch",
+    "category": "logistics",
+    "draw": "Clear adhesive envelope stuck on a box face with a folded document visible inside."
+  },
+  {
+    "name": "returnable-tote",
+    "category": "logistics",
+    "draw": "Plastic tote box with an attached split lid folded shut and hand holes on the ends."
+  },
+  {
+    "name": "flexitank",
+    "category": "logistics",
+    "draw": "Shipping container with its doors open showing a bulging liquid bladder filling the inside."
+  },
+  {
+    "name": "stand-up-pouch",
+    "category": "logistics",
+    "draw": "Flexible pouch standing upright on a gusseted base, with a zip line near the top and tear notch."
+  },
+  {
+    "name": "dry-ice",
+    "category": "logistics",
+    "draw": "Stack of frosty cubes with vapor curls rising off the top."
+  },
+  {
+    "name": "wardrobe-box",
+    "category": "logistics",
+    "draw": "Tall moving box with the top open showing a hanging rail with clothes hangers."
+  },
+  {
+    "name": "fiber-drum",
+    "category": "logistics",
+    "draw": "Tall cylindrical cardboard drum with a metal lid clamped by a locking ring."
+  },
+  {
+    "name": "honeycomb-paper",
+    "category": "logistics",
+    "draw": "Sheet of kraft paper stretched into an open hexagon mesh."
+  },
+  {
+    "name": "foam-corner",
+    "category": "logistics",
+    "draw": "Cube-shaped foam block with a stepped notch cut out to cradle a box corner."
+  },
+  {
+    "name": "carton-divider",
+    "category": "logistics",
+    "draw": "Top view of an open box split into a grid of cells by cardboard partitions holding bottles."
+  },
+  {
+    "name": "bottle-shipper",
+    "category": "logistics",
+    "draw": "Molded pulp tray sleeve with bottle-shaped cavities holding two bottles."
+  },
+  {
+    "name": "stacked-sacks",
+    "category": "logistics",
+    "draw": "Side view of neatly stacked filled sacks on a pallet."
+  },
+  {
+    "name": "shrink-hood",
+    "category": "logistics",
+    "draw": "Pallet load covered by a tight plastic hood with a heat gun blowing on its side."
+  },
+  {
+    "name": "pallet-cover",
+    "category": "logistics",
+    "draw": "Pallet load shrouded in a quilted insulated cover with a zip down one side."
+  },
+  {
+    "name": "banded-bundle",
+    "category": "logistics",
+    "draw": "Bundle of boards tied with two metal straps and clip seals."
+  },
+  {
+    "name": "strapping-tensioner",
+    "category": "logistics",
+    "draw": "Hand tool with a lever handle gripping and tightening a flat strap around a box edge."
+  },
+  {
+    "name": "strapping-coil",
+    "category": "logistics",
+    "draw": "Wide coil of flat plastic strap on a core, with a loose end trailing out."
+  },
+  {
+    "name": "carton-sealer",
+    "category": "logistics",
+    "draw": "Box passing through a machine frame with a tape head applying tape across the top seam."
+  },
+  {
+    "name": "tilt-indicator",
+    "category": "logistics",
+    "draw": "Rectangular sticker with a triangle channel and a small ball resting in one arm."
+  },
+  {
+    "name": "shock-indicator",
+    "category": "logistics",
+    "draw": "Small label with a glass vial window that shows a colored bar after impact."
+  },
+  {
+    "name": "do-not-stack",
+    "category": "logistics",
+    "draw": "Box with a second box above it crossed out by a diagonal line."
+  },
+  {
+    "name": "un-number-panel",
+    "category": "logistics",
+    "draw": "Rectangular placard split into two rows with a four digit number in each row."
+  },
+  {
+    "name": "limited-quantity-mark",
+    "category": "logistics",
+    "draw": "Diamond outline with the top and bottom triangles filled solid and the middle band empty."
+  },
+  {
+    "name": "lithium-battery-label",
+    "category": "logistics",
+    "draw": "Square label with a hatched border showing a battery with a flame and a phone silhouette."
+  },
+  {
+    "name": "marine-pollutant-mark",
+    "category": "logistics",
+    "draw": "Diamond with a dead fish lying under a leafless tree."
+  },
+  {
+    "name": "magnetized-material-label",
+    "category": "logistics",
+    "draw": "Square label with a horseshoe magnet and radiating field lines around a compass needle."
+  },
+  {
+    "name": "fragile-tape",
+    "category": "logistics",
+    "draw": "Tape roll with a strip unrolling, printed with a repeating wine glass pattern."
+  },
+  {
+    "name": "air-waybill",
+    "category": "logistics",
+    "draw": "Document sheet with a small plane at the top and a barcode strip along the bottom."
+  },
+  {
+    "name": "certificate-of-origin",
+    "category": "logistics",
+    "draw": "Certificate sheet with a globe and a round embossed seal with ribbons at the bottom."
+  },
+  {
+    "name": "delivery-note",
+    "category": "logistics",
+    "draw": "Sheet with a small delivery truck at the top, item lines and a signature line."
+  },
+  {
+    "name": "dangerous-goods-declaration",
+    "category": "logistics",
+    "draw": "Document with a diamond hazard placard at the top right and form fields."
+  },
+  {
+    "name": "customs-tariff",
+    "category": "logistics",
+    "draw": "Parcel box with a hanging tag showing a percent sign."
+  },
+  {
+    "name": "bonded-warehouse",
+    "category": "logistics",
+    "draw": "Warehouse building with a padlock and a sealed band across its doors."
+  },
+  {
+    "name": "nothing-to-declare",
+    "category": "logistics",
+    "draw": "Hanging airport sign with an arrow and an empty suitcase outline."
+  },
+  {
+    "name": "sniffer-dog",
+    "category": "logistics",
+    "draw": "Side view of a dog with its nose to a suitcase, sniff lines curling up from it."
+  },
+  {
+    "name": "parcel-pickup-point",
+    "category": "logistics",
+    "draw": "Map pin with a small parcel box inside its circle."
+  },
+  {
+    "name": "parcel-drop-box",
+    "category": "logistics",
+    "draw": "Freestanding metal box with a pull-down drop hatch on its front and a keyhole."
+  },
+  {
+    "name": "delivery-photo",
+    "category": "logistics",
+    "draw": "Smartphone showing a camera frame around a box sitting on a doormat."
+  },
+  {
+    "name": "shipment-timeline",
+    "category": "logistics",
+    "draw": "Horizontal line with four dots, the first three filled, and a small truck above the third dot."
+  },
+  {
+    "name": "delivery-date",
+    "category": "logistics",
+    "draw": "Calendar page with a parcel box in the center of the grid."
+  },
+  {
+    "name": "contactless-delivery",
+    "category": "logistics",
+    "draw": "Parcel on a doorstep with a person stepping back and a distance arrow between them."
+  },
+  {
+    "name": "restocking",
+    "category": "logistics",
+    "draw": "Box moving onto a shelf with a curved arrow from below."
+  },
+  {
+    "name": "overstock",
+    "category": "logistics",
+    "draw": "Shelf crammed with boxes, extra boxes piled on top leaning over the edge."
+  },
+  {
+    "name": "fifo-lane",
+    "category": "logistics",
+    "draw": "Row of boxes on a sloped lane, the front box being taken and a new one added at the back."
+  },
+  {
+    "name": "stock-transfer",
+    "category": "logistics",
+    "draw": "Two small warehouse buildings with a box and an arrow traveling between them."
+  },
+  {
+    "name": "kanban-bin",
+    "category": "logistics",
+    "draw": "Two parts bins side by side, one with a card sticking out of its label slot."
+  },
+  {
+    "name": "dropshipping",
+    "category": "logistics",
+    "draw": "Factory, then a dashed arrow bypassing a shop to a house, with a box on the arrow."
+  },
+  {
+    "name": "shipment-consolidation",
+    "category": "logistics",
+    "draw": "Three small boxes with arrows converging into one large box."
+  },
+  {
+    "name": "load-plan",
+    "category": "logistics",
+    "draw": "Top view of a truck trailer outline filled with a pattern of box rectangles of different sizes."
+  },
+  {
+    "name": "goods-receiving",
+    "category": "logistics",
+    "draw": "Open warehouse door with a box entering on an arrow and a clipboard tick."
+  },
+  {
+    "name": "pallet-put-away",
+    "category": "logistics",
+    "draw": "Forklift lifting a pallet up toward an empty slot in a tall rack."
+  },
+  {
+    "name": "order-picking",
+    "category": "logistics",
+    "draw": "Hand taking a box from a shelf slot into a tote."
+  },
+  {
+    "name": "packing-station",
+    "category": "logistics",
+    "draw": "Workbench with a tape dispenser, an open box and a roll of paper."
+  },
+  {
+    "name": "cross-docking",
+    "category": "logistics",
+    "draw": "Warehouse outline with trucks on both sides and a straight arrow passing through."
+  },
+  {
+    "name": "cold-storage-warehouse",
+    "category": "logistics",
+    "draw": "Warehouse building with a large snowflake on its facade."
+  },
+  {
+    "name": "walk-in-freezer",
+    "category": "logistics",
+    "draw": "Heavy insulated door with a large lever latch and a thermometer panel beside it."
+  },
+  {
+    "name": "lashing-bar",
+    "category": "logistics",
+    "draw": "Long steel rod with a hooked head at the top and a turnbuckle at the bottom, braced diagonally against a container corner."
+  },
+  {
+    "name": "high-loader",
+    "category": "logistics",
+    "draw": "Side view of a scissor-lift vehicle raising a flat roller deck with an air cargo unit level with a plane door."
+  },
+  {
+    "name": "piggyback-railcar",
+    "category": "logistics",
+    "draw": "Side view of a flat railcar carrying a truck trailer with its wheels resting on the deck."
+  },
+  {
+    "name": "centerbeam-flatcar",
+    "category": "logistics",
+    "draw": "Side view of a flat railcar with a tall central lattice wall and bundles of lumber stacked on both sides."
+  },
+  {
+    "name": "hook-lift-truck",
+    "category": "logistics",
+    "draw": "Side view of a truck with a bent hook arm pulling an open roll-off bin up onto its frame."
+  },
+  {
+    "name": "glass-transport-truck",
+    "category": "logistics",
+    "draw": "Side view of a truck with an A-frame rack on its bed carrying large glass panes leaning on both sides."
+  },
+  {
+    "name": "wind-blade-transport",
+    "category": "logistics",
+    "draw": "Side view of a truck and long extendable trailer carrying a very long curved turbine blade overhanging the rear."
+  },
+  {
+    "name": "modular-transporter",
+    "category": "logistics",
+    "draw": "Side view of a long flat platform supported by many small paired wheels carrying a large cylindrical tank."
+  },
+  {
+    "name": "chain-binder",
+    "category": "logistics",
+    "draw": "Lever-style load binder with a long handle, a central body and two hooks gripping taut chain links."
+  },
+  {
+    "name": "load-bar",
+    "category": "logistics",
+    "draw": "Telescoping bar with rubber foot pads at both ends, wedged horizontally between two trailer walls in front of boxes."
+  },
+  {
+    "name": "dunnage-bag",
+    "category": "logistics",
+    "draw": "Inflated rectangular air bag with a valve, squeezed in the gap between two stacks of boxes."
+  },
+  {
+    "name": "tie-down-ring",
+    "category": "logistics",
+    "draw": "Folding D-shaped ring hinged to a square floor plate with four bolt holes."
+  },
+  {
+    "name": "rack-guard",
+    "category": "logistics",
+    "draw": "U-shaped steel guard wrapped around the foot of a pallet rack upright, with diagonal hazard stripes."
+  },
+  {
+    "name": "clamp-forklift",
+    "category": "logistics",
+    "draw": "Side view of a forklift with two large flat pads instead of forks squeezing a stack of boxes."
+  },
+  {
+    "name": "forklift-safety-cage",
+    "category": "logistics",
+    "draw": "Mesh work cage with handrails sitting on forklift forks, raised partway up the mast."
+  },
+  {
+    "name": "mobile-racking",
+    "category": "logistics",
+    "draw": "Row of tall shelving units on floor rails, one with a large three-spoke crank wheel on its end panel."
+  },
+  {
+    "name": "panel-cart",
+    "category": "logistics",
+    "draw": "Wheeled A-frame cart carrying large flat sheets leaning on one side."
+  },
+  {
+    "name": "machine-skates",
+    "category": "logistics",
+    "draw": "Pair of low roller skates with swivel tops carrying a heavy machine block."
+  },
+  {
+    "name": "checkweigher",
+    "category": "logistics",
+    "draw": "Short conveyor section with a box on a weighing plate and a digital display on a post above."
+  },
+  {
+    "name": "pocket-sorter",
+    "category": "logistics",
+    "draw": "Overhead rail with a row of hanging pouch bags, some holding small parcels."
+  },
+  {
+    "name": "pick-path",
+    "category": "logistics",
+    "draw": "Top view of rows of shelving with a dotted snake route weaving through the aisles to a cart."
+  },
+  {
+    "name": "inventory-drone",
+    "category": "logistics",
+    "draw": "Small quadcopter hovering beside a tall pallet rack with a scan beam hitting a box label."
+  },
+  {
+    "name": "pallet-label",
+    "category": "logistics",
+    "draw": "Tall label with three stacked barcode blocks and a row of text fields above them."
+  },
+  {
+    "name": "open-side-container",
+    "category": "logistics",
+    "draw": "Shipping container with its entire long side opened on hinged panels, boxes visible inside."
+  },
+  {
+    "name": "shelf-ready-tray",
+    "category": "logistics",
+    "draw": "Cardboard tray with a torn-off perforated front showing a row of cans lined up inside."
+  },
+  {
+    "name": "vacuum-tube-lifter",
+    "category": "logistics",
+    "draw": "Flexible vertical hose hanging from an overhead arm, with a suction pad and handle gripping a box."
+  },
+  {
+    "name": "c-hook",
+    "category": "logistics",
+    "draw": "Large C-shaped lifting hook hanging from a crane cable with a steel coil sitting on its lower arm."
+  },
+  {
+    "name": "lever-hoist",
+    "category": "logistics",
+    "draw": "Compact hoist body with a long ratchet lever handle, a top hook and a chain running to a bottom hook."
+  },
+  {
+    "name": "moving-blanket",
+    "category": "logistics",
+    "draw": "Thick quilted pad with diamond stitching draped over a dresser."
+  },
+  {
+    "name": "miscellaneous-hazard-label",
+    "category": "logistics",
+    "draw": "Diamond placard with vertical stripes filling the top half and a number nine at the bottom point."
+  },
+  {
+    "name": "keep-away-from-sunlight",
+    "category": "logistics",
+    "draw": "Box shape beneath a sun with rays falling toward it, the handling mark for protect from heat."
+  },
+  {
+    "name": "temperature-limits",
+    "category": "logistics",
+    "draw": "Thermometer with two short horizontal limit bars marking a top and bottom range, the handling mark."
+  },
+  {
+    "name": "phytosanitary-certificate",
+    "category": "logistics",
+    "draw": "Certificate sheet with a leaf symbol at the top and a round inspection stamp at the bottom."
+  },
+  {
+    "name": "neighbor-delivery",
+    "category": "logistics",
+    "draw": "Two small houses side by side with a parcel box on a curved arrow from one door to the other."
+  },
+  {
+    "name": "white-glove-delivery",
+    "category": "logistics",
+    "draw": "Two gloved hands carrying a small armchair between them."
+  },
+  {
+    "name": "backorder",
+    "category": "logistics",
+    "draw": "Parcel box beside a small hourglass with sand running down."
+  },
+  {
+    "name": "reorder-point",
+    "category": "logistics",
+    "draw": "Falling stock level line chart with a dashed horizontal threshold and a box marker where they meet."
+  },
+  {
+    "name": "dead-stock",
+    "category": "logistics",
+    "draw": "Dusty box on a shelf with a cobweb stretched across its top corner."
+  },
+  {
+    "name": "mailroom",
+    "category": "logistics",
+    "draw": "Wall of small pigeonhole cubbies with letters and parcels, and a counter in front."
+  },
+  {
+    "name": "packaging-hierarchy",
+    "category": "logistics",
+    "draw": "Single small box, then a larger case, then a pallet stack, in a row of increasing size."
+  },
+  {
+    "name": "truck-loading",
+    "category": "logistics",
+    "draw": "Person pushing a hand truck with boxes up a ramp into the open back of a truck."
+  },
+  {
+    "name": "lead-time",
+    "category": "logistics",
+    "draw": "Two vertical ticks joined by a double-headed arrow with a parcel box sitting above the span."
+  },
+  {
+    "name": "box-sizes",
+    "category": "logistics",
+    "draw": "Row of three boxes growing from small to large, standing on a baseline."
+  },
+  {
+    "name": "axle-load",
+    "category": "logistics",
+    "draw": "Side view of a truck with downward arrows pressing on each axle and a weight block above one."
+  },
+  {
+    "name": "cotton-bale",
+    "category": "logistics",
+    "draw": "Tall rectangular bale with bulging sides bound by several horizontal wire bands."
+  },
+  {
+    "name": "steel-coil",
+    "category": "logistics",
+    "draw": "Thick wide roll of steel sheet standing on a cradle, with its spiral end and hollow core visible."
+  },
+  {
+    "name": "serial-number-plate",
+    "category": "logistics",
+    "draw": "Small riveted metal plate with a barcode strip and the letters SN followed by digits."
+  },
+  {
+    "name": "freezer-bag",
+    "category": "logistics",
+    "draw": "Flat plastic bag with a double zipper track across the top and a write-on label panel with a snowflake."
+  },
+  {
+    "name": "pillow-box",
+    "category": "logistics",
+    "draw": "Small curved box with two rounded tuck-in ends that bulge out like a pillow."
+  },
+  {
+    "name": "spout-pouch",
+    "category": "logistics",
+    "draw": "Flexible standing pouch with a screw-cap spout fitted at its top corner."
+  },
+  {
+    "name": "labeling-parcel",
+    "category": "logistics",
+    "draw": "Hand pressing a peeled shipping label onto the side of a box, the backing sheet curling away."
+  },
+  {
+    "name": "milk-run-logistics",
+    "category": "logistics",
+    "draw": "Closed loop route with three small factory stops around it and a truck traveling on the loop."
+  },
+  {
+    "name": "inventory-count-tag",
+    "category": "logistics",
+    "draw": "Tall paper tag with a hole at the top, a perforated tear-off stub at the bottom and a number box."
+  },
+  {
+    "name": "wrist-mounted-terminal",
+    "category": "logistics",
+    "draw": "Forearm with a small screen computer strapped to it and a ring scanner on the finger."
+  },
+  {
+    "name": "radiation-portal-monitor",
+    "category": "logistics",
+    "draw": "Two tall pillars on either side of a lane with a trefoil radiation symbol and a truck passing between."
+  },
+  {
+    "name": "strapping-machine",
+    "category": "logistics",
+    "draw": "Table machine with a square arch frame around a box, a strap band running around it."
+  },
+  {
+    "name": "coil-railcar",
+    "category": "logistics",
+    "draw": "Side view of a flat railcar carrying round steel coils under two rounded hood covers."
+  },
+  {
+    "name": "sideloader-forklift",
+    "category": "logistics",
+    "draw": "Side view of a low flat truck with a mast mounted in its middle, carrying long pipes across its deck."
+  },
+  {
+    "name": "customs-carnet",
+    "category": "logistics",
+    "draw": "Small booklet with a globe on the cover and a stack of perforated tear-out vouchers beside it."
+  },
+  {
+    "name": "bulk-container",
+    "category": "logistics",
+    "draw": "Shipping container with three round loading hatches along its roof and a discharge flap at the bottom of the doors."
+  },
+  {
+    "name": "letter-of-credit",
+    "category": "logistics",
+    "draw": "Document with a bank columns building at the top, a small ship below it and a signature line."
+  },
+  {
+    "name": "un-packaging-symbol",
+    "category": "logistics",
+    "draw": "Circle containing a lowercase u above a lowercase n, the mark for certified dangerous goods packaging."
+  },
+  {
+    "name": "robotic-grid-storage",
+    "category": "logistics",
+    "draw": "Top view of a square grid of storage cells with two small cube robots riding on the grid rails."
+  },
+  {
+    "name": "bullwhip-effect",
+    "category": "logistics",
+    "draw": "Small box on the left with a wavy line trailing right whose swings grow larger and larger."
+  },
+  {
+    "name": "pallet-pattern",
+    "category": "logistics",
+    "draw": "Top view of a square pallet covered in rectangular boxes laid in an interlocking brick pattern."
+  },
+  {
+    "name": "schnabel-car",
+    "category": "logistics",
+    "draw": "Side view of a heavy load slung between two long railcar halves, each on multiple bogies."
+  },
+  {
+    "name": "port-congestion",
+    "category": "logistics",
+    "draw": "Row of three container ships queued on the water in front of a quayside crane."
+  },
+  {
+    "name": "converter-dolly",
+    "category": "logistics",
+    "draw": "Single-axle wheeled frame with a round fifth-wheel plate on top and a long A-shaped drawbar."
+  },
+  {
+    "name": "crane-pallet-fork",
+    "category": "logistics",
+    "draw": "C-shaped frame hanging from a crane hook with a pair of forks at the bottom carrying a pallet of bricks."
+  },
+  {
+    "name": "double-boxed-parcel",
+    "category": "logistics",
+    "draw": "Small taped box nested inside a larger open box with crumpled padding filling the gap."
+  },
+  {
+    "name": "cutout-foam-insert",
+    "category": "logistics",
+    "draw": "Thick foam slab with a precisely cut cavity shaped like a camera body and lens."
+  },
+  {
+    "name": "shelf-scanning-robot",
+    "category": "logistics",
+    "draw": "Slim wheeled robot with a tall mast of cameras rolling past a store shelf, scan lines hitting the products."
+  },
+  {
+    "name": "trailer-unloading-robot",
+    "category": "logistics",
+    "draw": "Wheeled robot base with a jointed arm reaching into the open back of a trailer and pulling out a box."
+  },
+  {
+    "name": "pallet-shuttle",
+    "category": "logistics",
+    "draw": "Side view of a pallet rack lane with a flat low robot carrying a pallet along the rails inside it."
+  },
+  {
+    "name": "art-shipping-crate",
+    "category": "logistics",
+    "draw": "Open wooden crate with foam blocks in its corners cradling a framed painting."
+  },
+  {
+    "name": "heavy-parcel",
+    "category": "logistics",
+    "draw": "Taped box with a round weight block sitting on top marked kg."
+  },
+  {
+    "name": "multi-piece-shipment",
+    "category": "logistics",
+    "draw": "Three boxes of different sizes in a row, each with a small hanging tag numbered one, two and three."
+  },
+  {
+    "name": "bulk-stockpile",
+    "category": "logistics",
+    "draw": "Inclined conveyor belt dropping loose material onto the peak of a large cone-shaped pile."
+  },
+  {
+    "name": "tank-farm",
+    "category": "logistics",
+    "draw": "Cluster of four squat round storage tanks of different sizes inside a low rectangular bund wall, joined by pipes."
+  }
+]

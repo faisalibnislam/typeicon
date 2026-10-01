@@ -1,0 +1,482 @@
+[
+ {
+  "name": "blackletter-font",
+  "category": "notation",
+  "draw": "A capital A in angular blackletter gothic style with broken strokes.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "slab-serif-font",
+  "category": "notation",
+  "draw": "A capital A with thick rectangular block serifs.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "x-height",
+  "category": "notation",
+  "draw": "The letters x and h side by side with horizontal guide lines at baseline, x height and ascender height.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "text-baseline",
+  "category": "notation",
+  "draw": "A short word sitting on a highlighted horizontal line, with a descender dipping below.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "font-weight-scale",
+  "category": "notation",
+  "draw": "Three capital A letters in a row growing from thin to regular to heavy stroke weight.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "kerning-pair",
+  "category": "notation",
+  "draw": "The letters A and V nudged close together with a small bracket measuring the gap between them.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "typesetting-composing-stick",
+  "category": "notation",
+  "draw": "A composing stick tray holding a row of small metal type sorts.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "dele-mark",
+  "category": "notation",
+  "draw": "Proofreading dele mark: a looped stroke with a curling tail used to delete text.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "insertion-caret",
+  "category": "notation",
+  "draw": "Proofreading insertion caret: an upside down V under a line of text with a word written above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "close-up-mark",
+  "category": "notation",
+  "draw": "Proofreading close up mark: two arcs, one above and one below, joining two separated letters.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "true-false",
+  "category": "notation",
+  "draw": "A check mark and a cross mark side by side, marking true and false.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cent-sign",
+  "category": "notation",
+  "draw": "Cent sign: a lowercase c with a vertical stroke passing through it top to bottom.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "won-sign",
+  "category": "notation",
+  "draw": "Won sign: a capital W crossed by two horizontal bars.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "franc-sign",
+  "category": "notation",
+  "draw": "Franc sign: a capital F with an extra horizontal stroke crossing its stem below the arms.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "turkish-lira-sign",
+  "category": "notation",
+  "draw": "Turkish lira sign: an upright stem with two slanted bars across it and a curved foot sweeping right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "philippine-peso-sign",
+  "category": "notation",
+  "draw": "Philippine peso sign: a capital P with two horizontal bars across its bowl.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "naira-sign",
+  "category": "notation",
+  "draw": "Naira sign: a capital N crossed by two horizontal bars.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "shekel-sign",
+  "category": "notation",
+  "draw": "Shekel sign: two interlocking square hooks, one opening up and one opening down.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "dong-sign",
+  "category": "notation",
+  "draw": "Dong sign: a lowercase d with a bar across its ascender and a line underneath.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "kip-sign",
+  "category": "notation",
+  "draw": "Kip sign: a capital K with a horizontal bar crossing through its stem.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tugrik-sign",
+  "category": "notation",
+  "draw": "Tugrik sign: a capital T with two slanted strokes crossing its stem.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hryvnia-sign",
+  "category": "notation",
+  "draw": "Hryvnia sign: a reversed S shape crossed by two horizontal bars.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cedi-sign",
+  "category": "notation",
+  "draw": "Cedi sign: a capital C with a vertical stroke through it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tenge-sign",
+  "category": "notation",
+  "draw": "Tenge sign: a capital T with a second parallel bar above its top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ruble-sign",
+  "category": "notation",
+  "draw": "Ruble sign: a capital P with a horizontal bar across its stem below the bowl.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "manat-sign",
+  "category": "notation",
+  "draw": "Manat sign: an upside down U arch with a vertical stroke rising through its centre.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "lari-sign",
+  "category": "notation",
+  "draw": "Lari sign: a rounded letter shape like a sideways U opening down, with two short vertical strokes on top and a flat foot line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "baht-sign",
+  "category": "notation",
+  "draw": "Baht sign: a capital B with a vertical stroke passing through it top to bottom.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "costa-rican-colon-sign",
+  "category": "notation",
+  "draw": "Colon currency sign: a capital C crossed by two slanted strokes.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "guarani-sign",
+  "category": "notation",
+  "draw": "Guarani sign: a capital G with a vertical stroke passing through it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "taka-sign",
+  "category": "notation",
+  "draw": "Taka sign: a Bengali glyph like a 7 whose top bar has a hooked end and whose body hangs in a rounded loop.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "afghani-sign",
+  "category": "notation",
+  "draw": "Afghani sign: a curling Arabic style hook like a reversed comma with a small loop at its top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "dram-sign",
+  "category": "notation",
+  "draw": "Dram sign: a Armenian letter shape like an upside down U with two horizontal bars across its legs.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "riel-sign",
+  "category": "notation",
+  "draw": "Riel sign: a tall slender Khmer glyph, a vertical stroke with a looped curl at the top and a small flick at its base.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "florin-sign",
+  "category": "notation",
+  "draw": "Florin sign: a slanted italic f with a hooked top and a tail descending below the baseline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "currency-sign",
+  "category": "notation",
+  "draw": "Generic currency sign: a small circle with four short rays at the diagonal corners.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "peseta-sign",
+  "category": "notation",
+  "draw": "Peseta sign: a capital P followed by a small ts ligature.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "brazilian-real-sign",
+  "category": "notation",
+  "draw": "Real currency sign: a capital R followed by a dollar sign.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "zloty-sign",
+  "category": "notation",
+  "draw": "Zloty sign: a lowercase z followed by a l with a slanted stroke through it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "celsius",
+  "category": "notation",
+  "draw": "Degree Celsius: a small raised ring followed by a capital C.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fahrenheit",
+  "category": "notation",
+  "draw": "Degree Fahrenheit: a small raised ring followed by a capital F.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "kelvin",
+  "category": "notation",
+  "draw": "Kelvin unit: a bold capital K with a small thermometer beside it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "angstrom-sign",
+  "category": "notation",
+  "draw": "Angstrom sign: a capital A with a small ring above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "liter-sign",
+  "category": "notation",
+  "draw": "Liter sign: a cursive script lowercase l with a looped top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "decibel",
+  "category": "notation",
+  "draw": "Decibel unit: the letters dB beside three curved sound waves.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hertz",
+  "category": "notation",
+  "draw": "Hertz unit: the letters Hz above a short sine wave.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "square-meter",
+  "category": "notation",
+  "draw": "Square meter: a lowercase m with a small raised 2.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cubic-meter",
+  "category": "notation",
+  "draw": "Cubic meter: a lowercase m with a small raised 3 beside a small cube outline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "kilogram-unit",
+  "category": "notation",
+  "draw": "Kilogram unit: a trapezoid weight shape with a handle loop and kg written on its face.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "kilometer-per-hour",
+  "category": "notation",
+  "draw": "Speed unit: the letters km/h under a small speedometer arc.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "watt-unit",
+  "category": "notation",
+  "draw": "Watt unit: a capital W beside a small lightning bolt.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "volt-unit",
+  "category": "notation",
+  "draw": "Volt unit: a capital V inside a circle with plus and minus marks beside it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ampere-unit",
+  "category": "notation",
+  "draw": "Ampere unit: a capital A inside a circle with an arrow along a wire.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "newton-unit",
+  "category": "notation",
+  "draw": "Newton force unit: a capital N with a force arrow pushing against a small block.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "joule-unit",
+  "category": "notation",
+  "draw": "Joule energy unit: a capital J beside a small flame.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "rpm-unit",
+  "category": "notation",
+  "draw": "Revolutions per minute: the letters rpm under a circular arrow.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "imperial-to-metric",
+  "category": "notation",
+  "draw": "A small ruler marked in inches on top and centimeters below with a double arrow between.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "centerline-symbol",
+  "category": "notation",
+  "draw": "Centerline symbol: a capital C overlapping a capital L sharing a vertical stroke.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flatness-symbol",
+  "category": "notation",
+  "draw": "Flatness tolerance: a single slanted parallelogram outline inside a rectangular frame cell.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cylindricity-symbol",
+  "category": "notation",
+  "draw": "Cylindricity tolerance: a small circle between two slanted parallel lines.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "concentricity-symbol",
+  "category": "notation",
+  "draw": "Concentricity tolerance: two concentric circles, one small inside one larger.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "position-tolerance-symbol",
+  "category": "notation",
+  "draw": "Position tolerance: a circle with a plus shaped crosshair extending beyond its edge.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "total-runout-symbol",
+  "category": "notation",
+  "draw": "Total runout tolerance: two slanted arrows side by side joined at their base by a horizontal line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "surface-profile-symbol",
+  "category": "notation",
+  "draw": "Surface profile tolerance: a closed semicircle, a dome shape with a flat base line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "line-profile-symbol",
+  "category": "notation",
+  "draw": "Line profile tolerance: an open semicircle arc with no base line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "angularity-symbol",
+  "category": "notation",
+  "draw": "Angularity tolerance: a small acute angle made of a horizontal line and a slanted line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "countersink-symbol",
+  "category": "notation",
+  "draw": "Countersink symbol: a wide V shape like a funnel opening upward.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "counterbore-symbol",
+  "category": "notation",
+  "draw": "Counterbore symbol: a square cornered U shape, an open box facing upward.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "spotface-symbol",
+  "category": "notation",
+  "draw": "Spotface symbol: a counterbore U shape with the letters SF inside it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "depth-symbol",
+  "category": "notation",
+  "draw": "Depth symbol: a vertical line ending in a downward arrowhead above a short horizontal bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "datum-feature-symbol",
+  "category": "notation",
+  "draw": "Datum feature: a letter A in a square box joined by a stem to a filled triangle on a surface line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "feature-control-frame",
+  "category": "notation",
+  "draw": "Feature control frame: a long rectangle divided into three cells holding a symbol, a tolerance and a letter.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "surface-finish-symbol",
+  "category": "notation",
+  "draw": "Surface texture symbol: a check mark shape with a longer right leg and a short horizontal bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fillet-weld-symbol",
+  "category": "notation",
+  "draw": "Fillet weld symbol: a small right triangle sitting on a reference line with an arrow leading off.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "first-angle-projection",
+  "category": "notation",
+  "draw": "First angle projection symbol: a truncated cone side view next to two concentric circles on the right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "section-view-symbol",
+  "category": "notation",
+  "draw": "Section cutting plane: a dashed line with thick end strokes and arrows marked A at both ends.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "thread-callout",
+  "category": "notation",
+  "draw": "Screw thread callout: a leader arrow pointing at a threaded hole with the label M8.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "radius-callout",
+  "category": "notation",
+  "draw": "Radius callout: a rounded corner with a leader line labelled R.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "chamfer-callout",
+  "category": "notation",
+  "draw": "Chamfer callout: a beveled corner with a leader labelled 45 degrees.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "weld-all-around",
+  "category": "notation",
+  "draw": "Weld all around symbol: a reference line with a small circle at the joint of the arrow.",
+  "domain": "symbols-and-notation"
+ }
+]

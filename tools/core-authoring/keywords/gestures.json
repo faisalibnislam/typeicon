@@ -1,0 +1,102 @@
+{
+  "clap": {
+    "context": "Two hands clapping. Used for applause and praise reactions, congratulations messages, well-done badges and audience feedback.",
+    "keywords": ["applause", "applaud", "bravo", "congrats", "congratulations", "praise", "well done", "clapping", "hands", "cheer", "kudos", "good job", "great job", "encore", "audience", "support", "celebrate", "appreciation", "reaction", "standing ovation", "gesture"]
+  },
+  "fist-bump": {
+    "context": "Two fists bumping knuckles. Used for teamwork and friendly greetings, respect or agreement reactions, deal-done moments and community apps.",
+    "keywords": ["bro", "team", "teamwork", "respect", "greeting", "power", "knuckle bump", "knuckles", "fist", "fists", "pound", "bump", "friends", "friendship", "partnership", "solidarity", "agree", "deal", "hello", "collaboration"]
+  },
+  "hand-call-me": {
+    "context": "A hand with the thumb and little finger stretched out, the call me or shaka sign. Used for call-me buttons and phone contact, hang loose or surf themes, and friendly greetings.",
+    "keywords": ["call me", "shaka", "hang loose", "phone", "phone call", "call", "surf", "surfing", "aloha", "hawaii", "chill", "relax", "thumb and pinky", "pinky", "gesture", "hello", "contact", "ring me", "beach", "cool"]
+  },
+  "hand-click": {
+    "context": "A pointing finger with small click marks around its tip. Used for click here prompts, link and button hints in tutorials, pointer cursors and click-through stats.",
+    "keywords": ["click", "clicking", "press", "cursor", "pointer", "select", "tap", "button", "click here", "link", "hyperlink", "point", "finger", "mouse", "interact", "interaction", "ctr", "click through", "choose", "hand pointer", "call to action", "cta"]
+  },
+  "hand-coins": {
+    "context": "An open hand holding coins. Payments and payouts, earnings and salary, tips and donations, and cashback or refund screens use it.",
+    "keywords": ["coins", "money", "pay", "payment", "earn", "earnings", "salary", "wage", "income", "cash", "tip", "tips", "donate", "donation", "cashback", "refund", "reward", "finance", "budget", "fundraising", "loan", "revenue", "get paid"]
+  },
+  "hand-crossed-fingers": {
+    "context": "A hand with the index and middle fingers crossed, for good luck. Used for wishes and hopes, waiting on results, promises and luck-themed reactions.",
+    "keywords": ["fingers crossed", "luck", "good luck", "hope", "hoping", "wish", "wishing", "promise", "superstition", "lucky", "fortune", "best wishes", "hopeful", "fingers", "gesture", "reaction", "emoji", "fate", "chance", "pending"]
+  },
+  "hand-grab": {
+    "context": "A hand gripping a bar. Used for grab and drag handles, grip or hold actions, move tools, and grab rails on transit and accessibility signs.",
+    "keywords": ["grab", "grip", "hold", "holding", "handle", "grasp", "carry", "drag", "drag handle", "grabbing", "clutch", "catch", "take", "pick up", "fist", "bar", "handrail", "grab bar", "move", "pull"]
+  },
+  "hand-heart": {
+    "context": "An open hand holding up a heart. Used for charity and donations, care and kindness, volunteering, health care services and customer care pages.",
+    "keywords": ["care", "charity", "love", "kindness", "donate", "donation", "support", "volunteer", "volunteering", "nonprofit", "non-profit", "giving", "compassion", "help", "healthcare", "caring", "empathy", "generosity", "fundraiser", "community", "customer care", "heart"]
+  },
+  "hand-ok": {
+    "context": "A hand making the OK sign, thumb and index finger forming a ring. Used for approval and okay reactions, all-good status, agreement and quality checks.",
+    "keywords": ["ok", "okay", "perfect", "fine", "agree", "good", "all good", "approve", "approved", "alright", "great", "excellent", "correct", "accept", "confirm", "ok sign", "gesture", "emoji", "reaction", "a-ok", "nice", "deal"]
+  },
+  "hand-peace": {
+    "context": "A hand making a V sign with two fingers raised. Used for peace and victory, the number two, friendly goodbyes and photo poses, and win states in games.",
+    "keywords": ["peace", "victory", "v sign", "two", "2", "fingers", "win", "winner", "peace sign", "number two", "bye", "hi", "cheers", "selfie", "pose", "gesture", "emoji", "reaction", "success", "chill"]
+  },
+  "hand-pinch": {
+    "context": "A thumb and index finger pinching something small. Used for pinch-to-zoom hints in onboarding, touch gesture guides, a pinch in recipes and fine adjustments.",
+    "keywords": ["pinch", "pinch to zoom", "zoom", "zoom in", "zoom out", "gesture", "touch", "touchscreen", "squeeze", "small", "tiny", "little bit", "a pinch", "fingers", "precise", "detail", "multi touch", "trackpad", "tweak", "salt"]
+  },
+  "hand-point-down": {
+    "context": "A hand pointing down with its index finger. Used for see below prompts, scroll down hints, next-section cues and pointing at content underneath.",
+    "keywords": ["point", "pointing", "down", "downward", "finger", "index", "index finger", "below", "see below", "direction", "scroll down", "look down", "beneath", "under", "lower", "bottom", "arrow down", "south", "next section", "here", "gesture"]
+  },
+  "hand-point-left": {
+    "context": "A hand pointing left with its index finger. Used for back and previous actions, pointing at content on the left, direction hints and swipe-left cues.",
+    "keywords": ["point", "pointing", "left", "leftward", "finger", "index", "index finger", "back", "previous", "prev", "go back", "direction", "west", "left side", "backward", "return", "earlier", "swipe left", "gesture", "arrow left", "this way"]
+  },
+  "hand-point-right": {
+    "context": "A hand pointing right with its index finger. Used for next and continue actions, pointing at content on the right, step-by-step guides and call-to-action hints.",
+    "keywords": ["point", "pointing", "right", "rightward", "finger", "index", "index finger", "next", "continue", "forward", "go", "proceed", "direction", "east", "right side", "swipe right", "gesture", "arrow right", "this way", "call to action", "onward"]
+  },
+  "hand-point-up": {
+    "context": "A hand pointing up with its index finger. Used for see above prompts, back to top and scroll up hints, raising a point or question, and the number one.",
+    "keywords": ["point", "pointing", "up", "upward", "finger", "index", "index finger", "above", "see above", "direction", "scroll up", "back to top", "top", "north", "raise hand", "attention", "one", "number one", "first", "point of order", "gesture"]
+  },
+  "hand-rock": {
+    "context": "A hand making the horns sign, index and little fingers raised. Rock music and concerts, gigs and festivals, rock on reactions and party themes use it.",
+    "keywords": ["rock", "rock on", "metal", "heavy metal", "horns", "devil horns", "concert", "gig", "festival", "music", "party", "rock and roll", "rock n roll", "band", "fan", "awesome", "cool", "gesture", "emoji", "reaction"]
+  },
+  "hand-shake-deal": {
+    "context": "Two hands clasped in a handshake under small burst marks, a deal sealed. Used for agreements and contracts, partnerships, closed sales and successful negotiations.",
+    "keywords": ["deal", "agreement", "contract", "partnership", "handshake", "success", "deal done", "deal closed", "closed deal", "sealed", "agree", "business", "negotiation", "partner", "cooperation", "collaboration", "trust", "sale", "welcome", "merger", "alliance", "shake hands"]
+  },
+  "hand-stop": {
+    "context": "A raised flat palm with the fingers held together. Used for stop and halt, blocking or declining, wait and no entry signs, and messages about boundaries.",
+    "keywords": ["stop", "halt", "palm", "wait", "block", "raised hand", "hold on", "no", "don't", "reject", "decline", "forbidden", "no entry", "pause", "enough", "talk to the hand", "boundary", "refuse", "prevent", "do not", "gesture"]
+  },
+  "hand-swipe": {
+    "context": "A finger swiping sideways. Common in swipe gestures in onboarding, carousels, slide-to-unlock hints and touch tutorials.",
+    "keywords": ["swipe", "swiping", "slide", "scroll", "touch", "gesture", "drag", "touchscreen", "swipe left", "swipe right", "flick", "carousel", "next", "sideways", "horizontal scroll", "finger", "mobile", "tutorial", "onboarding", "slide to unlock"]
+  },
+  "hand-tap": {
+    "context": "A finger tapping, with ripples around its tip. Used for tap here prompts, touch gesture guides, contactless or tap-to-pay hints and button presses on mobile.",
+    "keywords": ["tap", "tapping", "touch", "press", "gesture", "select", "touchscreen", "tap here", "finger", "click", "contactless", "tap to pay", "nfc", "mobile", "button", "ripple", "double tap", "onboarding", "tutorial", "interact"]
+  },
+  "hand-wave": {
+    "context": "A tilted open hand with motion marks, waving. Used for hello and welcome messages, goodbye screens, greetings in chat and onboarding intros.",
+    "keywords": ["wave", "waving", "hello", "hi", "goodbye", "greeting", "bye", "welcome", "hey", "see you", "farewell", "salute", "intro", "onboarding", "friendly", "emoji", "reaction", "gesture", "cheerio", "howdy"]
+  },
+  "hand-write": {
+    "context": "A hand writing with a pen. Used for signatures and e-signing, writing or editing notes, handwriting input, forms to fill in and journaling.",
+    "keywords": ["write", "writing", "sign", "signature", "e-signature", "esign", "pen", "handwriting", "note", "notes", "edit", "compose", "author", "journal", "fill in", "form", "draft", "calligraphy", "sign here", "penmanship", "letter"]
+  },
+  "pray": {
+    "context": "Two palms pressed together. Used for please and thank you, prayer and gratitude, namaste greetings, hoping for something and respectful apologies.",
+    "keywords": ["please", "thanks", "thank you", "hope", "namaste", "gratitude", "prayer", "praying", "grateful", "folded hands", "hands together", "bless", "blessing", "faith", "religion", "spiritual", "sorry", "beg", "respect", "yoga"]
+  },
+  "thumbs-down": {
+    "context": "A thumbs-down hand. Used for dislikes and downvotes, negative feedback, rejecting or disapproving, not helpful buttons and poor ratings.",
+    "keywords": ["dislike", "reject", "bad", "no", "disagree", "downvote", "thumb down", "disapprove", "negative", "not helpful", "unhelpful", "poor", "fail", "vote down", "nope", "boo", "feedback", "rating", "gesture", "emoji", "unlike"]
+  },
+  "thumbs-up": {
+    "context": "A thumbs-up hand. Used for like buttons and upvotes, positive feedback, was this helpful prompts, and approval or okay replies.",
+    "keywords": ["like", "approve", "good", "yes", "agree", "upvote", "thumb up", "approval", "positive", "helpful", "great", "nice", "ok", "okay", "success", "vote up", "feedback", "rating", "gesture", "emoji", "well done", "cool"]
+  }
+}

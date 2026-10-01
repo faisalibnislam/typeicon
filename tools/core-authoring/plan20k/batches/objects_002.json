@@ -1,0 +1,482 @@
+[
+ {
+  "name": "paste-brush",
+  "category": "objects",
+  "draw": "Wide flat brush with thick bristles beside an open pot of paste.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "rubber-cement",
+  "category": "objects",
+  "draw": "Glass jar with a brush attached under the screw lid.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "caulk-gun",
+  "category": "objects",
+  "draw": "Frame gun with a trigger handle holding a long cartridge with a pointed nozzle.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "sealant-tube",
+  "category": "objects",
+  "draw": "Soft tube with a long pointed nozzle and a bead of sealant coming out.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "iron-on-patch",
+  "category": "objects",
+  "draw": "Embroidered badge patch with an iron hovering above it.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "sticker-roll",
+  "category": "objects",
+  "draw": "Roll of round stickers on a backing strip with the end pulled out.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "reinforcement-label",
+  "category": "objects",
+  "draw": "Punched paper hole with a small ring sticker around it.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "price-gun",
+  "category": "objects",
+  "draw": "Handheld labeller with a trigger grip and a strip of price stickers coming out.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "bow-knot",
+  "category": "objects",
+  "draw": "Simple bow tied in a string with two loops and two tails.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "tangled-string",
+  "category": "objects",
+  "draw": "Messy loop of string knotted in the middle with loose ends.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "tangled-cable",
+  "category": "objects",
+  "draw": "Knot of tangled cable with a plug at one end.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "cable-organizer",
+  "category": "objects",
+  "draw": "Row of cables held side by side in a slotted holder on a desk edge.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "paper-fastener",
+  "category": "objects",
+  "draw": "Brass split pin with a round head and two flat legs spread apart.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "ball-chain",
+  "category": "objects",
+  "draw": "Short length of beaded ball chain ending in a small connector.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "phone-strap",
+  "category": "objects",
+  "draw": "Short wrist loop cord attached to the corner of a phone.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "over-door-hook",
+  "category": "objects",
+  "draw": "Hook that loops over the top of a door with two hooks hanging on the front.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "adhesive-hook",
+  "category": "objects",
+  "draw": "Small hook on a flat square adhesive pad with a pull tab.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "suction-hook",
+  "category": "objects",
+  "draw": "Round suction cup with a hook underneath on a tiled surface.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "purse-hook",
+  "category": "objects",
+  "draw": "Folding hook hanging off a table edge with a bag strap on it.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "bike-hook",
+  "category": "objects",
+  "draw": "Wall hook holding a bicycle wheel from the rim.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "hook-rail",
+  "category": "objects",
+  "draw": "Wooden board with a row of four peg hooks.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "curtain-ring",
+  "category": "objects",
+  "draw": "Ring with a small clip hanging from a curtain pole.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "meat-hook",
+  "category": "objects",
+  "draw": "S-shaped butcher hook with sharp pointed ends.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "wreath-hanger",
+  "category": "objects",
+  "draw": "Thin metal hanger over the top of a door holding a wreath.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "shepherds-hook",
+  "category": "objects",
+  "draw": "Tall garden rod with a curled top holding a hanging lantern.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "headphone-hook",
+  "category": "objects",
+  "draw": "Under-desk hook holding a pair of headphones by the band.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "scarf-hanger",
+  "category": "objects",
+  "draw": "Hanger with a row of round holes, a scarf threaded through one.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "belt-hanger",
+  "category": "objects",
+  "draw": "Hanger with a vertical bar of small hooks holding belts.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "cascading-hanger",
+  "category": "objects",
+  "draw": "Vertical chain of hangers linked one below another.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "shirt-on-hanger",
+  "category": "objects",
+  "draw": "Button-up shirt draped on a coat hanger.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "hanging-shoe-organizer",
+  "category": "objects",
+  "draw": "Fabric panel of clear pockets holding shoes hung over a door.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "hanging-closet-organizer",
+  "category": "objects",
+  "draw": "Fabric shelf column hanging from a rail with folded clothes in its cubbies.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "closet-rod",
+  "category": "objects",
+  "draw": "Horizontal rod with end brackets and three hangers on it.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "wire-basket",
+  "category": "objects",
+  "draw": "Open metal grid basket with two fold-down handles.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "sewing-basket",
+  "category": "objects",
+  "draw": "Round lidded basket with a spool of thread and a needle stuck in the lid.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "back-basket",
+  "category": "objects",
+  "draw": "Tall woven basket with shoulder straps worn on the back.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "log-basket",
+  "category": "objects",
+  "draw": "Low wide woven basket with rope handles holding firewood logs.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "cat-basket",
+  "category": "objects",
+  "draw": "Round woven basket bed with a cushion and a curled cat.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "wine-cradle",
+  "category": "objects",
+  "draw": "Angled wicker holder cradling a wine bottle on its side.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "carry-caddy",
+  "category": "objects",
+  "draw": "Open tote tray with a central handle and divided sections of supplies.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "wallet-chain",
+  "category": "objects",
+  "draw": "Wallet with a curved chain running to a belt clip.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "phone-stand",
+  "category": "objects",
+  "draw": "Angled stand holding a smartphone upright on a desk.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "phone-ring-holder",
+  "category": "objects",
+  "draw": "Back of a phone with a small fold-out ring grip.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "phone-wallet",
+  "category": "objects",
+  "draw": "Back of a phone with a stick-on card pocket holding a card.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "phone-armband",
+  "category": "objects",
+  "draw": "Stretch band around an upper arm holding a phone in a clear window.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "charging-dock",
+  "category": "objects",
+  "draw": "Stand with a slot holding a phone and earbuds case side by side, a cable behind.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "tablet-stand",
+  "category": "objects",
+  "draw": "Folding stand holding a tablet at an angle.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "screen-protector",
+  "category": "objects",
+  "draw": "Clear film being peeled onto a phone screen at one corner.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "clip-on-sunglasses",
+  "category": "objects",
+  "draw": "Dark lenses on a small clip attached over a pair of regular glasses.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "eyeglass-screwdriver",
+  "category": "objects",
+  "draw": "Tiny screwdriver next to the hinge of a pair of glasses.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "tobacco-pipe",
+  "category": "objects",
+  "draw": "Curved smoking pipe with a round bowl and a long stem.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "cigar",
+  "category": "objects",
+  "draw": "Thick rolled cigar with a band near one end and a glowing tip.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "cigarette",
+  "category": "objects",
+  "draw": "Single cigarette with a filter end and a wisp of smoke.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "cigar-cutter",
+  "category": "objects",
+  "draw": "Guillotine cutter with two finger holes around a cigar tip.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "rolling-paper",
+  "category": "objects",
+  "draw": "Thin sheet of paper with a hand rolling it around loose tobacco.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "hookah",
+  "category": "objects",
+  "draw": "Tall water pipe with a round glass base, a bowl on top and a coiled hose.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "vape",
+  "category": "objects",
+  "draw": "Slim vaping pen with a mouthpiece and a cloud of vapor.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "ashtray",
+  "category": "objects",
+  "draw": "Round shallow dish with notches on the rim and a resting cigarette.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "nicotine-patch",
+  "category": "objects",
+  "draw": "Square skin patch with rounded corners stuck on an upper arm.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "ring-holder",
+  "category": "objects",
+  "draw": "Tapered cone stand with rings stacked on it.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "watch-winder",
+  "category": "objects",
+  "draw": "Box with a rotating cushion holding a wristwatch and turning arrows.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "jewelry-roll",
+  "category": "objects",
+  "draw": "Fabric roll partly unrolled with rings and earrings in pockets.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "drawer-organizer",
+  "category": "objects",
+  "draw": "Top-down view of an open drawer divided into small compartments.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "under-bed-storage",
+  "category": "objects",
+  "draw": "Low flat zipped storage box sliding under a bed frame.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "bin-label",
+  "category": "objects",
+  "draw": "Storage bin with a label holder clipped to the front.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "boot-tray",
+  "category": "objects",
+  "draw": "Shallow rimmed tray holding a pair of wet boots.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "hand-fan",
+  "category": "objects",
+  "draw": "Round rigid paddle fan with a straight handle and radiating ribs.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "neck-fan",
+  "category": "objects",
+  "draw": "Horseshoe-shaped fan worn around the neck with vents on both arms.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "cooling-towel",
+  "category": "objects",
+  "draw": "Towel draped around a neck with small snowflakes beside it.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "furniture-pads",
+  "category": "objects",
+  "draw": "Chair leg with a round felt pad on its foot.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "curtain-tieback",
+  "category": "objects",
+  "draw": "Curtain gathered to one side by a tasseled cord.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "valet-tray",
+  "category": "objects",
+  "draw": "Shallow tray holding keys, a watch and coins.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "paper-straw",
+  "category": "objects",
+  "draw": "Straw with diagonal stripes standing in a cup.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "bedsheet",
+  "category": "objects",
+  "draw": "Flat sheet folded in a neat rectangle with a hem line along one edge.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "fitted-sheet",
+  "category": "objects",
+  "draw": "Sheet with elasticated rounded corners pulled over a mattress corner.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "bolster-pillow",
+  "category": "objects",
+  "draw": "Long cylindrical pillow with gathered ends lying on a bed.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "bed-rail",
+  "category": "objects",
+  "draw": "Low fold-down safety rail fixed along the side of a bed.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "bed-warmer",
+  "category": "objects",
+  "draw": "Round lidded brass pan on a long wooden handle.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "kamidana",
+  "category": "objects",
+  "draw": "Small wall shelf shrine with a miniature roof and a rope with paper streamers.",
+  "domain": "r2-household-objects"
+ },
+ {
+  "name": "omikuji",
+  "category": "objects",
+  "draw": "Folded paper fortune strip tied in a knot around a string line.",
+  "domain": "r2-household-objects"
+ }
+]

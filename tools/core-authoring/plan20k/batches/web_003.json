@@ -1,0 +1,482 @@
+[
+ {
+  "name": "search-penalty",
+  "category": "web",
+  "draw": "Search result page with a heavy downward arrow and a gavel beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "seo-cloaking",
+  "category": "web",
+  "draw": "Page with a mask over its upper half, showing one face to a robot and another to a person on either side.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "alt-text",
+  "category": "web",
+  "draw": "Image frame with a mountain and sun and a speech bubble with text lines coming off its corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "aria-label",
+  "category": "web",
+  "draw": "Button shape with a small tag attached by a string to its corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "contrast-ratio",
+  "category": "web",
+  "draw": "Two overlapping squares, one filled and one outlined, with a small colon ratio mark between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "keyboard-navigation",
+  "category": "web",
+  "draw": "Keyboard with a tab key arrow and a dashed focus outline around one key.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "dyslexic-font",
+  "category": "web",
+  "draw": "Letter a and letter b with visibly heavier weighted bottoms sitting on a baseline.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "reduced-motion",
+  "category": "web",
+  "draw": "Three horizontal motion speed lines with a pause symbol at their right end.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "colorblind-mode",
+  "category": "web",
+  "draw": "Eye with its iris split into two different hatch patterns.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "semantic-html",
+  "category": "web",
+  "draw": "Page outline divided into labelled blocks: a header bar, a nav strip, a main area and a footer bar.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "switch-access",
+  "category": "web",
+  "draw": "Large round push button switch on a flat base with a cable leading off to the side.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "screen-magnifier",
+  "category": "web",
+  "draw": "Monitor with a magnifying glass over part of the screen enlarging one letter.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "accessibility-audit",
+  "category": "web",
+  "draw": "Clipboard with a round accessibility figure on the top and check lines below.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "readability-score",
+  "category": "web",
+  "draw": "Page with text lines and a small semicircle gauge at its bottom.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "focus-trap",
+  "category": "web",
+  "draw": "Modal box with a dashed focus outline and a circular arrow cycling inside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "braille-display",
+  "category": "web",
+  "draw": "Flat device bar with a row of raised dot cells and small keys along its front edge.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "eye-gaze-control",
+  "category": "web",
+  "draw": "Eye with a dotted line from its pupil to an arrow cursor on a screen.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "audio-captcha",
+  "category": "web",
+  "draw": "Captcha box with a small speaker and sound wave arcs beside a checkbox.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-vitals",
+  "category": "web",
+  "draw": "Three small semicircle gauges in a row with needles at different positions.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "layout-shift",
+  "category": "web",
+  "draw": "Page with a content block outline and a dashed copy of it offset downward with a small arrow.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "lazy-loading",
+  "category": "web",
+  "draw": "Vertical page with solid image blocks at the top and dashed empty placeholders further down.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "code-splitting",
+  "category": "web",
+  "draw": "Code brackets block broken into three separate chunks with gaps between them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "tree-shaking",
+  "category": "web",
+  "draw": "Small tree with a few leaves falling off from its branches.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "page-hydration",
+  "category": "web",
+  "draw": "Browser window with a water drop falling onto the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "performance-budget",
+  "category": "web",
+  "draw": "Wallet with a small speed gauge on its front.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "http-compression",
+  "category": "web",
+  "draw": "File page squeezed between two clamp jaws with arrows pressing inward.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "image-compression",
+  "category": "web",
+  "draw": "Large image frame with an inward arrow pointing to a smaller image frame beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "page-cache",
+  "category": "web",
+  "draw": "Page stacked inside an open box with a small lightning bolt beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "render-blocking-script",
+  "category": "web",
+  "draw": "Script tag block standing in front of a browser page like a barrier.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "responsive-images",
+  "category": "web",
+  "draw": "Same mountain picture drawn in three frame sizes, small, medium and large, lined up.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "bundle-size",
+  "category": "web",
+  "draw": "Parcel box sitting on a weighing scale.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "dropped-frames",
+  "category": "web",
+  "draw": "Film strip of four frames with one frame missing and dashed in the middle.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "site-health",
+  "category": "web",
+  "draw": "Browser window with a heartbeat pulse line across the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "container-query",
+  "category": "web",
+  "draw": "Box with a smaller component inside it and a short ruler along the inner top edge.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "content-management-system",
+  "category": "web",
+  "draw": "Browser window with stacked content blocks in the page and a pencil beside them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "headless-cms",
+  "category": "web",
+  "draw": "Stack of content blocks sending three arrows out to a phone, a monitor and a watch.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "block-editor",
+  "category": "web",
+  "draw": "Three stacked content blocks with a small plus inserter circle between two of them.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "page-builder",
+  "category": "web",
+  "draw": "Browser window with an arrow cursor dragging a section block into place in the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "content-calendar",
+  "category": "web",
+  "draw": "Calendar grid with small post rectangles placed on several of its days.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "user-roles",
+  "category": "web",
+  "draw": "Three person silhouettes of different sizes with a small crown, key and pencil above each.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "website-theme",
+  "category": "web",
+  "draw": "Browser window with a paint palette in the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "comment-moderation",
+  "category": "web",
+  "draw": "Speech bubble with a small gavel over its corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "static-site-generator",
+  "category": "web",
+  "draw": "Gear feeding into a stack of three plain pages with a small lightning bolt.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "featured-image",
+  "category": "web",
+  "draw": "Post page with a large image block at the top marked with a small star and text lines below.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "multisite-network",
+  "category": "web",
+  "draw": "Central browser window linked by lines to three smaller browser windows around it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "code-playground",
+  "category": "web",
+  "draw": "Browser window split into a left code pane with angle brackets and a right preview pane.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "z-pattern-layout",
+  "category": "web",
+  "draw": "Page outline with a bold Z shaped path running across it from top left to bottom right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "f-pattern-layout",
+  "category": "web",
+  "draw": "Page outline with an F shaped set of bold scan lines along its top and left side.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "asymmetric-layout",
+  "category": "web",
+  "draw": "Page divided into a wide left column and a narrow right column of unequal blocks.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "broken-grid-layout",
+  "category": "web",
+  "draw": "Grid of blocks where one image block overlaps across two cells and the page edge.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "map-list-layout",
+  "category": "web",
+  "draw": "Screen split into a list of three rows on the left and a map with a pin on the right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "product-listing-layout",
+  "category": "web",
+  "draw": "Page with a narrow filter column of checkboxes on the left and a two by two product card grid on the right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "client-logo-strip",
+  "category": "web",
+  "draw": "Horizontal band with a row of four simple placeholder shapes: circle, square, triangle and hexagon.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "feature-grid",
+  "category": "web",
+  "draw": "Three by two grid of small squares, each with a short line under it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "visual-hierarchy",
+  "category": "web",
+  "draw": "Three stacked text bars decreasing in size and weight from top to bottom.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "above-the-fold",
+  "category": "web",
+  "draw": "Page outline with a dashed horizontal line across its upper part and content above it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "long-scroll-page",
+  "category": "web",
+  "draw": "Very tall page extending above and below a small screen frame, with a scroll arrow beside it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "shape-divider",
+  "category": "web",
+  "draw": "Two stacked page sections separated by a wavy edge.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "lightbox-gallery",
+  "category": "web",
+  "draw": "Dimmed page with an enlarged image framed in the center and small arrows on its sides.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "fluid-layout",
+  "category": "web",
+  "draw": "Page with content blocks and two outward arrows at its sides showing it stretches.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "mobile-first",
+  "category": "web",
+  "draw": "Large phone outline in front of a smaller monitor outline behind it.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "browser-viewport",
+  "category": "web",
+  "draw": "Browser window frame with a dashed rectangle marking the visible area over a larger page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "neumorphism",
+  "category": "web",
+  "draw": "Rounded square button softly raised from a flat surface with a light edge and a shadow edge.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "lorem-ipsum",
+  "category": "web",
+  "draw": "Paragraph of wavy placeholder squiggle lines inside a dashed frame.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "css-box-model",
+  "category": "web",
+  "draw": "Four nested rectangles, each smaller one centered inside the previous.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "author-box",
+  "category": "web",
+  "draw": "Box with a round portrait on the left and a name line with two bio lines on the right.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "related-posts",
+  "category": "web",
+  "draw": "Article text lines above a row of three small cards with image blocks.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "social-share-bar",
+  "category": "web",
+  "draw": "Vertical strip of four small circles stuck to the left edge of a page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "zigzag-sections",
+  "category": "web",
+  "draw": "Page with three rows where image blocks alternate from left to right beside text lines.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "fullscreen-menu-overlay",
+  "category": "web",
+  "draw": "Browser window fully covered by a panel with three large centered menu lines and a close cross.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "full-bleed-image",
+  "category": "web",
+  "draw": "Page with a text column and an image block that stretches to both page edges.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "scroll-reveal",
+  "category": "web",
+  "draw": "Page with blocks fading in from dashed to solid as they go up, and a small scroll arrow at the side.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "web-design",
+  "category": "web",
+  "draw": "Browser window with a pen nib and a ruler crossed in the page.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "usability-testing",
+  "category": "web",
+  "draw": "Person silhouette at a monitor with an eye above and a clipboard beside.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "design-handoff",
+  "category": "web",
+  "draw": "Artboard frame passing along an arrow to a pair of code angle brackets.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "cross-browser-testing",
+  "category": "web",
+  "draw": "Three small overlapping browser windows with a tick in the front one.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "fieldset",
+  "category": "web",
+  "draw": "Rectangle border with a short legend label breaking the top edge and two input lines inside.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "input-mask",
+  "category": "web",
+  "draw": "Input field with a pattern of grouped underscores separated by dashes.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "terms-checkbox",
+  "category": "web",
+  "draw": "Checked checkbox next to a small document with folded corner.",
+  "domain": "r2-internet-web"
+ },
+ {
+  "name": "form-submissions",
+  "category": "web",
+  "draw": "Inbox tray filled with a stack of small form sheets with field lines.",
+  "domain": "r2-internet-web"
+ }
+]

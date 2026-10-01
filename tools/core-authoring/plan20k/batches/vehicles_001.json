@@ -1,0 +1,482 @@
+[
+ {
+  "name": "hatchback",
+  "category": "vehicles",
+  "draw": "Compact car in side view with a short rear that slopes steeply down into a tall rear hatch, no trunk step.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "station-wagon",
+  "category": "vehicles",
+  "draw": "Long car in side view with the roof running flat all the way back to a squared-off vertical tailgate.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "coupe",
+  "category": "vehicles",
+  "draw": "Low two-door car in side view with a long hood, one long door and a fastback roof sloping to the tail.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "suv",
+  "category": "vehicles",
+  "draw": "Tall boxy sport utility vehicle in side view with high ground clearance, big wheels and roof rails.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "compact-car",
+  "category": "vehicles",
+  "draw": "Very short rounded city car in side view with two wheels close together and almost no overhang.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "microcar",
+  "category": "vehicles",
+  "draw": "Tiny egg-shaped bubble car in side view with one front-opening door and three small wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "limousine",
+  "category": "vehicles",
+  "draw": "Very long stretched car in side view with many side windows in a row and a wheel at each end.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "muscle-car",
+  "category": "vehicles",
+  "draw": "Long heavy coupe in side view with a bulging hood scoop, flat roof and wide rear tires.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "hot-rod",
+  "category": "vehicles",
+  "draw": "Vintage roadster in side view with exposed chrome engine sticking up in front, huge rear wheels and small front wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "vintage-car",
+  "category": "vehicles",
+  "draw": "1920s car in side view with upright boxy cabin, separate curved fenders, running board and spoked wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "lowrider",
+  "category": "vehicles",
+  "draw": "Long old sedan sitting almost on the ground with small wire wheels and the front bouncing up off the road.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "rally-car",
+  "category": "vehicles",
+  "draw": "Hatchback in side view with a big rear wing, roof vent, mud flaps and a spray of dirt behind the rear wheel.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "dragster",
+  "category": "vehicles",
+  "draw": "Very long thin race car in side view with a needle nose, tiny front wheels and giant fat rear wheels with a high wing.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "go-kart",
+  "category": "vehicles",
+  "draw": "Low open kart in side view with a seated driver in a helmet, small wheels and a steering wheel over the lap.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "dune-buggy",
+  "category": "vehicles",
+  "draw": "Open buggy in side view with an exposed tube roll cage, no doors, big knobby rear tires and a rear engine.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "off-road-vehicle",
+  "category": "vehicles",
+  "draw": "Boxy four-by-four in side view with a spare tire mounted on the back door, snorkel and chunky tread tires.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "self-driving-car",
+  "category": "vehicles",
+  "draw": "Car in side view with a rounded sensor dome on the roof sending out small radar arcs.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "hearse",
+  "category": "vehicles",
+  "draw": "Long dark estate car in side view with a tall closed rear compartment, curtained window and ornamental S-shaped bar.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-top-view",
+  "category": "vehicles",
+  "draw": "Car seen from directly above: rounded rectangle body with windshield, roof panel, rear window and four tire edges.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "soapbox-racer",
+  "category": "vehicles",
+  "draw": "Homemade wooden gravity racer in side view: a plank box with four mismatched wheels and a rope steering loop.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "drifting-car",
+  "category": "vehicles",
+  "draw": "Car angled sideways with front wheels turned and puffs of tire smoke streaming from the rear wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "semi-truck",
+  "category": "vehicles",
+  "draw": "Big rig in side view: tall cab with exhaust stack in front, coupled to a long box trailer with many wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "flatbed-truck",
+  "category": "vehicles",
+  "draw": "Truck in side view with a cab and a flat open deck behind it carrying nothing, rails at the deck edge.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tanker-truck",
+  "category": "vehicles",
+  "draw": "Truck in side view pulling a long horizontal cylinder tank with a ladder and a hatch on top.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "refrigerated-truck",
+  "category": "vehicles",
+  "draw": "Box truck in side view with a small cooling unit box mounted above the cab end of the cargo box and a snowflake on the side.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-transporter",
+  "category": "vehicles",
+  "draw": "Two-deck open trailer truck in side view carrying small cars stacked on upper and lower ramps.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "logging-truck",
+  "category": "vehicles",
+  "draw": "Truck in side view with a load of stacked round log ends held between upright stakes.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "monster-truck",
+  "category": "vehicles",
+  "draw": "Pickup body perched high on gigantic tractor-tread tires, taller than the body itself.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "ice-cream-truck",
+  "category": "vehicles",
+  "draw": "Van in side view with a serving window, a giant soft-serve cone on the roof and a small awning.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "food-truck",
+  "category": "vehicles",
+  "draw": "Truck in side view with a large open serving hatch propped up as an awning and a small menu board.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "mail-truck",
+  "category": "vehicles",
+  "draw": "Small upright boxy delivery vehicle in side view with a sliding open driver door and an envelope on the side.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "armored-truck",
+  "category": "vehicles",
+  "draw": "Heavy squared-off truck in side view with tiny slit windows, thick panels and a padlock symbol on the rear door.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "snowplow",
+  "category": "vehicles",
+  "draw": "Truck in side view with a big curved angled blade in front pushing a pile of snow.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "salt-spreader",
+  "category": "vehicles",
+  "draw": "Truck in side view with a hopper on the back and a spinning disc at the rear throwing a fan of grit dots.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "vacuum-truck",
+  "category": "vehicles",
+  "draw": "Truck in side view with a large rear tank and a thick hose coiled along the side hanging to the ground.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "mobile-library",
+  "category": "vehicles",
+  "draw": "Bus-sized van in side view with an open side door and shelves of book spines visible through the windows.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "lowboy-trailer",
+  "category": "vehicles",
+  "draw": "Truck cab pulling a very low dropped-deck trailer carrying a small excavator.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "school-bus",
+  "category": "vehicles",
+  "draw": "Long bus in side view with a short hood in front, many small windows and a fold-out stop sign by the driver.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "articulated-bus",
+  "category": "vehicles",
+  "draw": "Very long bus in side view made of two sections joined by an accordion bellows in the middle.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "trolleybus",
+  "category": "vehicles",
+  "draw": "Bus in side view with two long poles on the roof reaching up to two overhead wires.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "minibus",
+  "category": "vehicles",
+  "draw": "Short high-roof bus in side view with a sliding door and three side windows.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "police-van",
+  "category": "vehicles",
+  "draw": "Tall van in side view with a light bar on the roof, a checkered stripe and barred rear windows.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "police-motorcycle",
+  "category": "vehicles",
+  "draw": "Large touring motorcycle in side view with a windshield, saddlebags and a flashing light on a rear pole.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "caravan-trailer",
+  "category": "vehicles",
+  "draw": "Rounded travel trailer in side view with one axle, a door, a window and a tow hitch sticking out in front.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "teardrop-trailer",
+  "category": "vehicles",
+  "draw": "Small teardrop-shaped camping trailer in side view with a curved back, one side door and one wheel.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "utility-trailer",
+  "category": "vehicles",
+  "draw": "Small open-box trailer in side view with one wheel, low sides and a triangle tongue to the hitch.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "rooftop-tent",
+  "category": "vehicles",
+  "draw": "Car in side view with a tent unfolded on its roof and a ladder leaning down to the ground.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "dirt-bike",
+  "category": "vehicles",
+  "draw": "Tall lightweight off-road motorcycle in side view with a high front mudguard, knobby tires and a short seat.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "chopper-motorcycle",
+  "category": "vehicles",
+  "draw": "Motorcycle in side view with a very long raked front fork, tall ape-hanger handlebars and a low seat.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "touring-motorcycle",
+  "category": "vehicles",
+  "draw": "Heavy motorcycle in side view with a large front fairing and windshield, hard saddlebags and a rear top box.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "sidecar-motorcycle",
+  "category": "vehicles",
+  "draw": "Motorcycle in side view with a bullet-shaped passenger sidecar attached beside it on its own wheel.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "trike-motorcycle",
+  "category": "vehicles",
+  "draw": "Three-wheeled motorcycle seen from a rear three-quarter view with one front wheel and two wide rear wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "quad-bike",
+  "category": "vehicles",
+  "draw": "All-terrain vehicle in side view with four fat knobby tires, straddle seat and handlebars, racks front and back.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "delivery-scooter",
+  "category": "vehicles",
+  "draw": "Step-through motor scooter in side view with a large square delivery box mounted behind the seat.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "golf-cart",
+  "category": "vehicles",
+  "draw": "Small open cart in side view with a flat canopy roof on thin poles, a bench seat and a golf bag on the back.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "snowmobile",
+  "category": "vehicles",
+  "draw": "Snow sled vehicle in side view with two front skis, a rear rubber track and handlebars behind a small windshield.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "snowcat",
+  "category": "vehicles",
+  "draw": "Tracked snow groomer in side view with a boxy cab on wide tracks, a front blade and a rear comb tiller.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "auto-rickshaw",
+  "category": "vehicles",
+  "draw": "Three-wheeled motor taxi in side view with a canvas-roofed passenger cabin, open sides and one front wheel.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "cycle-rickshaw",
+  "category": "vehicles",
+  "draw": "Tricycle taxi in side view: a rider pedaling at the front and a hooded passenger bench over two rear wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "rickshaw",
+  "category": "vehicles",
+  "draw": "Hand-pulled two-wheeled cart in side view with a hooded seat on large wheels and two long pulling shafts.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "jeepney",
+  "category": "vehicles",
+  "draw": "Long colorful jeep-style bus in side view with an open rear entrance, side benches and a row of small windows.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "hoverboard",
+  "category": "vehicles",
+  "draw": "Self-balancing board in three-quarter view: two wheels at the ends of a narrow platform with two foot pads.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "self-balancing-scooter",
+  "category": "vehicles",
+  "draw": "Two-wheeled stand-up personal transporter with a tall handlebar column rising from a platform between the wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "electric-unicycle",
+  "category": "vehicles",
+  "draw": "Single thick wheel in a rounded shell with fold-out foot pedals on each side and a carry handle on top.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "unicycle",
+  "category": "vehicles",
+  "draw": "One-wheeled cycle in side view with a single spoked wheel, pedals at the hub and a seat on a tall post.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "covered-wagon",
+  "category": "vehicles",
+  "draw": "Pioneer wagon in side view with an arched white canvas cover on hoops and large wooden spoked wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "chariot",
+  "category": "vehicles",
+  "draw": "Ancient two-wheeled chariot in side view with a curved front guard, one large spoked wheel and a pole forward.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "road-bike",
+  "category": "vehicles",
+  "draw": "Racing bicycle in side view with thin tires, drop handlebars curling down and a horizontal top tube.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "mountain-bike",
+  "category": "vehicles",
+  "draw": "Bicycle in side view with thick knobby tires, a front suspension fork, flat handlebars and a sloping top tube.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bmx-bike",
+  "category": "vehicles",
+  "draw": "Small stunt bicycle in side view with small wheels, high raised handlebars with a crossbar and pegs on the hubs.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tandem-bicycle",
+  "category": "vehicles",
+  "draw": "Long bicycle in side view with two seats and two sets of handlebars one behind the other.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "penny-farthing",
+  "category": "vehicles",
+  "draw": "Victorian bicycle in side view with a huge front wheel, a tiny rear wheel and a seat high on top.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "recumbent-bicycle",
+  "category": "vehicles",
+  "draw": "Low bicycle in side view with a reclining chair seat and the pedals stretched out in front at seat height.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "cargo-bike",
+  "category": "vehicles",
+  "draw": "Long bicycle in side view with a large open box between the handlebars and the low front wheel.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "folding-bike",
+  "category": "vehicles",
+  "draw": "Small-wheeled bicycle folded in half with both wheels side by side and the handlebar stem folded down.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "beach-cruiser-bike",
+  "category": "vehicles",
+  "draw": "Upright bicycle in side view with a curved swooping frame, wide swept-back handlebars and balloon tires.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "fat-tire-bike",
+  "category": "vehicles",
+  "draw": "Bicycle in side view with extremely wide balloon tires about twice as thick as normal.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "time-trial-bike",
+  "category": "vehicles",
+  "draw": "Aerodynamic racing bicycle in side view with solid disc rear wheel and forward-pointing aero bars.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "handcycle",
+  "category": "vehicles",
+  "draw": "Low three-wheeled cycle in side view with the rider reclined and turning hand cranks at chest height.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "velomobile",
+  "category": "vehicles",
+  "draw": "Enclosed pedal vehicle in side view: a smooth teardrop shell with a small head opening, three wheels barely showing.",
+  "domain": "road-vehicles"
+ }
+]

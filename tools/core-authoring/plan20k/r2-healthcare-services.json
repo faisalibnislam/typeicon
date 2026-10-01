@@ -1,0 +1,752 @@
+[
+  {
+    "name": "pediatric-care",
+    "category": "healthcare",
+    "draw": "Teddy bear sitting upright with a stethoscope draped around its neck and the chest piece hanging on its belly."
+  },
+  {
+    "name": "family-medicine",
+    "category": "healthcare",
+    "draw": "Two adult figures and one child figure side by side under a single arched roof line with a small medical cross at the peak."
+  },
+  {
+    "name": "plastic-surgery",
+    "category": "healthcare",
+    "draw": "Face in side profile with dashed surgical marking lines drawn along the nose bridge and across the cheek."
+  },
+  {
+    "name": "womens-health",
+    "category": "healthcare",
+    "draw": "Female symbol (circle with a small cross below) with a small heart outline inside the circle."
+  },
+  {
+    "name": "mens-health",
+    "category": "healthcare",
+    "draw": "Male symbol (circle with an arrow pointing out of the upper right) with a small heart outline inside the circle."
+  },
+  {
+    "name": "heart-surgery",
+    "category": "healthcare",
+    "draw": "Anatomical heart with a vertical dashed incision line down its front and a small scalpel angled beside it."
+  },
+  {
+    "name": "organ-transplant",
+    "category": "healthcare",
+    "draw": "Kidney shape passing between two open hands, one giving from the left and one receiving on the right, with a curved arrow above."
+  },
+  {
+    "name": "gastric-band",
+    "category": "healthcare",
+    "draw": "Stomach outline with an adjustable ring band clamped around its narrow upper section and a thin tube leading off."
+  },
+  {
+    "name": "sports-medicine",
+    "category": "healthcare",
+    "draw": "Soccer ball with an adhesive bandage strip stuck diagonally across it."
+  },
+  {
+    "name": "occupational-health",
+    "category": "healthcare",
+    "draw": "Construction hard hat seen from the side with a medical cross on its front."
+  },
+  {
+    "name": "travel-vaccination",
+    "category": "healthcare",
+    "draw": "Closed passport booklet with a syringe laid diagonally across its cover."
+  },
+  {
+    "name": "root-canal",
+    "category": "healthcare",
+    "draw": "Tooth cross section showing two roots with a thin needle file inserted down one root canal."
+  },
+  {
+    "name": "hospice",
+    "category": "healthcare",
+    "draw": "Small house outline with a bed inside and a heart floating above the roof."
+  },
+  {
+    "name": "prenatal-care",
+    "category": "healthcare",
+    "draw": "Pregnant figure in profile with a stethoscope chest piece resting against the rounded belly."
+  },
+  {
+    "name": "cesarean-section",
+    "category": "healthcare",
+    "draw": "Rounded pregnant belly outline with a short horizontal dashed incision line low across it."
+  },
+  {
+    "name": "epidural",
+    "category": "healthcare",
+    "draw": "Stack of three lower spine vertebrae seen from the side with a long needle entering the gap between two of them."
+  },
+  {
+    "name": "egg-freezing",
+    "category": "healthcare",
+    "draw": "Small cryogenic vial holding a round egg cell with a snowflake beside the vial."
+  },
+  {
+    "name": "chemotherapy",
+    "category": "healthcare",
+    "draw": "IV drip bag with a spiky cell symbol printed on it and a tube running down from the bottom."
+  },
+  {
+    "name": "cardiac-stress-test",
+    "category": "healthcare",
+    "draw": "Figure walking on a treadmill with wires running from the chest to a small screen showing a heartbeat trace."
+  },
+  {
+    "name": "sleep-study",
+    "category": "healthcare",
+    "draw": "Person asleep in bed with electrode wires running from the head to a small monitor on the bedside."
+  },
+  {
+    "name": "neonatal-phototherapy",
+    "category": "healthcare",
+    "draw": "Newborn lying in an open bassinet under a horizontal lamp bar that shines rays down onto the baby."
+  },
+  {
+    "name": "gene-therapy",
+    "category": "healthcare",
+    "draw": "Short DNA double helix with a syringe needle pointing into one of its strands."
+  },
+  {
+    "name": "blood-draw",
+    "category": "healthcare",
+    "draw": "Forearm with a tourniquet band above the elbow and a needle with a small collection tube at the inner elbow."
+  },
+  {
+    "name": "cast-saw",
+    "category": "healthcare",
+    "draw": "Handheld oscillating cast saw with a round blade at its tip cutting into a plaster cast."
+  },
+  {
+    "name": "auscultation",
+    "category": "healthcare",
+    "draw": "Standing doctor figure pressing a stethoscope chest piece against the back of a seated patient."
+  },
+  {
+    "name": "physical-therapy",
+    "category": "healthcare",
+    "draw": "Patient lying on a treatment table while a therapist figure bends the patient's raised leg at the knee."
+  },
+  {
+    "name": "occupational-therapy",
+    "category": "healthcare",
+    "draw": "Hand placing a round peg into one of the holes of a square pegboard."
+  },
+  {
+    "name": "speech-therapy",
+    "category": "healthcare",
+    "draw": "Mouth in side profile with sound wave arcs coming out and a speech bubble containing the letter A."
+  },
+  {
+    "name": "art-therapy",
+    "category": "healthcare",
+    "draw": "Painter's palette with a heart shaped paint dab in the middle and a brush resting across it."
+  },
+  {
+    "name": "music-therapy",
+    "category": "healthcare",
+    "draw": "Musical eighth note whose note head is a heart."
+  },
+  {
+    "name": "vr-therapy",
+    "category": "healthcare",
+    "draw": "Virtual reality headset seen from the front with a small heart floating above it."
+  },
+  {
+    "name": "therapy-putty",
+    "category": "healthcare",
+    "draw": "Hand squeezing a soft round blob of putty with finger dents pressed into it."
+  },
+  {
+    "name": "tooth-extraction",
+    "category": "healthcare",
+    "draw": "Molar with long roots lifted clear above a curved gum line with a single upward arrow above the tooth."
+  },
+  {
+    "name": "dental-crown",
+    "category": "healthcare",
+    "draw": "Crown cap hovering just above a filed down tooth stump that sits in the gum."
+  },
+  {
+    "name": "dental-filling",
+    "category": "healthcare",
+    "draw": "Molar seen from the side with a solid filled patch on its biting surface."
+  },
+  {
+    "name": "dental-veneer",
+    "category": "healthcare",
+    "draw": "Front tooth with a thin curved shell sliding onto its front face."
+  },
+  {
+    "name": "teeth-whitening",
+    "category": "healthcare",
+    "draw": "Front tooth with short shine lines radiating from its upper corner."
+  },
+  {
+    "name": "mouthguard",
+    "category": "healthcare",
+    "draw": "U shaped sports mouthguard tray seen from above with a thick rim."
+  },
+  {
+    "name": "orthodontic-headgear",
+    "category": "healthcare",
+    "draw": "Face in profile with a wire facebow coming out of the mouth and a strap wrapping around the back of the head."
+  },
+  {
+    "name": "palatal-expander",
+    "category": "healthcare",
+    "draw": "Upper dental arch seen from below with a small screw expander bridging the roof of the mouth between the back teeth."
+  },
+  {
+    "name": "eye-shield",
+    "category": "healthcare",
+    "draw": "Perforated oval eye shield held over an eye with two strips of tape."
+  },
+  {
+    "name": "eyeglass-prescription",
+    "category": "healthcare",
+    "draw": "Prescription sheet with a pair of glasses drawn at the top and a small grid of values below."
+  },
+  {
+    "name": "tumbling-e-chart",
+    "category": "healthcare",
+    "draw": "Eye chart made of capital E shapes facing different directions, getting smaller row by row."
+  },
+  {
+    "name": "audiogram",
+    "category": "healthcare",
+    "draw": "Hearing test graph with a line of small circles and a line of small crosses sloping downward across a grid."
+  },
+  {
+    "name": "urgent-care",
+    "category": "healthcare",
+    "draw": "Clinic storefront with a medical cross sign over the door and a lightning bolt beside the sign."
+  },
+  {
+    "name": "walk-in-clinic",
+    "category": "healthcare",
+    "draw": "Open doorway with a walking figure stepping through it and a medical cross above the door."
+  },
+  {
+    "name": "maternity-ward",
+    "category": "healthcare",
+    "draw": "Hospital bed with raised head and a small bassinet holding a swaddled baby beside it."
+  },
+  {
+    "name": "intensive-care-unit",
+    "category": "healthcare",
+    "draw": "Patient in a hospital bed with a heartbeat monitor on the wall above and an IV bag on a pole beside the bed."
+  },
+  {
+    "name": "mobile-clinic",
+    "category": "healthcare",
+    "draw": "Boxy van with a medical cross on its side, an awning extended over the open side door and fold down steps."
+  },
+  {
+    "name": "house-call",
+    "category": "healthcare",
+    "draw": "House front door with a doctor's bag standing on the doorstep and a stethoscope looped over the bag."
+  },
+  {
+    "name": "health-post",
+    "category": "healthcare",
+    "draw": "Small hut with a pitched roof and a pole flag bearing a medical cross beside it."
+  },
+  {
+    "name": "hospital-ward",
+    "category": "healthcare",
+    "draw": "Front view of three beds in a row with a curtain rail running above them."
+  },
+  {
+    "name": "childrens-hospital",
+    "category": "healthcare",
+    "draw": "Hospital building with a medical cross on the facade and a balloon tied by the entrance."
+  },
+  {
+    "name": "bloodmobile",
+    "category": "healthcare",
+    "draw": "Bus seen from the side with a large blood drop on its body and an open door."
+  },
+  {
+    "name": "pharmacy-drive-through",
+    "category": "healthcare",
+    "draw": "Service window in a wall passing a pill bottle down to a car parked below it."
+  },
+  {
+    "name": "prescription-locker",
+    "category": "healthcare",
+    "draw": "Bank of small locker doors with one door open showing a pill bottle inside and a medical cross on top."
+  },
+  {
+    "name": "medicine-vending-machine",
+    "category": "healthcare",
+    "draw": "Vending machine with rows of small medicine boxes behind glass and a medical cross at the top."
+  },
+  {
+    "name": "health-kiosk",
+    "category": "healthcare",
+    "draw": "Freestanding booth with a screen, a small seat and a blood pressure cuff hanging from its side."
+  },
+  {
+    "name": "infusion-chair",
+    "category": "healthcare",
+    "draw": "Padded reclining chair with an IV pole and drip bag standing beside the armrest."
+  },
+  {
+    "name": "nurses-station",
+    "category": "healthcare",
+    "draw": "Curved counter with a computer monitor on top and a nurse cap symbol on the front panel."
+  },
+  {
+    "name": "clinic-reception",
+    "category": "healthcare",
+    "draw": "Reception desk with a service bell on top and a medical cross sign on the wall behind it."
+  },
+  {
+    "name": "patient-call-display",
+    "category": "healthcare",
+    "draw": "Wall screen showing a large ticket number and an arrow pointing toward a room number."
+  },
+  {
+    "name": "surgical-scrub-sink",
+    "category": "healthcare",
+    "draw": "Wide deep trough sink with a tall gooseneck faucet and a knee lever under the basin."
+  },
+  {
+    "name": "hospital-ship",
+    "category": "healthcare",
+    "draw": "Ship seen from the side with a large medical cross on the hull and a white superstructure."
+  },
+  {
+    "name": "ambulance-boat",
+    "category": "healthcare",
+    "draw": "Small motorboat with a medical cross on its cabin and a warning light on the cabin roof."
+  },
+  {
+    "name": "hospital-at-home",
+    "category": "healthcare",
+    "draw": "House outline containing a hospital bed and a heartbeat line above the bed."
+  },
+  {
+    "name": "paramedic-bicycle",
+    "category": "healthcare",
+    "draw": "Bicycle with panniers marked with medical crosses and a light on the handlebar."
+  },
+  {
+    "name": "paramedic-response-car",
+    "category": "healthcare",
+    "draw": "Estate car seen from the side with a light bar on its roof and a medical cross on the door."
+  },
+  {
+    "name": "pit-latrine",
+    "category": "healthcare",
+    "draw": "Small wooden outhouse hut with a slanted roof, a door and a vent pipe rising from the roof."
+  },
+  {
+    "name": "video-consultation",
+    "category": "healthcare",
+    "draw": "Laptop whose screen shows a doctor figure wearing a stethoscope."
+  },
+  {
+    "name": "doctor-chat",
+    "category": "healthcare",
+    "draw": "Speech bubble with a stethoscope drawn inside it."
+  },
+  {
+    "name": "e-prescription",
+    "category": "healthcare",
+    "draw": "Smartphone whose screen shows a large Rx symbol."
+  },
+  {
+    "name": "remote-patient-monitoring",
+    "category": "healthcare",
+    "draw": "House on the left sending a heartbeat trace through signal arcs to a monitor on the right."
+  },
+  {
+    "name": "health-app",
+    "category": "healthcare",
+    "draw": "Smartphone whose screen shows a heart with a heartbeat line across it."
+  },
+  {
+    "name": "symptom-checker",
+    "category": "healthcare",
+    "draw": "Smartphone whose screen shows a simple body outline with a question mark beside it."
+  },
+  {
+    "name": "online-pharmacy",
+    "category": "healthcare",
+    "draw": "Laptop whose screen shows a pill bottle with a small shopping cart below it."
+  },
+  {
+    "name": "prescription-delivery",
+    "category": "healthcare",
+    "draw": "Parcel box marked Rx with speed lines trailing behind it."
+  },
+  {
+    "name": "medical-hotline",
+    "category": "healthcare",
+    "draw": "Telephone handset with a speech bubble containing a medical cross."
+  },
+  {
+    "name": "ai-diagnosis",
+    "category": "healthcare",
+    "draw": "Magnifying glass over a heartbeat trace with small four point sparkles around the lens."
+  },
+  {
+    "name": "wearable-ecg-patch",
+    "category": "healthcare",
+    "draw": "Chest torso outline with a small adhesive patch on the left side showing a heartbeat line."
+  },
+  {
+    "name": "care-robot",
+    "category": "healthcare",
+    "draw": "Rounded humanoid robot wearing a nurse cap and holding a tray with a cup."
+  },
+  {
+    "name": "patient-portal",
+    "category": "healthcare",
+    "draw": "Browser window with a person avatar in the page and a medical cross in the header bar."
+  },
+  {
+    "name": "electronic-health-record",
+    "category": "healthcare",
+    "draw": "Computer monitor showing a document with a medical cross at the top and text lines below."
+  },
+  {
+    "name": "home-test-kit",
+    "category": "healthcare",
+    "draw": "Open box holding a swab, a sample tube and a return envelope."
+  },
+  {
+    "name": "contact-tracing",
+    "category": "healthcare",
+    "draw": "Smartphone in the center with network lines linking it to small person heads around it."
+  },
+  {
+    "name": "teledermatology",
+    "category": "healthcare",
+    "draw": "Smartphone camera frame with corner brackets focused on a mole on a patch of skin."
+  },
+  {
+    "name": "medical-dictation",
+    "category": "healthcare",
+    "draw": "Microphone standing beside a document with a medical cross at the top."
+  },
+  {
+    "name": "interpreter-services",
+    "category": "healthcare",
+    "draw": "Two overlapping speech bubbles, one containing the letter A and the other a medical cross."
+  },
+  {
+    "name": "pharmacy-counter",
+    "category": "healthcare",
+    "draw": "Counter with a pharmacist figure behind it and shelves of bottles on the wall behind."
+  },
+  {
+    "name": "pharmacy-shelves",
+    "category": "healthcare",
+    "draw": "Tall shelving unit with rows of bottles and boxes and a medical cross sign on top."
+  },
+  {
+    "name": "pill-pouch-strip",
+    "category": "healthcare",
+    "draw": "Strip of connected clear sachets, each holding a few pills, joined end to end in a short roll."
+  },
+  {
+    "name": "medication-drop-box",
+    "category": "healthcare",
+    "draw": "Metal drop box on a short post with a pull down slot and a pill bottle symbol on its front."
+  },
+  {
+    "name": "drug-interaction",
+    "category": "healthcare",
+    "draw": "Two different pills, a round tablet and a capsule, with a zigzag spark between them."
+  },
+  {
+    "name": "dosage-schedule",
+    "category": "healthcare",
+    "draw": "Card split into two columns headed by a sun and a moon with pill dots listed under each."
+  },
+  {
+    "name": "herbal-remedy",
+    "category": "healthcare",
+    "draw": "Small tincture bottle with a dropper cap and a leaf sprig beside it."
+  },
+  {
+    "name": "placebo",
+    "category": "healthcare",
+    "draw": "Capsule drawn with a dashed outline and a question mark inside it."
+  },
+  {
+    "name": "medication-leaflet",
+    "category": "healthcare",
+    "draw": "Folded paper leaflet opening in panels with a pill symbol and small text lines."
+  },
+  {
+    "name": "medication-barcode-scan",
+    "category": "healthcare",
+    "draw": "Handheld barcode scanner casting a beam onto the label of a pill bottle."
+  },
+  {
+    "name": "medical-folder",
+    "category": "healthcare",
+    "draw": "File folder with a medical cross on its front."
+  },
+  {
+    "name": "x-ray-envelope",
+    "category": "healthcare",
+    "draw": "Large envelope with a chest x-ray film sliding out of its open top."
+  },
+  {
+    "name": "medical-records-archive",
+    "category": "healthcare",
+    "draw": "Shelf of upright patient chart folders with colored edge tabs."
+  },
+  {
+    "name": "treatment-plan",
+    "category": "healthcare",
+    "draw": "Clipboard with a numbered list, a medical cross at the top and a pill beside the first line."
+  },
+  {
+    "name": "symptom-diary",
+    "category": "healthcare",
+    "draw": "Notebook with a small thermometer on its cover and a row of ticked day boxes."
+  },
+  {
+    "name": "medical-bill",
+    "category": "healthcare",
+    "draw": "Invoice sheet with a medical cross at the top, text lines and a dollar sign by the total."
+  },
+  {
+    "name": "hippocratic-oath",
+    "category": "healthcare",
+    "draw": "Open scroll with a rod and serpent symbol at its top and lines of text below."
+  },
+  {
+    "name": "surgical-checklist",
+    "category": "healthcare",
+    "draw": "Clipboard with a scalpel at the top and a column of checked boxes."
+  },
+  {
+    "name": "vision-insurance",
+    "category": "healthcare",
+    "draw": "Shield with an eye drawn inside it."
+  },
+  {
+    "name": "health-savings-account",
+    "category": "healthcare",
+    "draw": "Piggy bank with a medical cross on its side and a coin above the slot."
+  },
+  {
+    "name": "medical-tourism",
+    "category": "healthcare",
+    "draw": "Airplane with a medical cross on its tail flying over the curve of a globe."
+  },
+  {
+    "name": "blood-type",
+    "category": "healthcare",
+    "draw": "Blood drop with the letters AB inside it."
+  },
+  {
+    "name": "reference-range",
+    "category": "healthcare",
+    "draw": "Horizontal bar with a shaded middle band and a triangle marker pointing to a value on it."
+  },
+  {
+    "name": "dna-test-kit",
+    "category": "healthcare",
+    "draw": "Small sample tube holding a cheek swab with a DNA helix on its label."
+  },
+  {
+    "name": "blood-culture-bottle",
+    "category": "healthcare",
+    "draw": "Squat round bottle with a flip off cap and a barcode label on its side."
+  },
+  {
+    "name": "clinical-trial",
+    "category": "healthcare",
+    "draw": "Conical lab flask with three small person figures in front of it."
+  },
+  {
+    "name": "patient-journey",
+    "category": "healthcare",
+    "draw": "Dotted path winding from a house to a hospital building with a location pin at the end."
+  },
+  {
+    "name": "medical-appointment",
+    "category": "healthcare",
+    "draw": "Calendar page with a medical cross in one of the date squares."
+  },
+  {
+    "name": "immunization-schedule",
+    "category": "healthcare",
+    "draw": "Calendar page with a syringe lying diagonally across the date grid."
+  },
+  {
+    "name": "second-opinion",
+    "category": "healthcare",
+    "draw": "Two doctor figures facing each other, each with a speech bubble, over a shared clipboard."
+  },
+  {
+    "name": "doctor-consultation",
+    "category": "healthcare",
+    "draw": "Doctor and patient figures seated on opposite sides of a desk."
+  },
+  {
+    "name": "hospital-discharge",
+    "category": "healthcare",
+    "draw": "Figure carrying a small bag walking out through an open door with a medical cross above it."
+  },
+  {
+    "name": "care-team",
+    "category": "healthcare",
+    "draw": "Three figures side by side, the middle one wearing a stethoscope, with a heart above them."
+  },
+  {
+    "name": "hospital-visit",
+    "category": "healthcare",
+    "draw": "Visitor holding a bunch of flowers standing beside a patient lying in a hospital bed."
+  },
+  {
+    "name": "get-well-card",
+    "category": "healthcare",
+    "draw": "Folded greeting card standing open with a flower and a small adhesive bandage on its front."
+  },
+  {
+    "name": "hospital-meal-tray",
+    "category": "healthcare",
+    "draw": "Tray holding a plate with a dome cover, a cup with a lid and a small bowl."
+  },
+  {
+    "name": "fall-risk",
+    "category": "healthcare",
+    "draw": "Figure tipping backward mid fall with one foot lifted and motion lines under the feet."
+  },
+  {
+    "name": "patient-with-iv-pole",
+    "category": "healthcare",
+    "draw": "Figure in a hospital gown walking while holding a wheeled IV pole with a drip bag."
+  },
+  {
+    "name": "person-on-crutches",
+    "category": "healthcare",
+    "draw": "Figure walking with two underarm crutches and one leg bent up off the ground."
+  },
+  {
+    "name": "vaccination-drive",
+    "category": "healthcare",
+    "draw": "Megaphone with a syringe beside its mouth end."
+  },
+  {
+    "name": "outbreak-map",
+    "category": "healthcare",
+    "draw": "Folded map with several virus particle markers clustered in one area."
+  },
+  {
+    "name": "herd-immunity",
+    "category": "healthcare",
+    "draw": "Group of person figures, most holding small shields, standing around one figure without a shield."
+  },
+  {
+    "name": "arm-circumference-tape",
+    "category": "healthcare",
+    "draw": "Upper arm with a measuring strip divided into three color bands wrapped around it."
+  },
+  {
+    "name": "surface-disinfection",
+    "category": "healthcare",
+    "draw": "Spray bottle misting over a virus particle on a flat surface."
+  },
+  {
+    "name": "uv-disinfection-robot",
+    "category": "healthcare",
+    "draw": "Tall wheeled robot column ringed by glowing light tubes with rays coming off them."
+  },
+  {
+    "name": "cough-into-elbow",
+    "category": "healthcare",
+    "draw": "Figure coughing into the crook of a raised bent arm."
+  },
+  {
+    "name": "oral-vaccine-drops",
+    "category": "healthcare",
+    "draw": "Dropper releasing two drops into the open mouth of a child's face."
+  },
+  {
+    "name": "baby-weighing-sling",
+    "category": "healthcare",
+    "draw": "Hanging spring scale with a round dial and a baby seated in a cloth sling hooked below it."
+  },
+  {
+    "name": "quit-smoking",
+    "category": "healthcare",
+    "draw": "Cigarette snapped in two with a small gap between the pieces."
+  },
+  {
+    "name": "nurse-cap",
+    "category": "healthcare",
+    "draw": "Traditional folded nurse cap seen from the front with a medical cross on it."
+  },
+  {
+    "name": "nightingale-lamp",
+    "category": "healthcare",
+    "draw": "Old style oil lamp with a long spout and a small flame at the tip."
+  },
+  {
+    "name": "orthotic-insole",
+    "category": "healthcare",
+    "draw": "Shoe insole seen from the side with a raised arch contour and a deep heel cup."
+  },
+  {
+    "name": "sterile-instrument-pack",
+    "category": "healthcare",
+    "draw": "Pack wrapped envelope style with folded corners and strips of indicator tape across it."
+  },
+  {
+    "name": "anatomy-model",
+    "category": "healthcare",
+    "draw": "Human torso model on a stand with half the chest open showing organs inside."
+  },
+  {
+    "name": "infant-length-board",
+    "category": "healthcare",
+    "draw": "Baby lying on a measuring board with a fixed headboard and a sliding footboard against the feet."
+  },
+  {
+    "name": "pregnancy-wheel",
+    "category": "healthcare",
+    "draw": "Circular dial calculator with an inner rotating disc and a pointer window."
+  },
+  {
+    "name": "birthing-pool",
+    "category": "healthcare",
+    "draw": "Round inflatable tub filled with water with wave lines on the surface."
+  },
+  {
+    "name": "breast-milk-bag",
+    "category": "healthcare",
+    "draw": "Flat storage pouch with a zip top, measurement lines and a milk drop on the front."
+  },
+  {
+    "name": "clinic-locator",
+    "category": "healthcare",
+    "draw": "Map location pin with a medical cross inside its round head."
+  },
+  {
+    "name": "bifocals",
+    "category": "healthcare",
+    "draw": "Pair of eyeglasses whose lenses each show a small curved segment line across the lower half."
+  },
+  {
+    "name": "urine-color-chart",
+    "category": "healthcare",
+    "draw": "Vertical strip of stacked color swatches shading from light to dark with a drop beside the top swatch."
+  },
+  {
+    "name": "wheelchair-escort",
+    "category": "healthcare",
+    "draw": "Standing figure pushing a wheelchair with a seated person in it."
+  }
+]

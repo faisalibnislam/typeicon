@@ -1,0 +1,482 @@
+[
+ {
+  "name": "dog-leash",
+  "category": "pets",
+  "draw": "Coiled flat leash with a loop handle at one end and a swivel snap clip at the other.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "retractable-leash",
+  "category": "pets",
+  "draw": "Chunky D-shaped leash handle with a thumb brake button and a thin cord running out to a clip.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "slip-lead",
+  "category": "pets",
+  "draw": "Single rope leash with a handle loop at the top and a sliding ring forming a noose loop at the bottom.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-collar",
+  "category": "pets",
+  "draw": "Round buckle collar seen at an angle with a buckle, punched holes and a hanging D-ring.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "bell-collar",
+  "category": "pets",
+  "draw": "Thin cat collar loop with a small round jingle bell with a slit hanging from the front.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-id-tag",
+  "category": "pets",
+  "draw": "Bone-shaped name tag with a punched hole hanging from a split ring, a small paw engraved on it.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-harness",
+  "category": "pets",
+  "draw": "Front view padded vest harness with chest strap, side buckle and a D-ring on the back strap.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-muzzle",
+  "category": "pets",
+  "draw": "Side view basket muzzle, a rounded cage of vertical bars with a strap looping back over the head.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "head-halter",
+  "category": "pets",
+  "draw": "Dog head in profile with a thin strap looped around the snout and another behind the ears, joined under the chin.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "leash-hook",
+  "category": "pets",
+  "draw": "Wall plate with a paw print above a row of hooks, one leash hanging from a hook.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-bed",
+  "category": "pets",
+  "draw": "Oval bolster pet bed seen at an angle, a raised rim around a sunken cushion.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-cave-bed",
+  "category": "pets",
+  "draw": "Domed felt cat bed with a round entrance hole at the front and two small ear points on top.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-house",
+  "category": "pets",
+  "draw": "Small wooden kennel side-front view with a pitched roof and an arched doorway.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-crate",
+  "category": "pets",
+  "draw": "Rectangular wire crate with vertical bars, a carry handle on top and a latched front door panel.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-carrier",
+  "category": "pets",
+  "draw": "Hard plastic pet carrier with a top handle, vent slots on the side and a barred grille door at the front.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-backpack",
+  "category": "pets",
+  "draw": "Pet backpack with shoulder straps and a large round bubble window on the front with a cat face inside.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-door",
+  "category": "pets",
+  "draw": "Door with a small square flap near the bottom, the flap swung open with a paw print on it.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-gate",
+  "category": "pets",
+  "draw": "Freestanding gate of vertical bars with a small swing door cut into its lower middle.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-playpen",
+  "category": "pets",
+  "draw": "Octagonal fold-out exercise pen of mesh panels seen at an angle.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-stairs",
+  "category": "pets",
+  "draw": "Three carpeted steps in side view rising to a sofa cushion edge, a paw print on the top step.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-tree",
+  "category": "pets",
+  "draw": "Tall cat tower with rope-wrapped posts, two offset platforms, a cube hideout with a round hole and a base.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "scratching-post",
+  "category": "pets",
+  "draw": "Upright post wrapped in horizontal rope lines on a square base, a small ball dangling from the top.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-window-perch",
+  "category": "pets",
+  "draw": "Window frame with a hammock shelf attached by suction cups to the lower pane.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-scratcher-lounge",
+  "category": "pets",
+  "draw": "Wavy curved cardboard lounger seen from the side, its corrugated edge shown as ridges.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "hamster-cage",
+  "category": "pets",
+  "draw": "Wire-top cage on a deep plastic base with a running wheel inside and a tube climbing out of the roof.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "rabbit-hutch",
+  "category": "pets",
+  "draw": "Wooden hutch on legs with a pitched roof, one mesh door and one solid door.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-kennel-run",
+  "category": "pets",
+  "draw": "Chain link pen with a gate at the front and a small kennel roof visible inside.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "raised-pet-feeder",
+  "category": "pets",
+  "draw": "Low wooden stand holding two bowls side by side at the top.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "slow-feeder-bowl",
+  "category": "pets",
+  "draw": "Top view of a round bowl whose floor is a maze of curved ridges.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "small-pet-water-bottle",
+  "category": "pets",
+  "draw": "Upside-down bottle clipped to cage bars with a metal sipper tube and a drip at its tip.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "collapsible-pet-bowl",
+  "category": "pets",
+  "draw": "Flat folding silicone bowl with concentric ridged rings and a small carabiner clip on its rim.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-travel-water-bottle",
+  "category": "pets",
+  "draw": "Slim water bottle with a flip-out trough cup attached to the top.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "kibble",
+  "category": "pets",
+  "draw": "Small heap of rounded kibble pieces, some shaped like fish and bones.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-food-bag",
+  "category": "pets",
+  "draw": "Tall stand-up bag of pet food with a folded top and a large paw print on the front.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-food-can",
+  "category": "pets",
+  "draw": "Short wide can with a pull-tab lid and a fish outline on the label.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-food-scoop",
+  "category": "pets",
+  "draw": "Deep measuring scoop with a handle, kibble piled above its rim.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "treat-jar",
+  "category": "pets",
+  "draw": "Glass jar with a lid knob and a bone shape on the front label.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "treat-pouch",
+  "category": "pets",
+  "draw": "Rounded drawstring pouch with a belt clip and a bone-shaped treat poking out.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "lick-mat",
+  "category": "pets",
+  "draw": "Square rubber mat with a textured grid of bumps and a tongue-shaped smear across it.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "fish-food-flakes",
+  "category": "pets",
+  "draw": "Small shaker tub tilted, sprinkling flakes down onto a water line.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "catnip",
+  "category": "pets",
+  "draw": "Catnip sprig with serrated heart-shaped leaves and a small flower spike on top.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-grass",
+  "category": "pets",
+  "draw": "Small pot filled with tall straight blades of grass.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "hay-rack",
+  "category": "pets",
+  "draw": "Small V-shaped wire rack hooked on a cage side, stuffed with hay stalks.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "rope-toy",
+  "category": "pets",
+  "draw": "Twisted rope with a large knot at each end.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "ball-launcher",
+  "category": "pets",
+  "draw": "Long curved plastic arm with a handle at one end and a ball held in a cup at the other.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "treat-puzzle-toy",
+  "category": "pets",
+  "draw": "Flat puzzle board with sliding covers and round lids over treat hollows.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "snuffle-mat",
+  "category": "pets",
+  "draw": "Square mat covered in dense loops of fleece strips, a few treat dots between them.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-wand-toy",
+  "category": "pets",
+  "draw": "Thin stick with a string hanging down to a feather tuft.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "toy-mouse",
+  "category": "pets",
+  "draw": "Stuffed toy mouse with a stitched seam along its back and a long string tail.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-tunnel",
+  "category": "pets",
+  "draw": "Crinkle play tunnel in perspective, a ribbed tube with a round opening at the front.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "laser-toy",
+  "category": "pets",
+  "draw": "Pen-shaped laser pointer emitting a dashed beam to a small bright dot on the floor.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "cat-ball-track",
+  "category": "pets",
+  "draw": "Circular ring track with a ball visible inside the open slot, seen from above at an angle.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "squeaky-toy",
+  "category": "pets",
+  "draw": "Rubber chicken toy with an open beak and a comb, small squeak lines beside it.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "hamster-ball",
+  "category": "pets",
+  "draw": "Clear exercise ball with vent slots and a hamster silhouette inside.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "bird-mirror-toy",
+  "category": "pets",
+  "draw": "Small round mirror hanging on a chain with a tiny bell below.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "slicker-brush",
+  "category": "pets",
+  "draw": "Rectangular brush head of dense bent wire pins on a long handle.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "deshedding-tool",
+  "category": "pets",
+  "draw": "Handle with a wide flat comb blade of fine teeth held at a right angle.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-nail-clipper",
+  "category": "pets",
+  "draw": "Scissor-style nail clippers with rounded notched blades and rubber handles.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-shampoo",
+  "category": "pets",
+  "draw": "Squeeze bottle with a flip cap and a paw print on the label, bubbles beside it.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "grooming-table",
+  "category": "pets",
+  "draw": "Small table with an overhead L-shaped arm and a loop hanging down from it.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-bath",
+  "category": "pets",
+  "draw": "Dog sitting in a tub with bubbles on its head and a shower stream falling above.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-dryer",
+  "category": "pets",
+  "draw": "Upright blaster dryer on a wheeled pole with a long hose nozzle pointing out.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "grooming-shears",
+  "category": "pets",
+  "draw": "Pair of long curved shears with a finger rest hook on one handle.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-clippers",
+  "category": "pets",
+  "draw": "Electric clippers with a comb guard attachment on the blade and a cord from the base.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-toothbrush",
+  "category": "pets",
+  "draw": "Rubber finger brush sleeve with bristle nubs at the tip beside a dog tooth outline.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-grooming",
+  "category": "pets",
+  "draw": "Poodle head with a pom-pom topknot and a pair of scissors beside it.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-wipes",
+  "category": "pets",
+  "draw": "Soft pack of wipes with one wipe pulled up out of the lid opening, paw print on the pack.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-coat",
+  "category": "pets",
+  "draw": "Side view of a dog wearing a quilted coat covering its back with a belly strap.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-boots",
+  "category": "pets",
+  "draw": "Pair of small paw booties with a velcro strap and treaded soles.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-bandana",
+  "category": "pets",
+  "draw": "Triangular bandana tied around a collar, a small paw pattern on the fabric.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-life-jacket",
+  "category": "pets",
+  "draw": "Dog life vest with a grab handle on top and a buoyancy flap under the chin.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-stroller",
+  "category": "pets",
+  "draw": "Pet stroller with a mesh domed canopy on a four-wheel frame and a push handle.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "dog-car-seat",
+  "category": "pets",
+  "draw": "Booster basket seat hanging from a car headrest with a dog head peeking out.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-tracker",
+  "category": "pets",
+  "draw": "Small tracker tag clipped to a collar with a location pin above it.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pet-camera",
+  "category": "pets",
+  "draw": "Round home camera on a base with a lens and a treat chute slot below.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "litter-box",
+  "category": "pets",
+  "draw": "Low open tray filled with litter granules and a scoop resting on the rim.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "covered-litter-box",
+  "category": "pets",
+  "draw": "Hooded litter box with a swinging flap door at the front and a handle on top.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "litter-scoop",
+  "category": "pets",
+  "draw": "Slotted scoop with a grid of holes and a straight handle.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "poop-bag-dispenser",
+  "category": "pets",
+  "draw": "Small bone-shaped dispenser with a roll of bags peeking out and a clip on top.",
+  "domain": "pets-and-animal-care"
+ },
+ {
+  "name": "pooper-scooper",
+  "category": "pets",
+  "draw": "Long-handled jaw scoop with a trigger grip at the top and a rake mouth at the bottom.",
+  "domain": "pets-and-animal-care"
+ }
+]

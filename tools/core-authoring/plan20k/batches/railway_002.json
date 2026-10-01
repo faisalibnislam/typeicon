@@ -1,0 +1,344 @@
+[
+ {
+  "name": "gangway-bellows",
+  "category": "railway",
+  "draw": "Two carriage ends joined by a folded accordion shaped rubber bellows tunnel between them.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "coach-position-indicator",
+  "category": "railway",
+  "draw": "A horizontal strip of small train carriage outlines, each with a letter, above a short platform line.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "car-stop-marker",
+  "category": "railway",
+  "draw": "A small square board on a post with a large number, standing at a platform edge beside the rails.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-destination-display",
+  "category": "railway",
+  "draw": "Front of a train with a wide dot matrix sign above the windshield showing a line of text.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "portable-ticket-printer",
+  "category": "railway",
+  "draw": "A handheld machine with a small screen and keypad and a paper ticket feeding out of the top.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "refrigerator-car",
+  "category": "railway",
+  "draw": "Side view of an enclosed rail wagon with a snowflake on its side and a cooling unit box at one end.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "centerbeam-car",
+  "category": "railway",
+  "draw": "Side view of a flat rail wagon with a tall central lattice spine and end walls, carrying stacked lumber.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "mail-car",
+  "category": "railway",
+  "draw": "Side view of a rail carriage with an envelope on its side and a wide sliding door for mail sacks.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "baggage-car",
+  "category": "railway",
+  "draw": "Side view of a rail carriage with no passenger windows and two wide sliding doors with a suitcase on the side.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "side-dump-car",
+  "category": "railway",
+  "draw": "Side view of a rail wagon whose box body is tilted sideways on pistons, tipping out rocks.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "compartment-coach",
+  "category": "railway",
+  "draw": "Side view of an old rail carriage with a row of many small doors, each with a window, along its side.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "diesel-multiple-unit",
+  "category": "railway",
+  "draw": "Side view of a short passenger train of two carriages with a driving cab at each end and an exhaust stack on the roof.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railbus",
+  "category": "railway",
+  "draw": "Side view of a small single rail car with a bus shaped body, large windows and only two axles.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "locomotive-tender",
+  "category": "railway",
+  "draw": "Side view of a small wagon heaped with coal above a water tank, coupled behind a steam engine.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "open-excursion-car",
+  "category": "railway",
+  "draw": "Side view of a rail carriage with a roof on posts and open sides, with rows of bench seats visible.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "wagon-brake-wheel",
+  "category": "railway",
+  "draw": "A large spoked hand wheel on a vertical shaft mounted at the end of a freight wagon.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "trolley-pole",
+  "category": "railway",
+  "draw": "A long diagonal pole rising from a tram roof with a small wheel at its tip pressing on an overhead wire.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-ferry",
+  "category": "railway",
+  "draw": "Side view of a ship with its stern open, showing a train carriage on rails inside the hull.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railway-roundhouse",
+  "category": "railway",
+  "draw": "Top view of a semicircular engine building with stalls arranged like fan blades around a central turntable.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "coaling-tower",
+  "category": "railway",
+  "draw": "A tall concrete tower on legs straddling a railway track with a chute tilted down toward a locomotive.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-shed",
+  "category": "railway",
+  "draw": "Front view of a large arched glass roof over several station platforms and tracks.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "hump-yard",
+  "category": "railway",
+  "draw": "Side view of a track rising over a small hill with a single wagon rolling down the far slope into fanning tracks.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "loading-gauge",
+  "category": "railway",
+  "draw": "A hoop shaped frame hanging over a railway track, marking the maximum height and width of loads.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "transfer-table",
+  "category": "railway",
+  "draw": "Top view of a movable bridge section on rails that slides sideways between a row of parallel tracks.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-wash",
+  "category": "railway",
+  "draw": "Front view of a train passing between two tall rotating brushes with water drops spraying.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "wye-junction",
+  "category": "railway",
+  "draw": "Top view of three tracks joined in a triangle, used to turn trains around.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "passing-loop",
+  "category": "railway",
+  "draw": "Top view of a single track that splits into two parallel tracks for a short length and then rejoins.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "balloon-loop",
+  "category": "railway",
+  "draw": "Top view of a track that ends in a large round loop, letting trains turn back without reversing.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railway-siding",
+  "category": "railway",
+  "draw": "Top view of a main track with a short branch track leading off it and ending at a buffer stop.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railway-junction",
+  "category": "railway",
+  "draw": "Top view of one straight track with a second track curving away from it to one side, like a Y.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-crossover",
+  "category": "railway",
+  "draw": "Top view of two parallel tracks joined by a single diagonal track between them.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railway-cutting",
+  "category": "railway",
+  "draw": "Cross section of a railway track at the bottom of a V shaped cut with sloping grassy sides.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railway-embankment",
+  "category": "railway",
+  "draw": "Cross section of a railway track on top of a tall trapezoid mound of earth above the ground line.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "mail-bag-catcher",
+  "category": "railway",
+  "draw": "A trackside post with a hanging mail sack held out on an arm, ready to be snatched by a passing train.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-horn",
+  "category": "railway",
+  "draw": "A cluster of two or three trumpet shaped air horns of different lengths mounted on a small bracket.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "locomotive-bell",
+  "category": "railway",
+  "draw": "A brass bell hanging in a U shaped yoke on a bracket, with a pull rope, as mounted on a locomotive.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-tail-lamp",
+  "category": "railway",
+  "draw": "The rear end of a train carriage with a single round red lamp at its bottom center.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "end-of-train-device",
+  "category": "railway",
+  "draw": "A small box with a flashing light on top clamped to the coupler at the end of a freight wagon.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-cab",
+  "category": "railway",
+  "draw": "A train driver's desk seen from behind, with a curved windshield, a speed dial and a throttle lever.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "dead-mans-handle",
+  "category": "railway",
+  "draw": "A train throttle handle with a hand gripping it and pressing down a spring loaded button on top.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "wheelset",
+  "category": "railway",
+  "draw": "Front view of two flanged rail wheels joined by a straight axle, sitting on two short rail profiles.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-buffers",
+  "category": "railway",
+  "draw": "Front view of a carriage end with two round spring buffers sticking out on either side of a coupling hook.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "brake-hose-coupling",
+  "category": "railway",
+  "draw": "Two flexible air brake hoses hanging between wagons with their metal glad hand heads locked together.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "hand-signal-flags",
+  "category": "railway",
+  "draw": "A red flag and a green flag on short sticks crossed at the handles.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-derailment",
+  "category": "railway",
+  "draw": "Side view of a train carriage tilted off the rails, with its wheels off the track and a crack line.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-worker",
+  "category": "railway",
+  "draw": "Figure in a hard hat and hi visibility vest with reflective stripes holding a spike maul beside a rail.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "station-master",
+  "category": "railway",
+  "draw": "Figure in a peaked cap with a badge and a jacket with buttons holding a pocket watch.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-guard",
+  "category": "railway",
+  "draw": "Figure in a cap holding a whistle to the lips and raising a small flag in one hand.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railway-porter",
+  "category": "railway",
+  "draw": "Figure in a cap pushing a flat two wheeled barrow loaded with suitcases.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "platform-mirror",
+  "category": "railway",
+  "draw": "A large round convex mirror on a tall post at the end of a platform, angled toward the train.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "trainspotting",
+  "category": "railway",
+  "draw": "A small notebook and pen beside a pair of binoculars, with a train front above them.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "screw-coupling",
+  "category": "railway",
+  "draw": "A hook on a wagon end with a short chain of links and a central screw turnbuckle with a weighted handle.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "hot-box-detector",
+  "category": "railway",
+  "draw": "A low trackside box beside a rail aiming wavy heat lines up at the axle box of a passing wheel.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "shunting-pole",
+  "category": "railway",
+  "draw": "A long wooden pole with a curved metal hook at its tip, lifting a coupling chain between two wagon ends.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "wagon-weighbridge",
+  "category": "railway",
+  "draw": "Side view of a rail wagon standing on a short track section over a platform scale, with a dial gauge beside it.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rotary-car-dumper",
+  "category": "railway",
+  "draw": "A large ring shaped cradle holding a rail wagon turned upside down, with coal pouring out into a pit.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "tank-locomotive",
+  "category": "railway",
+  "draw": "Side view of a small steam engine with flat rectangular water tanks along both sides of its boiler and no tender.",
+  "domain": "r3-railway-operations"
+ }
+]

@@ -1,0 +1,386 @@
+[
+ {
+  "name": "press-release",
+  "category": "messaging",
+  "draw": "Document with a small megaphone in its upper corner.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "almanac",
+  "category": "messaging",
+  "draw": "Thick book with a sun and a crescent moon on its cover.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "mimeograph",
+  "category": "messaging",
+  "draw": "Drum duplicator with a large cylinder, a side crank and a paper tray.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "proofreading-marks",
+  "category": "messaging",
+  "draw": "Page with a caret insertion mark and a looped deletion mark drawn over its lines.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "bookplate",
+  "category": "messaging",
+  "draw": "Rectangular label with a decorative border, a small open book and a name line.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "clay-tablet",
+  "category": "messaging",
+  "draw": "Rounded rectangle tablet covered in rows of small wedge-shaped marks.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "panel-discussion",
+  "category": "messaging",
+  "draw": "Three head figures behind a long table with a microphone in front of each.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "broadcast-interview",
+  "category": "messaging",
+  "draw": "Two chairs facing each other with a microphone on a stand between them.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "debate",
+  "category": "messaging",
+  "draw": "Two podiums facing each other with a speech bubble above each one.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "petition",
+  "category": "messaging",
+  "draw": "Clipboard with several signature lines filled with scribbles.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "voice-command",
+  "category": "messaging",
+  "draw": "Head profile facing right with sound waves coming out of the mouth.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "name-tag",
+  "category": "messaging",
+  "draw": "Rectangular sticker with a solid top band and a blank line for a written name.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "tag-person",
+  "category": "messaging",
+  "draw": "Price tag shape with a small head-and-shoulders figure inside.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "viral-spread",
+  "category": "messaging",
+  "draw": "Central dot linked to several nodes which each branch out to more nodes.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "fan-mail",
+  "category": "messaging",
+  "draw": "Pile of envelopes with a small star on the top one.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "online-dating",
+  "category": "messaging",
+  "draw": "Two phone screens facing each other with a heart between them.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "slash-command",
+  "category": "messaging",
+  "draw": "Speech bubble with a single forward slash inside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "voice-channel",
+  "category": "messaging",
+  "draw": "Speaker cone with sound arcs and a small hash sign beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "quoted-reply",
+  "category": "messaging",
+  "draw": "Speech bubble with a small nested block at its top made of a vertical bar and a short line.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "e-card",
+  "category": "messaging",
+  "draw": "Screen showing a folded greeting card with a heart on its front.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "mail-chute",
+  "category": "messaging",
+  "draw": "Tall narrow glass-fronted wall chute with a brass slot box at its base.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "mail-tray",
+  "category": "messaging",
+  "draw": "Rectangular postal tray with hand holes at each end, filled with upright letters.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "stamp-vending-machine",
+  "category": "messaging",
+  "draw": "Upright box machine with a small display, a coin slot and a stamp dispensing slot.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "slider-phone",
+  "category": "messaging",
+  "draw": "Mobile phone with its screen half slid upward revealing a keypad beneath.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "car-telephone",
+  "category": "messaging",
+  "draw": "Corded handset resting in a console cradle with a coiled cord.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "sim-eject-tool",
+  "category": "messaging",
+  "draw": "Small flat metal pin with a round loop at one end.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "dual-sim",
+  "category": "messaging",
+  "draw": "Two SIM cards with clipped corners overlapping each other.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "5g-network",
+  "category": "messaging",
+  "draw": "Signal bars beside the characters 5G.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "satellite-texting",
+  "category": "messaging",
+  "draw": "Smartphone with a dotted arc reaching up to a small satellite.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "push-to-talk",
+  "category": "messaging",
+  "draw": "Round button marked with a microphone and sound arcs, pressed by a finger.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "telephone-plug",
+  "category": "messaging",
+  "draw": "Small square modular plug with a latch clip and a flat cable.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "room-booking-panel",
+  "category": "messaging",
+  "draw": "Small tablet mounted on a wall beside a door edge showing a status bar.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "interactive-whiteboard",
+  "category": "messaging",
+  "draw": "Large wall screen on a rolling stand with a stylus stroke on it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "background-blur",
+  "category": "messaging",
+  "draw": "Head-and-shoulders figure in front of a background of soft scattered dots.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "viewer-count",
+  "category": "messaging",
+  "draw": "Eye symbol beside a small number on a rounded tag.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "film-countdown",
+  "category": "messaging",
+  "draw": "Circle with crosshair lines and a large number 3 in its centre, the film leader countdown.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "red-carpet",
+  "category": "messaging",
+  "draw": "Long carpet runner in perspective with a rope stanchion on each side.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "velvet-rope",
+  "category": "messaging",
+  "draw": "Two posts with round tops joined by a drooping rope.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "home-movie-camera",
+  "category": "messaging",
+  "draw": "Small handheld film camera with a pistol grip and a short lens.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "portable-tv",
+  "category": "messaging",
+  "draw": "Small handheld television with a tiny screen and a telescopic antenna.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "signal-splitter",
+  "category": "messaging",
+  "draw": "Small box with one cable coming in on one side and two cables leaving the other.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "sos-ground-signal",
+  "category": "messaging",
+  "draw": "Letters SOS laid out on the ground with small stones.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "hand-crank-siren",
+  "category": "messaging",
+  "draw": "Round siren housing with a side crank handle and a grip underneath.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "bell-pull",
+  "category": "messaging",
+  "draw": "Rope hanging from a ceiling bracket ending in a tassel.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "now-serving-display",
+  "category": "messaging",
+  "draw": "Wall screen showing a large ticket number with a small arrow beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "research-paper",
+  "category": "messaging",
+  "draw": "Document with a title bar, a boxed abstract and two columns of text lines.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "yard-sign",
+  "category": "messaging",
+  "draw": "Small rectangular sign on a two-pronged wire stake stuck into grass.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "unsend-message",
+  "category": "messaging",
+  "draw": "Speech bubble with a curved arrow inside it looping back to the left.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "cold-email",
+  "category": "messaging",
+  "draw": "Envelope with a small snowflake on its front.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "courier-envelope",
+  "category": "messaging",
+  "draw": "Large stiff cardboard envelope with a pull-tab strip across its top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "phone-off-hook",
+  "category": "messaging",
+  "draw": "Desk telephone base with its handset lying on its side next to it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "cinema-seats",
+  "category": "messaging",
+  "draw": "Row of three folding theatre seats with armrests, seen from the front.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "end-credits",
+  "category": "messaging",
+  "draw": "Screen with centred text lines of different lengths and a small upward arrow at the side.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "aviation-headset",
+  "category": "messaging",
+  "draw": "Headset with thick padded ear cups, a padded headband and a boom microphone.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "newspaper-bundle",
+  "category": "messaging",
+  "draw": "Stack of folded newspapers tied together with a crossed string.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "inflatable-air-dancer",
+  "category": "messaging",
+  "draw": "Tall tube-shaped inflatable figure with waving arms bending in the wind on a fan base.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "feather-flag",
+  "category": "messaging",
+  "draw": "Tall curved feather-shaped banner flag on a flexible pole with a ground spike.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "social-listening",
+  "category": "messaging",
+  "draw": "Ear with a small hash sign and sound arcs beside it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "guest-list",
+  "category": "messaging",
+  "draw": "Clipboard with a column of name lines and small tick boxes.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "alphabet-board",
+  "category": "messaging",
+  "draw": "Board with a grid of letters and two larger boxes marked yes and no across the top.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "radome",
+  "category": "messaging",
+  "draw": "Large geodesic sphere dome on a short cylindrical base, a radar enclosure.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "face-filter",
+  "category": "messaging",
+  "draw": "Face outline with pointed animal ears and a small animal nose drawn over it.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "save-the-date-card",
+  "category": "messaging",
+  "draw": "Card with a small calendar page and a heart in its centre.",
+  "domain": "communication-and-media"
+ },
+ {
+  "name": "place-card",
+  "category": "messaging",
+  "draw": "Small folded tent card standing on a table with a name line on its front.",
+  "domain": "communication-and-media"
+ }
+]

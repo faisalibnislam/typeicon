@@ -1,0 +1,482 @@
+[
+ {
+  "name": "cats-paw-nail-puller",
+  "category": "hardware",
+  "draw": "Short steel bar with a small curled claw at the tip bent at a sharp angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "staple-gun",
+  "category": "hardware",
+  "draw": "Side view of a heavy staple gun: a boxy body with a hinged lever handle on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rivet-gun",
+  "category": "hardware",
+  "draw": "Hand riveter with two long handles and a nose piece holding a pop rivet.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "caulking-gun",
+  "category": "hardware",
+  "draw": "Open frame holding a cartridge tube, with a trigger handle and a long plunger rod at the back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "grease-gun",
+  "category": "hardware",
+  "draw": "Cylinder barrel with a lever handle on top and a thin bent nozzle tube coming out the front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hot-glue-gun",
+  "category": "hardware",
+  "draw": "Pistol shaped glue gun with a thin nozzle at the front and a glue stick coming out the back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "soldering-iron",
+  "category": "hardware",
+  "draw": "Pen shaped tool with a cushioned grip, a slim metal shaft and a fine pointed tip, with a cord.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "soldering-station",
+  "category": "hardware",
+  "draw": "Small box base with a dial and a curled coil stand holding a soldering iron.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "solder-wire-spool",
+  "category": "hardware",
+  "draw": "Small spool with thin wire wound around it and a loose end trailing off.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "heat-gun",
+  "category": "hardware",
+  "draw": "Pistol shaped tool with a wide round nozzle and wavy heat lines coming out the front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "blowtorch",
+  "category": "hardware",
+  "draw": "Squat fuel canister with a torch head on top, an angled nozzle and a flame coming out.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cutting-torch",
+  "category": "hardware",
+  "draw": "Long torch handle with two hose valves at the back and a bent head at the front with a flame.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "welding-helmet",
+  "category": "hardware",
+  "draw": "Front view of a welding mask covering the whole face with a dark rectangular viewing window.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "welding-rod",
+  "category": "hardware",
+  "draw": "Bundle of three thin straight rods with bare metal ends and coated bodies.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "oil-can",
+  "category": "hardware",
+  "draw": "Round oiler can with a pump thumb lever and a long thin straight spout pointing up at an angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "lubricant-spray",
+  "category": "hardware",
+  "draw": "Spray can with a thin red straw nozzle sticking out from the actuator at the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "paint-sprayer",
+  "category": "hardware",
+  "draw": "Spray gun with a trigger handle, a cup underneath and a mist cone out of the nozzle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "paint-tray",
+  "category": "hardware",
+  "draw": "Angled rectangular roller tray seen in perspective with a ribbed slope and a deeper well.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sanding-block",
+  "category": "hardware",
+  "draw": "Rounded rectangular pad with a handle hump on top and sandpaper wrapped on the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "steel-wool",
+  "category": "hardware",
+  "draw": "Rounded nest of tangled curly lines forming a soft pad.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "dust-brush",
+  "category": "hardware",
+  "draw": "Flat wide brush with a short handle and long bristles, like a bench brush.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "impact-driver",
+  "category": "hardware",
+  "draw": "Compact pistol shaped power tool with a short hex collet at the front and a battery under the grip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "hammer-drill",
+  "category": "hardware",
+  "draw": "Pistol shaped drill with a side handle sticking out below the chuck and a masonry bit.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drill-press",
+  "category": "hardware",
+  "draw": "Tall column on a heavy base with a table and a drill head on top with three spoke handles.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "circular-saw",
+  "category": "hardware",
+  "draw": "Handheld saw with a round blade under a curved guard, a top handle and a flat base plate.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "power-jigsaw",
+  "category": "hardware",
+  "draw": "Power jigsaw in side view with a closed D handle on top and a short blade poking out underneath.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "reciprocating-saw",
+  "category": "hardware",
+  "draw": "Long power saw with a body grip at the back and a straight blade sticking out of the front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "miter-saw",
+  "category": "hardware",
+  "draw": "Circular saw blade on a pivoting arm above a round turntable base with a fence.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "table-saw",
+  "category": "hardware",
+  "draw": "Flat table top with a round blade poking up through the middle and a fence rail along one side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "chainsaw",
+  "category": "hardware",
+  "draw": "Chainsaw in side view with a motor body, a top handle and a long flat bar wrapped with chain teeth.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "band-saw",
+  "category": "hardware",
+  "draw": "Tall C shaped frame housing two wheels with a vertical blade running across a small table.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "scroll-saw",
+  "category": "hardware",
+  "draw": "Low machine with a long overhead arm and a thin vertical blade over a small table.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "angle-grinder",
+  "category": "hardware",
+  "draw": "Long cylindrical motor body with a round disc and half guard at the front, set at a right angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bench-grinder",
+  "category": "hardware",
+  "draw": "Central motor with a grinding wheel on each side under curved guards, on a small base.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "belt-sander",
+  "category": "hardware",
+  "draw": "Handheld sander with a loop of sanding belt around two rollers, a top handle and a dust bag.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "orbital-sander",
+  "category": "hardware",
+  "draw": "Palm sander with a round pad at the bottom and a round dome grip on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "detail-sander",
+  "category": "hardware",
+  "draw": "Palm sander with an iron shaped triangular pointed pad at the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wood-router",
+  "category": "hardware",
+  "draw": "Round motor body standing on a flat round base with two knob handles on the sides.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "electric-planer",
+  "category": "hardware",
+  "draw": "Handheld planer with a long flat sole, a top handle and a chip chute on the side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "nail-gun",
+  "category": "hardware",
+  "draw": "Pneumatic nailer in side view with a handle, a long nose and an angled nail magazine strip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "air-compressor",
+  "category": "hardware",
+  "draw": "Horizontal tank on small wheels with a motor on top and a round pressure gauge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "air-hose-coil",
+  "category": "hardware",
+  "draw": "Coiled hose spiral with a quick connect fitting on one end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rotary-tool",
+  "category": "hardware",
+  "draw": "Slim pen shaped power tool with a tiny round cutting bit at the front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "oscillating-multitool",
+  "category": "hardware",
+  "draw": "Long body power tool with a small flat fan shaped blade attached at the front end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wood-lathe",
+  "category": "hardware",
+  "draw": "Long bed with a headstock on the left, a tailstock on the right and a spindle shaped workpiece between.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "shop-vacuum",
+  "category": "hardware",
+  "draw": "Round drum canister on casters with a lid motor top and a flexible hose coming from the side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "jackhammer",
+  "category": "hardware",
+  "draw": "Tall pneumatic breaker with a T handle at the top, a cylinder body and a long chisel point at the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "demolition-hammer",
+  "category": "hardware",
+  "draw": "Large power tool with a rear D handle, a side handle and a pointed chisel bit at the front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tile-saw",
+  "category": "hardware",
+  "draw": "Small table with a round blade in the middle over a water tray and a sliding guide.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cordless-tool-battery",
+  "category": "hardware",
+  "draw": "Rectangular battery pack with a slide rail on top and a row of charge level bars on the front.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drill-chuck",
+  "category": "hardware",
+  "draw": "Knurled cylindrical chuck with three jaws meeting at the front and a keyhole on the side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "chuck-key",
+  "category": "hardware",
+  "draw": "T shaped key with a small toothed gear near the pin end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "twist-drill-bit",
+  "category": "hardware",
+  "draw": "Long straight drill bit with a spiral groove along its body and a pointed tip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "spade-bit",
+  "category": "hardware",
+  "draw": "Drill bit with a flat paddle shaped blade and a sharp central point at the tip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "forstner-bit",
+  "category": "hardware",
+  "draw": "Short cylinder bit with a flat face, a toothed rim and a tiny centre spur.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "auger-bit",
+  "category": "hardware",
+  "draw": "Long drill bit with a wide open corkscrew spiral and a threaded screw point.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "step-drill-bit",
+  "category": "hardware",
+  "draw": "Cone shaped bit built from stacked steps of decreasing diameter.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "countersink-bit",
+  "category": "hardware",
+  "draw": "Short bit with a cone shaped cutting head that has a few flutes.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "masonry-drill-bit",
+  "category": "hardware",
+  "draw": "Straight spiral drill bit with a wider arrow shaped carbide tip at the end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "grinding-disc",
+  "category": "hardware",
+  "draw": "Flat round disc with a raised centre hub and a hole in the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "flap-disc",
+  "category": "hardware",
+  "draw": "Round disc covered in overlapping flaps arranged like fish scales around a centre hole.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sanding-disc",
+  "category": "hardware",
+  "draw": "Round sanding pad with a ring of small holes and a grainy dotted texture.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wire-wheel",
+  "category": "hardware",
+  "draw": "Round wheel of radiating bristle lines around a centre hub.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bench-vise",
+  "category": "hardware",
+  "draw": "Heavy vise with two jaws, a long screw with a sliding T bar handle, mounted on a bench edge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bar-clamp",
+  "category": "hardware",
+  "draw": "Long flat bar with a fixed jaw at one end and a sliding jaw with a trigger grip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "spring-clamp",
+  "category": "hardware",
+  "draw": "Clamp shaped like a big clothes peg with two handles, a coil spring and padded tips.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pipe-clamp",
+  "category": "hardware",
+  "draw": "Clamp made from a round pipe with a jaw at one end and a screw handle jaw at the other.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "corner-clamp",
+  "category": "hardware",
+  "draw": "Right angle clamp holding two boards together at a corner with a screw handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "f-clamp",
+  "category": "hardware",
+  "draw": "F shaped clamp with a long bar, a fixed upper arm and a lower arm with a screw and handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "magnetic-pickup-tool",
+  "category": "hardware",
+  "draw": "Telescoping pen shaped rod with a small magnet at the tip lifting a screw.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "helping-hands",
+  "category": "hardware",
+  "draw": "Small weighted base with two jointed arms holding crocodile clips and a round magnifier.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "caliper",
+  "category": "hardware",
+  "draw": "Vernier caliper with a long graduated bar, one fixed jaw and a sliding jaw with a small scale.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "digital-caliper",
+  "category": "hardware",
+  "draw": "Caliper with a long bar and a sliding head carrying a small rectangular digital display.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "micrometer",
+  "category": "hardware",
+  "draw": "C shaped frame with an anvil on one side and a thick graduated barrel with a thimble on the other.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "feeler-gauge",
+  "category": "hardware",
+  "draw": "Fan of thin metal blades pivoting from a common screw at one end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "dial-indicator",
+  "category": "hardware",
+  "draw": "Round gauge face with a needle and a long plunger rod sticking out of the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "carpenter-square",
+  "category": "hardware",
+  "draw": "Large flat L shaped steel square with ruler tick marks along both arms.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "speed-square",
+  "category": "hardware",
+  "draw": "Triangular rafter square with a thick lip on one edge and degree marks along the hypotenuse.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "try-square",
+  "category": "hardware",
+  "draw": "Small L square with a thick wooden stock and a thin steel blade at a right angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sliding-bevel",
+  "category": "hardware",
+  "draw": "Handle stock with a thin blade pivoting on a wing nut at an adjustable angle.",
+  "domain": "tools-hardware-construction"
+ }
+]

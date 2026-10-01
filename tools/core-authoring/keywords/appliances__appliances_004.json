@@ -1,0 +1,238 @@
+{
+  "wireless-charger": {
+    "context": "A phone standing above a flat charging pad, with wireless waves on each side and a lightning bolt on the screen. Used for cordless phone charging, electronics shops and charging spots in cafes or cars.",
+    "keywords": ["wireless charger", "wireless charging", "charging pad", "charging mat", "cordless charging", "inductive charging", "phone charger", "charge phone", "mobile charging", "smartphone", "charging station", "charging dock", "battery", "power", "charge", "desk charger", "nightstand charger", "electronics", "gadget", "accessory"]
+  },
+  "3d-printer": {
+    "context": "A 3D printer drawn as an open cube frame with a print head on a gantry above a freshly printed part. Used for maker spaces, prototyping, additive manufacturing and print job status.",
+    "keywords": ["3d printer", "3d printing", "three d printer", "additive manufacturing", "fdm printer", "filament printer", "print head", "extruder", "nozzle", "print bed", "prototype", "prototyping", "rapid prototyping", "maker", "makerspace", "fab lab", "printed part", "model", "plastic", "hobby", "manufacturing", "cad", "print job"]
+  },
+  "irrigation-controller": {
+    "context": "A wall-mounted sprinkler timer box with a large program dial, a water drop and two buttons. Used for garden watering schedules, smart irrigation apps and landscaping.",
+    "keywords": ["irrigation controller", "sprinkler controller", "sprinkler timer", "irrigation timer", "watering timer", "watering schedule", "lawn sprinkler", "garden watering", "drip irrigation", "sprinkler system", "irrigation", "watering", "water timer", "zone control", "landscaping", "lawn care", "garden", "smart garden", "timer", "dial", "water"]
+  },
+  "bidet-seat": {
+    "context": "A toilet seen from above with an electronic bidet seat and a control panel arm on one side. Used for bathroom fittings, hygiene products and hotel or home amenity lists.",
+    "keywords": ["bidet seat", "bidet", "electronic bidet", "smart toilet", "toilet seat", "heated seat", "bidet attachment", "washing seat", "toilet", "wc", "bathroom", "restroom", "lavatory", "hygiene", "personal hygiene", "sanitary", "bathroom fitting", "amenity", "plumbing", "control panel"]
+  },
+  "floodlight-camera": {
+    "context": "A security camera hanging below a wall unit with two flood lamps and light shining down on each side. Used for home security, outdoor surveillance and motion light alerts.",
+    "keywords": ["floodlight camera", "flood light camera", "security camera", "security light", "floodlight", "flood light", "motion light", "motion sensor light", "outdoor camera", "surveillance", "cctv", "home security", "driveway light", "garage light", "porch light", "wall light", "doorbell camera", "monitoring", "motion alert", "night vision", "camera"]
+  },
+  "self-cleaning-litter-box": {
+    "context": "A round domed automatic litter box with a front entry hole and a waste drawer in the base. Used for pet supplies, smart home pet devices and cat care.",
+    "keywords": ["self cleaning litter box", "automatic litter box", "smart litter box", "litter box", "litter tray", "cat litter", "cat toilet", "litter robot", "cat box", "pet toilet", "cat", "kitten", "pet", "pet care", "pet supplies", "waste drawer", "odor control", "odour control", "hygiene", "smart home", "cleaning"]
+  },
+  "nose-trimmer": {
+    "context": "A pen-shaped nose hair trimmer with a small rounded cutting head and a power button, turned at an angle. Used for grooming products, personal care shops and barber services.",
+    "keywords": ["nose trimmer", "nose hair trimmer", "ear hair trimmer", "nasal trimmer", "hair trimmer", "precision trimmer", "trimmer", "grooming", "mens grooming", "men's grooming", "personal care", "shaving", "shaver", "barber", "beauty", "hygiene", "electric trimmer", "battery trimmer", "toiletries", "bathroom"]
+  },
+  "uv-nail-lamp": {
+    "context": "A low domed nail dryer lamp with a wide front opening and light shining down inside. Used for gel manicures, nail salons and beauty supplies.",
+    "keywords": ["uv nail lamp", "led nail lamp", "nail lamp", "nail dryer", "uv lamp", "gel nail lamp", "gel polish", "gel manicure", "shellac", "manicure", "pedicure", "nail salon", "nail art", "nails", "nail polish", "curing lamp", "nail technician", "beauty", "beauty salon", "salon", "cosmetics"]
+  },
+  "massage-chair": {
+    "context": "A reclining padded massage chair with an armrest, a raised footrest and a remote control on a cord. Used for spa and wellness services, furniture shops and relaxation features.",
+    "keywords": ["massage chair", "massage recliner", "shiatsu chair", "electric massage chair", "recliner", "reclining chair", "massage", "back massage", "relax", "relaxation", "spa", "wellness", "therapy", "lounge chair", "armchair", "footrest", "remote control", "furniture", "comfort", "stress relief"]
+  },
+  "candle-bulb": {
+    "context": "A slim candle-shaped light bulb with a pointed flame tip, a small filament and a narrow screw base. Used for chandelier lighting, bulb shops and small lamp fittings.",
+    "keywords": ["candle bulb", "candle light bulb", "candelabra bulb", "chandelier bulb", "flame tip bulb", "torpedo bulb", "e14", "e12", "small screw base", "light bulb", "lightbulb", "bulb", "led bulb", "filament bulb", "lamp", "lighting", "chandelier", "wall sconce", "decorative bulb", "light fitting"]
+  },
+  "bollard-light": {
+    "context": "A short post light with a glowing band near the top, standing on a path with light shining out to both sides. Used for garden and landscape lighting, driveways and outdoor path lights.",
+    "keywords": ["bollard light", "bollard lamp", "path light", "pathway light", "post light", "garden light", "landscape light", "landscape lighting", "outdoor lighting", "driveway light", "walkway light", "lawn light", "garden lamp", "exterior light", "patio light", "yard light", "solar path light", "bollard", "lighting", "outdoor"]
+  },
+  "tiffany-lamp": {
+    "context": "A table lamp with a wide domed shade made of stained glass panels on a slender stem and base. Used for vintage decor, antiques, home lighting and interior design.",
+    "keywords": ["stained glass lamp", "leaded glass lamp", "mosaic lamp", "art nouveau lamp", "dome lamp", "table lamp", "vintage lamp", "antique lamp", "decorative lamp", "bedside lamp", "reading lamp", "lamp shade", "lampshade", "lamp", "lighting", "home decor", "interior design", "antiques", "victorian", "stained glass"]
+  },
+  "bankers-lamp": {
+    "context": "A desk lamp with a long half-cylinder shade on a stem, a flat base and a pull chain. Used for library and office settings, study spaces and classic home lighting.",
+    "keywords": ["bankers lamp", "banker's lamp", "library lamp", "green desk lamp", "desk lamp", "table lamp", "study lamp", "reading lamp", "office lamp", "pull chain", "brass lamp", "classic lamp", "vintage lamp", "library", "study", "office", "home office", "lighting", "lamp", "writing desk"]
+  },
+  "work-light": {
+    "context": "A portable work lamp with the bulb inside a protective cage, a hanging hook on top and a handle. Used for garages, workshops, car repair and job site lighting.",
+    "keywords": ["work light", "work lamp", "trouble light", "drop light", "shop light", "inspection lamp", "hand lamp", "caged lamp", "cage light", "portable light", "hanging light", "garage light", "workshop", "garage", "mechanic", "car repair", "job site", "construction", "lighting", "hook"]
+  },
+  "battery-charger": {
+    "context": "A charger base holding two upright AA batteries in slots, with a lightning bolt on the front. Used for rechargeable batteries, electronics shops and charging status.",
+    "keywords": ["battery charger", "aa charger", "aaa charger", "rechargeable battery", "rechargeable batteries", "nimh charger", "battery", "batteries", "charger", "charging", "charge", "recharge", "charging dock", "power", "energy", "electronics", "reusable", "cells", "plug in charger", "bolt"]
+  },
+  "slow-juicer": {
+    "context": "An upright slow juicer with a feed hopper on top, an auger inside the chamber and a spout pouring into a cup. Used for kitchen appliance shops, recipes and healthy drink menus.",
+    "keywords": ["slow juicer", "masticating juicer", "cold press juicer", "cold pressed juice", "auger juicer", "juicer", "juice extractor", "juice maker", "juicing", "juice", "fresh juice", "green juice", "smoothie", "fruit juice", "vegetable juice", "kitchen appliance", "small appliance", "healthy drink", "detox", "kitchen"]
+  },
+  "yogurt-maker": {
+    "context": "A round appliance base with a clear dome lid over three small jars of yogurt. Used for home fermentation, kitchen appliance shops and dairy recipes.",
+    "keywords": ["yogurt maker", "yoghurt maker", "yogurt machine", "yoghurt machine", "yogurt", "yoghurt", "greek yogurt", "homemade yogurt", "fermentation", "fermenting", "incubator", "jars", "dairy", "probiotic", "culture", "kitchen appliance", "small appliance", "breakfast", "kitchen", "cooking"]
+  },
+  "donut-maker": {
+    "context": "A donut maker with its lid hinged open above a cooking plate with two ring-shaped moulds. Used for baking recipes, party snacks and kitchen appliance shops.",
+    "keywords": ["donut maker", "doughnut maker", "mini donut maker", "donut machine", "doughnut machine", "donut", "doughnut", "mini donuts", "baking", "bake", "snack maker", "dessert", "treat", "breakfast", "party food", "kitchen appliance", "small appliance", "nonstick", "mould", "mold", "kitchen"]
+  },
+  "electric-wine-opener": {
+    "context": "A slim electric corkscrew standing on top of the neck of a wine bottle. Used for bar and kitchen tools, wine shops, gifts and restaurant service.",
+    "keywords": ["electric wine opener", "wine opener", "electric corkscrew", "automatic corkscrew", "corkscrew", "cork remover", "cork puller", "bottle opener", "wine bottle", "wine", "open wine", "uncork", "cork", "bar tools", "sommelier", "wine bar", "kitchen gadget", "gift", "restaurant", "dining"]
+  },
+  "cassette-air-conditioner": {
+    "context": "A square ceiling air conditioner panel seen from below, with a central grille and one air vent on each side. Used for commercial HVAC, office climate control and building services.",
+    "keywords": ["cassette air conditioner", "ceiling cassette", "cassette ac", "ceiling air conditioner", "ceiling ac", "four way cassette", "air conditioner", "air conditioning", "ac unit", "a/c", "hvac", "cooling", "heating", "climate control", "ceiling unit", "air vent", "commercial ac", "office cooling", "ventilation", "building services", "split system"]
+  },
+  "extension-cord": {
+    "context": "An extension lead with a two pin plug at one end and a socket block at the other end of the cable. Used for electrical supplies, event setups and power planning.",
+    "keywords": ["extension cord", "extension lead", "extension cable", "power extension", "power cord", "power cable", "extension", "plug", "socket", "outlet", "electrical outlet", "power outlet", "cable", "cord", "lead", "electricity", "electrical", "power supply", "mains", "wiring"]
+  },
+  "iec-connector": {
+    "context": "The face of an IEC power cord connector: a flat-topped shape with cut lower corners and three slots. Used for computer and appliance power cables, electronics specs and wiring guides.",
+    "keywords": ["iec connector", "iec cable", "c13", "c13 connector", "c14", "kettle plug", "kettle lead", "power cord", "power cable", "mains lead", "computer power cable", "pc power cable", "monitor power cable", "appliance cable", "three pin connector", "power connector", "connector", "socket", "electronics", "hardware"]
+  },
+  "dc-barrel-plug": {
+    "context": "A round DC barrel power plug with a hollow metal tip, a grip and a thin cable, turned at an angle. Used for power adapters, router and laptop chargers and electronics specs.",
+    "keywords": ["dc barrel plug", "barrel plug", "barrel jack", "barrel connector", "dc plug", "dc jack", "dc power", "coaxial power connector", "power adapter", "ac adapter", "wall adapter", "laptop charger", "router power", "charger plug", "power plug", "connector", "plug", "cable", "electronics", "hardware"]
+  },
+  "xlr-connector": {
+    "context": "The round face of an XLR audio connector with three pin holes and a latch tab on top. Used for microphone cables, stage and studio audio, and pro audio specs.",
+    "keywords": ["xlr", "xlr connector", "xlr cable", "xlr plug", "xlr jack", "mic cable", "microphone cable", "microphone connector", "balanced audio", "balanced cable", "audio connector", "audio cable", "pro audio", "stage audio", "studio", "sound engineer", "mixer", "pa system", "three pin", "connector"]
+  },
+  "speaker-terminals": {
+    "context": "A plate with two binding posts, one marked plus and one marked minus, with speaker wires running out below. Used for hi-fi setup guides, amplifier wiring and audio polarity.",
+    "keywords": ["speaker terminals", "binding posts", "speaker binding posts", "speaker wire", "speaker cable", "amplifier terminals", "amp terminals", "audio terminals", "spring clips", "positive", "negative", "polarity", "plus and minus", "hifi", "hi-fi", "stereo", "amplifier", "home theater", "home theatre", "wiring", "audio"]
+  },
+  "scart-connector": {
+    "context": "The wide face of a SCART plug with one cut corner and two rows of pins. Used for older TV and video equipment, retro gaming and AV cabling guides.",
+    "keywords": ["scart", "scart connector", "scart cable", "scart plug", "euroconnector", "peritel", "av cable", "av connector", "video cable", "tv cable", "tv connector", "rgb cable", "retro gaming", "vcr", "dvd player", "set top box", "analog video", "analogue video", "legacy connector", "connector"]
+  },
+  "hood-dryer": {
+    "context": "A salon hood hair dryer on a stand, with the domed hood held on an arm above a chair. Used for hair salons, beauty services and booking menus.",
+    "keywords": ["hood dryer", "hooded dryer", "bonnet dryer", "salon dryer", "hair dryer", "hairdryer", "standing hair dryer", "salon chair", "hair salon", "hairdresser", "hair setting", "rollers", "perm", "beauty salon", "salon", "beauty", "styling", "hair", "retro salon", "barber"]
+  },
+  "light-therapy-lamp": {
+    "context": "An upright light box panel on a small stand showing a bright sun. Used for seasonal mood support, wellness products and daylight lamp listings.",
+    "keywords": ["light therapy lamp", "light therapy", "sad lamp", "light box", "lightbox", "daylight lamp", "bright light therapy", "sunlight lamp", "sun lamp", "seasonal affective disorder", "winter blues", "mood", "wellness", "sleep", "circadian rhythm", "full spectrum", "10000 lux", "lamp", "sun", "health"]
+  },
+  "sauna-stove": {
+    "context": "A sauna heater box with a pile of stones on top and heat waves rising above. Used for saunas, spas, wellness centres and bath house services.",
+    "keywords": ["sauna stove", "sauna heater", "kiuas", "sauna stones", "hot stones", "sauna rocks", "electric sauna heater", "wood sauna stove", "sauna", "steam", "loyly", "spa", "wellness", "wellness centre", "wellness center", "bath house", "heat", "heater", "stove", "relax"]
+  },
+  "stove-knob": {
+    "context": "A round cooker control knob with a grip bar and tick marks around it for heat settings. Used for cooking apps, oven and hob controls and appliance repair.",
+    "keywords": ["stove knob", "cooker knob", "oven knob", "hob knob", "burner knob", "control knob", "dial", "temperature dial", "heat setting", "heat level", "gas knob", "turn on stove", "stove", "cooker", "oven", "hob", "cooktop", "range", "kitchen", "cooking", "appliance repair"]
+  },
+  "sink-trap": {
+    "context": "A plumbing P-trap: a drain pipe dropping from a sink into a U bend and turning sideways into the wall. Used for plumbing services, DIY repair guides and blocked drain help.",
+    "keywords": ["sink trap", "p trap", "p-trap", "u bend", "s trap", "drain trap", "trap", "waste pipe", "drain pipe", "sink drain", "plumbing", "plumber", "pipe", "drain", "blocked drain", "clogged drain", "unclog", "leak", "under sink", "bathroom", "kitchen sink", "diy"]
+  },
+  "picture-light": {
+    "context": "A slim tube lamp on a short arm above a framed picture, with light falling onto the artwork. Used for galleries, home decor and art display lighting.",
+    "keywords": ["picture light", "picture lamp", "art light", "art lamp", "gallery light", "painting light", "frame light", "display light", "wall light", "wall lamp", "accent light", "accent lighting", "artwork", "painting", "picture frame", "gallery", "museum", "home decor", "lighting", "wall art"]
+  },
+  "monitor-light-bar": {
+    "context": "A long lamp bar clipped on top of a computer monitor, casting light down onto the desk. Used for home office setups, desk accessories and screen lighting.",
+    "keywords": ["monitor light bar", "monitor lamp", "screen bar", "screen light", "screen lamp", "monitor light", "light bar", "desk light", "desk lamp", "computer light", "task light", "glare free", "eye care", "workspace", "home office", "desk setup", "monitor", "computer", "office", "lighting"]
+  },
+  "moon-lamp": {
+    "context": "A round moon-shaped lamp with craters on its surface, resting on a small stand. Used for night lights, bedroom decor, gifts and kids rooms.",
+    "keywords": ["moon lamp", "moon light", "moon night light", "lunar lamp", "3d moon lamp", "night light", "nightlight", "bedside lamp", "globe lamp", "orb lamp", "mood light", "ambient light", "moon", "full moon", "craters", "bedroom", "nursery", "kids room", "decor", "gift"]
+  },
+  "torchiere-lamp": {
+    "context": "A tall floor lamp with a slim pole and an upturned bowl shade that throws light up toward the ceiling. Used for living room lighting, furniture shops and interior design.",
+    "keywords": ["torchiere lamp", "torchiere", "torchere", "uplighter", "uplight", "floor lamp", "standing lamp", "standard lamp", "pole lamp", "tall lamp", "ceiling bounce", "indirect lighting", "ambient lighting", "living room", "lamp", "lighting", "interior design", "home decor", "furniture", "bowl shade"]
+  },
+  "slide-projector": {
+    "context": "A boxy slide projector with a round carousel tray on top and a lens on the front. Used for retro photography, photo archives, lectures and vintage media.",
+    "keywords": ["slide projector", "carousel projector", "carousel slide projector", "35mm slides", "photo slides", "slide show", "slideshow", "projector", "slides", "transparencies", "photo archive", "family photos", "lecture", "presentation", "vintage", "retro", "film photography", "analog", "analogue", "media"]
+  },
+  "ceiling-speaker": {
+    "context": "A flush speaker set into a ceiling line, with sound waves spreading down into the room. Used for home audio installs, PA systems, background music and building services.",
+    "keywords": ["ceiling speaker", "in ceiling speaker", "recessed speaker", "flush mount speaker", "built in speaker", "installed audio", "multi room audio", "whole home audio", "background music", "pa system", "public address", "announcement", "speaker", "loudspeaker", "sound", "audio", "home theater", "home theatre", "ceiling", "sound system"]
+  },
+  "motorized-valve": {
+    "context": "A pipe valve with a boxy electric motor actuator mounted on top. Used for heating zone control, HVAC and plumbing systems and building automation.",
+    "keywords": ["motorized valve", "motorised valve", "zone valve", "actuated valve", "electric valve", "valve actuator", "actuator", "solenoid valve", "control valve", "two port valve", "three port valve", "heating", "central heating", "boiler", "hvac", "plumbing", "pipe", "valve", "building automation", "zone control"]
+  },
+  "adjustable-bed": {
+    "context": "A side view of a bed with the head section raised at an angle and a small remote control beside it. Used for bedroom furniture, sleep products and home care.",
+    "keywords": ["adjustable bed", "adjustable base", "electric bed", "power base", "motorized bed", "motorised bed", "reclining bed", "raised head", "head up", "sleep position", "recline", "mattress", "bed", "bedroom", "sleep", "furniture", "remote control", "home care", "comfort", "rest"]
+  },
+  "pour-over-coffee": {
+    "context": "A cone coffee dripper with ribs inside, sitting on top of a carafe with a handle. Used for cafe menus, coffee brewing guides and coffee equipment shops.",
+    "keywords": ["pour over coffee", "pour over", "pourover", "coffee dripper", "drip cone", "hand drip", "hand brew", "manual brew", "filter coffee", "drip coffee", "slow coffee", "coffee brewing", "carafe", "coffee", "specialty coffee", "barista", "cafe", "coffee shop", "brew", "filter"]
+  },
+  "can-crusher": {
+    "context": "A wall-mounted can crusher with a long lever, a pressing plate and a flattened can inside the frame. Used for recycling, garage tools and home waste sorting.",
+    "keywords": ["can crusher", "can compactor", "wall can crusher", "aluminum can", "aluminium can", "soda can", "beer can", "drink can", "tin can", "crush", "crushed can", "flatten", "compact", "recycling", "recycle", "waste sorting", "garage", "lever", "tool", "eco"]
+  },
+  "carpet-sweeper": {
+    "context": "A low flat carpet sweeper on small wheels with a long push handle. Used for household cleaning, quick floor tidying and cleaning supplies.",
+    "keywords": ["carpet sweeper", "manual sweeper", "floor sweeper", "rug sweeper", "push sweeper", "cordless sweeper", "sweeper", "sweep", "sweeping", "carpet cleaning", "rug", "carpet", "crumbs", "floor cleaning", "housework", "chores", "cleaning", "housekeeping", "cleaning supplies", "tidy"]
+  },
+  "aa-battery": {
+    "context": "A single upright AA battery with a small nub on top, a plus sign and a band at the negative end. Used for battery shops, remote controls, toys and low battery reminders.",
+    "keywords": ["aa battery", "double a", "aa", "aaa battery", "cell", "alkaline battery", "rechargeable battery", "battery", "batteries", "cylindrical battery", "pencil battery", "positive terminal", "plus", "power", "energy", "remote control", "toys", "replace battery", "battery pack", "electronics"]
+  },
+  "nine-volt-battery": {
+    "context": "A rectangular 9 volt battery with a round and a hexagonal snap terminal on top. Used for smoke alarms, guitar pedals, test meters and battery shops.",
+    "keywords": ["9 volt battery", "9v battery", "nine volt", "9v", "pp3", "pp3 battery", "rectangular battery", "snap terminals", "battery clip", "battery", "batteries", "smoke alarm", "smoke detector", "guitar pedal", "multimeter", "transistor radio", "power", "energy", "electronics", "replace battery"]
+  },
+  "coin-cell-battery": {
+    "context": "A flat round button cell battery seen at an angle with a plus sign on its face. Used for watches, key fobs, car remotes, scales and small electronics.",
+    "keywords": ["coin cell battery", "coin cell", "button cell", "button battery", "coin battery", "watch battery", "lithium coin cell", "cr2032", "cr2025", "lr44", "key fob battery", "car key battery", "remote battery", "watch", "calculator", "scale", "battery", "small battery", "electronics", "power"]
+  },
+  "bar-heater": {
+    "context": "An electric bar fire with two heating bars across an arched reflector, standing on short feet. Used for home heating, energy use guides and retro interiors.",
+    "keywords": ["bar heater", "electric fire", "bar fire", "two bar fire", "radiant heater", "electric heater", "reflector heater", "element heater", "space heater", "room heater", "portable heater", "heater", "heating", "warmth", "warm", "winter", "cold weather", "energy use", "retro", "home"]
+  },
+  "parabolic-heater": {
+    "context": "A round dish heater with a central heating element, held in a tilting yoke on a stand. Used for home and patio heating, workshops and energy guides.",
+    "keywords": ["parabolic heater", "dish heater", "reflector heater", "radiant heater", "infrared heater", "electric heater", "patio heater", "tilting heater", "space heater", "room heater", "portable heater", "heater", "heating", "warmth", "warm", "winter", "workshop", "garage", "energy", "radiant heat"]
+  },
+  "meat-slicer": {
+    "context": "A deli meat slicer with a large round blade, a food carriage and a thin slice falling below. Used for delis, butchers, restaurant kitchens and charcuterie.",
+    "keywords": ["meat slicer", "deli slicer", "food slicer", "slicing machine", "electric slicer", "cold cuts", "deli meat", "ham", "salami", "cheese slicer", "charcuterie", "butcher", "butcher shop", "deli", "delicatessen", "circular blade", "slice", "slicing", "commercial kitchen", "restaurant"]
+  },
+  "hot-dog-roller": {
+    "context": "A hot dog roller grill with two sausages resting on a row of heated rollers under a sneeze guard. Used for convenience stores, concession stands and snack bars.",
+    "keywords": ["hot dog roller", "roller grill", "hot dog grill", "hot dog machine", "sausage roller", "sausage grill", "hot dog", "hotdog", "frankfurter", "wiener", "sausage", "concession stand", "snack bar", "convenience store", "gas station food", "fast food", "stadium food", "street food", "sneeze guard", "food service"]
+  },
+  "ice-shaver": {
+    "context": "A shaved ice machine with an ice block in the top chamber, a side crank and a cup of shaved ice below. Used for dessert stands, summer treats and party equipment.",
+    "keywords": ["ice shaver", "shaved ice machine", "shave ice", "shaved ice", "snow cone machine", "snow cone", "ice crusher", "kakigori", "bingsu", "granita", "slush", "ice block", "crank", "dessert", "summer treat", "frozen treat", "party rental", "dessert stand", "ice", "sweets"]
+  },
+  "baby-bottle-sterilizer": {
+    "context": "A round base with a tall clear dome over two upright baby bottles, used to sterilize them with steam. Used for baby care products, nursery lists and feeding guides.",
+    "keywords": ["baby bottle sterilizer", "bottle sterilizer", "bottle steriliser", "steam sterilizer", "steam steriliser", "sterilize", "sterilise", "baby bottle", "feeding bottle", "bottles", "teats", "nipples", "baby care", "newborn", "infant", "nursery", "feeding", "hygiene", "germs", "baby registry"]
+  },
+  "slide-dimmer": {
+    "context": "A wall plate with a vertical slider track and a knob used to dim the lights. Used for lighting controls, smart home apps and electrical fittings.",
+    "keywords": ["slide dimmer", "slider dimmer", "dimmer", "dimmer switch", "light dimmer", "wall dimmer", "brightness control", "light control", "lighting control", "dim lights", "dim", "brightness", "slider", "fader", "wall switch", "light switch", "wall plate", "electrical", "smart home", "mood lighting"]
+  },
+  "outlet-tester": {
+    "context": "A plug-in tester sitting in a wall socket with three indicator lights on its face. Used for electrical safety checks, electricians and home inspection.",
+    "keywords": ["outlet tester", "socket tester", "receptacle tester", "plug tester", "plug in tester", "outlet checker", "wiring tester", "circuit tester", "polarity tester", "electrical tester", "gfci tester", "indicator lights", "wall outlet", "wall socket", "electrician", "electrical safety", "home inspection", "wiring", "test", "diagnostic"]
+  },
+  "dryer-vent": {
+    "context": "An outside wall vent hood beside a wall section, with its flap swung open and warm air blowing out. Used for laundry appliance installs, lint cleaning services and home maintenance.",
+    "keywords": ["dryer vent", "tumble dryer vent", "clothes dryer vent", "vent hood", "wall vent", "exterior vent", "exhaust vent", "vent flap", "louvered vent", "vent cover", "duct", "ducting", "exhaust", "airflow", "lint", "vent cleaning", "laundry", "dryer", "home maintenance", "ventilation"]
+  },
+  "home-control-panel": {
+    "context": "A wall-mounted touchscreen panel showing a status bar and four room tiles. Used for smart home apps, home automation and building control dashboards.",
+    "keywords": ["home control panel", "smart home panel", "smart home hub", "home hub", "control panel", "wall panel", "wall tablet", "touch panel", "touchscreen", "keypad", "home automation", "building automation", "smart home", "room control", "scenes", "lights control", "thermostat", "dashboard", "intercom", "security panel"]
+  },
+  "shoe-polisher": {
+    "context": "A shoe shine machine: a low box with two round spinning brushes on the front and a shoe above it. Used for hotels, offices, shoe care products and lobby amenities.",
+    "keywords": ["shoe polisher", "shoe shine machine", "shoe shiner", "electric shoe shiner", "shoe buffer", "shoe polishing", "shoe shine", "polish shoes", "shoe care", "shoe brush", "brushes", "buffing", "leather shoes", "dress shoes", "footwear care", "shoes", "hotel amenity", "lobby", "office", "grooming"]
+  },
+  "faucet-water-filter": {
+    "context": "A kitchen tap with a small cylindrical water filter clipped onto the end of the spout, and a drop of clean water below. Used for drinking water products, kitchen fittings and water quality guides.",
+    "keywords": ["faucet water filter", "faucet filter", "tap filter", "tap water filter", "water filter", "faucet mount filter", "filtered water", "drinking water", "clean water", "water purifier", "purification", "water quality", "filter cartridge", "tap water", "faucet", "tap", "kitchen tap", "kitchen sink", "water", "kitchen"]
+  },
+  "pellet-stove": {
+    "context": "A pellet stove with a hopper lid on top, a window showing a flame and a flue pipe rising from the back. Used for home heating, biomass fuel and stove shops.",
+    "keywords": ["pellet stove", "pellet heater", "wood pellet stove", "pellet burner", "biomass stove", "biomass", "wood pellets", "pellets", "hopper", "flue", "chimney", "wood stove", "stove", "heating", "home heating", "fire", "flame", "fireplace", "renewable heat", "warmth"]
+  },
+  "window-fan": {
+    "context": "A twin window fan: two round fans in a slim frame fitted into the bottom of a window. Used for home cooling, ventilation and summer comfort.",
+    "keywords": ["window fan", "twin window fan", "dual window fan", "twin fan", "box fan", "exhaust fan", "intake fan", "reversible fan", "fan", "fans", "window", "ventilation", "fresh air", "air circulation", "airflow", "cooling", "summer", "heat wave", "bedroom", "home comfort"]
+  }
+}

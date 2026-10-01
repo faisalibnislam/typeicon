@@ -1,0 +1,10 @@
+{
+  "grid": {
+    "context": "Four rounded squares set in a two-by-two grid. Used for grid view toggles, app launchers, dashboards, photo galleries, tile layouts and category menus.",
+    "keywords": ["layout", "apps", "tiles", "dashboard", "gallery", "grid view", "grid layout", "app launcher", "app drawer", "all apps", "squares", "four squares", "thumbnails", "cards", "blocks", "categories", "menu", "view mode", "widgets", "home screen", "mosaic", "collection", "modules"]
+  },
+  "list": {
+    "context": "Three lines of text, each with a round bullet at the start. Used for list view toggles, bulleted lists in editors, to-do items, menus and table of contents buttons.",
+    "keywords": ["bullets", "items", "todo", "rows", "menu", "list view", "bulleted list", "bullet list", "unordered list", "bullet points", "to do list", "checklist", "lines", "entries", "details view", "text list", "outline", "view mode", "task list", "list layout", "options"]
+  }
+}

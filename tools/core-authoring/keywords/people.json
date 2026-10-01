@@ -1,0 +1,230 @@
+{
+  "artist": {
+    "context": "Head and shoulders of a person in a beret, with a paintbrush raised beside them. Used for art classes, creative portfolios, painting workshops, gallery apps and profile roles for illustrators.",
+    "keywords": ["painter", "art", "creative", "painting", "beret", "paintbrush", "brush", "illustrator", "fine art", "art class", "gallery", "studio", "portfolio", "craft", "hobby", "art teacher", "drawing", "canvas", "creator", "occupation", "job", "profession", "arts and crafts"]
+  },
+  "astronaut": {
+    "context": "Figure wearing a rounded space helmet with a wide visor. Fits space and science topics, kids' learning apps, rocket launches, exploration themes and fun avatar choices.",
+    "keywords": ["space", "cosmonaut", "spaceman", "spacewoman", "helmet", "space suit", "rocket", "outer space", "space travel", "moon landing", "science", "exploration", "galaxy", "cosmos", "space mission", "kids", "education", "avatar", "occupation", "job", "profession", "aerospace"]
+  },
+  "baby": {
+    "context": "Round baby face with a single curl of hair on top. Used in parenting apps, baby changing room signs, childcare services, nursery shops and family plans.",
+    "keywords": ["infant", "newborn", "toddler", "child", "nursery", "baby face", "kid", "parenting", "maternity", "childcare", "baby changing", "baby room", "birth", "pregnancy", "family", "daycare", "baby products", "pediatric", "paediatric", "little one", "cute", "age group"]
+  },
+  "bride": {
+    "context": "Person wearing a long veil that falls to the shoulders. Used on wedding websites, event planners, bridal shops, guest lists and invitation cards.",
+    "keywords": ["wedding", "marriage", "veil", "bridal", "ceremony", "wife", "wedding dress", "bridal shop", "engagement", "married", "newlywed", "wedding planner", "rsvp", "invitation", "event", "celebration", "just married", "reception", "wedding party", "fiancee"]
+  },
+  "builder": {
+    "context": "Person in a hard hat, drawn from the shoulders up. Used for construction companies, contractor profiles, site safety notices, home renovation apps and pages that are under construction.",
+    "keywords": ["construction", "worker", "construction worker", "engineer", "contractor", "hard hat", "helmet", "labourer", "laborer", "site", "building site", "renovation", "handyman", "tradesperson", "under construction", "safety", "work in progress", "maintenance", "occupation", "job", "profession", "industry"]
+  },
+  "cashier": {
+    "context": "Person standing behind a cash register. Fits point-of-sale screens, retail staff roles, checkout counters, shop opening hours and payment desks.",
+    "keywords": ["checkout", "till", "shop", "retail", "store clerk", "cash register", "point of sale", "pos", "sales clerk", "shop assistant", "counter", "payment", "pay here", "supermarket", "store", "e-commerce", "teller", "cash desk", "shopkeeper", "occupation", "job", "staff"]
+  },
+  "chef": {
+    "context": "Person wearing a tall, puffed chef's hat. Used in recipe apps, restaurant menus, cooking classes, kitchen staff roles and food delivery listings.",
+    "keywords": ["cook", "kitchen", "restaurant", "culinary", "baker", "chef hat", "toque", "cooking", "recipe", "food", "cuisine", "head chef", "catering", "menu", "cooking class", "bakery", "food service", "gastronomy", "occupation", "job", "profession", "hospitality"]
+  },
+  "child": {
+    "context": "Small stick figure with both arms raised, as if jumping or playing. Used for kids' zones, playgrounds, family tickets, school apps and child age groups in forms.",
+    "keywords": ["kid", "boy", "girl", "youth", "play", "children", "kids", "playing", "playground", "jump", "happy", "school", "family", "junior", "minor", "kids zone", "child ticket", "daycare", "education", "age group", "young", "fun"]
+  },
+  "contact-card": {
+    "context": "Card with a portrait and text lines, set in front of a second card. Used for contact lists, business cards, vCards, address book entries and ID or member cards.",
+    "keywords": ["contact", "vcard", "address book", "card file", "business card", "id card", "identity", "contacts", "contact list", "name card", "member card", "profile card", "badge", "phone book", "details", "user info", "directory", "crm", "visiting card", "employee card", "person card"]
+  },
+  "couple": {
+    "context": "Two people side by side with a small heart above them. Used in dating apps, relationship status, wedding planning, couples' plans and anniversary reminders.",
+    "keywords": ["love", "partners", "relationship", "pair", "dating", "romance", "heart", "together", "married", "marriage", "valentine", "anniversary", "boyfriend", "girlfriend", "husband", "wife", "two people", "match", "date night", "sweethearts", "family"]
+  },
+  "crowd": {
+    "context": "Several heads and shoulders packed together in rows. Fits audience counts, event attendance, public spaces, population data and busy or crowded indicators.",
+    "keywords": ["audience", "public", "population", "many people", "gathering", "group", "people", "attendees", "spectators", "event", "busy", "crowded", "mass", "community", "demographics", "census", "visitors", "fans", "concert", "rally", "users", "headcount"]
+  },
+  "designer": {
+    "context": "Person shown next to a vector pen nib. Used for design roles, creative teams, UI and UX portfolios, freelancer profiles and design tool menus.",
+    "keywords": ["graphic design", "creative", "illustrator", "ux", "ui", "vector", "pen nib", "graphic designer", "ux designer", "ui designer", "web designer", "product designer", "design team", "portfolio", "freelancer", "art director", "branding", "layout", "creative director", "occupation", "job", "profession"]
+  },
+  "detective": {
+    "context": "Figure in a wide-brimmed hat holding a magnifying glass. Used for investigations, fraud checks, mystery games, inspect or audit tools and private browsing themes.",
+    "keywords": ["investigator", "spy", "sleuth", "private eye", "agent", "magnifying glass", "investigate", "investigation", "mystery", "clue", "inspect", "inspector", "search", "fraud", "audit", "incognito", "secret agent", "crime", "case", "detective game", "undercover", "find out"]
+  },
+  "doctor": {
+    "context": "Person with a stethoscope hanging around the neck. Used for booking appointments, telehealth, clinic staff pages, medical records and health insurance apps.",
+    "keywords": ["physician", "medical", "health", "clinic", "gp", "stethoscope", "healthcare", "hospital", "medic", "general practitioner", "appointment", "telehealth", "telemedicine", "consultation", "patient care", "surgeon", "doctor visit", "medicine", "practitioner", "occupation", "job", "profession"]
+  },
+  "elderly": {
+    "context": "Older person with a bent posture walking with a cane. Used for senior discounts, priority seating signs, aged care services, retirement planning and accessibility info.",
+    "keywords": ["senior", "old", "elder", "aged", "grandparent", "cane", "walking stick", "old man", "old woman", "grandfather", "grandmother", "pensioner", "retired", "retirement", "aged care", "elderly care", "priority seat", "senior citizen", "older adult", "age group", "accessibility", "nursing home"]
+  },
+  "family": {
+    "context": "Two adults standing behind a smaller child. Used for family plans, household accounts, parental settings, family tickets and shared memberships.",
+    "keywords": ["parents", "child", "kids", "household", "home", "mother", "father", "mom", "mum", "dad", "children", "family plan", "family sharing", "family ticket", "parenting", "relatives", "people", "group", "parental controls", "dependents", "family members"]
+  },
+  "farmer": {
+    "context": "Person in a wide straw hat, seen from the shoulders up. Used for agriculture, farm-to-table produce, rural services, local markets and gardening or crop apps.",
+    "keywords": ["agriculture", "farm", "rancher", "grower", "rural", "straw hat", "farming", "crops", "harvest", "produce", "farmers market", "countryside", "agronomy", "cultivation", "field", "livestock", "local food", "organic", "gardener", "occupation", "job", "profession"]
+  },
+  "firefighter": {
+    "context": "Person in a firefighter's helmet with a raised front shield. Used for fire services, emergency contacts, fire safety training, rescue teams and incident reporting.",
+    "keywords": ["fireman", "firewoman", "fire", "rescue", "emergency", "brigade", "fire brigade", "fire department", "fire service", "fire station", "helmet", "fire safety", "first responder", "emergency services", "hazard", "fire fighter", "save", "occupation", "job", "profession", "public service"]
+  },
+  "gender-neutral": {
+    "context": "Restroom-style pictogram of a person whose lower half is split into a trouser leg and a skirt. Used on all-gender toilet signs, inclusive forms, gender options and facility maps.",
+    "keywords": ["all gender", "unisex", "non-binary", "restroom", "toilet", "inclusive", "gender", "gender identity", "genderqueer", "lgbtq", "equality", "bathroom", "washroom", "wc", "lavatory", "facilities", "gender option", "pictogram", "signage", "diversity", "neutral"]
+  },
+  "groom": {
+    "context": "Man in a top hat with a bow tie at his collar. Used on wedding sites, guest lists, formal events, menswear shops and invitation cards.",
+    "keywords": ["wedding", "marriage", "bridegroom", "tuxedo", "ceremony", "top hat", "bow tie", "husband", "suit", "formal", "fiance", "engagement", "married", "newlywed", "wedding planner", "invitation", "gentleman", "event", "black tie", "best man", "reception"]
+  },
+  "hand-raised": {
+    "context": "Stick figure with one arm held high. Used to raise a hand in video calls and classrooms, ask a question, volunteer, vote or get someone's attention.",
+    "keywords": ["raise hand", "question", "volunteer", "vote", "attention", "participant", "ask", "ask a question", "classroom", "meeting", "webinar", "q&a", "hello", "hi", "wave", "pick me", "speak up", "request to speak", "student", "turn", "opinion"]
+  },
+  "handshake": {
+    "context": "Two hands clasped in a handshake. Used for deals, partnerships, agreements, onboarding welcomes, trust badges and business networking.",
+    "keywords": ["agreement", "deal", "partnership", "greeting", "trust", "shake hands", "hands", "partner", "contract", "cooperation", "collaboration", "business", "welcome", "meeting", "introduction", "alliance", "negotiation", "hello", "agree", "commitment", "b2b", "affiliate"]
+  },
+  "judge": {
+    "context": "Person wearing a curled judge's wig. Used for legal services, court dates, law firms, dispute resolution, verdicts and judging panels in contests.",
+    "keywords": ["court", "law", "justice", "legal", "magistrate", "wig", "courtroom", "lawyer", "attorney", "barrister", "trial", "verdict", "ruling", "judgment", "judgement", "legal advice", "arbitration", "dispute", "jury", "government", "occupation", "profession"]
+  },
+  "king": {
+    "context": "Bearded figure wearing a crown with pointed tips. Used for royalty and history topics, chess pieces, premium or top-tier badges, leaderboards and fairy-tale games.",
+    "keywords": ["monarch", "royal", "ruler", "royalty", "chess", "crown", "emperor", "sovereign", "throne", "kingdom", "majesty", "history", "medieval", "leader", "boss", "vip", "premium", "top player", "champion", "chess piece", "fairy tale", "reign"]
+  },
+  "lifeguard": {
+    "context": "Person holding a round life ring. Used for pool and beach safety signs, swimming lessons, water rescue services and holiday resort guides.",
+    "keywords": ["rescue", "beach", "pool", "swimming", "safety", "life ring", "lifebuoy", "life preserver", "swimming pool", "water safety", "drowning", "save", "coast guard", "lifesaver", "summer", "resort", "swim lessons", "first aid", "occupation", "job", "emergency"]
+  },
+  "man": {
+    "context": "Restroom-style pictogram of a man with a round head and straight legs. Used on men's toilet signs, changing rooms, gender options in forms and demographic charts.",
+    "keywords": ["male", "restroom", "toilet", "gender", "gents", "men", "boy", "mens room", "gentlemen", "bathroom", "washroom", "wc", "lavatory", "changing room", "pictogram", "signage", "person", "he", "demographics", "father", "masculine"]
+  },
+  "mechanic": {
+    "context": "Person holding a spanner at their side. Used for car repair shops, maintenance services, technician bookings, service centres and fix or repair settings.",
+    "keywords": ["repair", "technician", "garage", "fix", "maintenance", "repairman", "spanner", "wrench", "auto repair", "car service", "service center", "service centre", "workshop", "engineer", "handyman", "tools", "breakdown", "car mechanic", "servicing", "occupation", "job", "profession"]
+  },
+  "musician": {
+    "context": "Person with a musical note floating beside them. Used for artist profiles, band pages, music lessons, concert listings and singer or performer roles.",
+    "keywords": ["singer", "music", "band", "artist", "performer", "music note", "note", "song", "concert", "gig", "composer", "songwriter", "music lesson", "vocalist", "live music", "audio", "recording artist", "dj", "entertainer", "occupation", "job", "profession"]
+  },
+  "ninja": {
+    "context": "Masked face with a headband whose loose ends trail out behind. Used in games, martial arts clubs, stealth or incognito modes and playful expert badges.",
+    "keywords": ["martial arts", "stealth", "assassin", "warrior", "shinobi", "mask", "masked", "headband", "samurai", "fighter", "karate", "japan", "incognito", "hidden", "sneaky", "game character", "expert", "pro", "master", "avatar", "action"]
+  },
+  "nurse": {
+    "context": "Person in a nurse's cap marked with a cross. Used for hospital staff, patient care, home care services, clinic appointments and medical help desks.",
+    "keywords": ["medical", "hospital", "care", "health", "clinic", "nurse cap", "cross", "healthcare", "nursing", "caregiver", "carer", "patient", "ward", "medic", "paramedic", "first aid", "home care", "health worker", "midwife", "occupation", "job", "profession"]
+  },
+  "person-running": {
+    "context": "Side-on figure mid-stride with arms swinging, running fast. Used for fitness trackers, workouts, marathons, sports clubs, emergency exits and hurry or quick actions.",
+    "keywords": ["run", "jog", "sprint", "exercise", "fitness", "race", "running", "runner", "jogging", "marathon", "workout", "cardio", "athlete", "sport", "training", "activity", "hurry", "fast", "quick", "emergency exit", "escape", "steps"]
+  },
+  "person-standing": {
+    "context": "Front-facing figure standing upright with arms at the sides. Used as a generic human symbol for body metrics, maps, accessibility info, standing reminders and people counts.",
+    "keywords": ["person", "stand", "human", "figure", "pedestrian", "body", "standing", "man", "people", "individual", "pictogram", "stick figure", "posture", "height", "body measurements", "stand up", "stand reminder", "user", "adult", "passenger", "occupancy"]
+  },
+  "person-walking": {
+    "context": "Side-on figure taking a step forward. Used for walking directions, step counters, pedestrian routes, travel time on maps and activity tracking.",
+    "keywords": ["walk", "pedestrian", "stroll", "steps", "hike", "on foot", "walking", "walker", "step counter", "pedometer", "walking directions", "footpath", "sidewalk", "pavement", "crosswalk", "commute", "exercise", "fitness", "activity", "travel", "maps", "distance"]
+  },
+  "photographer": {
+    "context": "Person holding a camera up to their face. Used for photographer profiles, photo credits, photoshoot bookings, press passes and camera or gallery sections.",
+    "keywords": ["camera", "photo", "journalist", "press", "shoot", "photography", "photoshoot", "cameraman", "camerawoman", "picture", "snapshot", "paparazzi", "reporter", "media", "photo credit", "portrait", "studio", "wedding photographer", "freelancer", "occupation", "job", "profession"]
+  },
+  "pilot": {
+    "context": "Person in a peaked cap with a wing badge on the front. Used for airlines, flight crew, aviation training, travel bookings and captain roles.",
+    "keywords": ["aviator", "captain", "flight", "airline", "plane", "airplane", "aeroplane", "aviation", "cockpit", "flight crew", "co-pilot", "aircraft", "air travel", "airport", "flying", "pilot wings", "cap", "flight school", "travel", "occupation", "job", "profession"]
+  },
+  "pirate": {
+    "context": "Figure in a tricorn hat with an eye patch. Used for pirate-themed games, kids' parties, treasure hunts, adventure stories and costume shops.",
+    "keywords": ["buccaneer", "captain", "sea", "treasure", "corsair", "eye patch", "tricorn", "pirate hat", "treasure hunt", "ship", "sailor", "adventure", "costume", "halloween", "party", "game character", "piracy", "outlaw", "ocean", "seven seas", "avatar"]
+  },
+  "police": {
+    "context": "Person wearing a police officer's peaked cap with a badge. Used for law enforcement contacts, reporting a crime, security staff, emergency numbers and safety apps.",
+    "keywords": ["officer", "cop", "law", "security", "sheriff", "police officer", "policeman", "policewoman", "constable", "law enforcement", "patrol", "emergency", "911", "999", "report crime", "safety", "guard", "security guard", "justice", "occupation", "job", "public service"]
+  },
+  "prince": {
+    "context": "Young figure wearing a small crown on short hair. Used in fairy-tale stories, kids' games, royalty topics, party themes and playful avatars.",
+    "keywords": ["royal", "royalty", "heir", "fairy tale", "crown", "young king", "nobility", "castle", "kingdom", "boy", "storybook", "fantasy", "costume", "party", "kids", "game character", "avatar", "noble", "throne", "majesty"]
+  },
+  "princess": {
+    "context": "Figure with long hair falling to the shoulders, wearing a tiara. Used in fairy-tale stories, children's games, party themes, royalty topics and playful avatars.",
+    "keywords": ["royal", "royalty", "fairy tale", "tiara", "crown", "girl", "castle", "kingdom", "nobility", "storybook", "fantasy", "costume", "dress up", "party", "kids", "game character", "avatar", "noble", "majesty", "heiress"]
+  },
+  "profile": {
+    "context": "Upright card showing a portrait above a name line. Used for user profile pages, about me sections, account details, ID badges and member directories.",
+    "keywords": ["bio", "about", "id", "account", "user page", "user profile", "my profile", "about me", "personal info", "id card", "badge", "identity", "portrait", "member", "contact", "details", "profile page", "resume", "cv", "biography", "employee", "person"]
+  },
+  "programmer": {
+    "context": "Person seated behind an open laptop that shows code brackets. Used for developer roles, engineering teams, coding courses, tech jobs and software help pages.",
+    "keywords": ["developer", "coder", "engineer", "software", "hacker", "laptop", "coding", "code", "software engineer", "web developer", "it", "tech", "computer", "dev", "devops", "programming", "coding course", "remote work", "tech support", "occupation", "job", "profession"]
+  },
+  "queen": {
+    "context": "Figure with long hair wearing a pointed crown. Used for royalty and history topics, chess pieces, top-rank badges, leaderboards and fairy-tale games.",
+    "keywords": ["monarch", "royal", "ruler", "royalty", "chess", "crown", "empress", "sovereign", "throne", "kingdom", "majesty", "history", "leader", "boss", "vip", "premium", "champion", "chess piece", "fairy tale", "reign", "woman"]
+  },
+  "scientist": {
+    "context": "Person beside a laboratory flask. Used for research teams, science education, lab results, experiments, chemistry lessons and biotech or pharma roles.",
+    "keywords": ["researcher", "lab", "chemist", "science", "experiment", "flask", "laboratory", "research", "chemistry", "biology", "physicist", "lab technician", "test", "lab results", "biotech", "pharma", "stem", "academic", "discovery", "occupation", "job", "profession"]
+  },
+  "soldier": {
+    "context": "Person in a rounded combat helmet marked with a star. Used for military and defence topics, veterans' services, army recruitment, history lessons and strategy games.",
+    "keywords": ["army", "military", "troops", "veteran", "defence", "defense", "combat", "helmet", "armed forces", "infantry", "navy", "marine", "service member", "warrior", "war", "battle", "recruit", "strategy game", "guard", "occupation", "job", "profession"]
+  },
+  "student": {
+    "context": "Person wearing a square graduation cap. Used for student accounts, school and university portals, online courses, graduation events and education discounts.",
+    "keywords": ["graduate", "pupil", "learner", "school", "university", "graduation", "graduation cap", "mortarboard", "college", "education", "study", "studying", "learning", "e-learning", "course", "class", "degree", "alumni", "academic", "student discount", "campus", "scholar"]
+  },
+  "superhero": {
+    "context": "Figure in a flowing cape with a star on the chest. Used for comic and kids' themes, achievement badges, power users, hero sections and game characters.",
+    "keywords": ["hero", "cape", "comic", "super", "power", "superpower", "comic book", "strong", "strength", "champion", "savior", "saviour", "rescue", "achievement", "power user", "kids", "costume", "game character", "avatar", "brave", "super user"]
+  },
+  "teacher": {
+    "context": "Person pointing at a small board beside them. Used for teacher accounts, tutoring services, online classes, lessons, training sessions and presentations.",
+    "keywords": ["tutor", "instructor", "educator", "professor", "school", "teaching", "lecturer", "lecture", "class", "lesson", "classroom", "whiteboard", "blackboard", "presentation", "trainer", "training", "coach", "education", "e-learning", "mentor", "occupation", "profession"]
+  },
+  "team": {
+    "context": "Three people standing in a row, one behind the next. Used for team pages, workspace members, staff directories, group projects and shared work tools.",
+    "keywords": ["colleagues", "staff", "group", "collaboration", "crew", "teamwork", "team members", "members", "people", "workforce", "department", "squad", "coworkers", "employees", "organization", "organisation", "workspace", "our team", "about us", "company", "partners"]
+  },
+  "user": {
+    "context": "Simple head and shoulders outline of a person. Used for account menus, sign in and profile links, author fields, member lists and any single-person placeholder.",
+    "keywords": ["person", "account", "profile", "avatar", "member", "people", "human", "sign in", "log in", "login", "my account", "customer", "client", "individual", "username", "guest", "author", "contact", "personal", "identity", "head and shoulders", "single user"]
+  },
+  "user-circle": {
+    "context": "Head and shoulders of a person inside a circle. Used for round profile avatars, account buttons in top bars, default profile pictures and user menus.",
+    "keywords": ["avatar", "account", "profile", "person", "profile picture", "user avatar", "default avatar", "my account", "account menu", "sign in", "login", "member", "circle avatar", "round avatar", "profile photo", "user icon", "people", "identity", "settings", "customer"]
+  },
+  "user-group": {
+    "context": "Three people side by side, the middle one taller and in front. Used for groups, communities, team spaces, audience segments and shared workspaces.",
+    "keywords": ["group", "people", "community", "members", "audience", "users", "team", "teamwork", "crowd", "organization", "organisation", "club", "workspace", "shared", "collaboration", "department", "segment", "multiple users", "three people", "social", "participants"]
+  },
+  "user-square": {
+    "context": "Head and shoulders of a person inside a rounded square. Used for square account pictures, profile placeholders, contact photos and user cards in lists.",
+    "keywords": ["avatar", "account", "profile", "picture", "user", "person", "profile picture", "profile photo", "square avatar", "default avatar", "contact photo", "portrait", "user icon", "member", "identity", "id photo", "customer", "people", "account picture", "photo frame"]
+  },
+  "users": {
+    "context": "Two people, one standing slightly behind the other. Used for member lists, shared access, friends, contacts, multi-user plans and user management screens.",
+    "keywords": ["people", "group", "members", "accounts", "friends", "contacts", "two people", "user management", "multiple users", "team", "shared", "share access", "customers", "clients", "audience", "community", "persons", "pair", "colleagues", "invite", "roles"]
+  },
+  "waiter": {
+    "context": "Person in a bow tie beside a covered serving dish with a small handle on top. Used for restaurants, table service, room service, catering, hotel staff and food ordering.",
+    "keywords": ["server", "restaurant", "service", "butler", "hospitality", "waitress", "cloche", "serving dish", "room service", "table service", "catering", "hotel", "dining", "food service", "order", "bow tie", "cafe", "bar staff", "concierge", "occupation", "job", "staff"]
+  },
+  "wizard": {
+    "context": "Figure in a tall pointed hat with a long beard. Used for fantasy games, magic themes, setup wizards, step-by-step guides, auto-fix tools and storybook content.",
+    "keywords": ["magic", "sorcerer", "mage", "fantasy", "witch", "warlock", "magician", "wizard hat", "beard", "spell", "setup wizard", "setup assistant", "guide", "auto fix", "magic tool", "game character", "rpg", "halloween", "fairy tale", "avatar"]
+  },
+  "woman": {
+    "context": "Restroom-style pictogram of a woman in a dress. Used on women's toilet signs, changing rooms, gender options in forms and demographic charts.",
+    "keywords": ["female", "restroom", "toilet", "gender", "ladies", "women", "girl", "womens room", "bathroom", "washroom", "wc", "lavatory", "changing room", "pictogram", "signage", "person", "she", "demographics", "mother", "feminine", "dress"]
+  },
+  "worker": {
+    "context": "Person in a shirt and tie, drawn from the shoulders up. Used for employees, office staff, job listings, HR tools, business accounts and professional profiles.",
+    "keywords": ["employee", "staff", "office", "business", "clerk", "professional", "businessman", "businesswoman", "tie", "manager", "executive", "office worker", "hr", "human resources", "job", "career", "recruitment", "hiring", "colleague", "work", "corporate", "consultant"]
+  }
+}

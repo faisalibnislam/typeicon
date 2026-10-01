@@ -1,0 +1,14 @@
+{
+  "name": "TypeIcon",
+  "id": "typeicon-local-dev",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["https://typeicon.net"],
+    "devAllowedDomains": ["http://localhost:3107"],
+    "reasoning": "Searches the public TypeIcon icon catalog (GET /api/icons) to show previews and insert SVG vectors. The localhost entry is only used during development against a local TypeIcon dev server."
+  }
+}

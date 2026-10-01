@@ -1,0 +1,482 @@
+[
+ {
+  "name": "sandstorm",
+  "category": "landscape",
+  "draw": "Wall of dust clouds with blowing sand lines sweeping over dunes.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "waterspout",
+  "category": "landscape",
+  "draw": "Funnel cloud touching the sea surface with a spray ring at the base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ball-lightning",
+  "category": "landscape",
+  "draw": "Glowing sphere with crackling short zigzag sparks around it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mirage",
+  "category": "landscape",
+  "draw": "Desert horizon with an upside down reflection of a palm tree floating above.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "moon-halo",
+  "category": "landscape",
+  "draw": "Crescent moon surrounded by a large thin ring.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "jet-stream",
+  "category": "landscape",
+  "draw": "Globe with a wavy band of fast wind arrows looping around it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mercury-planet",
+  "category": "landscape",
+  "draw": "Small cratered planet disk with a few round crater circles.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "venus-planet",
+  "category": "landscape",
+  "draw": "Planet disk covered in thick swirling cloud bands.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mars-planet",
+  "category": "landscape",
+  "draw": "Planet disk with a white polar cap and a long canyon line across it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "jupiter-planet",
+  "category": "landscape",
+  "draw": "Large planet disk with horizontal bands and an oval great spot.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "uranus-planet",
+  "category": "landscape",
+  "draw": "Planet disk with a thin ring tilted nearly vertical around it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "neptune-planet",
+  "category": "landscape",
+  "draw": "Planet disk with faint bands, a dark oval spot and a small streak cloud.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pluto-planet",
+  "category": "landscape",
+  "draw": "Small dwarf planet disk with a large heart-shaped plain on its face.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "planet-orbit",
+  "category": "landscape",
+  "draw": "Tilted elliptical orbit around a central star with a planet dot on it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "asteroid-belt",
+  "category": "landscape",
+  "draw": "Arc band of many small irregular rock dots between two orbit lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "meteor-shower",
+  "category": "landscape",
+  "draw": "Several parallel diagonal streaks with glowing heads falling across a night sky.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "meteorite-impact",
+  "category": "landscape",
+  "draw": "Rock hitting the ground with a burst of debris and a shallow crater.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "impact-crater",
+  "category": "landscape",
+  "draw": "Round bowl crater with a raised rim and a central peak seen at an angle.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "half-moon",
+  "category": "landscape",
+  "draw": "Circle exactly half filled, the first quarter moon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "gibbous-moon",
+  "category": "landscape",
+  "draw": "Moon disk mostly lit with a small dark crescent on one side.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "new-moon",
+  "category": "landscape",
+  "draw": "Dark filled moon disk with a thin outline ring.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "blood-moon",
+  "category": "landscape",
+  "draw": "Full moon disk with shading bands and a shadow arc crossing it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lunar-eclipse",
+  "category": "landscape",
+  "draw": "Moon disk partly covered by a curved dark Earth shadow.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "annular-eclipse",
+  "category": "landscape",
+  "draw": "Dark disk centered on a larger sun leaving a bright thin ring around it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "supermoon",
+  "category": "landscape",
+  "draw": "Very large full moon disk dwarfing a small horizon tree.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "earthrise",
+  "category": "landscape",
+  "draw": "Earth disk rising above a curved cratered lunar horizon.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lunar-surface",
+  "category": "landscape",
+  "draw": "Curved horizon with craters and rocks under a black sky with Earth above.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sunspots",
+  "category": "landscape",
+  "draw": "Sun disk with several dark irregular spots on its face.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "solar-flare",
+  "category": "landscape",
+  "draw": "Sun edge with a large arching loop of plasma lifting off.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "solar-wind",
+  "category": "landscape",
+  "draw": "Sun on the left with streaming curved lines flowing toward a small planet.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "supernova",
+  "category": "landscape",
+  "draw": "Bright central burst with radiating spikes and an expanding ring shell.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "nebula",
+  "category": "landscape",
+  "draw": "Soft irregular cloud with swirling edges and a few embedded stars.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "planetary-nebula",
+  "category": "landscape",
+  "draw": "Ring-shaped glowing shell with a small star dot at the center.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pulsar",
+  "category": "landscape",
+  "draw": "Small sphere with two narrow opposite beams sweeping out and a spin arc.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "quasar",
+  "category": "landscape",
+  "draw": "Bright core with a flat accretion disk and two long opposite jets.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "red-giant",
+  "category": "landscape",
+  "draw": "Very large star circle next to a tiny sun circle for comparison.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "white-dwarf",
+  "category": "landscape",
+  "draw": "Tiny bright star dot with rays next to a much larger faint circle outline.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "double-star-system",
+  "category": "landscape",
+  "draw": "Two star circles orbiting each other on a shared elliptical orbit line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "star-cluster",
+  "category": "landscape",
+  "draw": "Dense round group of many small star dots bunched together.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "elliptical-galaxy",
+  "category": "landscape",
+  "draw": "Smooth elongated oval glow with a bright center and fading rings.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "barred-galaxy",
+  "category": "landscape",
+  "draw": "Galaxy with a straight central bar and spiral arms from each end.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "accretion-disk",
+  "category": "landscape",
+  "draw": "Tilted flat ring of swirling matter around a small central dark sphere.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "wormhole",
+  "category": "landscape",
+  "draw": "Funnel-shaped curved grid tunnel narrowing to a throat and widening again.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "big-bang",
+  "category": "landscape",
+  "draw": "Central point exploding outward with scattered dots and expanding arcs.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "gravitational-lensing",
+  "category": "landscape",
+  "draw": "Central mass circle with curved arc images of a distant galaxy around it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "spacetime-grid",
+  "category": "landscape",
+  "draw": "Curved grid sheet dipping downward under a heavy sphere.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "exoplanet",
+  "category": "landscape",
+  "draw": "Star with a small planet circle crossing in front of it and a dip graph line below.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "habitable-zone",
+  "category": "landscape",
+  "draw": "Star at center with a shaded ring band between two orbit circles.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "kuiper-belt",
+  "category": "landscape",
+  "draw": "Wide ring of scattered small dots far outside several orbit rings.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "polaris",
+  "category": "landscape",
+  "draw": "Bright star with long cross spikes above the two pointer stars of the dipper.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "big-dipper",
+  "category": "landscape",
+  "draw": "Seven star dots joined in the ladle shape of the dipper asterism.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "little-dipper",
+  "category": "landscape",
+  "draw": "Seven small star dots in a smaller ladle shape ending at a bright star.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "orion-constellation",
+  "category": "landscape",
+  "draw": "Star dots in the hunter pattern with three belt stars in a line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cassiopeia",
+  "category": "landscape",
+  "draw": "Five star dots joined in a W zigzag shape.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "southern-cross",
+  "category": "landscape",
+  "draw": "Four bright star dots in a kite cross pattern with a small fifth star.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pleiades",
+  "category": "landscape",
+  "draw": "Tight group of six or seven star dots in a small dipper shape.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "celestial-sphere",
+  "category": "landscape",
+  "draw": "Sphere with an equator ring, an axis line and a tilted ecliptic ring.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "light-year",
+  "category": "landscape",
+  "draw": "Star dot and planet dot connected by a long measured bracket arrow.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "dark-matter",
+  "category": "landscape",
+  "draw": "Faint dashed circle halo surrounding a small galaxy spiral.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "galaxy-collision",
+  "category": "landscape",
+  "draw": "Two spiral galaxies overlapping with tidal tail streams between them.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sun-cross-section",
+  "category": "landscape",
+  "draw": "Sun circle cut open showing core, radiative and convective layers.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "earth-axis-tilt",
+  "category": "landscape",
+  "draw": "Globe tilted with a dashed axis line through its poles and an angle arc.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "day-night-terminator",
+  "category": "landscape",
+  "draw": "Globe half shaded with a curved boundary line between day and night.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "moon-orbit",
+  "category": "landscape",
+  "draw": "Earth circle with a smaller moon on a surrounding orbit ring.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "radio-telescope",
+  "category": "landscape",
+  "draw": "Large parabolic dish on a tall support frame pointing upward.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "space-telescope",
+  "category": "landscape",
+  "draw": "Cylindrical telescope tube with solar panel wings and an open aperture door.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "armillary-sphere",
+  "category": "landscape",
+  "draw": "Nested metal rings around a central ball on a stand.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "astrolabe",
+  "category": "landscape",
+  "draw": "Circular disk with a pointer rule, scale marks and a hanging ring at the top.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "orrery",
+  "category": "landscape",
+  "draw": "Mechanical model with a central sun ball and planet balls on arms around it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "planisphere",
+  "category": "landscape",
+  "draw": "Round star wheel with an oval star field window and a date scale around the rim.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sextant",
+  "category": "landscape",
+  "draw": "Arc-shaped navigation instrument with a scale, mirrors and a small scope.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "space-probe",
+  "category": "landscape",
+  "draw": "Small spacecraft body with a large dish antenna and a long boom arm.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mars-rover",
+  "category": "landscape",
+  "draw": "Six-wheeled rover with a tall mast camera head and a robot arm.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lunar-lander",
+  "category": "landscape",
+  "draw": "Spider-legged lander with four angled legs, foot pads and a boxy body.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "space-capsule",
+  "category": "landscape",
+  "draw": "Cone-shaped capsule with a round window and a heat shield base.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "space-shuttle",
+  "category": "landscape",
+  "draw": "Winged orbiter silhouette with a tail fin and nose, side view.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "solar-sail",
+  "category": "landscape",
+  "draw": "Small craft at the center of a large square sail with diagonal struts.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "space-debris",
+  "category": "landscape",
+  "draw": "Scattered broken satellite fragments and bolts drifting around a globe arc.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "spacewalk",
+  "category": "landscape",
+  "draw": "Suited astronaut floating in space tethered by a curly line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "moon-landing-flag",
+  "category": "landscape",
+  "draw": "Flag on a pole with a horizontal top bar planted on a cratered surface.",
+  "domain": "landscape-geology-sky"
+ }
+]

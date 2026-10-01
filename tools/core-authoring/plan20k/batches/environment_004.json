@@ -1,0 +1,404 @@
+[
+ {
+  "name": "wetland-restoration",
+  "category": "environment",
+  "draw": "Reeds rising from water with a sprout and a spade.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "coral-restoration",
+  "category": "environment",
+  "draw": "Coral branch tied to a small frame with a sprout.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "anti-poaching",
+  "category": "environment",
+  "draw": "Elephant silhouette inside a shield.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "biodiversity",
+  "category": "environment",
+  "draw": "Circle holding a leaf, a fish and a bird around a center.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "ecosystem",
+  "category": "environment",
+  "draw": "Tree, fish and sun connected by curved arrows in a cycle.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "food-web",
+  "category": "environment",
+  "draw": "Nodes of animal dots joined by many crossing lines.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "hedgerow",
+  "category": "environment",
+  "draw": "Long low bushy hedge along a field line with a small bird.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wildlife-pond",
+  "category": "environment",
+  "draw": "Oval pond with reeds and a frog on a lily pad.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "peat-bog",
+  "category": "environment",
+  "draw": "Waterlogged ground with tufts of moss and cut peat blocks.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "save-the-planet",
+  "category": "environment",
+  "draw": "Two hands cupping a globe.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "earth-hour",
+  "category": "environment",
+  "draw": "Globe with a light switch beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "eco-warrior",
+  "category": "environment",
+  "draw": "Person silhouette with a leaf on their chest.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "environmental-scientist-kit",
+  "category": "environment",
+  "draw": "Test tube with a leaf inside.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "water-testing",
+  "category": "environment",
+  "draw": "Test tube dipped into wavy water with a drop above.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "air-monitoring-station",
+  "category": "environment",
+  "draw": "Box on a pole with small vents and a cloud icon.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "nature-trail-sign",
+  "category": "environment",
+  "draw": "Wooden arrow signpost with a leaf on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "leave-no-trace",
+  "category": "environment",
+  "draw": "Footprint beside a leaf inside a circle.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "no-littering",
+  "category": "environment",
+  "draw": "Person dropping trash into a bin drawn inside a circle.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "do-not-feed-wildlife",
+  "category": "environment",
+  "draw": "Duck with a bread slice inside a circle.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "thundersnow",
+  "category": "environment",
+  "draw": "Cloud with a lightning bolt on one side and a snowflake on the other beneath it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "breezy-day",
+  "category": "environment",
+  "draw": "Sun in the upper corner with two long curling wind lines sweeping beneath it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "window-frost",
+  "category": "environment",
+  "draw": "Window pane corner filled with branching feathery frost fern patterns.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "tornado-siren",
+  "category": "environment",
+  "draw": "Tall pole topped with a round horn siren with sound arcs radiating out.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "hurricane-shutters",
+  "category": "environment",
+  "draw": "House window covered by a corrugated panel with bolts at its corners.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "snow-fence",
+  "category": "environment",
+  "draw": "Row of slatted fence posts with a sloping snow drift piled against one side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "hand-crank-radio",
+  "category": "environment",
+  "draw": "Compact radio with a telescopic antenna and a folding crank handle on its side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "snow-day",
+  "category": "environment",
+  "draw": "Calendar page with a large snowflake drawn in place of the date.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "sun-path",
+  "category": "environment",
+  "draw": "Dotted arc over a horizon line with three small sun positions along it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "window-thermometer",
+  "category": "environment",
+  "draw": "Round dial thermometer stuck to a window pane with a suction cup.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "soil-thermometer",
+  "category": "environment",
+  "draw": "Round dial gauge on top of a long probe pushed into a soil line.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "payday",
+  "category": "environment",
+  "draw": "Calendar page with a coin drawn on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "work-week",
+  "category": "environment",
+  "draw": "Calendar row of seven squares with the first five filled.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "timestamp",
+  "category": "environment",
+  "draw": "Rubber stamp with a small clock face on its handle and a printed mark below.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "siesta",
+  "category": "environment",
+  "draw": "Hammock slung between two posts with a sun above it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "week-number",
+  "category": "environment",
+  "draw": "Calendar page with the letter W followed by a two digit number.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "rain-garden",
+  "category": "environment",
+  "draw": "Sunken planted bed with reeds and a roof downspout pouring water into it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "permeable-paving",
+  "category": "environment",
+  "draw": "Grid of paver blocks with water drops sinking between the gaps.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "urban-heat-island",
+  "category": "environment",
+  "draw": "City skyline with a thermometer rising above the buildings and heat lines.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "cool-roof",
+  "category": "environment",
+  "draw": "House roof reflecting sun ray lines back up into the sky.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "shade-tree",
+  "category": "environment",
+  "draw": "Round tree beside a small house casting a shadow over it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "water-footprint",
+  "category": "environment",
+  "draw": "Footprint shape made from a water drop outline.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "peak-demand",
+  "category": "environment",
+  "draw": "Clock face with a lightning bolt and a sharp peak line across it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "power-outage",
+  "category": "environment",
+  "draw": "House silhouette with dark windows and a broken lightning bolt above it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "bycatch",
+  "category": "environment",
+  "draw": "Fishing net holding fish with a sea turtle caught among them.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "monoculture",
+  "category": "environment",
+  "draw": "Field of identical small trees arranged in a rigid grid of rows.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "green-data-center",
+  "category": "environment",
+  "draw": "Server rack with a leaf over its front panel.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "climate-model",
+  "category": "environment",
+  "draw": "Globe covered in a square grid mesh with a small thermometer beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "water-scarcity",
+  "category": "environment",
+  "draw": "Dry tap with a single cracked water drop falling from its spout.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "desalination-plant",
+  "category": "environment",
+  "draw": "Wave line flowing into a tank with a salt pile beside it and a tap on the other side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "agrivoltaics",
+  "category": "environment",
+  "draw": "Raised solar panels on posts above a row of crop plants.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "floating-solar",
+  "category": "environment",
+  "draw": "Tilted solar panels resting on floats on wavy water.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "solar-pump",
+  "category": "environment",
+  "draw": "Small solar panel connected to a pump pouring water into a trough.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "ground-source-heat-pump",
+  "category": "environment",
+  "draw": "House with a looped pipe running down into the ground beneath it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "clothing-swap",
+  "category": "environment",
+  "draw": "Two shirts with a pair of curved arrows exchanging between them.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "bokashi-bin",
+  "category": "environment",
+  "draw": "Lidded bucket with a small tap near its base and a leaf on its side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "wildlife-rescue",
+  "category": "environment",
+  "draw": "Two hands cradling a small bird with a bandage on its wing.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "drip-torch",
+  "category": "environment",
+  "draw": "Canister with a long curved spout and a small flame at its tip.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "energy-consumption",
+  "category": "environment",
+  "draw": "Plug with a small rising bar chart beside it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "hybrid-car",
+  "category": "environment",
+  "draw": "Car silhouette with a leaf and a fuel drop above its roof.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "snow-blower",
+  "category": "environment",
+  "draw": "Walk behind machine with an auger housing at the front and a curved chute throwing snow.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "birthday-calendar",
+  "category": "environment",
+  "draw": "Calendar page with a small cake and a candle on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "hurricane-track",
+  "category": "environment",
+  "draw": "Small hurricane spiral symbol at the end of a dotted curving path inside a widening cone outline.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "cloud-seeding",
+  "category": "environment",
+  "draw": "Small airplane flying beneath a cloud releasing a trail of tiny dots up into it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "fog-harvesting",
+  "category": "environment",
+  "draw": "Rectangular mesh net on two poles with droplets collecting and dripping into a trough below.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "eco-mode",
+  "category": "environment",
+  "draw": "Semicircle speed gauge with a needle pointing to a small leaf at its low end.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "tree-hug",
+  "category": "environment",
+  "draw": "Person silhouette with both arms wrapped around a tree trunk.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "snowmelt",
+  "category": "environment",
+  "draw": "Snow mound with drips falling from its edge into a small stream line below.",
+  "domain": "weather-time-environment"
+ }
+]

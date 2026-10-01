@@ -1,0 +1,362 @@
+[
+ {
+  "name": "wireless-charger",
+  "category": "appliances",
+  "draw": "Flat round charging pad with a phone lying on top and a small bolt.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "3d-printer",
+  "category": "appliances",
+  "draw": "Open cube frame with a print head on a gantry above a bed holding a small printed object.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "irrigation-controller",
+  "category": "appliances",
+  "draw": "Wall mounted box with a big round dial, a small display and a water drop symbol.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bidet-seat",
+  "category": "appliances",
+  "draw": "Toilet seat outline seen from above with a control panel arm attached to one side.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "floodlight-camera",
+  "category": "appliances",
+  "draw": "Wall mount with a small round camera lens between two angled flood lamps.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "self-cleaning-litter-box",
+  "category": "appliances",
+  "draw": "Round dome shaped litter drum with an entry hole on the front and a drawer at the base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "nose-trimmer",
+  "category": "appliances",
+  "draw": "Pen shaped trimmer with a small rounded slotted head on top and a button on the body.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "uv-nail-lamp",
+  "category": "appliances",
+  "draw": "Low arched dome lamp with a wide opening at the front and light rays inside.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "massage-chair",
+  "category": "appliances",
+  "draw": "Reclining padded chair with wide armrests, a footrest and a small remote on a cord.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "candle-bulb",
+  "category": "appliances",
+  "draw": "Slim bulb with a pointed flame shaped tip and a narrow screw base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bollard-light",
+  "category": "appliances",
+  "draw": "Short cylindrical post light with a glowing band near the top standing on a path line.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "tiffany-lamp",
+  "category": "appliances",
+  "draw": "Table lamp with a wide domed shade divided into mosaic panels on a slender base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bankers-lamp",
+  "category": "appliances",
+  "draw": "Desk lamp with a horizontal half cylinder shade on a curved stem and a pull chain.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "work-light",
+  "category": "appliances",
+  "draw": "Portable lamp with a bulb inside a protective wire cage, a hook on top and a handle.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "battery-charger",
+  "category": "appliances",
+  "draw": "Charger base with two cylindrical AA batteries standing in slots and a bolt symbol.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "slow-juicer",
+  "category": "appliances",
+  "draw": "Tall vertical juicer with a hopper on top, a chamber showing a spiral auger and two spouts below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "yogurt-maker",
+  "category": "appliances",
+  "draw": "Round base with a clear dome lid covering several small jars.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "donut-maker",
+  "category": "appliances",
+  "draw": "Hinged round cooking press opened at an angle showing a ring of donut shaped cavities.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "electric-wine-opener",
+  "category": "appliances",
+  "draw": "Tall slim cylinder corkscrew device sitting on top of a wine bottle neck.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "cassette-air-conditioner",
+  "category": "appliances",
+  "draw": "Square ceiling panel unit with a central grille and four slot vents, one on each side.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "extension-cord",
+  "category": "appliances",
+  "draw": "Coiled cord with a plug at one end and a single socket block at the other.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "iec-connector",
+  "category": "appliances",
+  "draw": "Power cord end with a flat topped trapezoid connector showing three slots.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "dc-barrel-plug",
+  "category": "appliances",
+  "draw": "Small cylindrical barrel plug with a hollow round tip on a thin cable.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "xlr-connector",
+  "category": "appliances",
+  "draw": "Round audio connector face with three pin holes in a triangle and a latch tab on the body.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "speaker-terminals",
+  "category": "appliances",
+  "draw": "Small plate with two screw binding posts, one marked plus and one marked minus, with wire ends.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "scart-connector",
+  "category": "appliances",
+  "draw": "Wide flat trapezoid plug with a notched corner and a double row of tiny pins.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "hood-dryer",
+  "category": "appliances",
+  "draw": "Salon hair dryer: a big rounded hood on an arm above a chair back.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "light-therapy-lamp",
+  "category": "appliances",
+  "draw": "Flat upright light panel on a small stand with a sun symbol and bright rays.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "sauna-stove",
+  "category": "appliances",
+  "draw": "Box heater with a basket of round stones piled on top and heat waves rising.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "stove-knob",
+  "category": "appliances",
+  "draw": "Round control knob with a pointer line and tick marks around it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "sink-trap",
+  "category": "appliances",
+  "draw": "Plumbing P trap: a vertical pipe from a drain turning into a U bend and then sideways.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "picture-light",
+  "category": "appliances",
+  "draw": "Slim horizontal tube lamp on a short arm mounted above a framed picture, light spilling down.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "monitor-light-bar",
+  "category": "appliances",
+  "draw": "Long thin lamp bar clipped on top of a monitor with light cast down onto the desk line.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "moon-lamp",
+  "category": "appliances",
+  "draw": "Round sphere with crater spots sitting on a small stand.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "torchiere-lamp",
+  "category": "appliances",
+  "draw": "Tall floor lamp with a slim pole and a wide upturned bowl shade throwing light upward.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "slide-projector",
+  "category": "appliances",
+  "draw": "Boxy projector with a round carousel tray on top and a lens on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "ceiling-speaker",
+  "category": "appliances",
+  "draw": "Round flush speaker grille set into a ceiling line with sound arcs pointing down.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "motorized-valve",
+  "category": "appliances",
+  "draw": "Pipe section with a boxy motor actuator mounted on top of the valve body.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "stairlift",
+  "category": "appliances",
+  "draw": "Folding seat with armrests riding along a rail that runs up a staircase.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "adjustable-bed",
+  "category": "appliances",
+  "draw": "Side view bed with the head section raised at an angle and a small remote beside it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "pour-over-coffee",
+  "category": "appliances",
+  "draw": "Cone shaped dripper with ribbed lines sitting on top of a round carafe.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "can-crusher",
+  "category": "appliances",
+  "draw": "Wall mounted lever crusher with a long handle and a flattened can inside the frame.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "carpet-sweeper",
+  "category": "appliances",
+  "draw": "Low flat box sweeper with small roller wheels and a long diagonal push handle.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "aa-battery",
+  "category": "appliances",
+  "draw": "Single upright cylindrical battery with a small nub at the top and a plus sign.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "nine-volt-battery",
+  "category": "appliances",
+  "draw": "Rectangular battery with two snap terminals on top, one round and one hexagonal.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "coin-cell-battery",
+  "category": "appliances",
+  "draw": "Flat round button battery seen at an angle with a plus sign on the face.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bar-heater",
+  "category": "appliances",
+  "draw": "Electric fire with two horizontal glowing heating bars in front of a curved reflector.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "parabolic-heater",
+  "category": "appliances",
+  "draw": "Round dish reflector with a central heating element on a tilting stand.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "meat-slicer",
+  "category": "appliances",
+  "draw": "Deli slicer with a large round circular blade, a sliding carriage and a slice falling off.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "hot-dog-roller",
+  "category": "appliances",
+  "draw": "Row of parallel horizontal rollers on a low base with two sausages lying on top under a small sneeze guard.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "ice-shaver",
+  "category": "appliances",
+  "draw": "Box machine with a clear chamber holding an ice block on top, a side crank handle and a cup of shaved ice below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "baby-bottle-sterilizer",
+  "category": "appliances",
+  "draw": "Round base with a tall clear domed lid covering several upright baby bottles.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "slide-dimmer",
+  "category": "appliances",
+  "draw": "Rectangular wall plate with a vertical slider track and a small knob partway along it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "outlet-tester",
+  "category": "appliances",
+  "draw": "Small plug body pushed into a wall socket with three indicator light dots on its face.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "dryer-vent",
+  "category": "appliances",
+  "draw": "Exterior wall vent hood with a hinged flap angled open and a round duct behind it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "home-control-panel",
+  "category": "appliances",
+  "draw": "Flat touchscreen panel mounted on a wall showing a two by two grid of room tiles.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "shoe-polisher",
+  "category": "appliances",
+  "draw": "Low box machine with two round spinning brushes on the front and a shoe outline above.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "faucet-water-filter",
+  "category": "appliances",
+  "draw": "Kitchen faucet spout with a small cylindrical filter unit clipped onto the end.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "pellet-stove",
+  "category": "appliances",
+  "draw": "Tall boxy stove with a hinged hopper lid on top, a small flame window below and a flue pipe from the back.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "window-fan",
+  "category": "appliances",
+  "draw": "Two round fans side by side in a slim rectangular frame set in a window sash.",
+  "domain": "home-appliances-electronics"
+ }
+]

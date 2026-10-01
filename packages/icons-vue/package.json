@@ -1,0 +1,39 @@
+{
+  "name": "@typeicon/vue",
+  "version": "0.1.0",
+  "description": "TypeIcon icons as individually importable, typed Vue 3 components.",
+  "private": true,
+  "license": "SEE LICENSE IN generated/licenses/ATTRIBUTION.md",
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./package.json": "./package.json",
+    "./subpaths.json": "./generated/subpaths.json",
+    "./*": {
+      "types": "./generated/*.d.ts",
+      "default": "./generated/*.js"
+    }
+  },
+  "files": [
+    "dist",
+    "generated",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "generate": "node ../scripts/generate.mjs"
+  },
+  "peerDependencies": {
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "vue": "3.5.43"
+  }
+}

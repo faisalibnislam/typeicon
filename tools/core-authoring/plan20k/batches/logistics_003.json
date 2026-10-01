@@ -1,0 +1,260 @@
+[
+ {
+  "name": "reorder-point",
+  "category": "logistics",
+  "draw": "Falling stock level line chart with a dashed horizontal threshold and a box marker where they meet.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "dead-stock",
+  "category": "logistics",
+  "draw": "Dusty box on a shelf with a cobweb stretched across its top corner.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "mailroom",
+  "category": "logistics",
+  "draw": "Wall of small pigeonhole cubbies with letters and parcels, and a counter in front.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "packaging-hierarchy",
+  "category": "logistics",
+  "draw": "Single small box, then a larger case, then a pallet stack, in a row of increasing size.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "truck-loading",
+  "category": "logistics",
+  "draw": "Person pushing a hand truck with boxes up a ramp into the open back of a truck.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "lead-time",
+  "category": "logistics",
+  "draw": "Two vertical ticks joined by a double-headed arrow with a parcel box sitting above the span.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "box-sizes",
+  "category": "logistics",
+  "draw": "Row of three boxes growing from small to large, standing on a baseline.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "axle-load",
+  "category": "logistics",
+  "draw": "Side view of a truck with downward arrows pressing on each axle and a weight block above one.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "cotton-bale",
+  "category": "logistics",
+  "draw": "Tall rectangular bale with bulging sides bound by several horizontal wire bands.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "steel-coil",
+  "category": "logistics",
+  "draw": "Thick wide roll of steel sheet standing on a cradle, with its spiral end and hollow core visible.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "serial-number-plate",
+  "category": "logistics",
+  "draw": "Small riveted metal plate with a barcode strip and the letters SN followed by digits.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "freezer-bag",
+  "category": "logistics",
+  "draw": "Flat plastic bag with a double zipper track across the top and a write-on label panel with a snowflake.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pillow-box",
+  "category": "logistics",
+  "draw": "Small curved box with two rounded tuck-in ends that bulge out like a pillow.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "spout-pouch",
+  "category": "logistics",
+  "draw": "Flexible standing pouch with a screw-cap spout fitted at its top corner.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "labeling-parcel",
+  "category": "logistics",
+  "draw": "Hand pressing a peeled shipping label onto the side of a box, the backing sheet curling away.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "milk-run-logistics",
+  "category": "logistics",
+  "draw": "Closed loop route with three small factory stops around it and a truck traveling on the loop.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "inventory-count-tag",
+  "category": "logistics",
+  "draw": "Tall paper tag with a hole at the top, a perforated tear-off stub at the bottom and a number box.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "wrist-mounted-terminal",
+  "category": "logistics",
+  "draw": "Forearm with a small screen computer strapped to it and a ring scanner on the finger.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "radiation-portal-monitor",
+  "category": "logistics",
+  "draw": "Two tall pillars on either side of a lane with a trefoil radiation symbol and a truck passing between.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "strapping-machine",
+  "category": "logistics",
+  "draw": "Table machine with a square arch frame around a box, a strap band running around it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "coil-railcar",
+  "category": "logistics",
+  "draw": "Side view of a flat railcar carrying round steel coils under two rounded hood covers.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "sideloader-forklift",
+  "category": "logistics",
+  "draw": "Side view of a low flat truck with a mast mounted in its middle, carrying long pipes across its deck.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "customs-carnet",
+  "category": "logistics",
+  "draw": "Small booklet with a globe on the cover and a stack of perforated tear-out vouchers beside it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "bulk-container",
+  "category": "logistics",
+  "draw": "Shipping container with three round loading hatches along its roof and a discharge flap at the bottom of the doors.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "letter-of-credit",
+  "category": "logistics",
+  "draw": "Document with a bank columns building at the top, a small ship below it and a signature line.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "un-packaging-symbol",
+  "category": "logistics",
+  "draw": "Circle containing a lowercase u above a lowercase n, the mark for certified dangerous goods packaging.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "robotic-grid-storage",
+  "category": "logistics",
+  "draw": "Top view of a square grid of storage cells with two small cube robots riding on the grid rails.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "bullwhip-effect",
+  "category": "logistics",
+  "draw": "Small box on the left with a wavy line trailing right whose swings grow larger and larger.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-pattern",
+  "category": "logistics",
+  "draw": "Top view of a square pallet covered in rectangular boxes laid in an interlocking brick pattern.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "schnabel-car",
+  "category": "logistics",
+  "draw": "Side view of a heavy load slung between two long railcar halves, each on multiple bogies.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "port-congestion",
+  "category": "logistics",
+  "draw": "Row of three container ships queued on the water in front of a quayside crane.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "converter-dolly",
+  "category": "logistics",
+  "draw": "Single-axle wheeled frame with a round fifth-wheel plate on top and a long A-shaped drawbar.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "crane-pallet-fork",
+  "category": "logistics",
+  "draw": "C-shaped frame hanging from a crane hook with a pair of forks at the bottom carrying a pallet of bricks.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "double-boxed-parcel",
+  "category": "logistics",
+  "draw": "Small taped box nested inside a larger open box with crumpled padding filling the gap.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "cutout-foam-insert",
+  "category": "logistics",
+  "draw": "Thick foam slab with a precisely cut cavity shaped like a camera body and lens.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "shelf-scanning-robot",
+  "category": "logistics",
+  "draw": "Slim wheeled robot with a tall mast of cameras rolling past a store shelf, scan lines hitting the products.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "trailer-unloading-robot",
+  "category": "logistics",
+  "draw": "Wheeled robot base with a jointed arm reaching into the open back of a trailer and pulling out a box.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "pallet-shuttle",
+  "category": "logistics",
+  "draw": "Side view of a pallet rack lane with a flat low robot carrying a pallet along the rails inside it.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "art-shipping-crate",
+  "category": "logistics",
+  "draw": "Open wooden crate with foam blocks in its corners cradling a framed painting.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "heavy-parcel",
+  "category": "logistics",
+  "draw": "Taped box with a round weight block sitting on top marked kg.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "multi-piece-shipment",
+  "category": "logistics",
+  "draw": "Three boxes of different sizes in a row, each with a small hanging tag numbered one, two and three.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "bulk-stockpile",
+  "category": "logistics",
+  "draw": "Inclined conveyor belt dropping loose material onto the peak of a large cone-shaped pile.",
+  "domain": "r2-logistics-shipping"
+ },
+ {
+  "name": "tank-farm",
+  "category": "logistics",
+  "draw": "Cluster of four squat round storage tanks of different sizes inside a low rectangular bund wall, joined by pipes.",
+  "domain": "r2-logistics-shipping"
+ }
+]

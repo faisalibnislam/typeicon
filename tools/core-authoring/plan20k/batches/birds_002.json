@@ -1,0 +1,482 @@
+[
+ {
+  "name": "carrier-pigeon",
+  "category": "birds",
+  "draw": "Pigeon in side view with a small message tube strapped to one leg and a rolled note.",
+  "domain": "birds"
+ },
+ {
+  "name": "crowned-pigeon",
+  "category": "birds",
+  "draw": "Large pigeon in side view with a lacy fan-shaped crest of fine feathers on its head.",
+  "domain": "birds"
+ },
+ {
+  "name": "swallow",
+  "category": "birds",
+  "draw": "Swallow in flight seen from above with pointed swept-back wings and a long deeply forked tail.",
+  "domain": "birds"
+ },
+ {
+  "name": "cardinal-bird",
+  "category": "birds",
+  "draw": "Cardinal perched in side view with a tall pointed crest, dark face mask and a thick cone bill.",
+  "domain": "birds"
+ },
+ {
+  "name": "blue-jay",
+  "category": "birds",
+  "draw": "Jay perched in side view with a raised crest, a necklace line across the throat and a long barred tail.",
+  "domain": "birds"
+ },
+ {
+  "name": "crow",
+  "category": "birds",
+  "draw": "Crow standing in side view with a thick straight bill, sleek body and wedge tail.",
+  "domain": "birds"
+ },
+ {
+  "name": "magpie",
+  "category": "birds",
+  "draw": "Magpie perched in side view with a pied black and white body and a very long graduated tail.",
+  "domain": "birds"
+ },
+ {
+  "name": "oxpecker",
+  "category": "birds",
+  "draw": "Small bird perched on the back of a large grazing animal outline, pecking at its hide.",
+  "domain": "birds"
+ },
+ {
+  "name": "nuthatch",
+  "category": "birds",
+  "draw": "Small stubby bird climbing head-first down a tree trunk with a straight chisel bill.",
+  "domain": "birds"
+ },
+ {
+  "name": "bowerbird",
+  "category": "birds",
+  "draw": "Small bird beside its bower, an arch of upright twigs, with a few round trinkets on the ground in front.",
+  "domain": "birds"
+ },
+ {
+  "name": "crossbill",
+  "category": "birds",
+  "draw": "Finch head in side view with the tips of its upper and lower bill crossing each other, next to a pine cone.",
+  "domain": "birds"
+ },
+ {
+  "name": "lyrebird",
+  "category": "birds",
+  "draw": "Lyrebird in side view with its tail raised and curved into the outline of a lyre with fine filaments between.",
+  "domain": "birds"
+ },
+ {
+  "name": "paradise-bird",
+  "category": "birds",
+  "draw": "Bird of paradise perched in side view with long lacy flank plumes cascading behind and two thin tail wires.",
+  "domain": "birds"
+ },
+ {
+  "name": "murmuration",
+  "category": "birds",
+  "draw": "Swirling cloud of many tiny dots and small bird marks forming a flowing ribbon shape in the sky.",
+  "domain": "birds"
+ },
+ {
+  "name": "archaeopteryx",
+  "category": "birds",
+  "draw": "Feathered prehistoric bird in side view with clawed fingers on its wings, a toothed beak and a long bony feathered tail.",
+  "domain": "birds"
+ },
+ {
+  "name": "phoenix",
+  "category": "birds",
+  "draw": "Phoenix rising with wings spread upward, long flame-shaped tail feathers and flames licking at its base.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-flying",
+  "category": "birds",
+  "draw": "Small bird in flight in side view with both wings raised above its body.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-on-branch",
+  "category": "birds",
+  "draw": "Small bird perched on a leafy twig that crosses the icon diagonally.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-on-wire",
+  "category": "birds",
+  "draw": "Three small birds perched in a row on a sagging power line strung between two poles.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-flock",
+  "category": "birds",
+  "draw": "Group of five simple bird shapes of different sizes flying together in a loose cluster.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-migration",
+  "category": "birds",
+  "draw": "Birds flying in a V formation with a curved arrow showing their direction of travel.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-singing",
+  "category": "birds",
+  "draw": "Songbird perched with its beak open and two music notes rising from it.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-landing",
+  "category": "birds",
+  "draw": "Bird coming in to land with wings raised high, tail fanned and legs stretched forward toward a perch.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-sleeping",
+  "category": "birds",
+  "draw": "Round bird perched with its head tucked into its back feathers and a small zzz above.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-pecking",
+  "category": "birds",
+  "draw": "Small bird with its head down pecking at scattered seeds on the ground.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-feeding-chicks",
+  "category": "birds",
+  "draw": "Parent bird on the rim of a nest dropping a worm into the gaping open beaks of chicks.",
+  "domain": "birds"
+ },
+ {
+  "name": "nest-building",
+  "category": "birds",
+  "draw": "Bird flying with a twig held crosswise in its bill toward a half-built nest.",
+  "domain": "birds"
+ },
+ {
+  "name": "early-bird",
+  "category": "birds",
+  "draw": "Small bird standing on the ground pulling a wiggly worm out of the soil, with a rising sun behind.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-in-hand",
+  "category": "birds",
+  "draw": "Open palm held up with a small bird perched on the fingertips.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-release",
+  "category": "birds",
+  "draw": "Two cupped hands opening upward with a small bird flying out of them.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-cage-open",
+  "category": "birds",
+  "draw": "Domed bird cage with its door swung open and a small bird flying out of it.",
+  "domain": "birds"
+ },
+ {
+  "name": "owl-graduate",
+  "category": "birds",
+  "draw": "Owl front view wearing a square mortarboard cap with a tassel.",
+  "domain": "birds"
+ },
+ {
+  "name": "origami-crane",
+  "category": "birds",
+  "draw": "Folded paper crane in side view with angular flat wings, a pointed neck and a faceted body.",
+  "domain": "birds"
+ },
+ {
+  "name": "fledgling",
+  "category": "birds",
+  "draw": "Fluffy young bird standing on the rim of a nest with short wings stretched out, about to fly.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-tracks",
+  "category": "birds",
+  "draw": "Trail of three-toed bird footprints, each with three forward toes and one short back toe, walking diagonally.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-nest",
+  "category": "birds",
+  "draw": "Empty round woven nest bowl made of crossing twigs, seen from the side.",
+  "domain": "birds"
+ },
+ {
+  "name": "nest-with-eggs",
+  "category": "birds",
+  "draw": "Woven nest bowl seen from the side with three oval eggs sitting inside.",
+  "domain": "birds"
+ },
+ {
+  "name": "nest-with-chicks",
+  "category": "birds",
+  "draw": "Woven nest with three small chicks inside, their beaks wide open pointing upward.",
+  "domain": "birds"
+ },
+ {
+  "name": "communal-nest",
+  "category": "birds",
+  "draw": "Huge thatched nest mass hanging in a tree canopy with many small round entrance holes underneath.",
+  "domain": "birds"
+ },
+ {
+  "name": "weaver-nest",
+  "category": "birds",
+  "draw": "Hanging woven nest shaped like a gourd with a downward entrance tube, dangling from a thin branch.",
+  "domain": "birds"
+ },
+ {
+  "name": "mud-nest",
+  "category": "birds",
+  "draw": "Cup-shaped mud nest made of little pellets stuck under the edge of a roof eave.",
+  "domain": "birds"
+ },
+ {
+  "name": "stork-nest",
+  "category": "birds",
+  "draw": "Large flat nest of sticks on top of a chimney with a stork standing on it.",
+  "domain": "birds"
+ },
+ {
+  "name": "nest-hole",
+  "category": "birds",
+  "draw": "Tree trunk with a round hole and a small bird head peeking out of it.",
+  "domain": "birds"
+ },
+ {
+  "name": "ground-nest",
+  "category": "birds",
+  "draw": "Speckled eggs lying in a shallow scrape on the ground ringed with small pebbles.",
+  "domain": "birds"
+ },
+ {
+  "name": "egg-cracked",
+  "category": "birds",
+  "draw": "Empty eggshell broken into two jagged-edged halves side by side.",
+  "domain": "birds"
+ },
+ {
+  "name": "chick-hatching",
+  "category": "birds",
+  "draw": "Fluffy chick head and wings poking out of a cracked egg with the top shell piece lifted on its head.",
+  "domain": "birds"
+ },
+ {
+  "name": "egg-candling",
+  "category": "birds",
+  "draw": "Egg held above a small lamp with light rays showing the shadow of an embryo and air cell inside.",
+  "domain": "birds"
+ },
+ {
+  "name": "egg-incubator",
+  "category": "birds",
+  "draw": "Box incubator with a clear dome lid showing rows of eggs inside and a small dial on the front.",
+  "domain": "birds"
+ },
+ {
+  "name": "ostrich-egg",
+  "category": "birds",
+  "draw": "Very large egg beside a small chicken egg to show the difference in size.",
+  "domain": "birds"
+ },
+ {
+  "name": "golden-egg",
+  "category": "birds",
+  "draw": "Single egg with a shine highlight and sparkles around it.",
+  "domain": "birds"
+ },
+ {
+  "name": "owl-pellet",
+  "category": "birds",
+  "draw": "Oval owl pellet with small bones and a tiny skull poking out of its furry surface.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-wing",
+  "category": "birds",
+  "draw": "Single bird wing fully spread in side view showing rows of layered feathers ending in long flight feathers.",
+  "domain": "birds"
+ },
+ {
+  "name": "talon",
+  "category": "birds",
+  "draw": "Bird of prey foot with scaly toes and long curved sharp claws gripping.",
+  "domain": "birds"
+ },
+ {
+  "name": "webbed-foot",
+  "category": "birds",
+  "draw": "Duck foot seen from above with three forward toes joined by webbing.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-skull",
+  "category": "birds",
+  "draw": "Bird skull in side view with a large round eye socket and a long pointed beak.",
+  "domain": "birds"
+ },
+ {
+  "name": "wishbone",
+  "category": "birds",
+  "draw": "Forked V-shaped wishbone with the two arms joined at a rounded point.",
+  "domain": "birds"
+ },
+ {
+  "name": "peacock-feather",
+  "category": "birds",
+  "draw": "Long peacock feather with fine barbs along its shaft and a large eye spot near the tip.",
+  "domain": "birds"
+ },
+ {
+  "name": "birdhouse",
+  "category": "birds",
+  "draw": "Small wooden birdhouse with a pitched roof, a round entrance hole and a short perch peg below it.",
+  "domain": "birds"
+ },
+ {
+  "name": "martin-house",
+  "category": "birds",
+  "draw": "Multi-story birdhouse on a pole with several rows of round entrance holes.",
+  "domain": "birds"
+ },
+ {
+  "name": "dovecote",
+  "category": "birds",
+  "draw": "Round tower with a conical roof and many small arched pigeon openings with ledges.",
+  "domain": "birds"
+ },
+ {
+  "name": "aviary",
+  "category": "birds",
+  "draw": "Walk-in mesh enclosure with a curved roof, a door and a bird perched inside.",
+  "domain": "birds"
+ },
+ {
+  "name": "chicken-coop",
+  "category": "birds",
+  "draw": "Small wooden hen house on legs with a pitched roof, a little door and a ramp to the ground.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-feeder",
+  "category": "birds",
+  "draw": "Hanging tube bird feeder with seeds visible inside, feeding ports with perches and a roof cap.",
+  "domain": "birds"
+ },
+ {
+  "name": "hummingbird-feeder",
+  "category": "birds",
+  "draw": "Hanging bulb-shaped nectar bottle over a round base dotted with small flower-shaped feeding ports.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-table",
+  "category": "birds",
+  "draw": "Flat feeding platform on a post with a small pitched roof over it and seeds on the tray.",
+  "domain": "birds"
+ },
+ {
+  "name": "suet-feeder",
+  "category": "birds",
+  "draw": "Square wire cage holding a block of seed cake, hanging from a chain.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-bath",
+  "category": "birds",
+  "draw": "Shallow round basin on a pedestal stand with a small water ripple on top.",
+  "domain": "birds"
+ },
+ {
+  "name": "birdseed",
+  "category": "birds",
+  "draw": "Open sack spilling a pile of small seeds, with a small bird outline on the sack.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-swing",
+  "category": "birds",
+  "draw": "Hanging ring perch swing for a pet bird with a small bead on the side.",
+  "domain": "birds"
+ },
+ {
+  "name": "parrot-perch",
+  "category": "birds",
+  "draw": "T-shaped stand perch on a round base with a feeding cup on one side.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-hide",
+  "category": "birds",
+  "draw": "Small wooden hut with a long horizontal viewing slit and binoculars poking out.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-ring",
+  "category": "birds",
+  "draw": "Small metal leg band ring with a numbered strip on a bird leg.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-call",
+  "category": "birds",
+  "draw": "Small wooden bird call whistle, a cylinder with a turning peg or a mouthpiece and air lines.",
+  "domain": "birds"
+ },
+ {
+  "name": "duck-decoy",
+  "category": "birds",
+  "draw": "Carved wooden duck decoy floating with a weight cord line under it.",
+  "domain": "birds"
+ },
+ {
+  "name": "falconry-glove",
+  "category": "birds",
+  "draw": "Thick gauntlet glove held up with a falcon perched on the fist and jesses hanging.",
+  "domain": "birds"
+ },
+ {
+  "name": "falcon-hood",
+  "category": "birds",
+  "draw": "Small leather falconry hood with a topknot plume and side straps.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-spikes",
+  "category": "birds",
+  "draw": "Row of thin anti-bird spikes fanning up from a strip on a ledge.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-strike",
+  "category": "birds",
+  "draw": "Airplane nose with a bird silhouette colliding with it and an impact burst.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-flu",
+  "category": "birds",
+  "draw": "Bird head in side view beside a round virus particle with spikes.",
+  "domain": "birds"
+ },
+ {
+  "name": "bird-tracker",
+  "category": "birds",
+  "draw": "Bird in flight with a small backpack tag and a thin antenna sending signal waves.",
+  "domain": "birds"
+ }
+]

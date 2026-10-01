@@ -1,0 +1,66 @@
+{
+  "check": {
+    "context": "Single check mark with a short left stroke and a long right stroke. Used to confirm, mark done, save changes, select items, show success and tick off tasks.",
+    "keywords": ["done", "ok", "confirm", "success", "tick", "yes", "checkmark", "check mark", "okay", "approve", "accept", "agree", "complete", "completed", "correct", "right", "valid", "selected", "apply", "save", "submit", "verified"]
+  },
+  "close": {
+    "context": "Two diagonal strokes crossing in an X. Used to close windows, dialogs and panels, dismiss notices, cancel actions, clear inputs and remove items.",
+    "keywords": ["x", "cancel", "dismiss", "remove", "delete", "times", "cross", "exit", "close window", "close dialog", "clear", "no", "wrong", "incorrect", "reject", "hide", "quit", "multiply", "stop", "clear input", "x mark", "shut"]
+  },
+  "copy": {
+    "context": "Two overlapping rounded squares, one offset behind the other. Used for copy to clipboard, duplicate items, clone a file or page and copy link buttons.",
+    "keywords": ["duplicate", "clone", "clipboard", "copy to clipboard", "copy link", "copy text", "paste", "replicate", "double", "two squares", "overlap", "backup", "copies", "reproduce", "copy code", "ctrl c", "cmd c", "carbon copy", "twin", "file copy", "same"]
+  },
+  "download": {
+    "context": "Arrow pointing down into an open tray. Used for download buttons, saving files to a device, exporting reports, importing data and offline saves.",
+    "keywords": ["save", "import", "get", "arrow", "fetch", "save-down", "arrow down", "down arrow", "download file", "save file", "export", "install", "receive", "offline", "save to device", "get app", "pull", "tray", "inbox", "attachment", "backup"]
+  },
+  "edit": {
+    "context": "Pencil drawn at an angle with its point toward the lower left. Used for edit buttons, rename, compose, write notes, change settings and edit mode in forms.",
+    "keywords": ["pencil", "write", "modify", "compose", "change", "editor", "edit text", "rename", "update", "revise", "draft", "note", "writing", "draw", "sketch", "annotate", "customize", "edit profile", "pen", "correction", "input"]
+  },
+  "eye": {
+    "context": "Almond-shaped eye with a round pupil. Used to show or view content, preview files, toggle password visibility, count views and watch or follow items.",
+    "keywords": ["view", "visible", "show", "preview", "watch", "look", "see", "visibility", "show password", "reveal", "views", "view count", "seen", "vision", "sight", "observe", "read", "eyeball", "monitor", "watching", "review"]
+  },
+  "filter": {
+    "context": "Funnel shape narrowing to a short stem. Used for filter buttons, refining search results, narrowing lists, advanced filters and data queries in tables.",
+    "keywords": ["funnel", "sort", "refine", "narrow", "filters", "filter results", "refine search", "advanced filter", "narrow down", "sieve", "sift", "screen", "criteria", "facets", "query", "segment", "options", "data filter", "conversion funnel", "sales funnel", "tune"]
+  },
+  "link": {
+    "context": "Two chain links joined at an angle. Used for hyperlinks, copy link, insert link in editors, share URLs, connected accounts and attached references.",
+    "keywords": ["chain", "url", "hyperlink", "attach", "connect", "links", "web link", "copy link", "insert link", "add link", "share link", "href", "address", "permalink", "chain link", "connection", "linked", "join", "reference", "website", "anchor"]
+  },
+  "minus": {
+    "context": "Single horizontal line. Used to remove or decrease, collapse sections, zoom out, subtract in calculators and lower quantities in steppers.",
+    "keywords": ["subtract", "remove", "decrease", "less", "minus sign", "subtraction", "dash", "hyphen", "negative", "reduce", "collapse", "zoom out", "take away", "lower", "fewer", "decrement", "delete", "line", "horizontal line", "quantity", "math"]
+  },
+  "plus": {
+    "context": "Plus sign made of two crossing strokes. Used for add and create buttons, new items, increase quantity, expand sections, zoom in and addition in calculators.",
+    "keywords": ["add", "new", "create", "increase", "plus sign", "addition", "positive", "add new", "add item", "new item", "insert", "more", "expand", "zoom in", "increment", "include", "append", "cross", "math", "quantity", "sum"]
+  },
+  "refresh": {
+    "context": "Circular arrow turning clockwise with its head at the top right. Used for refresh and reload buttons, sync, retry after an error, update data and redo actions.",
+    "keywords": ["reload", "sync", "update", "rotate", "redo", "retry", "try again", "reset", "renew", "restart", "repeat", "circular arrow", "clockwise", "arrow", "refresh page", "reload page", "synchronize", "synchronise", "loop", "recycle", "cycle"]
+  },
+  "search": {
+    "context": "Magnifying glass with a round lens and a short handle toward the lower right. Used for search bars, find buttons, lookup fields, zoom and explore tabs.",
+    "keywords": ["find", "magnify", "magnifier", "lookup", "zoom", "query", "magnifying glass", "look up", "seek", "explore", "discover", "browse", "search bar", "search box", "search field", "locate", "inspect", "investigate", "scan", "examine", "lens"]
+  },
+  "settings": {
+    "context": "Gear with square teeth around a round hole in the middle. Used for settings pages, preferences, configuration panels, admin options and system tools.",
+    "keywords": ["gear", "cog", "preferences", "options", "configuration", "setup", "config", "configure", "control panel", "admin", "system", "tools", "customize", "customise", "adjust", "account settings", "app settings", "controls", "manage", "engine", "cogwheel"]
+  },
+  "share": {
+    "context": "Open-top box with an arrow rising out of it. Used for share sheets, sending content to other apps, exporting files, forwarding links and posting to social networks.",
+    "keywords": ["send", "export", "social", "forward", "share sheet", "share to", "send to", "share link", "share file", "arrow up", "up arrow", "box arrow", "post", "publish", "distribute", "open in", "action sheet", "upload", "spread", "social media", "external"]
+  },
+  "trash": {
+    "context": "Waste bin with a lid, a small handle on top and vertical ridges on its body. Used for delete buttons, removing items from a list, emptying a folder and recycle-bin views.",
+    "keywords": ["delete", "bin", "remove", "garbage", "rubbish", "discard", "trash can", "garbage can", "waste", "waste basket", "wastebasket", "dustbin", "rubbish bin", "recycle bin", "throw away", "erase", "clear", "junk", "destroy", "dispose", "litter"]
+  },
+  "upload": {
+    "context": "Arrow pointing up out of an open tray. Used for upload buttons, attaching files, importing data, publishing content and sending files to the cloud.",
+    "keywords": ["export", "send", "share", "arrow", "publish", "arrow up", "up arrow", "upload file", "file upload", "attach", "attachment", "import", "cloud upload", "put", "push", "submit", "add file", "transfer", "backup", "tray", "post"]
+  }
+}

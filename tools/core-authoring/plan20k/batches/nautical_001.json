@@ -1,0 +1,482 @@
+[
+ {
+  "name": "clove-hitch",
+  "category": "nautical",
+  "draw": "Rope wrapped twice around a horizontal pole with the two turns crossing in an X over the front and both ends leaving below.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "round-turn-hitch",
+  "category": "nautical",
+  "draw": "Rope taking a full round turn around a ring or rail, then tied off on its own standing part with two stacked half hitches.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sheet-bend",
+  "category": "nautical",
+  "draw": "Two ropes of different thickness joined: a thick rope folded into a U bight with a thinner rope looping around it and tucked under itself.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "timber-hitch",
+  "category": "nautical",
+  "draw": "Rope looped around a log with its tail twisted back around itself several times along the log's top.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "trucker-hitch",
+  "category": "nautical",
+  "draw": "Rope running from a small loop down around a hook below and back up through the loop, pulled tight like a pulley, on a load edge.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "taut-line-hitch",
+  "category": "nautical",
+  "draw": "Rope looped around a tent stake, its tail wrapped twice inside the loop and once more outside, forming an adjustable loop.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sheepshank",
+  "category": "nautical",
+  "draw": "Rope with a slack section folded into an S of three parallel strands, each end bight held by a half hitch.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "overhand-knot",
+  "category": "nautical",
+  "draw": "Single rope with one simple overhand loop tied in the middle, the two ends leaving in opposite directions.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "monkey-fist-knot",
+  "category": "nautical",
+  "draw": "Round ball of woven rope turns in a three way basket pattern with a single rope tail coming out.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fishermans-knot",
+  "category": "nautical",
+  "draw": "Two parallel rope ends each tied in an overhand knot around the other, the two knots sliding together in the middle.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "carrick-bend",
+  "category": "nautical",
+  "draw": "Two ropes interwoven in a flat symmetrical diamond pattern of over and under crossings, ends leaving on opposite sides.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "prusik-knot",
+  "category": "nautical",
+  "draw": "Small closed loop of cord wrapped three times around a thicker vertical rope, the loop hanging down.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "alpine-butterfly-knot",
+  "category": "nautical",
+  "draw": "Rope running horizontally with a fixed teardrop loop standing up from a twisted knot in its middle.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "turks-head-knot",
+  "category": "nautical",
+  "draw": "Braided rope band woven around a cylinder in a repeating over and under wave pattern, like a ring.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cow-hitch",
+  "category": "nautical",
+  "draw": "Rope bight passed through a ring with both ends pulled back through the loop, forming a lark's head on the ring.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "clinch-knot",
+  "category": "nautical",
+  "draw": "Fishing line threaded through a hook eye and twisted around itself five times, the tag end tucked back through the first loop.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "slip-knot",
+  "category": "nautical",
+  "draw": "Rope tied with an overhand knot around a bight, leaving an adjustable loop that pulls closed from the long end.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "constrictor-knot",
+  "category": "nautical",
+  "draw": "Rope wrapped tightly around a round post with a crossing turn and a tucked end trapped under a diagonal riding turn.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "zeppelin-bend",
+  "category": "nautical",
+  "draw": "Two ropes each curled into a loop, the loops overlapping and locked together with the ends passing through the center in opposite directions.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "blood-knot",
+  "category": "nautical",
+  "draw": "Two fishing lines joined by tight barrel shaped twists on each side of a central gap where the ends poke out.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "eye-splice",
+  "category": "nautical",
+  "draw": "Rope end bent back into a fixed eye loop, the strands woven into the standing part with a tapered braided section.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "rope-whipping",
+  "category": "nautical",
+  "draw": "Rope end with a band of tight thin twine wraps near the tip to stop the strands fraying.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "flemish-coil",
+  "category": "nautical",
+  "draw": "Rope laid flat on a deck in a tight flat spiral like a coiled snail shell, seen from above.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "chain-sinnet",
+  "category": "nautical",
+  "draw": "Rope crocheted into a chain of linked loops running in a straight line, like a daisy chain.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ocean-plait-mat",
+  "category": "nautical",
+  "draw": "Oval flat mat woven from one rope in a tight over and under lattice pattern.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "square-lashing",
+  "category": "nautical",
+  "draw": "Two poles crossed at right angles and bound together with rope turns wrapped around the joint.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "marlinspike",
+  "category": "nautical",
+  "draw": "Long tapered steel spike with a rounded head end, used for opening rope strands.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "splicing-fid",
+  "category": "nautical",
+  "draw": "Smooth tapered wooden cone with a pointed tip and a rounded base, used for opening rope strands.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sailmaker-palm",
+  "category": "nautical",
+  "draw": "Leather hand strap worn across the palm with a round metal thimble plate at the base of the thumb.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "knot-board",
+  "category": "nautical",
+  "draw": "Rectangular framed board displaying a grid of different small rope knots mounted on it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "rope-fender",
+  "category": "nautical",
+  "draw": "Pear shaped fender made of densely braided rope, hanging from a short rope loop.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "rat-guard",
+  "category": "nautical",
+  "draw": "Round metal disc clamped around a diagonal mooring line running from a ship to the quay.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cargo-net",
+  "category": "nautical",
+  "draw": "Square net of thick rope mesh gathered at the four corners onto a single lifting hook, holding boxes.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "can-buoy",
+  "category": "nautical",
+  "draw": "Flat topped cylindrical buoy floating upright on wavy water, a lateral channel marker.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "nun-buoy",
+  "category": "nautical",
+  "draw": "Cone topped buoy floating upright on wavy water, pointed at the top, a lateral channel marker.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "spar-buoy",
+  "category": "nautical",
+  "draw": "Long thin pole shaped buoy floating upright, most of it below a wavy waterline.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "bell-buoy",
+  "category": "nautical",
+  "draw": "Floating buoy with an open lattice tower on top holding a hanging bell with swinging clappers.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "whistle-buoy",
+  "category": "nautical",
+  "draw": "Floating buoy with a short wide whistle pipe on top and small sound lines coming from it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "mooring-buoy",
+  "category": "nautical",
+  "draw": "Round ball buoy on the water with a metal ring on top and a chain running down to the seabed.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "isolated-danger-mark",
+  "category": "nautical",
+  "draw": "Pillar buoy with a horizontal band on its body and two small stacked black spheres as its topmark.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "safe-water-mark",
+  "category": "nautical",
+  "draw": "Round buoy with vertical stripes and a single sphere topmark on a short pole.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cardinal-mark",
+  "category": "nautical",
+  "draw": "Pillar buoy with two stacked cone topmarks, one pointing up and one pointing down, and a wide band across the body.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "special-mark-buoy",
+  "category": "nautical",
+  "draw": "Pillar buoy topped with a single X shaped cross topmark.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "lobster-buoy",
+  "category": "nautical",
+  "draw": "Small bullet shaped foam float with a spindle stick through it and a rope trailing down.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "buoy-tender",
+  "category": "nautical",
+  "draw": "Work ship with a large deck crane on its foredeck lifting a navigation buoy out of the water.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "daybeacon",
+  "category": "nautical",
+  "draw": "Single post standing in water carrying a flat triangular sign board on top.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "surface-marker-buoy",
+  "category": "nautical",
+  "draw": "Tall narrow inflatable sausage tube floating upright on the water with a thin line going down.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "racing-mark-buoy",
+  "category": "nautical",
+  "draw": "Inflatable pyramid shaped racing mark floating on the water with a small anchor line below.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "boat-navigation-lights",
+  "category": "nautical",
+  "draw": "Top view of a boat bow with a lamp on each side, each casting a wedge shaped light sector outward.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ship-lantern",
+  "category": "nautical",
+  "draw": "Metal ship's lantern with a domed vented cap, a glass globe inside a wire guard and a top carrying ring.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "range-lights",
+  "category": "nautical",
+  "draw": "Two lights on posts on the shore, one short in front and one tall behind, aligned with a dashed sight line to a boat.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sector-light",
+  "category": "nautical",
+  "draw": "Small light tower on a headland casting three fan shaped beams in different sectors over the water.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "screw-pile-lighthouse",
+  "category": "nautical",
+  "draw": "Small hexagonal cottage with a lantern on its roof, standing on thin iron legs above the water.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "skeleton-tower-lighthouse",
+  "category": "nautical",
+  "draw": "Tall open steel lattice tower tapering upward with a small lantern room at the top.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "caisson-lighthouse",
+  "category": "nautical",
+  "draw": "Squat round cast iron base rising from the water like a spark plug, topped by a small tower and lantern.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "pierhead-light",
+  "category": "nautical",
+  "draw": "Short round light tower at the end of a harbor pier with a lamp on top and waves beside it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fresnel-lens",
+  "category": "nautical",
+  "draw": "Beehive shaped lighthouse lens made of stacked glass rings around a central lamp, on a base.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "mooring-bitts",
+  "category": "nautical",
+  "draw": "Pair of short thick iron posts on a shared base plate with a rope wound around them in a figure eight.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fairlead-chock",
+  "category": "nautical",
+  "draw": "Deck fitting with two curved horns facing each other forming a slot, a rope running through it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "hawsepipe",
+  "category": "nautical",
+  "draw": "Ship bow seen from the side with an anchor pulled up snug into a round opening in the hull, chain going inside.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "concrete-tetrapod",
+  "category": "nautical",
+  "draw": "Chunky concrete block with four stubby legs pointing out in different directions, a breakwater unit.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "groyne",
+  "category": "nautical",
+  "draw": "Row of wooden posts and planks running from the beach out into the waves, sand piled on one side.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sea-wall",
+  "category": "nautical",
+  "draw": "Curved concrete wall at the shoreline with a big wave curling back off its face.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "floating-dry-dock",
+  "category": "nautical",
+  "draw": "U shaped floating pontoon with high side walls, a ship lifted out of the water inside it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "marine-fuel-dock",
+  "category": "nautical",
+  "draw": "Fuel pump with a hose standing on a wooden pier with a small boat moored alongside.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "shore-power-pedestal",
+  "category": "nautical",
+  "draw": "Short post on a marina dock with a power socket, a light on top and a cable running to a boat.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "mooring-dolphin",
+  "category": "nautical",
+  "draw": "Cluster of wooden piles bound together at the top with rope or wire, standing in the water.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "boat-hook",
+  "category": "nautical",
+  "draw": "Long pole with a metal tip that has one straight point and one curved hook.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "boat-cradle",
+  "category": "nautical",
+  "draw": "Boat hull resting out of the water on a frame of padded supports and legs.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "mooring-ring",
+  "category": "nautical",
+  "draw": "Heavy iron ring set into a stone quay wall on a bolted plate, a rope tied through it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "liferaft-canister",
+  "category": "nautical",
+  "draw": "White capsule shaped container split along the middle, held in a cradle on a ship rail by a strap.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "horseshoe-buoy",
+  "category": "nautical",
+  "draw": "U shaped horseshoe lifebuoy hanging in a bracket on a boat rail.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "boat-storage-rack",
+  "category": "nautical",
+  "draw": "Tall steel rack with three levels, each holding a small motorboat stored on its shelf.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "dock-cart",
+  "category": "nautical",
+  "draw": "Deep plastic tub barrow on two large wheels with a long handle, used on marina docks.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cargo-hand-hook",
+  "category": "nautical",
+  "draw": "Short curved steel hook with a wooden T shaped handle, a dockworker's cargo hook.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "mooring-reel",
+  "category": "nautical",
+  "draw": "Deck mounted drum on a stand with a thick mooring rope wound around it and a crank handle.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ship-cargo-derrick",
+  "category": "nautical",
+  "draw": "Ship mast with a long angled boom and a cable from its tip lifting a crate from the hold.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "container-twistlock",
+  "category": "nautical",
+  "draw": "Metal cone shaped connector with a twist handle, fitting into the corner casting of a container.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "boat-wake",
+  "category": "nautical",
+  "draw": "Top view of a small boat moving forward, leaving a V shaped trail of wake lines behind it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "no-wake-zone",
+  "category": "nautical",
+  "draw": "Round sign with a boat and trailing wake lines crossed through by a diagonal bar.",
+  "domain": "r2-nautical-maritime"
+ }
+]

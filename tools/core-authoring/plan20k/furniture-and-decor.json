@@ -1,0 +1,1637 @@
+[
+  {
+    "name": "rocking-chair",
+    "category": "furniture",
+    "draw": "Side view of a wooden chair with a tall spindle back standing on two curved rockers."
+  },
+  {
+    "name": "office-chair",
+    "category": "furniture",
+    "draw": "Swivel desk chair with a padded back, armrests, a gas lift column and a five-point star base on casters."
+  },
+  {
+    "name": "gaming-chair",
+    "category": "furniture",
+    "draw": "Racing-style chair with a tall winged back, a headrest pillow, side bolsters and a star base."
+  },
+  {
+    "name": "folding-chair",
+    "category": "furniture",
+    "draw": "Side view of a slim metal folding chair with crossed legs forming an X under the seat."
+  },
+  {
+    "name": "deck-chair",
+    "category": "furniture",
+    "draw": "Side view of a wooden deck chair with a sagging striped fabric sling on a reclined folding frame."
+  },
+  {
+    "name": "director-chair",
+    "category": "furniture",
+    "draw": "Front view of a director chair with a canvas back band, canvas seat, straight arms and X-crossed legs."
+  },
+  {
+    "name": "wingback-chair",
+    "category": "furniture",
+    "draw": "Front view of an armchair with a tall back and two curved wings flaring out at head height."
+  },
+  {
+    "name": "recliner",
+    "category": "furniture",
+    "draw": "Side view of a padded recliner with the back tilted back and a footrest flipped up in front."
+  },
+  {
+    "name": "chaise-longue",
+    "category": "furniture",
+    "draw": "Side view of an upholstered lounge couch with one raised scrolled end and a long low seat."
+  },
+  {
+    "name": "bean-bag",
+    "category": "furniture",
+    "draw": "Soft slouched bean bag chair shaped like a teardrop with a dent in the seat and a seam line."
+  },
+  {
+    "name": "papasan-chair",
+    "category": "furniture",
+    "draw": "Wide round bowl-shaped wicker seat with a cushion, resting on a short round rattan base."
+  },
+  {
+    "name": "hanging-chair",
+    "category": "furniture",
+    "draw": "Egg-shaped woven chair with an open front and cushion, suspended from a chain hook above."
+  },
+  {
+    "name": "windsor-chair",
+    "category": "furniture",
+    "draw": "Front view of a wooden chair with a curved top rail over a fan of thin vertical spindles."
+  },
+  {
+    "name": "ladder-back-chair",
+    "category": "furniture",
+    "draw": "Front view of a tall wooden chair whose back has three horizontal slats like ladder rungs."
+  },
+  {
+    "name": "cross-back-chair",
+    "category": "furniture",
+    "draw": "Front view of a wooden dining chair with a large X shape filling the back frame."
+  },
+  {
+    "name": "bentwood-chair",
+    "category": "furniture",
+    "draw": "Side-angled cafe chair with a looped curved back and thin curved legs joined by a ring."
+  },
+  {
+    "name": "cantilever-chair",
+    "category": "furniture",
+    "draw": "Side view of a chair made from one bent tube forming an S shape with no back legs."
+  },
+  {
+    "name": "adirondack-chair",
+    "category": "furniture",
+    "draw": "Outdoor wooden chair with a fan of tall slats for the back, wide flat arms and a sloped seat."
+  },
+  {
+    "name": "butterfly-chair",
+    "category": "furniture",
+    "draw": "Sling seat shaped like a folded triangle hung on a thin crossing metal frame."
+  },
+  {
+    "name": "peacock-chair",
+    "category": "furniture",
+    "draw": "Wicker chair with a huge rounded fan-shaped back rising above a small round seat."
+  },
+  {
+    "name": "tub-chair",
+    "category": "furniture",
+    "draw": "Front view of a low rounded barrel-shaped chair whose back and arms form one continuous curve."
+  },
+  {
+    "name": "monobloc-chair",
+    "category": "furniture",
+    "draw": "Front view of a one-piece plastic garden chair with a slatted rounded back and molded arms."
+  },
+  {
+    "name": "stacking-chairs",
+    "category": "furniture",
+    "draw": "Three identical simple chairs stacked on top of each other in a tall column."
+  },
+  {
+    "name": "kneeling-chair",
+    "category": "furniture",
+    "draw": "Side view of an ergonomic stool with a slanted seat pad and a lower knee pad on a zigzag frame."
+  },
+  {
+    "name": "high-chair",
+    "category": "furniture",
+    "draw": "Tall baby chair on four splayed legs with a tray in front of the seat."
+  },
+  {
+    "name": "throne",
+    "category": "furniture",
+    "draw": "Front view of an ornate royal chair with a very tall pointed back and carved armrests on a step."
+  },
+  {
+    "name": "floor-chair",
+    "category": "furniture",
+    "draw": "Side view of a legless floor seat with a cushion and an upright backrest on the floor line."
+  },
+  {
+    "name": "piano-bench",
+    "category": "furniture",
+    "draw": "Side view of a padded rectangular bench on four tapered legs next to the corner of an upright piano."
+  },
+  {
+    "name": "church-pew",
+    "category": "furniture",
+    "draw": "Side view of a long wooden bench with a high solid back and a scrolled end panel."
+  },
+  {
+    "name": "booth-seating",
+    "category": "furniture",
+    "draw": "Restaurant booth with two high-backed padded benches facing each other across a small table."
+  },
+  {
+    "name": "window-seat",
+    "category": "furniture",
+    "draw": "Cushioned bench built into a window recess with a window above and small cushions."
+  },
+  {
+    "name": "loveseat",
+    "category": "furniture",
+    "draw": "Front view of a compact two-seat sofa with two back cushions and rolled arms."
+  },
+  {
+    "name": "chesterfield-sofa",
+    "category": "furniture",
+    "draw": "Front view of a sofa with a diamond-tufted back and high rolled arms level with the back."
+  },
+  {
+    "name": "sectional-sofa",
+    "category": "furniture",
+    "draw": "L-shaped corner sofa seen from the front with a long side and a chaise end."
+  },
+  {
+    "name": "camelback-sofa",
+    "category": "furniture",
+    "draw": "Front view of a sofa whose back rises in a single hump in the middle, with rolled arms."
+  },
+  {
+    "name": "curved-sofa",
+    "category": "furniture",
+    "draw": "Front view of a sofa bent in a gentle crescent arc with a low back."
+  },
+  {
+    "name": "sofa-bed",
+    "category": "furniture",
+    "draw": "Sofa with its seat pulled out into a flat mattress with a pillow on it."
+  },
+  {
+    "name": "daybed",
+    "category": "furniture",
+    "draw": "Narrow bed framed on three sides like a sofa, with back and side rails and a bolster pillow."
+  },
+  {
+    "name": "ottoman",
+    "category": "furniture",
+    "draw": "Upholstered square footstool on short legs with a button-tufted top."
+  },
+  {
+    "name": "pouf",
+    "category": "furniture",
+    "draw": "Round soft floor cushion shaped like a squat drum with a seam around the middle."
+  },
+  {
+    "name": "floor-cushion",
+    "category": "furniture",
+    "draw": "Large thin square cushion lying flat on the floor with a stitched center button."
+  },
+  {
+    "name": "porch-swing",
+    "category": "furniture",
+    "draw": "Wooden bench swing with slatted back hanging from two chains on a beam."
+  },
+  {
+    "name": "sun-lounger",
+    "category": "furniture",
+    "draw": "Side view of a long outdoor lounger with an adjustable raised backrest and slatted bed on legs."
+  },
+  {
+    "name": "bistro-set",
+    "category": "furniture",
+    "draw": "Small round cafe table with two metal chairs, one on each side."
+  },
+  {
+    "name": "tree-swing",
+    "category": "furniture",
+    "draw": "Plank seat hanging from two ropes tied to a tree branch."
+  },
+  {
+    "name": "coffee-table",
+    "category": "furniture",
+    "draw": "Long low rectangular table with a lower shelf holding a book, in front view."
+  },
+  {
+    "name": "console-table",
+    "category": "furniture",
+    "draw": "Narrow tall table with thin legs and a lower shelf, set against a wall with a lamp."
+  },
+  {
+    "name": "nesting-tables",
+    "category": "furniture",
+    "draw": "Two small square tables of different heights, the smaller one tucked under the larger."
+  },
+  {
+    "name": "drop-leaf-table",
+    "category": "furniture",
+    "draw": "Table with a fixed middle top and one hinged leaf hanging down at the side."
+  },
+  {
+    "name": "pedestal-table",
+    "category": "furniture",
+    "draw": "Round tabletop on a single central column that flares into a wide round foot."
+  },
+  {
+    "name": "trestle-table",
+    "category": "furniture",
+    "draw": "Long plank tabletop on two A-shaped leg frames joined by a stretcher bar."
+  },
+  {
+    "name": "folding-table",
+    "category": "furniture",
+    "draw": "Rectangular table seen from the side with fold-out legs slightly angled."
+  },
+  {
+    "name": "picnic-table",
+    "category": "furniture",
+    "draw": "Wooden picnic table with attached benches on both sides and crossed A-frame legs."
+  },
+  {
+    "name": "bar-table",
+    "category": "furniture",
+    "draw": "Tall high-top round table on a single pole with a bar stool beside it."
+  },
+  {
+    "name": "kitchen-island",
+    "category": "furniture",
+    "draw": "Freestanding counter block with cabinet doors below and two stools tucked under the overhang."
+  },
+  {
+    "name": "dressing-table",
+    "category": "furniture",
+    "draw": "Table with drawers and a large mirror standing on top, with a small stool in front."
+  },
+  {
+    "name": "standing-desk",
+    "category": "furniture",
+    "draw": "Tall desk on a double column frame with a laptop on top and an up and down arrow on the leg."
+  },
+  {
+    "name": "corner-desk",
+    "category": "furniture",
+    "draw": "L-shaped desk seen from above with a monitor and chair in the corner."
+  },
+  {
+    "name": "roll-top-desk",
+    "category": "furniture",
+    "draw": "Desk with a curved slatted roll-up cover over the writing surface and drawers below."
+  },
+  {
+    "name": "secretary-desk",
+    "category": "furniture",
+    "draw": "Tall bureau with a hinged front flap folded down as a writing surface and drawers below."
+  },
+  {
+    "name": "school-desk",
+    "category": "furniture",
+    "draw": "Small classroom desk with an attached chair joined by a single metal frame."
+  },
+  {
+    "name": "lap-desk",
+    "category": "furniture",
+    "draw": "Small portable desk with a flat top and a cushion underneath sitting on a lap."
+  },
+  {
+    "name": "tv-stand",
+    "category": "furniture",
+    "draw": "Low wide media cabinet with a flat screen television standing on top."
+  },
+  {
+    "name": "conference-table",
+    "category": "furniture",
+    "draw": "Top view of a long oval meeting table with chairs spaced evenly around it."
+  },
+  {
+    "name": "reception-desk",
+    "category": "furniture",
+    "draw": "Front view of a counter desk with a raised front panel and a monitor behind it."
+  },
+  {
+    "name": "lectern",
+    "category": "furniture",
+    "draw": "Tall standing speaker desk with a slanted top holding an open book."
+  },
+  {
+    "name": "book-stand",
+    "category": "furniture",
+    "draw": "Open book resting on a small angled tabletop stand with a ledge."
+  },
+  {
+    "name": "kotatsu",
+    "category": "furniture",
+    "draw": "Low square table covered by a thick quilt blanket draping to the floor, with a tabletop on top."
+  },
+  {
+    "name": "plant-stand",
+    "category": "furniture",
+    "draw": "Tall slender three-legged stand holding a potted plant on top."
+  },
+  {
+    "name": "display-pedestal",
+    "category": "furniture",
+    "draw": "Tall square plinth with a small vase displayed on its top."
+  },
+  {
+    "name": "table-for-two",
+    "category": "furniture",
+    "draw": "Top view of a small square table with one chair on each opposite side."
+  },
+  {
+    "name": "table-for-four",
+    "category": "furniture",
+    "draw": "Top view of a rectangular table with two chairs on each long side."
+  },
+  {
+    "name": "round-banquet-table",
+    "category": "furniture",
+    "draw": "Top view of a large round table ringed by eight chairs."
+  },
+  {
+    "name": "four-poster-bed",
+    "category": "furniture",
+    "draw": "Bed with a tall post at each corner joined by a rectangular canopy frame."
+  },
+  {
+    "name": "loft-bed",
+    "category": "furniture",
+    "draw": "Bed raised high on a frame with a ladder at the side and a desk underneath."
+  },
+  {
+    "name": "wall-bed",
+    "category": "furniture",
+    "draw": "Bed folding down out of a tall wall cabinet, shown half lowered on its hinge."
+  },
+  {
+    "name": "trundle-bed",
+    "category": "furniture",
+    "draw": "Single bed with a second low mattress pulled out on wheels underneath it."
+  },
+  {
+    "name": "camp-bed",
+    "category": "furniture",
+    "draw": "Portable folding cot with a fabric bed stretched on crossed metal legs."
+  },
+  {
+    "name": "air-mattress",
+    "category": "furniture",
+    "draw": "Inflatable mattress with ribbed puffy tubes and a small valve at one corner."
+  },
+  {
+    "name": "mattress",
+    "category": "furniture",
+    "draw": "Thick rectangular mattress in perspective with quilted stitch dots and a piped edge."
+  },
+  {
+    "name": "sleigh-bed",
+    "category": "furniture",
+    "draw": "Side view of a bed whose headboard and footboard curl outward like a sleigh."
+  },
+  {
+    "name": "water-bed",
+    "category": "furniture",
+    "draw": "Side view of a bed frame whose mattress has wavy water lines inside."
+  },
+  {
+    "name": "twin-beds",
+    "category": "furniture",
+    "draw": "Two single beds side by side with a small nightstand between them."
+  },
+  {
+    "name": "double-bed",
+    "category": "furniture",
+    "draw": "Front view of a wide bed with two pillows side by side against the headboard."
+  },
+  {
+    "name": "futon",
+    "category": "furniture",
+    "draw": "Japanese floor bedding: a thin mattress laid flat on the floor with a folded quilt and pillow."
+  },
+  {
+    "name": "charpai",
+    "category": "furniture",
+    "draw": "Traditional woven bed with a crisscross rope lattice stretched on a wooden frame with four legs."
+  },
+  {
+    "name": "bassinet",
+    "category": "furniture",
+    "draw": "Small oval baby basket with a hood at one end, standing on a stand with legs."
+  },
+  {
+    "name": "cradle",
+    "category": "furniture",
+    "draw": "Wooden baby bed with slatted sides sitting on two curved rockers."
+  },
+  {
+    "name": "playpen",
+    "category": "furniture",
+    "draw": "Square mesh-sided baby play enclosure with a ball inside."
+  },
+  {
+    "name": "baby-mobile",
+    "category": "furniture",
+    "draw": "Hanging crib mobile with a stick arm and three small shapes dangling on strings."
+  },
+  {
+    "name": "baby-gate",
+    "category": "furniture",
+    "draw": "Short gate of vertical bars with a latch, fitted between two wall posts."
+  },
+  {
+    "name": "display-cabinet",
+    "category": "furniture",
+    "draw": "Tall cabinet with glass doors showing plates standing on shelves inside."
+  },
+  {
+    "name": "toy-box",
+    "category": "furniture",
+    "draw": "Open wooden chest with a propped lid and a ball and teddy ear poking out."
+  },
+  {
+    "name": "magazine-rack",
+    "category": "furniture",
+    "draw": "Small floor rack with curved slats holding rolled magazines."
+  },
+  {
+    "name": "cube-storage",
+    "category": "furniture",
+    "draw": "Square shelving unit divided into a grid of cubbies, some with fabric bins."
+  },
+  {
+    "name": "ladder-shelf",
+    "category": "furniture",
+    "draw": "Leaning ladder-shaped shelf with three shelves narrowing toward the top."
+  },
+  {
+    "name": "corner-shelf",
+    "category": "furniture",
+    "draw": "Quarter-round shelves mounted into a wall corner, holding a small plant."
+  },
+  {
+    "name": "bookends",
+    "category": "furniture",
+    "draw": "Two L-shaped bookends holding a short row of upright books between them."
+  },
+  {
+    "name": "storage-basket",
+    "category": "furniture",
+    "draw": "Woven basket with a crosshatch weave and two side handles."
+  },
+  {
+    "name": "key-rack",
+    "category": "furniture",
+    "draw": "Small wall plaque with a row of hooks holding two keys."
+  },
+  {
+    "name": "valet-stand",
+    "category": "furniture",
+    "draw": "Standing suit valet with a shaped hanger for a jacket and a bar for trousers."
+  },
+  {
+    "name": "blanket-ladder",
+    "category": "furniture",
+    "draw": "Wooden ladder leaning on a wall with a folded blanket draped over a rung."
+  },
+  {
+    "name": "folding-screen",
+    "category": "furniture",
+    "draw": "Three-panel folding room divider standing in a zigzag."
+  },
+  {
+    "name": "shoji-door",
+    "category": "furniture",
+    "draw": "Japanese sliding door with a fine wooden grid over translucent paper panels."
+  },
+  {
+    "name": "wall-cabinet",
+    "category": "furniture",
+    "draw": "Wall-hung kitchen-style upper cabinet with two doors mounted above a counter line."
+  },
+  {
+    "name": "paper-lantern",
+    "category": "furniture",
+    "draw": "Round ribbed paper lantern hanging from a cord with a small cap at the top."
+  },
+  {
+    "name": "tripod-lamp",
+    "category": "furniture",
+    "draw": "Floor lamp with a drum shade on three splayed wooden legs."
+  },
+  {
+    "name": "neon-sign",
+    "category": "furniture",
+    "draw": "Glowing tube light bent into a heart shape inside a thin frame on a wall."
+  },
+  {
+    "name": "cage-light",
+    "category": "furniture",
+    "draw": "Hanging pendant bulb surrounded by a wire cage guard."
+  },
+  {
+    "name": "hurricane-lamp",
+    "category": "furniture",
+    "draw": "Kerosene lantern with a glass chimney on a metal base and a wire handle."
+  },
+  {
+    "name": "candelabra",
+    "category": "furniture",
+    "draw": "Branched candle holder with three arms each holding a lit candle."
+  },
+  {
+    "name": "tealight",
+    "category": "furniture",
+    "draw": "Small round tea light candle in a shallow metal cup with a flame."
+  },
+  {
+    "name": "lampshade",
+    "category": "furniture",
+    "draw": "Empty drum lampshade with a tapered shape and a small ring fitting at the top."
+  },
+  {
+    "name": "sputnik-chandelier",
+    "category": "furniture",
+    "draw": "Ceiling light with a central ball and many straight arms radiating out, each with a bulb."
+  },
+  {
+    "name": "mushroom-lamp",
+    "category": "furniture",
+    "draw": "Small table lamp shaped like a mushroom with a dome cap over a short stem."
+  },
+  {
+    "name": "plasma-ball",
+    "category": "furniture",
+    "draw": "Glass globe on a base with forked lightning lines reaching from the center to the glass."
+  },
+  {
+    "name": "garden-torch",
+    "category": "furniture",
+    "draw": "Bamboo torch on a tall pole with a flame burning in its top cup."
+  },
+  {
+    "name": "round-rug",
+    "category": "furniture",
+    "draw": "Circular rug with concentric ring patterns and a short fringe."
+  },
+  {
+    "name": "sheepskin-rug",
+    "category": "furniture",
+    "draw": "Irregular fluffy hide-shaped rug with wavy wool edges."
+  },
+  {
+    "name": "shag-rug",
+    "category": "furniture",
+    "draw": "Rectangular rug with long shaggy pile strands drawn as dense vertical squiggles."
+  },
+  {
+    "name": "braided-rug",
+    "category": "furniture",
+    "draw": "Oval rug made of a tight spiral of braided coils."
+  },
+  {
+    "name": "rolled-rug",
+    "category": "furniture",
+    "draw": "Carpet partly rolled up into a thick cylinder with the flat end lying in front."
+  },
+  {
+    "name": "prayer-rug",
+    "category": "furniture",
+    "draw": "Rectangular prayer mat with a pointed arch niche motif at one end and a fringe."
+  },
+  {
+    "name": "tatami-mat",
+    "category": "furniture",
+    "draw": "Rectangular Japanese straw floor mat with fine lengthwise lines and bound long edges."
+  },
+  {
+    "name": "play-mat",
+    "category": "furniture",
+    "draw": "Kids play mat printed with a winding road, a small house and a tree."
+  },
+  {
+    "name": "roller-blind",
+    "category": "furniture",
+    "draw": "Window covered by a smooth blind pulled down from a roller at the top with a pull cord."
+  },
+  {
+    "name": "venetian-blind",
+    "category": "furniture",
+    "draw": "Window covered by many thin horizontal slats with a cord and tilt wand at the side."
+  },
+  {
+    "name": "roman-blind",
+    "category": "furniture",
+    "draw": "Fabric window blind folded up in soft horizontal pleats near the top."
+  },
+  {
+    "name": "vertical-blinds",
+    "category": "furniture",
+    "draw": "Row of tall vertical slats hanging from a track across a window."
+  },
+  {
+    "name": "window-shutters",
+    "category": "furniture",
+    "draw": "Window flanked by two open louvered shutters on each side."
+  },
+  {
+    "name": "cafe-curtain",
+    "category": "furniture",
+    "draw": "Short curtain covering only the lower half of a window on a middle rod."
+  },
+  {
+    "name": "curtain-rod",
+    "category": "furniture",
+    "draw": "Horizontal rod with ball finials at each end and rings along it."
+  },
+  {
+    "name": "bead-curtain",
+    "category": "furniture",
+    "draw": "Doorway curtain made of many vertical strings of beads."
+  },
+  {
+    "name": "noren",
+    "category": "furniture",
+    "draw": "Japanese split doorway curtain hanging from a rod in three short fabric panels."
+  },
+  {
+    "name": "blackout-curtain",
+    "category": "furniture",
+    "draw": "Closed dark curtains fully covering a window with a crescent moon beside them."
+  },
+  {
+    "name": "cheval-mirror",
+    "category": "furniture",
+    "draw": "Full-length oval mirror swiveling between two uprights on a floor stand."
+  },
+  {
+    "name": "sunburst-mirror",
+    "category": "furniture",
+    "draw": "Round mirror surrounded by radiating spikes like sun rays."
+  },
+  {
+    "name": "trifold-mirror",
+    "category": "furniture",
+    "draw": "Three-panel mirror with a large center panel and two angled side wings."
+  },
+  {
+    "name": "clock-cuckoo",
+    "category": "furniture",
+    "draw": "Carved house-shaped wall clock with a small bird popping out of a door and pinecone weights."
+  },
+  {
+    "name": "clock-grandfather",
+    "category": "furniture",
+    "draw": "Tall floor-standing longcase clock with a clock face on top and a pendulum window below."
+  },
+  {
+    "name": "clock-mantel",
+    "category": "furniture",
+    "draw": "Wide wooden clock with an arched top and a round dial sitting on a mantel shelf."
+  },
+  {
+    "name": "clock-carriage",
+    "category": "furniture",
+    "draw": "Small rectangular brass clock with glass sides and a carry handle on top."
+  },
+  {
+    "name": "clock-flip",
+    "category": "furniture",
+    "draw": "Retro clock with two split-flap number cards showing digits on a small stand."
+  },
+  {
+    "name": "clock-station",
+    "category": "furniture",
+    "draw": "Double-sided clock hanging from a bracket above a platform, seen at an angle."
+  },
+  {
+    "name": "clock-sunburst",
+    "category": "furniture",
+    "draw": "Wall clock with a small round face surrounded by long radiating rays."
+  },
+  {
+    "name": "clock-anniversary",
+    "category": "furniture",
+    "draw": "Clock under a glass dome with a spinning disc pendulum visible below the dial."
+  },
+  {
+    "name": "clock-skeleton",
+    "category": "furniture",
+    "draw": "Clock with an open face showing interlocking gears through the dial."
+  },
+  {
+    "name": "bud-vase",
+    "category": "furniture",
+    "draw": "Tall very slender vase holding a single stem with one flower."
+  },
+  {
+    "name": "amphora",
+    "category": "furniture",
+    "draw": "Tall ancient jar with two looped handles on the neck and a pointed base."
+  },
+  {
+    "name": "ginger-jar",
+    "category": "furniture",
+    "draw": "Round-shouldered lidded jar with a domed cap and a floral band."
+  },
+  {
+    "name": "music-box",
+    "category": "furniture",
+    "draw": "Open wooden box with a tiny ballerina on a spindle and music notes floating up."
+  },
+  {
+    "name": "candle-snuffer",
+    "category": "furniture",
+    "draw": "Long handled stick ending in a small bell cone above a candle wick with smoke."
+  },
+  {
+    "name": "wind-chime",
+    "category": "furniture",
+    "draw": "Round top ring with several hanging metal tubes of different lengths and a striker."
+  },
+  {
+    "name": "dreamcatcher",
+    "category": "furniture",
+    "draw": "Hoop with a woven web inside and feathers hanging from strings below."
+  },
+  {
+    "name": "macrame-wall-hanging",
+    "category": "furniture",
+    "draw": "Knotted cord wall hanging draped from a wooden dowel with fringe at the bottom."
+  },
+  {
+    "name": "wall-tapestry",
+    "category": "furniture",
+    "draw": "Large woven textile hanging from a rod with a simple pattern and tassels on the bottom edge."
+  },
+  {
+    "name": "wall-plate",
+    "category": "furniture",
+    "draw": "Decorative round plate with a floral pattern hung on a wall by a wire hanger."
+  },
+  {
+    "name": "letter-board",
+    "category": "furniture",
+    "draw": "Felt letter board with a grooved surface and lines of small letter tiles."
+  },
+  {
+    "name": "cork-board",
+    "category": "furniture",
+    "draw": "Framed cork board with pinned notes and a photo held by push pins."
+  },
+  {
+    "name": "triptych",
+    "category": "furniture",
+    "draw": "Three framed art panels hanging side by side, the middle one larger."
+  },
+  {
+    "name": "gallery-wall",
+    "category": "furniture",
+    "draw": "Cluster of several differently sized picture frames arranged on a wall."
+  },
+  {
+    "name": "ornate-frame",
+    "category": "furniture",
+    "draw": "Picture frame with a carved scalloped baroque border and corner flourishes."
+  },
+  {
+    "name": "wall-poster",
+    "category": "furniture",
+    "draw": "Poster taped to a wall with tape strips across its top corners and a curled bottom corner."
+  },
+  {
+    "name": "wall-mural",
+    "category": "furniture",
+    "draw": "Painted landscape covering an entire wall with a paint roller beside it."
+  },
+  {
+    "name": "kintsugi-bowl",
+    "category": "furniture",
+    "draw": "Ceramic bowl with golden repair lines running across it like cracks."
+  },
+  {
+    "name": "ship-in-bottle",
+    "category": "furniture",
+    "draw": "Clear bottle lying on its side with a small sailing ship inside, on a stand."
+  },
+  {
+    "name": "marquee-letter",
+    "category": "furniture",
+    "draw": "Large block letter A outlined with round light bulbs dotted along it."
+  },
+  {
+    "name": "patchwork-quilt",
+    "category": "furniture",
+    "draw": "Folded quilt made of square patches with different simple patterns."
+  },
+  {
+    "name": "sash-window",
+    "category": "furniture",
+    "draw": "Tall window with two stacked sashes, the lower one slid up, divided into small panes."
+  },
+  {
+    "name": "casement-window",
+    "category": "furniture",
+    "draw": "Window with a side-hinged pane swung open outward on its hinge."
+  },
+  {
+    "name": "bay-window",
+    "category": "furniture",
+    "draw": "Window projecting outward in three angled sections seen from above at an angle."
+  },
+  {
+    "name": "arched-window",
+    "category": "furniture",
+    "draw": "Tall window with a semicircular arched top and divided panes."
+  },
+  {
+    "name": "round-window",
+    "category": "furniture",
+    "draw": "Circular porthole window with a thick frame and a cross mullion."
+  },
+  {
+    "name": "gothic-window",
+    "category": "furniture",
+    "draw": "Tall narrow window rising to a pointed arch top with tracery lines."
+  },
+  {
+    "name": "dormer-window",
+    "category": "furniture",
+    "draw": "Small gabled window projecting from a sloped roof."
+  },
+  {
+    "name": "stained-glass-window",
+    "category": "furniture",
+    "draw": "Arched window filled with irregular leaded glass pieces."
+  },
+  {
+    "name": "louvered-window",
+    "category": "furniture",
+    "draw": "Window with a stack of angled glass slats like open louvers."
+  },
+  {
+    "name": "double-glazing",
+    "category": "furniture",
+    "draw": "Cross-section of a window frame with two parallel panes and a gap between them."
+  },
+  {
+    "name": "french-doors",
+    "category": "furniture",
+    "draw": "Pair of tall glazed doors with many small panes opening outward in the middle."
+  },
+  {
+    "name": "sliding-door",
+    "category": "furniture",
+    "draw": "Glass patio door with one panel sliding behind the other and a sideways arrow."
+  },
+  {
+    "name": "barn-door",
+    "category": "furniture",
+    "draw": "Plank door with a Z brace hanging from rollers on an exposed top rail."
+  },
+  {
+    "name": "revolving-door",
+    "category": "furniture",
+    "draw": "Round glass drum with four panels meeting in the center, seen from above at an angle."
+  },
+  {
+    "name": "saloon-doors",
+    "category": "furniture",
+    "draw": "Pair of short swinging slatted half doors hung in the middle of a doorway."
+  },
+  {
+    "name": "dutch-door",
+    "category": "furniture",
+    "draw": "Door split horizontally with the top half open and the bottom half closed."
+  },
+  {
+    "name": "screen-door",
+    "category": "furniture",
+    "draw": "Door with a mesh panel and a thin frame, with a crosshatch screen."
+  },
+  {
+    "name": "arched-door",
+    "category": "furniture",
+    "draw": "Heavy wooden door with a rounded arch top, vertical planks and iron studs."
+  },
+  {
+    "name": "trapdoor",
+    "category": "furniture",
+    "draw": "Square hatch in the floor with its lid propped open and a ring pull."
+  },
+  {
+    "name": "door-knocker",
+    "category": "furniture",
+    "draw": "Round ring knocker hanging from a decorative plate on a door."
+  },
+  {
+    "name": "doorknob",
+    "category": "furniture",
+    "draw": "Round door knob on a circular rose plate with a keyhole below."
+  },
+  {
+    "name": "door-hinge",
+    "category": "furniture",
+    "draw": "Butt hinge with two leaves joined by a central knuckle pin and screw holes."
+  },
+  {
+    "name": "house-number",
+    "category": "furniture",
+    "draw": "Small plaque with a house number mounted beside a door frame."
+  },
+  {
+    "name": "archway",
+    "category": "furniture",
+    "draw": "Rounded arch opening in a wall with thick sides and a floor line."
+  },
+  {
+    "name": "classical-column",
+    "category": "furniture",
+    "draw": "Classical column with a fluted shaft, a capital on top and a base."
+  },
+  {
+    "name": "balustrade",
+    "category": "furniture",
+    "draw": "Railing with a top handrail supported by a row of turned vase-shaped balusters."
+  },
+  {
+    "name": "spiral-staircase",
+    "category": "furniture",
+    "draw": "Staircase of wedge steps winding around a central pole."
+  },
+  {
+    "name": "attic-ladder",
+    "category": "furniture",
+    "draw": "Folding ladder pulled down from a ceiling hatch."
+  },
+  {
+    "name": "library-ladder",
+    "category": "furniture",
+    "draw": "Rolling ladder leaning on a tall bookshelf, hooked to a top rail with wheels at the foot."
+  },
+  {
+    "name": "mantelpiece",
+    "category": "furniture",
+    "draw": "Fireplace surround with a wide shelf on top holding a clock and candles."
+  },
+  {
+    "name": "fire-screen",
+    "category": "furniture",
+    "draw": "Three-panel mesh screen standing in front of a small fire."
+  },
+  {
+    "name": "fireplace-tools",
+    "category": "furniture",
+    "draw": "Stand holding a poker, a shovel, tongs and a brush on hooks."
+  },
+  {
+    "name": "firewood-rack",
+    "category": "furniture",
+    "draw": "Metal rack holding a stack of split logs."
+  },
+  {
+    "name": "bellows",
+    "category": "furniture",
+    "draw": "Fireplace bellows with two wooden paddles, a pleated leather side and a nozzle."
+  },
+  {
+    "name": "chiminea",
+    "category": "furniture",
+    "draw": "Clay outdoor fireplace with a round belly, a front opening with a flame and a tall chimney."
+  },
+  {
+    "name": "fire-pit",
+    "category": "furniture",
+    "draw": "Round shallow bowl on legs holding logs with flames rising."
+  },
+  {
+    "name": "living-room",
+    "category": "furniture",
+    "draw": "Room scene with a sofa, a floor lamp and a framed picture on the wall."
+  },
+  {
+    "name": "bedroom",
+    "category": "furniture",
+    "draw": "Room scene with a bed, a nightstand with a lamp and a window above."
+  },
+  {
+    "name": "dining-room",
+    "category": "furniture",
+    "draw": "Room scene with a dining table, two chairs and a pendant light above."
+  },
+  {
+    "name": "home-office",
+    "category": "furniture",
+    "draw": "Room scene with a desk, a monitor, an office chair and a shelf on the wall."
+  },
+  {
+    "name": "nursery",
+    "category": "furniture",
+    "draw": "Room scene with a crib, a hanging mobile and a star on the wall."
+  },
+  {
+    "name": "attic",
+    "category": "furniture",
+    "draw": "Triangular roof space with a small round window and a box under the slope."
+  },
+  {
+    "name": "basement",
+    "category": "furniture",
+    "draw": "House outline with the ground line drawn and the room below ground highlighted with stairs."
+  },
+  {
+    "name": "hallway",
+    "category": "furniture",
+    "draw": "Corridor in one-point perspective with doors on both side walls."
+  },
+  {
+    "name": "walk-in-closet",
+    "category": "furniture",
+    "draw": "Closet with a hanging rail of clothes, shelves above and shoes below."
+  },
+  {
+    "name": "reading-nook",
+    "category": "furniture",
+    "draw": "Cozy armchair beside a floor lamp and a small stack of books."
+  },
+  {
+    "name": "waiting-room",
+    "category": "furniture",
+    "draw": "Row of joined chairs on a shared beam below a wall clock."
+  },
+  {
+    "name": "playroom",
+    "category": "furniture",
+    "draw": "Room scene with a toy box, blocks on the floor and a rocking horse."
+  },
+  {
+    "name": "entryway",
+    "category": "furniture",
+    "draw": "Front door with a coat rack beside it and a doormat on the floor."
+  },
+  {
+    "name": "empty-room",
+    "category": "furniture",
+    "draw": "Isometric empty room showing two walls, a floor and a door."
+  },
+  {
+    "name": "floor-area",
+    "category": "furniture",
+    "draw": "Square floor outline with measuring arrows along two sides."
+  },
+  {
+    "name": "interior-design",
+    "category": "furniture",
+    "draw": "Armchair next to a floor lamp with a small color swatch fan."
+  },
+  {
+    "name": "flat-pack-furniture",
+    "category": "furniture",
+    "draw": "Flat box with a chair drawing on it next to a hex key."
+  },
+  {
+    "name": "upholstery",
+    "category": "furniture",
+    "draw": "Armchair with a fabric swatch and a curved upholstery needle beside it."
+  },
+  {
+    "name": "wallpaper",
+    "category": "furniture",
+    "draw": "Partly unrolled roll of patterned wallpaper hanging down a wall."
+  },
+  {
+    "name": "parquet-floor",
+    "category": "furniture",
+    "draw": "Floor section of wooden planks laid in a herringbone pattern."
+  },
+  {
+    "name": "saddle-stool",
+    "category": "furniture",
+    "draw": "Side view of a stool with a saddle-shaped seat on a gas lift column and a star base on casters."
+  },
+  {
+    "name": "storage-bench",
+    "category": "furniture",
+    "draw": "Low bench with a padded top and two open cubbies below holding a pair of shoes and a basket."
+  },
+  {
+    "name": "rocking-horse",
+    "category": "furniture",
+    "draw": "Side view of a wooden toy horse with a mane and handle on curved rockers."
+  },
+  {
+    "name": "folding-stool",
+    "category": "furniture",
+    "draw": "Small stool with a fabric seat stretched across two crossed X-shaped legs."
+  },
+  {
+    "name": "auditorium-seats",
+    "category": "furniture",
+    "draw": "Row of three joined upholstered theater seats with armrests, one seat flipped up."
+  },
+  {
+    "name": "baby-bouncer",
+    "category": "furniture",
+    "draw": "Low reclined baby seat on a curved wire frame with a toy bar arching over it."
+  },
+  {
+    "name": "ball-chair",
+    "category": "furniture",
+    "draw": "Large exercise ball sitting in a low frame on casters with a short backrest."
+  },
+  {
+    "name": "tray-table",
+    "category": "furniture",
+    "draw": "Small folding table with a rimmed tray top on tall crossed X legs."
+  },
+  {
+    "name": "washstand",
+    "category": "furniture",
+    "draw": "Antique stand with a basin and a water jug on top, a towel bar and a shelf below."
+  },
+  {
+    "name": "floor-table",
+    "category": "furniture",
+    "draw": "Very low table with short legs surrounded by square floor cushions on each side."
+  },
+  {
+    "name": "apothecary-cabinet",
+    "category": "furniture",
+    "draw": "Cabinet front divided into a grid of many small drawers, each with a tiny knob."
+  },
+  {
+    "name": "cluster-pendant",
+    "category": "furniture",
+    "draw": "Several globe bulbs hanging from one ceiling canopy on cords of different lengths."
+  },
+  {
+    "name": "linear-pendant",
+    "category": "furniture",
+    "draw": "Long slim bar light suspended by two thin wires, casting light down onto a table line."
+  },
+  {
+    "name": "star-projector",
+    "category": "furniture",
+    "draw": "Small dome night light casting star shapes around it on the surrounding area."
+  },
+  {
+    "name": "lamp-post",
+    "category": "furniture",
+    "draw": "Classic post lamp with a lantern head on a tall fluted pole and a flared base."
+  },
+  {
+    "name": "half-moon-rug",
+    "category": "furniture",
+    "draw": "Semicircular rug with a flat back edge and a patterned curved border."
+  },
+  {
+    "name": "window-valance",
+    "category": "furniture",
+    "draw": "Short gathered fabric panel across the top of a window above the glass."
+  },
+  {
+    "name": "shade-sail",
+    "category": "furniture",
+    "draw": "Triangular fabric sail stretched between three posts, casting shade below."
+  },
+  {
+    "name": "window-awning",
+    "category": "furniture",
+    "draw": "Striped fabric awning with a scalloped edge projecting over a window."
+  },
+  {
+    "name": "cantilever-umbrella",
+    "category": "furniture",
+    "draw": "Patio umbrella hanging from a curved side arm on a post with a cross base."
+  },
+  {
+    "name": "decking",
+    "category": "furniture",
+    "draw": "Outdoor wooden deck of parallel boards in perspective with a short railing at the edge."
+  },
+  {
+    "name": "patio",
+    "category": "furniture",
+    "draw": "Paved outdoor area of square slabs with a small table and a parasol."
+  },
+  {
+    "name": "sunroom",
+    "category": "furniture",
+    "draw": "Glass-walled room attached to the side of a house with a slanted glazed roof."
+  },
+  {
+    "name": "exposed-beams",
+    "category": "furniture",
+    "draw": "Room ceiling corner with thick wooden beams running across it."
+  },
+  {
+    "name": "wainscoting",
+    "category": "furniture",
+    "draw": "Lower wall covered in raised rectangular panels with a chair rail on top."
+  },
+  {
+    "name": "crown-molding",
+    "category": "furniture",
+    "draw": "Close view of the corner where wall meets ceiling with a stepped curved molding profile."
+  },
+  {
+    "name": "baseboard",
+    "category": "furniture",
+    "draw": "Wall meeting the floor with a tall profiled skirting board running along the bottom."
+  },
+  {
+    "name": "ceiling-rose",
+    "category": "furniture",
+    "draw": "Round ornamental ceiling medallion with petal patterns and a light cord hanging from its center."
+  },
+  {
+    "name": "wall-niche",
+    "category": "furniture",
+    "draw": "Arched recess set into a wall holding a small vase."
+  },
+  {
+    "name": "subway-tiles",
+    "category": "furniture",
+    "draw": "Wall of glossy rectangular tiles laid in an offset brick pattern."
+  },
+  {
+    "name": "terrazzo",
+    "category": "furniture",
+    "draw": "Square slab speckled with irregular chips of different sizes."
+  },
+  {
+    "name": "bathroom",
+    "category": "furniture",
+    "draw": "Room scene with a bathtub, a toilet and a small mirror on the wall."
+  },
+  {
+    "name": "kitchen",
+    "category": "furniture",
+    "draw": "Room scene with counter cabinets, a stove with a pot and upper wall cabinets."
+  },
+  {
+    "name": "pantry",
+    "category": "furniture",
+    "draw": "Walk-in closet of shelves stocked with jars, cans and a sack on the floor."
+  },
+  {
+    "name": "cubicle",
+    "category": "furniture",
+    "draw": "Office cubicle with low partition walls around a desk with a monitor and chair."
+  },
+  {
+    "name": "dressing-room",
+    "category": "furniture",
+    "draw": "Room scene with a mirror framed by bulbs, a stool and a clothes rail beside it."
+  },
+  {
+    "name": "furniture-store",
+    "category": "furniture",
+    "draw": "Shop front with an awning and a large window showing a sofa inside."
+  },
+  {
+    "name": "dollhouse",
+    "category": "furniture",
+    "draw": "Open-fronted toy house with a peaked roof and small rooms on two floors."
+  },
+  {
+    "name": "height-chart",
+    "category": "furniture",
+    "draw": "Tall wall ruler with measurement ticks, a few marker lines and a small star at the top."
+  },
+  {
+    "name": "office-pod",
+    "category": "furniture",
+    "draw": "Enclosed soundproof booth with a glass door, a seat and a small desk inside."
+  },
+  {
+    "name": "hot-desk",
+    "category": "furniture",
+    "draw": "Shared desk with a laptop and a small reservation calendar tag on its edge."
+  },
+  {
+    "name": "luggage-rack",
+    "category": "furniture",
+    "draw": "Folding stand on X legs with fabric straps across the top holding a suitcase."
+  },
+  {
+    "name": "draft-stopper",
+    "category": "furniture",
+    "draw": "Long stuffed fabric tube lying along the bottom of a door."
+  },
+  {
+    "name": "headboard",
+    "category": "furniture",
+    "draw": "Upholstered bed headboard with button tufting standing on two short legs."
+  },
+  {
+    "name": "arched-mirror",
+    "category": "furniture",
+    "draw": "Tall floor mirror with a rounded arched top and a thin frame leaning on a wall."
+  },
+  {
+    "name": "oval-frame",
+    "category": "furniture",
+    "draw": "Oval portrait frame with a decorative ribbon bow on top holding a silhouette."
+  },
+  {
+    "name": "shadow-box",
+    "category": "furniture",
+    "draw": "Deep square frame with a pinned butterfly displayed inside."
+  },
+  {
+    "name": "jewelry-stand",
+    "category": "furniture",
+    "draw": "Tree-shaped stand with branches holding necklaces and a ring dish at the base."
+  },
+  {
+    "name": "led-panel",
+    "category": "furniture",
+    "draw": "Square slim ceiling panel light with a glowing flat face and rays below."
+  },
+  {
+    "name": "photo-string",
+    "category": "furniture",
+    "draw": "String hung between two nails with small photos clipped to it by pegs."
+  },
+  {
+    "name": "floating-stairs",
+    "category": "furniture",
+    "draw": "Staircase of separate thick treads jutting out from a wall with no risers."
+  },
+  {
+    "name": "wine-cellar",
+    "category": "furniture",
+    "draw": "Vaulted brick room with a wine barrel and a rack of bottles."
+  },
+  {
+    "name": "baby-play-gym",
+    "category": "furniture",
+    "draw": "Soft play mat with an arch over it from which small toys dangle."
+  },
+  {
+    "name": "ball-pit",
+    "category": "furniture",
+    "draw": "Square padded pit filled with a heap of small balls."
+  },
+  {
+    "name": "stone-lantern",
+    "category": "furniture",
+    "draw": "Japanese stone garden lantern with a wide peaked cap, a light box and a pedestal."
+  },
+  {
+    "name": "table-runner",
+    "category": "furniture",
+    "draw": "Table in front view with a narrow cloth strip running along its length, hanging down at the ends."
+  },
+  {
+    "name": "swing-arm-lamp",
+    "category": "furniture",
+    "draw": "Wall lamp on a folding hinged arm with a cone shade."
+  },
+  {
+    "name": "fanlight",
+    "category": "furniture",
+    "draw": "Front door with a semicircular window above it divided by radiating bars."
+  },
+  {
+    "name": "double-doors",
+    "category": "furniture",
+    "draw": "Pair of tall paneled doors meeting in the middle, each with its own handle."
+  },
+  {
+    "name": "pocket-door",
+    "category": "furniture",
+    "draw": "Door partly slid into a wall cavity, with the hidden part shown dashed."
+  },
+  {
+    "name": "cellar-door",
+    "category": "furniture",
+    "draw": "Pair of slanted bulkhead doors set against a house foundation at ground level."
+  },
+  {
+    "name": "secret-door",
+    "category": "furniture",
+    "draw": "Bookcase swung partly open like a door, revealing a dark passage behind it."
+  },
+  {
+    "name": "grand-staircase",
+    "category": "furniture",
+    "draw": "Wide sweeping staircase curving up with a railing along its outer edge."
+  },
+  {
+    "name": "electric-fireplace",
+    "category": "furniture",
+    "draw": "Wide slim wall-mounted fireplace unit with a row of flames behind glass."
+  },
+  {
+    "name": "laundry-room",
+    "category": "furniture",
+    "draw": "Room scene with a front-loading washer, a shelf with detergent and a drying rack."
+  },
+  {
+    "name": "globe-bar",
+    "category": "furniture",
+    "draw": "Globe on a floor stand opened at the equator revealing bottles inside."
+  },
+  {
+    "name": "rope-shelf",
+    "category": "furniture",
+    "draw": "Wooden plank hanging from two ropes looped over a wall hook, holding a small plant."
+  },
+  {
+    "name": "elevator",
+    "category": "furniture",
+    "draw": "Pair of closed sliding elevator doors in a frame with up and down call buttons beside them."
+  },
+  {
+    "name": "escalator",
+    "category": "furniture",
+    "draw": "Side view of a moving staircase rising diagonally with a handrail."
+  },
+  {
+    "name": "balcony",
+    "category": "furniture",
+    "draw": "Building wall with a door opening onto a small railed balcony platform."
+  },
+  {
+    "name": "front-porch",
+    "category": "furniture",
+    "draw": "Covered house entrance with a small roof on two posts, steps and a railing."
+  },
+  {
+    "name": "kitchen-hutch",
+    "category": "furniture",
+    "draw": "Tall cupboard with closed doors below and open plate rack shelves on top showing standing plates."
+  },
+  {
+    "name": "c-table",
+    "category": "furniture",
+    "draw": "Side view of a C-shaped side table whose base slides under a sofa seat edge."
+  },
+  {
+    "name": "round-bed",
+    "category": "furniture",
+    "draw": "Circular bed seen at an angle with a curved headboard and two pillows."
+  },
+  {
+    "name": "suncatcher",
+    "category": "furniture",
+    "draw": "Faceted crystal hanging on a string in a window, casting small rainbow sparkles."
+  },
+  {
+    "name": "mezzanine",
+    "category": "furniture",
+    "draw": "Tall room with an upper railed platform floor reached by a straight staircase."
+  },
+  {
+    "name": "under-stairs-storage",
+    "category": "furniture",
+    "draw": "Side profile of a staircase with a small door and drawers built into the space beneath it."
+  },
+  {
+    "name": "slipper-chair",
+    "category": "furniture",
+    "draw": "Front view of an armless upholstered chair with a tall back and short legs."
+  },
+  {
+    "name": "hall-tree",
+    "category": "furniture",
+    "draw": "Entry unit with a bench seat, a tall back panel with coat hooks and a small mirror on top."
+  },
+  {
+    "name": "wagon-wheel-chandelier",
+    "category": "furniture",
+    "draw": "Wooden wagon wheel hung flat from chains with candle bulbs standing around its rim."
+  },
+  {
+    "name": "rattan-pendant",
+    "category": "furniture",
+    "draw": "Woven dome pendant light with a crisscross basket texture hanging from a cord."
+  },
+  {
+    "name": "cowhide-rug",
+    "category": "furniture",
+    "draw": "Irregular hide-shaped rug with large dark patches like cow markings."
+  },
+  {
+    "name": "gazebo",
+    "category": "furniture",
+    "draw": "Open garden pavilion with a hexagonal peaked roof on slim posts and a low railing."
+  },
+  {
+    "name": "pergola",
+    "category": "furniture",
+    "draw": "Garden frame of four posts supporting a flat grid of crossbeams overhead."
+  },
+  {
+    "name": "majlis-seating",
+    "category": "furniture",
+    "draw": "Low floor sofa running along a wall with thick seat cushions and back pillows."
+  },
+  {
+    "name": "mashrabiya",
+    "category": "furniture",
+    "draw": "Window screen filled with an intricate wooden lattice of small turned shapes."
+  },
+  {
+    "name": "moon-gate",
+    "category": "furniture",
+    "draw": "Circular doorway opening in a garden wall with a path leading through it."
+  },
+  {
+    "name": "mood-board",
+    "category": "furniture",
+    "draw": "Board pinned with a fabric swatch, a photo, a paint chip strip and a small sketch."
+  },
+  {
+    "name": "magnifier-lamp",
+    "category": "furniture",
+    "draw": "Desk lamp on an articulated arm ending in a round magnifying lens ring with a light."
+  },
+  {
+    "name": "picture-ledge",
+    "category": "furniture",
+    "draw": "Narrow wall shelf with a front lip holding framed pictures leaning against the wall."
+  },
+  {
+    "name": "extending-table",
+    "category": "furniture",
+    "draw": "Dining table pulled apart in the middle with an extra leaf being dropped into the gap."
+  },
+  {
+    "name": "picnic-blanket",
+    "category": "furniture",
+    "draw": "Checkered blanket spread flat in perspective with a folded corner."
+  },
+  {
+    "name": "pool-table",
+    "category": "furniture",
+    "draw": "Billiard table on sturdy legs with corner pockets, a cue stick and a few balls on the felt."
+  },
+  {
+    "name": "foosball-table",
+    "category": "furniture",
+    "draw": "Table football cabinet on legs with rods crossing the top, each holding small player figures."
+  },
+  {
+    "name": "nesting-dolls",
+    "category": "furniture",
+    "draw": "Three rounded painted wooden dolls in a row, decreasing in size, with a headscarf outline."
+  },
+  {
+    "name": "kids-bedroom",
+    "category": "furniture",
+    "draw": "Room scene with a bunk bed, a toy on the floor and a star decal on the wall."
+  },
+  {
+    "name": "home-library",
+    "category": "furniture",
+    "draw": "Room scene with a wall of full bookshelves, a rolling ladder and an armchair."
+  },
+  {
+    "name": "studio-apartment",
+    "category": "furniture",
+    "draw": "Single open room seen in plan with a bed, a sofa and a small kitchenette along one wall."
+  },
+  {
+    "name": "open-plan-office",
+    "category": "furniture",
+    "draw": "Rows of shared desks with monitors and chairs in one open space."
+  },
+  {
+    "name": "view-in-room",
+    "category": "furniture",
+    "draw": "Smartphone held up showing an armchair placed in a room on its screen with corner markers."
+  },
+  {
+    "name": "furniture-dimensions",
+    "category": "furniture",
+    "draw": "Sofa with measuring arrows along its width and height."
+  },
+  {
+    "name": "hanging-scroll",
+    "category": "furniture",
+    "draw": "Tall vertical painted scroll with wooden rods at top and bottom, hung from a cord."
+  },
+  {
+    "name": "blanket-fort",
+    "category": "furniture",
+    "draw": "Blanket draped over two chairs forming a tent with pillows peeking out."
+  }
+]

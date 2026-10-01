@@ -1,0 +1,482 @@
+[
+ {
+  "name": "step-through-bike",
+  "category": "vehicles",
+  "draw": "Upright city bicycle in side view with a low dipping frame and no top tube, a rear rack and a front basket.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-battery",
+  "category": "vehicles",
+  "draw": "Rectangular battery box in three-quarter view with two round terminal posts on top marked plus and minus.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-radiator",
+  "category": "vehicles",
+  "draw": "Rectangular car radiator with a finned grid of vertical lines, side tanks and a round filler cap on top.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "exhaust-pipe",
+  "category": "vehicles",
+  "draw": "Car tailpipe seen at an angle with a chrome tip and a puff of exhaust gas coming out.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "catalytic-converter",
+  "category": "vehicles",
+  "draw": "Flat oval canister with pipes at each end and a honeycomb pattern shown in a cutaway window.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "oil-dipstick",
+  "category": "vehicles",
+  "draw": "Long thin dipstick with a loop handle at the top and fill marks near the tip with an oil drop falling.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "motor-oil",
+  "category": "vehicles",
+  "draw": "Tall engine oil bottle with a side handle and an off-center spout cap, an oil drop label on the front.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "engine-air-filter",
+  "category": "vehicles",
+  "draw": "Rectangular pleated air filter panel seen at an angle, showing zig-zag folds inside a rubber rim.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "brake-caliper",
+  "category": "vehicles",
+  "draw": "Brake caliper clamped over the edge of a brake disc, seen from the side with two bolts.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "brake-pad",
+  "category": "vehicles",
+  "draw": "Pair of curved brake pads each with a friction block on a metal backing plate.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-axle",
+  "category": "vehicles",
+  "draw": "Straight axle bar with a wheel hub at each end and a round differential bulge in the middle.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "drive-shaft",
+  "category": "vehicles",
+  "draw": "Long tube shaft with a universal joint cross yoke at each end.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "automatic-shifter",
+  "category": "vehicles",
+  "draw": "Automatic gear lever with a button on the handle and the letters P R N D in a column beside it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "fuel-tank",
+  "category": "vehicles",
+  "draw": "Flat rounded vehicle fuel tank with a filler neck pipe on one corner and a fuel drop on the side.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "headlight",
+  "category": "vehicles",
+  "draw": "Car headlamp unit seen from the front with a round reflector bulb inside and light beams shining forward.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tail-light",
+  "category": "vehicles",
+  "draw": "Rear corner of a car with a tall rectangular brake light lens split into two segments glowing.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-horn",
+  "category": "vehicles",
+  "draw": "Round snail-shaped car horn with a spiral body and a bracket, with sound waves coming out.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "rearview-mirror",
+  "category": "vehicles",
+  "draw": "Wide rectangular interior mirror with rounded ends hanging from a short stem at the top.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "side-mirror",
+  "category": "vehicles",
+  "draw": "Wing mirror on its arm seen from behind, a rounded housing with a mirror glass and a small arm to the door.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "windshield-wiper",
+  "category": "vehicles",
+  "draw": "Curved windshield with a wiper arm pivoting from the bottom and an arc of cleared glass.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "sunroof",
+  "category": "vehicles",
+  "draw": "Car roof seen from above with a rectangular glass panel slid back and an opening in front of it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-door",
+  "category": "vehicles",
+  "draw": "Single car door seen from outside with a window frame on top, a handle and a hinge edge.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "driver-seat",
+  "category": "vehicles",
+  "draw": "Car driver seat in side view with a reclined backrest, headrest and a seat cushion on sliding rails.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "airbag",
+  "category": "vehicles",
+  "draw": "Steering wheel with a large round inflated airbag bursting out of its center.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-pedals",
+  "category": "vehicles",
+  "draw": "Three pedals side by side seen from the driver's view: clutch, brake and a taller accelerator.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "handbrake",
+  "category": "vehicles",
+  "draw": "Car hand brake lever tilted upward from a console with a release button on its tip.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-key-fob",
+  "category": "vehicles",
+  "draw": "Car remote key: an oval fob with lock and unlock buttons and a flip-out metal key blade.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-air-vent",
+  "category": "vehicles",
+  "draw": "Rectangular dashboard air vent with horizontal slats and a small adjustment tab, air lines flowing out.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-dashboard",
+  "category": "vehicles",
+  "draw": "Car dashboard seen from the driver's seat: steering wheel in front of two round dials under a curved hood.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "odometer",
+  "category": "vehicles",
+  "draw": "Row of rolling number drums in a small window with a tiny speedometer arc above them.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "license-plate",
+  "category": "vehicles",
+  "draw": "Rectangular vehicle number plate with rounded corners, two screw holes and a row of blank characters.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tow-hitch",
+  "category": "vehicles",
+  "draw": "Rear bumper with a square receiver tube and a tow ball mounted on the hitch bar.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "roof-rack",
+  "category": "vehicles",
+  "draw": "Car in side view with two crossbars on the roof holding a strapped-down bundle of luggage.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "roof-box",
+  "category": "vehicles",
+  "draw": "Car in side view with a long streamlined cargo box pod mounted on its roof.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-bike-rack",
+  "category": "vehicles",
+  "draw": "Car rear with a rack on the trunk holding a bicycle upright behind it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "wheel-rim",
+  "category": "vehicles",
+  "draw": "Alloy car wheel seen face on with five spokes radiating from a center hub and a thin tire edge.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "spare-tire",
+  "category": "vehicles",
+  "draw": "Round tire with a wheel inside mounted on the back door of a vehicle with a cover strap.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "snow-chains",
+  "category": "vehicles",
+  "draw": "Tire seen from the side wrapped in a crisscross ladder pattern of chain links.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tire-pressure-gauge",
+  "category": "vehicles",
+  "draw": "Pencil-style tire gauge with a slanted chuck on one end and a pop-out measuring stick, or a small round dial.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "flat-tire",
+  "category": "vehicles",
+  "draw": "Tire in side view sagging flat at the bottom where it meets the road, with a nail stuck in it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "lug-nut",
+  "category": "vehicles",
+  "draw": "Hex wheel nut in three-quarter view with a conical seat at the bottom and a threaded hole.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-cover",
+  "category": "vehicles",
+  "draw": "Car shape draped completely in a loose fabric cover with folds and a drawstring hem.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "mud-flap",
+  "category": "vehicles",
+  "draw": "Rectangular rubber mud flap hanging behind a truck tire with dirt spray beside it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-bumper",
+  "category": "vehicles",
+  "draw": "Front of a car with a wide rounded bumper bar highlighted across the lower edge.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-spoiler",
+  "category": "vehicles",
+  "draw": "Rear of a car with a raised wing spoiler on two struts above the trunk.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "radiator-grille",
+  "category": "vehicles",
+  "draw": "Car front grille with a pattern of horizontal slats between two headlights.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tow-strap",
+  "category": "vehicles",
+  "draw": "Coiled flat recovery strap with a loop at each end and a shackle hook.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "ev-charging-cable",
+  "category": "vehicles",
+  "draw": "Coiled charging cable ending in a chunky electric vehicle plug with round pin sockets on its face.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "dash-cam",
+  "category": "vehicles",
+  "draw": "Small windshield camera with a round lens on a suction mount, with a recording dot.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-phone-mount",
+  "category": "vehicles",
+  "draw": "Phone held in a spring clamp cradle attached to a car air vent.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "reversing-camera",
+  "category": "vehicles",
+  "draw": "Car rear with a small camera above the plate and a triangular view cone pointing back and down.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-alarm",
+  "category": "vehicles",
+  "draw": "Car in side view with a small padlock on the door and sound waves ringing from the roof.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "cracked-windshield",
+  "category": "vehicles",
+  "draw": "Car windshield seen from the front with a spider-web crack spreading from one impact point.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tire-stack",
+  "category": "vehicles",
+  "draw": "Pile of stacked tires seen from the side, three or four rings high like a race barrier.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bicycle-chain",
+  "category": "vehicles",
+  "draw": "Short loop of bicycle chain showing alternating inner and outer oval links.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-chainring",
+  "category": "vehicles",
+  "draw": "Front chainring seen face on: a toothed ring with a spider of five arms and a crank arm to a pedal.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "derailleur",
+  "category": "vehicles",
+  "draw": "Rear bicycle derailleur with two small jockey pulleys in a cage and the chain snaking through them.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-pedal",
+  "category": "vehicles",
+  "draw": "Flat bicycle pedal seen from above with a rectangular cage, grip pins and a spindle sticking out.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-saddle",
+  "category": "vehicles",
+  "draw": "Bicycle saddle seen from the side, long narrow pointed nose and wider rear, on a seat post.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-handlebar",
+  "category": "vehicles",
+  "draw": "Bicycle handlebars seen from the front with a stem in the middle, grips at each end and two brake levers.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bicycle-wheel",
+  "category": "vehicles",
+  "draw": "Single spoked bicycle wheel with a thin tire, many crossing spokes and a small hub.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-bell",
+  "category": "vehicles",
+  "draw": "Round bicycle bell dome on a handlebar clamp with a thumb lever and ring lines.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bicycle-pump",
+  "category": "vehicles",
+  "draw": "Floor pump standing upright with a T-handle, a pressure dial at the base and a coiled hose.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bicycle-helmet",
+  "category": "vehicles",
+  "draw": "Aerodynamic cycling helmet in side view with several long vent slots and a chin strap.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-basket",
+  "category": "vehicles",
+  "draw": "Wicker basket with a woven grid pattern mounted on the front of bicycle handlebars.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-cassette",
+  "category": "vehicles",
+  "draw": "Rear cassette seen at an angle: a cone of stacked toothed sprockets from large to small.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "inner-tube",
+  "category": "vehicles",
+  "draw": "Rubber inner tube ring lying flat with a valve stem sticking out of the inside edge.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "check-engine-light",
+  "category": "vehicles",
+  "draw": "Dashboard warning symbol: outline of an engine block with a flat top intake and pipe stubs on each side.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "oil-pressure-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of an old-fashioned oil can with a long spout and a single drop falling from the tip.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "coolant-temperature-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a thermometer standing in two wavy lines of liquid.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tire-pressure-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a tire cross-section shaped like a horseshoe with a flat treaded bottom and an exclamation mark inside.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "brake-warning-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of an exclamation mark inside a circle with curved brackets on both sides.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "high-beam-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a D-shaped lamp with straight horizontal light lines pointing forward.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "low-beam-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a D-shaped lamp with light lines angled downward.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "fog-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a D-shaped lamp with angled light lines crossed by one wavy vertical line.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "hazard-lights",
+  "category": "vehicles",
+  "draw": "Button symbol of two nested triangles, a small one inside a larger one.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "traction-control-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a car seen from behind with two wavy S-shaped skid lines beneath it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "parking-brake-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a letter P inside a circle with curved brackets on both sides.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "glow-plug-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a coiled spring wire loop, like a pig tail, for a diesel glow plug.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "washer-fluid-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a windshield outline with a fountain spray of dotted lines rising from below.",
+  "domain": "road-vehicles"
+ }
+]

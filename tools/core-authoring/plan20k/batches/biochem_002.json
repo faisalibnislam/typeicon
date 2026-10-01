@@ -1,0 +1,482 @@
+[
+ {
+  "name": "blastocyst",
+  "category": "biochem",
+  "draw": "A hollow ball ringed by a single layer of cells with a small clump of inner cells attached on one side.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "nucleosome",
+  "category": "biochem",
+  "draw": "A short DNA strand wrapped twice around a round spool-like histone core, like thread on a bobbin.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dna-base-pair",
+  "category": "biochem",
+  "draw": "Two puzzle-like interlocking blocks joined by dashed hydrogen bonds, attached to two backbone rails.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dna-transcription",
+  "category": "biochem",
+  "draw": "A DNA double helix partly unzipped with a single RNA strand peeling away from the open bubble.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "sex-chromosomes",
+  "category": "biochem",
+  "draw": "A large X-shaped chromosome beside a smaller Y-shaped chromosome.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dna-methylation",
+  "category": "biochem",
+  "draw": "A DNA helix with small round tags on short sticks attached at a few points.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dna-damage",
+  "category": "biochem",
+  "draw": "A double helix with one strand snapped, its broken ends pulled apart with a small jagged mark.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dna-repair",
+  "category": "biochem",
+  "draw": "A double helix with a small adhesive bandage patch wrapped across one section.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "supercoiled-dna",
+  "category": "biochem",
+  "draw": "A circular DNA loop twisted over itself several times into a tight figure-eight coil.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "rna-hairpin",
+  "category": "biochem",
+  "draw": "A single strand folding back on itself into a stem of paired rungs capped by a round loop.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "gene-locus",
+  "category": "biochem",
+  "draw": "A single chromosome with one highlighted band and a small pin marker pointing at it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "operon",
+  "category": "biochem",
+  "draw": "A straight DNA line with a bent promoter arrow, a small operator box and three gene blocks in a row.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dna-barcoding",
+  "category": "biochem",
+  "draw": "A short double helix whose rungs turn into a row of vertical barcode stripes at one end.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "bioinformatics",
+  "category": "biochem",
+  "draw": "A DNA double helix beside a pair of code brackets with a few lines of text between them.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "mrna-vaccine",
+  "category": "biochem",
+  "draw": "A round lipid nanoparticle cutaway with a curly RNA strand inside it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "restriction-enzyme",
+  "category": "biochem",
+  "draw": "A double helix line cut by a staggered step-shaped break, leaving two sticky-end overhangs.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "recombinant-dna",
+  "category": "biochem",
+  "draw": "A small DNA ring with an inserted shaded segment and short arrows showing the new piece joining.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "glucose-molecule",
+  "category": "biochem",
+  "draw": "A hexagon ring with one oxygen corner and short OH side sticks around it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "fructose-molecule",
+  "category": "biochem",
+  "draw": "A pentagon ring with one oxygen corner and short OH and CH2OH side sticks around it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "sucrose-molecule",
+  "category": "biochem",
+  "draw": "A hexagon ring and a pentagon ring joined by a single bent oxygen bridge.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "polysaccharide",
+  "category": "biochem",
+  "draw": "A chain of four hexagon sugar rings linked by short bridges, continuing off both ends.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "atp-molecule",
+  "category": "biochem",
+  "draw": "A small base block joined to a pentagon sugar ring and a tail of three linked phosphate circles.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "phospholipid",
+  "category": "biochem",
+  "draw": "A round head with two long wavy fatty tails hanging down, one tail with a kink.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "triglyceride",
+  "category": "biochem",
+  "draw": "A short vertical backbone with three long zigzag chains extending to the right, like the letter E.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "fatty-acid",
+  "category": "biochem",
+  "draw": "A long zigzag carbon chain with a small forked COOH group at one end.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cholesterol-molecule",
+  "category": "biochem",
+  "draw": "Four fused rings (three hexagons and one pentagon) with a short tail and a small OH on the left.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "heme-group",
+  "category": "biochem",
+  "draw": "A large square ring of four small pentagons joined around a central iron atom dot.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "chlorophyll-molecule",
+  "category": "biochem",
+  "draw": "A square ring of four pentagons around a central dot with a long wavy tail extending down.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dopamine-molecule",
+  "category": "biochem",
+  "draw": "A benzene hexagon with two OH groups on one side and a short chain ending in an NH2 group.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "serotonin-molecule",
+  "category": "biochem",
+  "draw": "A hexagon fused to a pentagon ring with an OH on one side and a short chain ending in NH2.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "insulin-molecule",
+  "category": "biochem",
+  "draw": "Two short bead chains, one above the other, linked by small S-S bridge bars.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "collagen-triple-helix",
+  "category": "biochem",
+  "draw": "Three thin strands braided tightly together into a long rope.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "vitamin-c-molecule",
+  "category": "biochem",
+  "draw": "A pentagon ring with a double bond and two OH groups, plus a short side chain with two more OH groups.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "penicillin-molecule",
+  "category": "biochem",
+  "draw": "A small square ring fused to a pentagon ring, with a side chain on the square and a COOH on the pentagon.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "hormone-receptor",
+  "category": "biochem",
+  "draw": "A cup-shaped receptor in a membrane band with a small key-shaped molecule dropping into it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "antigen",
+  "category": "biochem",
+  "draw": "A spiky round particle with a small highlighted notch and a Y-shaped antibody tip docking onto it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "ethanol-molecule",
+  "category": "biochem",
+  "draw": "Two linked carbon balls with small hydrogen balls around them and an O-H group at one end.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "ammonia-molecule",
+  "category": "biochem",
+  "draw": "A central nitrogen ball with three hydrogen balls splayed below it like a tripod.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "ozone-molecule",
+  "category": "biochem",
+  "draw": "Three oxygen balls joined in a bent V shape.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "hydrogen-peroxide-molecule",
+  "category": "biochem",
+  "draw": "Two oxygen balls joined in the middle with a hydrogen ball on each end, twisted like an open book.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "sulfuric-acid-molecule",
+  "category": "biochem",
+  "draw": "A central sulfur ball with four oxygen balls around it, two of them capped by small hydrogen balls.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "ethylene-molecule",
+  "category": "biochem",
+  "draw": "Two carbon balls joined by a double bar with two small hydrogen balls fanned on each end.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "acetic-acid-molecule",
+  "category": "biochem",
+  "draw": "A two-carbon skeleton with a doubled O on the upper right and an OH on the lower right.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "naphthalene",
+  "category": "biochem",
+  "draw": "Two hexagon rings fused side by side sharing one edge, with inner double-bond lines.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cyclopentane-ring",
+  "category": "biochem",
+  "draw": "A single pentagon ring skeletal formula with a small carbon dot at each corner.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "graphite-structure",
+  "category": "biochem",
+  "draw": "Three flat hexagon-mesh sheets stacked in parallel layers with dashed lines between them.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "ferrocene",
+  "category": "biochem",
+  "draw": "An iron atom dot sandwiched between two flat pentagon rings, one above and one below.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dendrimer",
+  "category": "biochem",
+  "draw": "A central dot with branches that fork again and again outward, like a round snowflake tree.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "rotaxane",
+  "category": "biochem",
+  "draw": "A dumbbell-shaped rod with big round stoppers at both ends and a ring threaded around its middle.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cross-linked-polymer",
+  "category": "biochem",
+  "draw": "Three parallel wavy chains joined at intervals by short vertical bridge bonds.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "tetrahedral-molecule",
+  "category": "biochem",
+  "draw": "A single central ball with four bonds pointing to the corners of a tetrahedron, one wedge and one dashed bond.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "octahedral-molecule",
+  "category": "biochem",
+  "draw": "A central ball with six bonds pointing up, down and to four corners of a square plane.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "trigonal-planar-molecule",
+  "category": "biochem",
+  "draw": "A central ball with three bonds spread evenly at 120 degrees on a flat plane.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "space-filling-model",
+  "category": "biochem",
+  "draw": "Three or four overlapping spheres fused together into one lumpy molecule shape.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dipole-molecule",
+  "category": "biochem",
+  "draw": "A bent three-ball molecule with small delta plus and delta minus marks and a crossed arrow beside it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "ion-atom",
+  "category": "biochem",
+  "draw": "A round atom with a bold plus sign on one side and a missing electron dot on its orbit.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "free-radical",
+  "category": "biochem",
+  "draw": "A small molecule of two balls with a single unpaired dot beside it and a tiny spark mark.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "polymerization",
+  "category": "biochem",
+  "draw": "Single small ring units on the left turning into a long linked chain on the right with an arrow.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "resonance-structures",
+  "category": "biochem",
+  "draw": "Two hexagon rings with their alternating double bonds swapped, joined by a double-headed arrow.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cis-trans-isomers",
+  "category": "biochem",
+  "draw": "Two double-bond molecules side by side, one with both groups on the same side and one with them on opposite sides.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "entropy",
+  "category": "biochem",
+  "draw": "A neat grid of dots on the left and the same dots scattered randomly on the right, with an arrow between.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "salt-bridge",
+  "category": "biochem",
+  "draw": "An inverted U-shaped tube joining the tops of two beakers.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "gram-stain",
+  "category": "biochem",
+  "draw": "A glass slide with small rod and round cells, some drawn solid and some drawn as outlines, and a drop above it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "coplin-jar",
+  "category": "biochem",
+  "draw": "A small upright ribbed glass jar with a lid and several microscope slides standing inside.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cell-spreader",
+  "category": "biochem",
+  "draw": "A thin rod bent into an L or hockey-stick shape, spreading liquid on an open petri dish.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "serial-dilution",
+  "category": "biochem",
+  "draw": "A row of four test tubes, each lighter than the last, with small curved arrows between them.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "colony-counter",
+  "category": "biochem",
+  "draw": "A round dish on a grid backlit pad with a magnifying lens on an arm above it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "replica-plating",
+  "category": "biochem",
+  "draw": "A round velvet-covered block stamp pressed down onto a petri dish with colony dots.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "pipette-controller",
+  "category": "biochem",
+  "draw": "A pistol-grip pipette gun with a long thin graduated pipette fitted at the front.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cell-scraper",
+  "category": "biochem",
+  "draw": "A long handle ending in a small angled flat blade, like a tiny squeegee.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dounce-homogenizer",
+  "category": "biochem",
+  "draw": "A tall narrow glass tube with a round-ended glass pestle plunged inside it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "cell-strainer",
+  "category": "biochem",
+  "draw": "A small mesh cup sitting on top of the opening of a conical tube.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "syringe-filter",
+  "category": "biochem",
+  "draw": "A small round disc filter fitted on the tip of a syringe, with a drop falling below.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "heat-block",
+  "category": "biochem",
+  "draw": "A flat metal block with rows of holes holding small tubes, with a temperature display on the front.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "flow-cytometry",
+  "category": "biochem",
+  "draw": "A thin stream with single round cells passing in a line through a laser beam, with a small detector beside it.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "nanopore-sequencing",
+  "category": "biochem",
+  "draw": "A single DNA strand threading through a small pore in a membrane band, with a signal line below.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "dna-sequencing-trace",
+  "category": "biochem",
+  "draw": "A row of overlapping sharp peaks with small letters A, C, G, T printed above them.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "elisa-well",
+  "category": "biochem",
+  "draw": "A single well cutaway with antibodies stuck to the bottom, a captured antigen and a glowing tag on top.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "pcr-tube-strip",
+  "category": "biochem",
+  "draw": "A row of eight small conical tubes joined in a strip with connected hinged caps.",
+  "domain": "r3-microbiology-chemistry"
+ },
+ {
+  "name": "spin-column",
+  "category": "biochem",
+  "draw": "A small column with a filter disc inserted inside a larger microtube, with a curved spin arrow.",
+  "domain": "r3-microbiology-chemistry"
+ }
+]

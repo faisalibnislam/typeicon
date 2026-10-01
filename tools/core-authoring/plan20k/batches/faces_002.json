@@ -1,0 +1,182 @@
+[
+ {
+  "name": "volto-mask",
+  "category": "faces",
+  "draw": "Full face white mask with smooth cheeks, a straight nose, closed lips and ribbon ties at the sides.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "bauta-mask",
+  "category": "faces",
+  "draw": "Full face mask with a jutting square chin, a prominent nose and no mouth opening, under a tricorn hat.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "vejigante-mask",
+  "category": "faces",
+  "draw": "Mask with many cone shaped horns sprouting all around the head and a wide toothy mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "krampus-mask",
+  "category": "faces",
+  "draw": "Carved mask with long twisted goat horns, shaggy fur around the face and a long hanging tongue.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "pierrot-face",
+  "category": "faces",
+  "draw": "White round face with a black teardrop under one eye, a small skullcap and a ruffled collar below.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "ogre-face",
+  "category": "faces",
+  "draw": "Broad face with small ears, a heavy brow, a wide flat nose and two tusks rising from the lower lip.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "shoulder-angel-devil",
+  "category": "faces",
+  "draw": "Head and shoulders in front view with a tiny haloed angel on one shoulder and a tiny horned devil on the other.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "thumbing-nose-face",
+  "category": "faces",
+  "draw": "Face with a thumb pressed on the nose and fingers spread wide, tongue sticking out.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "pulling-eyelid-face",
+  "category": "faces",
+  "draw": "Face pulling down one lower eyelid with a fingertip while sticking out the tongue.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "hand-on-heart-face",
+  "category": "faces",
+  "draw": "Face with closed eyes and a soft smile, one hand pressed on the chest over a small heart.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "eyes-in-the-dark",
+  "category": "faces",
+  "draw": "Dark solid rounded shape with two glowing almond shaped eyes staring out of it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "kilroy-was-here",
+  "category": "faces",
+  "draw": "Bald head with a long nose drooping over a wall edge, two eyes peeking and fingers gripping the wall.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "face-without-mouth",
+  "category": "faces",
+  "draw": "Round face with two dot eyes and no mouth at all.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "distorted-face",
+  "category": "faces",
+  "draw": "Face whose outline and features are warped into wavy lines, with mismatched eyes and a skewed mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "side-eye-face",
+  "category": "faces",
+  "draw": "Face with both pupils shifted hard to one side, one raised brow and a flat mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "disgusted-face",
+  "category": "faces",
+  "draw": "Face with a wrinkled nose, squinting eyes and the tongue pushed out of a downturned mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "weary-face",
+  "category": "faces",
+  "draw": "Face with eyes squeezed shut in arcs, brows tilted up and a wide open wailing mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "proud-face",
+  "category": "faces",
+  "draw": "Face tilted up with the chin raised, closed eyes, a satisfied smile and a small sparkle beside it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "facial-landmarks",
+  "category": "faces",
+  "draw": "Face outline with small dots marking the eyes, brows, nose, mouth and jawline, joined by thin lines.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "emotion-recognition",
+  "category": "faces",
+  "draw": "Face inside four corner scan brackets with a small smile and a small frown icon beside it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "face-swap",
+  "category": "faces",
+  "draw": "Two small round faces side by side with two curved swap arrows arcing between them.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "moai-head",
+  "category": "faces",
+  "draw": "Tall stone head from the front with a long nose, heavy brow ridge, long ears and a jutting chin.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "olmec-head",
+  "category": "faces",
+  "draw": "Colossal round stone head wearing a fitted helmet cap, with full lips and a broad flat nose.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "stress-ball",
+  "category": "faces",
+  "draw": "Round squishy ball with a simple face squeezed in a hand so it bulges out between the fingers.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "hangover-face",
+  "category": "faces",
+  "draw": "Face with droopy half closed eyes, a wavy mouth and an ice pack resting on top of the head.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "brain-freeze-face",
+  "category": "faces",
+  "draw": "Face grimacing with eyes squeezed shut, one hand on the forehead and an ice cream cone in the other.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "bed-head-face",
+  "category": "faces",
+  "draw": "Sleepy face with one eye half open, a yawning mouth and messy hair sticking up in tufts.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "twitching-eye-face",
+  "category": "faces",
+  "draw": "Face with a tense forced smile and one eye twitching, marked by short zigzag lines beside it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "mad-scientist-face",
+  "category": "faces",
+  "draw": "Face with wild frizzy hair sticking out, goggles pushed up on the forehead and a manic grin.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "punk-face",
+  "category": "faces",
+  "draw": "Face with a tall spiked mohawk down the middle of the head, a safety pin earring and a sneer.",
+  "domain": "r2-emotions-expressions"
+ }
+]

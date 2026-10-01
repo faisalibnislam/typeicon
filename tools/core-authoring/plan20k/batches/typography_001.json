@@ -1,0 +1,482 @@
+[
+ {
+  "name": "double-underline",
+  "category": "typography",
+  "draw": "Capital letter A with two parallel horizontal lines beneath it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dotted-underline",
+  "category": "typography",
+  "draw": "Capital letter A with a row of evenly spaced dots running beneath it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dashed-underline",
+  "category": "typography",
+  "draw": "Capital letter A with a short dashed line beneath it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "overline",
+  "category": "typography",
+  "draw": "Capital letter A with a single horizontal bar drawn above its apex.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "double-strikethrough",
+  "category": "typography",
+  "draw": "Capital letter S crossed by two close parallel horizontal lines through its middle.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "bold-italic",
+  "category": "typography",
+  "draw": "Heavy slanted capital B with thick strokes leaning to the right.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "embossed-text",
+  "category": "typography",
+  "draw": "Capital letter A with a thin offset highlight edge on one side and a shadow edge on the other, as if raised.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "glowing-text",
+  "category": "typography",
+  "draw": "Capital letter A surrounded by short radiating rays like a glow.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "gradient-text",
+  "category": "typography",
+  "draw": "Bold capital A whose fill fades from solid to diagonal hatching across the letter.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "extruded-text",
+  "category": "typography",
+  "draw": "Capital letter A with parallel depth lines extending back from each corner into a 3D block letter.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "reflected-text",
+  "category": "typography",
+  "draw": "Capital letter A standing on a line with a fainter dashed upside down copy beneath it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "knockout-text",
+  "category": "typography",
+  "draw": "Solid filled rectangle with a capital letter A cut out of it as empty space.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "warped-text",
+  "category": "typography",
+  "draw": "Row of three letters bulging along an arched envelope with curved top and bottom guide lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "sketched-text",
+  "category": "typography",
+  "draw": "Capital letter A drawn with loose double strokes and small overshooting ends like a pencil sketch.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "distressed-text",
+  "category": "typography",
+  "draw": "Bold capital A with small irregular gaps and specks worn out of its strokes.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "glitch-text",
+  "category": "typography",
+  "draw": "Capital letter A sliced into three horizontal bands, the middle band shifted sideways.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "perspective-text",
+  "category": "typography",
+  "draw": "Three text lines narrowing toward the top as they recede into the distance.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "camel-case",
+  "category": "typography",
+  "draw": "The letters aBc with a raised capital in the middle and a small hump arc above it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "snake-case",
+  "category": "typography",
+  "draw": "Two lowercase letters joined by an underscore bar at the baseline, as a_b.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "kebab-case",
+  "category": "typography",
+  "draw": "Two lowercase letters joined by a short mid height hyphen, as a-b.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "raised-initial",
+  "category": "typography",
+  "draw": "Large capital A sitting on the first line of text and rising well above the text block.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "text-expansion",
+  "category": "typography",
+  "draw": "Short abbreviation of two letters on the left with an arrow leading to a longer line of text.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "paraphrase",
+  "category": "typography",
+  "draw": "Two text lines with a circular pair of arrows between them showing a rewrite.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "expand-text",
+  "category": "typography",
+  "draw": "One short text line opening through outward arrows into three longer lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "writers-block",
+  "category": "typography",
+  "draw": "Pen nib pressed against a small brick wall.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "pen-name",
+  "category": "typography",
+  "draw": "Quill pen crossed in front of a simple eye mask.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "style-manual",
+  "category": "typography",
+  "draw": "Closed book with a large Aa on the cover and a bookmark ribbon.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "variable-font",
+  "category": "typography",
+  "draw": "Capital A above a horizontal slider track with a round knob.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "font-width",
+  "category": "typography",
+  "draw": "Capital A flanked by two horizontal arrows pointing outward from its sides.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "optical-size",
+  "category": "typography",
+  "draw": "Small bold A next to a large thin A standing on the same baseline.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "font-interpolation",
+  "category": "typography",
+  "draw": "Thin A and heavy A at the ends of a line with a medium A in the middle.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "pixel-font",
+  "category": "typography",
+  "draw": "Capital A built from square pixel blocks on a stepped grid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "geometric-sans-font",
+  "category": "typography",
+  "draw": "Lowercase a formed by a perfect circle with a straight vertical stem beside it.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "handwritten-font",
+  "category": "typography",
+  "draw": "Loose handwritten Aa with an uneven baseline and a pen nib tip at its end.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "dingbat-font",
+  "category": "typography",
+  "draw": "Grid of four small symbols: a star, a pointing hand, a check and a pair of scissors.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "icon-font",
+  "category": "typography",
+  "draw": "Tall glyph cell with baseline guides containing a small house symbol instead of a letter.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "font-fallback",
+  "category": "typography",
+  "draw": "Dashed outline letter A with an arrow pointing to a solid letter A.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "embedded-font",
+  "category": "typography",
+  "draw": "Document page with a capital A set inside a small square on the sheet.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "missing-glyph",
+  "category": "typography",
+  "draw": "Tall empty rectangle with an X crossing it, the placeholder box for a character not in the font.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "font-hinting",
+  "category": "typography",
+  "draw": "Capital A outline laid over a coarse pixel grid with a few squares filled along its strokes.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "hand-lettering",
+  "category": "typography",
+  "draw": "Brush pen drawing a thick to thin swooping letter stroke.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "swash-letter",
+  "category": "typography",
+  "draw": "Capital A whose right leg extends into a long curling flourish beneath the baseline.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "stylistic-alternates",
+  "category": "typography",
+  "draw": "Double story lowercase a and single story lowercase a side by side with a swap arrow between.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "old-style-figures",
+  "category": "typography",
+  "draw": "Digits 1 2 3 4 with the 3 and 4 dropping below the baseline line.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "tabular-figures",
+  "category": "typography",
+  "draw": "Two rows of digits aligned in equal width columns inside a grid of cells.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "slashed-zero",
+  "category": "typography",
+  "draw": "Tall oval zero with a diagonal slash crossing its center.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "discretionary-ligature",
+  "category": "typography",
+  "draw": "Two letters s and t joined at the top by a curved connecting arc.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "full-width-character",
+  "category": "typography",
+  "draw": "Narrow letter A beside a wide letter A that fills a square cell.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-ascender",
+  "category": "typography",
+  "draw": "Lowercase h on a baseline with its stem part above the x height line drawn solid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-descender",
+  "category": "typography",
+  "draw": "Lowercase p with its stem extending below the baseline guide drawn solid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "cap-height",
+  "category": "typography",
+  "draw": "Capital H between a baseline and a top guide line with a vertical dimension arrow at its side.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "tittle",
+  "category": "typography",
+  "draw": "Lowercase i with its dot circled by a small ring.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-crossbar",
+  "category": "typography",
+  "draw": "Capital A outline with only its horizontal crossbar drawn in solid weight.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-apex",
+  "category": "typography",
+  "draw": "Capital A with a small circle marking the pointed top where its strokes meet.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-vertex",
+  "category": "typography",
+  "draw": "Capital V with a small circle marking the pointed bottom where its strokes meet.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-bowl",
+  "category": "typography",
+  "draw": "Lowercase b with its rounded bowl drawn solid and the stem as a thin outline.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-counter",
+  "category": "typography",
+  "draw": "Capital O outline with the enclosed inner space filled solid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-ear",
+  "category": "typography",
+  "draw": "Double story lowercase g with the small flag at its upper right circled.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-spine",
+  "category": "typography",
+  "draw": "Capital S with its central diagonal curve drawn solid and the ends as thin outline.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-tail",
+  "category": "typography",
+  "draw": "Capital Q with the short tail stroke crossing its bottom drawn solid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-terminal",
+  "category": "typography",
+  "draw": "Double story lowercase a with the ball shaped end of its top stroke circled.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-spur",
+  "category": "typography",
+  "draw": "Capital G with the small projection at its lower right circled.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-stem",
+  "category": "typography",
+  "draw": "Lowercase l with its main vertical stroke drawn solid between two guide lines.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-shoulder",
+  "category": "typography",
+  "draw": "Lowercase n with its arched curve from the stem drawn solid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-arm",
+  "category": "typography",
+  "draw": "Capital E with its top horizontal stroke drawn solid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-leg",
+  "category": "typography",
+  "draw": "Capital R with its diagonal lower stroke drawn solid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-loop",
+  "category": "typography",
+  "draw": "Double story lowercase g with its lower closed loop below the baseline drawn solid.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "letter-overshoot",
+  "category": "typography",
+  "draw": "Letter O dipping slightly below the baseline and above the cap line beside a flat H.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "stroke-contrast",
+  "category": "typography",
+  "draw": "Letter O with thick sides and thin top and bottom, small arrows pointing at the thick and thin parts.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "stress-axis",
+  "category": "typography",
+  "draw": "Letter O with uneven stroke weight and a tilted dashed line through its thinnest points.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "ink-trap",
+  "category": "typography",
+  "draw": "Junction of two strokes with a small notch cut into the inside corner.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "em-square",
+  "category": "typography",
+  "draw": "Square frame containing a letter A with dashed guide lines at its baseline and cap height.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "advance-width",
+  "category": "typography",
+  "draw": "Letter n inside a rectangle with a dimension arrow spanning the full width below.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "vertical-metrics",
+  "category": "typography",
+  "draw": "Word Hxp crossed by four horizontal guide lines for cap height, x height, baseline and descender.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "word-spacing",
+  "category": "typography",
+  "draw": "Two short word blocks on a line with a two headed arrow in the gap between them.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "baseline-shift",
+  "category": "typography",
+  "draw": "Capital A beside a smaller raised a with a short up arrow and a dashed baseline.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "hanging-punctuation",
+  "category": "typography",
+  "draw": "Left aligned text lines with an opening quotation mark sitting outside the left edge.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "first-line-indent",
+  "category": "typography",
+  "draw": "Paragraph lines with the first line starting further in, marked by a small arrow.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "hanging-indent",
+  "category": "typography",
+  "draw": "Paragraph with the first line flush to the edge and the lines below it indented.",
+  "domain": "r2-text-editing-typography"
+ },
+ {
+  "name": "non-breaking-space",
+  "category": "typography",
+  "draw": "Two letters joined by a small upturned arc bridging the space between them.",
+  "domain": "r2-text-editing-typography"
+ }
+]

@@ -1,0 +1,1782 @@
+[
+  {
+    "name": "french-door-fridge",
+    "category": "appliances",
+    "draw": "Tall front view fridge with two narrow side by side upper doors meeting in the middle and one wide pull out freezer drawer below."
+  },
+  {
+    "name": "side-by-side-fridge",
+    "category": "appliances",
+    "draw": "Tall front view fridge split vertically into two full height doors, the left slightly narrower, with two long vertical handles."
+  },
+  {
+    "name": "mini-fridge",
+    "category": "appliances",
+    "draw": "Small squat cube fridge with a single door, short handle and a tiny freezer compartment line near the top."
+  },
+  {
+    "name": "chest-freezer",
+    "category": "appliances",
+    "draw": "Wide low horizontal box seen from the front at a slight angle, hinged lid on top with a handle across the front edge."
+  },
+  {
+    "name": "wine-fridge",
+    "category": "appliances",
+    "draw": "Narrow front view cabinet with a glass door showing three rows of bottle ends lying on horizontal racks."
+  },
+  {
+    "name": "kegerator",
+    "category": "appliances",
+    "draw": "Short fridge cabinet with a tap tower on top ending in a tap handle and spout."
+  },
+  {
+    "name": "ice-maker",
+    "category": "appliances",
+    "draw": "Countertop box with a lift lid and a front window showing a pile of small ice cubes, a scoop beside it."
+  },
+  {
+    "name": "water-cooler",
+    "category": "appliances",
+    "draw": "Floor standing dispenser column with an upside down water bottle on top and two small taps on the front."
+  },
+  {
+    "name": "range-hood",
+    "category": "appliances",
+    "draw": "Chimney style kitchen extractor: a narrow vertical duct widening into a trapezoid canopy with a light strip underneath."
+  },
+  {
+    "name": "induction-hob",
+    "category": "appliances",
+    "draw": "Top view flat square glass cooktop with four plain ring outlines and a row of small touch dots along the front edge."
+  },
+  {
+    "name": "gas-hob",
+    "category": "appliances",
+    "draw": "Top view square cooktop with four round burners each topped by cross shaped pan supports and control knobs along the front."
+  },
+  {
+    "name": "range-cooker",
+    "category": "appliances",
+    "draw": "Wide freestanding cooker: a row of knobs over two side by side oven doors with windows, burners on top."
+  },
+  {
+    "name": "wall-oven",
+    "category": "appliances",
+    "draw": "Built in oven in a cabinet frame: control panel strip at top, a large door with window and a horizontal handle."
+  },
+  {
+    "name": "double-oven",
+    "category": "appliances",
+    "draw": "Built in unit with two stacked oven doors, each with a window and a bar handle, a thin control strip between."
+  },
+  {
+    "name": "trash-compactor",
+    "category": "appliances",
+    "draw": "Narrow under counter cabinet with a pull out drawer, a downward pressing plate line and a key switch on top."
+  },
+  {
+    "name": "garbage-disposal",
+    "category": "appliances",
+    "draw": "Cylindrical unit hanging under a sink drain flange, with a side outlet pipe and a small reset button at the base."
+  },
+  {
+    "name": "stand-mixer",
+    "category": "appliances",
+    "draw": "Side view countertop mixer with a curved tilting head arm over a round bowl and a beater hanging into it."
+  },
+  {
+    "name": "hand-mixer",
+    "category": "appliances",
+    "draw": "Side view handheld mixer body with a looped handle on top and two whisk beaters pointing down."
+  },
+  {
+    "name": "immersion-blender",
+    "category": "appliances",
+    "draw": "Vertical stick blender: long wand with a rounded button top and a bell shaped blade guard at the bottom."
+  },
+  {
+    "name": "food-processor",
+    "category": "appliances",
+    "draw": "Squat motor base with a wide clear bowl on top, a lid and a tall feed tube with a pusher."
+  },
+  {
+    "name": "juicer",
+    "category": "appliances",
+    "draw": "Centrifugal juicer: round base with a domed top, a vertical feed chute and a spout pouring into a small jug."
+  },
+  {
+    "name": "citrus-juicer",
+    "category": "appliances",
+    "draw": "Low round base with a ridged cone reamer on top and a small spout at the side."
+  },
+  {
+    "name": "slow-cooker",
+    "category": "appliances",
+    "draw": "Oval pot with a domed glass lid and knob, two side handles and a dial on the front of the base."
+  },
+  {
+    "name": "pressure-cooker",
+    "category": "appliances",
+    "draw": "Round pot with a locking lid, a long handle to the side and a small pressure valve with a gauge on top."
+  },
+  {
+    "name": "multicooker",
+    "category": "appliances",
+    "draw": "Rounded electric pot with a hinged lid, a steam vent knob on top and a small digital display on the front."
+  },
+  {
+    "name": "rice-cooker",
+    "category": "appliances",
+    "draw": "Squat rounded cooker with a domed hinged lid, a steam vent on top and a single lever switch on the front."
+  },
+  {
+    "name": "air-fryer",
+    "category": "appliances",
+    "draw": "Rounded tall appliance with a pull out basket drawer at the bottom front, a handle and a dial on top."
+  },
+  {
+    "name": "deep-fryer",
+    "category": "appliances",
+    "draw": "Rectangular fryer with a lid window, a frying basket handle sticking out the front and a thermostat dial."
+  },
+  {
+    "name": "sandwich-maker",
+    "category": "appliances",
+    "draw": "Closed hinged press seen at an angle, top plate showing two triangular sandwich outlines and a clip handle."
+  },
+  {
+    "name": "waffle-iron",
+    "category": "appliances",
+    "draw": "Round hinged iron opened at an angle showing a grid of square pockets on the lower plate."
+  },
+  {
+    "name": "toaster-oven",
+    "category": "appliances",
+    "draw": "Wide low box with a glass door showing a rack inside and two stacked dials on the right side panel."
+  },
+  {
+    "name": "bread-maker",
+    "category": "appliances",
+    "draw": "Upright box with a hinged top lid containing a small viewing window and a control panel on the front."
+  },
+  {
+    "name": "egg-cooker",
+    "category": "appliances",
+    "draw": "Round base with a clear domed lid over a tray holding three egg tops poking through holes."
+  },
+  {
+    "name": "coffee-maker",
+    "category": "appliances",
+    "draw": "Drip coffee machine: tall back tower with a water tank, an overhanging filter head and a glass carafe on the warming plate."
+  },
+  {
+    "name": "espresso-machine",
+    "category": "appliances",
+    "draw": "Boxy machine with a portafilter handle sticking out the front, a steam wand at the side and a small cup below."
+  },
+  {
+    "name": "coffee-grinder",
+    "category": "appliances",
+    "draw": "Burr grinder with a bean hopper cone on top, a boxy body and a small grounds container at the bottom."
+  },
+  {
+    "name": "pod-coffee-machine",
+    "category": "appliances",
+    "draw": "Slim machine with a lift lever on top for a capsule, a dispensing nozzle and a mug on a drip tray."
+  },
+  {
+    "name": "milk-frother",
+    "category": "appliances",
+    "draw": "Small jug with a lid and handle sitting on a round base, one button on the base front."
+  },
+  {
+    "name": "moka-pot",
+    "category": "appliances",
+    "draw": "Stovetop coffee maker with an octagonal hourglass body, a hinged pointed lid and an angled handle."
+  },
+  {
+    "name": "percolator",
+    "category": "appliances",
+    "draw": "Tall tapered coffee pot with a long spout, side handle and a small clear dome knob on the lid."
+  },
+  {
+    "name": "gooseneck-kettle",
+    "category": "appliances",
+    "draw": "Kettle with a slim S curved gooseneck spout rising from the base and an arched handle."
+  },
+  {
+    "name": "coffee-urn",
+    "category": "appliances",
+    "draw": "Large cylindrical urn with a lid knob, two side handles and a small tap near the bottom front."
+  },
+  {
+    "name": "samovar",
+    "category": "appliances",
+    "draw": "Ornate tall urn on a footed base, a tap on the front and a small teapot perched on the crown."
+  },
+  {
+    "name": "electric-griddle",
+    "category": "appliances",
+    "draw": "Flat rectangular cooking plate with a raised rim, a grease channel on one side and a plug in thermostat probe."
+  },
+  {
+    "name": "hot-plate",
+    "category": "appliances",
+    "draw": "Low boxy base with one round spiral heating element on top and a single knob on the front."
+  },
+  {
+    "name": "portable-gas-stove",
+    "category": "appliances",
+    "draw": "Flat briefcase shaped camping stove with one burner ring on top and a knob with a cartridge door at the side."
+  },
+  {
+    "name": "pizza-oven",
+    "category": "appliances",
+    "draw": "Dome shaped oven with an arched mouth opening at the front and a small chimney on top."
+  },
+  {
+    "name": "bbq-smoker",
+    "category": "appliances",
+    "draw": "Horizontal barrel smoker on legs with a smaller firebox to one side and a tall chimney stack."
+  },
+  {
+    "name": "popcorn-machine",
+    "category": "appliances",
+    "draw": "Cart style box with glass walls, a kettle hanging inside the roof and popcorn filling the bottom."
+  },
+  {
+    "name": "cotton-candy-machine",
+    "category": "appliances",
+    "draw": "Wide round bowl on a base with a fluffy cloud of candy floss on a stick rising out of it."
+  },
+  {
+    "name": "ice-cream-maker",
+    "category": "appliances",
+    "draw": "Squat round machine with a motor dome bridging the top of a bowl, a paddle visible inside."
+  },
+  {
+    "name": "chocolate-fountain",
+    "category": "appliances",
+    "draw": "Tiered fountain: a central column with three stacked round tiers dripping down to a base bowl."
+  },
+  {
+    "name": "food-dehydrator",
+    "category": "appliances",
+    "draw": "Round stack of four ventilated trays with a fan cap on top."
+  },
+  {
+    "name": "sous-vide-cooker",
+    "category": "appliances",
+    "draw": "Slim stick circulator clipped to the side of a water pot, a small display on its top."
+  },
+  {
+    "name": "vacuum-sealer",
+    "category": "appliances",
+    "draw": "Long low flat machine with a hinged lid and a sealed bag sticking out of the front slot."
+  },
+  {
+    "name": "soda-maker",
+    "category": "appliances",
+    "draw": "Tall narrow machine with a bottle screwed in at the front and a big push button on top."
+  },
+  {
+    "name": "water-filter-pitcher",
+    "category": "appliances",
+    "draw": "Jug with a flip lid and a filter cartridge visible inside the upper reservoir."
+  },
+  {
+    "name": "meat-grinder",
+    "category": "appliances",
+    "draw": "Side view mincer with a hopper tray on top, a horizontal barrel and minced strands coming out of the round plate."
+  },
+  {
+    "name": "pasta-maker",
+    "category": "appliances",
+    "draw": "Clamp mounted pasta roller: boxy frame with two rollers, a crank handle at the side and a sheet of dough coming out."
+  },
+  {
+    "name": "electric-can-opener",
+    "category": "appliances",
+    "draw": "Upright countertop unit with a lever arm on the front clamping a can hanging below."
+  },
+  {
+    "name": "kitchen-scale",
+    "category": "appliances",
+    "draw": "Flat digital scale with a small display on the front and a round bowl on the platform."
+  },
+  {
+    "name": "food-steamer",
+    "category": "appliances",
+    "draw": "Stack of three clear baskets with a domed lid on a round water base."
+  },
+  {
+    "name": "fondue-pot",
+    "category": "appliances",
+    "draw": "Round pot on a small stand with a burner under it and two long forks poking out of the top."
+  },
+  {
+    "name": "crepe-maker",
+    "category": "appliances",
+    "draw": "Large round flat hot plate on a low base with a small wooden spreader tool on top."
+  },
+  {
+    "name": "bottle-warmer",
+    "category": "appliances",
+    "draw": "Small cup shaped heater holding a baby bottle with a teat, one dial on the base."
+  },
+  {
+    "name": "personal-blender",
+    "category": "appliances",
+    "draw": "Upside down blending bottle with a blade cap locked onto a short motor base."
+  },
+  {
+    "name": "hot-water-dispenser",
+    "category": "appliances",
+    "draw": "Tall rounded thermo pot with a large push button pump on top and a spout at the front."
+  },
+  {
+    "name": "kitchen-timer",
+    "category": "appliances",
+    "draw": "Round twist dial timer with minute marks and a small pointer on top."
+  },
+  {
+    "name": "top-load-washer",
+    "category": "appliances",
+    "draw": "Washing machine with the lid raised on top, a control panel at the back and a drum opening visible."
+  },
+  {
+    "name": "washer-dryer-stack",
+    "category": "appliances",
+    "draw": "Two stacked square machines, each with a round door, a thin control strip on each."
+  },
+  {
+    "name": "ironing-board",
+    "category": "appliances",
+    "draw": "Side view long board with a rounded pointed end on scissor crossed legs."
+  },
+  {
+    "name": "garment-steamer",
+    "category": "appliances",
+    "draw": "Tall pole with a steam head and hose connected to a floor water tank base."
+  },
+  {
+    "name": "trouser-press",
+    "category": "appliances",
+    "draw": "Tall slim wall standing panel with a hinged front door and a pair of trousers outline inside."
+  },
+  {
+    "name": "drying-rack",
+    "category": "appliances",
+    "draw": "Folding clothes airer: a frame of parallel horizontal bars on A shaped legs with a hanging towel."
+  },
+  {
+    "name": "fabric-shaver",
+    "category": "appliances",
+    "draw": "Handheld lint remover with a round mesh head, a small lint chamber and a grip body."
+  },
+  {
+    "name": "robot-vacuum",
+    "category": "appliances",
+    "draw": "Top view round disc robot with a front bumper arc, a central button and a small side brush."
+  },
+  {
+    "name": "stick-vacuum",
+    "category": "appliances",
+    "draw": "Tall slim vacuum: long wand with a handle and small motor body at the top and a floor head at the bottom."
+  },
+  {
+    "name": "handheld-vacuum",
+    "category": "appliances",
+    "draw": "Compact side view vacuum with a pistol grip, a cylindrical dust bin and a narrow nozzle."
+  },
+  {
+    "name": "upright-vacuum",
+    "category": "appliances",
+    "draw": "Upright cleaner with a tall body, a top handle, a bag or bin on the front and a wide floor head."
+  },
+  {
+    "name": "wet-dry-vacuum",
+    "category": "appliances",
+    "draw": "Drum shaped shop vacuum on castors with a motor head lid and a curled hose."
+  },
+  {
+    "name": "steam-mop",
+    "category": "appliances",
+    "draw": "Tall pole mop with a slim body holding a water tank and a flat triangular pad head."
+  },
+  {
+    "name": "carpet-cleaner",
+    "category": "appliances",
+    "draw": "Upright machine with two stacked tanks on the front and a wide brush head at the bottom."
+  },
+  {
+    "name": "floor-polisher",
+    "category": "appliances",
+    "draw": "Round disc floor machine with a long upright handle bar and a looped grip."
+  },
+  {
+    "name": "window-vacuum",
+    "category": "appliances",
+    "draw": "Handheld squeegee vacuum with a wide rubber blade head and a small tank under the handle."
+  },
+  {
+    "name": "pressure-washer",
+    "category": "appliances",
+    "draw": "Wheeled box unit with a hose leading to a spray lance with a trigger gun and a spray fan."
+  },
+  {
+    "name": "portable-air-conditioner",
+    "category": "appliances",
+    "draw": "Tall rectangular floor unit on castors with a top louvre vent and a wide exhaust hose from the back."
+  },
+  {
+    "name": "window-air-conditioner",
+    "category": "appliances",
+    "draw": "Box unit sitting in a window frame, front grille of horizontal louvres and two small knobs."
+  },
+  {
+    "name": "mini-split",
+    "category": "appliances",
+    "draw": "Wall mounted long rounded indoor AC unit with a bottom louvre flap and three air flow lines below."
+  },
+  {
+    "name": "heat-pump",
+    "category": "appliances",
+    "draw": "Outdoor box unit with a big round fan grille on the front, pipes out the side and small heat waves above."
+  },
+  {
+    "name": "evaporative-cooler",
+    "category": "appliances",
+    "draw": "Tall cooler with a front grille, a water tank window at the bottom and small water drops on the side."
+  },
+  {
+    "name": "dehumidifier",
+    "category": "appliances",
+    "draw": "Upright box with a top vent grille, a water drop on the front and a pull out tank at the bottom."
+  },
+  {
+    "name": "humidifier",
+    "category": "appliances",
+    "draw": "Rounded teardrop shaped body with mist curls rising from a nozzle on top."
+  },
+  {
+    "name": "air-purifier",
+    "category": "appliances",
+    "draw": "Tall rounded rectangle with a circular vent pattern of dots on the front and air lines coming out the top."
+  },
+  {
+    "name": "aroma-diffuser",
+    "category": "appliances",
+    "draw": "Small cone shaped diffuser with a wood grain base line and a wisp of mist rising from the top hole."
+  },
+  {
+    "name": "tower-fan",
+    "category": "appliances",
+    "draw": "Tall slim column fan with a vertical grille slot down the front and a round base."
+  },
+  {
+    "name": "pedestal-fan",
+    "category": "appliances",
+    "draw": "Round fan head with a grille and blades on a tall pole stand with a round base."
+  },
+  {
+    "name": "desk-fan",
+    "category": "appliances",
+    "draw": "Small round fan head on a short tilting neck and flat base."
+  },
+  {
+    "name": "box-fan",
+    "category": "appliances",
+    "draw": "Square framed fan with a round blade grille inside and a carry handle on top."
+  },
+  {
+    "name": "bladeless-fan",
+    "category": "appliances",
+    "draw": "Tall oval loop ring standing on a cylindrical base with no blades."
+  },
+  {
+    "name": "exhaust-fan",
+    "category": "appliances",
+    "draw": "Square wall or window extractor with a frame and a circle of angled louvres or blades inside."
+  },
+  {
+    "name": "handheld-fan",
+    "category": "appliances",
+    "draw": "Small battery fan with a round blade grille on top of a vertical handle."
+  },
+  {
+    "name": "fan-heater",
+    "category": "appliances",
+    "draw": "Compact box heater with a front grille, a small fan behind it and wavy heat lines coming out."
+  },
+  {
+    "name": "oil-filled-radiator",
+    "category": "appliances",
+    "draw": "Portable heater of vertical fin columns standing on castor feet with a dial on the end."
+  },
+  {
+    "name": "infrared-heater",
+    "category": "appliances",
+    "draw": "Flat rectangular wall panel heater with a plain face and rippling heat waves coming off the front."
+  },
+  {
+    "name": "patio-heater",
+    "category": "appliances",
+    "draw": "Tall pole standing heater with a wide round reflector hood on top and a cylindrical gas base."
+  },
+  {
+    "name": "wood-stove",
+    "category": "appliances",
+    "draw": "Box shaped stove on short legs with a glass door showing flames and a stovepipe rising up."
+  },
+  {
+    "name": "storage-heater",
+    "category": "appliances",
+    "draw": "Low wide rectangular heater box with a grille along the top edge and two dials on the side."
+  },
+  {
+    "name": "kerosene-heater",
+    "category": "appliances",
+    "draw": "Round cylindrical heater with a grille cage around a glowing wick window and a carry handle."
+  },
+  {
+    "name": "heated-towel-rail",
+    "category": "appliances",
+    "draw": "Ladder style wall radiator of horizontal chrome bars with a towel draped over it."
+  },
+  {
+    "name": "underfloor-heating",
+    "category": "appliances",
+    "draw": "Floor tile line with a serpentine heating pipe loop beneath it and heat waves rising."
+  },
+  {
+    "name": "electric-blanket",
+    "category": "appliances",
+    "draw": "Blanket spread over a bed outline with a zigzag heating wire pattern and a controller on a cord."
+  },
+  {
+    "name": "hot-water-bottle",
+    "category": "appliances",
+    "draw": "Flat rubber bottle with a rounded body, a narrow neck and a screw stopper, ribbed lines on the surface."
+  },
+  {
+    "name": "furnace",
+    "category": "appliances",
+    "draw": "Tall cabinet with front panels, a small flame window at the bottom and a duct rising from the top."
+  },
+  {
+    "name": "boiler",
+    "category": "appliances",
+    "draw": "Wall mounted boiler box with a small display and dial on the front and pipes running out underneath."
+  },
+  {
+    "name": "air-vent",
+    "category": "appliances",
+    "draw": "Wall or floor register: a rectangle filled with parallel slanted louvres and a small screw at each end."
+  },
+  {
+    "name": "air-filter",
+    "category": "appliances",
+    "draw": "Rectangular pleated HVAC filter panel shown at an angle with zigzag pleat lines."
+  },
+  {
+    "name": "hvac-duct",
+    "category": "appliances",
+    "draw": "Rectangular metal duct run with a right angle elbow bend and joint seam lines."
+  },
+  {
+    "name": "radiator-valve",
+    "category": "appliances",
+    "draw": "Thermostatic valve: a ribbed round numbered head on a short body with a pipe in and out."
+  },
+  {
+    "name": "water-heater",
+    "category": "appliances",
+    "draw": "Tall cylindrical tank with a small control box near the bottom and two pipes out of the top."
+  },
+  {
+    "name": "tankless-water-heater",
+    "category": "appliances",
+    "draw": "Slim wall box with a small display on the front, pipes below and a flame symbol."
+  },
+  {
+    "name": "solar-water-heater",
+    "category": "appliances",
+    "draw": "Rooftop unit: a slanted collector panel of tubes with a horizontal cylinder tank above it."
+  },
+  {
+    "name": "water-softener",
+    "category": "appliances",
+    "draw": "Tall cylinder tank beside a shorter squat salt tank, joined by a head valve with a small display."
+  },
+  {
+    "name": "under-sink-water-filter",
+    "category": "appliances",
+    "draw": "Two or three vertical filter canisters hanging from a shared bracket with pipes on top."
+  },
+  {
+    "name": "sump-pump",
+    "category": "appliances",
+    "draw": "Round pit in the floor with a pump body sitting in it, a float switch and a discharge pipe rising up."
+  },
+  {
+    "name": "water-pump",
+    "category": "appliances",
+    "draw": "Side view centrifugal pump: a round volute housing joined to a finned cylindrical motor on a base."
+  },
+  {
+    "name": "stopcock",
+    "category": "appliances",
+    "draw": "In line water valve on a pipe with a round wheel handle on top."
+  },
+  {
+    "name": "gas-valve",
+    "category": "appliances",
+    "draw": "Straight pipe section with a flat lever handle lying along it."
+  },
+  {
+    "name": "water-meter",
+    "category": "appliances",
+    "draw": "Round meter body on a pipe with a dial face showing a small counter window and a pointer."
+  },
+  {
+    "name": "gas-meter",
+    "category": "appliances",
+    "draw": "Boxy wall meter with a digit counter window and a pipe entering the top on each side."
+  },
+  {
+    "name": "prepaid-meter",
+    "category": "appliances",
+    "draw": "Wall meter box with a small screen and a numeric keypad below it."
+  },
+  {
+    "name": "propane-tank",
+    "category": "appliances",
+    "draw": "Squat rounded cylinder with a protective collar ring and valve on top, on a foot ring."
+  },
+  {
+    "name": "heating-oil-tank",
+    "category": "appliances",
+    "draw": "Long horizontal cylindrical tank on legs with a fill pipe and a gauge on top."
+  },
+  {
+    "name": "rainwater-tank",
+    "category": "appliances",
+    "draw": "Round barrel water butt with a lid, a downpipe feeding in and a small tap at the bottom."
+  },
+  {
+    "name": "electric-shower",
+    "category": "appliances",
+    "draw": "Wall mounted box unit with a big round dial and a hose leading to a shower head on a rail."
+  },
+  {
+    "name": "home-battery",
+    "category": "appliances",
+    "draw": "Tall slim wall mounted battery cabinet with rounded corners, a bolt and a level bar on the front."
+  },
+  {
+    "name": "portable-generator",
+    "category": "appliances",
+    "draw": "Box engine generator in a tubular frame with a pull start handle and two sockets on the side."
+  },
+  {
+    "name": "ups-power-supply",
+    "category": "appliances",
+    "draw": "Tower shaped backup power box with a power button, small display and a battery symbol on the front."
+  },
+  {
+    "name": "power-inverter",
+    "category": "appliances",
+    "draw": "Finned metal box with DC terminals at one end and an outlet at the other, a sine wave symbol on top."
+  },
+  {
+    "name": "fuse-box",
+    "category": "appliances",
+    "draw": "Open wall panel with a row of small switches in a line behind a hinged cover."
+  },
+  {
+    "name": "circuit-breaker",
+    "category": "appliances",
+    "draw": "Single DIN rail breaker module with a toggle lever in the middle and screw terminals top and bottom."
+  },
+  {
+    "name": "electrical-fuse",
+    "category": "appliances",
+    "draw": "Cartridge fuse: a short cylinder with metal end caps and a thin wire filament visible inside."
+  },
+  {
+    "name": "junction-box",
+    "category": "appliances",
+    "draw": "Square box with a screw lid and cables entering from two sides through glands."
+  },
+  {
+    "name": "power-strip",
+    "category": "appliances",
+    "draw": "Long bar with four sockets in a row, a switch at one end and a cord leaving the other."
+  },
+  {
+    "name": "extension-reel",
+    "category": "appliances",
+    "draw": "Round cable drum with a crank handle on the side and a couple of sockets on the hub."
+  },
+  {
+    "name": "travel-adapter",
+    "category": "appliances",
+    "draw": "Cube plug adapter with sliding pins sticking out of two faces and a socket on the front."
+  },
+  {
+    "name": "multi-plug",
+    "category": "appliances",
+    "draw": "Plug adapter with the plug pins at the back and three sockets on its faces."
+  },
+  {
+    "name": "timer-socket",
+    "category": "appliances",
+    "draw": "Plug in socket unit with a round 24 hour dial ring of tiny pins on the front."
+  },
+  {
+    "name": "smart-plug",
+    "category": "appliances",
+    "draw": "Compact plug in module with a socket on the front, a small button and a wifi signal arc."
+  },
+  {
+    "name": "usb-outlet",
+    "category": "appliances",
+    "draw": "Wall socket plate with one power outlet and two small USB port rectangles beside it."
+  },
+  {
+    "name": "gfci-outlet",
+    "category": "appliances",
+    "draw": "Wall outlet plate with two sockets and two small test and reset buttons between them."
+  },
+  {
+    "name": "outdoor-outlet",
+    "category": "appliances",
+    "draw": "Weatherproof wall socket with a hinged flip cover lifted up above the socket face."
+  },
+  {
+    "name": "floor-outlet",
+    "category": "appliances",
+    "draw": "Square flush floor box with a pop up hinged lid and a socket inside."
+  },
+  {
+    "name": "plug-type-a",
+    "category": "appliances",
+    "draw": "Front view plug head with two flat parallel blades."
+  },
+  {
+    "name": "plug-type-c",
+    "category": "appliances",
+    "draw": "Front view round Europlug with two thin round pins angled slightly together."
+  },
+  {
+    "name": "plug-type-g",
+    "category": "appliances",
+    "draw": "Front view rectangular plug with three rectangular pins, one vertical on top and two horizontal below."
+  },
+  {
+    "name": "plug-type-i",
+    "category": "appliances",
+    "draw": "Front view plug with two flat blades in an inverted V and one vertical blade below."
+  },
+  {
+    "name": "socket-type-a",
+    "category": "appliances",
+    "draw": "Wall outlet plate with two vertical slot pairs and round ground holes below each."
+  },
+  {
+    "name": "socket-type-f",
+    "category": "appliances",
+    "draw": "Round recessed socket with two round pin holes and grounding clips at top and bottom."
+  },
+  {
+    "name": "socket-type-g",
+    "category": "appliances",
+    "draw": "Square socket plate with three rectangular holes arranged as a triangle and a rocker switch."
+  },
+  {
+    "name": "socket-type-i",
+    "category": "appliances",
+    "draw": "Socket plate with two angled slanted slots and a vertical slot below."
+  },
+  {
+    "name": "dimmer-switch",
+    "category": "appliances",
+    "draw": "Square wall plate with a single round rotary knob in the center."
+  },
+  {
+    "name": "double-light-switch",
+    "category": "appliances",
+    "draw": "Square wall plate with two rocker switches side by side."
+  },
+  {
+    "name": "pull-cord-switch",
+    "category": "appliances",
+    "draw": "Small ceiling mounted box with a long cord hanging down ending in a bead toggle."
+  },
+  {
+    "name": "touch-light-switch",
+    "category": "appliances",
+    "draw": "Glass square wall panel with a circular touch mark and a small light dot."
+  },
+  {
+    "name": "bulb-socket",
+    "category": "appliances",
+    "draw": "Lamp holder: threaded cylindrical socket with a cord leaving the top."
+  },
+  {
+    "name": "doorbell-chime",
+    "category": "appliances",
+    "draw": "Wall mounted rectangular chime box with two tone bars inside and musical sound lines."
+  },
+  {
+    "name": "telephone-socket",
+    "category": "appliances",
+    "draw": "Wall plate with a small square phone jack opening near the bottom."
+  },
+  {
+    "name": "coaxial-connector",
+    "category": "appliances",
+    "draw": "F type TV connector: hex nut body with a threaded end and a central pin."
+  },
+  {
+    "name": "audio-jack",
+    "category": "appliances",
+    "draw": "3.5 mm jack plug: slim metal tip with two insulating bands and a round body with a cable."
+  },
+  {
+    "name": "rca-connector",
+    "category": "appliances",
+    "draw": "Two side by side RCA plugs with round collars and center pins on a pair of cables."
+  },
+  {
+    "name": "optical-audio-connector",
+    "category": "appliances",
+    "draw": "Square ended fiber plug with a small light dot at its tip and a cable behind."
+  },
+  {
+    "name": "led-bulb",
+    "category": "appliances",
+    "draw": "Bulb with a rounded top, a ribbed heat sink neck and a screw base, a small LED chip dot in the center."
+  },
+  {
+    "name": "fluorescent-tube",
+    "category": "appliances",
+    "draw": "Long horizontal tube with two pin end caps."
+  },
+  {
+    "name": "cfl-bulb",
+    "category": "appliances",
+    "draw": "Spiral twisted tube bulb on a plastic neck and screw base."
+  },
+  {
+    "name": "halogen-bulb",
+    "category": "appliances",
+    "draw": "Small capsule bulb with a tiny filament coil inside and two wire pins below."
+  },
+  {
+    "name": "edison-bulb",
+    "category": "appliances",
+    "draw": "Oval clear bulb with a zigzag vintage filament and a screw base."
+  },
+  {
+    "name": "spotlight-bulb",
+    "category": "appliances",
+    "draw": "Reflector bulb: a cup shaped cone with a flat face and two short pins at the base."
+  },
+  {
+    "name": "led-strip",
+    "category": "appliances",
+    "draw": "Flexible ribbon strip curling slightly with evenly spaced small square LED chips."
+  },
+  {
+    "name": "recessed-light",
+    "category": "appliances",
+    "draw": "Downlight seen at an angle: a flat round ceiling trim ring with a light beam cone below."
+  },
+  {
+    "name": "track-light",
+    "category": "appliances",
+    "draw": "Ceiling rail bar with three small cylindrical spot heads angled downward."
+  },
+  {
+    "name": "wall-sconce",
+    "category": "appliances",
+    "draw": "Wall mounted backplate with a curved arm and an upturned cup shade throwing light upward."
+  },
+  {
+    "name": "floodlight",
+    "category": "appliances",
+    "draw": "Outdoor rectangular flood lamp on a U bracket with a flat lens and light rays."
+  },
+  {
+    "name": "night-light",
+    "category": "appliances",
+    "draw": "Small plug in wall light with a glowing half moon shaped lens."
+  },
+  {
+    "name": "string-lights",
+    "category": "appliances",
+    "draw": "Sagging wire strung between two points with several small bulbs hanging along it."
+  },
+  {
+    "name": "lava-lamp",
+    "category": "appliances",
+    "draw": "Tapered bottle shaped lamp with floating blobs inside, a cone base and small cap."
+  },
+  {
+    "name": "ring-light",
+    "category": "appliances",
+    "draw": "Large round ring light on a tripod stand with a phone holder in the center."
+  },
+  {
+    "name": "emergency-light",
+    "category": "appliances",
+    "draw": "Wall box with twin angled spot lamps on top and a small indicator light."
+  },
+  {
+    "name": "salt-lamp",
+    "category": "appliances",
+    "draw": "Rough jagged crystal rock shape on a small wooden base with a glow."
+  },
+  {
+    "name": "heat-lamp",
+    "category": "appliances",
+    "draw": "Large reflector bulb with a wide dome front and short heat wave lines below."
+  },
+  {
+    "name": "bug-zapper",
+    "category": "appliances",
+    "draw": "Hanging lantern shaped cage with vertical grid bars and a hook on top, a small spark."
+  },
+  {
+    "name": "grow-light",
+    "category": "appliances",
+    "draw": "Flat rectangular lamp panel above a small sprouting plant in a pot with light rays."
+  },
+  {
+    "name": "solar-garden-light",
+    "category": "appliances",
+    "draw": "Small stake light pushed into the ground with a tiny solar panel cap on top."
+  },
+  {
+    "name": "porch-light",
+    "category": "appliances",
+    "draw": "Outdoor wall lantern with a box frame, glass panes and a peaked roof cap on a wall bracket."
+  },
+  {
+    "name": "arc-floor-lamp",
+    "category": "appliances",
+    "draw": "Floor lamp with a weighted base and a long curved arm arching over to a hanging dome shade."
+  },
+  {
+    "name": "led-candle",
+    "category": "appliances",
+    "draw": "Pillar candle with a flame shaped bulb and a small switch on the base."
+  },
+  {
+    "name": "vanity-mirror",
+    "category": "appliances",
+    "draw": "Rectangular mirror with a row of round bulbs around its border."
+  },
+  {
+    "name": "hair-dryer",
+    "category": "appliances",
+    "draw": "Side view hair dryer with a round barrel nozzle and an angled handle below."
+  },
+  {
+    "name": "hair-straightener",
+    "category": "appliances",
+    "draw": "Two long narrow hinged plates joined at the handle end, slightly open like tongs."
+  },
+  {
+    "name": "curling-iron",
+    "category": "appliances",
+    "draw": "Long thin barrel with a clamp lever along it and a handle with a cord."
+  },
+  {
+    "name": "hair-clipper",
+    "category": "appliances",
+    "draw": "Handheld clipper body with a toothed comb blade at the top."
+  },
+  {
+    "name": "electric-shaver",
+    "category": "appliances",
+    "draw": "Handheld shaver with a head of three round foil circles on top."
+  },
+  {
+    "name": "electric-toothbrush",
+    "category": "appliances",
+    "draw": "Slim handle with a single button and a small round brush head on a narrow neck."
+  },
+  {
+    "name": "water-flosser",
+    "category": "appliances",
+    "draw": "Base reservoir tank with a tall handle wand and a thin angled tip."
+  },
+  {
+    "name": "massage-gun",
+    "category": "appliances",
+    "draw": "Pistol shaped percussion massager with a round head on the barrel and a grip handle."
+  },
+  {
+    "name": "hand-dryer",
+    "category": "appliances",
+    "draw": "Wall mounted rounded box with an air nozzle underneath and a hand below with air lines."
+  },
+  {
+    "name": "automatic-soap-dispenser",
+    "category": "appliances",
+    "draw": "Upright bottle shaped dispenser with a spout, a sensor dot and a drop coming out."
+  },
+  {
+    "name": "soundbar",
+    "category": "appliances",
+    "draw": "Long horizontal slim speaker bar with a grille pattern and a row of small driver dots."
+  },
+  {
+    "name": "subwoofer",
+    "category": "appliances",
+    "draw": "Cube speaker box with one large round woofer cone on the front."
+  },
+  {
+    "name": "av-receiver",
+    "category": "appliances",
+    "draw": "Wide low hi-fi box with a large round volume knob on the right and a display on the left."
+  },
+  {
+    "name": "stereo-amplifier",
+    "category": "appliances",
+    "draw": "Low box with two round knobs, a row of small switches and a VU meter window."
+  },
+  {
+    "name": "hifi-system",
+    "category": "appliances",
+    "draw": "Stacked mini hi-fi: a central unit with a display flanked by two speakers."
+  },
+  {
+    "name": "bookshelf-speaker",
+    "category": "appliances",
+    "draw": "Small box speaker with a tweeter circle above a woofer circle."
+  },
+  {
+    "name": "tower-speaker",
+    "category": "appliances",
+    "draw": "Tall narrow floor speaker with a tweeter and two woofer circles stacked vertically."
+  },
+  {
+    "name": "portable-speaker",
+    "category": "appliances",
+    "draw": "Rounded cylinder speaker lying on its side with a grille and a strap loop."
+  },
+  {
+    "name": "surround-sound",
+    "category": "appliances",
+    "draw": "Top view of a sofa with small speaker squares around it and sound arcs pointing inward."
+  },
+  {
+    "name": "cd-player",
+    "category": "appliances",
+    "draw": "Low box with a disc tray sliding out of the front with a CD on it."
+  },
+  {
+    "name": "cassette-deck",
+    "category": "appliances",
+    "draw": "Hi-fi box with a cassette window door on the front and a row of transport buttons."
+  },
+  {
+    "name": "reel-to-reel",
+    "category": "appliances",
+    "draw": "Front view tape recorder with two large spoked reels on top and tape running between them."
+  },
+  {
+    "name": "gramophone",
+    "category": "appliances",
+    "draw": "Wind up record player with a large flared horn over a turntable box and a crank handle."
+  },
+  {
+    "name": "jukebox",
+    "category": "appliances",
+    "draw": "Arched top cabinet with a curved window at the top, record selection buttons and a speaker grille below."
+  },
+  {
+    "name": "karaoke-machine",
+    "category": "appliances",
+    "draw": "Speaker box with a small screen on top and a microphone attached by a cord."
+  },
+  {
+    "name": "vcr",
+    "category": "appliances",
+    "draw": "Wide low box with a tape slot flap on the front and a small clock display."
+  },
+  {
+    "name": "videotape",
+    "category": "appliances",
+    "draw": "Front view rectangular video cassette with two reel windows and a label area."
+  },
+  {
+    "name": "dvd-player",
+    "category": "appliances",
+    "draw": "Slim wide box with a disc slot on the left and a small display and buttons on the right."
+  },
+  {
+    "name": "set-top-box",
+    "category": "appliances",
+    "draw": "Small flat box with a display showing channel digits and a remote control in front."
+  },
+  {
+    "name": "streaming-stick",
+    "category": "appliances",
+    "draw": "Small stick dongle with an HDMI plug at one end, plugged in at an angle."
+  },
+  {
+    "name": "tv-antenna",
+    "category": "appliances",
+    "draw": "Indoor rabbit ear antenna: a small base with two long telescoping rods in a V."
+  },
+  {
+    "name": "roof-aerial",
+    "category": "appliances",
+    "draw": "Yagi TV aerial: a horizontal boom with several parallel crosswise elements on a mast."
+  },
+  {
+    "name": "home-theater",
+    "category": "appliances",
+    "draw": "Wide screen with two tall speakers beside it and a sofa outline in front."
+  },
+  {
+    "name": "tv-wall-mount",
+    "category": "appliances",
+    "draw": "Flat TV side view attached to a wall by a folding articulating arm bracket."
+  },
+  {
+    "name": "digital-photo-frame",
+    "category": "appliances",
+    "draw": "Frame on a kickstand showing a landscape picture of a mountain and sun."
+  },
+  {
+    "name": "portable-cd-player",
+    "category": "appliances",
+    "draw": "Flat round disc player with a lid showing a CD outline and a headphones cord."
+  },
+  {
+    "name": "portable-cassette-player",
+    "category": "appliances",
+    "draw": "Rectangular pocket tape player with a cassette window and a headphones cord."
+  },
+  {
+    "name": "cordless-phone",
+    "category": "appliances",
+    "draw": "Handset with a keypad and antenna nub sitting in a small charging cradle base."
+  },
+  {
+    "name": "baby-monitor",
+    "category": "appliances",
+    "draw": "Parent unit with a small screen and an antenna next to a round camera unit."
+  },
+  {
+    "name": "weather-station",
+    "category": "appliances",
+    "draw": "Display unit showing a sun and cloud icon with temperature digits and a small outdoor sensor beside."
+  },
+  {
+    "name": "hygrometer",
+    "category": "appliances",
+    "draw": "Round dial gauge with a needle and a water drop symbol in the center."
+  },
+  {
+    "name": "air-quality-monitor",
+    "category": "appliances",
+    "draw": "Small rounded box with a display showing a wavy air line and a level bar."
+  },
+  {
+    "name": "mesh-wifi",
+    "category": "appliances",
+    "draw": "Three small rounded router pucks connected by dotted lines with a signal arc."
+  },
+  {
+    "name": "wifi-extender",
+    "category": "appliances",
+    "draw": "Plug in box with two small antennas and signal arcs."
+  },
+  {
+    "name": "network-switch",
+    "category": "appliances",
+    "draw": "Wide flat box with a row of many ethernet ports and small lights above them."
+  },
+  {
+    "name": "nas-drive",
+    "category": "appliances",
+    "draw": "Small tower box with two vertical drive bays and status lights."
+  },
+  {
+    "name": "smart-hub",
+    "category": "appliances",
+    "draw": "Rounded square hub with a central ring light and small signal arcs around it."
+  },
+  {
+    "name": "smart-display",
+    "category": "appliances",
+    "draw": "Tabletop screen on a speaker base showing a weather widget."
+  },
+  {
+    "name": "smart-bulb",
+    "category": "appliances",
+    "draw": "Light bulb with wifi signal arcs inside the glass."
+  },
+  {
+    "name": "smart-deadbolt",
+    "category": "appliances",
+    "draw": "Door deadbolt body with a numeric keypad on the front and a lever handle below."
+  },
+  {
+    "name": "video-doorbell",
+    "category": "appliances",
+    "draw": "Tall rounded doorbell with a round camera lens on top and a ring button below."
+  },
+  {
+    "name": "motion-sensor",
+    "category": "appliances",
+    "draw": "Small wall mounted dome sensor with a faceted lens and detection arcs spreading out."
+  },
+  {
+    "name": "contact-sensor",
+    "category": "appliances",
+    "draw": "Door edge with two small rectangles side by side, a magnet and a sensor with a gap line."
+  },
+  {
+    "name": "water-leak-sensor",
+    "category": "appliances",
+    "draw": "Small puck sensor on the floor sitting in a puddle with a drop and signal arc."
+  },
+  {
+    "name": "gas-detector",
+    "category": "appliances",
+    "draw": "Plug in detector with a vent grille and a small flame warning mark."
+  },
+  {
+    "name": "smart-blinds",
+    "category": "appliances",
+    "draw": "Slatted window blinds with a small motor box on the headrail and a wifi arc."
+  },
+  {
+    "name": "garage-door-opener",
+    "category": "appliances",
+    "draw": "Ceiling motor unit with a long rail going to a sectional garage door."
+  },
+  {
+    "name": "smart-fridge",
+    "category": "appliances",
+    "draw": "Tall fridge with a touch screen panel on the upper door."
+  },
+  {
+    "name": "smart-home",
+    "category": "appliances",
+    "draw": "House outline with wifi signal arcs inside."
+  },
+  {
+    "name": "smart-button",
+    "category": "appliances",
+    "draw": "Small round wireless push button with a signal arc above."
+  },
+  {
+    "name": "smart-mirror",
+    "category": "appliances",
+    "draw": "Mirror frame with a small clock and weather widget shown on the glass."
+  },
+  {
+    "name": "alarm-keypad",
+    "category": "appliances",
+    "draw": "Wall mounted security panel with a small screen and a 3 by 4 grid of keys."
+  },
+  {
+    "name": "pet-feeder",
+    "category": "appliances",
+    "draw": "Automatic feeder: tall hopper with a food bowl at the front base and a small screen."
+  },
+  {
+    "name": "pet-water-fountain",
+    "category": "appliances",
+    "draw": "Round bowl base with water arcing from a small spout into it."
+  },
+  {
+    "name": "paper-shredder",
+    "category": "appliances",
+    "draw": "Box bin with a slot on top feeding a sheet that comes out as strips."
+  },
+  {
+    "name": "laminator",
+    "category": "appliances",
+    "draw": "Long flat machine with a slot at the front and a laminated sheet sliding out."
+  },
+  {
+    "name": "label-maker",
+    "category": "appliances",
+    "draw": "Handheld device with a small keyboard, a screen and a tape strip coming out the top."
+  },
+  {
+    "name": "photocopier",
+    "category": "appliances",
+    "draw": "Large office copier cabinet with a document lid on top, a control panel and paper trays."
+  },
+  {
+    "name": "rotisserie-oven",
+    "category": "appliances",
+    "draw": "Countertop box oven with a glass door showing a chicken turning on a horizontal spit."
+  },
+  {
+    "name": "electric-knife",
+    "category": "appliances",
+    "draw": "Carving knife with two long parallel serrated blades joined to a chunky handle with a cord."
+  },
+  {
+    "name": "raclette-grill",
+    "category": "appliances",
+    "draw": "Two level tabletop grill: a flat top plate with small wedge shaped pans tucked underneath."
+  },
+  {
+    "name": "slush-machine",
+    "category": "appliances",
+    "draw": "Tall machine with a clear barrel shaped bowl holding a spiral auger and a tap at the front."
+  },
+  {
+    "name": "warming-drawer",
+    "category": "appliances",
+    "draw": "Built in single wide shallow drawer in a cabinet frame with a handle and soft heat waves above."
+  },
+  {
+    "name": "beverage-dispenser",
+    "category": "appliances",
+    "draw": "Large glass jar with a lid on a small stand and a tap at the bottom front."
+  },
+  {
+    "name": "milkshake-maker",
+    "category": "appliances",
+    "draw": "Spindle mixer: a tall arm with a motor head and a steel cup hooked underneath."
+  },
+  {
+    "name": "plug-in-air-freshener",
+    "category": "appliances",
+    "draw": "Small plug in unit with a scent bottle below and curly scent wisps rising from the top."
+  },
+  {
+    "name": "baseboard-heater",
+    "category": "appliances",
+    "draw": "Long low wall heater running along the floor line with vertical fin slats and heat waves."
+  },
+  {
+    "name": "hand-warmer",
+    "category": "appliances",
+    "draw": "Small rounded pocket device with a glowing center dot and short heat waves around it."
+  },
+  {
+    "name": "washboard",
+    "category": "appliances",
+    "draw": "Wooden frame board with a rippled corrugated panel of horizontal ridges."
+  },
+  {
+    "name": "steam-station-iron",
+    "category": "appliances",
+    "draw": "Clothes iron resting on a boxy base water tank joined by a curled hose."
+  },
+  {
+    "name": "boot-dryer",
+    "category": "appliances",
+    "draw": "Base unit with two upright posts, each holding an upside down boot with warm air lines."
+  },
+  {
+    "name": "window-cleaning-robot",
+    "category": "appliances",
+    "draw": "Square robot pad stuck on a window pane with a safety cord and a path of zigzag lines."
+  },
+  {
+    "name": "robot-lawn-mower",
+    "category": "appliances",
+    "draw": "Low sloped robot mower shell on wheels on a grass line with a small antenna dot."
+  },
+  {
+    "name": "ultrasonic-cleaner",
+    "category": "appliances",
+    "draw": "Small rectangular tank with a lid, a basket holding a ring and ripple lines in the water."
+  },
+  {
+    "name": "sensor-trash-can",
+    "category": "appliances",
+    "draw": "Tall rounded bin with a lid lifted slightly and a small sensor dot on the lid front."
+  },
+  {
+    "name": "outlet-safety-cover",
+    "category": "appliances",
+    "draw": "Small round cap with two pins pushed into a wall socket face."
+  },
+  {
+    "name": "key-card-switch",
+    "category": "appliances",
+    "draw": "Wall plate with a slot on top and a key card half inserted into it."
+  },
+  {
+    "name": "septic-tank",
+    "category": "appliances",
+    "draw": "Cross section of an underground tank below a ground line with an inlet pipe, a baffle and an outlet pipe."
+  },
+  {
+    "name": "radiator-key",
+    "category": "appliances",
+    "draw": "Small bleed key: a square socket end on a short shaft with a flat butterfly grip."
+  },
+  {
+    "name": "immersion-heater",
+    "category": "appliances",
+    "draw": "Screw cap head with a long looped heating element coil extending from it."
+  },
+  {
+    "name": "tube-amplifier",
+    "category": "appliances",
+    "draw": "Low box with a row of glowing vacuum tubes standing on top and two knobs on the front."
+  },
+  {
+    "name": "white-noise-machine",
+    "category": "appliances",
+    "draw": "Round puck shaped sound machine with a grille on top, a moon icon and sound wave lines."
+  },
+  {
+    "name": "wake-up-light",
+    "category": "appliances",
+    "draw": "Round lamp face glowing like a rising sun on a small base with a clock display below."
+  },
+  {
+    "name": "usb-hub",
+    "category": "appliances",
+    "draw": "Small bar with three USB ports along one side and a short cable with a plug."
+  },
+  {
+    "name": "wireless-charger",
+    "category": "appliances",
+    "draw": "Flat round charging pad with a phone lying on top and a small bolt."
+  },
+  {
+    "name": "3d-printer",
+    "category": "appliances",
+    "draw": "Open cube frame with a print head on a gantry above a bed holding a small printed object."
+  },
+  {
+    "name": "irrigation-controller",
+    "category": "appliances",
+    "draw": "Wall mounted box with a big round dial, a small display and a water drop symbol."
+  },
+  {
+    "name": "bidet-seat",
+    "category": "appliances",
+    "draw": "Toilet seat outline seen from above with a control panel arm attached to one side."
+  },
+  {
+    "name": "floodlight-camera",
+    "category": "appliances",
+    "draw": "Wall mount with a small round camera lens between two angled flood lamps."
+  },
+  {
+    "name": "self-cleaning-litter-box",
+    "category": "appliances",
+    "draw": "Round dome shaped litter drum with an entry hole on the front and a drawer at the base."
+  },
+  {
+    "name": "nose-trimmer",
+    "category": "appliances",
+    "draw": "Pen shaped trimmer with a small rounded slotted head on top and a button on the body."
+  },
+  {
+    "name": "foot-spa",
+    "category": "appliances",
+    "draw": "Oval foot basin with bubbles rising and a small foot outline inside."
+  },
+  {
+    "name": "uv-nail-lamp",
+    "category": "appliances",
+    "draw": "Low arched dome lamp with a wide opening at the front and light rays inside."
+  },
+  {
+    "name": "massage-chair",
+    "category": "appliances",
+    "draw": "Reclining padded chair with wide armrests, a footrest and a small remote on a cord."
+  },
+  {
+    "name": "candle-bulb",
+    "category": "appliances",
+    "draw": "Slim bulb with a pointed flame shaped tip and a narrow screw base."
+  },
+  {
+    "name": "bollard-light",
+    "category": "appliances",
+    "draw": "Short cylindrical post light with a glowing band near the top standing on a path line."
+  },
+  {
+    "name": "tiffany-lamp",
+    "category": "appliances",
+    "draw": "Table lamp with a wide domed shade divided into mosaic panels on a slender base."
+  },
+  {
+    "name": "bankers-lamp",
+    "category": "appliances",
+    "draw": "Desk lamp with a horizontal half cylinder shade on a curved stem and a pull chain."
+  },
+  {
+    "name": "work-light",
+    "category": "appliances",
+    "draw": "Portable lamp with a bulb inside a protective wire cage, a hook on top and a handle."
+  },
+  {
+    "name": "battery-charger",
+    "category": "appliances",
+    "draw": "Charger base with two cylindrical AA batteries standing in slots and a bolt symbol."
+  },
+  {
+    "name": "slow-juicer",
+    "category": "appliances",
+    "draw": "Tall vertical juicer with a hopper on top, a chamber showing a spiral auger and two spouts below."
+  },
+  {
+    "name": "yogurt-maker",
+    "category": "appliances",
+    "draw": "Round base with a clear dome lid covering several small jars."
+  },
+  {
+    "name": "donut-maker",
+    "category": "appliances",
+    "draw": "Hinged round cooking press opened at an angle showing a ring of donut shaped cavities."
+  },
+  {
+    "name": "electric-wine-opener",
+    "category": "appliances",
+    "draw": "Tall slim cylinder corkscrew device sitting on top of a wine bottle neck."
+  },
+  {
+    "name": "cassette-air-conditioner",
+    "category": "appliances",
+    "draw": "Square ceiling panel unit with a central grille and four slot vents, one on each side."
+  },
+  {
+    "name": "extension-cord",
+    "category": "appliances",
+    "draw": "Coiled cord with a plug at one end and a single socket block at the other."
+  },
+  {
+    "name": "iec-connector",
+    "category": "appliances",
+    "draw": "Power cord end with a flat topped trapezoid connector showing three slots."
+  },
+  {
+    "name": "dc-barrel-plug",
+    "category": "appliances",
+    "draw": "Small cylindrical barrel plug with a hollow round tip on a thin cable."
+  },
+  {
+    "name": "xlr-connector",
+    "category": "appliances",
+    "draw": "Round audio connector face with three pin holes in a triangle and a latch tab on the body."
+  },
+  {
+    "name": "speaker-terminals",
+    "category": "appliances",
+    "draw": "Small plate with two screw binding posts, one marked plus and one marked minus, with wire ends."
+  },
+  {
+    "name": "scart-connector",
+    "category": "appliances",
+    "draw": "Wide flat trapezoid plug with a notched corner and a double row of tiny pins."
+  },
+  {
+    "name": "hood-dryer",
+    "category": "appliances",
+    "draw": "Salon hair dryer: a big rounded hood on an arm above a chair back."
+  },
+  {
+    "name": "light-therapy-lamp",
+    "category": "appliances",
+    "draw": "Flat upright light panel on a small stand with a sun symbol and bright rays."
+  },
+  {
+    "name": "hot-tub",
+    "category": "appliances",
+    "draw": "Square spa tub with a raised rim, bubbles and steam lines rising from the water."
+  },
+  {
+    "name": "sauna-stove",
+    "category": "appliances",
+    "draw": "Box heater with a basket of round stones piled on top and heat waves rising."
+  },
+  {
+    "name": "stove-knob",
+    "category": "appliances",
+    "draw": "Round control knob with a pointer line and tick marks around it."
+  },
+  {
+    "name": "sink-trap",
+    "category": "appliances",
+    "draw": "Plumbing P trap: a vertical pipe from a drain turning into a U bend and then sideways."
+  },
+  {
+    "name": "picture-light",
+    "category": "appliances",
+    "draw": "Slim horizontal tube lamp on a short arm mounted above a framed picture, light spilling down."
+  },
+  {
+    "name": "monitor-light-bar",
+    "category": "appliances",
+    "draw": "Long thin lamp bar clipped on top of a monitor with light cast down onto the desk line."
+  },
+  {
+    "name": "moon-lamp",
+    "category": "appliances",
+    "draw": "Round sphere with crater spots sitting on a small stand."
+  },
+  {
+    "name": "torchiere-lamp",
+    "category": "appliances",
+    "draw": "Tall floor lamp with a slim pole and a wide upturned bowl shade throwing light upward."
+  },
+  {
+    "name": "slide-projector",
+    "category": "appliances",
+    "draw": "Boxy projector with a round carousel tray on top and a lens on the front."
+  },
+  {
+    "name": "ceiling-speaker",
+    "category": "appliances",
+    "draw": "Round flush speaker grille set into a ceiling line with sound arcs pointing down."
+  },
+  {
+    "name": "motorized-valve",
+    "category": "appliances",
+    "draw": "Pipe section with a boxy motor actuator mounted on top of the valve body."
+  },
+  {
+    "name": "stairlift",
+    "category": "appliances",
+    "draw": "Folding seat with armrests riding along a rail that runs up a staircase."
+  },
+  {
+    "name": "adjustable-bed",
+    "category": "appliances",
+    "draw": "Side view bed with the head section raised at an angle and a small remote beside it."
+  },
+  {
+    "name": "french-press",
+    "category": "appliances",
+    "draw": "Cylinder glass carafe in a frame with a handle and a plunger rod with a knob on the lid."
+  },
+  {
+    "name": "pour-over-coffee",
+    "category": "appliances",
+    "draw": "Cone shaped dripper with ribbed lines sitting on top of a round carafe."
+  },
+  {
+    "name": "siphon-coffee-maker",
+    "category": "appliances",
+    "draw": "Two glass globes stacked on a stand with a small burner flame underneath."
+  },
+  {
+    "name": "cezve",
+    "category": "appliances",
+    "draw": "Small flared coffee pot with a narrow waist, a pouring lip and a long straight handle."
+  },
+  {
+    "name": "can-crusher",
+    "category": "appliances",
+    "draw": "Wall mounted lever crusher with a long handle and a flattened can inside the frame."
+  },
+  {
+    "name": "carpet-sweeper",
+    "category": "appliances",
+    "draw": "Low flat box sweeper with small roller wheels and a long diagonal push handle."
+  },
+  {
+    "name": "aa-battery",
+    "category": "appliances",
+    "draw": "Single upright cylindrical battery with a small nub at the top and a plus sign."
+  },
+  {
+    "name": "nine-volt-battery",
+    "category": "appliances",
+    "draw": "Rectangular battery with two snap terminals on top, one round and one hexagonal."
+  },
+  {
+    "name": "coin-cell-battery",
+    "category": "appliances",
+    "draw": "Flat round button battery seen at an angle with a plus sign on the face."
+  },
+  {
+    "name": "bar-heater",
+    "category": "appliances",
+    "draw": "Electric fire with two horizontal glowing heating bars in front of a curved reflector."
+  },
+  {
+    "name": "parabolic-heater",
+    "category": "appliances",
+    "draw": "Round dish reflector with a central heating element on a tilting stand."
+  },
+  {
+    "name": "soda-siphon",
+    "category": "appliances",
+    "draw": "Tall bottle with a metal head, a lever trigger and a downward spout."
+  },
+  {
+    "name": "meat-slicer",
+    "category": "appliances",
+    "draw": "Deli slicer with a large round circular blade, a sliding carriage and a slice falling off."
+  },
+  {
+    "name": "hot-dog-roller",
+    "category": "appliances",
+    "draw": "Row of parallel horizontal rollers on a low base with two sausages lying on top under a small sneeze guard."
+  },
+  {
+    "name": "ice-shaver",
+    "category": "appliances",
+    "draw": "Box machine with a clear chamber holding an ice block on top, a side crank handle and a cup of shaved ice below."
+  },
+  {
+    "name": "baby-bottle-sterilizer",
+    "category": "appliances",
+    "draw": "Round base with a tall clear domed lid covering several upright baby bottles."
+  },
+  {
+    "name": "slide-dimmer",
+    "category": "appliances",
+    "draw": "Rectangular wall plate with a vertical slider track and a small knob partway along it."
+  },
+  {
+    "name": "outlet-tester",
+    "category": "appliances",
+    "draw": "Small plug body pushed into a wall socket with three indicator light dots on its face."
+  },
+  {
+    "name": "dryer-vent",
+    "category": "appliances",
+    "draw": "Exterior wall vent hood with a hinged flap angled open and a round duct behind it."
+  },
+  {
+    "name": "home-control-panel",
+    "category": "appliances",
+    "draw": "Flat touchscreen panel mounted on a wall showing a two by two grid of room tiles."
+  },
+  {
+    "name": "shoe-polisher",
+    "category": "appliances",
+    "draw": "Low box machine with two round spinning brushes on the front and a shoe outline above."
+  },
+  {
+    "name": "faucet-water-filter",
+    "category": "appliances",
+    "draw": "Kitchen faucet spout with a small cylindrical filter unit clipped onto the end."
+  },
+  {
+    "name": "pellet-stove",
+    "category": "appliances",
+    "draw": "Tall boxy stove with a hinged hopper lid on top, a small flame window below and a flue pipe from the back."
+  },
+  {
+    "name": "window-fan",
+    "category": "appliances",
+    "draw": "Two round fans side by side in a slim rectangular frame set in a window sash."
+  }
+]

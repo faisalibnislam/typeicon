@@ -1,0 +1,482 @@
+[
+ {
+  "name": "platform-diving",
+  "category": "sports-gear",
+  "draw": "Figure in a straight dive head first off a raised platform.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "synchronized-diving",
+  "category": "sports-gear",
+  "draw": "Two figures diving side by side in mirrored poses.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "snorkeling",
+  "category": "sports-gear",
+  "draw": "Figure floating face down with a snorkel tube sticking up above the water.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "artistic-swimming",
+  "category": "sports-gear",
+  "draw": "Pair of straight legs sticking up out of the water with pointed toes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "open-water-swimming",
+  "category": "sports-gear",
+  "draw": "Swimmer in a cap between waves beside a round buoy.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "backstroke",
+  "category": "sports-gear",
+  "draw": "Figure on its back with one arm reaching overhead.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "breaststroke",
+  "category": "sports-gear",
+  "draw": "Figure face first with head lifted and arms sweeping out.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "butterfly-stroke",
+  "category": "sports-gear",
+  "draw": "Figure with both arms swinging forward together over the water.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "freediving",
+  "category": "sports-gear",
+  "draw": "Figure with long fins descending head first along a rope.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "kickboard",
+  "category": "sports-gear",
+  "draw": "Rounded foam swim board with a notch cut in the front.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pull-buoy",
+  "category": "sports-gear",
+  "draw": "Figure-eight shaped foam float.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pool-lane-rope",
+  "category": "sports-gear",
+  "draw": "Line of floats strung along a rope across water.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "surf-leash",
+  "category": "sports-gear",
+  "draw": "Coiled cord with an ankle cuff at one end.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "surf-wax",
+  "category": "sports-gear",
+  "draw": "Round puck of wax rubbed onto a board with cross-hatched marks.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "water-polo-goal",
+  "category": "sports-gear",
+  "draw": "Floating goal frame with a net and float bars at the base.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pool-starting-block",
+  "category": "sports-gear",
+  "draw": "Raised angled starting platform at the pool edge with a number.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "wave-pool",
+  "category": "sports-gear",
+  "draw": "Swimming pool with a large curling wave at one end.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "skimboarding",
+  "category": "sports-gear",
+  "draw": "Figure on a thin round board skimming along the shoreline.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "spearfishing",
+  "category": "sports-gear",
+  "draw": "Diver with fins holding a long spear gun toward a fish.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "boat-fishing",
+  "category": "sports-gear",
+  "draw": "Figure in a small boat holding a bent fishing rod.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cross-country-skiing",
+  "category": "sports-gear",
+  "draw": "Figure striding forward on long thin skis with poles pushing behind.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ski-jumping",
+  "category": "sports-gear",
+  "draw": "Figure flying in a V shape with skis spread and body leaning forward.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "freestyle-skiing",
+  "category": "sports-gear",
+  "draw": "Figure flipping in the air with crossed skis above a kicker.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "biathlon",
+  "category": "sports-gear",
+  "draw": "Cross-country skier beside a row of five round targets.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bobsleigh",
+  "category": "sports-gear",
+  "draw": "Streamlined sled with several helmeted riders tucked inside.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "luge",
+  "category": "sports-gear",
+  "draw": "Figure lying on its back feet first on a small sled.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "skeleton-sled",
+  "category": "sports-gear",
+  "draw": "Figure lying face down head first on a flat sled.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "curling-stone",
+  "category": "sports-gear",
+  "draw": "Round granite stone with a curved handle on top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "curling-broom",
+  "category": "sports-gear",
+  "draw": "Long handle ending in a flat rectangular sweeping pad.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "curling",
+  "category": "sports-gear",
+  "draw": "Figure crouched sliding forward releasing a stone, broom in the other hand.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "curling-house",
+  "category": "sports-gear",
+  "draw": "Top view of concentric target rings at the end of a sheet with stones.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "speed-skating",
+  "category": "sports-gear",
+  "draw": "Figure crouched low with one arm behind the back skating forward.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "figure-skating",
+  "category": "sports-gear",
+  "draw": "Figure gliding on one skate with the other leg extended behind and arms out.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "snowshoeing",
+  "category": "sports-gear",
+  "draw": "Figure walking with wide oval shoes over snow using poles.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "snow-tubing",
+  "category": "sports-gear",
+  "draw": "Figure sitting in a large inner tube sliding down a slope.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ski-poles",
+  "category": "sports-gear",
+  "draw": "Two poles with round baskets near the tips and strap handles.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "t-bar-lift",
+  "category": "sports-gear",
+  "draw": "Upside down T bar hanging from a cable pulling a skier.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ski-trail-difficulty",
+  "category": "sports-gear",
+  "draw": "Circle, square and diamond shapes in a row.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ski-helmet",
+  "category": "sports-gear",
+  "draw": "Rounded shell helmet with vents and goggles strapped on the front.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ski-wax",
+  "category": "sports-gear",
+  "draw": "Block of wax held against the base of an upturned ski.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ski-rack",
+  "category": "sports-gear",
+  "draw": "Rack holding several upright pairs of skis.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "snow-kiting",
+  "category": "sports-gear",
+  "draw": "Figure on skis pulled by a large curved kite.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "hockey-puck",
+  "category": "sports-gear",
+  "draw": "Flat cylinder disc seen at a slight angle.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "goalie-mask",
+  "category": "sports-gear",
+  "draw": "Front view of a molded face mask with a wire cage over the eyes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "hockey-goal",
+  "category": "sports-gear",
+  "draw": "Low goal frame with a rounded back net and a crease arc.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ice-rink",
+  "category": "sports-gear",
+  "draw": "Top view of a rounded rectangle rink with center line and face-off circles.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bandy-stick",
+  "category": "sports-gear",
+  "draw": "Short curved stick with a small ball on ice.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "floorball-stick",
+  "category": "sports-gear",
+  "draw": "Light stick with a perforated plastic blade and a ball with holes.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "ringette-ring",
+  "category": "sports-gear",
+  "draw": "Rubber ring on the ice with a straight stick inserted into it.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "broomball",
+  "category": "sports-gear",
+  "draw": "Figure with a broom-shaped stick hitting a ball on ice.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "underwater-hockey",
+  "category": "sports-gear",
+  "draw": "Figure with a snorkel pushing a puck along a pool floor with a tiny stick.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "gaelic-football",
+  "category": "sports-gear",
+  "draw": "Figure running while bouncing a round ball off the foot to the hand.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "sepak-takraw",
+  "category": "sports-gear",
+  "draw": "Figure doing an overhead scissor kick at a ball above a net.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "mountaineering",
+  "category": "sports-gear",
+  "draw": "Figure with backpack and ice axe roped up on a snowy ridge.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "orienteering",
+  "category": "sports-gear",
+  "draw": "Figure running with a map in hand past a hanging marker.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "trail-running",
+  "category": "sports-gear",
+  "draw": "Running figure on a winding trail with a hill behind.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "parkour",
+  "category": "sports-gear",
+  "draw": "Figure vaulting over a wall with one hand planted on top.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "belay",
+  "category": "sports-gear",
+  "draw": "Two figures: one climbing, one below holding the rope.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "skateboarding",
+  "category": "sports-gear",
+  "draw": "Figure riding a skateboard with arms out for balance.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "half-pipe",
+  "category": "sports-gear",
+  "draw": "U-shaped ramp with flat bottom and copings at both lips.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "inline-skate",
+  "category": "sports-gear",
+  "draw": "Boot with a single line of four wheels underneath.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "roller-skating",
+  "category": "sports-gear",
+  "draw": "Figure gliding on quad skates with arms swinging.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "roller-derby",
+  "category": "sports-gear",
+  "draw": "Skater with a star on the helmet crouched forward with knee pads.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "skate-ramp",
+  "category": "sports-gear",
+  "draw": "Wedge ramp with a flat top and slope for jumps.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bmx-trick",
+  "category": "sports-gear",
+  "draw": "Rider in the air lifting a small bike over a dirt jump.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "track-cycling",
+  "category": "sports-gear",
+  "draw": "Rider tucked low on a fixed wheel bike on a banked curve.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "peloton",
+  "category": "sports-gear",
+  "draw": "Tight group of several cyclists riding in a pack.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cyclocross",
+  "category": "sports-gear",
+  "draw": "Figure running while carrying a bike on one shoulder.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "bike-trainer",
+  "category": "sports-gear",
+  "draw": "Rear wheel of a bike clamped on a stand with a roller.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "cycling-shoes",
+  "category": "sports-gear",
+  "draw": "Stiff low shoe with a cleat plate under the sole and a dial closure.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "racing-helmet",
+  "category": "sports-gear",
+  "draw": "Full-face helmet with a wide visor, side view.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "pit-stop",
+  "category": "sports-gear",
+  "draw": "Wheel with a wheel gun held against the hub nut.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "motocross",
+  "category": "sports-gear",
+  "draw": "Rider on a dirt bike in mid-air over a jump.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "horse-riding",
+  "category": "sports-gear",
+  "draw": "Rider sitting upright on a walking horse, side view.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "show-jumping",
+  "category": "sports-gear",
+  "draw": "Horse and rider leaping over a fence of horizontal poles.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "dressage",
+  "category": "sports-gear",
+  "draw": "Horse with arched neck high stepping with a rider in a top hat.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "rodeo",
+  "category": "sports-gear",
+  "draw": "Rider with one arm raised on a bucking bull.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "barrel-racing",
+  "category": "sports-gear",
+  "draw": "Horse and rider turning tightly around a barrel.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "harness-racing",
+  "category": "sports-gear",
+  "draw": "Trotting horse pulling a driver seated in a light two-wheeled cart.",
+  "domain": "sports-equipment-activities"
+ },
+ {
+  "name": "camel-racing",
+  "category": "sports-gear",
+  "draw": "Rider crouched on a galloping camel.",
+  "domain": "sports-equipment-activities"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "pine-plank",
+  "category": "materials",
+  "draw": "Horizontal board with wide wavy grain lines and two dark oval knots.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "oak-plank",
+  "category": "materials",
+  "draw": "Horizontal board with nested cathedral arch grain lines rising from one end.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "zebrawood-plank",
+  "category": "materials",
+  "draw": "Horizontal board filled with bold, closely spaced parallel dark stripes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "burl-wood",
+  "category": "materials",
+  "draw": "Rounded slab with swirling concentric grain and many small eye dots.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "spalted-wood",
+  "category": "materials",
+  "draw": "Pale board crossed by thin irregular black zone lines like a map.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "balsa-sheet",
+  "category": "materials",
+  "draw": "Thin flat sheet in perspective with a hobby knife cutting a strip from its edge.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "charred-wood",
+  "category": "materials",
+  "draw": "Plank surface covered in a cracked alligator-scale block pattern with a small flame at one corner.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "reclaimed-wood",
+  "category": "materials",
+  "draw": "Weathered board with rough split ends and three old nail holes in a row.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "wood-veneer-sheet",
+  "category": "materials",
+  "draw": "Very thin sheet of wood with grain lines, one corner curling up off a board.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "osb-board",
+  "category": "materials",
+  "draw": "Square panel filled with overlapping irregular rectangular wood strands at random angles.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "particle-board",
+  "category": "materials",
+  "draw": "Square panel edge-on showing a speckled dotted core between two smooth faces.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "mdf-board",
+  "category": "materials",
+  "draw": "Stack of two smooth flat panels in perspective with a plain uniform edge and no grain.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "glulam-beam",
+  "category": "materials",
+  "draw": "Beam end view showing many thin horizontal laminated layers glued together.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "cross-laminated-timber",
+  "category": "materials",
+  "draw": "Panel end in perspective with three layers whose grain alternates horizontal and end-on dots.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "dimensional-lumber",
+  "category": "materials",
+  "draw": "End view of a rectangular stud with rounded corners and growth ring arcs, beside its long side.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "hardwood-flooring",
+  "category": "materials",
+  "draw": "Staggered long floor planks in running rows with grain lines on each board.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "wood-knot",
+  "category": "materials",
+  "draw": "Close-up of wood grain lines flowing around a single dark oval knot.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "wood-stain",
+  "category": "materials",
+  "draw": "Plank half coated dark by a brush stroke, with a small can of stain beside it.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "diamond-plate-metal",
+  "category": "materials",
+  "draw": "Square metal plate covered in raised short diagonal bars in alternating directions.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "perforated-metal-sheet",
+  "category": "materials",
+  "draw": "Square sheet with a regular grid of round holes and one bent corner.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "expanded-metal-mesh",
+  "category": "materials",
+  "draw": "Sheet with rows of stretched diamond shaped openings in a staggered lattice.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "brushed-metal",
+  "category": "materials",
+  "draw": "Square plate with fine parallel horizontal lines and a diagonal shine highlight.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "hammered-metal",
+  "category": "materials",
+  "draw": "Square plate covered in overlapping round dimples with a small ball-peen hammer above.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "copper-patina",
+  "category": "materials",
+  "draw": "Metal sheet with a smooth half and a blotchy speckled half where the green patina spreads.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "steel-channel",
+  "category": "materials",
+  "draw": "Length of C-shaped channel bar in perspective showing its squared U profile at the end.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "square-steel-tube",
+  "category": "materials",
+  "draw": "Hollow square tube in perspective with a visible square opening at the near end.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "round-bar-stock",
+  "category": "materials",
+  "draw": "Bundle of three solid round metal bars in perspective with flat circular ends.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "metal-shavings",
+  "category": "materials",
+  "draw": "Pile of tight curly spiral metal chips like springs.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "damascus-steel",
+  "category": "materials",
+  "draw": "Knife blade filled with flowing wavy layered pattern lines.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "powder-coating",
+  "category": "materials",
+  "draw": "Spray gun emitting a dotted powder cloud onto a hanging metal bracket.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "hot-dip-galvanizing",
+  "category": "materials",
+  "draw": "Metal beam lowered by a hook into a tank of molten zinc with bubbles at the surface.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "sandblasting",
+  "category": "materials",
+  "draw": "Nozzle blasting a cone of grit dots onto a surface that is clean where the spray hits.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tempered-glass",
+  "category": "materials",
+  "draw": "Glass pane shattered into a mosaic of small square cubes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "laminated-glass",
+  "category": "materials",
+  "draw": "Glass pane with a spider web crack that stays in place, edge showing a thin middle layer.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "wired-glass",
+  "category": "materials",
+  "draw": "Glass pane with a diagonal shine and a fine square wire grid inside it.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "reeded-glass",
+  "category": "materials",
+  "draw": "Glass panel covered in vertical rounded ribs with soft shading between them.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "glass-block",
+  "category": "materials",
+  "draw": "Square thick glass brick with an inner smaller square and wavy lines across the face.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "glass-cullet",
+  "category": "materials",
+  "draw": "Heap of broken angular glass pieces with small shine marks.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "smart-glass",
+  "category": "materials",
+  "draw": "Window pane that is half clear and half frosted with a small switch icon beside it.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "plastic-pellets",
+  "category": "materials",
+  "draw": "Handful of small round and lentil shaped plastic pellets spilling from a small scoop.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "plastic-flakes",
+  "category": "materials",
+  "draw": "Scattered irregular flat shredded plastic chips of mixed sizes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "acrylic-sheet",
+  "category": "materials",
+  "draw": "Clear sheet in perspective with a corner of its protective film peeling back.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "polystyrene-foam",
+  "category": "materials",
+  "draw": "Rectangular foam block whose face is filled with small packed round beads.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "twinwall-polycarbonate",
+  "category": "materials",
+  "draw": "Clear panel end view showing two thin walls joined by evenly spaced vertical ribs.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "printer-filament-spool",
+  "category": "materials",
+  "draw": "Round plastic spool wound with filament, one loose strand trailing off.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "injection-mold",
+  "category": "materials",
+  "draw": "Two block mold halves apart with a small molded part between and a nozzle feeding the top.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "bioplastic",
+  "category": "materials",
+  "draw": "Plastic bottle outline with a leaf growing from inside its body.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "plastic-free",
+  "category": "materials",
+  "draw": "Plastic bag outline inside a circle with a leaf replacing its handle.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "memory-foam",
+  "category": "materials",
+  "draw": "Thick foam slab with a deep handprint slowly holding its shape.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "aerogel",
+  "category": "materials",
+  "draw": "Small translucent block resting on a flame with a flower sitting on top unharmed.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "plain-weave",
+  "category": "materials",
+  "draw": "Close-up grid of threads going over and under one at a time like a checkerboard.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "twill-weave",
+  "category": "materials",
+  "draw": "Close-up weave where the over-thread blocks step to form diagonal ribs.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "satin-weave",
+  "category": "materials",
+  "draw": "Smooth glossy fabric square with long floating threads and a sweeping shine curve.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "houndstooth-fabric",
+  "category": "materials",
+  "draw": "Fabric square filled with the broken check four-pointed tooth shape pattern.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "seersucker-fabric",
+  "category": "materials",
+  "draw": "Fabric square with alternating flat stripes and puckered crinkled stripes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "corduroy-fabric",
+  "category": "materials",
+  "draw": "Fabric square with raised vertical rounded ridges called wales.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "velvet-fabric",
+  "category": "materials",
+  "draw": "Draped fabric fold with a soft pile edge and a strong light and dark sheen.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "terry-cloth",
+  "category": "materials",
+  "draw": "Fabric edge showing rows of small raised loops.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "waffle-weave-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a grid of recessed square pockets.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "damask-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a large symmetrical floral medallion pattern.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "burlap-fabric",
+  "category": "materials",
+  "draw": "Coarse loose open weave square with thick threads and visible gaps.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tweed-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a rough woven texture of flecks and small dashes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "quilted-fabric",
+  "category": "materials",
+  "draw": "Puffy fabric square with diagonal diamond stitching lines.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tie-dye-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a spiral burst of radiating dyed bands.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "batik-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a wax resist pattern of crackled lines and flower shapes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "ikat-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a blurred edge diamond motif made of feathered strokes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "mudcloth-fabric",
+  "category": "materials",
+  "draw": "Fabric square with bold hand painted rows of dots, crosses and zigzag lines.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tapa-cloth",
+  "category": "materials",
+  "draw": "Bark cloth square with stamped geometric bands and triangles.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "ripstop-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a grid of thicker reinforcing threads forming small squares.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "mesh-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a regular pattern of open hexagonal holes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "faux-fur",
+  "category": "materials",
+  "draw": "Fabric swatch with a flat backing and a thick top edge of long fluffy strands.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tulle-fabric",
+  "category": "materials",
+  "draw": "Gathered fabric ruffle with a fine hexagon net texture.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "non-woven-fabric",
+  "category": "materials",
+  "draw": "Fabric square filled with random crossing short fibers and no grid.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "selvedge",
+  "category": "materials",
+  "draw": "Fabric edge with a tight woven border stripe and a line of small pin holes.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "floral-print-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a scattered repeat of small flowers and leaves.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "fair-isle-pattern",
+  "category": "materials",
+  "draw": "Knitted band with rows of small star and diamond motifs between stripe lines.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "linen-fabric",
+  "category": "materials",
+  "draw": "Slightly wrinkled fabric square with uneven slubby thread lines.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "silk-fabric",
+  "category": "materials",
+  "draw": "Flowing draped fabric with long smooth folds and a bright highlight.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "plied-yarn",
+  "category": "materials",
+  "draw": "Two strands twisting around each other into one thick yarn with a frayed end.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "hemp-fiber",
+  "category": "materials",
+  "draw": "Bundle of long straight coarse fibers tied at the middle with a hemp leaf beside it.",
+  "domain": "r3-materials-textiles"
+ }
+]

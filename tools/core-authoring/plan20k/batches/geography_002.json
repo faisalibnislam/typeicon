@@ -1,0 +1,482 @@
+[
+ {
+  "name": "europe-continent",
+  "category": "geography",
+  "draw": "Solid silhouette of the European continent with its peninsulas.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "north-america-continent",
+  "category": "geography",
+  "draw": "Solid silhouette of North America including Central America.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "south-america-continent",
+  "category": "geography",
+  "draw": "Solid silhouette of South America tapering to a point.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "globe-americas",
+  "category": "geography",
+  "draw": "Globe showing North and South America facing the viewer.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "globe-europe-africa",
+  "category": "geography",
+  "draw": "Globe showing Europe and Africa facing the viewer.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "globe-asia-australia",
+  "category": "geography",
+  "draw": "Globe showing Asia and Australia facing the viewer.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "globe-pacific",
+  "category": "geography",
+  "draw": "Globe mostly covered by ocean with scattered small islands and continent edges at the rims.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "celestial-globe",
+  "category": "geography",
+  "draw": "Globe on a stand covered with stars and constellation lines instead of land.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "around-the-world",
+  "category": "geography",
+  "draw": "Globe with a small airplane flying on a dashed orbit around it.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "wall-map",
+  "category": "geography",
+  "draw": "Pull down classroom map hanging from a roller bar with a pull cord at the bottom.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "tactile-map",
+  "category": "geography",
+  "draw": "Map outline covered with raised dots and a row of braille style dots along the bottom.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "baseplate-compass",
+  "category": "geography",
+  "draw": "Rectangular baseplate with a direction of travel arrow and a round rotating compass housing.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "lensatic-compass",
+  "category": "geography",
+  "draw": "Folding compass with an upright hinged lid holding a sighting wire over a round dial.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "binnacle",
+  "category": "geography",
+  "draw": "Ship's compass on a waist high pedestal with a domed glass top and two iron balls on its sides.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "wrist-compass",
+  "category": "geography",
+  "draw": "Small round compass dial mounted on a watch strap.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "compass-rose",
+  "category": "geography",
+  "draw": "Eight pointed star with long cardinal points, shorter intercardinal points and N at the top.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "wind-rose",
+  "category": "geography",
+  "draw": "Circular diagram with spokes of different lengths radiating from the center showing wind directions.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "quadrant-instrument",
+  "category": "geography",
+  "draw": "Quarter circle plate with a degree scale on its arc and a plumb bob hanging from the corner.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "cross-staff",
+  "category": "geography",
+  "draw": "Long straight staff with a sliding crossbar mounted across it, an old navigation tool.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "marine-chronometer",
+  "category": "geography",
+  "draw": "Round clock dial set in a square wooden box with its lid open.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "radar-screen",
+  "category": "geography",
+  "draw": "Round scope with range rings, a rotating sweep line and a few echo dots.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "sonar-ping",
+  "category": "geography",
+  "draw": "Ship hull on the water surface sending curved sound arcs down to the seabed.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "chart-dividers",
+  "category": "geography",
+  "draw": "Two legged navigation dividers with both legs ending in sharp points, opened in an upside down V.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "parallel-rulers",
+  "category": "geography",
+  "draw": "Two straight rulers joined by two pivoting arms.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "opisometer",
+  "category": "geography",
+  "draw": "Small handheld map measurer with a tiny wheel at the tip and a round distance dial.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "clinometer",
+  "category": "geography",
+  "draw": "Handheld box with a sighting hole and a round window showing a slope angle scale.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "heading-indicator",
+  "category": "geography",
+  "draw": "Round aircraft gauge with a compass card and a small airplane silhouette fixed in the center.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "artificial-horizon",
+  "category": "geography",
+  "draw": "Round aircraft gauge split into sky and ground halves by a tilted horizon line with a fixed wing symbol.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "chart-plotter",
+  "category": "geography",
+  "draw": "Marine display screen with buttons below, showing a coastline and a boat symbol.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "locator-beacon",
+  "category": "geography",
+  "draw": "Small handheld emergency beacon with a stubby antenna and a strobe light on top.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "stick-chart",
+  "category": "geography",
+  "draw": "Lattice of crossed curved sticks tied together with small shells at the joints, a Marshall Islands navigation chart.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "spoon-compass",
+  "category": "geography",
+  "draw": "Lodestone spoon resting on a square bronze plate marked with direction rings, the ancient Chinese south pointer.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "luopan-compass",
+  "category": "geography",
+  "draw": "Round dial with many concentric marked rings and a small central needle, set on a square base plate.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "qibla-compass",
+  "category": "geography",
+  "draw": "Round compass dial with a needle and a small mosque dome marker on the rim.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "ground-control-target",
+  "category": "geography",
+  "draw": "Square ground marker split into a black and white checkerboard of four squares, seen from above.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "lidar-scan",
+  "category": "geography",
+  "draw": "Small aircraft emitting a fan of laser lines down onto dotted terrain.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "survey-gps-antenna",
+  "category": "geography",
+  "draw": "Round dome antenna mounted on top of a tripod for precise survey positioning.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "stereoscope",
+  "category": "geography",
+  "draw": "Folding mirror stereoscope on four short legs over two side by side aerial photos.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "planimeter",
+  "category": "geography",
+  "draw": "Two jointed arms with a pointer tip and a small measuring wheel for measuring map areas.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "buoy",
+  "category": "geography",
+  "draw": "Navigation buoy floating on water with a tapered body, a lattice top and a light.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "channel-markers",
+  "category": "geography",
+  "draw": "Two posts in water, one topped with a flat can shape and one with a cone.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "lightship",
+  "category": "geography",
+  "draw": "Short ship hull with a tall central lattice mast carrying a big lamp.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "ships-wheel",
+  "category": "geography",
+  "draw": "Wooden ship's steering wheel with eight spokes ending in handles around the rim.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "windsock",
+  "category": "geography",
+  "draw": "Striped cone windsock on a pole, blowing out horizontally.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "gyroscope",
+  "category": "geography",
+  "draw": "Spinning disc inside nested gimbal rings on a small stand.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "wind-head",
+  "category": "geography",
+  "draw": "Round face with puffed cheeks blowing a stream of air lines, as drawn in old map corners.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "flight-route",
+  "category": "geography",
+  "draw": "Dashed curved arc between two dots with a small airplane on the arc.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "holding-pattern",
+  "category": "geography",
+  "draw": "Racetrack shaped oval flight path with an arrowhead and a small plane on it.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "sea-route",
+  "category": "geography",
+  "draw": "Dashed wavy line across water between two harbors with a small ship on it.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "cycling-route",
+  "category": "geography",
+  "draw": "Dashed path winding from a bicycle to a map pin.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "walking-route",
+  "category": "geography",
+  "draw": "Line of alternating footprints leading to a map pin.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "bus-route",
+  "category": "geography",
+  "draw": "Bus on a route line with round stop dots along it.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "ar-navigation",
+  "category": "geography",
+  "draw": "Phone held up with a large arrow floating over the street scene on its screen.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "crossroads",
+  "category": "geography",
+  "draw": "Top view of two roads crossing at right angles with dashed center lines.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "t-junction",
+  "category": "geography",
+  "draw": "Top view of a road ending at a perpendicular through road, forming a T.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "roundabout",
+  "category": "geography",
+  "draw": "Top view of a circular island with four roads meeting the ring around it.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "cul-de-sac",
+  "category": "geography",
+  "draw": "Top view of a dead end street ending in a round turning bulb.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "cloverleaf-interchange",
+  "category": "geography",
+  "draw": "Top view of two highways crossing with four looping ramps forming a clover shape.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "ring-road",
+  "category": "geography",
+  "draw": "Circular road looping around a small cluster of buildings with roads radiating out.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "highway-exit",
+  "category": "geography",
+  "draw": "Top view of a straight highway with an exit ramp curving off one side.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "lane-merge",
+  "category": "geography",
+  "draw": "Top view of two lanes narrowing into one with converging lane lines.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "lane-guidance",
+  "category": "geography",
+  "draw": "Three road lanes with arrows painted in them and one lane highlighted.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "divided-highway",
+  "category": "geography",
+  "draw": "Top view of two parallel roadways separated by a grassy median strip.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "overpass",
+  "category": "geography",
+  "draw": "Top view of one road passing over another on a short bridge deck with side rails.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "highway-gantry-sign",
+  "category": "geography",
+  "draw": "Wide rectangular sign on a gantry spanning the lanes, with down arrows over each lane.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "bike-lane",
+  "category": "geography",
+  "draw": "Road lane with a bicycle symbol painted on it beside a solid edge line.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "road-tunnel",
+  "category": "geography",
+  "draw": "Road entering an arched tunnel opening cut into a hillside.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "alternative-route",
+  "category": "geography",
+  "draw": "Two separate paths leaving one dot and rejoining at a map pin.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "round-trip-route",
+  "category": "geography",
+  "draw": "Closed loop route that starts and ends at the same map pin.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "traffic-jam",
+  "category": "geography",
+  "draw": "Row of small cars bumper to bumper, the front car larger and the rest overlapping behind.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "level-crossing",
+  "category": "geography",
+  "draw": "Railway track crossing a road with a crossbuck X sign on a post beside it.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "orienteering-flag",
+  "category": "geography",
+  "draw": "Hanging square prism marker divided diagonally into two halves, on a short stake.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "map-and-compass",
+  "category": "geography",
+  "draw": "Folded paper map with a baseplate compass resting on top.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "geocache",
+  "category": "geography",
+  "draw": "Small ammo style box with a latched lid and a map pin above it.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "waymarker-post",
+  "category": "geography",
+  "draw": "Short wooden post with a small arrow disc near its top.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "summit-cross",
+  "category": "geography",
+  "draw": "Tall cross standing on a pointed mountain peak.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "mountain-hut",
+  "category": "geography",
+  "draw": "Small alpine hut with a steep roof set on a rocky slope.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "via-ferrata",
+  "category": "geography",
+  "draw": "Steep rock face with a steel cable and metal rungs climbing up it.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "cattle-guard",
+  "category": "geography",
+  "draw": "Top view of a road crossed by a row of parallel metal bars set in a pit.",
+  "domain": "maps-navigation-geography"
+ },
+ {
+  "name": "river-ford",
+  "category": "geography",
+  "draw": "Road dipping into shallow river water and rising out on the far bank, with a depth post.",
+  "domain": "maps-navigation-geography"
+ }
+]

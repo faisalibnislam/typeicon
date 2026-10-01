@@ -1,0 +1,482 @@
+[
+ {
+  "name": "hotel-key-rack",
+  "category": "hospitality",
+  "draw": "Wall board of small pigeonhole cubbies in a grid with room keys on large tags hanging from hooks below some of the cubbies.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "keycard-sleeve",
+  "category": "hospitality",
+  "draw": "Small folded paper wallet with a plastic key card sticking out of the top and a short line for a room number on the front.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "guest-registration-card",
+  "category": "hospitality",
+  "draw": "Card with a few form lines, a small box for a signature line at the bottom and a pen lying diagonally across it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "late-checkout",
+  "category": "hospitality",
+  "draw": "Door slightly ajar with a round clock face overlapping its lower corner, hands pointing to a late hour.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "room-number-sign",
+  "category": "hospitality",
+  "draw": "Small rectangular plaque mounted beside a door frame with three bold digit shapes on it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "room-direction-sign",
+  "category": "hospitality",
+  "draw": "Corridor wall sign with two stacked panels, the top panel with an arrow pointing one way and the bottom with an arrow pointing the other, short text lines beside each.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "key-card-encoder",
+  "category": "hospitality",
+  "draw": "Small desktop box with a slot on top and a key card half inserted into the slot, a tiny indicator light on the front.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "valet-ticket",
+  "category": "hospitality",
+  "draw": "Tall paper ticket with a perforated tear-off stub at the bottom, a string loop at the top and a car silhouette printed on the stub.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "valet-podium",
+  "category": "hospitality",
+  "draw": "Narrow standing podium with a small key cabinet door on its front face and an umbrella leaning against its side.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "hotel-entrance-canopy",
+  "category": "hospitality",
+  "draw": "Front view of a building entrance with a long flat canopy projecting out over the doors on two slim poles.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "safe-deposit-boxes",
+  "category": "hospitality",
+  "draw": "Wall of small numbered metal doors in a grid, each with a tiny keyhole, one door slightly open.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "guest-directory",
+  "category": "hospitality",
+  "draw": "Closed ring binder with a leather style cover, a small bell emblem on the front and a ribbon bookmark hanging out.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "hotel-stationery",
+  "category": "hospitality",
+  "draw": "Small notepad with a crest shaped mark at the top and a slim pen lying beside it, a folded envelope tucked behind.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "comment-card",
+  "category": "hospitality",
+  "draw": "Small upright folded card on a table with three short lines and a row of five small circles for rating.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "lost-and-found",
+  "category": "hospitality",
+  "draw": "Open cardboard box with an umbrella handle, a glove and a key sticking out of the top.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "umbrella-bag-stand",
+  "category": "hospitality",
+  "draw": "Upright stand with a roll of long narrow plastic sleeves on top and a closed wet umbrella being slid into one sleeve.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "taxi-whistle",
+  "category": "hospitality",
+  "draw": "Small metal whistle on a lanyard loop with three short sound lines coming from its mouth end.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "wifi-voucher",
+  "category": "hospitality",
+  "draw": "Small printed ticket slip with a wifi fan symbol at the top and two short code lines below.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "evacuation-map",
+  "category": "hospitality",
+  "draw": "Framed floor plan on a wall with a dot marking the viewer's position and a dashed route line leading to an exit door symbol.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "room-status-panel",
+  "category": "hospitality",
+  "draw": "Square wall panel beside a door with a doorbell button and two small round lamps, one showing a crescent moon and one showing a broom.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "hospitality-tray",
+  "category": "hospitality",
+  "draw": "Small rectangular tray holding a kettle, two cups and a little pot of sachets, seen from the front at a slight angle.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "toiletry-set",
+  "category": "hospitality",
+  "draw": "Three miniature bottles of different heights standing in a row on a small tray.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "wrapped-soap",
+  "category": "hospitality",
+  "draw": "Rectangular soap bar in a paper wrapper with a band around its middle and a small leaf emblem on the band.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "cotton-ball-jar",
+  "category": "hospitality",
+  "draw": "Short apothecary style glass jar with a round lid, filled with round fluffy cotton balls.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "dental-kit",
+  "category": "hospitality",
+  "draw": "Small toothbrush and a tiny toothpaste tube lying side by side on an open pouch.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "shaving-kit",
+  "category": "hospitality",
+  "draw": "Disposable razor and a small tube of shaving cream crossed over each other in front of a zipped pouch.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "bathtub-caddy",
+  "category": "hospitality",
+  "draw": "Long slatted tray bridging the rim of a bathtub with a book and a candle sitting on it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "toilet-paper-fold",
+  "category": "hospitality",
+  "draw": "Toilet paper roll on a holder with its loose end folded into a neat pointed triangle.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "sanitized-seat-band",
+  "category": "hospitality",
+  "draw": "Toilet seen from the front with a paper strip band wrapped across the closed seat.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "sanitized-glass-cap",
+  "category": "hospitality",
+  "draw": "Drinking tumbler with a pleated paper cap covering its rim.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "miniature-liquor-bottle",
+  "category": "hospitality",
+  "draw": "Tiny flat sided spirits bottle with a short neck and screw cap, shown beside a coin for scale.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "dry-cleaning-bag",
+  "category": "hospitality",
+  "draw": "Clothes hanger with a long clear plastic cover draped over a shirt, the plastic tied in a knot at the bottom.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "anti-theft-hanger",
+  "category": "hospitality",
+  "draw": "Wooden clothes hanger with no hook, instead a small metal ring at the top threaded onto a short rail stud.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "linen-cart",
+  "category": "hospitality",
+  "draw": "Tall wheeled canvas bin on a metal frame with folded sheets piled above its rim.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "linen-chute",
+  "category": "hospitality",
+  "draw": "Wall hatch with a hinged door tilted open and a bundle of sheets sliding into it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "bed-making",
+  "category": "hospitality",
+  "draw": "Bed side view with a sheet billowing in the air above the mattress as it is spread out.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "bed-runner",
+  "category": "hospitality",
+  "draw": "Neatly made bed seen from the foot with a contrasting wide band of fabric draped across its lower part.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "pillow-menu",
+  "category": "hospitality",
+  "draw": "Folded card menu standing upright with small outlines of three differently shaped pillows listed down its front.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "sea-view",
+  "category": "hospitality",
+  "draw": "Rectangular window frame with two wavy water lines and a small sun on the horizon inside it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "city-view",
+  "category": "hospitality",
+  "draw": "Rectangular window frame with a skyline of tall rectangular buildings of different heights inside it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "mountain-view",
+  "category": "hospitality",
+  "draw": "Rectangular window frame with two overlapping pointed mountain peaks inside it, one with a snow cap.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "garden-view",
+  "category": "hospitality",
+  "draw": "Rectangular window frame with a round topped tree and a low hedge line inside it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "door-newspaper",
+  "category": "hospitality",
+  "draw": "Door handle with a cloth bag hanging from it and a rolled newspaper poking out of the bag.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "welcome-drink",
+  "category": "hospitality",
+  "draw": "Tall glass with a flower garnish and a straw sitting on a small round tray.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "tray-jack",
+  "category": "hospitality",
+  "draw": "Folding X shaped stand with two fabric straps across the top, a serving tray resting on it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "sunbed-service-flag",
+  "category": "hospitality",
+  "draw": "Sun lounger seen from the side with a small triangular flag raised on a short pole clipped to its arm.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "event-wristband",
+  "category": "hospitality",
+  "draw": "Fabric wristband loop with a small plastic locking bead where the two ends meet.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "drink-token",
+  "category": "hospitality",
+  "draw": "Round coin shaped token with a cocktail glass silhouette cut through its center.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "crumb-scraper",
+  "category": "hospitality",
+  "draw": "Slim curved metal blade held at an angle sweeping a few crumbs across a table edge.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "silent-butler",
+  "category": "hospitality",
+  "draw": "Small round lidded pan with a long flat handle and a hinged lid tilted open, crumbs inside.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "order-pad",
+  "category": "hospitality",
+  "draw": "Small spiral top notepad with lines of scribble and a short pencil tucked behind it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "tip-jar",
+  "category": "hospitality",
+  "draw": "Glass jar with a few coins and a folded banknote inside and a small tag tied around its neck.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "carrying-plates",
+  "category": "hospitality",
+  "draw": "Forearm and hand balancing three round plates, one in the hand and two resting along the arm.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "wine-presentation",
+  "category": "hospitality",
+  "draw": "Hand holding a wine bottle horizontally with the label facing out and a folded napkin draped under the bottle.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "wine-list",
+  "category": "hospitality",
+  "draw": "Tall narrow leather style menu cover with a wine bottle silhouette embossed on the front.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "kids-menu",
+  "category": "hospitality",
+  "draw": "Menu card with a simple smiley face at the top and two crayons lying diagonally across the lower corner.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "qr-menu",
+  "category": "hospitality",
+  "draw": "Small tent card standing on a table with a square QR code pattern printed on its face.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "glass-polishing",
+  "category": "hospitality",
+  "draw": "Hand gripping a cloth wrapped around the bowl of a wine glass held up at an angle, with small sparkle marks.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "table-call-button",
+  "category": "hospitality",
+  "draw": "Small round button unit on a table with a large push dome and three short signal arcs above it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "rolled-hot-towel",
+  "category": "hospitality",
+  "draw": "Small rolled white towel lying in a narrow oblong tray with wavy steam lines rising.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "chopstick-sleeve",
+  "category": "hospitality",
+  "draw": "Pair of chopsticks slid halfway into a slim paper sleeve.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "rolled-silverware",
+  "category": "hospitality",
+  "draw": "Napkin rolled into a tube with a fork, knife and spoon handles showing at one end and a paper band around the middle.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "charger-plate",
+  "category": "hospitality",
+  "draw": "Large round plate with a wide decorative beaded rim and a smaller dinner plate set on top of it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "bread-plate",
+  "category": "hospitality",
+  "draw": "Small round plate with a butter knife resting across its top edge and a bread roll on it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "fish-knife",
+  "category": "hospitality",
+  "draw": "Knife with a wide flat blade, a notched pointed tip and no serration, seen flat from above.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "steak-knife",
+  "category": "hospitality",
+  "draw": "Knife with a pointed blade and a serrated edge and a thick riveted handle, seen from the side.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "cake-fork",
+  "category": "hospitality",
+  "draw": "Small fork with three tines where the left tine is noticeably wider and flattened.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "oyster-fork",
+  "category": "hospitality",
+  "draw": "Short slim fork with three small curved tines and a long thin handle beside an open oyster shell.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "fondue-fork",
+  "category": "hospitality",
+  "draw": "Two very long thin forks with two prongs each and small round colored tips on their handles, crossed.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "snail-tongs",
+  "category": "hospitality",
+  "draw": "Spring loaded tongs with two cupped rounded jaws holding a spiral snail shell.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "escargot-plate",
+  "category": "hospitality",
+  "draw": "Round plate seen from above with six small round dimples arranged in a ring.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "lobster-cracker",
+  "category": "hospitality",
+  "draw": "Hinged nutcracker style tool with two ridged jaws wrapped around a lobster claw.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "lobster-bib",
+  "category": "hospitality",
+  "draw": "Bib with neck ties and a simple lobster outline printed on its front.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "finger-bowl",
+  "category": "hospitality",
+  "draw": "Shallow round bowl of water with a lemon slice floating in it, seen at a slight angle.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "cruet-stand",
+  "category": "hospitality",
+  "draw": "Small stand with a central carrying handle holding two stoppered glass bottles and two small shakers.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "condiment-caddy",
+  "category": "hospitality",
+  "draw": "Small rectangular carrier with a handle holding a squeeze bottle, a salt shaker and a napkin stack.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "sugar-caddy",
+  "category": "hospitality",
+  "draw": "Small rectangular holder with upright paper sugar packets standing inside it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "toothpick-holder",
+  "category": "hospitality",
+  "draw": "Small cup holding a bundle of upright toothpicks with one leaning out.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "salt-cellar",
+  "category": "hospitality",
+  "draw": "Tiny open round dish on short feet filled with salt and a miniature spoon resting in it.",
+  "domain": "r3-hospitality-service"
+ },
+ {
+  "name": "cheese-shaker",
+  "category": "hospitality",
+  "draw": "Glass jar with a domed metal lid pierced with holes and a hinged flap, grated cheese inside.",
+  "domain": "r3-hospitality-service"
+ }
+]

@@ -1,0 +1,234 @@
+{
+  "allergy": {
+    "context": "A flower releasing pollen into the air. Used for allergy and hay fever alerts, pollen counts in weather apps, allergen labels and antihistamine products.",
+    "keywords": ["pollen", "hay fever", "allergen", "allergens", "sneezing", "seasonal", "seasonal allergy", "hives", "pollen count", "flower", "plant", "spring", "antihistamine", "allergic", "allergic reaction", "rhinitis", "itchy eyes", "runny nose", "immune", "sensitivity", "weather"]
+  },
+  "ambulance": {
+    "context": "An ambulance van with a plus sign on its side. Used for emergency services, calling for medical help, hospital transport, paramedic apps and first-aid signage.",
+    "keywords": ["emergency", "emergency vehicle", "paramedic", "paramedics", "emt", "vehicle", "van", "rescue", "911", "999", "112", "hospital", "medical transport", "urgent care", "siren", "first responder", "accident", "medical emergency", "ems", "patient transport", "healthcare"]
+  },
+  "bacteria": {
+    "context": "A rod-shaped bacterium with a whip-like tail. Germ and infection warnings, hygiene and cleaning products, microbiology lessons and antibiotic information use it.",
+    "keywords": ["germ", "germs", "microbe", "microbes", "bacterium", "infection", "microbiology", "bacillus", "flagellum", "pathogen", "antibacterial", "antibiotic", "antibiotics", "hygiene", "disease", "contamination", "probiotic", "microorganism", "lab", "science", "dirty", "bug"]
+  },
+  "band-aid": {
+    "context": "An adhesive bandage strip with a pad in the middle. Used for small cuts and minor injuries, first aid, and quick fixes or patches in software release notes.",
+    "keywords": ["plaster", "sticking plaster", "adhesive bandage", "bandage", "wound", "cut", "scratch", "first aid", "injury", "heal", "healing", "fix", "patch", "quick fix", "hotfix", "repair", "graze", "boo boo", "medical", "pharmacy", "skin"]
+  },
+  "bandage": {
+    "context": "A roll of gauze bandage, partly unrolled. Common in wound care and dressings, first-aid kits and supplies, injury guides and pharmacy product listings.",
+    "keywords": ["gauze", "dressing", "wrap", "roll", "wound", "wound care", "first aid", "injury", "sprain", "compression", "medical supplies", "pharmacy", "crepe bandage", "elastic bandage", "bind", "heal", "nursing", "hospital", "cotton"]
+  },
+  "blood-bag": {
+    "context": "A blood bag marked with a drop, with its tube hanging below. Used for blood donation drives, blood banks, transfusion services and hospital inventory.",
+    "keywords": ["blood donation", "donor", "blood bank", "plasma", "blood", "blood pack", "transfusion", "donate", "donate blood", "blood type", "blood group", "platelets", "hospital", "iv", "drip", "haematology", "hematology", "give blood", "blood drive", "medical"]
+  },
+  "blood-pressure": {
+    "context": "A blood-pressure gauge with its dial and inflation bulb. Used for BP readings in health apps, hypertension content, vital signs in patient records and home monitoring.",
+    "keywords": ["sphygmomanometer", "hypertension", "hypotension", "bp", "gauge", "vital signs", "vitals", "cuff", "pressure cuff", "systolic", "diastolic", "heart health", "cardiology", "checkup", "nurse", "reading", "mmhg", "pulse", "bp monitor", "high blood pressure"]
+  },
+  "body-scan": {
+    "context": "A standing figure inside scanner brackets, crossed by a scan line. Used for MRI and CT imaging, full-body screening, security scanners and body measurement apps.",
+    "keywords": ["scan", "scanning", "mri", "ct scan", "ct", "full body", "full body scan", "screening", "imaging", "radiology", "body scanner", "security scan", "airport security", "x-ray", "diagnostic", "body composition", "3d body scan", "detection", "check", "medical imaging"]
+  },
+  "calories": {
+    "context": "A flame inside a progress ring, for calories burned. Fitness trackers, workout summaries, activity goals and diet or meal logging apps use it.",
+    "keywords": ["kcal", "calorie", "burn", "burned", "calories burned", "energy", "fitness", "diet", "metabolism", "activity", "activity ring", "workout", "exercise", "fat burn", "goal", "progress", "tracker", "nutrition", "weight loss", "cal", "flame", "fire"]
+  },
+  "capsule": {
+    "context": "A medicine capsule with granules in one half. Used for medication reminders, pharmacy and drug listings, supplements and vitamins, and prescription apps.",
+    "keywords": ["medicine", "pill", "gel cap", "gelcap", "drug", "drugs", "medication", "supplement", "supplements", "vitamin", "vitamins", "tablet", "dose", "dosage", "pharmacy", "prescription", "antibiotic", "pharmaceutical", "time release", "meds", "medication reminder"]
+  },
+  "cast-arm": {
+    "context": "A bent arm in a plaster cast with the hand showing. Used for broken bones and fractures, orthopedic clinics, injury reports and sick leave or insurance claims.",
+    "keywords": ["broken arm", "fracture", "plaster cast", "cast", "injury", "orthopedic", "orthopaedic", "bone", "broken bone", "sling", "arm", "fractured arm", "accident", "emergency room", "recovery", "healing", "insurance claim", "sick leave", "x-ray", "broken wrist"]
+  },
+  "cough": {
+    "context": "A face coughing, with puff lines coming from the mouth. Used for cold and flu symptoms, respiratory illness checkers, cover-your-cough hygiene signs and telehealth apps.",
+    "keywords": ["cold", "flu", "sick", "ill", "respiratory", "illness", "symptom", "symptoms", "coughing", "sore throat", "chest infection", "covid", "virus", "germs", "spread", "hygiene", "influenza", "bronchitis", "telehealth", "unwell"]
+  },
+  "crutch": {
+    "context": "An underarm crutch with a padded top, a hand grip and a rubber tip. Common in injury and recovery content, mobility aid listings, fracture care and rehab services.",
+    "keywords": ["injury", "mobility", "walking aid", "mobility aid", "broken leg", "support", "rehab", "rehabilitation", "recovery", "crutches", "fracture", "sprain", "limp", "disability", "physiotherapy", "orthopedic", "walking stick", "assistive", "sick leave", "accident"]
+  },
+  "defibrillator": {
+    "context": "A defibrillator case marked with a heart and a lightning bolt. Used for AED locations on maps and signs, cardiac emergencies, first-aid training and CPR guides.",
+    "keywords": ["aed", "cardiac arrest", "shock", "heart", "resuscitation", "cpr", "emergency", "heart attack", "first aid", "electric shock", "lightning", "cardiac", "life saving", "heart restart", "defib", "rescue", "medical emergency", "public access", "paddles"]
+  },
+  "dental": {
+    "context": "A clean tooth with a sparkle beside it. Dental clinics, teeth whitening, oral care products and checkup reminders use it.",
+    "keywords": ["dentist", "tooth", "teeth", "dental care", "oral health", "hygiene", "dentistry", "clean teeth", "sparkle", "whitening", "teeth whitening", "toothpaste", "checkup", "oral care", "bright smile", "polish", "fresh", "cavity free", "dental clinic", "hygienist"]
+  },
+  "dna-helix": {
+    "context": "A DNA double helix with base-pair rungs between the strands. Used in genetics and genomics, biotech and pharmaceutical research, ancestry tests and science lessons.",
+    "keywords": ["dna", "genetics", "gene", "genes", "genome", "genomics", "biology", "chromosome", "double helix", "base pairs", "sequencing", "genetic testing", "ancestry", "heredity", "biotech", "research", "molecule", "science", "mutation", "lab"]
+  },
+  "dropper": {
+    "context": "A medicine dropper with a rubber bulb, releasing a drop. Used for eye drops and liquid doses, lab pipettes, skin serums and oils, and pharmacy listings.",
+    "keywords": ["eye drops", "eyedropper", "pipette", "dose", "dosage", "liquid", "medicine", "drop", "drops", "liquid medicine", "serum", "tincture", "essential oil", "ear drops", "lab", "chemistry", "sample", "drip", "baby medicine", "skincare"]
+  },
+  "ecg": {
+    "context": "A monitor showing an electrocardiogram trace. Found in hospital heart monitoring, cardiology tests, vital signs dashboards and wearable heart rhythm readings.",
+    "keywords": ["electrocardiogram", "ekg", "heart monitor", "cardiogram", "pulse", "vital signs", "vitals", "heart rate", "heart rhythm", "cardiology", "monitor", "patient monitor", "heartbeat", "arrhythmia", "icu", "hospital", "trace", "waveform", "cardiac", "screen"]
+  },
+  "eye-chart": {
+    "context": "An eye test chart topped with a large letter E. Used for eye exams and optometry, vision tests, opticians and eyewear shops, and eye-care booking.",
+    "keywords": ["snellen", "snellen chart", "eye test", "eye exam", "vision", "vision test", "optometry", "optometrist", "eyesight", "optician", "ophthalmology", "letters", "reading chart", "sight test", "visual acuity", "20/20", "glasses", "contact lenses", "prescription", "eye doctor"]
+  },
+  "face-mask": {
+    "context": "A surgical face mask with pleats and ear loops. Used for mask-required signs, infection control and hygiene rules, pandemic guidance and medical supplies.",
+    "keywords": ["mask", "surgical mask", "medical mask", "covid", "covid-19", "coronavirus", "protection", "respirator", "hygiene", "ppe", "infection control", "pandemic", "flu", "virus", "germs", "safety", "mask required", "cover face", "dust mask", "health", "prevention"]
+  },
+  "fever": {
+    "context": "A face with a thermometer in its mouth. Fever and high temperature symptoms, sick days, cold and flu checkers and child health apps use it.",
+    "keywords": ["temperature", "high temperature", "sick", "ill", "illness", "flu", "cold", "hot", "thermometer", "feverish", "symptom", "sick day", "unwell", "infection", "covid", "virus", "chills", "pyrexia", "child health", "telehealth"]
+  },
+  "first-aid": {
+    "context": "A first-aid kit: a case with a handle and a plus sign. Used for first-aid stations on signs and maps, medical supplies, emergency help and health and safety sections.",
+    "keywords": ["first aid kit", "medical kit", "medkit", "emergency", "aid", "case", "health", "first aider", "medical supplies", "safety", "emergency kit", "help", "plus", "medical bag", "doctor's bag", "injury", "health and safety", "rescue", "healthcare", "box", "travel kit", "survival kit"]
+  },
+  "flask": {
+    "context": "A conical laboratory flask holding liquid. Used for chemistry and science lessons, lab tests and experiments, beta or experimental settings in software, and potions in games.",
+    "keywords": ["erlenmeyer", "erlenmeyer flask", "lab", "laboratory", "chemistry", "chemical", "experiment", "experimental", "science", "potion", "beaker", "test", "research", "beta", "labs", "liquid", "formula", "reaction", "pharmacy", "alchemy", "magic"]
+  },
+  "glasses": {
+    "context": "A pair of eyeglasses with full-rim lenses. Common in opticians and eyewear shops, reading modes, eye tests and vision or zoom settings.",
+    "keywords": ["eyeglasses", "spectacles", "specs", "vision", "optician", "optometrist", "eyewear", "sight", "lenses", "frames", "reading glasses", "prescription glasses", "reading", "nearsighted", "farsighted", "myopia", "eye test", "eye care", "nerd", "smart", "view", "look"]
+  },
+  "hearing-aid": {
+    "context": "A behind-the-ear hearing aid with its tube and ear tip. Used for audiology services, hearing loss support, assistive technology settings and accessibility information.",
+    "keywords": ["hearing", "deaf", "audiology", "audiologist", "ear", "hard of hearing", "assistive", "assistive technology", "hearing loss", "hearing impaired", "behind the ear", "bte", "amplifier", "accessibility", "a11y", "sound", "hearing device", "earpiece", "listening"]
+  },
+  "heart-pulse": {
+    "context": "A heart with a pulse line running across it. Used for heart rate readings in fitness trackers, cardiology services, health dashboards and vital signs.",
+    "keywords": ["heart rate", "pulse", "cardio", "health", "vital signs", "vitals", "cardiology", "heartbeat", "bpm", "heart monitor", "fitness tracker", "wellness", "life", "alive", "medical", "ecg", "ekg", "heart health", "rhythm", "healthcare"]
+  },
+  "heartbeat": {
+    "context": "A heart with small pulse marks on both sides, as if beating. Used for heart rate, live or alive status, pulse checks and animated like or love reactions.",
+    "keywords": ["pulse", "heart", "beat", "beating heart", "cardio", "alive", "rhythm", "heart rate", "bpm", "pulsing", "throbbing", "love", "like", "excited", "palpitations", "live", "health", "vital signs", "cardiology", "thump"]
+  },
+  "hospital": {
+    "context": "A hospital building with a plus sign on its central tower. Shows up on maps for hospitals and clinics, healthcare facility listings, emergency departments and insurance networks.",
+    "keywords": ["clinic", "medical center", "medical centre", "infirmary", "building", "emergency", "emergency room", "er", "a&e", "healthcare", "health care", "doctor", "medical", "ward", "surgery", "inpatient", "health centre", "treatment", "health insurance", "healthcare facility"]
+  },
+  "hospital-bed": {
+    "context": "A hospital bed with a raised backrest and wheels. Used for patient admission and bed availability, inpatient wards, home care equipment and recovery status.",
+    "keywords": ["patient", "ward", "inpatient", "bed", "admission", "care", "admitted", "bed availability", "icu", "intensive care", "recovery", "sick", "illness", "nursing", "home care", "medical bed", "bedridden", "hospitalized", "hospitalised", "rest", "surgery"]
+  },
+  "inhaler": {
+    "context": "An asthma inhaler: a canister in an L-shaped body with a mouthpiece. Used for asthma and COPD care, respiratory medication reminders and pharmacy listings.",
+    "keywords": ["asthma", "puffer", "respiratory", "breathing", "copd", "medicine", "medication", "spray", "aerosol", "bronchodilator", "lungs", "breathe", "wheeze", "reliever", "preventer", "dose", "pharmacy", "allergy", "shortness of breath", "pump"]
+  },
+  "iv-bag": {
+    "context": "An intravenous drip bag with measuring marks and a tube. Used for infusion therapy, hospital care and hydration, patient charts and IV clinics.",
+    "keywords": ["iv", "drip", "saline", "infusion", "intravenous", "hospital", "fluids", "hydration", "iv drip", "iv therapy", "drip bag", "medication", "chemotherapy", "chemo", "patient", "nurse", "treatment", "vitamin drip", "dehydration", "medical"]
+  },
+  "medical-clipboard": {
+    "context": "A clipboard marked with a medical plus sign. Used for medical records and patient charts, health reports and checkup forms, intake questionnaires and test results.",
+    "keywords": ["medical record", "medical records", "chart", "patient chart", "patient", "health report", "checkup", "check-up", "form", "intake form", "clipboard", "diagnosis", "health record", "ehr", "results", "test results", "questionnaire", "history", "doctor notes", "assessment", "report"]
+  },
+  "medical-cross": {
+    "context": "A plain plus-shaped medical cross. Health and medical sections, pharmacies and clinics on maps, first aid and medical insurance pages use it.",
+    "keywords": ["medical", "health", "plus", "pharmacy", "chemist", "care", "clinic", "first aid", "hospital", "doctor", "healthcare", "emergency", "nurse", "cross", "medic", "treatment", "health insurance", "medicine", "aid station", "wellness"]
+  },
+  "medical-thermometer": {
+    "context": "A digital clinical thermometer with a small display. Used for body temperature readings, fever checks, symptom logs and baby or child health apps.",
+    "keywords": ["thermometer", "temperature", "fever", "digital", "digital thermometer", "body temperature", "clinical", "reading", "sick", "ill", "flu", "high temperature", "measure", "degrees", "celsius", "fahrenheit", "symptom", "baby health", "checkup", "health"]
+  },
+  "meditation": {
+    "context": "A person sitting cross-legged in meditation. Used for mindfulness apps, yoga classes, relaxation and stress relief, and quiet or focus modes.",
+    "keywords": ["yoga", "mindfulness", "mindful", "calm", "zen", "relax", "relaxation", "lotus", "lotus pose", "meditate", "breathe", "breathing", "stress relief", "wellness", "wellbeing", "focus", "peace", "spiritual", "sitting", "quiet time", "self care", "retreat"]
+  },
+  "mental-health": {
+    "context": "A head in profile with a heart inside. Used for mental health and wellbeing services, therapy and counselling, emotional support pages and self-care apps.",
+    "keywords": ["wellbeing", "well-being", "mind", "psychology", "emotional health", "therapy", "therapist", "counselling", "counseling", "self care", "mental wellness", "emotions", "mindfulness", "support", "psychiatry", "anxiety", "depression", "stress", "care", "kindness", "empathy", "mental"]
+  },
+  "microscope": {
+    "context": "A laboratory microscope with a tilted tube, a stage and a base. Science and lab work, biology lessons, research and analysis, and close inspection tools use it.",
+    "keywords": ["lab", "laboratory", "science", "research", "biology", "magnify", "magnification", "microbiology", "analysis", "examine", "inspect", "study", "specimen", "slide", "pathology", "chemistry", "scientist", "education", "zoom", "discovery", "investigate"]
+  },
+  "nutrition": {
+    "context": "A plate divided into food portions beside a fork. Used for diet and meal planning, healthy eating guides, nutritionist services and food logging apps.",
+    "keywords": ["diet", "healthy eating", "balanced diet", "food", "meal plan", "meal planning", "nutritionist", "dietitian", "plate", "portion", "portions", "food groups", "meal", "calories", "eating", "healthy food", "lunch", "dinner", "macros", "vegetables", "weight loss", "fork"]
+  },
+  "ointment": {
+    "context": "A tube of ointment with a crimped end and a cap. Used for creams and topical treatments, skin care products, pharmacy listings and first-aid supplies.",
+    "keywords": ["cream", "gel", "tube", "topical", "lotion", "skin care", "skincare", "balm", "salve", "antiseptic", "rash", "eczema", "burn cream", "moisturiser", "moisturizer", "pharmacy", "medicine", "apply", "first aid", "dermatology"]
+  },
+  "oxygen-tank": {
+    "context": "An oxygen cylinder with a valve and a pressure gauge. Found in oxygen therapy, respiratory care, hospital equipment lists and diving or compressed gas contexts.",
+    "keywords": ["oxygen", "o2", "cylinder", "gas cylinder", "respiratory", "gas", "breathing", "oxygen therapy", "oxygen supply", "tank", "compressed gas", "scuba", "diving", "valve", "gauge", "hospital", "ventilation", "copd", "medical gas", "air"]
+  },
+  "pill": {
+    "context": "An oblong pill split into two halves. Used for medication reminders, pharmacy listings, dosage schedules and drug information.",
+    "keywords": ["medicine", "tablet", "drug", "drugs", "medication", "pharmacy", "dose", "dosage", "capsule", "meds", "painkiller", "antibiotic", "vitamin", "supplement", "prescription", "pharmaceutical", "take medicine", "reminder", "treatment", "remedy"]
+  },
+  "pill-bottle": {
+    "context": "A prescription pill bottle with a cap and a label. Used for prescription refills, pharmacy orders, medicine cabinets and vitamin or supplement stores.",
+    "keywords": ["medicine bottle", "pills", "pharmacy", "prescription", "medication", "vitamins", "supplements", "refill", "prescription refill", "drugstore", "chemist", "meds", "container", "pill container", "tablets", "bottle", "dispensary", "medicine cabinet", "dose", "pharmacist"]
+  },
+  "pills": {
+    "context": "A capsule and a round tablet side by side. Common in medication lists and prescriptions, pharmacy departments, drug information and supplement shops.",
+    "keywords": ["medicine", "tablets", "drugs", "medication", "medications", "pharmacy", "prescription", "capsule", "tablet", "meds", "pill", "dose", "vitamins", "supplements", "pharmaceutical", "chemist", "drugstore", "treatment", "painkillers", "remedies"]
+  },
+  "prescription": {
+    "context": "A prescription sheet marked with the Rx symbol. Used for doctor's prescriptions, e-prescribing, pharmacy pickups and medication records.",
+    "keywords": ["rx", "medicine", "pharmacy", "doctor", "script", "medication", "prescribe", "e-prescription", "eprescription", "refill", "drugs", "pharmacist", "physician", "order", "medical note", "treatment", "dispense", "chemist", "form", "meds"]
+  },
+  "quarantine": {
+    "context": "A house with a virus inside it, for staying home. Used for quarantine and self-isolation guidance, lockdown notices, sick-leave status and public health updates.",
+    "keywords": ["isolation", "stay home", "stay at home", "lockdown", "self-isolate", "self isolation", "pandemic", "virus", "covid", "covid-19", "coronavirus", "sick at home", "home", "house", "infection", "outbreak", "epidemic", "contagious", "work from home", "sick leave", "public health"]
+  },
+  "scalpel": {
+    "context": "A surgical scalpel with a curved blade. Used for surgery and operations, surgeon profiles and procedures, dissection in science lessons and precise cut tools.",
+    "keywords": ["surgery", "surgical", "knife", "surgeon", "operation", "cut", "blade", "incision", "procedure", "dissection", "lancet", "operating room", "theatre", "precision", "medical instrument", "sharp", "cutting tool", "cosmetic surgery", "craft knife", "trim"]
+  },
+  "sleep": {
+    "context": "A crescent moon with the letters Z Z beside it. Sleep tracking, bedtime and night modes, do not disturb settings and snooze timers use it.",
+    "keywords": ["rest", "bedtime", "night", "insomnia", "zzz", "nap", "sleeping", "moon", "crescent", "dream", "tired", "snooze", "do not disturb", "night mode", "idle", "standby", "goodnight", "slumber", "hibernate", "asleep"]
+  },
+  "sneeze": {
+    "context": "A face sneezing, with a spray of droplets. Used for allergy and cold symptoms, hygiene signs about covering sneezes, flu checkers and germ spread guidance.",
+    "keywords": ["achoo", "cold", "allergy", "sick", "germs", "flu", "sneezing", "hay fever", "runny nose", "droplets", "spread", "infection", "virus", "hygiene", "tissue", "covid", "symptom", "illness", "common cold", "unwell"]
+  },
+  "splint": {
+    "context": "A limb held by a splint board with two straps. Used for fractures and sprains, first-aid instructions, orthopedic supports and injury reports.",
+    "keywords": ["fracture", "immobilize", "immobilise", "brace", "injury", "first aid", "support", "broken bone", "broken limb", "sprain", "orthopedic", "orthopaedic", "straps", "board", "stabilize", "emergency", "sports injury", "recovery", "accident", "limb"]
+  },
+  "stethoscope": {
+    "context": "A stethoscope with earpieces, tubing and a chest piece. Doctors and GP appointments, health checkups, medical services and diagnosis pages use it.",
+    "keywords": ["doctor", "physician", "checkup", "check-up", "exam", "examination", "heart", "listen", "gp", "general practitioner", "nurse", "medical", "diagnosis", "appointment", "clinic", "healthcare", "auscultation", "health check", "medic", "consultation", "telehealth"]
+  },
+  "syringe": {
+    "context": "A syringe with a needle, a graduated barrel and a plunger. Used for injections and vaccinations, blood tests, insulin doses and vaccination records.",
+    "keywords": ["injection", "needle", "shot", "jab", "vaccination", "vaccine", "medicine", "inject", "insulin", "diabetes", "dose", "blood test", "immunization", "immunisation", "flu shot", "booster", "nurse", "hypodermic", "drug", "dosage"]
+  },
+  "test-tube": {
+    "context": "A test tube holding liquid. Used for lab samples and blood tests, chemistry experiments, science lessons and test results in patient portals.",
+    "keywords": ["lab", "laboratory", "sample", "specimen", "chemistry", "experiment", "blood test", "lab test", "lab results", "test results", "science", "research", "vial", "tube", "liquid", "analysis", "diagnostics", "pathology", "chemical", "beta"]
+  },
+  "transfusion": {
+    "context": "A blood bag with a tube running down to a patient. Used for blood transfusions, donation and blood services, hospital treatment and haematology.",
+    "keywords": ["blood transfusion", "blood", "donation", "infusion", "drip", "hospital", "donor", "recipient", "blood bank", "plasma", "iv", "intravenous", "patient", "treatment", "haematology", "hematology", "blood type", "give blood", "blood donor", "anemia", "anaemia"]
+  },
+  "vaccine": {
+    "context": "A vaccine vial beside a syringe. Used for vaccinations and immunization records, booking a jab, travel health requirements and public health campaigns.",
+    "keywords": ["vaccination", "immunization", "immunisation", "shot", "jab", "vial", "injection", "syringe", "needle", "booster", "flu shot", "covid vaccine", "vaccinated", "immunity", "public health", "travel health", "dose", "medicine", "clinic", "pandemic"]
+  },
+  "virus-shield": {
+    "context": "A shield guarding against a virus. Used for immunity and infection protection, antiviral or antibacterial product claims, vaccines and prevention advice.",
+    "keywords": ["immunity", "immune system", "protection", "protected", "antiviral", "antivirus", "antibacterial", "vaccine", "prevention", "defense", "defence", "virus protection", "germ protection", "safety", "shield", "infection control", "hygiene", "sanitizer", "sanitiser", "security", "resistance", "health"]
+  },
+  "weight-scale": {
+    "context": "A bathroom scale with a round dial. Common in weight logging, weight loss goals, BMI and fitness apps, and diet programs.",
+    "keywords": ["weight", "scale", "bathroom scale", "weigh", "weigh in", "bmi", "diet", "weight loss", "body weight", "kg", "lbs", "pounds", "kilograms", "fitness", "health", "measure", "obesity", "body mass", "scales", "slimming"]
+  },
+  "wheelchair": {
+    "context": "A wheelchair seen from the side. Used for accessible entrances, seating and parking, step-free routes on maps, disability services and mobility support.",
+    "keywords": ["accessibility", "accessible", "disability", "disabled", "mobility", "handicap", "chair", "step free", "a11y", "ramp", "mobility aid", "special needs", "assistance", "accessible parking", "accessible toilet", "wheels", "patient", "hospital", "reduced mobility", "wheelchair user"]
+  },
+  "x-ray": {
+    "context": "A chest X-ray film showing the spine and ribs. Used for radiology and imaging results, orthopedic and chest exams, patient reports and security screening.",
+    "keywords": ["radiology", "radiograph", "scan", "ribs", "imaging", "radiologist", "bones", "fracture", "skeleton", "medical imaging", "film", "diagnostic", "lungs", "spine", "see through", "scanner", "hospital", "radiation", "chest scan"]
+  }
+}

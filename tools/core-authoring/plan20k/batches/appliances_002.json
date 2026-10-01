@@ -1,0 +1,482 @@
+[
+ {
+  "name": "radiator-valve",
+  "category": "appliances",
+  "draw": "Thermostatic valve: a ribbed round numbered head on a short body with a pipe in and out.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "water-heater",
+  "category": "appliances",
+  "draw": "Tall cylindrical tank with a small control box near the bottom and two pipes out of the top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "tankless-water-heater",
+  "category": "appliances",
+  "draw": "Slim wall box with a small display on the front, pipes below and a flame symbol.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "solar-water-heater",
+  "category": "appliances",
+  "draw": "Rooftop unit: a slanted collector panel of tubes with a horizontal cylinder tank above it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "water-softener",
+  "category": "appliances",
+  "draw": "Tall cylinder tank beside a shorter squat salt tank, joined by a head valve with a small display.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "under-sink-water-filter",
+  "category": "appliances",
+  "draw": "Two or three vertical filter canisters hanging from a shared bracket with pipes on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "sump-pump",
+  "category": "appliances",
+  "draw": "Round pit in the floor with a pump body sitting in it, a float switch and a discharge pipe rising up.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "water-pump",
+  "category": "appliances",
+  "draw": "Side view centrifugal pump: a round volute housing joined to a finned cylindrical motor on a base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "stopcock",
+  "category": "appliances",
+  "draw": "In line water valve on a pipe with a round wheel handle on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "gas-valve",
+  "category": "appliances",
+  "draw": "Straight pipe section with a flat lever handle lying along it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "water-meter",
+  "category": "appliances",
+  "draw": "Round meter body on a pipe with a dial face showing a small counter window and a pointer.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "gas-meter",
+  "category": "appliances",
+  "draw": "Boxy wall meter with a digit counter window and a pipe entering the top on each side.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "prepaid-meter",
+  "category": "appliances",
+  "draw": "Wall meter box with a small screen and a numeric keypad below it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "propane-tank",
+  "category": "appliances",
+  "draw": "Squat rounded cylinder with a protective collar ring and valve on top, on a foot ring.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "heating-oil-tank",
+  "category": "appliances",
+  "draw": "Long horizontal cylindrical tank on legs with a fill pipe and a gauge on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "rainwater-tank",
+  "category": "appliances",
+  "draw": "Round barrel water butt with a lid, a downpipe feeding in and a small tap at the bottom.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "electric-shower",
+  "category": "appliances",
+  "draw": "Wall mounted box unit with a big round dial and a hose leading to a shower head on a rail.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "home-battery",
+  "category": "appliances",
+  "draw": "Tall slim wall mounted battery cabinet with rounded corners, a bolt and a level bar on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "portable-generator",
+  "category": "appliances",
+  "draw": "Box engine generator in a tubular frame with a pull start handle and two sockets on the side.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "ups-power-supply",
+  "category": "appliances",
+  "draw": "Tower shaped backup power box with a power button, small display and a battery symbol on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "power-inverter",
+  "category": "appliances",
+  "draw": "Finned metal box with DC terminals at one end and an outlet at the other, a sine wave symbol on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "fuse-box",
+  "category": "appliances",
+  "draw": "Open wall panel with a row of small switches in a line behind a hinged cover.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "circuit-breaker",
+  "category": "appliances",
+  "draw": "Single DIN rail breaker module with a toggle lever in the middle and screw terminals top and bottom.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "electrical-fuse",
+  "category": "appliances",
+  "draw": "Cartridge fuse: a short cylinder with metal end caps and a thin wire filament visible inside.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "junction-box",
+  "category": "appliances",
+  "draw": "Square box with a screw lid and cables entering from two sides through glands.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "power-strip",
+  "category": "appliances",
+  "draw": "Long bar with four sockets in a row, a switch at one end and a cord leaving the other.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "extension-reel",
+  "category": "appliances",
+  "draw": "Round cable drum with a crank handle on the side and a couple of sockets on the hub.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "travel-adapter",
+  "category": "appliances",
+  "draw": "Cube plug adapter with sliding pins sticking out of two faces and a socket on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "multi-plug",
+  "category": "appliances",
+  "draw": "Plug adapter with the plug pins at the back and three sockets on its faces.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "timer-socket",
+  "category": "appliances",
+  "draw": "Plug in socket unit with a round 24 hour dial ring of tiny pins on the front.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "smart-plug",
+  "category": "appliances",
+  "draw": "Compact plug in module with a socket on the front, a small button and a wifi signal arc.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "usb-outlet",
+  "category": "appliances",
+  "draw": "Wall socket plate with one power outlet and two small USB port rectangles beside it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "gfci-outlet",
+  "category": "appliances",
+  "draw": "Wall outlet plate with two sockets and two small test and reset buttons between them.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "outdoor-outlet",
+  "category": "appliances",
+  "draw": "Weatherproof wall socket with a hinged flip cover lifted up above the socket face.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "floor-outlet",
+  "category": "appliances",
+  "draw": "Square flush floor box with a pop up hinged lid and a socket inside.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "plug-type-a",
+  "category": "appliances",
+  "draw": "Front view plug head with two flat parallel blades.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "plug-type-c",
+  "category": "appliances",
+  "draw": "Front view round Europlug with two thin round pins angled slightly together.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "plug-type-g",
+  "category": "appliances",
+  "draw": "Front view rectangular plug with three rectangular pins, one vertical on top and two horizontal below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "plug-type-i",
+  "category": "appliances",
+  "draw": "Front view plug with two flat blades in an inverted V and one vertical blade below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "socket-type-a",
+  "category": "appliances",
+  "draw": "Wall outlet plate with two vertical slot pairs and round ground holes below each.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "socket-type-f",
+  "category": "appliances",
+  "draw": "Round recessed socket with two round pin holes and grounding clips at top and bottom.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "socket-type-g",
+  "category": "appliances",
+  "draw": "Square socket plate with three rectangular holes arranged as a triangle and a rocker switch.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "socket-type-i",
+  "category": "appliances",
+  "draw": "Socket plate with two angled slanted slots and a vertical slot below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "dimmer-switch",
+  "category": "appliances",
+  "draw": "Square wall plate with a single round rotary knob in the center.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "double-light-switch",
+  "category": "appliances",
+  "draw": "Square wall plate with two rocker switches side by side.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "pull-cord-switch",
+  "category": "appliances",
+  "draw": "Small ceiling mounted box with a long cord hanging down ending in a bead toggle.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "touch-light-switch",
+  "category": "appliances",
+  "draw": "Glass square wall panel with a circular touch mark and a small light dot.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bulb-socket",
+  "category": "appliances",
+  "draw": "Lamp holder: threaded cylindrical socket with a cord leaving the top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "doorbell-chime",
+  "category": "appliances",
+  "draw": "Wall mounted rectangular chime box with two tone bars inside and musical sound lines.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "telephone-socket",
+  "category": "appliances",
+  "draw": "Wall plate with a small square phone jack opening near the bottom.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "coaxial-connector",
+  "category": "appliances",
+  "draw": "F type TV connector: hex nut body with a threaded end and a central pin.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "audio-jack",
+  "category": "appliances",
+  "draw": "3.5 mm jack plug: slim metal tip with two insulating bands and a round body with a cable.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "rca-connector",
+  "category": "appliances",
+  "draw": "Two side by side RCA plugs with round collars and center pins on a pair of cables.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "optical-audio-connector",
+  "category": "appliances",
+  "draw": "Square ended fiber plug with a small light dot at its tip and a cable behind.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "led-bulb",
+  "category": "appliances",
+  "draw": "Bulb with a rounded top, a ribbed heat sink neck and a screw base, a small LED chip dot in the center.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "fluorescent-tube",
+  "category": "appliances",
+  "draw": "Long horizontal tube with two pin end caps.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "cfl-bulb",
+  "category": "appliances",
+  "draw": "Spiral twisted tube bulb on a plastic neck and screw base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "halogen-bulb",
+  "category": "appliances",
+  "draw": "Small capsule bulb with a tiny filament coil inside and two wire pins below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "edison-bulb",
+  "category": "appliances",
+  "draw": "Oval clear bulb with a zigzag vintage filament and a screw base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "spotlight-bulb",
+  "category": "appliances",
+  "draw": "Reflector bulb: a cup shaped cone with a flat face and two short pins at the base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "led-strip",
+  "category": "appliances",
+  "draw": "Flexible ribbon strip curling slightly with evenly spaced small square LED chips.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "recessed-light",
+  "category": "appliances",
+  "draw": "Downlight seen at an angle: a flat round ceiling trim ring with a light beam cone below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "track-light",
+  "category": "appliances",
+  "draw": "Ceiling rail bar with three small cylindrical spot heads angled downward.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "wall-sconce",
+  "category": "appliances",
+  "draw": "Wall mounted backplate with a curved arm and an upturned cup shade throwing light upward.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "floodlight",
+  "category": "appliances",
+  "draw": "Outdoor rectangular flood lamp on a U bracket with a flat lens and light rays.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "night-light",
+  "category": "appliances",
+  "draw": "Small plug in wall light with a glowing half moon shaped lens.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "string-lights",
+  "category": "appliances",
+  "draw": "Sagging wire strung between two points with several small bulbs hanging along it.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "lava-lamp",
+  "category": "appliances",
+  "draw": "Tapered bottle shaped lamp with floating blobs inside, a cone base and small cap.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "ring-light",
+  "category": "appliances",
+  "draw": "Large round ring light on a tripod stand with a phone holder in the center.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "emergency-light",
+  "category": "appliances",
+  "draw": "Wall box with twin angled spot lamps on top and a small indicator light.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "salt-lamp",
+  "category": "appliances",
+  "draw": "Rough jagged crystal rock shape on a small wooden base with a glow.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "heat-lamp",
+  "category": "appliances",
+  "draw": "Large reflector bulb with a wide dome front and short heat wave lines below.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "bug-zapper",
+  "category": "appliances",
+  "draw": "Hanging lantern shaped cage with vertical grid bars and a hook on top, a small spark.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "grow-light",
+  "category": "appliances",
+  "draw": "Flat rectangular lamp panel above a small sprouting plant in a pot with light rays.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "solar-garden-light",
+  "category": "appliances",
+  "draw": "Small stake light pushed into the ground with a tiny solar panel cap on top.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "porch-light",
+  "category": "appliances",
+  "draw": "Outdoor wall lantern with a box frame, glass panes and a peaked roof cap on a wall bracket.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "arc-floor-lamp",
+  "category": "appliances",
+  "draw": "Floor lamp with a weighted base and a long curved arm arching over to a hanging dome shade.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "led-candle",
+  "category": "appliances",
+  "draw": "Pillar candle with a flame shaped bulb and a small switch on the base.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "vanity-mirror",
+  "category": "appliances",
+  "draw": "Rectangular mirror with a row of round bulbs around its border.",
+  "domain": "home-appliances-electronics"
+ },
+ {
+  "name": "automatic-soap-dispenser",
+  "category": "appliances",
+  "draw": "Upright bottle shaped dispenser with a spout, a sensor dot and a drop coming out.",
+  "domain": "home-appliances-electronics"
+ }
+]

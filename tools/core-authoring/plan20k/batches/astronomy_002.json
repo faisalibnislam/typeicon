@@ -1,0 +1,482 @@
+[
+ {
+  "name": "space-dog",
+  "category": "astronomy",
+  "draw": "Dog head wearing a round space helmet with a small antenna.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-sleeping-bag",
+  "category": "astronomy",
+  "draw": "Zipped sleeping bag strapped vertically to a wall with a head poking out.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-toilet",
+  "category": "astronomy",
+  "draw": "Compact seat with a suction hose and foot straps.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "astronaut-training-centrifuge",
+  "category": "astronomy",
+  "draw": "Long spinning arm with a capsule at its end and motion arcs.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "neutral-buoyancy-pool",
+  "category": "astronomy",
+  "draw": "Figure in a suit underwater in a pool with bubbles and a diver.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cryosleep-pod",
+  "category": "astronomy",
+  "draw": "Upright capsule with a glass window over a sleeping face and frost lines.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-tourist",
+  "category": "astronomy",
+  "draw": "Person in casual clothes floating by a round window with Earth outside.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "mission-control",
+  "category": "astronomy",
+  "draw": "Rows of desks with monitors facing a big wall screen showing an orbit path.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "mars-lander",
+  "category": "astronomy",
+  "draw": "Three legged stationary lander with two round solar panels and a robotic arm.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rover-sky-crane",
+  "category": "astronomy",
+  "draw": "Hovering platform with thrusters lowering a wheeled rover on cables.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "airbag-landing",
+  "category": "astronomy",
+  "draw": "Cluster of round bouncing airbag balls with a lander inside.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rover-sample-tube",
+  "category": "astronomy",
+  "draw": "Slim sealed metal tube with a cap and a core of soil inside.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "sample-return-capsule",
+  "category": "astronomy",
+  "draw": "Small cone capsule on a parachute holding a sample container.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "moon-base",
+  "category": "astronomy",
+  "draw": "Several dome modules linked by tubes on a cratered ground with a flag.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "mars-habitat",
+  "category": "astronomy",
+  "draw": "Tall dome habitat with a door and ridges on a rocky ground with dust.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-greenhouse",
+  "category": "astronomy",
+  "draw": "Transparent dome with small plants growing inside under grow lights.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "inflatable-habitat",
+  "category": "astronomy",
+  "draw": "Bulging segmented capsule module attached to a station port.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rotating-space-habitat",
+  "category": "astronomy",
+  "draw": "Wheel shaped station with spokes to a central hub and spin arrows.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "dyson-sphere",
+  "category": "astronomy",
+  "draw": "Star enclosed by a lattice of hexagon panels partly open.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "asteroid-mining",
+  "category": "astronomy",
+  "draw": "Lumpy asteroid with a drilling rig on top and a spacecraft beside it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "asteroid-deflection",
+  "category": "astronomy",
+  "draw": "Small spacecraft striking an asteroid with an arrow bending its path.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "terraforming",
+  "category": "astronomy",
+  "draw": "Planet sphere split into a barren cratered half and a green cloudy half.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rover-wheel-tracks",
+  "category": "astronomy",
+  "draw": "Two parallel ridged tire tracks across sandy ground with a rock.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "lunar-drill",
+  "category": "astronomy",
+  "draw": "Tripod drill rig boring into cratered ground with a core tube.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "moon-rock-sample",
+  "category": "astronomy",
+  "draw": "Grey rock in a sealed bag with a numbered label tag.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "regolith-printer",
+  "category": "astronomy",
+  "draw": "Gantry arm spraying layers into a small dome shape on lunar ground.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "ice-moon-probe",
+  "category": "astronomy",
+  "draw": "Torpedo shaped probe melting down through an ice sheet with water below.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "aerobot-balloon",
+  "category": "astronomy",
+  "draw": "Balloon floating in thick cloudy atmosphere with a small gondola.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "tracked-rover",
+  "category": "astronomy",
+  "draw": "Small rover with tank treads and a camera mast on rocky ground.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "hopping-lander",
+  "category": "astronomy",
+  "draw": "Small lander mid hop with a dashed arc and a thruster puff.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-station-module",
+  "category": "astronomy",
+  "draw": "Long cylinder module with a docking ring at one end and small windows.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-station-cupola",
+  "category": "astronomy",
+  "draw": "Dome window with several trapezoid panes around a round top pane.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "solar-array-wing",
+  "category": "astronomy",
+  "draw": "Long folding panel wing of grid cells attached to a truss arm.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "ion-engine",
+  "category": "astronomy",
+  "draw": "Round thruster grid emitting a blue style beam of straight lines.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "radioisotope-generator",
+  "category": "astronomy",
+  "draw": "Cylinder with many long fins sticking out around it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "launch-escape-tower",
+  "category": "astronomy",
+  "draw": "Space capsule with a spindly lattice tower and small rocket on its tip.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "capsule-parachutes",
+  "category": "astronomy",
+  "draw": "Cone capsule hanging under three large round parachutes.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "solid-rocket-booster",
+  "category": "astronomy",
+  "draw": "Tall slim booster cylinder with a pointed nose and a flared nozzle.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rocket-engine-cluster",
+  "category": "astronomy",
+  "draw": "Bottom view circle holding a ring of many round engine nozzles.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rocket-fuel-tank",
+  "category": "astronomy",
+  "draw": "Tall capsule tank with pipes and two labeled chambers for fuel and oxidizer.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rocket-nose-cone",
+  "category": "astronomy",
+  "draw": "Pointed ogive cone tip with a seam ring at its base.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rcs-thruster",
+  "category": "astronomy",
+  "draw": "Small block with four little nozzles pointing in different directions.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "orbital-refueling",
+  "category": "astronomy",
+  "draw": "Two spacecraft side by side joined by a thin transfer hose.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-tug",
+  "category": "astronomy",
+  "draw": "Boxy spacecraft with thrusters pushing a satellite ahead of it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "satellite-servicing",
+  "category": "astronomy",
+  "draw": "Spacecraft with a robotic arm grasping a satellite's solar panel.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "deployable-antenna",
+  "category": "astronomy",
+  "draw": "Umbrella shaped mesh dish opening from a satellite boom.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "sunshield",
+  "category": "astronomy",
+  "draw": "Kite shaped stack of thin layered sheets under a mirror array.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "satellite-coverage",
+  "category": "astronomy",
+  "draw": "Satellite above Earth casting a cone footprint onto the globe.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "satellite-deployer",
+  "category": "astronomy",
+  "draw": "Open box launcher pushing out a small cube satellite on a spring.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "sounding-rocket",
+  "category": "astronomy",
+  "draw": "Slim rocket rising on a straight line then arcing back down.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "space-station-truss",
+  "category": "astronomy",
+  "draw": "Long boxy lattice beam with solar wings on both ends.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "reaction-wheel",
+  "category": "astronomy",
+  "draw": "Flat disk spinning inside a round housing with a curved arrow.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "warp-speed",
+  "category": "astronomy",
+  "draw": "Star points stretched into long lines radiating from the center.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "crop-circle",
+  "category": "astronomy",
+  "draw": "Field square with a pattern of circles and rings pressed into it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "alien-signal",
+  "category": "astronomy",
+  "draw": "Radio dish receiving wavy lines coming from a distant star.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "interstellar-record",
+  "category": "astronomy",
+  "draw": "Round disk in a case with engraved diagram lines and a stylus.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "interstellar-plaque",
+  "category": "astronomy",
+  "draw": "Rectangular plaque engraved with a starburst diagram and planet dots.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "spaceport",
+  "category": "astronomy",
+  "draw": "Runway with a control tower and a rocket on a pad in the distance.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "engine-test-stand",
+  "category": "astronomy",
+  "draw": "Tall concrete stand with a rocket engine firing downward into a trench.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "flame-trench",
+  "category": "astronomy",
+  "draw": "Pad with a deep trench channel carrying fire and smoke out sideways.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "vehicle-assembly-building",
+  "category": "astronomy",
+  "draw": "Huge tall box building with a tall vertical door slot.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "landing-barge",
+  "category": "astronomy",
+  "draw": "Flat ship deck with a big circle target and a booster landing on legs.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "launch-control-bunker",
+  "category": "astronomy",
+  "draw": "Low mound bunker with small slit windows facing a rocket.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "water-deluge",
+  "category": "astronomy",
+  "draw": "Rocket on a pad with water sprayed from nozzles around its base.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rocket-transport-barge",
+  "category": "astronomy",
+  "draw": "Barge carrying a long horizontal rocket stage on cradles.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "rocket-garden",
+  "category": "astronomy",
+  "draw": "Several standing rockets of different heights side by side on the ground.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cleanroom-suit",
+  "category": "astronomy",
+  "draw": "Person in full bunny suit with hood and mask beside a satellite.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "thermal-vacuum-chamber",
+  "category": "astronomy",
+  "draw": "Large round chamber door opened with a satellite inside.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "glow-in-the-dark-stars",
+  "category": "astronomy",
+  "draw": "Star shaped stickers on a ceiling with small glow lines.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "planet-mobile",
+  "category": "astronomy",
+  "draw": "Hanging mobile with planets dangling from bars.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "seasons-diagram",
+  "category": "astronomy",
+  "draw": "Sun in the center with a tilted Earth at four positions around it.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "sky-map-app",
+  "category": "astronomy",
+  "draw": "Phone screen showing constellation lines with a compass arrow.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "star-party",
+  "category": "astronomy",
+  "draw": "Several telescopes on tripods under stars with small figures beside them.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "dark-sky-reserve",
+  "category": "astronomy",
+  "draw": "Tree line silhouette under a dense star field with a crescent moon.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "hand-sky-measure",
+  "category": "astronomy",
+  "draw": "Outstretched fist against the sky with an angle arc and a star.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "summer-triangle",
+  "category": "astronomy",
+  "draw": "Three bright stars joined in a large triangle with faint stars around.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "cygnus-constellation",
+  "category": "astronomy",
+  "draw": "Long cross of stars shaped like a flying swan with wings spread.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "scorpius-constellation",
+  "category": "astronomy",
+  "draw": "Curved hook tail of stars ending in a stinger point.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "leo-constellation",
+  "category": "astronomy",
+  "draw": "Backwards question mark sickle of stars joined to a triangle.",
+  "domain": "r2-space-astronomy"
+ },
+ {
+  "name": "moon-illusion",
+  "category": "astronomy",
+  "draw": "Huge moon on a horizon next to a small moon high in the sky.",
+  "domain": "r2-space-astronomy"
+ }
+]

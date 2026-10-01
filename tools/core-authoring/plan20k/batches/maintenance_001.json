@@ -1,0 +1,482 @@
+[
+ {
+  "name": "roof-leak-bucket",
+  "category": "maintenance",
+  "draw": "Side view of a room under a sloped roof line with a drop falling from the ceiling into a bucket on the floor.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "ceiling-water-stain",
+  "category": "maintenance",
+  "draw": "Flat ceiling line seen from below at an angle with an irregular ring-shaped stain and one drop hanging from its center.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "pipe-repair-clamp",
+  "category": "maintenance",
+  "draw": "Horizontal pipe wrapped by a hinged band clamp with two bolt tabs on top, a few drops stopped beneath it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "toilet-flapper",
+  "category": "maintenance",
+  "draw": "Round rubber flapper disc with a hinge arm at the back and a short bead chain rising from its top.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "toilet-fill-valve",
+  "category": "maintenance",
+  "draw": "Tall vertical tube with a sliding float cup around it and a short refill hose curling off the top.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "toilet-wax-ring",
+  "category": "maintenance",
+  "draw": "Thick donut ring in three-quarter view with a short plastic horn funnel protruding from its center.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "running-toilet",
+  "category": "maintenance",
+  "draw": "Toilet side view with continuous wavy flow lines in the bowl and a small circular arrow above the tank.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "clogged-toilet",
+  "category": "maintenance",
+  "draw": "Toilet side view with the water level risen to the rim and a plunger standing in the bowl.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "clogged-drain",
+  "category": "maintenance",
+  "draw": "Sink basin cross-section with water pooled above the drain and a tangled hair clump blocking the pipe below.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "accordion-plunger",
+  "category": "maintenance",
+  "draw": "Plunger with a tall ribbed bellows body instead of a cup, on a short straight handle.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "drain-hair-remover",
+  "category": "maintenance",
+  "draw": "Long thin flexible plastic strip with small barbs along both edges and a ring pull at the top.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "faucet-cartridge",
+  "category": "maintenance",
+  "draw": "Upright cylindrical valve cartridge with a splined stem on top and two o-ring bands around the body.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "faucet-aerator",
+  "category": "maintenance",
+  "draw": "Small round threaded cap in three-quarter view showing a mesh screen disc inside.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "compression-fitting",
+  "category": "maintenance",
+  "draw": "Pipe end with an exploded view of a hex nut and a small brass ferrule ring sliding onto it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "soldering-copper-pipe",
+  "category": "maintenance",
+  "draw": "Copper pipe joint with a torch nozzle flame on one side and a solder wire touching the seam on the other.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "pipe-flaring-tool",
+  "category": "maintenance",
+  "draw": "Flat clamp bar with graduated holes holding a tube end, and a screw yoke with a cone pressing down into it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "pex-tubing-coil",
+  "category": "maintenance",
+  "draw": "Flat coil of flexible tubing seen from the front, loose end trailing off to one side.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "pvc-cement-can",
+  "category": "maintenance",
+  "draw": "Small round can with a screw lid that has a dauber brush attached underneath, lid lifted to show the brush.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "sewer-backup",
+  "category": "maintenance",
+  "draw": "Floor drain grate with dark water bubbling up around it and an upward arrow above.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "septic-tank-pumping",
+  "category": "maintenance",
+  "draw": "Buried rectangular tank cross-section under a ground line with a thick suction hose reaching into it from above.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "sewer-cleanout",
+  "category": "maintenance",
+  "draw": "Short pipe stub rising from a ground line capped with a square-headed threaded plug.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "drain-inspection-camera",
+  "category": "maintenance",
+  "draw": "Coiled push cable on a reel frame with a small monitor on top and a camera head at the free end.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "drain-jetting",
+  "category": "maintenance",
+  "draw": "Pipe cross-section with a bullet-shaped nozzle inside, several water jets spraying backward from it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "leaking-water-heater",
+  "category": "maintenance",
+  "draw": "Tall cylindrical water heater tank with a flue pipe on top and a puddle with drops spreading at its base.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "water-heater-blanket",
+  "category": "maintenance",
+  "draw": "Tall cylindrical tank wrapped in a quilted insulation jacket held by two horizontal straps.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "water-heater-anode-rod",
+  "category": "maintenance",
+  "draw": "Long straight rod with a hex head at the top and a pitted, corroded lower section.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "clogged-showerhead",
+  "category": "maintenance",
+  "draw": "Round showerhead face with several nozzles blocked by white scale dots and only a few thin jets spraying.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "pipe-heat-cable",
+  "category": "maintenance",
+  "draw": "Straight pipe with a heating cable wound around it in a spiral, ending in a plug.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "outdoor-faucet-cover",
+  "category": "maintenance",
+  "draw": "Wall line with a dome-shaped foam cover strapped over an outdoor spigot.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "washing-machine-leak",
+  "category": "maintenance",
+  "draw": "Front-loading washing machine with a puddle and drops spreading out from under its front edge.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "mold-remediation",
+  "category": "maintenance",
+  "draw": "Person in a respirator mask and coverall spraying a patch of dark speckled mould on a wall.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "mold-test-kit",
+  "category": "maintenance",
+  "draw": "Petri dish with fuzzy colony spots next to a sampling swab stick.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "rising-damp",
+  "category": "maintenance",
+  "draw": "Wall section with a wavy tide mark near the bottom and short upward arrows rising from the floor line.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "peeling-paint",
+  "category": "maintenance",
+  "draw": "Wall surface with several paint flakes curling away from it, one large curl in the center.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "brick-efflorescence",
+  "category": "maintenance",
+  "draw": "Small brick wall panel with a white crystalline bloom spreading across the lower bricks.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "damp-proof-injection",
+  "category": "maintenance",
+  "draw": "Wall base with a row of drilled holes and a cartridge gun nozzle injecting cream into one hole.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "flooded-basement",
+  "category": "maintenance",
+  "draw": "House cross-section with a water line filling the basement level and waves on its surface.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "dry-rot",
+  "category": "maintenance",
+  "draw": "Wooden beam end split into cube-shaped cracks with thin fungal strands spreading from it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "rotten-window-sill",
+  "category": "maintenance",
+  "draw": "Window frame bottom corner with a crumbling, chunked-out sill and a screwdriver probing it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "broken-floorboard",
+  "category": "maintenance",
+  "draw": "Row of floorboards seen from above with one board cracked through and a jagged hole.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "window-trickle-vent",
+  "category": "maintenance",
+  "draw": "Top of a window frame with a slim slotted vent strip and small airflow lines passing through.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "termite-damage",
+  "category": "maintenance",
+  "draw": "Cut wooden beam end showing a maze of hollow galleries eaten through the grain.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "termite-bait-station",
+  "category": "maintenance",
+  "draw": "Round cylindrical stake pushed into a ground line with a flat cap and slotted sides.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "termite-mud-tubes",
+  "category": "maintenance",
+  "draw": "Foundation wall with thin branching earthen tubes climbing up from the ground line.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "mouse-droppings",
+  "category": "maintenance",
+  "draw": "Small cluster of elongated pellet shapes scattered on a floor line.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "gnawed-cable",
+  "category": "maintenance",
+  "draw": "Electric cable with bite-shaped notches taken out of the insulation and bare copper strands showing.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "mouse-hole",
+  "category": "maintenance",
+  "draw": "Classic arched hole at the bottom of a baseboard with a dark interior.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "rat-bait-station",
+  "category": "maintenance",
+  "draw": "Low rectangular box with two round entry holes on the side and a keyhole on the lid.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "ultrasonic-pest-repeller",
+  "category": "maintenance",
+  "draw": "Small plug-in device on a wall outlet with curved sound wave arcs radiating from its front.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "bird-netting",
+  "category": "maintenance",
+  "draw": "Building ledge or eave with a taut square-mesh net stretched across the opening.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "squirrel-in-attic",
+  "category": "maintenance",
+  "draw": "Attic triangle outline under a roof with a squirrel sitting inside next to a chewed hole.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "bedbug-mattress-cover",
+  "category": "maintenance",
+  "draw": "Mattress fully enclosed in a cover with a zipper running around its edge and the zip pull at a corner.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "roach-gel-bait",
+  "category": "maintenance",
+  "draw": "Syringe-style bait applicator with a long thin tip and a row of small gel dots in front of it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "pest-inspection",
+  "category": "maintenance",
+  "draw": "Flashlight beam shining along a baseboard corner revealing a small insect.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "mole-trap",
+  "category": "maintenance",
+  "draw": "Scissor-jaw metal trap with two looped handles and crossing jaws pointing down into a soil mound.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "door-sweep",
+  "category": "maintenance",
+  "draw": "Bottom edge of a door with a brush strip attached along it, bristles touching the floor line.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "bug-fogger",
+  "category": "maintenance",
+  "draw": "Aerosol can standing upright with a cloud of fog billowing up from its top nozzle.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "house-infestation",
+  "category": "maintenance",
+  "draw": "Simple house outline with several small insects crawling over the walls and roof.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "bulb-duster",
+  "category": "maintenance",
+  "draw": "Squeeze bulb with a long thin nozzle puffing a small cloud of powder.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "bucket-mouse-trap",
+  "category": "maintenance",
+  "draw": "Bucket with a ramp leaning on its rim and a spinning bottle on a wire across the top.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "decoy-owl",
+  "category": "maintenance",
+  "draw": "Upright plastic owl statue with big eyes standing on a roof ridge line.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "air-brick",
+  "category": "maintenance",
+  "draw": "Single brick face with a grid of rectangular ventilation holes and a fine mesh behind them.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "raccoon-raiding-trash",
+  "category": "maintenance",
+  "draw": "Tipped-over trash can with scattered litter and a raccoon head peeking from the opening.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "bed-leg-interceptor",
+  "category": "maintenance",
+  "draw": "Bed leg standing in a round double-walled cup with a small bug trapped in the outer ring.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "magnetic-screen-door",
+  "category": "maintenance",
+  "draw": "Doorway with a mesh curtain split down the middle and small magnet dots along the seam.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "tripped-breaker",
+  "category": "maintenance",
+  "draw": "Single circuit breaker module with its toggle stuck in the middle position and a small lightning bolt beside it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "blown-fuse",
+  "category": "maintenance",
+  "draw": "Glass cartridge fuse with a broken filament inside and a scorch mark in the middle.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "flickering-light",
+  "category": "maintenance",
+  "draw": "Light bulb with short broken dashed rays and a jagged zigzag line on one side.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "sparking-outlet",
+  "category": "maintenance",
+  "draw": "Wall outlet plate with sparks and a small flash bursting from one socket.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "circuit-tracer",
+  "category": "maintenance",
+  "draw": "Plug-in transmitter unit and a handheld receiver wand with a pointed tip and signal arcs.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "screw-in-fuse",
+  "category": "maintenance",
+  "draw": "Round plug fuse with an Edison screw base and a small window on top showing a metal strip.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "sheathed-cable",
+  "category": "maintenance",
+  "draw": "Flat cable end with the outer sheath stripped back showing two insulated wires and one bare wire.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "knob-and-tube-wiring",
+  "category": "maintenance",
+  "draw": "Wooden joist with white porcelain knobs holding two parallel wires and a porcelain tube passing through the joist.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "wall-chase",
+  "category": "maintenance",
+  "draw": "Wall section with a straight vertical groove cut into it holding a cable running down to a box.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "missing-shingles",
+  "category": "maintenance",
+  "draw": "Roof section with overlapping shingle rows and a gap where two shingles are missing, showing the deck underneath.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "roof-inspection",
+  "category": "maintenance",
+  "draw": "Roof slope with a person kneeling on it holding a clipboard and pointing at a shingle.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "roofing-hatchet",
+  "category": "maintenance",
+  "draw": "Hatchet with a waffle-faced hammer head, a blade on the back and a gauge pin on the side.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "shingle-removal-shovel",
+  "category": "maintenance",
+  "draw": "Long-handled shovel with a flat blade that has saw-tooth notches along its front edge.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "roof-flashing",
+  "category": "maintenance",
+  "draw": "Stepped L-shaped metal pieces tucked under shingles where a roof slope meets a vertical wall.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "gutter-cleaning",
+  "category": "maintenance",
+  "draw": "Gloved hand scooping a clump of leaves out of a gutter channel.",
+  "domain": "r3-home-maintenance"
+ }
+]

@@ -1,0 +1,326 @@
+[
+ {
+  "name": "silage-bag",
+  "category": "crops",
+  "draw": "Long tube shaped bag lying on the ground with ribbed sides and a tied off end.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "grain-probe",
+  "category": "crops",
+  "draw": "Long hollow spear with slotted openings pushed diagonally into a pile of grain.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "grain-pile",
+  "category": "crops",
+  "draw": "Conical heap of grain kernels on a floor with a few kernels scattered around its base.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "sun-drying-grain",
+  "category": "crops",
+  "draw": "Grain spread in a flat layer on a mat with a wooden rake resting on it and the sun above.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "solar-dryer",
+  "category": "crops",
+  "draw": "Box on legs with a sloped glass top and slatted trays of sliced produce inside under the sun.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "rice-drying-rack",
+  "category": "crops",
+  "draw": "Horizontal poles on posts with bundles of harvested rice hung over them in a row.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "hay-drying-rack",
+  "category": "crops",
+  "draw": "Wooden fence like rack with hay draped thickly over its horizontal rails.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "tobacco-curing-barn",
+  "category": "crops",
+  "draw": "Tall barn with a ventilated roof ridge and an open side showing bunches of large leaves hanging on sticks.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "coffee-drying-bed",
+  "category": "crops",
+  "draw": "Raised table with a mesh top covered in a layer of small round coffee cherries.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "cotton-module",
+  "category": "crops",
+  "draw": "Large round bale of cotton wrapped in plastic sheeting sitting in a harvested field.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "grain-engulfment",
+  "category": "crops",
+  "draw": "Warning triangle with a person sinking up to the chest in a heap of grain.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "tractor-rollover",
+  "category": "crops",
+  "draw": "Tractor tipped on its side on a slope with a roll bar frame over the seat.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "cotton-gin",
+  "category": "crops",
+  "draw": "Box shaped machine with a hand crank, raw cotton feeding in at the top and a toothed roller visible.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "sugarcane-crusher",
+  "category": "crops",
+  "draw": "Pair of upright rollers on a frame with a crank handle, cane stalks feeding between them and juice dripping into a pan.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "seed-oil-press",
+  "category": "crops",
+  "draw": "Screw press with a tall threaded shaft and handle wheel pressing seeds in a slotted cage, oil running out below.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "rice-huller",
+  "category": "crops",
+  "draw": "Machine with a hopper on top, one spout pouring white rice and a side spout blowing out husks.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "fanning-mill",
+  "category": "crops",
+  "draw": "Wooden box machine with a hand crank and a hopper on top, grain falling out below while chaff blows from the side.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "chaff-cutter",
+  "category": "crops",
+  "draw": "Hand cranked spoked wheel with curved blades mounted at the end of a trough holding straw.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "pedal-thresher",
+  "category": "crops",
+  "draw": "Drum studded with wire loops on a stand with a foot pedal, a bundle of rice stalks held against it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "potato-harvester",
+  "category": "crops",
+  "draw": "Tractor towed machine with a digging share and a sloped web conveyor lifting potatoes as soil falls through.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "swather",
+  "category": "crops",
+  "draw": "Self propelled machine with a wide reel header at the front laying cut crop in a windrow behind it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "horse-drawn-reaper",
+  "category": "crops",
+  "draw": "Horse pulling a wheeled machine with a turning slatted reel and a cutter bar, a driver on the seat.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "grain-cradle",
+  "category": "crops",
+  "draw": "Scythe with a row of long curved wooden fingers above the blade to catch cut stalks.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "subsoiler",
+  "category": "crops",
+  "draw": "Single long curved steel shank with a pointed foot on a hitch frame, reaching deep below the soil line.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "jab-planter",
+  "category": "crops",
+  "draw": "Long handled hand planter with pointed jaws at the bottom and a seed box, jabbed into soil.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "push-seeder",
+  "category": "crops",
+  "draw": "Single wheel with a small seed hopper above it and a long push handle, dropping seeds into a row.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "three-point-hitch",
+  "category": "crops",
+  "draw": "Rear of a tractor with two lower lift arms and one upper link arm arranged in a triangle.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "pto-shaft",
+  "category": "crops",
+  "draw": "Telescoping drive shaft with a ribbed safety guard and a universal joint at each end.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "molded-fruit-tray",
+  "category": "crops",
+  "draw": "Molded pulp tray with rows of round cups, several holding apples.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "orchard-bin",
+  "category": "crops",
+  "draw": "Large wooden bin on skids heaped with apples, with forklift slots at the base.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "apple-barrel",
+  "category": "crops",
+  "draw": "Wooden barrel with hoops, heaped with apples above the rim.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "berry-flat",
+  "category": "crops",
+  "draw": "Shallow tray holding a grid of small square berry baskets, each filled with berries.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "farm-share-box",
+  "category": "crops",
+  "draw": "Open cardboard box with leafy greens, a carrot and a leek sticking out above the flaps.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "fruit-sizing-ring",
+  "category": "crops",
+  "draw": "Flat card with a row of round holes of increasing size, one fruit passing through a hole.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "tulip-field",
+  "category": "crops",
+  "draw": "Parallel stripes of cup shaped tulip blooms on short stems running in perspective to a horizon line.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "sugarcane-field",
+  "category": "crops",
+  "draw": "Dense row of tall jointed cane stalks with long arching leaves at the top and a horizon line behind.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "fallow-field",
+  "category": "crops",
+  "draw": "Unplanted field of rough soil clods with a few scattered weeds and no crop rows, a horizon line behind.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "rice-fish-farming",
+  "category": "crops",
+  "draw": "Flooded paddy with rows of rice plants and a small fish swimming between the stems below the water line.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "floating-garden",
+  "category": "crops",
+  "draw": "Raft of matted plant material floating on water with a row of small vegetable plants growing on top.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "potato-hilling",
+  "category": "crops",
+  "draw": "Soil ridge mounded up around the stem of a leafy potato plant with a hoe blade pulling soil toward it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "hand-pollination",
+  "category": "crops",
+  "draw": "Small paintbrush touching the center of an open flower with pollen dots on its tip.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "fertilizer-spike",
+  "category": "crops",
+  "draw": "Tapered spike pushed into the soil beside a young plant stem, its flat head showing above ground.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "rockwool-cube",
+  "category": "crops",
+  "draw": "Small fibrous cube with a hole in the top and a seedling growing out of it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "soil-ribbon-test",
+  "category": "crops",
+  "draw": "Thumb and finger squeezing moist soil into a thin flat ribbon that hangs out over the fingertip.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "chain-pump",
+  "category": "crops",
+  "draw": "Inclined wooden trough with square paddles on a looped chain, turned by a crank wheel at the top, lifting water.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "hoeing",
+  "category": "crops",
+  "draw": "Person bent forward swinging a long handled hoe into a row of young crop plants.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "harvesting-grain",
+  "category": "crops",
+  "draw": "Person holding a bunch of cut grain stalks in one hand and a curved sickle in the other.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "rice-planting",
+  "category": "crops",
+  "draw": "Person bent over in a flooded paddy pushing seedlings into the water, a bundle of seedlings in the other hand.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "cotton-picking",
+  "category": "crops",
+  "draw": "Person bent over a cotton shrub picking bolls into a long sack slung from the shoulder and trailing behind.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "tea-plucking",
+  "category": "crops",
+  "draw": "Person with a basket on the back plucking leaves from the flat top of a waist high tea bush.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "sowing-calendar",
+  "category": "crops",
+  "draw": "Wall calendar page with a seedling in one cell and a few other days marked.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "farm-to-table",
+  "category": "crops",
+  "draw": "Crop rows on the left, a curved arrow, and a plate with a fork on the right.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "picking-bag",
+  "category": "crops",
+  "draw": "Canvas bag worn on the chest with crossed shoulder straps, apples filling it.",
+  "domain": "r3-agriculture-crops"
+ },
+ {
+  "name": "wheat-wreath",
+  "category": "crops",
+  "draw": "Two curved wheat stalks forming an open wreath with ears meeting near the top.",
+  "domain": "r3-agriculture-crops"
+ }
+]

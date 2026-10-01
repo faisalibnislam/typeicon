@@ -1,0 +1,482 @@
+[
+ {
+  "name": "coal-power-plant",
+  "category": "utilities",
+  "draw": "Boxy plant building with one tall smokestack and a heaped coal pile beside it fed by a slanted conveyor.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "gas-fired-power-plant",
+  "category": "utilities",
+  "draw": "Low plant building with two slim exhaust stacks and a small gas flame symbol on its front wall.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "waste-to-energy-plant",
+  "category": "utilities",
+  "draw": "Plant building with a single chimney and a small trash bag at its entrance, a lightning bolt on the wall.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "tidal-barrage",
+  "category": "utilities",
+  "draw": "Side view of a low wall across water with a higher water level on the sea side, a crescent moon above and a turbine circle in the wall.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "diesel-generator",
+  "category": "utilities",
+  "draw": "Long enclosed generator box on a skid base with a vented grille at one end and a short exhaust pipe on the roof.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "gas-turbine",
+  "category": "utilities",
+  "draw": "Side cutaway of a horizontal jet-like turbine: narrow intake, bands of compressor blades and a flared exhaust.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "heliostat",
+  "category": "utilities",
+  "draw": "Flat square mirror tilted on a single pedestal post with a sun ray bouncing off it at an angle.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "solar-dish-collector",
+  "category": "utilities",
+  "draw": "Large round parabolic dish on a pedestal with a receiver box held at its focal point by three struts.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "wind-turbine-nacelle",
+  "category": "utilities",
+  "draw": "Close side view of the turbine housing box on the tower top with the rotor hub cone and blade roots at the front.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "floating-wind-turbine",
+  "category": "utilities",
+  "draw": "Three blade wind turbine standing on a floating platform at the waterline with slanted mooring lines to the seabed.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "bladeless-wind-turbine",
+  "category": "utilities",
+  "draw": "Tall slender tapered cone standing upright on a small base with short curved lines showing it swaying.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "airborne-wind-kite",
+  "category": "utilities",
+  "draw": "A tethered kite high in the air with a long line down to a small ground winch box.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "gravity-energy-storage",
+  "category": "utilities",
+  "draw": "Tall tower frame with a crane arm lifting one heavy block above a stack of blocks, an up and down arrow beside it.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "flow-battery",
+  "category": "utilities",
+  "draw": "Two upright electrolyte tanks side by side connected by pipes to a flat cell stack between them.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "compressed-air-storage",
+  "category": "utilities",
+  "draw": "Ground cross section with a compressor building on the surface and a pipe down into an oval underground cavern.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "penstock",
+  "category": "utilities",
+  "draw": "Thick pipe running diagonally down a hillside from a reservoir into a small powerhouse building at the bottom.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "francis-turbine",
+  "category": "utilities",
+  "draw": "Front view of a snail shaped spiral casing wrapping around a round runner with curved vanes.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "district-heating-pipes",
+  "category": "utilities",
+  "draw": "Two parallel insulated pipes on short supports leading into a row of small houses, with heat wave lines above.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "pedal-generator",
+  "category": "utilities",
+  "draw": "Bicycle mounted on a stand with its rear wheel driving a small generator box wired to a glowing bulb.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "balcony-solar-panel",
+  "category": "utilities",
+  "draw": "Single solar panel hung on a balcony railing with a short cable and plug going into the wall.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "solar-home-kit",
+  "category": "utilities",
+  "draw": "Small solar panel wired to a battery box and a hanging light bulb, an off grid starter set.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "solar-still",
+  "category": "utilities",
+  "draw": "Pyramid of glass over a basin of water in the sun, condensed drops running down into a side collection trough.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "solar-updraft-tower",
+  "category": "utilities",
+  "draw": "Very tall thin chimney rising from the middle of a wide low glass canopy roof with upward air arrows.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "space-solar-power",
+  "category": "utilities",
+  "draw": "Satellite with wide solar wings beaming a wavy ray down to a round receiver dish on the ground.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "portable-power-station",
+  "category": "utilities",
+  "draw": "Compact box with a carry handle on top, a battery level display and a row of outlets on the front.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "pad-mounted-transformer",
+  "category": "utilities",
+  "draw": "Low rectangular metal box on a concrete pad with vent slits and a lightning bolt warning triangle on its door.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "switchgear-cabinet",
+  "category": "utilities",
+  "draw": "Row of three tall metal cabinets with small windows, switches and meters on each door.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "underground-power-cable",
+  "category": "utilities",
+  "draw": "Ground cross section showing a buried round cable with a warning tape line above it and grass at the surface.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "industrial-cable-spool",
+  "category": "utilities",
+  "draw": "Large wooden spool standing on its edge with heavy cable wound around the core and the loose end trailing out.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "bird-flight-diverter",
+  "category": "utilities",
+  "draw": "A power line with two spiral coils wrapped around it and a small bird flying above.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "power-line-marker-ball",
+  "category": "utilities",
+  "draw": "Power lines strung between two tower tops with a large round marker ball clamped on the middle wire.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "surge-arrester",
+  "category": "utilities",
+  "draw": "Upright ribbed porcelain column with a cap on top and a ground wire at the base, a small bolt on the side.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "h-frame-power-pole",
+  "category": "utilities",
+  "draw": "Two wooden poles joined near the top by a crossbar carrying three hanging insulators and wires.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "grid-control-room",
+  "category": "utilities",
+  "draw": "Operator desk with two monitors facing a wide wall screen that shows a network of lines and nodes.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "brownout",
+  "category": "utilities",
+  "draw": "Light bulb with a dimmed half and a short down arrow beside it, showing reduced voltage.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "load-shedding",
+  "category": "utilities",
+  "draw": "Row of three small houses with the middle one dark and a clock above it showing a scheduled cut.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "outage-map",
+  "category": "utilities",
+  "draw": "Folded map with several lightning bolt pins and one crossed out bolt marking an outage area.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "power-surge",
+  "category": "utilities",
+  "draw": "Wall plug with a sharp spike in a line graph rising above it.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "three-phase-power",
+  "category": "utilities",
+  "draw": "Three overlapping sine waves offset from each other along one horizontal axis.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "alternating-current-symbol",
+  "category": "utilities",
+  "draw": "Single tilde shaped sine wave inside a circle, the AC symbol.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "vehicle-to-grid",
+  "category": "utilities",
+  "draw": "Electric car on the left and a pylon on the right linked by a two way arrow with a bolt in the middle.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "net-metering",
+  "category": "utilities",
+  "draw": "Round meter dial with two opposing arrows below it, one pointing to a house and one to a pylon.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "time-of-use-pricing",
+  "category": "utilities",
+  "draw": "Clock face with a lightning bolt in the center and a small price tag hanging from its side.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "virtual-power-plant",
+  "category": "utilities",
+  "draw": "Cloud at the top connected by lines to three small houses with solar panels and a battery below.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "peer-to-peer-energy",
+  "category": "utilities",
+  "draw": "Two small houses side by side with a curved arrow carrying a lightning bolt from one roof to the other.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "heat-meter",
+  "category": "utilities",
+  "draw": "Compact meter body sitting on a pipe with a small display and a thermometer mark on its face.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "coin-meter",
+  "category": "utilities",
+  "draw": "Old boxy meter with a round dial window and a coin slot on the front with a coin going in.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "power-pedestal",
+  "category": "utilities",
+  "draw": "Short post with a hooded top holding two outlets and a small meter, as used at marinas and campsites.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "home-utilities",
+  "category": "utilities",
+  "draw": "Water drop, gas flame and lightning bolt arranged together in a triangle.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "line-inspection-drone",
+  "category": "utilities",
+  "draw": "Quadcopter drone hovering beside a string of insulators hanging from a power line.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "arc-flash-suit",
+  "category": "utilities",
+  "draw": "Front view of a protective hood with a wide dark visor over a thick protective jacket.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "insulated-gloves",
+  "category": "utilities",
+  "draw": "Pair of long thick cuffed rubber gloves with a small lightning bolt marked on the cuff.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "digger-derrick",
+  "category": "utilities",
+  "draw": "Utility truck with a boom arm on the back ending in a large vertical auger drilling into the ground.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "utility-van",
+  "category": "utilities",
+  "draw": "Boxy van with ladders strapped on the roof rack and a lightning bolt and drop on its side panel.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "plug-in-timer",
+  "category": "utilities",
+  "draw": "Plug socket adapter with a round dial on its face ringed by small push pins.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "borehole",
+  "category": "utilities",
+  "draw": "Ground cross section with a narrow vertical pipe drilled down through layers into a wavy water layer, a pump head on top.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "water-pumping-station",
+  "category": "utilities",
+  "draw": "Small flat roofed building with a large pipe entering one side, leaving the other and a water drop on the wall.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "water-main",
+  "category": "utilities",
+  "draw": "Large pipe cross section in a trench under the road surface with a smaller branch pipe rising to a house.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "reverse-osmosis-system",
+  "category": "utilities",
+  "draw": "Three upright filter canisters in a row joined by thin tubes, beside a small round storage tank.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "aeration-basin",
+  "category": "utilities",
+  "draw": "Rectangular open tank seen at an angle with rows of rising bubbles in the water.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "trickling-filter",
+  "category": "utilities",
+  "draw": "Round shallow bed of stones seen at an angle with a rotating sprinkler arm spraying drops across it.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "reed-bed-filter",
+  "category": "utilities",
+  "draw": "Cross section of a gravel bed with tall reeds growing from it and water flowing through from one side.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "grease-trap",
+  "category": "utilities",
+  "draw": "Box shaped tank with an inlet pipe, an internal baffle wall and a layer of floating grease at the top.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "fatberg",
+  "category": "utilities",
+  "draw": "A lumpy blob of congealed fat and wipes blocking the inside of a sewer pipe cross section.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "sewer-tunnel",
+  "category": "utilities",
+  "draw": "Arched brick tunnel seen end on with a channel of flowing water along its floor.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "utility-tunnel",
+  "category": "utilities",
+  "draw": "Rectangular tunnel seen end on with pipes along one wall and cable trays along the other.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "water-intake-tower",
+  "category": "utilities",
+  "draw": "Tall round tower standing in a reservoir with a narrow footbridge running to it from the shore.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "spillway",
+  "category": "utilities",
+  "draw": "Stepped concrete chute running down from the top of a dam wall with water cascading over the steps.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "embankment-dam",
+  "category": "utilities",
+  "draw": "Trapezoid earth embankment in side view holding back water on one side, with a rock lined slope.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "water-outage",
+  "category": "utilities",
+  "draw": "Faucet with no flow and a dashed empty drop outline below the spout.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "water-vending-machine",
+  "category": "utilities",
+  "draw": "Upright kiosk machine with a water drop sign on top, a coin slot and a jug under the tap.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "handwashing-station",
+  "category": "utilities",
+  "draw": "Water container on a stand with a small tap over a basin and a bar of soap beside it.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "composting-toilet",
+  "category": "utilities",
+  "draw": "Wooden box toilet with a lid and a small leaf symbol on its front and a vent pipe rising behind.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "limescale",
+  "category": "utilities",
+  "draw": "Water drop above a pipe cross section narrowed by a thick crusty inner layer.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "dry-riser-inlet",
+  "category": "utilities",
+  "draw": "Wall mounted box with a door and two round hose connectors inside, as fitted on buildings for firefighters.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "storm-surge-barrier",
+  "category": "utilities",
+  "draw": "Row of piers across a river with curved shell shaped gates between them, water on one side.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "shadoof",
+  "category": "utilities",
+  "draw": "Upright post with a long pivoting pole, a counterweight at one end and a bucket hanging at the other over water.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "qanat",
+  "category": "utilities",
+  "draw": "Ground cross section with a gently sloping underground channel and a row of vertical access shafts rising to the surface.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "leak-listening-stick",
+  "category": "utilities",
+  "draw": "Long metal rod pressed to the ground with an earpiece on top and sound waves coming from a pipe below.",
+  "domain": "r2-energy-utilities"
+ },
+ {
+  "name": "water-valve-key",
+  "category": "utilities",
+  "draw": "Tall T shaped bar with a socket at its bottom end reaching into a small valve box in the ground.",
+  "domain": "r2-energy-utilities"
+ }
+]

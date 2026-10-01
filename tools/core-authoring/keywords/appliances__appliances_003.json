@@ -1,0 +1,1536 @@
+{
+  "soundbar": {
+    "context": "A long slim speaker bar with a row of drivers sitting under a TV screen. Used for home audio, TV sound upgrades and electronics shops.",
+    "keywords": [
+      "soundbar",
+      "sound bar",
+      "tv speaker",
+      "tv soundbar",
+      "home audio",
+      "home cinema",
+      "home theater",
+      "speaker bar",
+      "surround bar",
+      "audio",
+      "speaker",
+      "television sound",
+      "dialogue",
+      "living room",
+      "entertainment",
+      "electronics",
+      "hifi",
+      "wireless speaker"
+    ]
+  },
+  "subwoofer": {
+    "context": "A cube speaker box with one large woofer cone on the front and small feet. Used for bass, home theater setups and audio equipment listings.",
+    "keywords": [
+      "subwoofer",
+      "sub",
+      "sub woofer",
+      "woofer",
+      "bass",
+      "bass speaker",
+      "low frequency",
+      "speaker",
+      "home theater",
+      "home cinema",
+      "car audio",
+      "hifi",
+      "audio",
+      "boom",
+      "speaker box",
+      "sound system",
+      "electronics"
+    ]
+  },
+  "av-receiver": {
+    "context": "A wide low audio video receiver with a display strip, buttons and a big volume knob. Used for home theater, hi-fi and electronics stores.",
+    "keywords": [
+      "av receiver",
+      "a/v receiver",
+      "receiver",
+      "amplifier",
+      "amp",
+      "home theater receiver",
+      "surround receiver",
+      "hifi",
+      "hi-fi",
+      "stereo",
+      "volume knob",
+      "audio video",
+      "home cinema",
+      "tuner",
+      "electronics",
+      "sound system",
+      "hdmi"
+    ]
+  },
+  "stereo-amplifier": {
+    "context": "A low hi-fi box with a VU meter window and two knobs. Used for stereo systems, audiophile gear and music equipment.",
+    "keywords": [
+      "stereo amplifier",
+      "amplifier",
+      "amp",
+      "integrated amplifier",
+      "power amp",
+      "hifi",
+      "hi-fi",
+      "stereo",
+      "vu meter",
+      "audiophile",
+      "volume",
+      "knobs",
+      "audio",
+      "music",
+      "sound system",
+      "vintage audio",
+      "electronics"
+    ]
+  },
+  "hifi-system": {
+    "context": "A mini hi-fi: a centre unit with a display flanked by two speakers. Used for music systems, stereos and home audio shops.",
+    "keywords": [
+      "hifi system",
+      "hi-fi system",
+      "hifi",
+      "hi-fi",
+      "stereo system",
+      "music system",
+      "mini system",
+      "micro system",
+      "stereo",
+      "speakers",
+      "shelf stereo",
+      "cd stereo",
+      "home audio",
+      "audio",
+      "music",
+      "sound system",
+      "electronics"
+    ]
+  },
+  "tower-speaker": {
+    "context": "A tall narrow floor-standing speaker with a tweeter above two woofers. Used for hi-fi, home theater and speaker shops.",
+    "keywords": [
+      "tower speaker",
+      "floorstanding speaker",
+      "floor standing speaker",
+      "floor speaker",
+      "column speaker",
+      "loudspeaker",
+      "speaker",
+      "hifi",
+      "hi-fi",
+      "home theater",
+      "stereo",
+      "tweeter",
+      "woofer",
+      "audio",
+      "sound",
+      "audiophile"
+    ]
+  },
+  "portable-speaker": {
+    "context": "A capsule-shaped wireless speaker lying on its side sending out sound waves. Used for bluetooth speakers, outdoor music and travel audio.",
+    "keywords": [
+      "portable speaker",
+      "wireless speaker",
+      "bluetooth speaker",
+      "outdoor speaker",
+      "travel speaker",
+      "waterproof speaker",
+      "party speaker",
+      "speaker",
+      "music",
+      "audio",
+      "sound",
+      "play music",
+      "rechargeable",
+      "beach",
+      "camping",
+      "pool party"
+    ]
+  },
+  "surround-sound": {
+    "context": "A listener in the middle with four speakers in the corners sending sound inward. Used for surround audio settings, home theater and spatial sound.",
+    "keywords": [
+      "surround sound",
+      "surround",
+      "5.1",
+      "7.1",
+      "spatial audio",
+      "3d audio",
+      "immersive audio",
+      "home theater",
+      "home cinema",
+      "speakers",
+      "sound field",
+      "audio settings",
+      "listener",
+      "sound",
+      "multichannel",
+      "speaker layout"
+    ]
+  },
+  "cd-player": {
+    "context": "A hi-fi CD player with its disc tray slid out and a disc on it. Used for music playback, audio gear and retro electronics.",
+    "keywords": [
+      "cd player",
+      "compact disc player",
+      "disc player",
+      "cd",
+      "compact disc",
+      "disc tray",
+      "eject",
+      "hifi",
+      "hi-fi",
+      "stereo",
+      "music",
+      "audio",
+      "album",
+      "play cd",
+      "electronics",
+      "retro"
+    ]
+  },
+  "cassette-deck": {
+    "context": "A hi-fi tape deck with a cassette visible in its door and transport buttons. Used for tape playback, retro audio and hi-fi equipment.",
+    "keywords": [
+      "cassette deck",
+      "tape deck",
+      "cassette player",
+      "tape player",
+      "tape recorder",
+      "cassette",
+      "audio tape",
+      "hifi",
+      "hi-fi",
+      "stereo",
+      "mixtape",
+      "retro",
+      "80s",
+      "90s",
+      "vintage audio",
+      "music",
+      "recording"
+    ]
+  },
+  "reel-to-reel": {
+    "context": "A tape recorder with two large reels on top and tape running down to the heads. Used for studio recording, vintage audio and archives.",
+    "keywords": [
+      "reel to reel",
+      "reel-to-reel",
+      "tape recorder",
+      "open reel",
+      "magnetic tape",
+      "tape machine",
+      "studio",
+      "recording",
+      "analog",
+      "analogue",
+      "vintage audio",
+      "reels",
+      "archive",
+      "audio",
+      "music",
+      "retro"
+    ]
+  },
+  "gramophone": {
+    "context": "A wind-up record player with a large flared horn over its box and a crank on the side. Used for vintage music, antiques and nostalgia.",
+    "keywords": [
+      "gramophone",
+      "phonograph",
+      "wind up record player",
+      "record player",
+      "horn",
+      "vintage",
+      "antique",
+      "old music",
+      "78 rpm",
+      "shellac",
+      "retro",
+      "nostalgia",
+      "music history",
+      "turntable",
+      "crank",
+      "jazz age"
+    ]
+  },
+  "jukebox": {
+    "context": "An arched cabinet with a curved window, selection buttons and a speaker grille. Used for diners, bars, retro music and party playlists.",
+    "keywords": [
+      "jukebox",
+      "juke box",
+      "diner",
+      "bar",
+      "retro",
+      "50s",
+      "rock and roll",
+      "coin operated",
+      "music machine",
+      "records",
+      "song selection",
+      "playlist",
+      "party",
+      "vintage",
+      "nightlife",
+      "music"
+    ]
+  },
+  "karaoke-machine": {
+    "context": "A speaker box with a small screen and a microphone attached by a cord. Used for karaoke nights, singing apps and party equipment.",
+    "keywords": [
+      "karaoke machine",
+      "karaoke",
+      "sing along",
+      "singing",
+      "microphone",
+      "mic",
+      "party",
+      "speaker",
+      "lyrics",
+      "karaoke night",
+      "entertainment",
+      "vocals",
+      "karaoke bar",
+      "fun",
+      "music"
+    ]
+  },
+  "vcr": {
+    "context": "A wide video cassette recorder with a tape flap and a small clock display. Used for retro video, tape recording and home video.",
+    "keywords": [
+      "vcr",
+      "video recorder",
+      "video cassette recorder",
+      "vhs player",
+      "vhs",
+      "tape player",
+      "video tape",
+      "record tv",
+      "home video",
+      "retro",
+      "80s",
+      "90s",
+      "vintage",
+      "rewind",
+      "electronics",
+      "clock"
+    ]
+  },
+  "videotape": {
+    "context": "A VHS video cassette with a reel window and a label strip. Used for home video, movie rentals, archives and retro media.",
+    "keywords": [
+      "videotape",
+      "video tape",
+      "video cassette",
+      "vhs",
+      "vhs tape",
+      "cassette",
+      "home video",
+      "movie rental",
+      "tape",
+      "retro",
+      "80s",
+      "90s",
+      "recording",
+      "archive",
+      "film",
+      "rewind"
+    ]
+  },
+  "dvd-player": {
+    "context": "A slim DVD player with a disc going into its slot and a small display. Used for movie playback, home cinema and electronics listings.",
+    "keywords": [
+      "dvd player",
+      "disc player",
+      "dvd",
+      "blu ray",
+      "video player",
+      "movie player",
+      "home cinema",
+      "home theater",
+      "movies",
+      "disc",
+      "watch film",
+      "electronics",
+      "optical disc",
+      "player",
+      "tv"
+    ]
+  },
+  "set-top-box": {
+    "context": "A small set-top box with a channel display next to its remote control. Used for cable and satellite TV, digital television and TV services.",
+    "keywords": [
+      "set top box",
+      "set-top box",
+      "cable box",
+      "tv box",
+      "satellite receiver",
+      "decoder",
+      "digital tv",
+      "receiver",
+      "iptv",
+      "channels",
+      "remote control",
+      "cable tv",
+      "satellite tv",
+      "television",
+      "tuner",
+      "stb"
+    ]
+  },
+  "streaming-stick": {
+    "context": "A small HDMI dongle with a play symbol that plugs into a TV. Used for streaming video, smart TV features and media apps.",
+    "keywords": [
+      "streaming stick",
+      "streaming device",
+      "media stick",
+      "tv stick",
+      "hdmi stick",
+      "dongle",
+      "hdmi",
+      "streaming",
+      "smart tv",
+      "media player",
+      "watch online",
+      "video streaming",
+      "cast",
+      "tv",
+      "plug in",
+      "apps"
+    ]
+  },
+  "tv-antenna": {
+    "context": "An indoor rabbit-ear antenna with two rods in a V on a round base. Used for over-the-air TV, reception and retro television.",
+    "keywords": [
+      "tv antenna",
+      "rabbit ears",
+      "indoor antenna",
+      "tv aerial",
+      "antenna",
+      "aerial",
+      "dipole",
+      "reception",
+      "signal",
+      "broadcast",
+      "free to air",
+      "over the air",
+      "terrestrial tv",
+      "retro tv",
+      "television",
+      "channels"
+    ]
+  },
+  "roof-aerial": {
+    "context": "A rooftop Yagi aerial: a boom with crosswise elements on a mast. Used for TV reception, aerial installers and broadcast signal.",
+    "keywords": [
+      "roof aerial",
+      "tv aerial",
+      "rooftop antenna",
+      "outdoor antenna",
+      "yagi antenna",
+      "yagi",
+      "antenna",
+      "aerial",
+      "reception",
+      "signal",
+      "broadcast",
+      "terrestrial tv",
+      "aerial installer",
+      "mast",
+      "television",
+      "rooftop"
+    ]
+  },
+  "home-theater": {
+    "context": "A wide screen with a speaker on each side and a sofa in front. Used for home cinema rooms, entertainment setups and AV installers.",
+    "keywords": [
+      "home theater",
+      "home theatre",
+      "home cinema",
+      "movie room",
+      "media room",
+      "tv room",
+      "cinema room",
+      "surround sound",
+      "big screen",
+      "projector screen",
+      "entertainment",
+      "sofa",
+      "movie night",
+      "speakers",
+      "living room",
+      "av install"
+    ]
+  },
+  "tv-wall-mount": {
+    "context": "A flat TV seen from the side on a folding arm bracket fixed to a wall. Used for TV installation, brackets and home fitting services.",
+    "keywords": [
+      "tv wall mount",
+      "tv bracket",
+      "wall bracket",
+      "wall mount",
+      "articulating mount",
+      "swivel mount",
+      "full motion mount",
+      "tv arm",
+      "mounting",
+      "installation",
+      "hang tv",
+      "flat screen",
+      "fitting",
+      "diy",
+      "television"
+    ]
+  },
+  "digital-photo-frame": {
+    "context": "A frame on a stand showing a picture of a mountain and sun. Used for digital photo frames, slideshows and gift ideas.",
+    "keywords": [
+      "digital photo frame",
+      "digital picture frame",
+      "photo frame",
+      "picture frame",
+      "digital frame",
+      "slideshow",
+      "photos",
+      "pictures",
+      "display",
+      "gallery",
+      "memories",
+      "family photos",
+      "gift",
+      "screen",
+      "image"
+    ]
+  },
+  "portable-cd-player": {
+    "context": "A round portable CD player with a disc window, buttons and a headphone cord. Used for retro music, personal audio and 90s nostalgia.",
+    "keywords": [
+      "portable cd player",
+      "personal cd player",
+      "cd player",
+      "portable cd",
+      "disc player",
+      "cd",
+      "headphones",
+      "music",
+      "retro",
+      "90s",
+      "personal audio",
+      "listen",
+      "anti skip",
+      "nostalgia",
+      "audio"
+    ]
+  },
+  "portable-cassette-player": {
+    "context": "A pocket tape player with a cassette window, top buttons and a headphone cord. Used for retro music, personal stereo and 80s nostalgia.",
+    "keywords": [
+      "portable cassette player",
+      "personal stereo",
+      "pocket tape player",
+      "cassette player",
+      "tape player",
+      "cassette",
+      "mixtape",
+      "headphones",
+      "music",
+      "retro",
+      "80s",
+      "personal audio",
+      "nostalgia",
+      "audio tape"
+    ]
+  },
+  "cordless-phone": {
+    "context": "A cordless handset with a keypad and antenna standing in its charging cradle. Used for home phones, landlines and office telephony.",
+    "keywords": [
+      "cordless phone",
+      "home phone",
+      "landline",
+      "dect phone",
+      "handset",
+      "telephone",
+      "phone",
+      "base station",
+      "charging cradle",
+      "house phone",
+      "call",
+      "office phone",
+      "keypad",
+      "wireless phone"
+    ]
+  },
+  "baby-monitor": {
+    "context": "A parent unit with a screen and antenna beside a round camera on a stand. Used for nursery monitoring, parenting and baby products.",
+    "keywords": [
+      "baby monitor",
+      "baby camera",
+      "baby cam",
+      "nursery monitor",
+      "nursery camera",
+      "child monitor",
+      "parent unit",
+      "video monitor",
+      "infant",
+      "parenting",
+      "sleep",
+      "nursery",
+      "watch baby",
+      "audio monitor"
+    ]
+  },
+  "weather-station": {
+    "context": "A home weather display with a sun and cloud beside a small outdoor sensor. Used for forecasts, temperature and weather gadgets.",
+    "keywords": [
+      "weather station",
+      "home weather station",
+      "weather",
+      "forecast",
+      "temperature",
+      "thermometer",
+      "barometer",
+      "humidity",
+      "outdoor sensor",
+      "indoor outdoor",
+      "climate",
+      "meteorology",
+      "sun and cloud",
+      "display"
+    ]
+  },
+  "hygrometer": {
+    "context": "A round gauge with a needle and a water drop in the middle. Used for humidity levels, damp checks and indoor climate.",
+    "keywords": [
+      "hygrometer",
+      "humidity gauge",
+      "humidity meter",
+      "humidity",
+      "moisture",
+      "relative humidity",
+      "damp",
+      "gauge",
+      "dial",
+      "indoor climate",
+      "mould",
+      "mold",
+      "dehumidifier",
+      "air moisture",
+      "weather"
+    ]
+  },
+  "air-quality-monitor": {
+    "context": "A small rounded box whose display shows a wavy air line and a level bar. Used for indoor air quality, pollution and health sensors.",
+    "keywords": [
+      "air quality monitor",
+      "air monitor",
+      "air quality",
+      "co2 monitor",
+      "carbon dioxide",
+      "pm2.5",
+      "voc",
+      "pollution",
+      "indoor air",
+      "ventilation",
+      "sensor",
+      "air sensor",
+      "clean air",
+      "allergies",
+      "smog",
+      "health"
+    ]
+  },
+  "mesh-wifi": {
+    "context": "Three small router units linked by dotted lines with a signal arc. Used for mesh networks, whole-home Wi-Fi and network setup.",
+    "keywords": [
+      "mesh wifi",
+      "mesh network",
+      "mesh router",
+      "whole home wifi",
+      "wifi system",
+      "wifi",
+      "wi-fi",
+      "wireless",
+      "router",
+      "nodes",
+      "satellite",
+      "coverage",
+      "network",
+      "internet",
+      "home network",
+      "access point"
+    ]
+  },
+  "wifi-extender": {
+    "context": "A plug-in box with a Wi-Fi signal above it. Used for range extenders, repeaters and fixing weak wireless coverage.",
+    "keywords": [
+      "wifi extender",
+      "wifi repeater",
+      "range extender",
+      "wifi booster",
+      "signal booster",
+      "repeater",
+      "extender",
+      "wifi",
+      "wi-fi",
+      "wireless",
+      "plug in",
+      "coverage",
+      "dead zone",
+      "weak signal",
+      "network",
+      "internet"
+    ]
+  },
+  "network-switch": {
+    "context": "A flat box with a row of Ethernet ports and lights above them. Used for wired networks, IT equipment and office networking.",
+    "keywords": [
+      "network switch",
+      "ethernet switch",
+      "switch",
+      "lan switch",
+      "ethernet",
+      "ports",
+      "rj45",
+      "networking",
+      "wired network",
+      "lan",
+      "it",
+      "hub",
+      "gigabit",
+      "network equipment",
+      "office network",
+      "patch"
+    ]
+  },
+  "nas-drive": {
+    "context": "A small tower with two drive bays and status lights. Used for network storage, home servers and backups.",
+    "keywords": [
+      "nas drive",
+      "nas",
+      "network attached storage",
+      "network storage",
+      "file server",
+      "home server",
+      "storage",
+      "backup",
+      "drives",
+      "raid",
+      "cloud storage",
+      "media server",
+      "data",
+      "hard drives",
+      "server"
+    ]
+  },
+  "smart-hub": {
+    "context": "A rounded square hub with a light ring in the middle and signal arcs on each side. Used for home automation hubs and smart home setup.",
+    "keywords": [
+      "smart hub",
+      "home hub",
+      "smart home hub",
+      "hub",
+      "bridge",
+      "iot hub",
+      "home automation",
+      "smart home",
+      "controller",
+      "gateway",
+      "connected devices",
+      "wireless",
+      "pairing",
+      "automation",
+      "iot"
+    ]
+  },
+  "smart-display": {
+    "context": "A tabletop screen showing a weather widget on a speaker base. Used for voice assistants, kitchen displays and smart home control.",
+    "keywords": [
+      "smart display",
+      "smart screen",
+      "home display",
+      "voice assistant",
+      "smart speaker with screen",
+      "kitchen display",
+      "smart home",
+      "touch screen",
+      "weather widget",
+      "video call",
+      "assistant",
+      "tabletop screen",
+      "control panel"
+    ]
+  },
+  "smart-bulb": {
+    "context": "A light bulb with a Wi-Fi signal inside the glass. Used for smart lighting, app controlled lamps and home automation.",
+    "keywords": [
+      "smart bulb",
+      "smart light",
+      "wifi bulb",
+      "connected bulb",
+      "smart lighting",
+      "led bulb",
+      "light bulb",
+      "bulb",
+      "app controlled light",
+      "dimmable",
+      "color bulb",
+      "colour bulb",
+      "smart home",
+      "lighting",
+      "automation"
+    ]
+  },
+  "smart-deadbolt": {
+    "context": "A deadbolt with a numeric keypad above a lever handle. Used for smart locks, keyless entry and home security.",
+    "keywords": [
+      "smart deadbolt",
+      "smart lock",
+      "keypad lock",
+      "keyless entry",
+      "door lock",
+      "digital lock",
+      "electronic lock",
+      "pin code",
+      "deadbolt",
+      "keypad",
+      "front door",
+      "home security",
+      "access code",
+      "lock"
+    ]
+  },
+  "video-doorbell": {
+    "context": "A tall doorbell with a camera lens at the top and a round button below. Used for smart doorbells, front door cameras and home security.",
+    "keywords": [
+      "video doorbell",
+      "smart doorbell",
+      "doorbell camera",
+      "door camera",
+      "doorbell",
+      "front door",
+      "porch camera",
+      "visitor",
+      "intercom",
+      "home security",
+      "camera",
+      "chime",
+      "delivery",
+      "doorstep"
+    ]
+  },
+  "motion-sensor": {
+    "context": "A wall-mounted dome sensor sending detection waves downward. Used for motion detectors, security systems and automatic lighting.",
+    "keywords": [
+      "motion sensor",
+      "motion detector",
+      "pir sensor",
+      "pir",
+      "occupancy sensor",
+      "presence sensor",
+      "movement",
+      "detector",
+      "security",
+      "alarm",
+      "automatic light",
+      "smart home",
+      "detection",
+      "sensor"
+    ]
+  },
+  "contact-sensor": {
+    "context": "A wireless sensor and a small magnet side by side. Used for door and window sensors, entry alerts and home security.",
+    "keywords": [
+      "contact sensor",
+      "door sensor",
+      "window sensor",
+      "magnetic sensor",
+      "entry sensor",
+      "reed switch",
+      "open close sensor",
+      "security sensor",
+      "alarm",
+      "intrusion",
+      "smart home",
+      "wireless sensor",
+      "magnet",
+      "open door alert"
+    ]
+  },
+  "water-leak-sensor": {
+    "context": "A small sensor puck on the floor under a falling water drop. Used for leak detection, flood alarms and smart home safety.",
+    "keywords": [
+      "water leak sensor",
+      "leak detector",
+      "flood sensor",
+      "water sensor",
+      "leak alarm",
+      "water alarm",
+      "leak",
+      "flood",
+      "water damage",
+      "plumbing",
+      "basement",
+      "under sink",
+      "smart home",
+      "alert",
+      "drip"
+    ]
+  },
+  "gas-detector": {
+    "context": "A plug-in detector with a vent grille and a flame warning mark. Used for gas leak alarms, carbon monoxide and home safety.",
+    "keywords": [
+      "gas detector",
+      "gas alarm",
+      "gas leak detector",
+      "gas leak",
+      "natural gas",
+      "lpg",
+      "propane",
+      "methane",
+      "carbon monoxide",
+      "co alarm",
+      "safety",
+      "alarm",
+      "kitchen safety",
+      "detector",
+      "fumes"
+    ]
+  },
+  "smart-blinds": {
+    "context": "Slatted window blinds on a headrail with a Wi-Fi signal. Used for motorised blinds, smart shades and home automation.",
+    "keywords": [
+      "smart blinds",
+      "motorized blinds",
+      "motorised blinds",
+      "smart shades",
+      "window blinds",
+      "blinds",
+      "shades",
+      "roller blind",
+      "window covering",
+      "automatic blinds",
+      "curtains",
+      "smart home",
+      "automation",
+      "privacy",
+      "window"
+    ]
+  },
+  "garage-door-opener": {
+    "context": "A ceiling motor unit with a rail running to a sectional garage door. Used for garage openers, remote door control and home automation.",
+    "keywords": [
+      "garage door opener",
+      "garage opener",
+      "door opener",
+      "garage motor",
+      "automatic garage door",
+      "garage door",
+      "sectional door",
+      "remote opener",
+      "garage",
+      "motor",
+      "rail",
+      "smart garage",
+      "open garage"
+    ]
+  },
+  "smart-fridge": {
+    "context": "A tall fridge with a touch screen panel on its door. Used for connected kitchens, smart appliances and grocery apps.",
+    "keywords": [
+      "smart fridge",
+      "smart refrigerator",
+      "connected fridge",
+      "touch screen fridge",
+      "fridge",
+      "refrigerator",
+      "smart kitchen",
+      "smart appliance",
+      "kitchen",
+      "groceries",
+      "iot",
+      "freezer",
+      "food storage",
+      "appliance"
+    ]
+  },
+  "smart-home": {
+    "context": "A house outline with a Wi-Fi signal inside. Used for smart home apps, home automation and connected devices.",
+    "keywords": [
+      "smart home",
+      "connected home",
+      "home automation",
+      "smart house",
+      "iot",
+      "domotics",
+      "wifi",
+      "wi-fi",
+      "house",
+      "home network",
+      "automation",
+      "devices",
+      "wireless",
+      "internet of things",
+      "intelligent home"
+    ]
+  },
+  "smart-button": {
+    "context": "A small round wireless push button sending a signal. Used for scene buttons, smart switches and one-press automation.",
+    "keywords": [
+      "smart button",
+      "wireless button",
+      "smart switch",
+      "scene button",
+      "push button",
+      "remote button",
+      "click",
+      "trigger",
+      "iot",
+      "smart home",
+      "automation",
+      "one touch",
+      "panic button",
+      "wireless switch"
+    ]
+  },
+  "smart-mirror": {
+    "context": "A mirror with a clock and small widgets on the glass. Used for connected mirrors, bathroom tech and smart home displays.",
+    "keywords": [
+      "smart mirror",
+      "magic mirror",
+      "display mirror",
+      "connected mirror",
+      "bathroom mirror",
+      "mirror",
+      "reflection",
+      "widgets",
+      "clock",
+      "weather",
+      "smart home",
+      "vanity",
+      "touch mirror",
+      "dressing"
+    ]
+  },
+  "alarm-keypad": {
+    "context": "A wall security panel with a small screen and a grid of keys. Used for burglar alarms, arming and disarming, and security systems.",
+    "keywords": [
+      "alarm keypad",
+      "alarm panel",
+      "security keypad",
+      "burglar alarm",
+      "security system",
+      "intruder alarm",
+      "keypad",
+      "arm",
+      "disarm",
+      "pin code",
+      "control panel",
+      "home security",
+      "house alarm",
+      "access code"
+    ]
+  },
+  "pet-feeder": {
+    "context": "An automatic feeder: a food hopper with a small screen above a bowl. Used for timed pet feeding, cat and dog care and pet gadgets.",
+    "keywords": [
+      "pet feeder",
+      "automatic pet feeder",
+      "automatic feeder",
+      "cat feeder",
+      "dog feeder",
+      "pet food",
+      "timed feeder",
+      "food dispenser",
+      "kibble",
+      "feeding schedule",
+      "pets",
+      "cat",
+      "dog",
+      "smart feeder"
+    ]
+  },
+  "pet-water-fountain": {
+    "context": "A round bowl with water arcing from a spout in the middle. Used for pet drinking fountains, cat care and pet supplies.",
+    "keywords": [
+      "pet water fountain",
+      "pet fountain",
+      "cat fountain",
+      "water fountain",
+      "drinking fountain",
+      "water bowl",
+      "water dispenser",
+      "pets",
+      "cat",
+      "dog",
+      "hydration",
+      "fresh water",
+      "pet supplies",
+      "filtered water"
+    ]
+  },
+  "paper-shredder": {
+    "context": "A shredder with a sheet going into the top and paper strips coming out below. Used for document disposal, privacy and office supplies.",
+    "keywords": [
+      "paper shredder",
+      "shredder",
+      "document shredder",
+      "shred",
+      "shredding",
+      "cross cut",
+      "confidential",
+      "privacy",
+      "destroy documents",
+      "office",
+      "paper",
+      "data protection",
+      "gdpr",
+      "bin",
+      "office supplies"
+    ]
+  },
+  "laminator": {
+    "context": "A laminating machine with a front slot and a glossy sheet coming out. Used for laminating documents, schools and office supplies.",
+    "keywords": [
+      "laminator",
+      "laminating machine",
+      "laminate",
+      "lamination",
+      "pouch laminator",
+      "laminating pouch",
+      "office",
+      "school",
+      "document",
+      "protect paper",
+      "seal",
+      "sheet",
+      "craft",
+      "office supplies"
+    ]
+  },
+  "label-maker": {
+    "context": "A handheld device with a screen, keys and a label strip coming out of the top. Used for labelling, organising and office supplies.",
+    "keywords": [
+      "label maker",
+      "label printer",
+      "labeller",
+      "labeler",
+      "labelling",
+      "labeling",
+      "labels",
+      "tape labeler",
+      "organising",
+      "organizing",
+      "sticker",
+      "office",
+      "storage",
+      "print label",
+      "office supplies"
+    ]
+  },
+  "photocopier": {
+    "context": "A large office copier with a lid, a control panel and paper trays. Used for copying, printing and office equipment.",
+    "keywords": [
+      "photocopier",
+      "copier",
+      "copy machine",
+      "photocopy",
+      "copy",
+      "office printer",
+      "multifunction printer",
+      "mfp",
+      "scan",
+      "print",
+      "duplicate",
+      "office",
+      "paper tray",
+      "print shop",
+      "document"
+    ]
+  },
+  "rotisserie-oven": {
+    "context": "A countertop oven with a chicken on a spit behind the glass door. Used for rotisserie cooking, roast chicken and kitchen appliances.",
+    "keywords": [
+      "rotisserie oven",
+      "rotisserie",
+      "spit roast",
+      "roast chicken",
+      "rotisserie chicken",
+      "countertop oven",
+      "grill",
+      "roasting",
+      "turning spit",
+      "kitchen appliance",
+      "cooking",
+      "oven",
+      "poultry",
+      "bbq"
+    ]
+  },
+  "electric-knife": {
+    "context": "A carving knife with twin serrated blades, a chunky handle and a cord. Used for carving roasts, slicing bread and kitchen gadgets.",
+    "keywords": [
+      "electric knife",
+      "electric carving knife",
+      "carving knife",
+      "slicer",
+      "carving",
+      "serrated knife",
+      "bread knife",
+      "roast",
+      "turkey",
+      "ham",
+      "slicing",
+      "kitchen",
+      "holiday dinner",
+      "kitchen appliance"
+    ]
+  },
+  "warming-drawer": {
+    "context": "A built-in drawer in a cabinet frame with a handle and gentle heat rising. Used for keeping food and plates warm and kitchen fittings.",
+    "keywords": [
+      "warming drawer",
+      "warmer drawer",
+      "plate warmer",
+      "food warmer",
+      "keep warm",
+      "built in",
+      "kitchen drawer",
+      "oven drawer",
+      "heated drawer",
+      "dish warmer",
+      "proofing",
+      "kitchen appliance",
+      "cabinet"
+    ]
+  },
+  "milkshake-maker": {
+    "context": "A spindle mixer with a motor head on a column and a cup hooked under the spindle. Used for milkshakes, diners and drink bars.",
+    "keywords": [
+      "milkshake maker",
+      "spindle mixer",
+      "drink mixer",
+      "milkshake mixer",
+      "malt mixer",
+      "milkshake",
+      "shake",
+      "smoothie",
+      "frappe",
+      "diner",
+      "cafe",
+      "soda fountain",
+      "blender",
+      "drinks",
+      "kitchen appliance"
+    ]
+  },
+  "baseboard-heater": {
+    "context": "A long low heater along the floor with fins and heat rising above it. Used for electric heating, room heaters and HVAC.",
+    "keywords": [
+      "baseboard heater",
+      "skirting heater",
+      "baseboard heating",
+      "electric heater",
+      "convector",
+      "convection heater",
+      "heater",
+      "heating",
+      "wall heater",
+      "room heater",
+      "hydronic",
+      "warm",
+      "winter",
+      "hvac",
+      "radiator"
+    ]
+  },
+  "hand-warmer": {
+    "context": "A small pocket device with a glowing centre and heat waves on both sides. Used for rechargeable hand warmers, winter gear and outdoor trips.",
+    "keywords": [
+      "hand warmer",
+      "pocket warmer",
+      "rechargeable hand warmer",
+      "electric hand warmer",
+      "heat pack",
+      "warm hands",
+      "winter",
+      "cold weather",
+      "outdoor",
+      "camping",
+      "hiking",
+      "skiing",
+      "heat",
+      "gadget"
+    ]
+  },
+  "steam-station-iron": {
+    "context": "A clothes iron resting on a boxy water tank base joined by a hose. Used for steam generator irons, laundry and ironing.",
+    "keywords": [
+      "steam station iron",
+      "steam generator iron",
+      "steam generator",
+      "steam iron",
+      "ironing station",
+      "iron",
+      "ironing",
+      "laundry",
+      "clothes",
+      "creases",
+      "wrinkles",
+      "steam",
+      "pressing",
+      "household"
+    ]
+  },
+  "window-cleaning-robot": {
+    "context": "A square cleaning robot on a window pane held by a safety cord. Used for robotic window cleaners and household cleaning.",
+    "keywords": [
+      "window cleaning robot",
+      "window robot",
+      "glass cleaning robot",
+      "robot cleaner",
+      "window cleaner",
+      "cleaning robot",
+      "windows",
+      "glass",
+      "cleaning",
+      "housework",
+      "robot",
+      "automatic cleaning",
+      "chores"
+    ]
+  },
+  "robot-lawn-mower": {
+    "context": "A low sloped robot mower on wheels on the ground with a small antenna. Used for robotic lawn care, gardening and outdoor tech.",
+    "keywords": [
+      "robot lawn mower",
+      "robotic mower",
+      "robot mower",
+      "automatic mower",
+      "lawn robot",
+      "lawn mower",
+      "mower",
+      "lawn",
+      "grass",
+      "garden",
+      "gardening",
+      "mowing",
+      "yard",
+      "lawn care",
+      "robot"
+    ]
+  },
+  "ultrasonic-cleaner": {
+    "context": "A small tank with a ring in rippling water under a lid. Used for cleaning jewellery, glasses and small parts.",
+    "keywords": [
+      "ultrasonic cleaner",
+      "ultrasonic bath",
+      "sonic cleaner",
+      "jewellery cleaner",
+      "jewelry cleaner",
+      "glasses cleaner",
+      "ring",
+      "cleaning",
+      "ultrasound",
+      "parts cleaner",
+      "dental",
+      "watch",
+      "tank",
+      "ripples"
+    ]
+  },
+  "sensor-trash-can": {
+    "context": "A bin with its lid lifting and a sensor dot on the front. Used for touchless bins, hygiene and kitchen products.",
+    "keywords": [
+      "sensor trash can",
+      "sensor bin",
+      "touchless bin",
+      "touchless trash can",
+      "automatic bin",
+      "motion bin",
+      "trash can",
+      "garbage can",
+      "rubbish bin",
+      "waste bin",
+      "kitchen bin",
+      "hands free",
+      "hygiene",
+      "dustbin"
+    ]
+  },
+  "outlet-safety-cover": {
+    "context": "A round safety cap plugged into a wall outlet plate. Used for childproofing, baby safety and electrical safety.",
+    "keywords": [
+      "outlet safety cover",
+      "outlet cover",
+      "socket cover",
+      "outlet plug",
+      "plug cover",
+      "childproof",
+      "child safety",
+      "baby proofing",
+      "babyproofing",
+      "electrical safety",
+      "socket",
+      "outlet",
+      "toddler",
+      "safety cap"
+    ]
+  },
+  "key-card-switch": {
+    "context": "A wall plate with a key card half inserted into its slot. Used for hotel rooms, energy saving switches and room access.",
+    "keywords": [
+      "key card switch",
+      "hotel key card",
+      "card switch",
+      "energy saver switch",
+      "key card holder",
+      "hotel room",
+      "room card",
+      "power switch",
+      "energy saving",
+      "card slot",
+      "hospitality",
+      "access card",
+      "electricity"
+    ]
+  },
+  "septic-tank": {
+    "context": "A cross-section of an underground tank with an inlet pipe, a baffle and an outlet pipe. Used for septic systems, drainage and plumbing.",
+    "keywords": [
+      "septic tank",
+      "septic system",
+      "sewage tank",
+      "wastewater",
+      "sewage",
+      "drainage",
+      "cesspool",
+      "cesspit",
+      "plumbing",
+      "underground tank",
+      "off grid",
+      "soakaway",
+      "rural home",
+      "pumping",
+      "sanitation"
+    ]
+  },
+  "radiator-key": {
+    "context": "A small bleed key with a butterfly grip, a short shaft and a square socket end. Used for bleeding radiators and heating maintenance.",
+    "keywords": [
+      "radiator key",
+      "bleed key",
+      "radiator bleed key",
+      "bleeding radiator",
+      "bleed valve",
+      "radiator",
+      "central heating",
+      "heating",
+      "plumbing",
+      "air in radiator",
+      "maintenance",
+      "diy",
+      "key",
+      "tool"
+    ]
+  },
+  "immersion-heater": {
+    "context": "A screw cap head with a long looped heating element below it. Used for hot water cylinders, boilers and plumbing parts.",
+    "keywords": [
+      "immersion heater",
+      "immersion element",
+      "heating element",
+      "water heater element",
+      "hot water",
+      "hot water cylinder",
+      "boiler",
+      "tank heater",
+      "electric water heater",
+      "plumbing",
+      "element",
+      "heating"
+    ]
+  },
+  "tube-amplifier": {
+    "context": "A low box with a row of vacuum tubes on top and two knobs on the front. Used for valve amps, vintage hi-fi and guitar gear.",
+    "keywords": [
+      "tube amplifier",
+      "valve amplifier",
+      "tube amp",
+      "valve amp",
+      "vacuum tube",
+      "valve",
+      "amplifier",
+      "amp",
+      "hifi",
+      "hi-fi",
+      "vintage audio",
+      "audiophile",
+      "warm sound",
+      "guitar amp",
+      "retro",
+      "analog"
+    ]
+  },
+  "white-noise-machine": {
+    "context": "A round sound machine with a moon on the front and wavy sound lines above. Used for sleep aids, baby sleep and relaxation.",
+    "keywords": [
+      "white noise machine",
+      "sound machine",
+      "white noise",
+      "sleep machine",
+      "noise machine",
+      "sleep aid",
+      "sleep sounds",
+      "baby sleep",
+      "pink noise",
+      "ambient sound",
+      "relaxation",
+      "bedtime",
+      "insomnia",
+      "nursery"
+    ]
+  },
+  "wake-up-light": {
+    "context": "A round lamp glowing like a sun above a clock base. Used for sunrise alarm clocks, sleep routines and gentle waking.",
+    "keywords": [
+      "wake up light",
+      "sunrise alarm",
+      "sunrise alarm clock",
+      "sunrise lamp",
+      "light alarm clock",
+      "dawn simulator",
+      "alarm clock",
+      "morning",
+      "wake up",
+      "sleep",
+      "bedroom",
+      "bedside lamp",
+      "circadian",
+      "lamp"
+    ]
+  },
+  "usb-hub": {
+    "context": "A small bar with three USB ports and a short cable with a plug. Used for connecting more devices to a computer and desk accessories.",
+    "keywords": [
+      "usb hub",
+      "usb splitter",
+      "port hub",
+      "usb adapter",
+      "multiport adapter",
+      "dongle",
+      "usb",
+      "ports",
+      "connector",
+      "computer accessory",
+      "laptop",
+      "peripheral",
+      "docking",
+      "cable",
+      "expand ports"
+    ]
+  }
+}

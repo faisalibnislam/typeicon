@@ -1,0 +1,2007 @@
+[
+ {
+  "name": "mountain-range",
+  "category": "landscape",
+  "draw": "Front view of three overlapping triangular peaks of different heights along one baseline."
+ },
+ {
+  "name": "snowcapped-peak",
+  "category": "landscape",
+  "draw": "Single tall triangular mountain with a zigzag snow line cutting across its upper third."
+ },
+ {
+  "name": "mountain-pass",
+  "category": "landscape",
+  "draw": "Two mountain slopes meeting at a low saddle with a small winding road crossing between them."
+ },
+ {
+  "name": "mountain-ridge",
+  "category": "landscape",
+  "draw": "Long jagged ridgeline profile running across the icon with sawtooth crests over a flat base."
+ },
+ {
+  "name": "rolling-hills",
+  "category": "landscape",
+  "draw": "Two or three smooth overlapping rounded hill curves stacked toward a flat horizon line."
+ },
+ {
+  "name": "mesa",
+  "category": "landscape",
+  "draw": "Flat-topped wide rock formation with steep vertical sides and a few horizontal strata lines."
+ },
+ {
+  "name": "butte",
+  "category": "landscape",
+  "draw": "Narrow flat-topped rock tower with steep sides standing alone on a flat ground line."
+ },
+ {
+  "name": "plateau",
+  "category": "landscape",
+  "draw": "Wide raised flat tableland with one sloped edge descending to a lower plain line."
+ },
+ {
+  "name": "hoodoo",
+  "category": "landscape",
+  "draw": "Tall thin stacked rock pillar with a wider balancing cap stone on top."
+ },
+ {
+  "name": "natural-arch",
+  "category": "landscape",
+  "draw": "Thick rock arch spanning an open gap, with ground line below and layered texture lines."
+ },
+ {
+  "name": "sea-stack",
+  "category": "landscape",
+  "draw": "Isolated tall rock column rising from wavy sea lines near a cliff edge."
+ },
+ {
+  "name": "sea-arch",
+  "category": "landscape",
+  "draw": "Rock arch standing in the sea with wavy water lines passing through the opening."
+ },
+ {
+  "name": "cliff",
+  "category": "landscape",
+  "draw": "Side view of a flat top edge dropping vertically to the ground, with rock crack lines on the face."
+ },
+ {
+  "name": "sea-cliff",
+  "category": "landscape",
+  "draw": "Vertical cliff face on the left dropping into wavy sea lines on the right."
+ },
+ {
+  "name": "fjord",
+  "category": "landscape",
+  "draw": "Narrow strip of water winding between two steep mountain walls seen from above at an angle."
+ },
+ {
+  "name": "u-shaped-valley",
+  "category": "landscape",
+  "draw": "Cross section of a broad U-curved valley between two mountain shoulders with a small river dot at the bottom."
+ },
+ {
+  "name": "v-shaped-valley",
+  "category": "landscape",
+  "draw": "Two steep slopes forming a sharp V with a thin river line at the base."
+ },
+ {
+  "name": "sand-dune",
+  "category": "landscape",
+  "draw": "Two smooth crescent dune shapes with a sharp crest line and wind ripple marks."
+ },
+ {
+  "name": "oasis",
+  "category": "landscape",
+  "draw": "Palm tree beside a small pool shape set between low dune curves."
+ },
+ {
+  "name": "badlands",
+  "category": "landscape",
+  "draw": "Eroded striped hills with sharp gullies and horizontal banding lines."
+ },
+ {
+  "name": "salt-flat",
+  "category": "landscape",
+  "draw": "Flat ground plane covered in a hexagonal crack pattern under a low horizon."
+ },
+ {
+  "name": "savanna",
+  "category": "landscape",
+  "draw": "Flat-topped acacia tree over a grassy horizon line with a few grass tufts."
+ },
+ {
+  "name": "tundra",
+  "category": "landscape",
+  "draw": "Flat horizon with low shrubs, a few tufts and a snow patch under a low sun."
+ },
+ {
+  "name": "prairie",
+  "category": "landscape",
+  "draw": "Wide flat horizon with tall wavy grass blades in the foreground."
+ },
+ {
+  "name": "meadow",
+  "category": "landscape",
+  "draw": "Rolling ground line dotted with small flowers and grass tufts."
+ },
+ {
+  "name": "jungle",
+  "category": "landscape",
+  "draw": "Dense cluster of broad leaves, a hanging vine and a palm frond overlapping."
+ },
+ {
+  "name": "mangrove",
+  "category": "landscape",
+  "draw": "Tree with arching stilt roots standing in wavy water lines."
+ },
+ {
+  "name": "peninsula",
+  "category": "landscape",
+  "draw": "Top view of a landmass tongue extending into water surrounded on three sides by wave marks."
+ },
+ {
+  "name": "isthmus",
+  "category": "landscape",
+  "draw": "Top view of two landmasses joined by a narrow strip of land between waters."
+ },
+ {
+  "name": "archipelago",
+  "category": "landscape",
+  "draw": "Top view of a scattered chain of small irregular island blobs in water."
+ },
+ {
+  "name": "atoll",
+  "category": "landscape",
+  "draw": "Top view of a ring-shaped coral island surrounding a central lagoon."
+ },
+ {
+  "name": "lagoon",
+  "category": "landscape",
+  "draw": "Shallow water body separated from the sea by a curved sandbar with a palm."
+ },
+ {
+  "name": "bay",
+  "category": "landscape",
+  "draw": "Top view of a curved coastline wrapping around a rounded body of water."
+ },
+ {
+  "name": "headland",
+  "category": "landscape",
+  "draw": "High rocky point jutting into the sea with waves breaking at its tip."
+ },
+ {
+  "name": "sandbar",
+  "category": "landscape",
+  "draw": "Low elongated sand ridge breaking the water surface between wave lines."
+ },
+ {
+  "name": "tide-pool",
+  "category": "landscape",
+  "draw": "Rocky pool rim holding water with a small starfish and shell inside."
+ },
+ {
+  "name": "mudflat",
+  "category": "landscape",
+  "draw": "Flat cracked mud surface with shallow water streaks and bird footprints."
+ },
+ {
+  "name": "marsh",
+  "category": "landscape",
+  "draw": "Clump of tall reeds and cattails rising from flat water lines."
+ },
+ {
+  "name": "swamp",
+  "category": "landscape",
+  "draw": "Bald cypress trunk with flared base and knees standing in still water with hanging moss."
+ },
+ {
+  "name": "river-delta",
+  "category": "landscape",
+  "draw": "Top view of a river splitting into many branching channels fanning out to the sea."
+ },
+ {
+  "name": "estuary",
+  "category": "landscape",
+  "draw": "Top view of a river widening into a funnel mouth meeting the sea."
+ },
+ {
+  "name": "river-meander",
+  "category": "landscape",
+  "draw": "Top view of a river line looping in tight S-shaped bends."
+ },
+ {
+  "name": "oxbow-lake",
+  "category": "landscape",
+  "draw": "Top view of a curved crescent lake cut off beside a straighter river line."
+ },
+ {
+  "name": "river-rapids",
+  "category": "landscape",
+  "draw": "River with jagged white water crests breaking over several small rocks."
+ },
+ {
+  "name": "cascade-falls",
+  "category": "landscape",
+  "draw": "Water stepping down a staircase of three rock ledges in short falls."
+ },
+ {
+  "name": "plunge-pool",
+  "category": "landscape",
+  "draw": "Waterfall stream dropping into a round pool with splash marks at the base."
+ },
+ {
+  "name": "natural-spring",
+  "category": "landscape",
+  "draw": "Water bubbling up from a gap between stones and flowing away in a small stream."
+ },
+ {
+  "name": "river-confluence",
+  "category": "landscape",
+  "draw": "Top view of two river lines joining into a single wider channel, Y-shaped."
+ },
+ {
+  "name": "wadi",
+  "category": "landscape",
+  "draw": "Dry riverbed channel with cracked floor and pebbles winding between banks."
+ },
+ {
+  "name": "whirlpool",
+  "category": "landscape",
+  "draw": "Top view of a spiral vortex of water lines tightening toward the center."
+ },
+ {
+  "name": "floodplain",
+  "category": "landscape",
+  "draw": "Flat wide land beside a meandering river with water spilling over its banks."
+ },
+ {
+  "name": "alpine-lake",
+  "category": "landscape",
+  "draw": "Still lake with mirrored mountain peaks reflected below a jagged skyline."
+ },
+ {
+  "name": "crater-lake",
+  "category": "landscape",
+  "draw": "Round lake sitting inside a volcanic cone crater rim."
+ },
+ {
+  "name": "rice-terraces",
+  "category": "landscape",
+  "draw": "Stepped curved terrace lines climbing a hillside with small water glints."
+ },
+ {
+  "name": "farm-fields",
+  "category": "landscape",
+  "draw": "Patchwork of fields in perspective with row lines running in different directions."
+ },
+ {
+  "name": "scree-slope",
+  "category": "landscape",
+  "draw": "Mountain slope with a fan of loose small stones collecting at its base."
+ },
+ {
+  "name": "karst-towers",
+  "category": "landscape",
+  "draw": "Several tall rounded limestone pinnacles rising steeply from flat ground or water."
+ },
+ {
+  "name": "cenote",
+  "category": "landscape",
+  "draw": "Round sinkhole opening with vines hanging down into a pool of water."
+ },
+ {
+  "name": "sinkhole",
+  "category": "landscape",
+  "draw": "Circular collapsed hole in flat ground with cracked edges and depth shading lines."
+ },
+ {
+  "name": "tepui",
+  "category": "landscape",
+  "draw": "Massive flat-topped cliff-sided table mountain with a thin waterfall off its edge."
+ },
+ {
+  "name": "ocean-trench",
+  "category": "landscape",
+  "draw": "Cross section of the seafloor with a deep narrow V-shaped trench under wave lines."
+ },
+ {
+  "name": "seamount",
+  "category": "landscape",
+  "draw": "Underwater mountain cone rising from a seabed line well below a wavy surface line."
+ },
+ {
+  "name": "mid-ocean-ridge",
+  "category": "landscape",
+  "draw": "Cross section of the seafloor with a raised ridge and a split rift valley at its center."
+ },
+ {
+  "name": "hydrothermal-vent",
+  "category": "landscape",
+  "draw": "Chimney-shaped rock tower on the seabed puffing a dark plume."
+ },
+ {
+  "name": "continental-shelf",
+  "category": "landscape",
+  "draw": "Cross section of a coastline with shallow shelf dropping off a steep slope into deep water."
+ },
+ {
+  "name": "coral-reef",
+  "category": "landscape",
+  "draw": "Cluster of branching coral, a fan coral and a small fish above a seabed line."
+ },
+ {
+  "name": "kelp-forest",
+  "category": "landscape",
+  "draw": "Several tall wavy kelp strands with float bulbs rising from the seabed."
+ },
+ {
+  "name": "tsunami",
+  "category": "landscape",
+  "draw": "Huge curling wave towering over a tiny shoreline with small buildings."
+ },
+ {
+  "name": "high-tide",
+  "category": "landscape",
+  "draw": "Shore slope with water level line high up and a small tide gauge post."
+ },
+ {
+  "name": "low-tide",
+  "category": "landscape",
+  "draw": "Shore slope with water level line low and exposed rocks and sand."
+ },
+ {
+  "name": "tide-chart",
+  "category": "landscape",
+  "draw": "Sine wave curve over a time axis with high and low points marked."
+ },
+ {
+  "name": "coastline",
+  "category": "landscape",
+  "draw": "Top view of an irregular wiggly shoreline separating land from wave-marked water."
+ },
+ {
+  "name": "pebble-beach",
+  "category": "landscape",
+  "draw": "Shoreline of rounded stones of varied sizes meeting small waves."
+ },
+ {
+  "name": "sandy-beach",
+  "category": "landscape",
+  "draw": "Smooth sand slope meeting a gentle wave with a shell on the sand."
+ },
+ {
+  "name": "coastal-erosion",
+  "category": "landscape",
+  "draw": "Crumbling cliff edge with a falling chunk and waves hitting its base."
+ },
+ {
+  "name": "breakwater",
+  "category": "landscape",
+  "draw": "Line of stacked rocks extending into the sea with waves breaking against it."
+ },
+ {
+  "name": "driftwood",
+  "category": "landscape",
+  "draw": "Weathered branching log lying on a sand line."
+ },
+ {
+  "name": "rip-current",
+  "category": "landscape",
+  "draw": "Beach top view with waves arriving and a narrow channel of water pulling out to sea."
+ },
+ {
+  "name": "sea-cave",
+  "category": "landscape",
+  "draw": "Dark arched opening in a cliff at the waterline with waves entering."
+ },
+ {
+  "name": "volcanic-eruption",
+  "category": "landscape",
+  "draw": "Cone volcano with a burst of lava fragments and a billowing plume above the crater."
+ },
+ {
+  "name": "dormant-volcano",
+  "category": "landscape",
+  "draw": "Cone volcano with a flat crater rim and no smoke, a little snow on top."
+ },
+ {
+  "name": "shield-volcano",
+  "category": "landscape",
+  "draw": "Very wide gently sloping low dome volcano with a small vent and lava trickle."
+ },
+ {
+  "name": "cinder-cone",
+  "category": "landscape",
+  "draw": "Small steep symmetrical cone with a wide bowl crater and loose cinder dots."
+ },
+ {
+  "name": "stratovolcano",
+  "category": "landscape",
+  "draw": "Tall steep cone with visible alternating layer bands and a smoking summit."
+ },
+ {
+  "name": "volcano-cross-section",
+  "category": "landscape",
+  "draw": "Cut-away cone showing a magma chamber blob and a central conduit rising to the crater."
+ },
+ {
+  "name": "magma-chamber",
+  "category": "landscape",
+  "draw": "Underground rounded chamber of molten rock with a pipe leading upward to the surface."
+ },
+ {
+  "name": "lava-flow",
+  "category": "landscape",
+  "draw": "Thick tongue of lava with crusted ripple lines flowing downhill."
+ },
+ {
+  "name": "lava-lake",
+  "category": "landscape",
+  "draw": "Crater bowl filled with molten lava showing cracked crust plates."
+ },
+ {
+  "name": "lava-fountain",
+  "category": "landscape",
+  "draw": "Jet of lava droplets spraying upward from a fissure in flat ground."
+ },
+ {
+  "name": "lava-tube",
+  "category": "landscape",
+  "draw": "Rounded tunnel cross section in rock with a flat floor, like a cave tube."
+ },
+ {
+  "name": "volcanic-ash-cloud",
+  "category": "landscape",
+  "draw": "Tall billowing cloud of ash rising from a volcano with falling ash dots."
+ },
+ {
+  "name": "volcanic-bomb",
+  "category": "landscape",
+  "draw": "Spindle-shaped rock blob with twisted ends and a motion trail."
+ },
+ {
+  "name": "fissure-eruption",
+  "category": "landscape",
+  "draw": "Long crack in flat ground with a curtain of lava spurts along it."
+ },
+ {
+  "name": "submarine-volcano",
+  "category": "landscape",
+  "draw": "Volcano cone below wavy sea surface with bubbles rising from its vent."
+ },
+ {
+  "name": "volcanic-island",
+  "category": "landscape",
+  "draw": "Cone-shaped island rising from the sea with a thin smoke plume."
+ },
+ {
+  "name": "geyser",
+  "category": "landscape",
+  "draw": "Tall column of water and steam shooting up from a small mound in the ground."
+ },
+ {
+  "name": "hot-spring",
+  "category": "landscape",
+  "draw": "Round pool with wavy steam lines rising from its surface, rocks around the rim."
+ },
+ {
+  "name": "mud-pot",
+  "category": "landscape",
+  "draw": "Bubbling mud pool with large round bubbles and a popping bubble at the surface."
+ },
+ {
+  "name": "fumarole",
+  "category": "landscape",
+  "draw": "Crack in rocky ground releasing curling steam lines."
+ },
+ {
+  "name": "caldera",
+  "category": "landscape",
+  "draw": "Wide collapsed volcanic basin with a low rim and a small cone in the middle."
+ },
+ {
+  "name": "pahoehoe-lava",
+  "category": "landscape",
+  "draw": "Ropy coiled lava surface drawn as looping folded bands."
+ },
+ {
+  "name": "obsidian",
+  "category": "landscape",
+  "draw": "Glassy black stone with sharp conchoidal curved fracture lines and a shine mark."
+ },
+ {
+  "name": "pumice",
+  "category": "landscape",
+  "draw": "Rounded light stone covered with small hole dots, floating on a water line."
+ },
+ {
+  "name": "stalactite",
+  "category": "landscape",
+  "draw": "Several downward pointing icicle-like rock spikes hanging from a cave ceiling line."
+ },
+ {
+  "name": "stalagmite",
+  "category": "landscape",
+  "draw": "Several upward pointing rounded rock cones rising from a cave floor line."
+ },
+ {
+  "name": "cave-column",
+  "category": "landscape",
+  "draw": "Stalactite and stalagmite joined into an hourglass-like column between ceiling and floor."
+ },
+ {
+  "name": "cave-pool",
+  "category": "landscape",
+  "draw": "Underground pool under a ceiling with hanging stalactites and drips."
+ },
+ {
+  "name": "ice-cave",
+  "category": "landscape",
+  "draw": "Arched cave opening with smooth ice walls and hanging icicles."
+ },
+ {
+  "name": "underground-river",
+  "category": "landscape",
+  "draw": "Cave cross section with a river flowing through a tunnel under rock layers."
+ },
+ {
+  "name": "cave-painting",
+  "category": "landscape",
+  "draw": "Rock wall slab with a simple stick figure hunter and an animal drawn on it."
+ },
+ {
+  "name": "spelunking-helmet",
+  "category": "landscape",
+  "draw": "Caving helmet with a headlamp beam on its front."
+ },
+ {
+  "name": "rock-shelter",
+  "category": "landscape",
+  "draw": "Overhanging rock ledge forming a shallow shelter above flat ground."
+ },
+ {
+  "name": "glacier",
+  "category": "landscape",
+  "draw": "Wide tongue of ice flowing down a valley between peaks with crevasse lines."
+ },
+ {
+  "name": "ice-sheet",
+  "category": "landscape",
+  "draw": "Vast flat dome of ice with a gentle curve and a cliffed edge at the sea."
+ },
+ {
+  "name": "ice-shelf",
+  "category": "landscape",
+  "draw": "Flat slab of ice extending over water with a straight vertical calving front."
+ },
+ {
+  "name": "glacier-calving",
+  "category": "landscape",
+  "draw": "Chunk of ice breaking off a glacier front and falling into the water with a splash."
+ },
+ {
+  "name": "crevasse",
+  "category": "landscape",
+  "draw": "Deep jagged crack splitting a snow surface with depth lines inside."
+ },
+ {
+  "name": "moraine",
+  "category": "landscape",
+  "draw": "Ridge of mixed rocks and boulders piled at the end of a glacier tongue."
+ },
+ {
+  "name": "cirque",
+  "category": "landscape",
+  "draw": "Bowl-shaped mountain hollow with a small round tarn lake inside."
+ },
+ {
+  "name": "ice-floe",
+  "category": "landscape",
+  "draw": "Flat irregular slabs of ice floating on wave lines."
+ },
+ {
+  "name": "pack-ice",
+  "category": "landscape",
+  "draw": "Top view of many jagged ice pieces packed together with narrow water gaps."
+ },
+ {
+  "name": "frozen-lake",
+  "category": "landscape",
+  "draw": "Oval lake surface with crack lines and a snowflake on the ice."
+ },
+ {
+  "name": "icicles",
+  "category": "landscape",
+  "draw": "Row of varied length pointed icicles hanging from a roof edge line."
+ },
+ {
+  "name": "permafrost",
+  "category": "landscape",
+  "draw": "Ground cross section with a thin topsoil layer over a frozen layer marked with ice crystals."
+ },
+ {
+  "name": "snowdrift",
+  "category": "landscape",
+  "draw": "Smooth curved snow mound piled against a fence post with wind lines."
+ },
+ {
+  "name": "snow-cornice",
+  "category": "landscape",
+  "draw": "Overhanging curl of snow on a ridge edge above a steep drop."
+ },
+ {
+  "name": "ice-crystal",
+  "category": "landscape",
+  "draw": "Single hexagonal plate ice crystal with simple branch marks."
+ },
+ {
+  "name": "hoarfrost-branch",
+  "category": "landscape",
+  "draw": "Twig covered in spiky frost crystals along its length."
+ },
+ {
+  "name": "glacial-erratic",
+  "category": "landscape",
+  "draw": "Large lone boulder sitting on flat ground far from any cliff."
+ },
+ {
+  "name": "frozen-waterfall",
+  "category": "landscape",
+  "draw": "Waterfall frozen into columns of icicles down a cliff face."
+ },
+ {
+  "name": "tectonic-plates",
+  "category": "landscape",
+  "draw": "Two slabs of crust meeting at a boundary with arrows pushing them together."
+ },
+ {
+  "name": "geological-fault",
+  "category": "landscape",
+  "draw": "Ground block split by a diagonal crack with one side offset lower."
+ },
+ {
+  "name": "rock-strata",
+  "category": "landscape",
+  "draw": "Stack of horizontal rock layers with different fill patterns in each band."
+ },
+ {
+  "name": "rock-folds",
+  "category": "landscape",
+  "draw": "Rock layers bent into a wavy arch and trough fold pattern."
+ },
+ {
+  "name": "earth-layers",
+  "category": "landscape",
+  "draw": "Cut-away globe quarter showing crust, mantle, outer core and inner core rings."
+ },
+ {
+  "name": "seismograph",
+  "category": "landscape",
+  "draw": "Drum with a zigzag seismic trace line and a recording needle arm."
+ },
+ {
+  "name": "seismic-wave",
+  "category": "landscape",
+  "draw": "Horizontal line with a burst of sharp zigzag spikes in the middle."
+ },
+ {
+  "name": "earthquake",
+  "category": "landscape",
+  "draw": "House shape tilted over a ground line split by a jagged crack with shake marks."
+ },
+ {
+  "name": "epicenter",
+  "category": "landscape",
+  "draw": "Concentric circle rings radiating from a dot on a map ground plane."
+ },
+ {
+  "name": "richter-scale",
+  "category": "landscape",
+  "draw": "Numbered horizontal scale bar with a pointer and a small seismic zigzag."
+ },
+ {
+  "name": "rock-cycle",
+  "category": "landscape",
+  "draw": "Three rock shapes arranged in a triangle linked by circular arrows."
+ },
+ {
+  "name": "soil-profile",
+  "category": "landscape",
+  "draw": "Vertical cut of ground showing grass on top then humus, subsoil and bedrock layers."
+ },
+ {
+  "name": "erosion",
+  "category": "landscape",
+  "draw": "Rock shape being worn away with wind lines and small fragments flying off."
+ },
+ {
+  "name": "gravel",
+  "category": "landscape",
+  "draw": "Heap of many small angular stones."
+ },
+ {
+  "name": "sand-pile",
+  "category": "landscape",
+  "draw": "Conical heap of fine sand with dotted texture."
+ },
+ {
+  "name": "clay-lump",
+  "category": "landscape",
+  "draw": "Smooth lump of clay with finger impression marks."
+ },
+ {
+  "name": "rock-cairn",
+  "category": "landscape",
+  "draw": "Stack of four or five balanced flat stones decreasing in size toward the top."
+ },
+ {
+  "name": "rock-balance",
+  "category": "landscape",
+  "draw": "Two large stones balanced delicately on a thin point atop another."
+ },
+ {
+  "name": "rock-sample-bag",
+  "category": "landscape",
+  "draw": "Small cloth sample bag tied at the top with a label tag."
+ },
+ {
+  "name": "core-sample",
+  "category": "landscape",
+  "draw": "Cylindrical drilled rock core showing banded layers, lying at an angle."
+ },
+ {
+  "name": "geologist-hammer",
+  "category": "landscape",
+  "draw": "Rock hammer with a flat square face on one side and a pointed pick on the other."
+ },
+ {
+  "name": "hand-lens",
+  "category": "landscape",
+  "draw": "Small folding jeweler loupe lens in a pivoting metal cover."
+ },
+ {
+  "name": "streak-plate",
+  "category": "landscape",
+  "draw": "Small white tile with a dark streak mark and a mineral chip at the end."
+ },
+ {
+  "name": "mohs-scale",
+  "category": "landscape",
+  "draw": "Stepped bar chart of ten rising steps with a crystal on the tallest step."
+ },
+ {
+  "name": "mineral-vein",
+  "category": "landscape",
+  "draw": "Rock slab crossed by a bright zigzag vein of mineral."
+ },
+ {
+  "name": "ore-rock",
+  "category": "landscape",
+  "draw": "Lumpy rock with shiny metallic flecks embedded in it."
+ },
+ {
+  "name": "gold-nugget",
+  "category": "landscape",
+  "draw": "Irregular rounded lumpy nugget with shine marks."
+ },
+ {
+  "name": "gold-panning",
+  "category": "landscape",
+  "draw": "Shallow round pan tilted with water, gravel and a few gold flecks."
+ },
+ {
+  "name": "mine-cart",
+  "category": "landscape",
+  "draw": "Mining cart on rails filled with a heap of ore rocks."
+ },
+ {
+  "name": "mine-entrance",
+  "category": "landscape",
+  "draw": "Timber-framed tunnel opening in a hillside with rail tracks leading in."
+ },
+ {
+  "name": "quarry",
+  "category": "landscape",
+  "draw": "Stepped terraced pit cut into rock with blocky bench levels."
+ },
+ {
+  "name": "fossil-ammonite",
+  "category": "landscape",
+  "draw": "Coiled spiral ammonite shell with rib lines radiating across its coil."
+ },
+ {
+  "name": "fossil-trilobite",
+  "category": "landscape",
+  "draw": "Oval segmented trilobite with three lengthwise lobes and a rounded head shield."
+ },
+ {
+  "name": "fossil-leaf",
+  "category": "landscape",
+  "draw": "Leaf imprint pressed into a flat stone slab."
+ },
+ {
+  "name": "fossil-fish",
+  "category": "landscape",
+  "draw": "Fish skeleton outline with spine and ribs pressed into a stone slab."
+ },
+ {
+  "name": "dinosaur-footprint",
+  "category": "landscape",
+  "draw": "Large three-toed track imprint with claw points."
+ },
+ {
+  "name": "amber-insect",
+  "category": "landscape",
+  "draw": "Rounded teardrop amber lump with a small insect silhouette trapped inside."
+ },
+ {
+  "name": "petrified-wood",
+  "category": "landscape",
+  "draw": "Cut log section showing tree rings turned to stone with crack lines."
+ },
+ {
+  "name": "dinosaur-skull-fossil",
+  "category": "landscape",
+  "draw": "Side view of a long toothy dinosaur skull with an eye socket."
+ },
+ {
+  "name": "fossil-dig-site",
+  "category": "landscape",
+  "draw": "Grid of square pegs and strings over ground with a bone partly exposed."
+ },
+ {
+  "name": "excavation-brush",
+  "category": "landscape",
+  "draw": "Small flat bristle brush sweeping dust off a partly exposed bone."
+ },
+ {
+  "name": "stone-arrowhead",
+  "category": "landscape",
+  "draw": "Knapped flint point with flake scars and a notched base."
+ },
+ {
+  "name": "geode",
+  "category": "landscape",
+  "draw": "Split round rock showing a hollow center lined with pointed crystals."
+ },
+ {
+  "name": "basalt-columns",
+  "category": "landscape",
+  "draw": "Tight cluster of hexagonal stone columns of stepped heights seen at an angle."
+ },
+ {
+  "name": "marble-slab",
+  "category": "landscape",
+  "draw": "Rectangular stone slab with flowing vein lines."
+ },
+ {
+  "name": "slate-rock",
+  "category": "landscape",
+  "draw": "Stack of thin flat splitting rock sheets with offset edges."
+ },
+ {
+  "name": "sandstone",
+  "category": "landscape",
+  "draw": "Rounded rock with fine horizontal banding and dotted grain."
+ },
+ {
+  "name": "granite-rock",
+  "category": "landscape",
+  "draw": "Blocky rock speckled with scattered dots and small flecks."
+ },
+ {
+  "name": "conglomerate-rock",
+  "category": "landscape",
+  "draw": "Rock filled with many rounded embedded pebbles."
+ },
+ {
+  "name": "limestone",
+  "category": "landscape",
+  "draw": "Pale block with small embedded shell fragments and pits."
+ },
+ {
+  "name": "coal-lump",
+  "category": "landscape",
+  "draw": "Angular faceted lump with flat shiny planes."
+ },
+ {
+  "name": "standing-stones",
+  "category": "landscape",
+  "draw": "Ring of upright stone slabs with a lintel across two of them."
+ },
+ {
+  "name": "menhir",
+  "category": "landscape",
+  "draw": "Single tall upright standing stone tapering upward on a ground line."
+ },
+ {
+  "name": "quartz-crystal",
+  "category": "landscape",
+  "draw": "Single six-sided prism crystal with a pointed pyramidal tip."
+ },
+ {
+  "name": "crystal-cluster",
+  "category": "landscape",
+  "draw": "Group of several pointed prism crystals of varied heights rising from a base."
+ },
+ {
+  "name": "amethyst-geode",
+  "category": "landscape",
+  "draw": "Tall half geode cave shape filled with many small pointed crystals."
+ },
+ {
+  "name": "double-terminated-crystal",
+  "category": "landscape",
+  "draw": "Six-sided crystal pointed at both ends, lying diagonally."
+ },
+ {
+  "name": "pyrite-cubes",
+  "category": "landscape",
+  "draw": "Stack of interlocking cubes with fine striation lines."
+ },
+ {
+  "name": "fluorite-octahedron",
+  "category": "landscape",
+  "draw": "Eight-faced diamond-like octahedron crystal with visible facets."
+ },
+ {
+  "name": "calcite-rhomb",
+  "category": "landscape",
+  "draw": "Slanted rhombohedral crystal block with parallelogram faces."
+ },
+ {
+  "name": "salt-crystal",
+  "category": "landscape",
+  "draw": "Cube crystal with stepped hopper-shaped hollow faces."
+ },
+ {
+  "name": "desert-rose",
+  "category": "landscape",
+  "draw": "Rosette of flat bladed petal-like crystal plates clustered together."
+ },
+ {
+  "name": "mica-sheets",
+  "category": "landscape",
+  "draw": "Stack of thin flexible peeling sheets with a curling top layer."
+ },
+ {
+  "name": "tourmaline",
+  "category": "landscape",
+  "draw": "Long striated prism crystal with lengthwise grooves and a flat end."
+ },
+ {
+  "name": "raw-gemstone",
+  "category": "landscape",
+  "draw": "Rough irregular faceted rock with a few flat polished faces."
+ },
+ {
+  "name": "cabochon",
+  "category": "landscape",
+  "draw": "Smooth domed oval gem in side view with a highlight."
+ },
+ {
+  "name": "pearl-oyster",
+  "category": "landscape",
+  "draw": "Open oyster shell with a round pearl resting inside."
+ },
+ {
+  "name": "pearl",
+  "category": "landscape",
+  "draw": "Single round pearl with a soft highlight and shadow arc."
+ },
+ {
+  "name": "jade-stone",
+  "category": "landscape",
+  "draw": "Smooth rounded pebble-like jade carving with a hole through it."
+ },
+ {
+  "name": "round-brilliant-cut",
+  "category": "landscape",
+  "draw": "Top view of a round gem with a central octagon table and radiating facets."
+ },
+ {
+  "name": "emerald-cut",
+  "category": "landscape",
+  "draw": "Top view of a rectangular gem with clipped corners and stepped concentric facets."
+ },
+ {
+  "name": "princess-cut",
+  "category": "landscape",
+  "draw": "Top view of a square gem with facets radiating from the center to corners."
+ },
+ {
+  "name": "pear-cut",
+  "category": "landscape",
+  "draw": "Top view of a teardrop shaped gem with facet lines."
+ },
+ {
+  "name": "marquise-cut",
+  "category": "landscape",
+  "draw": "Top view of a pointed football-shaped gem with facet lines."
+ },
+ {
+  "name": "oval-cut",
+  "category": "landscape",
+  "draw": "Top view of an oval gem with a central table and facet lines."
+ },
+ {
+  "name": "cushion-cut",
+  "category": "landscape",
+  "draw": "Top view of a rounded square gem with soft corners and facets."
+ },
+ {
+  "name": "trillion-cut",
+  "category": "landscape",
+  "draw": "Top view of a triangular gem with curved sides and facets."
+ },
+ {
+  "name": "baguette-cut",
+  "category": "landscape",
+  "draw": "Top view of a long narrow rectangular gem with step facets."
+ },
+ {
+  "name": "heart-shaped-gem",
+  "category": "landscape",
+  "draw": "Top view of a faceted gem in a heart outline."
+ },
+ {
+  "name": "gem-side-profile",
+  "category": "landscape",
+  "draw": "Side profile of a faceted gem showing flat table, crown slope and pointed pavilion."
+ },
+ {
+  "name": "mineral-specimen",
+  "category": "landscape",
+  "draw": "Rock specimen on a small display base with a label card."
+ },
+ {
+  "name": "aurora",
+  "category": "landscape",
+  "draw": "Wavy vertical curtains of light ribbons hanging above a dark hill line."
+ },
+ {
+  "name": "sun-halo",
+  "category": "landscape",
+  "draw": "Sun disk surrounded by a large thin ring with a small gap from the sun."
+ },
+ {
+  "name": "sun-dog",
+  "category": "landscape",
+  "draw": "Sun disk with two bright spots on either side on a faint ring."
+ },
+ {
+  "name": "light-pillar",
+  "category": "landscape",
+  "draw": "Tall vertical beam of light rising from a horizon glow."
+ },
+ {
+  "name": "crepuscular-rays",
+  "category": "landscape",
+  "draw": "Sun behind a cloud with straight rays fanning down to the ground."
+ },
+ {
+  "name": "double-rainbow",
+  "category": "landscape",
+  "draw": "Two concentric rainbow arcs with a wider outer arc."
+ },
+ {
+  "name": "moonrise",
+  "category": "landscape",
+  "draw": "Moon half above a horizon line with a small upward arrow notch beside it."
+ },
+ {
+  "name": "golden-hour",
+  "category": "landscape",
+  "draw": "Low sun near the horizon with long horizontal glow bands."
+ },
+ {
+  "name": "blue-hour",
+  "category": "landscape",
+  "draw": "Horizon line with a faint sun below it and a few stars above."
+ },
+ {
+  "name": "midnight-sun",
+  "category": "landscape",
+  "draw": "Sun hovering just above the horizon with a clock face showing midnight."
+ },
+ {
+  "name": "polar-night",
+  "category": "landscape",
+  "draw": "Dark horizon with stars and a moon, no sun, over snowy ground."
+ },
+ {
+  "name": "summer-solstice",
+  "category": "landscape",
+  "draw": "Sun high on a tall arc path over the horizon with a peak marker."
+ },
+ {
+  "name": "winter-solstice",
+  "category": "landscape",
+  "draw": "Sun on a short low arc over the horizon with a snowflake."
+ },
+ {
+  "name": "equinox",
+  "category": "landscape",
+  "draw": "Circle split exactly in half, one half with sun rays and the other with a moon."
+ },
+ {
+  "name": "horizon",
+  "category": "landscape",
+  "draw": "Straight horizon line with a half sun and a few ground marks."
+ },
+ {
+  "name": "zenith",
+  "category": "landscape",
+  "draw": "Dome arc over a ground line with a point marked at the top and a vertical dashed line."
+ },
+ {
+  "name": "star-trails",
+  "category": "landscape",
+  "draw": "Concentric circular arcs around a single central point over a horizon."
+ },
+ {
+  "name": "mackerel-sky",
+  "category": "landscape",
+  "draw": "Rows of small puffy cloudlets arranged in a rippled pattern."
+ },
+ {
+  "name": "cumulus-cloud",
+  "category": "landscape",
+  "draw": "Tall puffy cauliflower cloud with a flat base line."
+ },
+ {
+  "name": "cumulonimbus",
+  "category": "landscape",
+  "draw": "Towering storm cloud with a flat anvil-shaped top spreading sideways."
+ },
+ {
+  "name": "cirrus-cloud",
+  "category": "landscape",
+  "draw": "Thin wispy hooked cloud streaks high in the sky."
+ },
+ {
+  "name": "stratus-cloud",
+  "category": "landscape",
+  "draw": "Flat uniform layered cloud bands stretched across the icon."
+ },
+ {
+  "name": "lenticular-cloud",
+  "category": "landscape",
+  "draw": "Stacked smooth lens-shaped cloud discs hovering over a mountain peak."
+ },
+ {
+  "name": "mammatus-cloud",
+  "category": "landscape",
+  "draw": "Cloud base with rows of hanging pouch-like bulges."
+ },
+ {
+  "name": "shelf-cloud",
+  "category": "landscape",
+  "draw": "Low wedge-shaped cloud bank with a sloping front edge over the horizon."
+ },
+ {
+  "name": "atmosphere-layers",
+  "category": "landscape",
+  "draw": "Curved Earth edge with stacked arced bands for the layers of the atmosphere."
+ },
+ {
+  "name": "ozone-layer",
+  "category": "landscape",
+  "draw": "Globe with a protective arc shell and sun rays deflecting off it."
+ },
+ {
+  "name": "ozone-hole",
+  "category": "landscape",
+  "draw": "Globe viewed from the pole with a dark oval hole in its outer shell ring."
+ },
+ {
+  "name": "rain-shadow",
+  "category": "landscape",
+  "draw": "Mountain with clouds and rain on one side and a bare dry slope on the other."
+ },
+ {
+  "name": "dust-devil",
+  "category": "landscape",
+  "draw": "Narrow twisting column of dust spiraling up from flat ground."
+ },
+ {
+  "name": "sandstorm",
+  "category": "landscape",
+  "draw": "Wall of dust clouds with blowing sand lines sweeping over dunes."
+ },
+ {
+  "name": "waterspout",
+  "category": "landscape",
+  "draw": "Funnel cloud touching the sea surface with a spray ring at the base."
+ },
+ {
+  "name": "ball-lightning",
+  "category": "landscape",
+  "draw": "Glowing sphere with crackling short zigzag sparks around it."
+ },
+ {
+  "name": "mirage",
+  "category": "landscape",
+  "draw": "Desert horizon with an upside down reflection of a palm tree floating above."
+ },
+ {
+  "name": "moon-halo",
+  "category": "landscape",
+  "draw": "Crescent moon surrounded by a large thin ring."
+ },
+ {
+  "name": "jet-stream",
+  "category": "landscape",
+  "draw": "Globe with a wavy band of fast wind arrows looping around it."
+ },
+ {
+  "name": "mercury-planet",
+  "category": "landscape",
+  "draw": "Small cratered planet disk with a few round crater circles."
+ },
+ {
+  "name": "venus-planet",
+  "category": "landscape",
+  "draw": "Planet disk covered in thick swirling cloud bands."
+ },
+ {
+  "name": "mars-planet",
+  "category": "landscape",
+  "draw": "Planet disk with a white polar cap and a long canyon line across it."
+ },
+ {
+  "name": "jupiter-planet",
+  "category": "landscape",
+  "draw": "Large planet disk with horizontal bands and an oval great spot."
+ },
+ {
+  "name": "uranus-planet",
+  "category": "landscape",
+  "draw": "Planet disk with a thin ring tilted nearly vertical around it."
+ },
+ {
+  "name": "neptune-planet",
+  "category": "landscape",
+  "draw": "Planet disk with faint bands, a dark oval spot and a small streak cloud."
+ },
+ {
+  "name": "pluto-planet",
+  "category": "landscape",
+  "draw": "Small dwarf planet disk with a large heart-shaped plain on its face."
+ },
+ {
+  "name": "planet-orbit",
+  "category": "landscape",
+  "draw": "Tilted elliptical orbit around a central star with a planet dot on it."
+ },
+ {
+  "name": "asteroid-belt",
+  "category": "landscape",
+  "draw": "Arc band of many small irregular rock dots between two orbit lines."
+ },
+ {
+  "name": "meteor-shower",
+  "category": "landscape",
+  "draw": "Several parallel diagonal streaks with glowing heads falling across a night sky."
+ },
+ {
+  "name": "meteorite-impact",
+  "category": "landscape",
+  "draw": "Rock hitting the ground with a burst of debris and a shallow crater."
+ },
+ {
+  "name": "impact-crater",
+  "category": "landscape",
+  "draw": "Round bowl crater with a raised rim and a central peak seen at an angle."
+ },
+ {
+  "name": "half-moon",
+  "category": "landscape",
+  "draw": "Circle exactly half filled, the first quarter moon."
+ },
+ {
+  "name": "gibbous-moon",
+  "category": "landscape",
+  "draw": "Moon disk mostly lit with a small dark crescent on one side."
+ },
+ {
+  "name": "new-moon",
+  "category": "landscape",
+  "draw": "Dark filled moon disk with a thin outline ring."
+ },
+ {
+  "name": "blood-moon",
+  "category": "landscape",
+  "draw": "Full moon disk with shading bands and a shadow arc crossing it."
+ },
+ {
+  "name": "lunar-eclipse",
+  "category": "landscape",
+  "draw": "Moon disk partly covered by a curved dark Earth shadow."
+ },
+ {
+  "name": "annular-eclipse",
+  "category": "landscape",
+  "draw": "Dark disk centered on a larger sun leaving a bright thin ring around it."
+ },
+ {
+  "name": "supermoon",
+  "category": "landscape",
+  "draw": "Very large full moon disk dwarfing a small horizon tree."
+ },
+ {
+  "name": "earthrise",
+  "category": "landscape",
+  "draw": "Earth disk rising above a curved cratered lunar horizon."
+ },
+ {
+  "name": "lunar-surface",
+  "category": "landscape",
+  "draw": "Curved horizon with craters and rocks under a black sky with Earth above."
+ },
+ {
+  "name": "sunspots",
+  "category": "landscape",
+  "draw": "Sun disk with several dark irregular spots on its face."
+ },
+ {
+  "name": "solar-flare",
+  "category": "landscape",
+  "draw": "Sun edge with a large arching loop of plasma lifting off."
+ },
+ {
+  "name": "solar-wind",
+  "category": "landscape",
+  "draw": "Sun on the left with streaming curved lines flowing toward a small planet."
+ },
+ {
+  "name": "supernova",
+  "category": "landscape",
+  "draw": "Bright central burst with radiating spikes and an expanding ring shell."
+ },
+ {
+  "name": "nebula",
+  "category": "landscape",
+  "draw": "Soft irregular cloud with swirling edges and a few embedded stars."
+ },
+ {
+  "name": "planetary-nebula",
+  "category": "landscape",
+  "draw": "Ring-shaped glowing shell with a small star dot at the center."
+ },
+ {
+  "name": "pulsar",
+  "category": "landscape",
+  "draw": "Small sphere with two narrow opposite beams sweeping out and a spin arc."
+ },
+ {
+  "name": "quasar",
+  "category": "landscape",
+  "draw": "Bright core with a flat accretion disk and two long opposite jets."
+ },
+ {
+  "name": "red-giant",
+  "category": "landscape",
+  "draw": "Very large star circle next to a tiny sun circle for comparison."
+ },
+ {
+  "name": "white-dwarf",
+  "category": "landscape",
+  "draw": "Tiny bright star dot with rays next to a much larger faint circle outline."
+ },
+ {
+  "name": "double-star-system",
+  "category": "landscape",
+  "draw": "Two star circles orbiting each other on a shared elliptical orbit line."
+ },
+ {
+  "name": "star-cluster",
+  "category": "landscape",
+  "draw": "Dense round group of many small star dots bunched together."
+ },
+ {
+  "name": "elliptical-galaxy",
+  "category": "landscape",
+  "draw": "Smooth elongated oval glow with a bright center and fading rings."
+ },
+ {
+  "name": "barred-galaxy",
+  "category": "landscape",
+  "draw": "Galaxy with a straight central bar and spiral arms from each end."
+ },
+ {
+  "name": "accretion-disk",
+  "category": "landscape",
+  "draw": "Tilted flat ring of swirling matter around a small central dark sphere."
+ },
+ {
+  "name": "wormhole",
+  "category": "landscape",
+  "draw": "Funnel-shaped curved grid tunnel narrowing to a throat and widening again."
+ },
+ {
+  "name": "big-bang",
+  "category": "landscape",
+  "draw": "Central point exploding outward with scattered dots and expanding arcs."
+ },
+ {
+  "name": "gravitational-lensing",
+  "category": "landscape",
+  "draw": "Central mass circle with curved arc images of a distant galaxy around it."
+ },
+ {
+  "name": "spacetime-grid",
+  "category": "landscape",
+  "draw": "Curved grid sheet dipping downward under a heavy sphere."
+ },
+ {
+  "name": "exoplanet",
+  "category": "landscape",
+  "draw": "Star with a small planet circle crossing in front of it and a dip graph line below."
+ },
+ {
+  "name": "habitable-zone",
+  "category": "landscape",
+  "draw": "Star at center with a shaded ring band between two orbit circles."
+ },
+ {
+  "name": "kuiper-belt",
+  "category": "landscape",
+  "draw": "Wide ring of scattered small dots far outside several orbit rings."
+ },
+ {
+  "name": "polaris",
+  "category": "landscape",
+  "draw": "Bright star with long cross spikes above the two pointer stars of the dipper."
+ },
+ {
+  "name": "big-dipper",
+  "category": "landscape",
+  "draw": "Seven star dots joined in the ladle shape of the dipper asterism."
+ },
+ {
+  "name": "little-dipper",
+  "category": "landscape",
+  "draw": "Seven small star dots in a smaller ladle shape ending at a bright star."
+ },
+ {
+  "name": "orion-constellation",
+  "category": "landscape",
+  "draw": "Star dots in the hunter pattern with three belt stars in a line."
+ },
+ {
+  "name": "cassiopeia",
+  "category": "landscape",
+  "draw": "Five star dots joined in a W zigzag shape."
+ },
+ {
+  "name": "southern-cross",
+  "category": "landscape",
+  "draw": "Four bright star dots in a kite cross pattern with a small fifth star."
+ },
+ {
+  "name": "pleiades",
+  "category": "landscape",
+  "draw": "Tight group of six or seven star dots in a small dipper shape."
+ },
+ {
+  "name": "celestial-sphere",
+  "category": "landscape",
+  "draw": "Sphere with an equator ring, an axis line and a tilted ecliptic ring."
+ },
+ {
+  "name": "light-year",
+  "category": "landscape",
+  "draw": "Star dot and planet dot connected by a long measured bracket arrow."
+ },
+ {
+  "name": "dark-matter",
+  "category": "landscape",
+  "draw": "Faint dashed circle halo surrounding a small galaxy spiral."
+ },
+ {
+  "name": "galaxy-collision",
+  "category": "landscape",
+  "draw": "Two spiral galaxies overlapping with tidal tail streams between them."
+ },
+ {
+  "name": "sun-cross-section",
+  "category": "landscape",
+  "draw": "Sun circle cut open showing core, radiative and convective layers."
+ },
+ {
+  "name": "earth-axis-tilt",
+  "category": "landscape",
+  "draw": "Globe tilted with a dashed axis line through its poles and an angle arc."
+ },
+ {
+  "name": "day-night-terminator",
+  "category": "landscape",
+  "draw": "Globe half shaded with a curved boundary line between day and night."
+ },
+ {
+  "name": "moon-orbit",
+  "category": "landscape",
+  "draw": "Earth circle with a smaller moon on a surrounding orbit ring."
+ },
+ {
+  "name": "radio-telescope",
+  "category": "landscape",
+  "draw": "Large parabolic dish on a tall support frame pointing upward."
+ },
+ {
+  "name": "space-telescope",
+  "category": "landscape",
+  "draw": "Cylindrical telescope tube with solar panel wings and an open aperture door."
+ },
+ {
+  "name": "armillary-sphere",
+  "category": "landscape",
+  "draw": "Nested metal rings around a central ball on a stand."
+ },
+ {
+  "name": "astrolabe",
+  "category": "landscape",
+  "draw": "Circular disk with a pointer rule, scale marks and a hanging ring at the top."
+ },
+ {
+  "name": "orrery",
+  "category": "landscape",
+  "draw": "Mechanical model with a central sun ball and planet balls on arms around it."
+ },
+ {
+  "name": "planisphere",
+  "category": "landscape",
+  "draw": "Round star wheel with an oval star field window and a date scale around the rim."
+ },
+ {
+  "name": "sextant",
+  "category": "landscape",
+  "draw": "Arc-shaped navigation instrument with a scale, mirrors and a small scope."
+ },
+ {
+  "name": "space-probe",
+  "category": "landscape",
+  "draw": "Small spacecraft body with a large dish antenna and a long boom arm."
+ },
+ {
+  "name": "mars-rover",
+  "category": "landscape",
+  "draw": "Six-wheeled rover with a tall mast camera head and a robot arm."
+ },
+ {
+  "name": "lunar-lander",
+  "category": "landscape",
+  "draw": "Spider-legged lander with four angled legs, foot pads and a boxy body."
+ },
+ {
+  "name": "space-capsule",
+  "category": "landscape",
+  "draw": "Cone-shaped capsule with a round window and a heat shield base."
+ },
+ {
+  "name": "space-shuttle",
+  "category": "landscape",
+  "draw": "Winged orbiter silhouette with a tail fin and nose, side view."
+ },
+ {
+  "name": "solar-sail",
+  "category": "landscape",
+  "draw": "Small craft at the center of a large square sail with diagonal struts."
+ },
+ {
+  "name": "space-debris",
+  "category": "landscape",
+  "draw": "Scattered broken satellite fragments and bolts drifting around a globe arc."
+ },
+ {
+  "name": "spacewalk",
+  "category": "landscape",
+  "draw": "Suited astronaut floating in space tethered by a curly line."
+ },
+ {
+  "name": "moon-landing-flag",
+  "category": "landscape",
+  "draw": "Flag on a pole with a horizontal top bar planted on a cratered surface."
+ },
+ {
+  "name": "moon-footprint",
+  "category": "landscape",
+  "draw": "Ribbed boot sole print pressed into dusty ground."
+ },
+ {
+  "name": "light-pollution",
+  "category": "landscape",
+  "draw": "City skyline with a glowing dome over it and a few faded stars."
+ },
+ {
+  "name": "landslide",
+  "category": "landscape",
+  "draw": "Hillside with a mass of rocks and soil sliding down and a slide scar above."
+ },
+ {
+  "name": "mudslide",
+  "category": "landscape",
+  "draw": "Wavy flowing mud mass pouring down a slope over a small house."
+ },
+ {
+  "name": "rockfall",
+  "category": "landscape",
+  "draw": "Rocks tumbling off a cliff face with motion lines toward a road."
+ },
+ {
+  "name": "avalanche",
+  "category": "landscape",
+  "draw": "Snow mass cascading down a steep mountain slope in a billowing cloud."
+ },
+ {
+  "name": "wildfire",
+  "category": "landscape",
+  "draw": "Row of pine trees with flames rising along a hillside."
+ },
+ {
+  "name": "flash-flood",
+  "category": "landscape",
+  "draw": "Surging water wave rushing through a narrow canyon."
+ },
+ {
+  "name": "flooded-house",
+  "category": "landscape",
+  "draw": "House with the water level line up to its windows and wave marks."
+ },
+ {
+  "name": "flood-gauge",
+  "category": "landscape",
+  "draw": "Tall pole gauge with measurement ticks and a water level line."
+ },
+ {
+  "name": "drought",
+  "category": "landscape",
+  "draw": "Parched ground with a polygon crack pattern and a dead plant sprig."
+ },
+ {
+  "name": "storm-surge",
+  "category": "landscape",
+  "draw": "Tall wall of sea water pushing onto a seawall with wind lines."
+ },
+ {
+  "name": "blizzard",
+  "category": "landscape",
+  "draw": "Dense diagonal snow streaks blown by strong wind lines."
+ },
+ {
+  "name": "ice-storm",
+  "category": "landscape",
+  "draw": "Tree branch coated in ice with icicles and freezing rain drops."
+ },
+ {
+  "name": "heat-dome",
+  "category": "landscape",
+  "draw": "Dome arc trapping sun rays over a flat ground line."
+ },
+ {
+  "name": "lightning-strike-tree",
+  "category": "landscape",
+  "draw": "Tree split down the middle by a lightning bolt with sparks."
+ },
+ {
+  "name": "volcano-hazard-sign",
+  "category": "landscape",
+  "draw": "Triangular warning sign with an erupting volcano symbol."
+ },
+ {
+  "name": "tsunami-hazard-sign",
+  "category": "landscape",
+  "draw": "Diamond warning sign with a curling wave over a stick figure."
+ },
+ {
+  "name": "earthquake-safe-zone",
+  "category": "landscape",
+  "draw": "Square sign with a person crouched under a table."
+ },
+ {
+  "name": "evacuation-route",
+  "category": "landscape",
+  "draw": "Sign with a running figure following a curved arrow uphill."
+ },
+ {
+  "name": "emergency-go-bag",
+  "category": "landscape",
+  "draw": "Backpack with a first aid cross and a flashlight strapped on."
+ },
+ {
+  "name": "sandbags",
+  "category": "landscape",
+  "draw": "Stack of plump grain-filled sacks in a wall pattern."
+ },
+ {
+  "name": "levee",
+  "category": "landscape",
+  "draw": "Raised earth embankment separating a high river line from lower land."
+ },
+ {
+  "name": "storm-shelter",
+  "category": "landscape",
+  "draw": "Ground-level cellar doors angled into the earth with a storm cloud above."
+ },
+ {
+  "name": "liquefaction",
+  "category": "landscape",
+  "draw": "Building sinking into wavy ground with water lines rising around it."
+ },
+ {
+  "name": "ground-subsidence",
+  "category": "landscape",
+  "draw": "Flat ground surface sagging into a shallow dip with arrows pointing down."
+ },
+ {
+  "name": "cyclone-eye",
+  "category": "landscape",
+  "draw": "Top view of a spiral storm with arms curling around a clear central eye."
+ },
+ {
+  "name": "smog",
+  "category": "landscape",
+  "draw": "City skyline smothered by dense horizontal haze bands."
+ },
+ {
+  "name": "acid-rain",
+  "category": "landscape",
+  "draw": "Cloud dropping rain on a wilting tree with bare branches."
+ },
+ {
+  "name": "sea-level-rise",
+  "category": "landscape",
+  "draw": "Coast with a rising water line arrow creeping up past a house base."
+ },
+ {
+  "name": "glacier-retreat",
+  "category": "landscape",
+  "draw": "Glacier tongue with a dashed old outline far beyond its smaller current edge."
+ },
+ {
+  "name": "coral-bleaching",
+  "category": "landscape",
+  "draw": "Branching coral drawn in outline only beside a thermometer."
+ },
+ {
+  "name": "fly-agaric",
+  "category": "landscape",
+  "draw": "Dome-capped mushroom with white spots on the cap and a ring skirt on the stem."
+ },
+ {
+  "name": "chanterelle",
+  "category": "landscape",
+  "draw": "Funnel shaped mushroom with a wavy upturned cap edge and ridges running down the stem."
+ },
+ {
+  "name": "morel",
+  "category": "landscape",
+  "draw": "Elongated conical cap with a honeycomb pit pattern on a pale stem."
+ },
+ {
+  "name": "porcini",
+  "category": "landscape",
+  "draw": "Fat bulbous stem under a thick rounded cap."
+ },
+ {
+  "name": "oyster-mushroom",
+  "category": "landscape",
+  "draw": "Cluster of fan-shaped overlapping caps growing sideways from a base."
+ },
+ {
+  "name": "enoki",
+  "category": "landscape",
+  "draw": "Bundle of very thin long stems with tiny round caps."
+ },
+ {
+  "name": "shiitake",
+  "category": "landscape",
+  "draw": "Wide flat umbrella cap with crackled pattern lines and a short stem."
+ },
+ {
+  "name": "puffball",
+  "category": "landscape",
+  "draw": "Round ball-shaped fungus releasing a puff of spore dots from its top."
+ },
+ {
+  "name": "bracket-fungus",
+  "category": "landscape",
+  "draw": "Semicircular shelf fungi with concentric growth rings stacked on a tree trunk."
+ },
+ {
+  "name": "shaggy-ink-cap",
+  "category": "landscape",
+  "draw": "Tall cylindrical shaggy scaled cap with a dripping darker edge."
+ },
+ {
+  "name": "parasol-mushroom",
+  "category": "landscape",
+  "draw": "Tall thin stem with a wide flat scaly cap and a ring collar."
+ },
+ {
+  "name": "fairy-ring",
+  "category": "landscape",
+  "draw": "Circle of small mushrooms growing in a ring on grass."
+ },
+ {
+  "name": "mycelium",
+  "category": "landscape",
+  "draw": "Network of fine branching threads spreading under a small mushroom."
+ },
+ {
+  "name": "spore-print",
+  "category": "landscape",
+  "draw": "Radiating line pattern of gills printed on paper beside a cap."
+ },
+ {
+  "name": "mushroom-gills",
+  "category": "landscape",
+  "draw": "Underside view of a cap with radiating gill lines around a stem."
+ },
+ {
+  "name": "truffle",
+  "category": "landscape",
+  "draw": "Lumpy warty round tuber with a cut slice showing a marbled interior."
+ },
+ {
+  "name": "lions-mane-mushroom",
+  "category": "landscape",
+  "draw": "Round clump covered in long dangling shaggy spines."
+ },
+ {
+  "name": "coral-fungus",
+  "category": "landscape",
+  "draw": "Upright branching coral-like fungus with many blunt tips."
+ },
+ {
+  "name": "earthstar-fungus",
+  "category": "landscape",
+  "draw": "Star of pointed rays splayed on the ground around a central round spore sac."
+ },
+ {
+  "name": "lichen",
+  "category": "landscape",
+  "draw": "Rock surface with round crusty patches and a leafy lobed growth."
+ },
+ {
+  "name": "mold-spores",
+  "category": "landscape",
+  "draw": "Fuzzy round colony with thread strands and tiny spore heads on stalks."
+ },
+ {
+  "name": "yeast-cells",
+  "category": "landscape",
+  "draw": "Cluster of oval cells with small buds attached."
+ },
+ {
+  "name": "mushroom-cluster",
+  "category": "landscape",
+  "draw": "Group of three mushrooms of different sizes growing together from one base."
+ },
+ {
+  "name": "toadstool-house",
+  "category": "landscape",
+  "draw": "Mushroom with a round door and a small window in its stem."
+ },
+ {
+  "name": "mushroom-basket",
+  "category": "landscape",
+  "draw": "Woven basket filled with a pile of foraged mushroom caps."
+ },
+ {
+  "name": "mushroom-log",
+  "category": "landscape",
+  "draw": "Fallen log with a row of small mushrooms growing along its top."
+ },
+ {
+  "name": "death-cap",
+  "category": "landscape",
+  "draw": "Smooth domed cap with a skirt ring and a cup-like sac at the stem base."
+ },
+ {
+  "name": "jelly-fungus",
+  "category": "landscape",
+  "draw": "Wobbly ear-shaped fungus growing on a branch."
+ },
+ {
+  "name": "cordyceps",
+  "category": "landscape",
+  "draw": "Thin club-shaped stalks sprouting from a curled caterpillar shape."
+ },
+ {
+  "name": "slime-mold",
+  "category": "landscape",
+  "draw": "Branching vein-like network spreading from a blob across a surface."
+ },
+ {
+  "name": "topographic-map",
+  "category": "landscape",
+  "draw": "Folded map sheet with nested wavy contour lines."
+ },
+ {
+  "name": "elevation-profile",
+  "category": "landscape",
+  "draw": "Line chart of a jagged elevation profile with a filled area under it."
+ },
+ {
+  "name": "trig-point",
+  "category": "landscape",
+  "draw": "Short tapered concrete survey pillar with a plate on top."
+ },
+ {
+  "name": "altimeter",
+  "category": "landscape",
+  "draw": "Round gauge with a needle and a small mountain symbol on the dial."
+ },
+ {
+  "name": "trail-blaze",
+  "category": "landscape",
+  "draw": "Tree trunk with a painted rectangular trail marker."
+ },
+ {
+  "name": "hiking-trail",
+  "category": "landscape",
+  "draw": "Dashed winding path climbing over a hill to a peak."
+ },
+ {
+  "name": "switchback-trail",
+  "category": "landscape",
+  "draw": "Zigzag path climbing up a steep slope."
+ },
+ {
+  "name": "scenic-viewpoint",
+  "category": "landscape",
+  "draw": "Coin-operated viewing scope on a post facing a mountain outline."
+ },
+ {
+  "name": "watershed",
+  "category": "landscape",
+  "draw": "Ridge line with rain arrows splitting and flowing down both sides."
+ },
+ {
+  "name": "water-cycle",
+  "category": "landscape",
+  "draw": "Circular arrows linking a cloud, rain, a lake and evaporation lines."
+ },
+ {
+  "name": "carbon-cycle",
+  "category": "landscape",
+  "draw": "Circular arrows linking a tree, a cloud and a factory chimney."
+ },
+ {
+  "name": "latitude-lines",
+  "category": "landscape",
+  "draw": "Globe with evenly spaced horizontal parallel lines."
+ },
+ {
+  "name": "arctic-circle",
+  "category": "landscape",
+  "draw": "Globe viewed at an angle with a dashed ring near the top pole."
+ },
+ {
+  "name": "north-pole",
+  "category": "landscape",
+  "draw": "Top of a globe with a small striped pole marker and a ring around it."
+ },
+ {
+  "name": "ice-core",
+  "category": "landscape",
+  "draw": "Long cylinder of ice with bubble dots and horizontal annual layers."
+ },
+ {
+  "name": "tree-rings",
+  "category": "landscape",
+  "draw": "Cut stump top with concentric growth rings and a crack line."
+ },
+ {
+  "name": "carbon-dating",
+  "category": "landscape",
+  "draw": "Fossil bone next to a small decay curve graph."
+ },
+ {
+  "name": "martian-landscape",
+  "category": "landscape",
+  "draw": "Rocky desert with a distant crater rim and two small moons in the sky."
+ }
+]

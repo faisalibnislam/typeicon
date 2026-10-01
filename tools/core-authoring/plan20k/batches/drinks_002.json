@@ -1,0 +1,482 @@
+[
+ {
+  "name": "root-beer-float",
+  "category": "drinks",
+  "draw": "Frosted glass mug with a scoop of ice cream on top and a straw.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coconut-drink",
+  "category": "drinks",
+  "draw": "Green coconut with the top cut off, a straw and a small umbrella.",
+  "domain": "drinks"
+ },
+ {
+  "name": "pineapple-drink",
+  "category": "drinks",
+  "draw": "Hollowed pineapple with its leafy crown pushed aside and a straw sticking out.",
+  "domain": "drinks"
+ },
+ {
+  "name": "fountain-drink-cup",
+  "category": "drinks",
+  "draw": "Tall wax paper cup with a flat lid, a cross slit and a straw.",
+  "domain": "drinks"
+ },
+ {
+  "name": "party-cup",
+  "category": "drinks",
+  "draw": "Tapered plastic cup with horizontal ridges near the base and rim.",
+  "domain": "drinks"
+ },
+ {
+  "name": "water-bottle",
+  "category": "drinks",
+  "draw": "Reusable metal bottle with a narrow neck and a screw cap with a carry loop.",
+  "domain": "drinks"
+ },
+ {
+  "name": "plastic-water-bottle",
+  "category": "drinks",
+  "draw": "Disposable bottle with ridged waist bands, a label and a small cap.",
+  "domain": "drinks"
+ },
+ {
+  "name": "sports-bottle",
+  "category": "drinks",
+  "draw": "Squeezable bottle with a pull-up nozzle cap and a grippy waist.",
+  "domain": "drinks"
+ },
+ {
+  "name": "shaker-bottle",
+  "category": "drinks",
+  "draw": "Tall bottle with a flip spout cap and a wire mixing ball visible inside.",
+  "domain": "drinks"
+ },
+ {
+  "name": "water-jug",
+  "category": "drinks",
+  "draw": "Large five gallon water jug with a narrow neck and a hand grip groove on its side.",
+  "domain": "drinks"
+ },
+ {
+  "name": "water-cooler",
+  "category": "drinks",
+  "draw": "Floor dispenser with an upside-down water jug on top and two taps on the front.",
+  "domain": "drinks"
+ },
+ {
+  "name": "water-filter-pitcher",
+  "category": "drinks",
+  "draw": "Pitcher with a filter cartridge hanging in the top reservoir and a flip lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "infused-water-bottle",
+  "category": "drinks",
+  "draw": "Clear bottle with a central infuser tube holding fruit slices.",
+  "domain": "drinks"
+ },
+ {
+  "name": "water-carafe",
+  "category": "drinks",
+  "draw": "Handleless glass carafe with a tumbler turned upside down over its neck.",
+  "domain": "drinks"
+ },
+ {
+  "name": "water-canteen",
+  "category": "drinks",
+  "draw": "Round flat canteen with a fabric cover, a strap and a chained screw cap.",
+  "domain": "drinks"
+ },
+ {
+  "name": "bottle-refill-station",
+  "category": "drinks",
+  "draw": "Wall unit with a sensor spout filling a bottle placed underneath.",
+  "domain": "drinks"
+ },
+ {
+  "name": "soda-siphon",
+  "category": "drinks",
+  "draw": "Glass bottle with a metal head, a squeeze lever and a curved spout.",
+  "domain": "drinks"
+ },
+ {
+  "name": "soda-maker",
+  "category": "drinks",
+  "draw": "Countertop carbonation machine with a gas cylinder inside and a bottle clipped under the head.",
+  "domain": "drinks"
+ },
+ {
+  "name": "two-liter-bottle",
+  "category": "drinks",
+  "draw": "Large plastic soda bottle with a wide label band and a lobed foot.",
+  "domain": "drinks"
+ },
+ {
+  "name": "soda-fountain",
+  "category": "drinks",
+  "draw": "Drink dispenser with a row of nozzle levers and a cup below one of them.",
+  "domain": "drinks"
+ },
+ {
+  "name": "slush-machine",
+  "category": "drinks",
+  "draw": "Machine with two clear tanks of frozen drink on top and a tap under each.",
+  "domain": "drinks"
+ },
+ {
+  "name": "drink-pouch",
+  "category": "drinks",
+  "draw": "Flat stand-up pouch with a straw poked into the corner.",
+  "domain": "drinks"
+ },
+ {
+  "name": "milk-bottle",
+  "category": "drinks",
+  "draw": "Glass milk bottle with a wide mouth, a foil cap and white milk filling most of it.",
+  "domain": "drinks"
+ },
+ {
+  "name": "milk-churn",
+  "category": "drinks",
+  "draw": "Tall dairy churn with a wide shoulder, a narrow neck, a lid and side handles.",
+  "domain": "drinks"
+ },
+ {
+  "name": "beverage-dispenser",
+  "category": "drinks",
+  "draw": "Glass jar with a lid on a stand and a spigot tap at the bottom.",
+  "domain": "drinks"
+ },
+ {
+  "name": "drink-pitcher",
+  "category": "drinks",
+  "draw": "Tall pitcher with a pinched spout and a large loop handle, filled halfway.",
+  "domain": "drinks"
+ },
+ {
+  "name": "lemonade-stand",
+  "category": "drinks",
+  "draw": "Small wooden booth with a striped awning, a pitcher and a sign board.",
+  "domain": "drinks"
+ },
+ {
+  "name": "cooler-box",
+  "category": "drinks",
+  "draw": "Rectangular lidded cooler with a swing handle across the top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "can-cooler",
+  "category": "drinks",
+  "draw": "Foam sleeve wrapped around a drink can with the can top showing.",
+  "domain": "drinks"
+ },
+ {
+  "name": "pilsner-glass",
+  "category": "drinks",
+  "draw": "Tall slender beer glass that flares wide at the top with a foam head.",
+  "domain": "drinks"
+ },
+ {
+  "name": "weizen-glass",
+  "category": "drinks",
+  "draw": "Tall vase-shaped wheat beer glass narrow at the base and curving out near the top with foam.",
+  "domain": "drinks"
+ },
+ {
+  "name": "snifter",
+  "category": "drinks",
+  "draw": "Short-stemmed glass with a wide round bowl and a narrow rim holding a little amber liquid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "beer-flight",
+  "category": "drinks",
+  "draw": "Wooden paddle with four small tasting glasses in a row.",
+  "domain": "drinks"
+ },
+ {
+  "name": "beer-tap",
+  "category": "drinks",
+  "draw": "Chrome faucet with a tall tap handle and a drop falling from the spout.",
+  "domain": "drinks"
+ },
+ {
+  "name": "beer-hand-pump",
+  "category": "drinks",
+  "draw": "Bar hand pull with a long curved lever handle and a swan-neck spout.",
+  "domain": "drinks"
+ },
+ {
+  "name": "beer-tower",
+  "category": "drinks",
+  "draw": "Tall clear tube tower filled with beer with a tap at the bottom.",
+  "domain": "drinks"
+ },
+ {
+  "name": "keg",
+  "category": "drinks",
+  "draw": "Metal beer keg with ridged bands and a coupler valve on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "growler",
+  "category": "drinks",
+  "draw": "Round-shouldered glass jug with a small finger loop handle and a swing cap.",
+  "domain": "drinks"
+ },
+ {
+  "name": "six-pack",
+  "category": "drinks",
+  "draw": "Cardboard carrier with a center handle holding six bottles, necks showing.",
+  "domain": "drinks"
+ },
+ {
+  "name": "bottle-crate",
+  "category": "drinks",
+  "draw": "Open plastic crate with a grid of bottle tops showing and side hand holes.",
+  "domain": "drinks"
+ },
+ {
+  "name": "bottle-cap",
+  "category": "drinks",
+  "draw": "Crown cap seen at an angle with a crimped fluted edge.",
+  "domain": "drinks"
+ },
+ {
+  "name": "beer-boot",
+  "category": "drinks",
+  "draw": "Glass boot shape filled with beer and a foam head at the top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "yard-glass",
+  "category": "drinks",
+  "draw": "Very long thin glass with a round bulb at the bottom and a wide trumpet top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "beer-pong",
+  "category": "drinks",
+  "draw": "Triangle of party cups seen from the front with a small ball bouncing toward them.",
+  "domain": "drinks"
+ },
+ {
+  "name": "hop-cone",
+  "category": "drinks",
+  "draw": "Single hop flower cone made of overlapping scales with a leaf at the stem.",
+  "domain": "drinks"
+ },
+ {
+  "name": "carboy",
+  "category": "drinks",
+  "draw": "Large glass jug with a stopper and an S-shaped airlock on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "conical-fermenter",
+  "category": "drinks",
+  "draw": "Steel tank with a cone bottom on three legs with a valve at the tip.",
+  "domain": "drinks"
+ },
+ {
+  "name": "brew-kettle",
+  "category": "drinks",
+  "draw": "Large steel pot with a ball valve near the bottom and a dial thermometer on the side.",
+  "domain": "drinks"
+ },
+ {
+  "name": "wine-barrel",
+  "category": "drinks",
+  "draw": "Wooden barrel on its side with metal hoops and a bung on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "sake-barrel",
+  "category": "drinks",
+  "draw": "Straw-wrapped barrel with rope ties and a wooden lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "wine-press",
+  "category": "drinks",
+  "draw": "Wooden slatted basket press with a screw and a crank on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "pot-still",
+  "category": "drinks",
+  "draw": "Copper still with a round pot, a swan neck and a coil condenser beside it.",
+  "domain": "drinks"
+ },
+ {
+  "name": "champagne-flute",
+  "category": "drinks",
+  "draw": "Tall narrow flute glass on a thin stem with bubbles rising.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coupe-glass",
+  "category": "drinks",
+  "draw": "Shallow wide saucer glass on a stem.",
+  "domain": "drinks"
+ },
+ {
+  "name": "champagne-tower",
+  "category": "drinks",
+  "draw": "Pyramid of coupe glasses stacked in three rows.",
+  "domain": "drinks"
+ },
+ {
+  "name": "wine-decanter",
+  "category": "drinks",
+  "draw": "Wide low-bellied glass decanter with a long narrow neck.",
+  "domain": "drinks"
+ },
+ {
+  "name": "whiskey-decanter",
+  "category": "drinks",
+  "draw": "Square cut crystal decanter with a round ball stopper.",
+  "domain": "drinks"
+ },
+ {
+  "name": "corkscrew",
+  "category": "drinks",
+  "draw": "Waiter's corkscrew with a spiral worm unfolded and a hinged lever.",
+  "domain": "drinks"
+ },
+ {
+  "name": "wine-cork",
+  "category": "drinks",
+  "draw": "Cylindrical cork with a slightly stained end, shown at an angle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "wine-rack",
+  "category": "drinks",
+  "draw": "Wooden rack with diamond cells and bottle ends poking out.",
+  "domain": "drinks"
+ },
+ {
+  "name": "wine-fridge",
+  "category": "drinks",
+  "draw": "Tall glass-door cabinet with bottles lying on shelves.",
+  "domain": "drinks"
+ },
+ {
+  "name": "ice-bucket",
+  "category": "drinks",
+  "draw": "Metal bucket with side handles, ice cubes on top and tongs resting on the rim.",
+  "domain": "drinks"
+ },
+ {
+  "name": "sake-set",
+  "category": "drinks",
+  "draw": "Small narrow-necked flask beside a tiny round cup.",
+  "domain": "drinks"
+ },
+ {
+  "name": "masu-cup",
+  "category": "drinks",
+  "draw": "Square wooden box cup with a small glass standing inside it.",
+  "domain": "drinks"
+ },
+ {
+  "name": "boxed-wine",
+  "category": "drinks",
+  "draw": "Cardboard box with a carry handle cut-out and a small tap at the bottom front.",
+  "domain": "drinks"
+ },
+ {
+  "name": "goblet",
+  "category": "drinks",
+  "draw": "Heavy medieval goblet with a wide bowl, a knobbed stem and a broad foot.",
+  "domain": "drinks"
+ },
+ {
+  "name": "drinking-horn",
+  "category": "drinks",
+  "draw": "Curved animal horn cup with a metal rim band and a strap.",
+  "domain": "drinks"
+ },
+ {
+  "name": "wineskin",
+  "category": "drinks",
+  "draw": "Teardrop-shaped leather bottle with a nozzle cap and a cord strap.",
+  "domain": "drinks"
+ },
+ {
+  "name": "porron",
+  "category": "drinks",
+  "draw": "Glass wine pitcher with a wide bottom, a tall neck and a long thin spout angled out.",
+  "domain": "drinks"
+ },
+ {
+  "name": "demijohn",
+  "category": "drinks",
+  "draw": "Big round bottle wrapped in wicker with a short neck and a basket handle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "stoneware-jug",
+  "category": "drinks",
+  "draw": "Round clay jug with a small finger loop handle near the narrow neck and a cork.",
+  "domain": "drinks"
+ },
+ {
+  "name": "swing-top-bottle",
+  "category": "drinks",
+  "draw": "Glass bottle with a wire bail and a ceramic stopper clamped on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "highball-glass",
+  "category": "drinks",
+  "draw": "Tall straight glass with ice cubes and a lemon wedge on the rim.",
+  "domain": "drinks"
+ },
+ {
+  "name": "rocks-glass",
+  "category": "drinks",
+  "draw": "Short heavy tumbler with a single large ice cube.",
+  "domain": "drinks"
+ },
+ {
+  "name": "shot-glass",
+  "category": "drinks",
+  "draw": "Small thick-bottomed glass filled to the brim.",
+  "domain": "drinks"
+ },
+ {
+  "name": "layered-shot",
+  "category": "drinks",
+  "draw": "Shot glass with three horizontal color bands.",
+  "domain": "drinks"
+ },
+ {
+  "name": "shot-ski",
+  "category": "drinks",
+  "draw": "Long ski with four shot glasses fixed in a row.",
+  "domain": "drinks"
+ },
+ {
+  "name": "margarita-glass",
+  "category": "drinks",
+  "draw": "Stepped wide-rim glass on a stem with a salted rim and a lime wedge.",
+  "domain": "drinks"
+ },
+ {
+  "name": "hurricane-glass",
+  "category": "drinks",
+  "draw": "Tall curvy glass with a narrow waist and a short stem.",
+  "domain": "drinks"
+ },
+ {
+  "name": "balloon-glass",
+  "category": "drinks",
+  "draw": "Big round stemmed glass with ice and a cucumber ribbon inside.",
+  "domain": "drinks"
+ }
+]

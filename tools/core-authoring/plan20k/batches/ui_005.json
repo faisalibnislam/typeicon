@@ -1,0 +1,404 @@
+[
+ {
+  "name": "grid-overlay",
+  "category": "ui",
+  "draw": "Photo rectangle with a mountain divided by two vertical and two horizontal thin lines into nine parts.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "rating-prompt",
+  "category": "ui",
+  "draw": "Dialog card with a row of five small stars and two small buttons beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "feedback-tab",
+  "category": "ui",
+  "draw": "Page outline with a narrow vertical tab stuck to its right edge holding a small speech bubble.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "loading-overlay",
+  "category": "ui",
+  "draw": "Card outline covered by hatching with a small spinner circle in its centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "stacked-toasts",
+  "category": "ui",
+  "draw": "Three rounded toast bars stacked slightly offset at the bottom of a screen outline.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "resize-grip",
+  "category": "ui",
+  "draw": "Three short diagonal lines of decreasing length tucked into the bottom right corner of a square.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "frosted-glass",
+  "category": "ui",
+  "draw": "Rounded translucent card drawn over two background circles whose edges appear blurred through it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "permission-prompt",
+  "category": "ui",
+  "draw": "Small popup card hanging from an address bar with a line of text and two buttons.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "page-numbers",
+  "category": "ui",
+  "draw": "Page outline with text lines and a small number 1 centred at its bottom.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "page-header-footer",
+  "category": "ui",
+  "draw": "Page outline with a filled band at its top and a filled band at its bottom around text lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "watermark",
+  "category": "ui",
+  "draw": "Page outline with a large faint diagonal word stripe running across the text lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "drop-cap",
+  "category": "ui",
+  "draw": "Large bold letter A in the top left of a text block with lines wrapping around it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "hyphenation",
+  "category": "ui",
+  "draw": "Text lines where the top line ends with a word broken by a short hyphen.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "outlined-text",
+  "category": "ui",
+  "draw": "Capital letter A drawn as a hollow outline with a thick stroke.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "text-shadow",
+  "category": "ui",
+  "draw": "Capital letter A with a filled copy offset behind it to the lower right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "small-caps",
+  "category": "ui",
+  "draw": "A tall capital A followed by two shorter capital letters of equal small height.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "indent-markers",
+  "category": "ui",
+  "draw": "Horizontal ruler with an hourglass shaped marker of two small triangles at its left end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "tab-stops",
+  "category": "ui",
+  "draw": "Horizontal ruler with two small L shaped markers standing on its tick marks.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "read-aloud",
+  "category": "ui",
+  "draw": "Three text lines with a small speaker emitting sound arcs at their right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "line-focus",
+  "category": "ui",
+  "draw": "Several faint text lines with one bold line highlighted by a clear band across the middle.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "remove-duplicates",
+  "category": "ui",
+  "draw": "Two identical table rows, the lower one struck through with a diagonal line.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cell-dropdown",
+  "category": "ui",
+  "draw": "Selected table cell with a small down caret button at its right edge and a short list beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "sheet-tabs",
+  "category": "ui",
+  "draw": "Grid outline with a row of three small tabs along its bottom edge, the first one filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "rotate-text",
+  "category": "ui",
+  "draw": "Letters ab tilted at an angle with a curved arrow arcing beside them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "slide-transition",
+  "category": "ui",
+  "draw": "Two slide rectangles overlapping at an angle with a curved arrow from the back one to the front.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "presentation-handout",
+  "category": "ui",
+  "draw": "Page outline with three small slide rectangles on the left and lines beside each.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-chat",
+  "category": "ui",
+  "draw": "Arrow pointer with a small rounded speech bubble attached to its lower right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "alpha-slider",
+  "category": "ui",
+  "draw": "Horizontal bar filled with a checkerboard pattern fading to solid, with a small round handle on it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "gradient-stops",
+  "category": "ui",
+  "draw": "Horizontal gradient bar with two small pointed stop markers beneath its ends and one in the middle.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "node-editor",
+  "category": "ui",
+  "draw": "Two rounded boxes with small socket dots on their edges joined by a curved wire.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "step-sequencer",
+  "category": "ui",
+  "draw": "Four by four grid of small squares with a scattered pattern of filled squares.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "level-meter",
+  "category": "ui",
+  "draw": "Two vertical columns of stacked short bars, one taller than the other, like an audio meter.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "transform-origin",
+  "category": "ui",
+  "draw": "Square outline with dashed centre lines and a small circled crosshair at its middle.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "arrange-in-grid",
+  "category": "ui",
+  "draw": "Scattered small squares on the left and the same squares in a neat grid on the right joined by an arrow.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "text-on-path",
+  "category": "ui",
+  "draw": "Row of small letter blocks following a curved arc line.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "glyphs-panel",
+  "category": "ui",
+  "draw": "Panel with a three by three grid of cells each holding a different small letter or symbol.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "file-dialog",
+  "category": "ui",
+  "draw": "Dialog window with a folder list, a file name field and a filled button at the bottom right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "progress-dialog",
+  "category": "ui",
+  "draw": "Dialog card with a title line, a partly filled progress bar and a small cancel button.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "charge-limit",
+  "category": "ui",
+  "draw": "Horizontal battery outline filled most of the way with a dashed stop line near its end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "wifi-calling",
+  "category": "ui",
+  "draw": "Wifi signal arcs with a small telephone handset beneath them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "group-by",
+  "category": "ui",
+  "draw": "List rows sorted into two groups, each group topped by a bold header bar.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "thumbnail-size",
+  "category": "ui",
+  "draw": "Small image square and large image square side by side with a short slider beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "pointer-trails",
+  "category": "ui",
+  "draw": "Arrow pointer followed by two fading copies of itself trailing behind.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "pointer-size",
+  "category": "ui",
+  "draw": "Small arrow pointer beside a large arrow pointer with a short double headed arrow between them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "link-preview",
+  "category": "ui",
+  "draw": "Card with an image block across its top, a bold title line and a short link line beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "icon-picker",
+  "category": "ui",
+  "draw": "Popover panel holding a three by three grid of tiny shapes, one of them highlighted.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "value-scrubber",
+  "category": "ui",
+  "draw": "Number field with a small double headed horizontal arrow cursor hovering over its label.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "hex-color-field",
+  "category": "ui",
+  "draw": "Field outline with a small filled color square at its left and a hash sign followed by a short dash.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "unit-input",
+  "category": "ui",
+  "draw": "Field outline with a number dash and a small separated px label at its right end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "shortcut-tooltip",
+  "category": "ui",
+  "draw": "Small dark tooltip bubble with a caret, holding a short label line and a tiny keycap square.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "scroll-snap",
+  "category": "ui",
+  "draw": "Row of three cards with a vertical dashed line through the centre card that it is aligned to.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "three-way-toggle",
+  "category": "ui",
+  "draw": "Pill shaped switch track with three small position dots and the round knob resting in the middle.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "split-keyboard",
+  "category": "ui",
+  "draw": "Tablet outline with two separate keyboard halves placed at its lower left and lower right corners.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "floating-keyboard",
+  "category": "ui",
+  "draw": "Tablet outline with a small compact keyboard panel hovering over the middle of its screen.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "predictive-text",
+  "category": "ui",
+  "draw": "Row of three rounded word pills sitting above the top edge of a keyboard outline.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "swipe-typing",
+  "category": "ui",
+  "draw": "Keyboard grid with a single continuous curving line gliding across several keys and ending in a dot.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "autofill-field",
+  "category": "ui",
+  "draw": "Field outline with a short text dash and a small four pointed sparkle at its right end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "text-loupe",
+  "category": "ui",
+  "draw": "Circular magnifier bubble floating above a text line, showing an enlarged I beam cursor inside.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "text-edit-menu",
+  "category": "ui",
+  "draw": "Small dark pill bar split into three segments with short labels, pointing down at highlighted text.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "zoom-controls",
+  "category": "ui",
+  "draw": "Two stacked square buttons joined together, the top with a plus and the bottom with a minus.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "desktop-icons",
+  "category": "ui",
+  "draw": "Screen outline with a column of three small squares at its left, each with a tiny label dash beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "numbered-pagination",
+  "category": "ui",
+  "draw": "Row of small square buttons holding the digits 1, 2 and 3, with the second one filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "ghost-button",
+  "category": "ui",
+  "draw": "Rounded button drawn only as a dashed outline with a short label line inside.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "loading-button",
+  "category": "ui",
+  "draw": "Filled rounded button with a small spinner arc in place of its label.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "disabled-button",
+  "category": "ui",
+  "draw": "Rounded button filled with faint diagonal hatching and a pale label line.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "underline-tabs",
+  "category": "ui",
+  "draw": "Row of three short tab labels with a thick underline beneath the first and a thin baseline under all.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "text-truncate",
+  "category": "ui",
+  "draw": "Text line that ends abruptly in three small dots at the edge of a box.",
+  "domain": "ui-components"
+ }
+]

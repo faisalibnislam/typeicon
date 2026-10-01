@@ -1,0 +1,482 @@
+[
+ {
+  "name": "canned-tuna",
+  "category": "pantry",
+  "draw": "Short wide flat can in three-quarter view with a pull ring on the lid and a small fish on the label band.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "canned-tomatoes",
+  "category": "pantry",
+  "draw": "Upright can with a ribbed side and a label band showing a round tomato with a star-shaped calyx.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "canned-corn",
+  "category": "pantry",
+  "draw": "Upright can with a label band showing a corn cob with its husk leaves peeled back.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "canned-beans",
+  "category": "pantry",
+  "draw": "Upright can with its lid peeled open and a heap of small oval beans showing at the top.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "canned-peaches",
+  "category": "pantry",
+  "draw": "Upright can with a label band showing a halved peach with its round pit.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "canned-pineapple",
+  "category": "pantry",
+  "draw": "Upright can with a label band showing a single pineapple ring with a hole in the centre.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "canned-soup",
+  "category": "pantry",
+  "draw": "Upright can with a label band showing a bowl with three steam wisps rising.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "canned-coconut-milk",
+  "category": "pantry",
+  "draw": "Short can with a label band showing a halved coconut and a drop of milk beside it.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "luncheon-meat-can",
+  "category": "pantry",
+  "draw": "Tall rounded-rectangle tin with a pull key on top and a pink loaf half slid out of the open end.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "corned-beef-tin",
+  "category": "pantry",
+  "draw": "Tapered trapezoid tin seen from the side with a winding key wrapped around a strip near the top.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "canned-ham",
+  "category": "pantry",
+  "draw": "Pear-shaped flat tin seen from above with a rolled rim and a key tab at the narrow end.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "stacked-cans",
+  "category": "pantry",
+  "draw": "Pyramid of six cans stacked in three rows, three on the bottom, two, then one.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "dented-can",
+  "category": "pantry",
+  "draw": "Upright can with a clear crumpled dent in its side and a small warning mark beside it.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "can-rack",
+  "category": "pantry",
+  "draw": "Slanted wire rack holding a row of cans lying on their sides, the front can resting against a stop bar.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "golden-syrup-tin",
+  "category": "pantry",
+  "draw": "Round tin with a lever lid pried half open and a thick golden drip running down the side.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "coffee-can",
+  "category": "pantry",
+  "draw": "Tall wide can with a snap-on plastic lid and a coffee bean printed on the label band.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "cooking-spray",
+  "category": "pantry",
+  "draw": "Slim aerosol can with a nozzle cap spraying a fan of fine mist, an oil drop on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "baking-powder",
+  "category": "pantry",
+  "draw": "Small round tin with a lid off beside it and a few rising bubble circles above the powder.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "cocoa-powder",
+  "category": "pantry",
+  "draw": "Round tin with its lid off, a spoon resting across a dark powder heap inside, a cocoa pod on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "olive-oil-tin",
+  "category": "pantry",
+  "draw": "Tall rectangular tin with a small screw spout on one top corner and an olive sprig printed on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "baby-food-jar",
+  "category": "pantry",
+  "draw": "Small squat jar with a wide lid and a spoon beside it, a tiny bib shape on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "olive-jar",
+  "category": "pantry",
+  "draw": "Glass jar with a lid, round olives stacked inside with small pimento dots in some of them.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "salsa-jar",
+  "category": "pantry",
+  "draw": "Wide jar with a lid and chunky diced pieces inside, a chili pepper printed on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "pesto-jar",
+  "category": "pantry",
+  "draw": "Small jar with a lid, the contents shaded, and a basil leaf on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "pasta-sauce-jar",
+  "category": "pantry",
+  "draw": "Tall jar with a lid and a label showing a tomato beside a fork twirling spaghetti.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "chocolate-spread-jar",
+  "category": "pantry",
+  "draw": "Round-shouldered jar with a lid off, a knife standing in the spread and a hazelnut on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "instant-coffee-jar",
+  "category": "pantry",
+  "draw": "Squat glass jar with a wide lid and loose granules inside, a steaming cup printed on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "chili-oil-jar",
+  "category": "pantry",
+  "draw": "Small jar with a layer of oil over a thick bed of chili flakes and a spoon handle sticking out.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "ghee-jar",
+  "category": "pantry",
+  "draw": "Squat jar with a lid, a smooth golden fill line and a single drop on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "coconut-oil-jar",
+  "category": "pantry",
+  "draw": "Wide short jar with a lid and a solid white fill, a half coconut on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "onggi-jar",
+  "category": "pantry",
+  "draw": "Round-bellied earthenware fermentation jar with a narrow base and a wide flat lid, dark glaze.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "pickle-barrel",
+  "category": "pantry",
+  "draw": "Open wooden barrel with metal hoops, pickles poking out above the brine line.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "airlock-fermenting-jar",
+  "category": "pantry",
+  "draw": "Wide-mouth jar of chopped vegetables with a small S-shaped airlock valve sticking up from the lid.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "water-bath-canning",
+  "category": "pantry",
+  "draw": "Tall pot with a rack inside holding three jars, bubbles rising in the water around them.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "broth-carton",
+  "category": "pantry",
+  "draw": "Tall brick-shaped carton with a screw cap on the sloped top and a steaming bowl on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "cereal-box",
+  "category": "pantry",
+  "draw": "Tall narrow box standing upright with a bowl of flakes and a spoon printed on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "pasta-box",
+  "category": "pantry",
+  "draw": "Long box with a clear window on the front showing short tube pasta inside.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "cake-mix-box",
+  "category": "pantry",
+  "draw": "Rectangular box with a layered cake slice printed on the front and a whisk in the corner.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "baking-soda-box",
+  "category": "pantry",
+  "draw": "Small upright box with a folded pour flap open at the top and a few grains spilling out.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "oatmeal-canister",
+  "category": "pantry",
+  "draw": "Tall round cardboard canister with a flat lid and oat flakes printed on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "stock-cube",
+  "category": "pantry",
+  "draw": "Small foil-wrapped cube with one side unfolded showing the crumbly cube inside.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "meal-kit-box",
+  "category": "pantry",
+  "draw": "Open cardboard box with a vegetable top, a spice pot and a folded recipe card sticking out.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "animal-crackers-box",
+  "category": "pantry",
+  "draw": "Small box shaped like a circus wagon with bars on the side and a string carry loop on top.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "margarine-tub",
+  "category": "pantry",
+  "draw": "Wide shallow tub with a lid set slightly askew and a knife resting on the smooth spread.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "pudding-cup",
+  "category": "pantry",
+  "draw": "Small cup with a foil lid peeled halfway back and a spoon dipping into the pudding.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "clay-yogurt-pot",
+  "category": "pantry",
+  "draw": "Round unglazed clay pot with a wide mouth and set yogurt with a thin skin on top.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "miso-paste",
+  "category": "pantry",
+  "draw": "Rectangular plastic tub with a lid lifted at one corner and a thick paste inside.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "tofu",
+  "category": "pantry",
+  "draw": "Soft rectangular block with rounded edges sitting in a shallow tray of water.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "tempeh",
+  "category": "pantry",
+  "draw": "Flat rectangular cake with a pattern of whole beans pressed into its surface, one slice cut away.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "milk-pouch",
+  "category": "pantry",
+  "draw": "Soft sealed pillow bag of milk standing in a jug with one corner snipped off for pouring.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "instant-noodle-packet",
+  "category": "pantry",
+  "draw": "Pillow-shaped packet with a tear notch and a square block of wavy dried noodles pictured on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "stick-pack",
+  "category": "pantry",
+  "draw": "Long thin single-serve stick sachet with a tear line near the top and powder pouring out.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "chip-bag",
+  "category": "pantry",
+  "draw": "Puffy snack bag with crimped top and bottom seals and a wavy chip printed on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "rice-sack",
+  "category": "pantry",
+  "draw": "Woven sack with a stitched top and a heap of rice grains on the printed front panel.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "bread-bag",
+  "category": "pantry",
+  "draw": "Long plastic bag with a sliced loaf inside and the open end twisted and closed with a tag.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "bread-clip",
+  "category": "pantry",
+  "draw": "Small flat square plastic tag with a notched hole on one side, the kind that closes bread bags.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "twist-tie",
+  "category": "pantry",
+  "draw": "Short wire tie twisted into a spiral around the gathered neck of a bag.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "microwave-popcorn-bag",
+  "category": "pantry",
+  "draw": "Flat paper bag puffed up in the middle with steam lines and popped kernels on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "popcorn-kernels",
+  "category": "pantry",
+  "draw": "Small heap of pointed unpopped kernels with one popped fluffy kernel beside it.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "vacuum-sealed-bag",
+  "category": "pantry",
+  "draw": "Flat bag with the plastic tightly shrunk around a steak shape and a sealed strip across the top.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "ice-bag",
+  "category": "pantry",
+  "draw": "Clear plastic bag of ice cubes tied at the top with a snowflake printed on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "grocery-bag",
+  "category": "pantry",
+  "draw": "Upright paper bag with no handles, a baguette and a leafy leek sticking out of the top.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "bagged-salad",
+  "category": "pantry",
+  "draw": "Pillow bag with a clear window showing mixed salad leaves inside.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "boil-in-bag",
+  "category": "pantry",
+  "draw": "Perforated pouch of rice sitting in a pot of water with bubbles rising around it.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "frozen-vegetables",
+  "category": "pantry",
+  "draw": "Bag with crimped seals, peas and carrot cubes on the front and a snowflake in one corner.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "frozen-pizza",
+  "category": "pantry",
+  "draw": "Flat square box with a pizza with slices marked on the front and a snowflake in the corner.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "field-ration",
+  "category": "pantry",
+  "draw": "Flat military meal pouch with a tear notch, a fork and knife printed on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "fruit-leather",
+  "category": "pantry",
+  "draw": "Flat fruit strip partly rolled up into a spiral on a sheet of backing paper.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "water-bottle-case",
+  "category": "pantry",
+  "draw": "Pack of six water bottles held together with shrink wrap and a carry handle cutout on top.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "sesame-oil",
+  "category": "pantry",
+  "draw": "Small squat bottle with a short neck and sesame seeds printed on the round label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "fish-sauce",
+  "category": "pantry",
+  "draw": "Tall slender bottle with a narrow neck and a small fish on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "infused-oil",
+  "category": "pantry",
+  "draw": "Tall glass bottle with a cork holding a sprig of rosemary and a chili floating inside.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "salad-dressing",
+  "category": "pantry",
+  "draw": "Bottle with a flip cap and two separated liquid layers with herb flecks in the lower one.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "worcestershire-sauce",
+  "category": "pantry",
+  "draw": "Slim bottle with a long neck and its body wrapped in paper folded at the shoulders.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "cooking-oil-jug",
+  "category": "pantry",
+  "draw": "Large plastic jug with a molded handle on the side, a screw cap and an oil drop on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "curry-block",
+  "category": "pantry",
+  "draw": "Rectangular block divided into a grid of snap-off squares with one square broken away.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "yeast-packet",
+  "category": "pantry",
+  "draw": "Strip of three small connected sachets with dotted perforations between them and granules on the front.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "fresh-yeast",
+  "category": "pantry",
+  "draw": "Small crumbly cube half unwrapped from foil with a corner crumbled off.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "vanilla-extract",
+  "category": "pantry",
+  "draw": "Small amber bottle with a dropper cap and a vanilla pod with a flower on the label.",
+  "domain": "r2-food-packaging-ingredients"
+ },
+ {
+  "name": "food-coloring",
+  "category": "pantry",
+  "draw": "Row of three small dropper bottles with pointed tips, one tilted and releasing a drop.",
+  "domain": "r2-food-packaging-ingredients"
+ }
+]

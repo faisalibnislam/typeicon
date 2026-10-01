@@ -1,0 +1,482 @@
+[
+ {
+  "name": "conduit-bender",
+  "category": "hardware",
+  "draw": "Long handle with a curved hooked shoe at the bottom bending a pipe.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "fish-tape",
+  "category": "hardware",
+  "draw": "Round reel case with a handle and a long flat steel tape with a hooked tip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "terminal-block",
+  "category": "hardware",
+  "draw": "Row of small boxes, each with a screw on top and wire openings on the sides.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ring-terminal",
+  "category": "hardware",
+  "draw": "Crimp connector with a round ring end and a wire barrel sleeve.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wire-strands",
+  "category": "hardware",
+  "draw": "Cut cable end showing the jacket and separated conductors fanning out.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "coaxial-cable",
+  "category": "hardware",
+  "draw": "Cross section of a round cable showing a centre wire, insulation ring and outer braid.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "utility-pole",
+  "category": "hardware",
+  "draw": "Wooden pole with a cross arm, insulators and hanging wires.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pole-transformer",
+  "category": "hardware",
+  "draw": "Cylindrical transformer can mounted on the side of a pole with bushings on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "usb-wall-outlet",
+  "category": "hardware",
+  "draw": "Wall plate with one power socket and two small rectangular usb ports.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "light-bulb-socket",
+  "category": "hardware",
+  "draw": "Threaded lamp holder cup with two wire leads coming out of the bottom.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "clamp-light",
+  "category": "hardware",
+  "draw": "Metal cone reflector lamp with a spring clamp attached to its back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mobile-light-tower",
+  "category": "hardware",
+  "draw": "Tall mast on a small trailer with a bank of four floodlights at the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "grounding-rod",
+  "category": "hardware",
+  "draw": "Long rod driven into the ground with a clamp and wire near the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "battery-terminal",
+  "category": "hardware",
+  "draw": "Round battery post with a clamp and bolt attached to a cable.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "jumper-cables",
+  "category": "hardware",
+  "draw": "Two coiled cables with large crocodile clamps on both ends.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "alligator-clip",
+  "category": "hardware",
+  "draw": "Spring clip with serrated jaws like a crocodile mouth and a wire lead.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cable-tray",
+  "category": "hardware",
+  "draw": "Long open ladder like tray holding a bundle of cables.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cable-gland",
+  "category": "hardware",
+  "draw": "Hex body fitting with a domed cap nut and a cable passing through.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "air-duct",
+  "category": "hardware",
+  "draw": "Rectangular sheet metal duct with a ninety degree bend.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "flexible-duct",
+  "category": "hardware",
+  "draw": "Round ribbed flexible hose bending in a curve.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "air-vent-register",
+  "category": "hardware",
+  "draw": "Rectangular floor or wall vent with parallel louvre slats.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "ac-condenser-unit",
+  "category": "hardware",
+  "draw": "Square outdoor unit with a large round fan grille on top and slatted sides.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "chimney-cap",
+  "category": "hardware",
+  "draw": "Small roof shaped cap on four legs sitting on top of a flue pipe.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "lumber-stack",
+  "category": "hardware",
+  "draw": "Stack of long rectangular boards seen from the end, end grain rings visible.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wood-plank",
+  "category": "hardware",
+  "draw": "Single long board in perspective with wood grain lines.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "plywood-sheet",
+  "category": "hardware",
+  "draw": "Thin flat sheet seen at an angle with layered stripes on its edge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wooden-beam",
+  "category": "hardware",
+  "draw": "Thick square timber beam in perspective with grain lines on the end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "steel-i-beam",
+  "category": "hardware",
+  "draw": "Steel beam with an I shaped cross section shown in perspective.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "angle-iron",
+  "category": "hardware",
+  "draw": "Long steel bar with an L shaped cross section in perspective.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "c-channel",
+  "category": "hardware",
+  "draw": "Long steel bar with a C shaped cross section in perspective.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "square-tubing",
+  "category": "hardware",
+  "draw": "Short length of hollow square steel tube in perspective.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rebar",
+  "category": "hardware",
+  "draw": "Two crossing ribbed steel bars tied together with a wire twist.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wire-mesh",
+  "category": "hardware",
+  "draw": "Square grid of welded wires with a slight perspective.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cinder-block",
+  "category": "hardware",
+  "draw": "Rectangular concrete block with two large square holes through it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "single-brick",
+  "category": "hardware",
+  "draw": "One rectangular brick in perspective with three holes on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cement-bag",
+  "category": "hardware",
+  "draw": "Paper sack with a folded top corner and a small pile of powder beside it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "concrete-slab",
+  "category": "hardware",
+  "draw": "Thick flat slab in perspective with rebar ends sticking out of the edge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "roof-shingles",
+  "category": "hardware",
+  "draw": "Rows of overlapping rectangular shingle tabs, offset like bricks.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "roof-tiles",
+  "category": "hardware",
+  "draw": "Rows of overlapping curved clay tiles with wavy profiles.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drywall-sheet",
+  "category": "hardware",
+  "draw": "Thin large panel leaning in perspective with a paper edge and tape seam.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "insulation-roll",
+  "category": "hardware",
+  "draw": "Thick fluffy roll of batting with wavy edges partly unrolled.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "floor-tiles",
+  "category": "hardware",
+  "draw": "Grid of square tiles in perspective with grout lines.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "paving-stones",
+  "category": "hardware",
+  "draw": "Interlocking brick pattern of paving blocks in perspective.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "gravel-pile",
+  "category": "hardware",
+  "draw": "Heap of small round stones in a mound.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "corrugated-sheet",
+  "category": "hardware",
+  "draw": "Wavy sheet metal panel in perspective with parallel ridges.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "roof-truss",
+  "category": "hardware",
+  "draw": "Triangular timber frame with internal diagonal web members.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wall-framing",
+  "category": "hardware",
+  "draw": "Timber stud wall frame with evenly spaced vertical studs and top and bottom plates.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "house-frame",
+  "category": "hardware",
+  "draw": "House outline built only of bare framing studs and roof rafters.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "floor-joists",
+  "category": "hardware",
+  "draw": "Row of parallel beams in perspective resting on a sill.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wooden-log",
+  "category": "hardware",
+  "draw": "Short round log on its side with bark lines and end grain rings.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pallet",
+  "category": "hardware",
+  "draw": "Wooden shipping pallet with top slats and three block supports, in perspective.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sheet-metal-roll",
+  "category": "hardware",
+  "draw": "Coil of flat sheet metal with the loose end partly unrolled.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "stone-wall",
+  "category": "hardware",
+  "draw": "Wall of irregular fitted stones in rounded shapes.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "concrete-column",
+  "category": "hardware",
+  "draw": "Tall cylindrical column with rebar poking out of the top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "siding-panels",
+  "category": "hardware",
+  "draw": "Wall section of horizontal overlapping lap siding boards.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "chain-link-fence",
+  "category": "hardware",
+  "draw": "Fence section with a diamond mesh between two posts and a top rail.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "barbed-wire",
+  "category": "hardware",
+  "draw": "Twisted wire strand with small spiky barbs knotted along it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "vapor-barrier-roll",
+  "category": "hardware",
+  "draw": "Roll of thin plastic sheet with a translucent loose end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tar-paper-roll",
+  "category": "hardware",
+  "draw": "Thick roll of felt paper with a darker edge, partly unrolled.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rain-gutter",
+  "category": "hardware",
+  "draw": "Half round gutter along a roof edge with a downspout pipe going down.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "skylight",
+  "category": "hardware",
+  "draw": "Sloped roof section with a rectangular glass window in it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "staircase-stringer",
+  "category": "hardware",
+  "draw": "Zigzag notched board cut for stair treads.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "expansion-joint",
+  "category": "hardware",
+  "draw": "Two concrete slabs with a gap between them filled with a wavy strip.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "notched-trowel",
+  "category": "hardware",
+  "draw": "Flat rectangular trowel with square notches along two edges and a handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "grout-float",
+  "category": "hardware",
+  "draw": "Rectangular rubber pad with a handle on top, rounded corners.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bull-float",
+  "category": "hardware",
+  "draw": "Wide flat blade on a very long pole handle lying at an angle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "plastering-hawk",
+  "category": "hardware",
+  "draw": "Square flat board with a short handle underneath in the middle, holding a mound.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mortar-tub",
+  "category": "hardware",
+  "draw": "Wide shallow tub with sloped sides and a hoe resting inside.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "concrete-mixer",
+  "category": "hardware",
+  "draw": "Rotating drum tilted on a wheeled stand with a hand wheel on its side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tile-spacer",
+  "category": "hardware",
+  "draw": "Small cross shaped plastic spacer set between the corners of four tiles.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "brick-jointer",
+  "category": "hardware",
+  "draw": "S shaped steel bar with rounded ends for striking mortar joints.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "masonry-line-blocks",
+  "category": "hardware",
+  "draw": "Two small blocks on brick corners with a taut string stretched between them.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drywall-t-square",
+  "category": "hardware",
+  "draw": "Long T shaped ruler with a crossbar at the top and tick marks.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mud-pan",
+  "category": "hardware",
+  "draw": "Long narrow tray with sloped ends and a taping knife resting on it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wallpaper-brush",
+  "category": "hardware",
+  "draw": "Wide flat brush with a long row of bristles and a flat handle across the back.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drop-cloth",
+  "category": "hardware",
+  "draw": "Folded fabric sheet with a wavy edge and a few paint spots.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "power-trowel",
+  "category": "hardware",
+  "draw": "Machine with a round cage of spinning blades on the ground and a tall handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "plate-compactor",
+  "category": "hardware",
+  "draw": "Flat heavy base plate with an engine on top and a long handle behind.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "concrete-vibrator",
+  "category": "hardware",
+  "draw": "Motor unit with a long flexible hose ending in a metal probe.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "rebar-tie-tool",
+  "category": "hardware",
+  "draw": "Pliers with long handles holding a coil of tie wire.",
+  "domain": "tools-hardware-construction"
+ }
+]

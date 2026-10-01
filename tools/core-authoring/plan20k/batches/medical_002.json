@@ -1,0 +1,482 @@
+[
+ {
+  "name": "external-fixator",
+  "category": "medical",
+  "draw": "External fixator: lower leg outline with two metal rings around it joined by rods and pins.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "iud",
+  "category": "medical",
+  "draw": "Intrauterine device: small T shape with a short string hanging from the base.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "leg-cast",
+  "category": "medical",
+  "draw": "Leg in a plaster cast from hip to toes, the toes peeking out of the foot end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "walking-boot",
+  "category": "medical",
+  "draw": "Orthopedic walking boot: tall rigid boot with side struts and three wide straps.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "knee-brace",
+  "category": "medical",
+  "draw": "Knee brace: sleeve around a bent knee with side hinges and an open circle over the kneecap.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "back-brace",
+  "category": "medical",
+  "draw": "Back brace: wide corset-like belt with vertical stays and a front closure strap.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "wrist-brace",
+  "category": "medical",
+  "draw": "Wrist brace: glove-like support around the wrist and palm with a thumb opening and hook straps.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "ankle-brace",
+  "category": "medical",
+  "draw": "Ankle brace: lace-up sleeve around the ankle with a figure eight strap.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "cervical-collar",
+  "category": "medical",
+  "draw": "Neck brace collar: rigid band with a chin rest at the front and a breathing hole.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "finger-splint",
+  "category": "medical",
+  "draw": "Finger splint: single finger held straight by a small curved metal splint taped at two points.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "arm-sling",
+  "category": "medical",
+  "draw": "Arm sling: bent forearm cradled in a triangular cloth sling with a strap over the shoulder.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "traction",
+  "category": "medical",
+  "draw": "Leg in traction: raised leg in a cast hanging from a cord over a pulley with a weight at the end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "compression-stocking",
+  "category": "medical",
+  "draw": "Compression stocking: long knee-high stocking with a ribbed band at the top and open toes.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "prosthetic-leg",
+  "category": "medical",
+  "draw": "Prosthetic leg: socket cup at the top, a slim metal pylon and a foot shape at the bottom.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "prosthetic-arm",
+  "category": "medical",
+  "draw": "Prosthetic arm: forearm socket with a mechanical hand with jointed segmented fingers.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "running-blade",
+  "category": "medical",
+  "draw": "Running blade prosthesis: socket at the top curving down into a long J-shaped carbon blade.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "exoskeleton",
+  "category": "medical",
+  "draw": "Walking exoskeleton: pair of legs with a rigid frame along the outside and round motor joints at hip and knee.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "quad-cane",
+  "category": "medical",
+  "draw": "Quad cane: straight cane with an offset handle and a small base with four short feet.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "forearm-crutch",
+  "category": "medical",
+  "draw": "Forearm crutch: straight shaft with a hand grip and an open cuff that wraps the forearm at the top.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "knee-scooter",
+  "category": "medical",
+  "draw": "Knee scooter: padded knee platform on a low frame with four small wheels and a handlebar.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "mobility-scooter",
+  "category": "medical",
+  "draw": "Mobility scooter from the side: seat with backrest, long base with small wheels and a front tiller.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "power-wheelchair",
+  "category": "medical",
+  "draw": "Power wheelchair from the side: padded seat, small front caster, large rear wheels and a joystick on the armrest.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "sports-wheelchair",
+  "category": "medical",
+  "draw": "Sports wheelchair: low seat with big wheels tilted strongly inward at the top.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "patient-lift",
+  "category": "medical",
+  "draw": "Patient hoist: wheeled U base with a tall mast and boom holding a hanging sling.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "transfer-board",
+  "category": "medical",
+  "draw": "Transfer board: long flat board with rounded ends and two hand slots bridging a wheelchair and a bed.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "parallel-bars",
+  "category": "medical",
+  "draw": "Rehab parallel bars: two long horizontal rails on posts with a figure walking between them.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "raised-toilet-seat",
+  "category": "medical",
+  "draw": "Raised toilet seat: thick toilet seat riser with two side armrests.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "commode-chair",
+  "category": "medical",
+  "draw": "Commode chair: chair frame with armrests, an open toilet seat and a bucket underneath.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "bedpan",
+  "category": "medical",
+  "draw": "Bedpan: flat oval pan with a wide rim and a short handle at one end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "urinal-bottle",
+  "category": "medical",
+  "draw": "Urinal bottle: plastic bottle lying on its side with an angled neck opening and a top handle.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "reacher-grabber",
+  "category": "medical",
+  "draw": "Reacher grabber: long pole with a trigger grip at one end and small jaws at the other.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "adaptive-spoon",
+  "category": "medical",
+  "draw": "Adaptive spoon: spoon with a very thick padded cylindrical handle and a bent neck.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "hearing-trumpet",
+  "category": "medical",
+  "draw": "Old ear trumpet: long horn with a wide bell at one end narrowing to a curved earpiece.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-mirror",
+  "category": "medical",
+  "draw": "Dental mirror: thin straight handle ending in a small round angled mirror.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-explorer",
+  "category": "medical",
+  "draw": "Dental explorer probe: thin handle ending in a sharp curved hook tip.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-drill",
+  "category": "medical",
+  "draw": "Dental handpiece drill: slim angled handpiece with a tiny bur at the head and a hose at the back.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-chair",
+  "category": "medical",
+  "draw": "Dental chair from the side: reclined chair with headrest and an overhead lamp on an arm.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-forceps",
+  "category": "medical",
+  "draw": "Dental extraction forceps: plier-like tool with curved beaks gripping a tooth with roots.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-scaler",
+  "category": "medical",
+  "draw": "Dental scaler: thin handle with a small sickle-shaped curved blade at the tip.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-implant",
+  "category": "medical",
+  "draw": "Dental implant: tooth crown sitting on a threaded screw post in place of a root.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "clear-aligner",
+  "category": "medical",
+  "draw": "Clear aligner tray: U-shaped transparent tray shaped like a row of teeth seen from above.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-bridge",
+  "category": "medical",
+  "draw": "Dental bridge: three joined crowns, the middle one floating over a gap between two tooth stumps.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "broken-tooth",
+  "category": "medical",
+  "draw": "Tooth with a jagged crack line and a corner chipped off.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "dental-impression-tray",
+  "category": "medical",
+  "draw": "Dental impression tray: U-shaped tray seen from above with a straight handle at the front.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "saliva-ejector",
+  "category": "medical",
+  "draw": "Saliva ejector: bendable thin tube with a hooked end and a small round tip.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-scissors",
+  "category": "medical",
+  "draw": "Surgical scissors: fine straight blades with two round finger rings.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "hemostat",
+  "category": "medical",
+  "draw": "Hemostat clamp: scissor-like tool with serrated narrow jaws and a ratchet lock between the finger rings.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "tissue-forceps",
+  "category": "medical",
+  "draw": "Tissue forceps: tweezers-style tool with two long arms joined at the back and small teeth at the tips.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "needle-holder",
+  "category": "medical",
+  "draw": "Needle holder: ring handled clamp with short jaws gripping a curved suture needle.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-retractor",
+  "category": "medical",
+  "draw": "Surgical retractor: flat handle ending in a wide right-angled blade.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "suture-needle",
+  "category": "medical",
+  "draw": "Curved suture needle shaped like a half moon with a thread trailing from its back end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "stitches",
+  "category": "medical",
+  "draw": "Row of cross stitches closing a straight cut line.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "wound-closure-strips",
+  "category": "medical",
+  "draw": "Straight cut crossed by a row of short parallel adhesive strips.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-stapler",
+  "category": "medical",
+  "draw": "Linear surgical stapler: long slender jaws on a pistol grip handle with a trigger.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "bone-saw",
+  "category": "medical",
+  "draw": "Oscillating bone saw: pistol-shaped power tool with a short flat saw blade at the front.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-drill",
+  "category": "medical",
+  "draw": "Surgical bone drill: compact pistol grip power drill with a long thin drill bit.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-mallet",
+  "category": "medical",
+  "draw": "Surgical mallet: short handle with a solid cylindrical metal head.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "osteotome",
+  "category": "medical",
+  "draw": "Osteotome: long slim chisel with a flat bevelled blade and a round handle cap.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "rongeur",
+  "category": "medical",
+  "draw": "Rongeur: plier-like tool with spring handles and a small cupped biting jaw at the tip.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "curette",
+  "category": "medical",
+  "draw": "Curette: slender handle with a small spoon shaped loop at one end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "speculum",
+  "category": "medical",
+  "draw": "Speculum: duckbill shaped instrument with two blades open at the front and a handle below.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "trocar",
+  "category": "medical",
+  "draw": "Trocar: sharp-tipped rod passing through a short tube port with a valve cap on top.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "cautery-pen",
+  "category": "medical",
+  "draw": "Electrosurgical pencil: slim pen with two small buttons, a flat blade tip and a cord out the back.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-robot",
+  "category": "medical",
+  "draw": "Surgical robot: central tower with three jointed robotic arms reaching down to a point.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "operating-table",
+  "category": "medical",
+  "draw": "Operating table: flat padded table top on a single central column with a wide base.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-light",
+  "category": "medical",
+  "draw": "Surgical light: large round lamp head with several light cells hanging from a jointed ceiling arm.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "anesthesia-machine",
+  "category": "medical",
+  "draw": "Anesthesia machine: tall cart with a screen, gas flow tubes, a breathing bag and a hose.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "instrument-tray",
+  "category": "medical",
+  "draw": "Surgical instrument tray: flat rectangular tray holding scissors, a scalpel and forceps side by side.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "kidney-dish",
+  "category": "medical",
+  "draw": "Kidney dish: shallow bean-shaped basin seen at an angle.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-drain",
+  "category": "medical",
+  "draw": "Wound drainage bulb: squeezable grenade-shaped bulb with a thin tube coming out the top.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "catheter",
+  "category": "medical",
+  "draw": "Urinary catheter: long thin tube coiled in a loop with a small balloon at the tip and a Y connector at the end.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "urine-bag",
+  "category": "medical",
+  "draw": "Urine drainage bag: flat bag with volume marks, a tube at the top and a tap valve at the bottom.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "ostomy-bag",
+  "category": "medical",
+  "draw": "Ostomy pouch: rounded bag with a circular flange ring near the top.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "feeding-tube",
+  "category": "medical",
+  "draw": "Nasogastric feeding tube: thin tube with a funnel connector at one end and a rounded tip at the other, loosely curved.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "iv-cannula",
+  "category": "medical",
+  "draw": "IV cannula: short needle with a wing clip and a colored port cap on top.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "butterfly-needle",
+  "category": "medical",
+  "draw": "Butterfly needle: short needle with two flat plastic wings and a thin tube trailing behind.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "biopsy-needle",
+  "category": "medical",
+  "draw": "Biopsy needle: long thin needle with a pistol-like spring handle.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "tourniquet",
+  "category": "medical",
+  "draw": "Emergency tourniquet: strap loop with a windlass rod and a small clip.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-cap",
+  "category": "medical",
+  "draw": "Surgical cap: rounded cloth cap with ties at the back.",
+  "domain": "medical-equipment"
+ },
+ {
+  "name": "surgical-gown",
+  "category": "medical",
+  "draw": "Surgical gown: long sleeved gown with knitted cuffs and a tie at the waist.",
+  "domain": "medical-equipment"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "calendar-quarter",
+  "category": "environment",
+  "draw": "Calendar page with the letter Q and a number 1 in its body.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "calendar-agenda",
+  "category": "environment",
+  "draw": "Calendar page with three stacked horizontal bars like a list of events.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "date-time",
+  "category": "environment",
+  "draw": "Calendar page with a small clock face overlapping its lower corner.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "meeting-time",
+  "category": "environment",
+  "draw": "Two person silhouettes in front of a clock face.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "open-24-hours",
+  "category": "environment",
+  "draw": "Circle with the number 24 and a small arrow wrapping around it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "rush-hour",
+  "category": "environment",
+  "draw": "Clock face with two car silhouettes stacked in front of it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "lunch-break",
+  "category": "environment",
+  "draw": "Clock face with a fork and knife crossed in front of it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "coffee-break",
+  "category": "environment",
+  "draw": "Coffee cup with steam next to a small clock face.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "overtime",
+  "category": "environment",
+  "draw": "Clock face with a plus sign and a briefcase silhouette.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "vacation-days",
+  "category": "environment",
+  "draw": "Calendar page with a small palm tree drawn on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "shift-schedule",
+  "category": "environment",
+  "draw": "Grid chart with horizontal bars in staggered rows like work shifts.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "night-shift",
+  "category": "environment",
+  "draw": "Crescent moon beside a hard hat.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "time-tracking",
+  "category": "environment",
+  "draw": "Clock face with a small bar chart overlapping its corner.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "time-management",
+  "category": "environment",
+  "draw": "Clock face with a checklist sheet behind it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "pomodoro-timer",
+  "category": "environment",
+  "draw": "Tomato shaped kitchen timer with a leaf top and tick marks around its middle.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "time-blocking",
+  "category": "environment",
+  "draw": "Day column with three solid colored rectangular blocks of different heights.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "time-slot",
+  "category": "environment",
+  "draw": "Clock face with a highlighted pie wedge between two hands.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "waiting-time",
+  "category": "environment",
+  "draw": "Seated person silhouette beside an hourglass.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "estimated-arrival",
+  "category": "environment",
+  "draw": "Map pin with a small clock face inside its head.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "on-time",
+  "category": "environment",
+  "draw": "Clock face with a check styled tick shape formed by its two hands.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "late-arrival",
+  "category": "environment",
+  "draw": "Running person silhouette beside a clock with hands at the top.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "time-flies",
+  "category": "environment",
+  "draw": "Clock face with a pair of feathered wings on each side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "time-is-money",
+  "category": "environment",
+  "draw": "Clock face overlapping a stack of coins.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "time-capsule",
+  "category": "environment",
+  "draw": "Capsule shaped canister half buried in the ground with a date tag.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "time-loop",
+  "category": "environment",
+  "draw": "Clock face enclosed in an infinity loop.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "midday",
+  "category": "environment",
+  "draw": "Sun directly above a vertical stick with no shadow under it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "midnight",
+  "category": "environment",
+  "draw": "Clock face with both hands at twelve and a small crescent moon.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "decade",
+  "category": "environment",
+  "draw": "Calendar page with the number 10 and a small stacked pages effect.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "century",
+  "category": "environment",
+  "draw": "Stack of calendar pages with the number 100 on the front.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "millennium",
+  "category": "environment",
+  "draw": "Hourglass with the number 1000 on a banner across it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "day-counter",
+  "category": "environment",
+  "draw": "Box with a large two digit number and small up and down tick buttons.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "streak-counter",
+  "category": "environment",
+  "draw": "Flame shape with a number in its center.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "habit-tracker",
+  "category": "environment",
+  "draw": "Grid of small squares with some filled and a checkmark on the top row.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "daily-planner",
+  "category": "environment",
+  "draw": "Open spiral notebook with a clock face on one page and lines on the other.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "expiry-date",
+  "category": "environment",
+  "draw": "Carton label with a calendar page and small printed date lines.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "best-before",
+  "category": "environment",
+  "draw": "Jar with a label showing a calendar page icon.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "clock-radio",
+  "category": "environment",
+  "draw": "Rectangular box with a digital time display and a speaker grille.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "sleep-schedule",
+  "category": "environment",
+  "draw": "Crescent moon beside a bed with a small clock above.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "global-warming",
+  "category": "environment",
+  "draw": "Globe with a thermometer rising beside it and heat wave lines above.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "climate-change",
+  "category": "environment",
+  "draw": "Globe split in half, one side with a leaf and the other with a sun and cracks.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "greenhouse-effect",
+  "category": "environment",
+  "draw": "Earth under a dome arc with sun rays bouncing back down from the arc.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "melting-ice-cap",
+  "category": "environment",
+  "draw": "Iceberg top dripping two droplets into a water line.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "polar-bear-on-ice",
+  "category": "environment",
+  "draw": "Polar bear standing on a small shrinking ice floe on water.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "temperature-anomaly",
+  "category": "environment",
+  "draw": "Line chart with a zero baseline and a rising jagged curve crossing it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "carbon-emissions",
+  "category": "environment",
+  "draw": "Chimney releasing a cloud labeled with the letters CO2.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "methane-emissions",
+  "category": "environment",
+  "draw": "Cow silhouette with a small gas cloud behind it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "clear-cut",
+  "category": "environment",
+  "draw": "Hillside of stumps with a single felled log in front.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "desertification",
+  "category": "environment",
+  "draw": "Half green grass and half cracked earth with a dune on the cracked side.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "habitat-loss",
+  "category": "environment",
+  "draw": "House silhouette pushing into a tree with a bird flying away.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "carbon-neutral",
+  "category": "environment",
+  "draw": "Circle with the text CO2 and a balance scale line beneath.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "carbon-offset",
+  "category": "environment",
+  "draw": "Tree beside a CO2 cloud with an equal sign between them.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "carbon-credit",
+  "category": "environment",
+  "draw": "Certificate card with a leaf and CO2 printed on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "carbon-tax",
+  "category": "environment",
+  "draw": "Price tag with CO2 printed on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "carbon-sink",
+  "category": "environment",
+  "draw": "Tree with arrows made of dots flowing down into its roots from a CO2 cloud.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "climate-action",
+  "category": "environment",
+  "draw": "Raised fist holding a leaf.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "climate-protest-sign",
+  "category": "environment",
+  "draw": "Placard on a stick showing a globe with a thermometer.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "melting-glacier",
+  "category": "environment",
+  "draw": "Glacier tongue with water droplets and a stream flowing from its snout.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "sea-ice-loss",
+  "category": "environment",
+  "draw": "Two ice floes of shrinking size with water gaps between them.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "climate-migration",
+  "category": "environment",
+  "draw": "Person with a bundle walking away from a cracked earth patch.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "air-pollution",
+  "category": "environment",
+  "draw": "Factory chimney with a dark curling cloud above buildings.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "smokestack-pollution",
+  "category": "environment",
+  "draw": "Two tall chimneys emitting thick dark smoke puffs.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "exhaust-fumes",
+  "category": "environment",
+  "draw": "Car rear with puffs of smoke billowing from a tailpipe.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "water-pollution",
+  "category": "environment",
+  "draw": "Water surface with a factory pipe dripping into it and a dead fish beneath.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "oiled-bird",
+  "category": "environment",
+  "draw": "Bird silhouette dripping dark droplets from its wings.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "plastic-pollution",
+  "category": "environment",
+  "draw": "Wave with a plastic bottle and a bag floating on it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "plastic-bag",
+  "category": "environment",
+  "draw": "Single use carrier bag with two loop handles and crumple lines.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "six-pack-rings",
+  "category": "environment",
+  "draw": "Six connected ring holes arranged in a 3 by 2 grid.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "noise-pollution",
+  "category": "environment",
+  "draw": "Building with loud sound wave arcs and a covered ear.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "soil-contamination",
+  "category": "environment",
+  "draw": "Soil layer cross section with a leaking barrel sunk into it.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "toxic-waste-barrel",
+  "category": "environment",
+  "draw": "Steel drum with a skull symbol and a leaking drip.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "e-waste",
+  "category": "environment",
+  "draw": "Pile of a broken phone, a cable and a circuit board.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "landfill",
+  "category": "environment",
+  "draw": "Mound of mixed rubbish with a bird circling above.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "sewage-outfall",
+  "category": "environment",
+  "draw": "Large pipe outlet pouring dirty water into a river.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "polluted-river",
+  "category": "environment",
+  "draw": "River with a pollution cloud and a dead fish floating belly up.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "dead-fish",
+  "category": "environment",
+  "draw": "Fish drawn belly up with X eyes.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "particulate-matter",
+  "category": "environment",
+  "draw": "Cloud with a scatter of tiny dots of different sizes and the text PM.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "fracking-rig",
+  "category": "environment",
+  "draw": "Tall derrick on the ground with drilling lines fanning out beneath.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "cigarette-butt-litter",
+  "category": "environment",
+  "draw": "Cigarette butt on the ground with a small smoke curl.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "light-trespass",
+  "category": "environment",
+  "draw": "Streetlight shining a cone into a bedroom window.",
+  "domain": "weather-time-environment"
+ },
+ {
+  "name": "chemical-runoff",
+  "category": "environment",
+  "draw": "Farm field sloping into water with droplets running downhill.",
+  "domain": "weather-time-environment"
+ }
+]

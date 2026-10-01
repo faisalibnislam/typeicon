@@ -1,0 +1,482 @@
+[
+ {
+  "name": "cloud-server",
+  "category": "tech",
+  "draw": "Cloud outline resting on top of a server box.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "cloud-backup",
+  "category": "tech",
+  "draw": "Cloud with a clock history arrow inside.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "multi-cloud",
+  "category": "tech",
+  "draw": "Three overlapping cloud outlines of different sizes.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hybrid-cloud",
+  "category": "tech",
+  "draw": "Cloud outline on the left joined by a line to a small office building on the right.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "private-cloud",
+  "category": "tech",
+  "draw": "Cloud outline enclosed by a rounded fence of pickets.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "cloud-region",
+  "category": "tech",
+  "draw": "Map pin standing on a cloud outline.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "availability-zone",
+  "category": "tech",
+  "draw": "Three dashed boxes side by side, each holding a small server.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "virtual-machine",
+  "category": "tech",
+  "draw": "Dashed monitor outline with a smaller solid monitor inside.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hypervisor",
+  "category": "tech",
+  "draw": "Thick layer bar at the bottom supporting three small window boxes above it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "container-registry",
+  "category": "tech",
+  "draw": "Stacked shipping containers on a shelf with a tag hanging from the shelf.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "autoscaling",
+  "category": "tech",
+  "draw": "Three server boxes of increasing size with small arrows between them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "horizontal-scaling",
+  "category": "tech",
+  "draw": "Row of identical server boxes with a plus sign adding one more at the end.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "vertical-scaling",
+  "category": "tech",
+  "draw": "Server box growing taller with a stretch arrow on its top edge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "high-availability",
+  "category": "tech",
+  "draw": "Two server boxes joined by a heartbeat line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "failover",
+  "category": "tech",
+  "draw": "Server box with a crossed status light and an arrow jumping to a second server.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-replication",
+  "category": "tech",
+  "draw": "Database cylinder with a copy arrow pointing to an identical cylinder.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "database-shard",
+  "category": "tech",
+  "draw": "Database cylinder split into three separated horizontal slices.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "database-index",
+  "category": "tech",
+  "draw": "Database cylinder with a bookmark tab sticking out of its side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "database-transaction",
+  "category": "tech",
+  "draw": "Database cylinder with two opposite exchange arrows on its front.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "primary-key",
+  "category": "tech",
+  "draw": "Key with a small number one on its bow.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sql-join",
+  "category": "tech",
+  "draw": "Two overlapping circles with only the shared lens area filled.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "full-outer-join",
+  "category": "tech",
+  "draw": "Two overlapping circles fully filled with the overlap outlined.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "stored-procedure",
+  "category": "tech",
+  "draw": "Database cylinder with a small scroll of code in front of it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "key-value-store",
+  "category": "tech",
+  "draw": "Two columns of small rounded cells with a key above the left column.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "document-database",
+  "category": "tech",
+  "draw": "Stack of document pages resting on a database cylinder.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "time-series-database",
+  "category": "tech",
+  "draw": "Database cylinder with a zigzag line chart across its front.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "vector-database",
+  "category": "tech",
+  "draw": "Database cylinder with three arrows fanning out from a point on its front.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-lake",
+  "category": "tech",
+  "draw": "Lake shape with small ones and zeros floating on its surface.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-lineage",
+  "category": "tech",
+  "draw": "Three dots chained left to right with a branch splitting from the middle dot.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-catalog",
+  "category": "tech",
+  "draw": "Card index box with a database cylinder on the front card.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "big-data",
+  "category": "tech",
+  "draw": "Large database cylinder surrounded by many small dots.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-mining",
+  "category": "tech",
+  "draw": "Pickaxe striking a pile of ones and zeros.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "data-cleaning",
+  "category": "tech",
+  "draw": "Broom sweeping across a small table grid.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "dns-server",
+  "category": "tech",
+  "draw": "Server box with a small address book page in front of it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "domain-name",
+  "category": "tech",
+  "draw": "Globe above a text bar with a dot in it, like a web address.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ip-address",
+  "category": "tech",
+  "draw": "Map pin holding four dots separated like an address.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "subnet",
+  "category": "tech",
+  "draw": "Large rounded box divided into four smaller boxes, each with a dot.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "network-gateway",
+  "category": "tech",
+  "draw": "Gateway arch with a network line passing through it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "network-packet",
+  "category": "tech",
+  "draw": "Small parcel box with a header strip and binary dots on its side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "packet-loss",
+  "category": "tech",
+  "draw": "Row of three small packets with the middle one broken into pieces.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "network-latency",
+  "category": "tech",
+  "draw": "Two dots joined by a line with an hourglass on the line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ping-network",
+  "category": "tech",
+  "draw": "Dot sending concentric arcs toward a second dot.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "traceroute",
+  "category": "tech",
+  "draw": "Dotted path hopping across four dots to a small flag.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "port-number",
+  "category": "tech",
+  "draw": "Wall socket outline with a hash sign above it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "http-request",
+  "category": "tech",
+  "draw": "Arrow going from a browser window to a server box.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "api-endpoint",
+  "category": "tech",
+  "draw": "Line ending in a filled target circle with angle brackets beside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sdk-toolkit",
+  "category": "tech",
+  "draw": "Toolbox with angle code brackets on its front.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "websocket",
+  "category": "tech",
+  "draw": "Two plugs facing each other with a double headed arrow between them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "query-string",
+  "category": "tech",
+  "draw": "Link chain followed by a question mark and an equals sign.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "url-slug",
+  "category": "tech",
+  "draw": "Slug creature with a link chain on its back.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "lan-network",
+  "category": "tech",
+  "draw": "Three computers connected to a single horizontal line under a house roof.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "wan-network",
+  "category": "tech",
+  "draw": "Globe with three small buildings linked by long arcs.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ring-topology",
+  "category": "tech",
+  "draw": "Six dots evenly placed on a circle line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "bus-topology",
+  "category": "tech",
+  "draw": "Horizontal line with small squares hanging from it above and below.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "osi-layers",
+  "category": "tech",
+  "draw": "Seven thin stacked horizontal bars in a column.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "protocol-stack",
+  "category": "tech",
+  "draw": "Four stacked rounded bars with a small arrow down the side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "patch-panel",
+  "category": "tech",
+  "draw": "Long horizontal panel with two rows of small square ports.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "wireless-access-point",
+  "category": "tech",
+  "draw": "Round disc with wifi arcs rising above it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "fiber-optic-cable",
+  "category": "tech",
+  "draw": "Cable end with light rays bursting from its tip.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sfp-transceiver",
+  "category": "tech",
+  "draw": "Small rectangular module with a pull tab loop and contact strip.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "iot-device",
+  "category": "tech",
+  "draw": "Small chip with wifi arcs above it inside a house outline.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sensor-node",
+  "category": "tech",
+  "draw": "Circle with a center dot and short waves radiating on both sides.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "proximity-beacon",
+  "category": "tech",
+  "draw": "Small round puck with signal arcs on both sides.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "intranet",
+  "category": "tech",
+  "draw": "Globe inside a building outline.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "offline-mode",
+  "category": "tech",
+  "draw": "Cloud with a small airplane flying beneath it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "network-firewall-rule",
+  "category": "tech",
+  "draw": "Brick wall with a small list page in front of it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ddos-attack",
+  "category": "tech",
+  "draw": "Many small arrows converging on a single server box.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "port-scan",
+  "category": "tech",
+  "draw": "Row of small doors with a magnifier over them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "downtime",
+  "category": "tech",
+  "draw": "Server box with a flat line and a small zzz above it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "observability",
+  "category": "tech",
+  "draw": "Eye with a small line graph drawn in its iris.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "distributed-tracing",
+  "category": "tech",
+  "draw": "Horizontal waterfall of staggered bars joined by thin lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "flame-graph",
+  "category": "tech",
+  "draw": "Stacked bars of varied width shaped like a flame.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "log-aggregation",
+  "category": "tech",
+  "draw": "Three log pages funnelled into one cylinder.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "metrics-dashboard",
+  "category": "tech",
+  "draw": "Screen with a gauge, a bar chart and a line graph in panels.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "alert-rule",
+  "category": "tech",
+  "draw": "Bell connected by a line to a small threshold bar.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "postmortem",
+  "category": "tech",
+  "draw": "Clipboard with a magnifying glass over a small broken server.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "error-budget",
+  "category": "tech",
+  "draw": "Pie chart with a small warning triangle in one slice.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sla-agreement",
+  "category": "tech",
+  "draw": "Document with a small clock and a signature line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "chaos-engineering",
+  "category": "tech",
+  "draw": "Server box with a monkey face peeking over its top edge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "disaster-recovery",
+  "category": "tech",
+  "draw": "Server box with a life ring around it.",
+  "domain": "dev-cloud-ai"
+ }
+]

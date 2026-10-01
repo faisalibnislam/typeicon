@@ -1,0 +1,140 @@
+[
+ {
+  "name": "polycube",
+  "category": "geometry",
+  "draw": "A few equal cubes joined face to face into an L shaped block, drawn in isometric view.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "annular-sector",
+  "category": "geometry",
+  "draw": "A curved block cut from a ring: two arcs of different radii joined by two short straight ends.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "extrude",
+  "category": "geometry",
+  "draw": "A flat hexagon on the bottom with an upward arrow and a hexagonal prism rising from it.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "polyline",
+  "category": "geometry",
+  "draw": "An open chain of straight line segments zigzagging across, with a dot at every joint and both ends.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "pyramid-frustum",
+  "category": "geometry",
+  "draw": "A square pyramid with its top sliced off flat, leaving a smaller square top face in perspective.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "parabolic-focus",
+  "category": "geometry",
+  "draw": "A parabola with several parallel incoming lines bouncing off its inner curve and meeting at one focus dot.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "vector-projection",
+  "category": "geometry",
+  "draw": "Two arrows from a shared start point with a dashed line dropped at a right angle from one tip onto the other.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "miura-fold",
+  "category": "geometry",
+  "draw": "A sheet folded into a zigzag grid of slanted parallelograms, like an accordion folded map.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "coastline-paradox",
+  "category": "geometry",
+  "draw": "A jagged coastline outline measured by a chain of straight ruler segments hugging its edge.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "hollow-cylinder",
+  "category": "geometry",
+  "draw": "A thick walled tube shown upright, its top face a ring between an outer and inner ellipse.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "quadtree",
+  "category": "geometry",
+  "draw": "A square split into four quadrants, with one quadrant split again into four and one of those split once more.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "unit-cell",
+  "category": "geometry",
+  "draw": "A wireframe cube with a small ball at each of its eight corners, as in a crystal lattice.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "fraser-spiral-illusion",
+  "category": "geometry",
+  "draw": "Concentric rings made of short slanted segments over a patterned background, looking like a spiral.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "zollner-illusion",
+  "category": "geometry",
+  "draw": "Several long parallel lines crossed by short slanted hatch marks in alternating directions, appearing tilted.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "oblique-cone",
+  "category": "geometry",
+  "draw": "A cone whose apex leans off to one side, not directly above the center of its round base.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "oblique-cylinder",
+  "category": "geometry",
+  "draw": "A cylinder whose top ellipse is shifted sideways from its base, the sides leaning at a slant.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cyclic-quadrilateral",
+  "category": "geometry",
+  "draw": "An irregular four sided shape drawn inside a circle with all four corners on the circle.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangle-midsegment",
+  "category": "geometry",
+  "draw": "A triangle with a line joining the midpoints of two sides, parallel to the base, midpoints marked with ticks.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cube-space-diagonal",
+  "category": "geometry",
+  "draw": "A see-through cube with a line running from one bottom front corner to the opposite top back corner.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "truncated-hexagonal-tiling",
+  "category": "geometry",
+  "draw": "A tiling of large dodecagons with small triangles filling the gaps where three of them meet.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "folium-of-descartes",
+  "category": "geometry",
+  "draw": "A curve that forms a closed leaf shaped loop at the origin and trails off in two tails toward a dashed slanted line.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "sander-illusion",
+  "category": "geometry",
+  "draw": "A large and a small parallelogram joined side by side, each crossed by a diagonal that are really equal in length.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "spherical-wedge",
+  "category": "geometry",
+  "draw": "A segment of a sphere shaped like an orange slice, with two flat half circle faces meeting at an edge.",
+  "domain": "r2-shapes-geometry"
+ }
+]

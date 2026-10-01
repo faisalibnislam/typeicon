@@ -1,0 +1,482 @@
+[
+ {
+  "name": "screen-time",
+  "category": "ui",
+  "draw": "Phone outline with a small hourglass on its screen.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "restart-device",
+  "category": "ui",
+  "draw": "Power symbol whose circle is drawn as a circular arrow looping back on itself.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "system-update",
+  "category": "ui",
+  "draw": "Phone outline with a circular arrow on the screen and a small down arrow in its centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "data-saver",
+  "category": "ui",
+  "draw": "Circle with a gap at the top and a small plus sign in its centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "data-roaming",
+  "category": "ui",
+  "draw": "Signal bars with a small capital R above the tallest bar.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "haptics",
+  "category": "ui",
+  "draw": "Fingertip pressing a surface with short curved vibration lines on both sides.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "developer-options",
+  "category": "ui",
+  "draw": "Phone outline with a pair of curly braces in the centre of its screen.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "invert-colors",
+  "category": "ui",
+  "draw": "Water drop shape split vertically with one half filled and one half outlined.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "grayscale-mode",
+  "category": "ui",
+  "draw": "Circle filled with three vertical stripes in solid, hatched and empty fills.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "storage-meter",
+  "category": "ui",
+  "draw": "Horizontal capsule bar mostly filled with a small database cylinder at its left.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "gaming-mode",
+  "category": "ui",
+  "draw": "Phone outline turned landscape with a small gamepad shape on its screen.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "one-handed-mode",
+  "category": "ui",
+  "draw": "Phone outline with its screen content shrunk into the lower right half and a thumb arc beside it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "refresh-rate",
+  "category": "ui",
+  "draw": "Screen outline with three motion lines behind a small moving ball and a tiny Hz label.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "battery-health",
+  "category": "ui",
+  "draw": "Horizontal battery outline with a small heart inside it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "usb-tethering",
+  "category": "ui",
+  "draw": "Phone outline connected by a cable to a small globe.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "kids-mode",
+  "category": "ui",
+  "draw": "Phone outline with a smiling round face and a star on its screen.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "shape-union",
+  "category": "ui",
+  "draw": "Two overlapping squares merged into one filled combined outline.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "shape-subtract",
+  "category": "ui",
+  "draw": "Filled square with a second overlapping square cut away from its corner, shown only as a dashed outline.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "shape-intersect",
+  "category": "ui",
+  "draw": "Two overlapping squares outlined with only their overlapping area filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "shape-exclude",
+  "category": "ui",
+  "draw": "Two overlapping squares filled except for their shared overlapping area.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "group-objects",
+  "category": "ui",
+  "draw": "Circle and square inside a dashed bounding box with small square handles at its corners.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "ungroup-objects",
+  "category": "ui",
+  "draw": "Circle and square spread apart, each inside its own small dashed box.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "distribute-spacing",
+  "category": "ui",
+  "draw": "Three small rectangles in a row with equal gaps marked by short arrows between them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "clipping-mask",
+  "category": "ui",
+  "draw": "Photo mountain shape visible only inside a circle, with the outside of the square shown dashed.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "flatten-layers",
+  "category": "ui",
+  "draw": "Three stacked diamond layers pressed down into a single flat diamond by an arrow.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "blend-mode",
+  "category": "ui",
+  "draw": "Two overlapping circles, the left one solid and the right one hatched, with their shared lens area left empty and a small down caret beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "drop-shadow",
+  "category": "ui",
+  "draw": "Square outline with a filled offset square behind its lower right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "inner-shadow",
+  "category": "ui",
+  "draw": "Square outline with a thick shaded band along its inside top and left edges.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "corner-radius",
+  "category": "ui",
+  "draw": "Corner of a square with a rounded arc at the top right and a small radius arrow inside it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "stroke-width",
+  "category": "ui",
+  "draw": "Three horizontal lines stacked from thin to thick.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "dashed-stroke",
+  "category": "ui",
+  "draw": "Horizontal dashed line above a dotted line above a solid line.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "border-all",
+  "category": "ui",
+  "draw": "Square divided into four cells with every outer and inner line drawn bold.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "border-outer",
+  "category": "ui",
+  "draw": "Square with a bold outer edge and faint dotted inner dividing lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "border-inner",
+  "category": "ui",
+  "draw": "Square with faint dotted outer edge and bold inner cross lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "line-tool",
+  "category": "ui",
+  "draw": "Diagonal straight line with a small square handle at each end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "skew-tool",
+  "category": "ui",
+  "draw": "Square outline with a slanted parallelogram overlaid and a sideways arrow at the top.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "perspective-grid",
+  "category": "ui",
+  "draw": "Grid of lines converging toward a vanishing point near the top centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "warp-tool",
+  "category": "ui",
+  "draw": "Rectangle mesh grid with its lines bulging outward in a curved wave.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "slice-tool",
+  "category": "ui",
+  "draw": "Small knife blade cutting diagonally across the corner of a square grid.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "healing-brush",
+  "category": "ui",
+  "draw": "Round brush tip with a small adhesive bandage laid across it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "dodge-tool",
+  "category": "ui",
+  "draw": "Lollipop shape: a circle on a straight handle, drawn outlined.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "smudge-tool",
+  "category": "ui",
+  "draw": "Pointing fingertip dragging a smeared wavy streak behind it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "mirror-symmetry",
+  "category": "ui",
+  "draw": "Vertical dashed axis with a half heart on the left and its mirrored outline on the right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "tone-curve",
+  "category": "ui",
+  "draw": "Square graph with a diagonal S shaped curve running from bottom left to top right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "vignette",
+  "category": "ui",
+  "draw": "Rectangle with a clear oval in the centre and hatched shading toward its corners.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "hotspot-area",
+  "category": "ui",
+  "draw": "Screen outline with a dashed rectangle over a button and a pointing hand inside it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "prototype-flow",
+  "category": "ui",
+  "draw": "Two small screen rectangles joined by a curved arrow from a dot on the first screen.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "screen-flow",
+  "category": "ui",
+  "draw": "Three small phone screens in a row connected by arrows from left to right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "keyframe",
+  "category": "ui",
+  "draw": "Horizontal timeline line with two filled diamonds on it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "motion-path",
+  "category": "ui",
+  "draw": "Small ball at the start of a dashed curving path that ends in an arrowhead.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "animation-timeline",
+  "category": "ui",
+  "draw": "Panel with three horizontal tracks, colored bars on them and a vertical playhead line.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "onion-skin",
+  "category": "ui",
+  "draw": "Three identical ball shapes drawn in a row, two faint outlines behind one solid.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "before-after",
+  "category": "ui",
+  "draw": "Photo rectangle split by a vertical handle line with a round drag knob in the middle.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "actual-size",
+  "category": "ui",
+  "draw": "Square outline containing the ratio 1:1.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "artboard-grid",
+  "category": "ui",
+  "draw": "Four small artboard rectangles in a two by two grid, each with a tiny label dash above.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "component-instance",
+  "category": "ui",
+  "draw": "Diamond outline with a smaller hollow diamond inside, marking a linked copy.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "type-scale",
+  "category": "ui",
+  "draw": "The letter A repeated three times from large to small along a baseline.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "color-tokens",
+  "category": "ui",
+  "draw": "Row of four vertical swatch strips from dark to light.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "persona-card",
+  "category": "ui",
+  "draw": "Card with a user avatar at the top left and three short trait lines beside it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "table-cell",
+  "category": "ui",
+  "draw": "Grid of three by three cells with only the centre cell filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "table-header-row",
+  "category": "ui",
+  "draw": "Table grid with its top row filled and bold, and three lighter rows beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-value-list",
+  "category": "ui",
+  "draw": "Two columns of short lines, bold labels on the left and lighter values on the right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "fill-handle",
+  "category": "ui",
+  "draw": "Selected table cell with a thick border and a small filled square on its bottom right corner.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "transpose",
+  "category": "ui",
+  "draw": "Small table grid with a curved arrow turning it from rows into columns.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "spreadsheet-grid",
+  "category": "ui",
+  "draw": "Grid with a lettered header row A, B, C and a numbered first column.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "nested-table",
+  "category": "ui",
+  "draw": "Table grid with a smaller table grid inside one of its cells.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "code-folding",
+  "category": "ui",
+  "draw": "Three code lines with a small minus box at the start and the lower lines indented.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "minimap",
+  "category": "ui",
+  "draw": "Editor window with a narrow strip at the right edge showing tiny text lines and a highlighted viewport box.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "multi-cursor",
+  "category": "ui",
+  "draw": "Three short text lines each ending in a tall I beam cursor at the same column.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "indent-guides",
+  "category": "ui",
+  "draw": "Code lines at three indent levels with thin dotted vertical lines marking each level.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "show-whitespace",
+  "category": "ui",
+  "draw": "Text line with small dots between words and a pilcrow mark at its end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "find-and-replace",
+  "category": "ui",
+  "draw": "Magnifying glass beside the letters A and B joined by a small arrow.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "text-selection-handles",
+  "category": "ui",
+  "draw": "Highlighted text line with a teardrop handle at each end of the selection.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "select-all",
+  "category": "ui",
+  "draw": "Dashed square with small corner handles surrounding three solid lines of content.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "deselect",
+  "category": "ui",
+  "draw": "Dashed square selection frame with a small diagonal slash through its corner.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "invert-selection",
+  "category": "ui",
+  "draw": "Square split diagonally with the outer area filled and the inner shape dashed.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "distraction-free-mode",
+  "category": "ui",
+  "draw": "Screen outline with only a single short text line in its centre and wide empty margins.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "reader-view",
+  "category": "ui",
+  "draw": "Browser window with a centred column of text lines and a small open book in the top bar.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "word-wrap-toggle",
+  "category": "ui",
+  "draw": "Text line that bends at the right edge with a hooked arrow back to the start of the next line.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "comment-out",
+  "category": "ui",
+  "draw": "Two forward slashes before a faded text line.",
+  "domain": "ui-components"
+ }
+]

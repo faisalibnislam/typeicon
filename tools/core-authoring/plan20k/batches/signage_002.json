@@ -1,0 +1,482 @@
+[
+ {
+  "name": "no-tattoos-sign",
+  "category": "signage",
+  "draw": "A forearm with a small star tattoo on it, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-crossing-tracks-sign",
+  "category": "signage",
+  "draw": "A walking figure stepping across two rails and sleepers, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-crowd-surfing-sign",
+  "category": "signage",
+  "draw": "A figure lying flat and carried on raised hands above a row of heads, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-standing-on-toilet-sign",
+  "category": "signage",
+  "draw": "A figure squatting with both feet on a toilet seat rim, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-stepping-on-surface-sign",
+  "category": "signage",
+  "draw": "A shoe sole about to step onto a flat hatched panel, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-reaching-in-sign",
+  "category": "signage",
+  "draw": "A hand reaching into the opening of a machine guard, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "no-heavy-load-sign",
+  "category": "signage",
+  "draw": "A heavy block with a downward arrow pressing on a flat surface, inside a circle crossed by a diagonal bar.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "automatic-door-sign",
+  "category": "signage",
+  "draw": "A pair of sliding door panels with small outward arrows and a sensor dome above the frame.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "glass-door-sign",
+  "category": "signage",
+  "draw": "A glass door with diagonal glare lines and a figure bumping its forehead into the pane.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "stray-golf-balls-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a golf ball flying along a dotted arc toward a walking figure.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "flashing-lights-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a spotlight emitting alternating long and short burst rays.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "smoke-effects-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a small haze machine blowing a billowing cloud of smoke.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "doors-closing-sign",
+  "category": "signage",
+  "draw": "Two train door leaves closing toward a hand caught between them, with inward arrows.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "passing-trains-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a train front with speed lines racing past a platform edge.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "ticks-warning-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a tick seen from above with eight legs and a round body.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "swim-between-flags-sign",
+  "category": "signage",
+  "draw": "A swimmer's head and arm in waves between two upright beach flags on poles.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "unattended-baggage-sign",
+  "category": "signage",
+  "draw": "A lone suitcase with a warning exclamation mark above it and no figure nearby.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "cyclists-dismount-sign",
+  "category": "signage",
+  "draw": "A figure walking beside a bicycle while holding its handlebars.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "falling-coconuts-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a palm crown dropping a coconut toward a figure beneath.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "shooting-range-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a round bullseye target with a straight dotted line of fire toward it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "roof-snow-slide-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a pitched roof edge with a slab of snow sliding off onto a walking figure.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "mountain-lion-warning-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a crouching big cat in profile with a long low tail.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "stingray-warning-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a flat diamond-shaped stingray seen from above with a long whip tail.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "cassowary-warning-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a tall flightless bird in profile with a helmet-like crest on its head.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "scorpion-warning-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a scorpion from above with raised pincers and a curled stinger tail.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "unexploded-ordnance-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a finned bomb shell lying half buried in the ground.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "jet-blast-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing the rear of a jet engine blowing wind lines toward a toppling figure.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "propeller-hazard-sign",
+  "category": "signage",
+  "draw": "Warning triangle containing a three-bladed spinning propeller with motion arcs.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "golf-cart-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign containing a side-view golf cart with a canopy roof.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "skier-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign containing a cross-country skier striding with poles.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "counter-rotating-rollers-hazard",
+  "category": "signage",
+  "draw": "Warning triangle containing two rollers turning toward each other with a hand drawn into the gap.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "tipping-hazard",
+  "category": "signage",
+  "draw": "Warning triangle containing a tall cabinet tipping forward over a small figure.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wide-load-sign",
+  "category": "signage",
+  "draw": "A long rectangular banner board mounted on a truck bumper with outward arrows at both ends.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "cleaning-in-progress-sign",
+  "category": "signage",
+  "draw": "A yellow A-frame floor stand with a mop and bucket shown on its panel.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "event-steward",
+  "category": "signage",
+  "draw": "A standing figure wearing a loose tabard vest with a reflective band and a radio on the shoulder.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "moose-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a moose in profile showing broad palmate antlers and a hanging dewlap.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "elephant-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a walking elephant in profile, trunk curved down.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "penguin-crossing-sign",
+  "category": "signage",
+  "draw": "Triangle warning sign with an upright penguin waddling in side view.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "koala-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a koala on all fours showing round fluffy ears.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wombat-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a stocky wombat in profile with short legs and a blunt nose.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "hedgehog-crossing-sign",
+  "category": "signage",
+  "draw": "Triangle warning sign with a hedgehog in profile showing a spiky back and pointed snout.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "squirrel-crossing-sign",
+  "category": "signage",
+  "draw": "Triangle warning sign with a squirrel in profile with a tall bushy tail.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "otter-crossing-sign",
+  "category": "signage",
+  "draw": "Triangle warning sign with a long low otter walking in profile with a thick tapered tail.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "crab-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a crab from above showing two raised claws and splayed legs.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "bison-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a bison in profile showing a high shoulder hump and short horns.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wild-boar-crossing-sign",
+  "category": "signage",
+  "draw": "Triangle warning sign with a bristly wild boar in profile with small tusks.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "monkey-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a monkey walking on all fours with a curled tail.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "sheep-crossing-sign",
+  "category": "signage",
+  "draw": "Triangle warning sign with a woolly sheep in profile with a cloud-shaped fleece body.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "badger-crossing-sign",
+  "category": "signage",
+  "draw": "Triangle warning sign with a low badger in profile with a striped head.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "kiwi-bird-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a round kiwi bird in profile with a long thin downward beak.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "emu-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with a tall shaggy emu in profile on long legs.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "armadillo-crossing-sign",
+  "category": "signage",
+  "draw": "Diamond warning sign with an armadillo in profile showing banded shell segments.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "mandatory-action-sign",
+  "category": "signage",
+  "draw": "A solid circle containing a bold exclamation mark, the generic blue mandatory sign.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "remove-shoes-sign",
+  "category": "signage",
+  "draw": "A pair of shoes set neatly side by side with an arrow lifting away from a foot.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "shower-before-swimming-sign",
+  "category": "signage",
+  "draw": "A figure standing under a shower head with an arrow pointing on to wavy pool water.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wait-behind-line-sign",
+  "category": "signage",
+  "draw": "A standing figure behind a dashed floor line with a small halt hand in front.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "keep-distance-sign",
+  "category": "signage",
+  "draw": "Two standing figures separated by a double-headed arrow at head height.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "close-the-gate-sign",
+  "category": "signage",
+  "draw": "A five-bar field gate swinging shut with a curved arrow toward its latch post.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "apply-sunscreen-sign",
+  "category": "signage",
+  "draw": "A squeeze bottle dispensing a dollop of cream onto an open palm under a small sun.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "take-a-number",
+  "category": "signage",
+  "draw": "A wall dispenser with a paper ticket showing a number sticking out of its slot.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "hold-childs-hand-sign",
+  "category": "signage",
+  "draw": "An adult figure holding the hand of a small child figure while standing on escalator steps.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "fold-stroller-sign",
+  "category": "signage",
+  "draw": "A stroller shown collapsed into a narrow folded shape with a curved arrow.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "stay-on-trail-sign",
+  "category": "signage",
+  "draw": "A walking figure on a path marked by two parallel border lines through tufts of vegetation.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "extinguish-campfire-sign",
+  "category": "signage",
+  "draw": "A bucket tipping water onto a small campfire with rising steam puffs.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wear-swim-cap-sign",
+  "category": "signage",
+  "draw": "A head in profile covered by a smooth swim cap, inside a solid circle.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wear-hairnet-sign",
+  "category": "signage",
+  "draw": "A head in profile with hair gathered under a mesh net, inside a solid circle.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wear-shoe-covers-sign",
+  "category": "signage",
+  "draw": "A shoe wrapped in a baggy disposable cover with an elastic ankle, inside a solid circle.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wear-apron-sign",
+  "category": "signage",
+  "draw": "A torso wearing a full-length bib apron with neck strap, inside a solid circle.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "wear-bike-helmet-sign",
+  "category": "signage",
+  "draw": "A head in profile wearing a vented bicycle helmet with a chin strap, inside a solid circle.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "use-barrier-cream-sign",
+  "category": "signage",
+  "draw": "A tube squeezing cream onto the back of a hand, inside a solid circle.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "modest-dress-sign",
+  "category": "signage",
+  "draw": "A standing figure wearing a long-sleeved top and ankle-length skirt, shoulders and knees covered.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "head-covering-sign",
+  "category": "signage",
+  "draw": "A head in profile with a scarf draped over the hair and falling past the neck.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "knock-before-entering-sign",
+  "category": "signage",
+  "draw": "A closed fist tapping against a door panel with two small impact arcs.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "return-trays-sign",
+  "category": "signage",
+  "draw": "A hand sliding a food tray with a plate onto a rack shelf.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "carry-dog-on-escalator-sign",
+  "category": "signage",
+  "draw": "A figure on escalator steps holding a small dog in its arms.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "let-passengers-off-sign",
+  "category": "signage",
+  "draw": "A train doorway with one arrow leaving it first and a second arrow waiting to enter from the side.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "remove-laptop-sign",
+  "category": "signage",
+  "draw": "A laptop being lifted out of a bag and placed flat into a shallow screening tray.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "empty-pockets-sign",
+  "category": "signage",
+  "draw": "A trouser pocket tipping keys and coins down into a small tray.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "cigarette-bin",
+  "category": "signage",
+  "draw": "A slim standing post bin with a perforated top plate and a stubbed cigarette resting on it.",
+  "domain": "r2-public-signage"
+ },
+ {
+  "name": "baggage-drop",
+  "category": "signage",
+  "draw": "A suitcase lying on a short conveyor belt entering a hatch in a counter.",
+  "domain": "r2-public-signage"
+ }
+]

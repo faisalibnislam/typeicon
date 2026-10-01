@@ -1,0 +1,482 @@
+[
+ {
+  "name": "nonagon",
+  "category": "geometry",
+  "draw": "A regular nine sided polygon outline standing on one flat edge.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "dodecagon",
+  "category": "geometry",
+  "draw": "A regular twelve sided polygon outline, nearly round but with visible short straight edges and corners.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "isosceles-triangle",
+  "category": "geometry",
+  "draw": "A tall narrow triangle with a single tick mark on each of its two equal slanted sides.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "scalene-triangle",
+  "category": "geometry",
+  "draw": "A lopsided triangle with three different side lengths, marked with one, two and three tick marks.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "obtuse-triangle",
+  "category": "geometry",
+  "draw": "A long flat triangle with one wide angle over 90 degrees at the bottom left, marked with a small arc.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "kite-quadrilateral",
+  "category": "geometry",
+  "draw": "A geometric kite shape with a short top and long bottom, its two diagonals drawn crossing at right angles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "squircle",
+  "category": "geometry",
+  "draw": "A superellipse shape between a square and a circle, with straight-ish sides blending into smooth rounded corners.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "annulus",
+  "category": "geometry",
+  "draw": "A flat ring: two concentric circles with the band between them filled.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "quarter-circle",
+  "category": "geometry",
+  "draw": "A quarter of a circle: two straight radii at a right angle joined by a curved arc.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "deltoid-curve",
+  "category": "geometry",
+  "draw": "A curved triangle with three sharp cusps and three inward curving sides.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "lune-shape",
+  "category": "geometry",
+  "draw": "Two overlapping circles where only the thin crescent region of one outside the other is filled.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "arbelos",
+  "category": "geometry",
+  "draw": "A large semicircle with two smaller semicircles inside it resting on the same base line, the curved region between them filled.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "concave-polygon",
+  "category": "geometry",
+  "draw": "An arrowhead like polygon with one corner pushed inward, its reflex angle marked with an arc.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "pentagram",
+  "category": "geometry",
+  "draw": "A five pointed star drawn as one continuous line of five crossing strokes, with the inner pentagon visible.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "heptagram",
+  "category": "geometry",
+  "draw": "A seven pointed star polygon drawn with crossing straight lines that leave a small heptagon in the middle.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "octagram",
+  "category": "geometry",
+  "draw": "Two overlapping squares, one rotated 45 degrees, forming an eight pointed star with an octagon center.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "tetrahedron",
+  "category": "geometry",
+  "draw": "A triangular pyramid with four triangular faces, drawn in three quarter view with one hidden edge dashed.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cuboid",
+  "category": "geometry",
+  "draw": "A long rectangular box in three quarter view showing front, top and side faces.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "parallelepiped",
+  "category": "geometry",
+  "draw": "A slanted box whose faces are parallelograms, leaning to one side in three quarter view.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "rhombohedron",
+  "category": "geometry",
+  "draw": "A squashed cube whose six faces are all rhombuses, drawn like a slanted diamond solid.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "ellipsoid",
+  "category": "geometry",
+  "draw": "A stretched egg-like solid shown with an outer ellipse outline and a curved equator line across it.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangular-bipyramid",
+  "category": "geometry",
+  "draw": "Two triangular pyramids joined base to base, forming a double pointed solid with a triangular waist.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "pentagonal-prism",
+  "category": "geometry",
+  "draw": "A prism with pentagon shaped front and back faces joined by rectangular sides, in perspective.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cuboctahedron",
+  "category": "geometry",
+  "draw": "A solid with square and triangular faces alternating, shown with a square face in front surrounded by triangles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "truncated-cube",
+  "category": "geometry",
+  "draw": "A cube with each corner sliced off, leaving small triangular faces at the corners and octagonal faces.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "truncated-tetrahedron",
+  "category": "geometry",
+  "draw": "A tetrahedron with its corners cut off, showing hexagonal faces and small triangular corner faces.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "truncated-octahedron",
+  "category": "geometry",
+  "draw": "A solid of square and hexagonal faces, shown with a hexagon face in front and small squares around it.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "stellated-octahedron",
+  "category": "geometry",
+  "draw": "Two interlocking tetrahedra forming an eight pointed star solid, like a three dimensional six pointed star.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "stellated-dodecahedron",
+  "category": "geometry",
+  "draw": "A spiky ball solid with twelve pentagonal pyramid spikes pointing outward, like a star shaped polyhedron.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "rhombic-dodecahedron",
+  "category": "geometry",
+  "draw": "A solid of twelve rhombus faces, drawn as a hexagon outline divided into rhombus faces around a center.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "square-antiprism",
+  "category": "geometry",
+  "draw": "Two squares, one rotated 45 degrees above the other, joined by a band of zigzag triangles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "bicone",
+  "category": "geometry",
+  "draw": "A double cone: two cones joined at their round bases, forming a spinning top like solid with pointed ends.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "spherical-cap",
+  "category": "geometry",
+  "draw": "A dome shaped slice cut from a sphere, with a flat elliptical base and a curved top.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "paraboloid",
+  "category": "geometry",
+  "draw": "A bowl shaped surface opening upward, with an elliptical rim and curved sides meeting at a rounded bottom.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "hyperboloid",
+  "category": "geometry",
+  "draw": "An hourglass shaped tower surface made of straight crossing lines, pinched at the waist between two elliptical rims.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "hyperbolic-paraboloid",
+  "category": "geometry",
+  "draw": "A saddle shaped surface with a grid of curved lines, rising at two opposite corners and dipping at the other two.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "torus-knot",
+  "category": "geometry",
+  "draw": "A closed tube looping several times around a hidden ring, forming a star like knot with over and under crossings.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "double-torus",
+  "category": "geometry",
+  "draw": "A flat pretzel like solid with two holes side by side, drawn with shading lines around each hole.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "wireframe-cube",
+  "category": "geometry",
+  "draw": "A see-through cube with all twelve edges drawn, the three hidden back edges shown dashed.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "impossible-cube",
+  "category": "geometry",
+  "draw": "A wireframe cube whose front and back edges cross in an impossible way, one bar passing in front of another it should be behind.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "penrose-stairs",
+  "category": "geometry",
+  "draw": "A square loop of steps seen from above at an angle that appears to climb forever back to its start.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "impossible-fork",
+  "category": "geometry",
+  "draw": "Three round prongs on the left that merge into two square prongs on the right, an impossible trident illusion.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cylinder-net",
+  "category": "geometry",
+  "draw": "The unfolded net of a cylinder: a rectangle with a circle attached above and below.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cone-net",
+  "category": "geometry",
+  "draw": "The unfolded net of a cone: a curved fan shaped sector with a small circle touching its arc.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "pyramid-net",
+  "category": "geometry",
+  "draw": "The unfolded net of a square pyramid: a central square with a triangle on each of its four sides, like a star.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangular-prism-net",
+  "category": "geometry",
+  "draw": "The unfolded net of a triangular prism: three rectangles in a row with a triangle on the top and bottom of the middle one.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "solid-of-revolution",
+  "category": "geometry",
+  "draw": "A curve beside a vertical axis with a curved arrow around the axis and the vase shaped solid it sweeps out.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "spherical-triangle",
+  "category": "geometry",
+  "draw": "A sphere outline with a curved triangle drawn on its surface, its three sides bulging arcs of great circles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "poincare-disk",
+  "category": "geometry",
+  "draw": "A circle filled with curved arcs meeting its edge at right angles, forming shrinking curved triangles toward the rim.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "sphere-packing",
+  "category": "geometry",
+  "draw": "Front view of equal balls stacked in a triangular pyramid, three on the bottom row, two above and one on top.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cavalieri-principle",
+  "category": "geometry",
+  "draw": "Two stacks of equal coins side by side, one straight and one leaning sideways, showing equal volume.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "right-angle",
+  "category": "geometry",
+  "draw": "Two straight rays meeting at a corner at 90 degrees with a small square mark in the corner.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "obtuse-angle",
+  "category": "geometry",
+  "draw": "Two rays from one vertex spread wider than a right angle, with an arc marking the wide opening.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "straight-angle",
+  "category": "geometry",
+  "draw": "A straight line with a dot at its center and a half circle arc above marking 180 degrees.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "reflex-angle",
+  "category": "geometry",
+  "draw": "Two rays from one vertex with a long arc sweeping around the outside, marking the angle larger than 180 degrees.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "complementary-angles",
+  "category": "geometry",
+  "draw": "A right angle corner split into two parts by a middle ray, each part marked with its own arc.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "supplementary-angles",
+  "category": "geometry",
+  "draw": "A straight line with a ray rising from a point on it, the two angles on either side marked with arcs.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "vertical-angles",
+  "category": "geometry",
+  "draw": "Two straight lines crossing in an X with matching arcs on the two opposite angles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "exterior-angle",
+  "category": "geometry",
+  "draw": "A triangle with its base extended past one corner and an arc marking the outside angle formed there.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "dihedral-angle",
+  "category": "geometry",
+  "draw": "Two flat planes meeting along a shared edge like an open book, with an arc marking the angle between them.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "solid-angle",
+  "category": "geometry",
+  "draw": "A cone of rays from a center dot to a patch on the surface of a surrounding sphere.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "angle-of-elevation",
+  "category": "geometry",
+  "draw": "A horizontal ground line with an eye dot at one end and a sight line rising to a flag or tree top, the angle marked.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "intersecting-lines",
+  "category": "geometry",
+  "draw": "Two straight lines crossing at a slant with a dot marking their single intersection point.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "segment-midpoint",
+  "category": "geometry",
+  "draw": "A straight line segment with dots at both ends and a middle dot, each half marked with one tick.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "collinear-points",
+  "category": "geometry",
+  "draw": "Three dots lying on one straight line with a thinner line running through them.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "geometric-plane",
+  "category": "geometry",
+  "draw": "A flat parallelogram drawn in perspective representing an infinite plane, with a small point dot on it.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "normal-vector",
+  "category": "geometry",
+  "draw": "A flat plane in perspective with an arrow standing straight up from it and a right angle mark at its foot.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "skew-lines",
+  "category": "geometry",
+  "draw": "Two straight lines drawn on a box outline that never meet and are not parallel, one passing behind the other.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangle-medians",
+  "category": "geometry",
+  "draw": "A triangle with three lines from each corner to the midpoint of the opposite side, meeting at a center dot.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangle-altitude",
+  "category": "geometry",
+  "draw": "A triangle with a dashed vertical line dropped from the top corner to the base, with a right angle mark.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangle-incircle",
+  "category": "geometry",
+  "draw": "A triangle with a circle drawn inside touching all three sides.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangle-circumcircle",
+  "category": "geometry",
+  "draw": "A triangle with a circle drawn around it passing through all three corners.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "similar-triangles",
+  "category": "geometry",
+  "draw": "A small triangle and a larger triangle of the same shape side by side, with matching angle arcs.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "congruent-triangles",
+  "category": "geometry",
+  "draw": "Two identical triangles side by side, with matching tick marks on their corresponding sides.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangle-angle-sum",
+  "category": "geometry",
+  "draw": "A triangle whose three corner angles, each marked with an arc, are shown fitted together along a straight line below.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "thales-theorem",
+  "category": "geometry",
+  "draw": "A semicircle with a triangle whose long side is the diameter and whose top corner touches the arc, marked with a right angle.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "circle-chord",
+  "category": "geometry",
+  "draw": "A circle with a straight line joining two points on its edge, not passing through the center.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "circle-diameter",
+  "category": "geometry",
+  "draw": "A circle with a straight line passing through its center dot from edge to edge, with dots at both ends.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "tangent-circles",
+  "category": "geometry",
+  "draw": "Two circles of different sizes touching at exactly one point, marked with a small dot.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "inscribed-polygon",
+  "category": "geometry",
+  "draw": "A regular hexagon drawn inside a circle with every corner touching the circle.",
+  "domain": "r2-shapes-geometry"
+ }
+]

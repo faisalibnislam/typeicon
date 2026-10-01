@@ -1,0 +1,262 @@
+{
+  "archive": {
+    "context": "A filing cabinet with three pull-out drawers. Used for archive actions in email and document apps, record storage, office filing and older items moved out of the main view.",
+    "keywords": ["filing cabinet", "file cabinet", "cabinet", "drawers", "records", "record keeping", "storage", "archived", "archiving", "store away", "old files", "office", "paperwork", "filing", "documents", "backup", "history", "stored items", "admin", "file drawer", "move to archive", "organise", "organize"]
+  },
+  "archive-box": {
+    "context": "Storage box with a lid and a hand slot cut into the side. Shows up on archive buttons, moving items to long-term storage, boxed records and storage or moving services.",
+    "keywords": ["box", "storage box", "bankers box", "file box", "archived", "archiving", "store", "storage", "records", "packing", "moving", "moving box", "carton", "put away", "cold storage", "old items", "keep", "lid", "container", "long-term storage", "move to archive", "organize", "organise"]
+  },
+  "blueprint": {
+    "context": "An architectural floor plan drawn on a sheet, with walls and a door swing. Used for architecture and construction apps, property listings, building plans and site planning documents.",
+    "keywords": ["floor plan", "floorplan", "architecture", "architect", "plan", "drawing", "technical drawing", "construction", "building plan", "house plan", "layout", "rooms", "real estate", "property", "design plan", "engineering", "site plan", "draft", "schematic", "interior design", "renovation", "cad"]
+  },
+  "book": {
+    "context": "Closed hardcover book seen from the front. Used for reading apps, libraries, guides, manuals, education platforms and links to documentation.",
+    "keywords": ["read", "reading", "novel", "literature", "education", "manual", "handbook", "guide", "documentation", "docs", "ebook", "e-book", "library", "study", "school", "textbook", "story", "author", "publication", "hardcover", "bookstore", "learning", "knowledge base", "user guide"]
+  },
+  "book-open": {
+    "context": "An open book with two facing pages. Common on documentation links, reading modes, help centres, tutorials, study apps and e-reader views.",
+    "keywords": ["open book", "reading", "read", "pages", "documentation", "docs", "guide", "study", "learn", "learning", "education", "manual", "reader mode", "reading mode", "e-reader", "ebook", "tutorial", "help center", "help centre", "knowledge base", "literature", "story", "bible", "scripture", "lesson"]
+  },
+  "books": {
+    "context": "Three books lying flat in a pile. Used for reading lists, course materials, libraries, collections of guides and education or bookstore sections.",
+    "keywords": ["book stack", "stack of books", "pile", "reading list", "reading", "study", "studying", "literature", "collection", "library", "education", "school", "university", "course materials", "textbooks", "learning", "homework", "research", "bookstore", "resources", "knowledge", "academic"]
+  },
+  "catalog": {
+    "context": "A catalogue booklet with a grid of products on the cover. Used for product catalogues, brochures, store listings, collections and browsing an inventory in shop apps.",
+    "keywords": ["catalogue", "brochure", "products", "product list", "listing", "shop", "store", "booklet", "lookbook", "collection", "range", "inventory", "e-commerce", "retail", "browse products", "pamphlet", "leaflet", "product grid", "merchandise", "mail order", "price list", "sales"]
+  },
+  "certificate": {
+    "context": "Certificate sheet with a seal and ribbon at the bottom. Used for course completion, awards, diplomas, qualifications and accreditation pages in education and HR tools.",
+    "keywords": ["award", "diploma", "achievement", "credential", "accreditation", "qualification", "completion", "course completion", "degree", "graduation", "seal", "ribbon", "certified", "certification", "license", "licence", "honour", "honor", "recognition", "education", "training", "badge", "official document"]
+  },
+  "clipboard": {
+    "context": "An empty clipboard with a metal clip at the top. Used for copy and paste actions, forms, inspections, surveys and anything held on a board for review.",
+    "keywords": ["board", "paste", "copy", "copy to clipboard", "notes", "form", "checklist", "survey", "inspection", "questionnaire", "assessment", "audit", "clip", "medical chart", "patient chart", "intake form", "report", "tasks", "paperwork", "sign-up sheet", "register"]
+  },
+  "clipboard-list": {
+    "context": "Clipboard holding a bulleted list of items. Common in task managers, to-do lists, inventory checks, inspections and project checklists.",
+    "keywords": ["checklist", "tasks", "todo", "to-do", "to do list", "task list", "inventory", "list", "board", "items", "requirements", "audit", "inspection", "agenda", "shopping list", "packing list", "stocktake", "survey", "planning", "project tasks", "backlog", "action items"]
+  },
+  "clipboard-text": {
+    "context": "A clipboard carrying several lines of text. Used for notes, memos, forms, briefs, meeting minutes, medical records and pasted text content.",
+    "keywords": ["notes", "document", "form", "memo", "text", "board", "brief", "minutes", "meeting notes", "record", "medical record", "patient notes", "paste text", "report", "paperwork", "summary", "details", "description", "instructions", "written notes", "case notes"]
+  },
+  "contract": {
+    "context": "An agreement page with lines of text and a signature line marked with a cross. Used for contracts, terms and conditions, legal agreements, leases and places where someone must sign.",
+    "keywords": ["agreement", "legal", "terms", "terms and conditions", "deal", "sign here", "signature", "document", "lease", "rental agreement", "nda", "employment contract", "law", "lawyer", "policy", "sign", "e-signature", "esign", "binding", "clause", "legal document", "service agreement", "purchase agreement"]
+  },
+  "cover-page": {
+    "context": "Title page with a centred title and an author line below it. Used for report covers, book title pages, document templates and front matter in publishing tools.",
+    "keywords": ["title page", "cover", "front page", "title", "report cover", "book cover", "front cover", "front matter", "heading", "document title", "author", "byline", "thesis", "essay", "template", "publication", "first page", "centred", "centered", "manuscript cover", "printing"]
+  },
+  "document-signed": {
+    "context": "A document page with a handwritten signature on a line. Used to show signed or approved documents, completed e-signatures, executed contracts and consent forms.",
+    "keywords": ["signed", "signature", "agreement", "approved", "sign", "contract", "e-signature", "esign", "electronic signature", "signed contract", "executed", "autograph", "consent form", "authorised", "authorized", "legal", "completed", "paperwork", "sign off", "endorsed", "notarised", "notarized"]
+  },
+  "dossier": {
+    "context": "Folder with papers sticking out and a label on the front. Used for case files, personnel records, confidential documents, investigations and client files.",
+    "keywords": ["case file", "file folder", "records", "confidential", "papers", "manila folder", "personnel file", "client file", "profile", "background", "investigation", "evidence", "secret", "classified", "legal case", "patient file", "portfolio", "documents", "labelled folder", "labeled folder", "hr records"]
+  },
+  "envelope-document": {
+    "context": "An envelope with a letter sliding out of it. Used for mail, sending or receiving documents, correspondence, newsletters and attaching a document to a message.",
+    "keywords": ["letter", "mail", "correspondence", "document", "post", "message", "envelope", "email", "send document", "open letter", "invitation", "newsletter", "mail merge", "postal", "cover letter", "statement by mail", "received mail", "paperwork", "inbox", "delivery"]
+  },
+  "file": {
+    "context": "Plain document page with a folded top corner. The general icon for a file, new document, page or attachment in file managers, editors and upload areas.",
+    "keywords": ["document", "page", "paper", "sheet", "new file", "new document", "blank document", "doc", "attachment", "upload", "download", "file type", "generic file", "record", "folded corner", "dog ear", "files", "text file", "empty file", "untitled"]
+  },
+  "file-3d": {
+    "context": "Document page with a small cube on it, marking a 3D model file. Used in 3D printing, CAD, game asset and model viewer apps for mesh and scene files.",
+    "keywords": ["3d", "model", "3d model", "cube", "obj", "stl", "mesh", "fbx", "gltf", "glb", "3d printing", "cad", "object file", "scene", "game asset", "asset", "render", "modelling", "modeling", "geometry", "3d file", "print file"]
+  },
+  "file-audio": {
+    "context": "A document page marked with a music note. Used for audio files, songs, recordings, podcasts and sound attachments in file lists and media libraries.",
+    "keywords": ["audio", "music", "sound", "mp3", "song", "wav", "audio file", "music file", "sound file", "recording", "voice memo", "podcast", "track", "flac", "aac", "ogg", "m4a", "note", "media", "voice note", "ringtone", "soundtrack"]
+  },
+  "file-certificate": {
+    "context": "Document page with a seal and ribbon, meaning a certificate file. Used for downloadable certificates, diplomas, signed credentials and verified documents.",
+    "keywords": ["certificate", "award", "seal", "credential", "diploma", "verified", "certified", "certification", "qualification", "completion certificate", "accreditation", "license", "licence", "official", "authentic", "verified document", "download certificate", "achievement", "ribbon", "stamp"]
+  },
+  "file-csv": {
+    "context": "A document page filled with rows of separated values. Used for CSV exports and imports, data downloads, contact lists and tabular data files.",
+    "keywords": ["csv", "comma separated", "comma separated values", "data", "table", "export", "import", "values", "spreadsheet", "rows", "columns", "tabular data", "data export", "download data", "tsv", "delimited", "records", "dataset", "contact list", "bulk upload"]
+  },
+  "file-database": {
+    "context": "Document page with a database cylinder on it. Used for database files, SQL dumps, backups, data sources and local stores in developer and admin tools.",
+    "keywords": ["database", "db", "sql", "sqlite", "data", "storage", "database file", "sql dump", "backup", "data source", "dump", "export database", "import database", "records", "tables", "cylinder", "db file", "restore", "migration", "datastore"]
+  },
+  "file-document": {
+    "context": "A document page with a heading and paragraph lines, as used for word-processing files. Common for text documents, letters, essays, reports and doc attachments.",
+    "keywords": ["document", "doc", "docx", "word processing", "word processor", "letter", "writing", "text document", "essay", "report", "rtf", "odt", "paragraphs", "heading", "article", "write", "draft", "written document", "page", "attachment", "cv", "resume"]
+  },
+  "file-font": {
+    "context": "Document page with a letter A on it, meaning a font file. Used in type managers, design tools, font downloads and typography settings.",
+    "keywords": ["font", "typeface", "ttf", "otf", "woff", "woff2", "typography", "glyph", "font file", "type", "letter a", "lettering", "font family", "install font", "text style", "design", "character set", "web font", "type design", "font download"]
+  },
+  "file-image": {
+    "context": "A document page showing a small picture of mountains and a sun. Used for image files, photo uploads, picture attachments and graphics in file lists.",
+    "keywords": ["image", "picture", "photo", "jpg", "jpeg", "png", "graphic", "gif", "webp", "heic", "image file", "photo file", "photograph", "upload image", "attachment", "media", "artwork", "screenshot", "landscape", "bitmap", "raster"]
+  },
+  "file-invoice": {
+    "context": "Document page with item lines and amounts, meaning an invoice file. Used for billing, downloading invoices, payment records and accounting apps.",
+    "keywords": ["invoice", "bill", "billing", "payment", "statement", "accounting", "invoice file", "download invoice", "receipt", "charges", "amount due", "finance", "bookkeeping", "purchase", "order", "quote", "estimate", "expenses", "tax", "vat", "line items"]
+  },
+  "file-json": {
+    "context": "A document page with curly braces, meaning a JSON data file. Used for config files, API responses, data exports and settings in developer tools.",
+    "keywords": ["json", "data", "braces", "curly braces", "config", "configuration", "api", "object", "json file", "api response", "settings file", "export data", "import data", "developer", "code", "structured data", "key value", "payload", "schema", "manifest"]
+  },
+  "file-pdf": {
+    "context": "Document page with a picture block and lines of text, standing for a print-ready PDF. Used for PDF downloads, exports, printable forms, reports and attachments.",
+    "keywords": ["pdf", "portable document", "portable document format", "print", "document", "pdf file", "download pdf", "export pdf", "save as pdf", "printable", "print ready", "brochure", "form", "ebook", "report", "attachment", "read only", "handout", "scan", "manual"]
+  },
+  "file-presentation": {
+    "context": "A document page with a slide on a small stand. Used for presentation files, slide decks, pitch decks and meeting materials.",
+    "keywords": ["presentation", "slides", "slide", "ppt", "pptx", "deck", "slide deck", "pitch deck", "slideshow", "presentation file", "meeting", "talk", "lecture", "keynote speech", "projector", "board meeting", "training", "webinar", "screen", "odp"]
+  },
+  "file-report": {
+    "context": "Document page with a small line chart, meaning a report file. Used for analytics reports, monthly summaries, exported results and business documents.",
+    "keywords": ["report", "analytics", "statistics", "summary", "chart", "results", "report file", "analysis", "monthly report", "annual report", "performance report", "business report", "export report", "download report", "metrics", "line chart", "trend", "kpi", "dashboard export", "findings"]
+  },
+  "file-shield": {
+    "context": "A document page with a shield on it, meaning a protected file. Used for encrypted or secured documents, privacy settings, restricted access and scanned-safe files.",
+    "keywords": ["protected", "secure", "security", "safe", "privacy", "guard", "protected file", "secure document", "encrypted", "encryption", "confidential", "restricted", "access control", "scanned", "virus free", "safe file", "private file", "data protection", "compliance", "shield"]
+  },
+  "file-spreadsheet": {
+    "context": "Document page divided into a grid of cells, used for spreadsheet files. Common in finance, data entry, budgets and table exports.",
+    "keywords": ["spreadsheet", "xls", "xlsx", "sheet", "table", "cells", "grid", "workbook", "ods", "rows", "columns", "budget", "data", "finance", "accounts", "ledger", "calculation", "export table", "numbers", "worksheet", "data entry"]
+  },
+  "file-stack": {
+    "context": "Two document pages stacked one over the other. Used for multiple files, batch uploads, copies, duplicate documents and selecting several items at once.",
+    "keywords": ["files", "documents", "stack", "batch", "multiple", "pile", "multiple files", "copies", "copy", "duplicate", "batch upload", "bulk", "many files", "document set", "papers", "pages", "collection", "select multiple", "versions", "bundle"]
+  },
+  "file-text": {
+    "context": "A document page with lines of plain text. Used for text files, notes, logs, readme files, transcripts and plain-text attachments.",
+    "keywords": ["text", "txt", "document", "plain text", "notes", "page", "text file", "readme", "transcript", "log", "lines", "content", "article", "writing", "copy", "description", "memo", "markdown", "md", "script", "letter"]
+  },
+  "file-vector": {
+    "context": "Document page with a curve drawn between two anchor points, marking a vector graphic. Used for SVG and illustration files in design tools, logo downloads and print artwork.",
+    "keywords": ["vector", "svg", "eps", "illustration", "bezier", "graphic", "vector file", "vector graphic", "anchor points", "path", "curve", "pen tool", "logo file", "artwork", "scalable", "design file", "drawing", "print artwork", "icon file"]
+  },
+  "file-video": {
+    "context": "A document page with a play triangle, meaning a video file. Used for video uploads, movie files, clips, recordings and media attachments.",
+    "keywords": ["video", "movie", "film", "mp4", "clip", "media", "video file", "mov", "avi", "mkv", "webm", "recording", "screen recording", "footage", "play", "play button", "upload video", "attachment", "vlog", "trailer"]
+  },
+  "file-zip": {
+    "context": "Document page with a zipper running down it, meaning a compressed archive. Used for zip downloads, compressing or extracting files and bundled attachments.",
+    "keywords": ["zip", "archive", "compressed", "rar", "7z", "package", "zip file", "compress", "extract", "unzip", "decompress", "tar", "gz", "tarball", "zipper", "bundle", "download all", "compressed file", "archive file", "backup"]
+  },
+  "folder": {
+    "context": "A closed folder with a tab. The standard icon for directories, collections, projects and grouped files in file managers, cloud drives and sidebars.",
+    "keywords": ["directory", "collection", "files", "archive", "file folder", "closed folder", "project", "category", "group", "organize", "organise", "documents", "storage", "drive", "cloud drive", "file manager", "path", "location", "album", "workspace", "new folder"]
+  },
+  "folder-open": {
+    "context": "An open folder with its front flap tilted forward. Used for opening or browsing a directory, the current folder, file pickers and expanded tree items.",
+    "keywords": ["open", "directory", "browse", "explore", "files", "open folder", "open directory", "file picker", "choose file", "current folder", "expanded", "explorer", "file browser", "file manager", "load", "import", "view files", "project", "documents", "active folder"]
+  },
+  "folder-shared": {
+    "context": "Folder with a person on it, meaning it is shared with others. Used for team drives, shared directories, collaboration spaces and access settings.",
+    "keywords": ["shared", "team", "collaboration", "people", "directory", "access", "shared folder", "team folder", "shared drive", "team drive", "share", "members", "workspace", "user folder", "public folder", "permissions", "collaborate", "group folder", "invite", "shared with me"]
+  },
+  "folder-tree": {
+    "context": "A parent folder branching down to two sub-folders. Used for folder hierarchies, directory trees, nested files, sidebars and project structure views.",
+    "keywords": ["hierarchy", "directory tree", "structure", "nested", "subfolder", "explorer", "tree", "file tree", "folder structure", "subfolders", "subdirectory", "parent folder", "child folder", "outline", "navigation", "sidebar", "project structure", "file system", "levels", "organise", "organize"]
+  },
+  "folder-zip": {
+    "context": "A folder with a zipper on the front, meaning a compressed folder. Used for zipping a directory, downloading a whole folder and archived project files.",
+    "keywords": ["zip", "compressed", "archive", "package", "directory", "rar", "zipped folder", "compressed folder", "compress", "extract", "unzip", "download folder", "zipper", "bundle", "backup", "tar", "7z", "archive folder", "export folder"]
+  },
+  "folders": {
+    "context": "Two folders, one behind the other. Used for multiple directories, collections, grouped projects, moving several folders and library sections.",
+    "keywords": ["directories", "collections", "multiple", "group", "files", "multiple folders", "all folders", "folder list", "projects", "categories", "library", "organize", "organise", "documents", "storage", "file manager", "sections", "groups", "copy folder", "move folders"]
+  },
+  "id-card": {
+    "context": "Identity card with a portrait on one side and detail lines on the other. Used for ID verification, profiles, membership cards, contact details and driving licences.",
+    "keywords": ["identity", "badge", "membership", "license", "licence", "profile", "credentials", "identity card", "id", "photo id", "driving licence", "drivers license", "national id", "member card", "staff card", "verification", "kyc", "contact card", "business card", "personal details", "account info", "vcard"]
+  },
+  "inbox": {
+    "context": "A tray with an arrow pointing down into it, meaning incoming items. Used for email inboxes, received messages, notifications, requests and download destinations.",
+    "keywords": ["incoming", "received", "mail", "messages", "tray", "in tray", "email", "inbox tray", "new mail", "receive", "arrival", "notifications", "requests", "queue", "unread", "mailbox", "letters", "download", "import", "collect"]
+  },
+  "invoice": {
+    "context": "Invoice sheet with a header block, item lines and a total at the bottom. Used for billing pages, sending invoices, payments due, accounting and order summaries.",
+    "keywords": ["bill", "billing", "payment due", "statement", "accounting", "charge", "total", "amount due", "invoicing", "send invoice", "pay invoice", "purchase order", "quote", "estimate", "line items", "subtotal", "tax", "vat", "finance", "bookkeeping", "accounts receivable", "freelance"]
+  },
+  "journal": {
+    "context": "A journal closed with an elastic strap and a ribbon bookmark. Used for diary and journaling apps, planners, logs, personal notes and reflections.",
+    "keywords": ["diary", "planner", "log", "notebook", "personal", "writing", "journaling", "daily journal", "bullet journal", "logbook", "memoir", "notes", "reflection", "gratitude journal", "entries", "agenda", "ribbon bookmark", "elastic band", "private notes", "mood journal", "travel journal"]
+  },
+  "library": {
+    "context": "A shelf of standing books with one book leaning over. Used for library sections, collections of saved items, media libraries, study resources and reading apps.",
+    "keywords": ["bookshelf", "books", "collection", "reading", "study", "archive", "bookcase", "shelf", "media library", "my library", "saved items", "resources", "reference", "catalogue", "catalog", "learning", "education", "book collection", "reading list", "documentation", "knowledge base"]
+  },
+  "magazine": {
+    "context": "Magazine cover with a masthead title and a portrait. Used for publications, news and lifestyle apps, digital editions, subscriptions and editorial content.",
+    "keywords": ["periodical", "publication", "glossy", "issue", "cover", "fashion", "editorial", "zine", "digital edition", "subscription", "lifestyle", "press", "media", "reading", "monthly", "weekly", "cover story", "masthead", "articles", "print media", "news stand"]
+  },
+  "manuscript": {
+    "context": "A handwritten page covered in wavy lines of script. Used for drafts, handwriting, original writing, author tools, calligraphy and historical documents.",
+    "keywords": ["handwriting", "draft", "writing", "author", "script", "original", "handwritten", "handwritten note", "letter", "cursive", "calligraphy", "rough draft", "first draft", "writer", "novel draft", "manuscript page", "notes", "ink", "old document", "penmanship"]
+  },
+  "newspaper": {
+    "context": "A folded newspaper with a headline photo and text columns. Used for news feeds, articles, press pages, blogs, media coverage and daily briefings.",
+    "keywords": ["news", "press", "article", "daily", "headlines", "media", "news feed", "blog", "journalism", "paper", "press release", "tabloid", "gazette", "current events", "latest news", "editorial", "columns", "read news", "news article", "briefing", "publication"]
+  },
+  "note": {
+    "context": "A notepad sheet with binding rings along the top and ruled lines. Used for notes apps, memos, quick jotting, reminders and adding a note to a record.",
+    "keywords": ["notepad", "memo", "jot", "write", "pad", "reminder", "notes", "add note", "new note", "quick note", "writing pad", "lined paper", "ruled", "memo pad", "scratch pad", "to write", "comment", "annotation", "remarks", "text"]
+  },
+  "notebook": {
+    "context": "A spiral-bound notebook with a coil down the spine. Used for notes, school and study apps, exercise books, sketching and writing workspaces.",
+    "keywords": ["spiral", "notepad", "jotter", "notes", "school", "writing", "spiral notebook", "exercise book", "workbook", "copybook", "coil", "study", "student", "class notes", "sketchbook", "diary", "journal", "note taking", "stationery", "homework"]
+  },
+  "notes": {
+    "context": "Two overlapping notes, the front one lined with text. Used for note collections, memos, annotations, meeting notes and multiple saved notes.",
+    "keywords": ["memos", "annotations", "stack", "writing", "reminders", "multiple notes", "all notes", "meeting notes", "note collection", "notepad", "memo", "comments", "jottings", "saved notes", "records", "study notes", "summaries", "pages", "notebook", "cards"]
+  },
+  "outbox": {
+    "context": "A tray with an arrow pointing up out of it, meaning outgoing items. Used for sent mail, outgoing messages, queued uploads and exports.",
+    "keywords": ["outgoing", "sent", "mail", "messages", "tray", "out tray", "sent mail", "sent items", "send", "email", "outgoing mail", "queued", "pending send", "upload", "export", "dispatch", "mailbox", "letters", "share out", "send out"]
+  },
+  "page-blank": {
+    "context": "A blank sheet of paper with nothing on it. Used for new documents, empty pages, blank templates, starting from scratch and empty states.",
+    "keywords": ["blank", "empty", "sheet", "paper", "new page", "page", "blank page", "empty page", "new document", "blank document", "start from scratch", "empty state", "no content", "template", "clean sheet", "fresh start", "untitled", "white page", "draft", "new"]
+  },
+  "pages": {
+    "context": "Two sheets of paper, the back one tilted behind the front. Used for multiple pages, page lists in site builders, copies, document sets and stacks of paperwork.",
+    "keywords": ["sheets", "papers", "multiple pages", "documents", "stack", "pile", "page list", "all pages", "copies", "duplicate", "paperwork", "document set", "site pages", "pagination", "print pages", "handouts", "papers stack", "files", "copy page", "leaflets"]
+  },
+  "paperclip": {
+    "context": "A single paperclip on its side. The standard icon for attachments, attaching a file to an email or message, clipped documents and office supplies.",
+    "keywords": ["attachment", "attach", "clip", "file", "email", "office", "attach file", "add attachment", "attachments", "paper clip", "fastener", "clipped", "linked file", "upload", "stationery", "office supplies", "documents", "mail attachment", "add file", "include file"]
+  },
+  "passport": {
+    "context": "A passport booklet with a globe emblem on the cover. Used for travel apps, identity verification, visa and border pages, bookings and citizenship forms.",
+    "keywords": ["travel", "identity", "border", "visa", "citizenship", "document", "travel document", "id", "passport control", "immigration", "customs", "international travel", "boarding", "check in", "nationality", "identity verification", "kyc", "abroad", "trip", "consulate", "embassy"]
+  },
+  "receipt": {
+    "context": "A paper receipt with a torn zigzag bottom edge. Used for purchase history, order confirmations, payments, expenses and proof of purchase in shop and finance apps.",
+    "keywords": ["purchase", "till", "payment", "bill", "proof", "shopping", "till receipt", "sales receipt", "proof of purchase", "order history", "transaction", "expenses", "expense report", "checkout", "invoice", "total", "cash register", "pos", "refund", "reimbursement", "e-commerce", "restaurant bill"]
+  },
+  "report": {
+    "context": "Report sheet with a title line and a small bar chart. Used for business reports, analysis results, reviews, summaries and generated report pages.",
+    "keywords": ["summary", "analysis", "results", "statistics", "review", "document", "business report", "annual report", "monthly report", "bar chart", "findings", "performance", "analytics", "report card", "study", "research", "overview", "audit", "generate report", "data report"]
+  },
+  "scroll": {
+    "context": "A parchment scroll rolled at the top and bottom. Used for ancient or historical documents, decrees, terms, legends, quests in games and formal proclamations.",
+    "keywords": ["parchment", "manuscript", "ancient", "decree", "proclamation", "history", "old paper", "papyrus", "rolled paper", "charter", "edict", "legend", "quest", "lore", "medieval", "fantasy", "terms", "law", "declaration", "certificate", "diploma", "story"]
+  },
+  "sticky-note": {
+    "context": "A square sticky note with one corner folded up. Used for quick notes, reminders, whiteboard and brainstorming apps, pinned comments and annotations.",
+    "keywords": ["memo", "reminder", "note", "sticky", "annotation", "sticky notes", "quick note", "self-stick note", "sticker", "pinned note", "whiteboard", "brainstorm", "kanban", "board", "comment", "to do", "jot", "idea", "notepad", "desk note"]
+  },
+  "table-of-contents": {
+    "context": "A page listing entries with page numbers on the right. Used for tables of contents, document outlines, chapter lists, indexes and in-page navigation.",
+    "keywords": ["contents", "toc", "index", "chapters", "outline", "navigation", "contents page", "chapter list", "sections", "headings", "document outline", "page numbers", "jump to section", "book index", "list of contents", "summary", "structure", "menu", "overview", "agenda"]
+  },
+  "ticket": {
+    "context": "An admission ticket with notches on each side and a tear line. Used for events, concerts, cinema bookings, passes, coupons, raffles and support tickets.",
+    "keywords": ["admission", "event", "pass", "entry", "coupon", "stub", "event ticket", "admission ticket", "concert", "cinema", "movie ticket", "theatre", "theater", "booking", "raffle", "lottery", "voucher", "tickets", "boarding pass", "support ticket", "entrance"]
+  }
+}

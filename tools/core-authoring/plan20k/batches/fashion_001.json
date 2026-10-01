@@ -1,0 +1,482 @@
+[
+ {
+  "name": "crop-top",
+  "category": "fashion",
+  "draw": "Short sleeved T-shirt cut off well above the waist, showing a wide bare gap under the hem.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "turtleneck",
+  "category": "fashion",
+  "draw": "Long sleeved sweater front view with a tall folded collar rolled up around the neck.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "henley-shirt",
+  "category": "fashion",
+  "draw": "Long sleeved T-shirt with a round collarless neck and a short placket of three buttons.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "hawaiian-shirt",
+  "category": "fashion",
+  "draw": "Short sleeved camp collar shirt with an open V neck and two hibiscus flowers printed on the front.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "flannel-shirt",
+  "category": "fashion",
+  "draw": "Long sleeved button shirt with a plaid grid of crossing lines over the body.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "long-sleeve-shirt",
+  "category": "fashion",
+  "draw": "Plain crew neck T-shirt with full length sleeves reaching down past the hem.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "v-neck-shirt",
+  "category": "fashion",
+  "draw": "Short sleeved T-shirt with a deep V shaped neckline.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "raglan-shirt",
+  "category": "fashion",
+  "draw": "T-shirt with sleeves joined by diagonal seams running from the underarm up to the collar, sleeves shaded.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "rugby-shirt",
+  "category": "fashion",
+  "draw": "Long sleeved shirt with wide horizontal stripes, a white pointed collar and short button placket.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "breton-shirt",
+  "category": "fashion",
+  "draw": "Long sleeved boat neck top with thin evenly spaced horizontal stripes.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "tube-top",
+  "category": "fashion",
+  "draw": "Strapless straight band top, a short rectangle with a slight curve along the top edge.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "halter-top",
+  "category": "fashion",
+  "draw": "Sleeveless top with straps meeting behind the neck in a V, leaving bare shoulders.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "off-shoulder-top",
+  "category": "fashion",
+  "draw": "Top with a wide straight neckline sitting below the shoulders and short puffed sleeves at the upper arms.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "one-shoulder-top",
+  "category": "fashion",
+  "draw": "Top with a single strap and a diagonal neckline running from one shoulder to the opposite underarm.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "peplum-top",
+  "category": "fashion",
+  "draw": "Fitted sleeveless top with a short flared ruffle flaring out below the waist seam.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "corset",
+  "category": "fashion",
+  "draw": "Hourglass shaped bodice front view with vertical boning lines and criss cross lacing down the centre.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "bodysuit",
+  "category": "fashion",
+  "draw": "One piece long sleeved top that ends in a high cut brief at the hips, no legs.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "zip-hoodie",
+  "category": "fashion",
+  "draw": "Hooded jacket with a full length centre zipper, two drawstrings and front pockets.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "quarter-zip-pullover",
+  "category": "fashion",
+  "draw": "Long sleeved pullover with a stand collar and a short zipper running from the collar to mid chest.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "sweater-vest",
+  "category": "fashion",
+  "draw": "Sleeveless knit vest with a V neck, ribbed armholes and a diamond argyle pattern.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "guayabera",
+  "category": "fashion",
+  "draw": "Short sleeved shirt with four patch pockets and two vertical pleat lines down each side of the front.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "tie-dye-shirt",
+  "category": "fashion",
+  "draw": "T-shirt with a spiral swirl pattern radiating from the centre of the chest.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "referee-shirt",
+  "category": "fashion",
+  "draw": "Short sleeved collared shirt with bold black and white vertical stripes and a whistle on a cord.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "sailor-suit",
+  "category": "fashion",
+  "draw": "Top with a large square sailor collar with stripes flapping at the back and a neckerchief tied at the V.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "clerical-collar-shirt",
+  "category": "fashion",
+  "draw": "Dark shirt collar with a small white square tab at the front of the throat.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "tailcoat",
+  "category": "fashion",
+  "draw": "Formal coat front view that is cut short at the waist in front with two long tails hanging behind the legs.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "double-breasted-jacket",
+  "category": "fashion",
+  "draw": "Suit jacket with overlapping front panels and two vertical rows of three buttons.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "puffer-jacket",
+  "category": "fashion",
+  "draw": "Quilted jacket made of stacked horizontal puffy baffles and a high zipped collar.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "parka",
+  "category": "fashion",
+  "draw": "Long winter coat with a hood edged in a thick fur ruff and big flap pockets.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "denim-jacket",
+  "category": "fashion",
+  "draw": "Button jacket with a pointed collar, two flap chest pockets and dashed stitching lines.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "leather-jacket",
+  "category": "fashion",
+  "draw": "Biker jacket with an asymmetric diagonal zipper, wide lapels and a belted hem.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "varsity-jacket",
+  "category": "fashion",
+  "draw": "Jacket with contrasting shaded sleeves, striped ribbed cuffs and waistband and a letter patch on the chest.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "peacoat",
+  "category": "fashion",
+  "draw": "Short double breasted coat with a very wide collar and two rows of large buttons.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "duffle-coat",
+  "category": "fashion",
+  "draw": "Hooded coat fastened by three horizontal toggle pegs with rope loops.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "cape",
+  "category": "fashion",
+  "draw": "Short cloak hanging from the shoulders in a wide bell with a tied neck, no sleeves.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "cloak",
+  "category": "fashion",
+  "draw": "Long hooded cloak falling to the ground in folds with a round clasp at the throat.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "poncho",
+  "category": "fashion",
+  "draw": "Square poncho seen flat as a diamond with a neck opening in the middle and fringe along the edges.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "tracksuit",
+  "category": "fashion",
+  "draw": "Zip track jacket and matching pants side by side with two stripes down each sleeve and leg.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "scrubs",
+  "category": "fashion",
+  "draw": "Short sleeved V neck medical top with a chest pocket and a pen clipped in it.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "high-visibility-vest",
+  "category": "fashion",
+  "draw": "Sleeveless safety vest with two horizontal reflective stripes and two vertical shoulder stripes.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "hazmat-suit",
+  "category": "fashion",
+  "draw": "Full body protective suit with an attached hood, a large clear face visor and sealed gloves.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "graduation-gown",
+  "category": "fashion",
+  "draw": "Academic gown with wide bell sleeves, a front opening and a hood falling over the back.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "wetsuit",
+  "category": "fashion",
+  "draw": "Full body neoprene suit front view with long arms and legs and a zipper pull on the chest.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "jumpsuit",
+  "category": "fashion",
+  "draw": "One piece garment with long sleeves and long legs, a collar and a belted waist.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "romper",
+  "category": "fashion",
+  "draw": "One piece short sleeved top joined to short shorts, with a tie belt at the waist.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "baby-onesie",
+  "category": "fashion",
+  "draw": "Tiny short sleeved bodysuit with an envelope neckline and three snap dots at the crotch.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "nightgown",
+  "category": "fashion",
+  "draw": "Long loose sleeveless sleeping dress reaching the ankles with a gathered neckline.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "long-johns",
+  "category": "fashion",
+  "draw": "One piece thermal underwear with long sleeves, long legs and a button placket down the chest.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "waders",
+  "category": "fashion",
+  "draw": "Chest high waterproof pants with attached boots and adjustable shoulder straps.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "cargo-pants",
+  "category": "fashion",
+  "draw": "Trousers with a large flap pocket on the side of each thigh.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "sweatpants",
+  "category": "fashion",
+  "draw": "Loose trousers with a drawstring waistband and elastic cuffs gathered at the ankles.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "bell-bottoms",
+  "category": "fashion",
+  "draw": "Trousers fitted at the thigh that flare out very wide from the knee to the hem.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "ripped-jeans",
+  "category": "fashion",
+  "draw": "Jeans with jagged horizontal tears across both knees.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "harem-pants",
+  "category": "fashion",
+  "draw": "Very baggy trousers with a low drop crotch and legs gathered tightly at the ankles.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "jodhpurs",
+  "category": "fashion",
+  "draw": "Riding breeches that balloon out wide at the thighs and fit tight from the knee down.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "lederhosen",
+  "category": "fashion",
+  "draw": "Leather shorts with an H shaped pair of suspenders joined by a chest strap.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "kilt",
+  "category": "fashion",
+  "draw": "Knee length pleated skirt with a tartan grid, a side buckle strap and a sporran hanging in front.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "chaps",
+  "category": "fashion",
+  "draw": "Pair of leather leg coverings with a belt at the top and fringed outer edges, open at the seat.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "sarong",
+  "category": "fashion",
+  "draw": "Length of cloth wrapped around the hips and knotted at one side, falling to the ankle.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "hakama",
+  "category": "fashion",
+  "draw": "Wide pleated trousers that look like a long skirt, with ties wrapped around the waist.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "suspenders",
+  "category": "fashion",
+  "draw": "Two straps crossing in an X at the back and ending in metal clips at the bottom.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "garter",
+  "category": "fashion",
+  "draw": "Lace elastic band with a ruffled edge and a small bow.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "pencil-skirt",
+  "category": "fashion",
+  "draw": "Straight narrow skirt reaching the knee with a short back slit.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "tutu",
+  "category": "fashion",
+  "draw": "Ballet skirt made of stiff layered tulle sticking straight out horizontally around a waistband.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "hoop-skirt",
+  "category": "fashion",
+  "draw": "Bell shaped skirt with several horizontal hoop rings visible through it.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "grass-skirt",
+  "category": "fashion",
+  "draw": "Waistband with many long vertical strands of grass hanging down.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "ball-gown",
+  "category": "fashion",
+  "draw": "Gown with a fitted strapless bodice and a huge full skirt spreading to the floor.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "evening-gown",
+  "category": "fashion",
+  "draw": "Slim floor length gown with thin straps and a high slit up one leg.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "mermaid-gown",
+  "category": "fashion",
+  "draw": "Floor length gown fitted closely to the knee then flaring out wide like a fish tail.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "wedding-gown",
+  "category": "fashion",
+  "draw": "Long white gown with a sweetheart bodice, a full skirt and a long train trailing behind.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "wrap-dress",
+  "category": "fashion",
+  "draw": "Dress with a crossover V neckline and a tie bow at the side of the waist.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "flapper-dress",
+  "category": "fashion",
+  "draw": "Straight drop waist sleeveless dress covered in rows of hanging fringe.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "flamenco-dress",
+  "category": "fashion",
+  "draw": "Fitted dress that bursts into several tiers of ruffles from the knee down to the floor.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "qipao",
+  "category": "fashion",
+  "draw": "Fitted dress with a mandarin stand collar, a diagonal closure across the chest with knot buttons and side slits.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "ao-dai",
+  "category": "fashion",
+  "draw": "Long fitted tunic with a stand collar and side slits from the waist, worn over loose trousers.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "hanbok",
+  "category": "fashion",
+  "draw": "Very short jacket tied with a long ribbon bow over a full high waisted bell skirt.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "dirndl",
+  "category": "fashion",
+  "draw": "Laced bodice over a puff sleeved blouse, a full skirt and a front apron with a bow.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "kaftan",
+  "category": "fashion",
+  "draw": "Long loose robe with very wide sleeves and an embroidered band around a V neckline.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "abaya",
+  "category": "fashion",
+  "draw": "Long loose ankle length robe with long sleeves, open front and a plain collarless neck.",
+  "domain": "fashion-and-accessories"
+ },
+ {
+  "name": "thobe",
+  "category": "fashion",
+  "draw": "Ankle length long sleeved robe with a small collar and a short button placket at the chest.",
+  "domain": "fashion-and-accessories"
+ }
+]

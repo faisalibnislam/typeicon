@@ -1,0 +1,482 @@
+[
+ {
+  "name": "obliques",
+  "category": "anatomy",
+  "draw": "Front view torso with the angled side muscles along the waist drawn solid on both sides.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "armpit",
+  "category": "anatomy",
+  "draw": "Upper body with one arm raised overhead and the underarm hollow below the shoulder marked.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "shin",
+  "category": "anatomy",
+  "draw": "Lower leg in side view with the front edge of the shin between knee and ankle marked.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "forehead",
+  "category": "anatomy",
+  "draw": "Face in front view with the forehead above the eyebrows marked as a solid band.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "chin",
+  "category": "anatomy",
+  "draw": "Face in side profile with the tip of the chin marked.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "cheek",
+  "category": "anatomy",
+  "draw": "Face in front view with one round cheek area below the eye marked.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "foot-sole",
+  "category": "anatomy",
+  "draw": "Bottom of a bare foot seen from below, showing the heel pad, the arch curve and the toe pads.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "five-senses",
+  "category": "anatomy",
+  "draw": "Five small symbols arranged in a ring: an eye, an ear, a nose, a mouth and a hand.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sense-of-touch",
+  "category": "anatomy",
+  "draw": "Fingertip pressing a surface with small ripple lines, thin nerve branches drawn inside the finger.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "ear-nose-throat",
+  "category": "anatomy",
+  "draw": "Head in side profile with the ear, nose and throat passage drawn solid and the rest in outline.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sensory-overload",
+  "category": "anatomy",
+  "draw": "Head in side profile with many small arrows and zigzags pointing in at it from all sides.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "broken-bone",
+  "category": "anatomy",
+  "draw": "Single long bone snapped in two with a jagged break line and small crack marks at the break.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "osteoporosis",
+  "category": "anatomy",
+  "draw": "Bone end in cross-section with an inner honeycomb of large hollow holes.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "arthritis",
+  "category": "anatomy",
+  "draw": "Hand with swollen knobbly knuckles on bent fingers and small ache lines at the joints.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "gout",
+  "category": "anatomy",
+  "draw": "Foot in side view with the big toe joint swollen and small heat lines rising from it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "bunion",
+  "category": "anatomy",
+  "draw": "Foot seen from above with the big toe angled inward and a bony bump bulging at its base.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "scoliosis",
+  "category": "anatomy",
+  "draw": "Column of stacked vertebrae curving sideways in an S shape.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "herniated-disc",
+  "category": "anatomy",
+  "draw": "Two stacked vertebrae with the cushion disc between them bulging out past their edge.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "flat-feet",
+  "category": "anatomy",
+  "draw": "Footprint with no inner arch gap, filled in solid across its full width.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "muscle-cramp",
+  "category": "anatomy",
+  "draw": "Calf in side view with a knotted muscle bulge and small zigzag pain marks.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "torn-ligament",
+  "category": "anatomy",
+  "draw": "Knee joint bones joined by a band that is frayed and split in the middle.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "swelling",
+  "category": "anatomy",
+  "draw": "Puffy swollen hand with small outward arrows around its edge.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "hand-tremor",
+  "category": "anatomy",
+  "draw": "Hand held out flat with shaky doubled outlines and small motion marks on each side.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "tingling",
+  "category": "anatomy",
+  "draw": "Hand with small sparkle and dot marks around the fingertips, like pins and needles.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "fainting",
+  "category": "anatomy",
+  "draw": "Person falling backward with buckling knees and small swirl marks above the head.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "dizziness",
+  "category": "anatomy",
+  "draw": "Face in front view with spiral eyes and a small spiral orbiting above the head.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "chills",
+  "category": "anatomy",
+  "draw": "Person wrapped in a blanket with shaking lines on both sides and a small snowflake above.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "dehydration",
+  "category": "anatomy",
+  "draw": "Head in profile with a dry cracked mouth and an empty water drop outline beside it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "heatstroke",
+  "category": "anatomy",
+  "draw": "Head in profile under a blazing sun with sweat drops and wavy heat lines.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "frostbite",
+  "category": "anatomy",
+  "draw": "Fingers with darkened tips and a small snowflake beside them.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "contagion",
+  "category": "anatomy",
+  "draw": "Two heads facing each other with small germ dots passing through the air between them.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "headache",
+  "category": "anatomy",
+  "draw": "Head in front view with jagged pain lines around the temples and forehead.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "toothache",
+  "category": "anatomy",
+  "draw": "Face with a swollen cheek wrapped in a bandage knotted on top of the head.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "earache",
+  "category": "anatomy",
+  "draw": "Ear in side view with a small jagged pain burst inside the ear canal.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sore-throat",
+  "category": "anatomy",
+  "draw": "Chin and neck in front view with an inflamed spot on the throat and small pain rays.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "runny-nose",
+  "category": "anatomy",
+  "draw": "Nose in side profile with a drip falling from the nostril.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "nosebleed",
+  "category": "anatomy",
+  "draw": "Nose in side profile pinched at the bridge by two fingers, with drops falling from the nostril.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "hiccups",
+  "category": "anatomy",
+  "draw": "Head in profile with a small jolt mark at the throat and short bounce lines above the mouth.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "choking",
+  "category": "anatomy",
+  "draw": "Person with both hands clutching their throat, the universal choking sign.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "smoker-lungs",
+  "category": "anatomy",
+  "draw": "Pair of lungs with dark spots inside, and a cigarette with a smoke curl beside them.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "pneumonia",
+  "category": "anatomy",
+  "draw": "Pair of lungs with cloudy shaded patches filling their lower parts.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "heart-attack",
+  "category": "anatomy",
+  "draw": "Person clutching the chest with one hand, with a small jagged lightning mark over the heart.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "stroke",
+  "category": "anatomy",
+  "draw": "Brain in side view with a burst blood spot and a jagged crack in one area.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "epilepsy",
+  "category": "anatomy",
+  "draw": "Head in side profile with a lightning bolt drawn inside the brain area.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "concussion",
+  "category": "anatomy",
+  "draw": "Head with a bump on top and small stars circling above it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "stomach-ache",
+  "category": "anatomy",
+  "draw": "Person bent slightly forward holding the belly with both hands, small pain marks at the stomach.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "heartburn",
+  "category": "anatomy",
+  "draw": "Torso outline with the esophagus above the stomach and small flames rising up the esophagus.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "nausea",
+  "category": "anatomy",
+  "draw": "Face with a wavy queasy mouth, a hand raised near the lips and swirl lines on the cheek.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "vomiting",
+  "category": "anatomy",
+  "draw": "Face in profile with a stream spilling from the open mouth into a bowl below.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "kidney-stone",
+  "category": "anatomy",
+  "draw": "Kidney with a small jagged stone lodged in its drainage tube below.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "clogged-artery",
+  "category": "anatomy",
+  "draw": "Artery in round cross-section with a thick plaque layer narrowing the open channel to a small hole.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "blood-clot",
+  "category": "anatomy",
+  "draw": "Blood vessel segment with a tangled lump of mesh and cells blocking the inside.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "varicose-veins",
+  "category": "anatomy",
+  "draw": "Lower leg in side view with bulging twisted veins running down the calf.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "acne",
+  "category": "anatomy",
+  "draw": "Face in front view with a cluster of small raised bumps on the cheek and forehead.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "rash",
+  "category": "anatomy",
+  "draw": "Forearm with a patch of scattered small dots and short itch lines.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sunburn",
+  "category": "anatomy",
+  "draw": "Shoulders and upper back with a sun above and peeling skin flakes on the shoulders.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "blister",
+  "category": "anatomy",
+  "draw": "Back of a heel with a raised fluid-filled dome bubble on the skin.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "bruise",
+  "category": "anatomy",
+  "draw": "Forearm with an irregular round blotch and a fainter ring around it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "scar",
+  "category": "anatomy",
+  "draw": "Patch of skin with a long raised healed line and faint ladder marks across it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "wound",
+  "category": "anatomy",
+  "draw": "Forearm with an open gash and drops of blood below it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "burn-injury",
+  "category": "anatomy",
+  "draw": "Hand with a blistered patch on its back and small flame lines above it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "animal-bite",
+  "category": "anatomy",
+  "draw": "Forearm with a curved arc of small tooth marks.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "splinter",
+  "category": "anatomy",
+  "draw": "Fingertip with a thin wooden sliver stuck into the skin at an angle.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "itch",
+  "category": "anatomy",
+  "draw": "Forearm being scratched by the fingers of another hand, with short scratch lines.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "skin-mole",
+  "category": "anatomy",
+  "draw": "Patch of skin with a single dark raised mole, slightly irregular at its edge.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "wrinkles",
+  "category": "anatomy",
+  "draw": "Eye corner and forehead with several fine curved crease lines.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "vitiligo",
+  "category": "anatomy",
+  "draw": "Hand with irregular pale patches outlined across its back.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "cold-sore",
+  "category": "anatomy",
+  "draw": "Closed lips with a small cluster of blisters at one corner.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "chapped-lips",
+  "category": "anatomy",
+  "draw": "Lips with small vertical crack lines and a lifted flake at the edge.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "dry-skin",
+  "category": "anatomy",
+  "draw": "Patch of skin crossed by a network of fine crack lines and small curled flakes.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "oily-skin",
+  "category": "anatomy",
+  "draw": "Face in front view with shine marks and small oil drops on the forehead, nose and chin.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "chickenpox",
+  "category": "anatomy",
+  "draw": "Child's torso with many small round spots scattered across it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "freckles",
+  "category": "anatomy",
+  "draw": "Face in front view with a band of small dots across the nose and upper cheeks.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "stretch-marks",
+  "category": "anatomy",
+  "draw": "Hip and thigh outline with several parallel wavy streak lines.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "dark-circles",
+  "category": "anatomy",
+  "draw": "Tired eye with a dark half-moon shadow beneath it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "goosebumps",
+  "category": "anatomy",
+  "draw": "Forearm covered in small raised dots with tiny hairs standing up.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "split-ends",
+  "category": "anatomy",
+  "draw": "Single strand of hair whose end splits into two frayed tips.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "bad-breath",
+  "category": "anatomy",
+  "draw": "Open mouth in profile with wavy odor lines coming out.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "tooth-decay",
+  "category": "anatomy",
+  "draw": "Molar with a dark hole eaten into its top surface.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "loose-tooth",
+  "category": "anatomy",
+  "draw": "Front tooth tilted in the gum with small wiggle lines on each side.",
+  "domain": "anatomy-and-conditions"
+ }
+]

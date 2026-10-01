@@ -1,0 +1,1807 @@
+[
+ {
+  "name": "cello",
+  "category": "music",
+  "draw": "Upright cello body with narrow waist, f-holes, scroll at the top and a spike endpin touching the ground, a bow across the strings."
+ },
+ {
+  "name": "double-bass",
+  "category": "music",
+  "draw": "Very tall upright bass with sloped shoulders, f-holes, long neck with scroll and a short endpin, drawn taller than wide."
+ },
+ {
+  "name": "violin-bow",
+  "category": "music",
+  "draw": "Long thin straight bow stick with a frog block at one end and the hair drawn as a parallel line beneath."
+ },
+ {
+  "name": "lyre",
+  "category": "music",
+  "draw": "U-shaped frame with two curved arms joined by a crossbar at the top and five vertical strings to a small sound box."
+ },
+ {
+  "name": "lute",
+  "category": "music",
+  "draw": "Pear-shaped rounded body with a rosette sound hole, short neck and a pegbox bent back sharply at a right angle."
+ },
+ {
+  "name": "mandolin",
+  "category": "music",
+  "draw": "Small teardrop body with an oval sound hole, short fretted neck and a flat headstock with side tuners."
+ },
+ {
+  "name": "banjo",
+  "category": "music",
+  "draw": "Round drum-head body with a ring of brackets, long fretted neck and a short fifth-string peg halfway up the neck."
+ },
+ {
+  "name": "ukulele",
+  "category": "music",
+  "draw": "Small figure-eight guitar body with a round sound hole, short neck and four tuning pegs, compact proportions."
+ },
+ {
+  "name": "bass-guitar",
+  "category": "music",
+  "draw": "Offset double-cutaway electric body with an extra-long neck and four large tuners in a row on the headstock."
+ },
+ {
+  "name": "double-neck-guitar",
+  "category": "music",
+  "draw": "Electric guitar body with two parallel necks side by side rising from one body."
+ },
+ {
+  "name": "resonator-guitar",
+  "category": "music",
+  "draw": "Acoustic guitar body with a large round perforated metal cover plate in the middle instead of a sound hole."
+ },
+ {
+  "name": "balalaika",
+  "category": "music",
+  "draw": "Triangular body with a small sound hole, long thin neck and three tuning pegs."
+ },
+ {
+  "name": "sitar",
+  "category": "music",
+  "draw": "Long wide neck with curved frets, a large round gourd at the bottom and a second smaller gourd at the top."
+ },
+ {
+  "name": "erhu",
+  "category": "music",
+  "draw": "Two-string Chinese fiddle: small hexagonal drum body at the bottom of a tall thin vertical neck with two pegs and a bow."
+ },
+ {
+  "name": "guzheng",
+  "category": "music",
+  "draw": "Long flat curved-top zither seen from above at an angle, many strings with a diagonal row of small bridges."
+ },
+ {
+  "name": "shamisen",
+  "category": "music",
+  "draw": "Small square body with rounded corners, long thin neck, three pegs at the top and a wide fan-shaped plectrum beside it."
+ },
+ {
+  "name": "kora",
+  "category": "music",
+  "draw": "Large round half-gourd body with a very tall neck rising through it and many strings fanning to a central bridge."
+ },
+ {
+  "name": "zither",
+  "category": "music",
+  "draw": "Flat trapezoid box seen from above with a round sound hole, a fretboard strip on one side and many parallel strings."
+ },
+ {
+  "name": "hammered-dulcimer",
+  "category": "music",
+  "draw": "Trapezoid box seen from above with many strings across two bridges and two small spoon-shaped hammers."
+ },
+ {
+  "name": "appalachian-dulcimer",
+  "category": "music",
+  "draw": "Long narrow hourglass-shaped body seen from above with a raised fretboard down the centre and heart sound holes."
+ },
+ {
+  "name": "hurdy-gurdy",
+  "category": "music",
+  "draw": "Lute-like body with a crank handle at the tail end and a box of keys along the neck."
+ },
+ {
+  "name": "morin-khuur",
+  "category": "music",
+  "draw": "Trapezoid box body with a long neck topped by a carved horse head and two strings, with a bow."
+ },
+ {
+  "name": "ektara",
+  "category": "music",
+  "draw": "One-string instrument: round gourd resonator with a bamboo neck split into two arms holding a single peg at the top."
+ },
+ {
+  "name": "berimbau",
+  "category": "music",
+  "draw": "Tall curved wooden bow with a single wire string and a round gourd resonator tied near the lower end."
+ },
+ {
+  "name": "valiha",
+  "category": "music",
+  "draw": "Vertical bamboo tube with strings running along its length held up by small bridges, showing the tube nodes."
+ },
+ {
+  "name": "cigar-box-guitar",
+  "category": "music",
+  "draw": "Rectangular box body with a stick neck through it, three strings and a few simple sound holes."
+ },
+ {
+  "name": "washtub-bass",
+  "category": "music",
+  "draw": "Upturned round washtub with a broom handle standing on its rim and a single string from the top of the stick to the tub."
+ },
+ {
+  "name": "musical-saw",
+  "category": "music",
+  "draw": "Handsaw bent into a gentle S curve with a violin bow touching its smooth back edge."
+ },
+ {
+  "name": "harpsichord",
+  "category": "music",
+  "draw": "Wing-shaped case seen from above with two stacked keyboards at the straight end and a raised lid."
+ },
+ {
+  "name": "upright-piano",
+  "category": "music",
+  "draw": "Front view of a tall rectangular piano cabinet with a keyboard strip across the middle and pedals below."
+ },
+ {
+  "name": "pipe-organ",
+  "category": "music",
+  "draw": "Front view of a row of organ pipes rising in a symmetrical fan above a console with keyboards."
+ },
+ {
+  "name": "harmonium",
+  "category": "music",
+  "draw": "Box with a keyboard on top, a hinged bellows flap at the back and a row of stop knobs on the front."
+ },
+ {
+  "name": "concertina",
+  "category": "music",
+  "draw": "Hexagonal end boxes with button grids joined by a pleated zigzag bellows."
+ },
+ {
+  "name": "melodica",
+  "category": "music",
+  "draw": "Small keyboard strip on a narrow body with a flexible mouthpiece tube coming from one end."
+ },
+ {
+  "name": "synthesizer",
+  "category": "music",
+  "draw": "Wide keyboard with a panel of knobs and sliders above the keys and a small display."
+ },
+ {
+  "name": "modular-synthesizer",
+  "category": "music",
+  "draw": "Rack panel of small modules with rows of knobs and jack holes connected by looping patch cables."
+ },
+ {
+  "name": "keytar",
+  "category": "music",
+  "draw": "Keyboard shaped like a guitar with keys along a body and a neck with a strap button, slung at an angle."
+ },
+ {
+  "name": "theremin",
+  "category": "music",
+  "draw": "Small cabinet with a vertical antenna rod on one side and a horizontal loop antenna on the other."
+ },
+ {
+  "name": "piano-pedals",
+  "category": "music",
+  "draw": "Three brass pedals side by side at the base of a piano, the middle one slightly lower."
+ },
+ {
+  "name": "clarinet",
+  "category": "music",
+  "draw": "Straight black tube with a mouthpiece and reed at the top, silver keys along the body and a small flared bell."
+ },
+ {
+  "name": "oboe",
+  "category": "music",
+  "draw": "Thin conical tube narrowing to a tiny double reed at the top, keys along the body and no flared bell."
+ },
+ {
+  "name": "bassoon",
+  "category": "music",
+  "draw": "Tall wooden tube with a thin curved metal crook near the top holding the reed, drawn diagonally."
+ },
+ {
+  "name": "recorder",
+  "category": "music",
+  "draw": "Straight wooden recorder with a beak-shaped mouthpiece, a window notch and a row of finger holes."
+ },
+ {
+  "name": "pan-flute",
+  "category": "music",
+  "draw": "Row of tube pipes bound together with a band, lengths stepping down from long to short."
+ },
+ {
+  "name": "ocarina",
+  "category": "music",
+  "draw": "Rounded egg-shaped vessel flute with a short mouthpiece nub and a few finger holes on top."
+ },
+ {
+  "name": "harmonica",
+  "category": "music",
+  "draw": "Long flat rectangle with a row of square holes along the front edge and metal cover plates."
+ },
+ {
+  "name": "bagpipes",
+  "category": "music",
+  "draw": "Round bag with three drone pipes rising diagonally, a blowpipe and a chanter pipe hanging below."
+ },
+ {
+  "name": "didgeridoo",
+  "category": "music",
+  "draw": "Very long slightly irregular wooden tube drawn diagonally, flaring a little at the far end with simple dot patterns."
+ },
+ {
+  "name": "shakuhachi",
+  "category": "music",
+  "draw": "End-blown bamboo flute with visible nodes, an angled notch at the top and a bulbous root end."
+ },
+ {
+  "name": "shawm",
+  "category": "music",
+  "draw": "Conical wooden pipe with a flared trumpet bell, a disc near the top and a short reed."
+ },
+ {
+  "name": "crumhorn",
+  "category": "music",
+  "draw": "Narrow wind pipe with the lower end curved up into a J hook and a capped top."
+ },
+ {
+  "name": "serpent-horn",
+  "category": "music",
+  "draw": "Wind instrument tube winding in a tall S snake shape with a mouthpiece at the top and finger holes."
+ },
+ {
+  "name": "sheng",
+  "category": "music",
+  "draw": "Chinese mouth organ: cluster of vertical bamboo pipes of varied heights rising from a round cup with a mouthpiece."
+ },
+ {
+  "name": "hulusi",
+  "category": "music",
+  "draw": "Gourd with a round bulb on top and three bamboo pipes coming out of the bottom."
+ },
+ {
+  "name": "pitch-pipe",
+  "category": "music",
+  "draw": "Round disc with pipe holes around the edge and a mouthpiece hole."
+ },
+ {
+  "name": "trombone",
+  "category": "music",
+  "draw": "Brass trombone side view with a long U-shaped slide, a mouthpiece and a flared bell facing forward."
+ },
+ {
+  "name": "french-horn",
+  "category": "music",
+  "draw": "Circular coiled brass tubing with rotary valves in the middle and a wide flared bell."
+ },
+ {
+  "name": "tuba",
+  "category": "music",
+  "draw": "Large upright brass instrument with coiled tubing, three valves and a huge bell pointing up."
+ },
+ {
+  "name": "sousaphone",
+  "category": "music",
+  "draw": "Brass tubing wrapping in a big circle with an enormous bell facing forward over the top."
+ },
+ {
+  "name": "bugle",
+  "category": "music",
+  "draw": "Simple brass horn with one loop of tubing, no valves and a flared bell."
+ },
+ {
+  "name": "hunting-horn",
+  "category": "music",
+  "draw": "Brass horn coiled into a round ring with a flared bell and a small mouthpiece."
+ },
+ {
+  "name": "alphorn",
+  "category": "music",
+  "draw": "Extremely long straight wooden horn resting on the ground with an upturned bell at the far end."
+ },
+ {
+  "name": "shofar",
+  "category": "music",
+  "draw": "Curved ram's horn with a twisting spiral shape, narrow mouth end and wider open end."
+ },
+ {
+  "name": "carnyx",
+  "category": "music",
+  "draw": "Tall vertical war trumpet topped with an open-mouthed animal head bell."
+ },
+ {
+  "name": "vuvuzela",
+  "category": "music",
+  "draw": "Long straight plastic horn that widens steadily into a large flared bell."
+ },
+ {
+  "name": "air-horn",
+  "category": "music",
+  "draw": "Aerosol can with a red trumpet horn on top and sound arcs from the horn opening."
+ },
+ {
+  "name": "jaw-harp",
+  "category": "music",
+  "draw": "Small metal horseshoe frame with a thin springy tongue running through the middle and bent at the tip."
+ },
+ {
+  "name": "bullroarer",
+  "category": "music",
+  "draw": "Flat pointed wooden slat on a long cord swung in a circle, with motion arcs."
+ },
+ {
+  "name": "bass-drum",
+  "category": "music",
+  "draw": "Front view of a large round drum head with tension rods around the rim and a pedal beater below."
+ },
+ {
+  "name": "drum-kit",
+  "category": "music",
+  "draw": "Set of a bass drum in front, two tom drums on top, a snare and a cymbal on a stand."
+ },
+ {
+  "name": "timpani",
+  "category": "music",
+  "draw": "Large copper kettle-shaped bowl drum on legs with a flat head and a mallet resting on it."
+ },
+ {
+  "name": "congas",
+  "category": "music",
+  "draw": "Two tall barrel-shaped drums with wide heads standing next to each other."
+ },
+ {
+  "name": "djembe",
+  "category": "music",
+  "draw": "Goblet-shaped drum with a wide head, a narrow waist and diamond rope lacing down the body."
+ },
+ {
+  "name": "tabla",
+  "category": "music",
+  "draw": "Pair of drums: a small tall wooden drum and a larger rounded metal drum, each with a dark centre spot."
+ },
+ {
+  "name": "dhol",
+  "category": "music",
+  "draw": "Horizontal barrel drum with rope lacing along the body and a curved stick beside it."
+ },
+ {
+  "name": "cajon",
+  "category": "music",
+  "draw": "Wooden box drum with a round sound hole on the back side, drawn at a three quarter view."
+ },
+ {
+  "name": "taiko",
+  "category": "music",
+  "draw": "Large barrel drum with studs around the head on a wooden stand, with two thick sticks."
+ },
+ {
+  "name": "frame-drum",
+  "category": "music",
+  "draw": "Wide shallow round drum with a thin wooden rim and a short double-ended tipper stick."
+ },
+ {
+  "name": "talking-drum",
+  "category": "music",
+  "draw": "Hourglass drum with many cords running from head to head and a curved beater."
+ },
+ {
+  "name": "steelpan",
+  "category": "music",
+  "draw": "Round shallow steel pan seen from above with dimpled note segments on its surface and two sticks."
+ },
+ {
+  "name": "gong",
+  "category": "music",
+  "draw": "Large round disc gong with a raised centre boss hanging in a wooden frame with a mallet."
+ },
+ {
+  "name": "cymbal",
+  "category": "music",
+  "draw": "Side view of a thin cymbal dome with a small cup on a stand rod."
+ },
+ {
+  "name": "hi-hat",
+  "category": "music",
+  "draw": "Two cymbals facing each other on a tall stand with a foot pedal at the base."
+ },
+ {
+  "name": "triangle-instrument",
+  "category": "music",
+  "draw": "Metal rod bent into a triangle open at one corner, hanging from a string loop with a beater."
+ },
+ {
+  "name": "maracas",
+  "category": "music",
+  "draw": "Two oval rattles on straight handles crossed at the handles."
+ },
+ {
+  "name": "castanets",
+  "category": "music",
+  "draw": "Two shell-shaped wooden clappers joined by a cord loop at the top."
+ },
+ {
+  "name": "claves",
+  "category": "music",
+  "draw": "Two short round wooden sticks crossed in an X with small strike lines."
+ },
+ {
+  "name": "guiro",
+  "category": "music",
+  "draw": "Long hollow gourd with rows of parallel ridges cut across it and a thin scraper stick."
+ },
+ {
+  "name": "cabasa",
+  "category": "music",
+  "draw": "Round cylinder wrapped in rows of steel beads on a straight handle."
+ },
+ {
+  "name": "shekere",
+  "category": "music",
+  "draw": "Round gourd with a narrow neck covered in a net of beads."
+ },
+ {
+  "name": "rain-stick",
+  "category": "music",
+  "draw": "Long closed tube with a spiral pattern and falling dot lines inside."
+ },
+ {
+  "name": "tubular-bells",
+  "category": "music",
+  "draw": "Frame holding a row of hanging metal tubes of stepped lengths with a hammer."
+ },
+ {
+  "name": "sleigh-bells",
+  "category": "music",
+  "draw": "Leather strap with a row of round jingle bells each with a slit."
+ },
+ {
+  "name": "agogo-bells",
+  "category": "music",
+  "draw": "Two cone-shaped bells of different sizes joined by a bent U handle."
+ },
+ {
+  "name": "wood-block",
+  "category": "music",
+  "draw": "Rectangular hollow wooden block with a slot cut along one side and a stick."
+ },
+ {
+  "name": "slit-drum",
+  "category": "music",
+  "draw": "Hollow log lying on its side with a long narrow slit on top and two tongues."
+ },
+ {
+  "name": "washboard-instrument",
+  "category": "music",
+  "draw": "Corrugated metal washboard in a wooden frame worn on the chest with thimbles over it."
+ },
+ {
+  "name": "finger-cymbals",
+  "category": "music",
+  "draw": "Two small round cymbals with a centre hole each tied by a loop of elastic."
+ },
+ {
+  "name": "handpan",
+  "category": "music",
+  "draw": "Side view of two joined steel domes like a flying saucer with a raised centre note on top."
+ },
+ {
+  "name": "steel-tongue-drum",
+  "category": "music",
+  "draw": "Top view of a round steel drum with tongue shapes cut into its surface around the centre."
+ },
+ {
+  "name": "udu",
+  "category": "music",
+  "draw": "Round clay pot drum with a narrow neck opening on top and a second hole on its side."
+ },
+ {
+  "name": "damaru",
+  "category": "music",
+  "draw": "Small hourglass drum with two heads and two knotted cords hanging from the waist."
+ },
+ {
+  "name": "bonang",
+  "category": "music",
+  "draw": "Row of small kettle gongs with raised nipples sitting on cords in a wooden frame."
+ },
+ {
+  "name": "angklung",
+  "category": "music",
+  "draw": "Bamboo frame holding two vertical bamboo tubes of different heights with cut tongues."
+ },
+ {
+  "name": "kalimba",
+  "category": "music",
+  "draw": "Rectangular wooden board with a round sound hole and a fan of metal tines of different lengths."
+ },
+ {
+  "name": "balafon",
+  "category": "music",
+  "draw": "Row of wooden bars over a frame with round gourd resonators hanging underneath."
+ },
+ {
+  "name": "vibraslap",
+  "category": "music",
+  "draw": "Bent metal rod with a wooden ball at one end and a hollow box with rattling teeth at the other."
+ },
+ {
+  "name": "pellet-drum",
+  "category": "music",
+  "draw": "Small two-headed hand drum on a stick handle with two beads on cords at the sides."
+ },
+ {
+  "name": "egg-shaker",
+  "category": "music",
+  "draw": "Egg-shaped shaker with a few motion arcs beside it."
+ },
+ {
+  "name": "drum-pad",
+  "category": "music",
+  "draw": "Square controller with a four by four grid of rubber pads and a few knobs above."
+ },
+ {
+  "name": "drum-machine",
+  "category": "music",
+  "draw": "Box with a row of step buttons along the front, a small screen and a few knobs."
+ },
+ {
+  "name": "sistrum",
+  "category": "music",
+  "draw": "Ancient rattle with a looped metal frame on a handle and loose rods threaded with jingles."
+ },
+ {
+  "name": "wooden-fish-drum",
+  "category": "music",
+  "draw": "Round hollow wooden block carved like a curled fish with a slit mouth and a small mallet."
+ },
+ {
+  "name": "glass-harp",
+  "category": "music",
+  "draw": "Row of wine glasses filled to different water levels with a finger on one rim."
+ },
+ {
+  "name": "bell-lyre",
+  "category": "music",
+  "draw": "Marching glockenspiel: lyre-shaped frame holding metal bars in a row with a pole handle below."
+ },
+ {
+  "name": "ghungroo",
+  "category": "music",
+  "draw": "Ankle band strap covered in rows of small round brass bells."
+ },
+ {
+  "name": "drum-mallet",
+  "category": "music",
+  "draw": "Stick with a round felt ball head at one end."
+ },
+ {
+  "name": "kick-drum-pedal",
+  "category": "music",
+  "draw": "Foot pedal plate with a hinged arm and a beater head at the top."
+ },
+ {
+  "name": "treble-clef",
+  "category": "music",
+  "draw": "Treble clef symbol: tall looping G clef spiral curling around the second staff line."
+ },
+ {
+  "name": "bass-clef",
+  "category": "music",
+  "draw": "Bass clef symbol: backwards C curl with two dots to its right."
+ },
+ {
+  "name": "alto-clef",
+  "category": "music",
+  "draw": "Alto C clef: two thick vertical bars beside two stacked backwards-C curves pointing to the middle."
+ },
+ {
+  "name": "percussion-clef",
+  "category": "music",
+  "draw": "Two short thick vertical bars side by side on a five-line staff."
+ },
+ {
+  "name": "sharp-sign",
+  "category": "music",
+  "draw": "Music sharp sign: two vertical strokes crossed by two slanted thick horizontal strokes."
+ },
+ {
+  "name": "flat-sign",
+  "category": "music",
+  "draw": "Music flat sign: tall vertical stroke with a small rounded bowl at the bottom right."
+ },
+ {
+  "name": "natural-sign",
+  "category": "music",
+  "draw": "Music natural sign: two offset vertical strokes joined by two slanted parallel bars forming a box."
+ },
+ {
+  "name": "double-sharp",
+  "category": "music",
+  "draw": "Music double sharp symbol: small bold X with square ends."
+ },
+ {
+  "name": "double-flat",
+  "category": "music",
+  "draw": "Music double flat: two flat signs side by side."
+ },
+ {
+  "name": "whole-note",
+  "category": "music",
+  "draw": "Open oval note head tilted slightly, no stem."
+ },
+ {
+  "name": "half-note",
+  "category": "music",
+  "draw": "Open oval note head with a straight stem rising from its right side."
+ },
+ {
+  "name": "quarter-note",
+  "category": "music",
+  "draw": "Filled oval note head with a straight stem and no flag."
+ },
+ {
+  "name": "whole-rest",
+  "category": "music",
+  "draw": "Small filled rectangle hanging below a horizontal staff line."
+ },
+ {
+  "name": "half-rest",
+  "category": "music",
+  "draw": "Small filled rectangle sitting on top of a horizontal staff line."
+ },
+ {
+  "name": "quarter-rest",
+  "category": "music",
+  "draw": "Zigzag quarter rest symbol with a hooked curl at the bottom."
+ },
+ {
+  "name": "eighth-rest",
+  "category": "music",
+  "draw": "Eighth rest symbol: slanted stroke with a small dot and hook at the top."
+ },
+ {
+  "name": "fermata",
+  "category": "music",
+  "draw": "Semicircle arch with a dot under its middle."
+ },
+ {
+  "name": "repeat-sign",
+  "category": "music",
+  "draw": "Thin and thick vertical barlines with two dots stacked on their left."
+ },
+ {
+  "name": "volta-bracket",
+  "category": "music",
+  "draw": "Horizontal bracket over staff lines with a hook down at the left and a number 1 inside."
+ },
+ {
+  "name": "coda-sign",
+  "category": "music",
+  "draw": "Circle crossed by a vertical line and a horizontal line extending past the edge."
+ },
+ {
+  "name": "segno",
+  "category": "music",
+  "draw": "Slanted S shape crossed by a diagonal line with a dot on each side."
+ },
+ {
+  "name": "crescendo",
+  "category": "music",
+  "draw": "Hairpin of two lines opening from a point on the left to wide on the right."
+ },
+ {
+  "name": "decrescendo",
+  "category": "music",
+  "draw": "Hairpin of two lines starting wide on the left and closing to a point on the right."
+ },
+ {
+  "name": "dynamic-forte",
+  "category": "music",
+  "draw": "Bold italic script letter f as used for a forte dynamic marking."
+ },
+ {
+  "name": "dynamic-piano",
+  "category": "music",
+  "draw": "Bold italic script letter p as used for a piano dynamic marking."
+ },
+ {
+  "name": "slur-mark",
+  "category": "music",
+  "draw": "Two note heads connected by a long gentle curved arc above them."
+ },
+ {
+  "name": "trill-mark",
+  "category": "music",
+  "draw": "Italic tr letters followed by a wavy line to the right."
+ },
+ {
+  "name": "mordent",
+  "category": "music",
+  "draw": "Short zigzag squiggle with a vertical line through its middle."
+ },
+ {
+  "name": "turn-ornament",
+  "category": "music",
+  "draw": "Sideways S curl lying horizontally above a note."
+ },
+ {
+  "name": "glissando",
+  "category": "music",
+  "draw": "Wavy line sliding diagonally between a low note and a high note."
+ },
+ {
+  "name": "grace-note",
+  "category": "music",
+  "draw": "Small note with a slash through its stem next to a normal size note."
+ },
+ {
+  "name": "triplet-notes",
+  "category": "music",
+  "draw": "Three beamed notes with a small bracket above marked with the number 3."
+ },
+ {
+  "name": "breath-mark",
+  "category": "music",
+  "draw": "Comma-shaped breath mark above the top staff line."
+ },
+ {
+  "name": "caesura",
+  "category": "music",
+  "draw": "Two short parallel slanted lines crossing the top of the staff."
+ },
+ {
+  "name": "final-barline",
+  "category": "music",
+  "draw": "A thin vertical line next to a thick vertical line ending a five-line staff."
+ },
+ {
+  "name": "key-signature",
+  "category": "music",
+  "draw": "Five-line staff with a treble clef followed by three sharp signs."
+ },
+ {
+  "name": "time-signature",
+  "category": "music",
+  "draw": "Two stacked numbers 4 over 4 on a five-line staff."
+ },
+ {
+  "name": "common-time",
+  "category": "music",
+  "draw": "Large C shaped time signature on a five-line staff."
+ },
+ {
+  "name": "cut-time",
+  "category": "music",
+  "draw": "Large C time signature with a vertical line struck through it."
+ },
+ {
+  "name": "pedal-marking",
+  "category": "music",
+  "draw": "Script Ped. text followed by an asterisk-like release mark."
+ },
+ {
+  "name": "octave-marking",
+  "category": "music",
+  "draw": "Small 8va text followed by a dashed line with a hook at the end."
+ },
+ {
+  "name": "tempo-marking",
+  "category": "music",
+  "draw": "Quarter note symbol followed by an equals sign and the number 120."
+ },
+ {
+  "name": "accent-mark",
+  "category": "music",
+  "draw": "Wide sideways V accent above a filled note head."
+ },
+ {
+  "name": "arpeggio-mark",
+  "category": "music",
+  "draw": "Vertical wavy line to the left of a stacked chord of three note heads."
+ },
+ {
+  "name": "tremolo-mark",
+  "category": "music",
+  "draw": "Note stem crossed by three short slanted slashes."
+ },
+ {
+  "name": "music-staff",
+  "category": "music",
+  "draw": "Five evenly spaced horizontal lines with a short barline at each end."
+ },
+ {
+  "name": "grand-staff",
+  "category": "music",
+  "draw": "Two five-line staves joined on the left by a curly brace."
+ },
+ {
+  "name": "chord-diagram",
+  "category": "music",
+  "draw": "Guitar chord grid of six vertical strings and frets with three dots marking finger positions."
+ },
+ {
+  "name": "tablature",
+  "category": "music",
+  "draw": "Six horizontal lines with fret numbers placed on them and the letters TAB at the left."
+ },
+ {
+  "name": "sheet-music",
+  "category": "music",
+  "draw": "Page with two staves of notes and a small title line at the top."
+ },
+ {
+  "name": "circle-of-fifths",
+  "category": "music",
+  "draw": "Ring divided into twelve segments with a letter C at the top and a centre dot."
+ },
+ {
+  "name": "piano-roll",
+  "category": "music",
+  "draw": "Grid with a small keyboard down the left edge and horizontal note bars of varied lengths."
+ },
+ {
+  "name": "music-composition",
+  "category": "music",
+  "draw": "Quill pen writing notes onto a five-line staff."
+ },
+ {
+  "name": "songbook",
+  "category": "music",
+  "draw": "Closed book with a music note on the cover and a ribbon bookmark."
+ },
+ {
+  "name": "lyrics",
+  "category": "music",
+  "draw": "Three text lines of varied length with a small music note in the top corner."
+ },
+ {
+  "name": "music-stand",
+  "category": "music",
+  "draw": "Tall folding stand with a tilted slatted ledge holding a page on a tripod base."
+ },
+ {
+  "name": "conductor-baton",
+  "category": "music",
+  "draw": "Thin tapering white stick with a pear-shaped cork handle."
+ },
+ {
+  "name": "guitar-pick",
+  "category": "music",
+  "draw": "Rounded triangular plectrum shape with a small grip texture."
+ },
+ {
+  "name": "capo",
+  "category": "music",
+  "draw": "Clamp bar across a guitar neck with a curved spring arm wrapped behind."
+ },
+ {
+  "name": "guitar-case",
+  "category": "music",
+  "draw": "Hard case in the silhouette of a guitar with a handle and two latches."
+ },
+ {
+  "name": "violin-case",
+  "category": "music",
+  "draw": "Oblong violin case wider at one end with a carry handle and a zip line."
+ },
+ {
+  "name": "guitar-stand",
+  "category": "music",
+  "draw": "A-frame folding stand with a curved neck cradle at the top."
+ },
+ {
+  "name": "rosin",
+  "category": "music",
+  "draw": "Small round cake of rosin in a cloth wrapper with a scuffed groove on top."
+ },
+ {
+  "name": "woodwind-reed",
+  "category": "music",
+  "draw": "Thin flat cane reed tapering to a curved tip with a cut vamp line."
+ },
+ {
+  "name": "brass-mouthpiece",
+  "category": "music",
+  "draw": "Small cup-shaped metal mouthpiece with a round rim and a tapering shank."
+ },
+ {
+  "name": "trumpet-mute",
+  "category": "music",
+  "draw": "Cone-shaped straight mute with cork strips near the narrow end."
+ },
+ {
+  "name": "guitar-tuner",
+  "category": "music",
+  "draw": "Clip-on tuner with a spring clip and a small round screen showing a needle."
+ },
+ {
+  "name": "guitar-slide",
+  "category": "music",
+  "draw": "Short glass bottleneck tube worn on a finger across guitar strings."
+ },
+ {
+  "name": "patch-cable",
+  "category": "music",
+  "draw": "Short cable with a straight jack plug at each end, looped in a curve."
+ },
+ {
+  "name": "midi-connector",
+  "category": "music",
+  "draw": "Round DIN plug face with five pins arranged in a semicircle and a key notch."
+ },
+ {
+  "name": "di-box",
+  "category": "music",
+  "draw": "Small metal box with a jack input on one side and an XLR output on the other and a switch."
+ },
+ {
+  "name": "condenser-microphone",
+  "category": "music",
+  "draw": "Large side-address studio microphone with a mesh capsule held in a spider shock mount."
+ },
+ {
+  "name": "shotgun-microphone",
+  "category": "music",
+  "draw": "Long thin tube microphone with slotted sides and a pistol grip."
+ },
+ {
+  "name": "lavalier-microphone",
+  "category": "music",
+  "draw": "Tiny clip-on microphone with a small clip and a thin cable."
+ },
+ {
+  "name": "boom-microphone",
+  "category": "music",
+  "draw": "Microphone in a fluffy windscreen on the end of a long boom pole."
+ },
+ {
+  "name": "gooseneck-microphone",
+  "category": "music",
+  "draw": "Microphone on a long flexible curved neck rising from a small base."
+ },
+ {
+  "name": "mic-boom-arm",
+  "category": "music",
+  "draw": "Articulated desk arm with springs, clamped to a table edge and holding a microphone."
+ },
+ {
+  "name": "pop-filter",
+  "category": "music",
+  "draw": "Round mesh screen on a flexible gooseneck placed in front of a microphone."
+ },
+ {
+  "name": "microphone-windscreen",
+  "category": "music",
+  "draw": "Furry windscreen cover over a microphone with long shaggy fibres."
+ },
+ {
+  "name": "vocal-booth",
+  "category": "music",
+  "draw": "Curved half-shell reflection shield behind a microphone on a stand."
+ },
+ {
+  "name": "acoustic-panel",
+  "category": "music",
+  "draw": "Square foam panel with a pattern of wedges or pyramids."
+ },
+ {
+  "name": "on-air-sign",
+  "category": "music",
+  "draw": "Rounded rectangle lit sign with the words ON AIR."
+ },
+ {
+  "name": "audio-interface",
+  "category": "music",
+  "draw": "Small box with two combo inputs, gain knobs and a large volume knob on top."
+ },
+ {
+  "name": "dj-controller",
+  "category": "music",
+  "draw": "Wide controller with two round jog wheels at the sides and faders between them."
+ },
+ {
+  "name": "effects-pedal",
+  "category": "music",
+  "draw": "Stomp box pedal with two knobs on top, a footswitch and a small LED."
+ },
+ {
+  "name": "wah-pedal",
+  "category": "music",
+  "draw": "Rocker foot pedal with a hinged treadle on a shaped base."
+ },
+ {
+  "name": "guitar-amplifier",
+  "category": "music",
+  "draw": "Combo amp box with a speaker grille on the front and a row of knobs on top."
+ },
+ {
+  "name": "amp-stack",
+  "category": "music",
+  "draw": "Amplifier head sitting on a tall speaker cabinet with four round speakers."
+ },
+ {
+  "name": "pa-speaker",
+  "category": "music",
+  "draw": "Trapezoid speaker cabinet on top of a tripod pole stand."
+ },
+ {
+  "name": "stage-monitor-wedge",
+  "category": "music",
+  "draw": "Wedge-shaped floor speaker angled up with a round cone on the sloped face."
+ },
+ {
+  "name": "line-array",
+  "category": "music",
+  "draw": "Stack of flat speaker cabinets hanging in a gentle J curve from a rigging bar."
+ },
+ {
+  "name": "speaker-driver",
+  "category": "music",
+  "draw": "Front view of a single speaker cone with a surround ring and a dust cap in the centre."
+ },
+ {
+  "name": "tape-deck",
+  "category": "music",
+  "draw": "Horizontal stereo cassette deck with a cassette door window and control buttons."
+ },
+ {
+  "name": "stereo-system",
+  "category": "music",
+  "draw": "Stacked hi-fi components flanked by two tall speakers."
+ },
+ {
+  "name": "record-crate",
+  "category": "music",
+  "draw": "Wooden crate filled with vinyl record sleeves standing upright."
+ },
+ {
+  "name": "record-needle",
+  "category": "music",
+  "draw": "Tonearm tip with a cartridge and a stylus touching the grooves of a record."
+ },
+ {
+  "name": "vu-meter",
+  "category": "music",
+  "draw": "Rectangular analog meter window with an arched scale and a needle."
+ },
+ {
+  "name": "field-recorder",
+  "category": "music",
+  "draw": "Handheld recorder with two crossed microphones on top and a small screen."
+ },
+ {
+  "name": "audio-knob",
+  "category": "music",
+  "draw": "Round rotary knob with a pointer line and a scale of ticks around it."
+ },
+ {
+  "name": "audio-fader",
+  "category": "music",
+  "draw": "Vertical slot track with a rectangular fader cap and level ticks at the side."
+ },
+ {
+  "name": "audio-balance",
+  "category": "music",
+  "draw": "Horizontal slider between letters L and R with the knob in the middle."
+ },
+ {
+  "name": "multitrack-audio",
+  "category": "music",
+  "draw": "Three stacked horizontal tracks each with its own waveform."
+ },
+ {
+  "name": "spectrogram",
+  "category": "music",
+  "draw": "Rectangle filled with vertical bands of varying heights and density like a heat map of sound."
+ },
+ {
+  "name": "karaoke",
+  "category": "music",
+  "draw": "Microphone in front of a screen showing lyric lines and a music note."
+ },
+ {
+  "name": "concert-stage",
+  "category": "music",
+  "draw": "Stage platform with open curtains at both sides and spotlights shining down."
+ },
+ {
+  "name": "stage-light",
+  "category": "music",
+  "draw": "Can-shaped stage light on a yoke bracket with a cone of light."
+ },
+ {
+  "name": "fog-machine",
+  "category": "music",
+  "draw": "Small box machine blowing a cloud of fog out of a nozzle."
+ },
+ {
+  "name": "setlist",
+  "category": "music",
+  "draw": "Sheet of paper taped down with a numbered list of song lines."
+ },
+ {
+  "name": "backstage-pass",
+  "category": "music",
+  "draw": "Laminated pass card on a lanyard with a star and a band of text."
+ },
+ {
+  "name": "festival-wristband",
+  "category": "music",
+  "draw": "Fabric wristband loop with a small clasp and a pattern."
+ },
+ {
+  "name": "gold-record",
+  "category": "music",
+  "draw": "Framed vinyl record disc with a small plaque below."
+ },
+ {
+  "name": "opera-glasses",
+  "category": "music",
+  "draw": "Small binoculars on a long handle held to one side."
+ },
+ {
+  "name": "concert-crowd",
+  "category": "music",
+  "draw": "Row of heads from behind with raised hands in front of a stage glow."
+ },
+ {
+  "name": "busking",
+  "category": "music",
+  "draw": "Open guitar case on the ground with coins inside and a guitar leaning beside it."
+ },
+ {
+  "name": "choir",
+  "category": "music",
+  "draw": "Three figures in robes standing in a row with open mouths and a music note."
+ },
+ {
+  "name": "disc-jockey",
+  "category": "music",
+  "draw": "Person with headphones behind a turntable deck, one hand on a record."
+ },
+ {
+  "name": "ballroom-dancing",
+  "category": "music",
+  "draw": "Couple in a closed waltz hold with one figure's skirt flaring."
+ },
+ {
+  "name": "breakdancing",
+  "category": "music",
+  "draw": "Dancer upside down spinning on the head with legs spread in a V."
+ },
+ {
+  "name": "flamenco-dancer",
+  "category": "music",
+  "draw": "Dancer with one arm raised high and a long ruffled dress swirling."
+ },
+ {
+  "name": "hula-dance",
+  "category": "music",
+  "draw": "Dancer in a grass skirt and flower garland with arms extended to one side."
+ },
+ {
+  "name": "indian-classical-dance",
+  "category": "music",
+  "draw": "Dancer in a deep bent-knee stance with one arm out in a mudra and a pleated fan skirt."
+ },
+ {
+  "name": "lion-dance",
+  "category": "music",
+  "draw": "Front view of a lion dance head costume with big eyes, a horn and fringe with legs below."
+ },
+ {
+  "name": "dragon-dance",
+  "category": "music",
+  "draw": "Long wavy dragon body held up on poles by several people with a dragon head in front."
+ },
+ {
+  "name": "maypole",
+  "category": "music",
+  "draw": "Tall pole with a crown at the top and ribbons spiralling down to the ground."
+ },
+ {
+  "name": "sufi-whirling",
+  "category": "music",
+  "draw": "Spinning figure in a tall hat with a wide bell skirt, one palm up and one down."
+ },
+ {
+  "name": "circle-dance",
+  "category": "music",
+  "draw": "Ring of simple figures holding hands in a circle."
+ },
+ {
+  "name": "limbo-dance",
+  "category": "music",
+  "draw": "Figure leaning far back to pass under a low horizontal bar."
+ },
+ {
+  "name": "line-dancing",
+  "category": "music",
+  "draw": "Row of figures in cowboy hats standing side by side with thumbs in belts."
+ },
+ {
+  "name": "disco-ball",
+  "category": "music",
+  "draw": "Mirror ball covered in square facets hanging from a short chain with sparkles."
+ },
+ {
+  "name": "dance-floor",
+  "category": "music",
+  "draw": "Grid of square tiles in perspective with some lit up."
+ },
+ {
+  "name": "dance-steps",
+  "category": "music",
+  "draw": "Pairs of footprint shapes with numbers and dashed arrows showing the pattern."
+ },
+ {
+  "name": "bongo-drums",
+  "category": "music",
+  "draw": "Two small joined drums of different sizes side by side with metal rims and a wooden centre block."
+ },
+ {
+  "name": "grand-piano",
+  "category": "music",
+  "draw": "Side view of a grand piano with its curved wing-shaped body, raised lid on a prop stick and three legs."
+ },
+ {
+  "name": "electric-organ",
+  "category": "music",
+  "draw": "Home organ with two stacked keyboards on a cabinet, a row of drawbar tabs above and a pedalboard below."
+ },
+ {
+  "name": "oud",
+  "category": "music",
+  "draw": "Deep round bowl-backed body with three small rosette holes, a short fretless neck and a pegbox bent back."
+ },
+ {
+  "name": "veena",
+  "category": "music",
+  "draw": "Horizontal long neck with a large round wooden bowl at one end and a smaller gourd hanging under the other end."
+ },
+ {
+  "name": "kantele",
+  "category": "music",
+  "draw": "Top view of a wing-shaped wooden box with strings fanning from the narrow end to the wide end."
+ },
+ {
+  "name": "moon-guitar",
+  "category": "music",
+  "draw": "Large perfectly round flat body with a short fretted neck and four tuning pegs."
+ },
+ {
+  "name": "arched-harp",
+  "category": "music",
+  "draw": "Boat-shaped body with a single long curved neck arching up and strings running between them, no front pillar."
+ },
+ {
+  "name": "pedal-steel-guitar",
+  "category": "music",
+  "draw": "Flat instrument body on four legs with pedals and levers underneath and a metal tone bar resting on it."
+ },
+ {
+  "name": "aulos",
+  "category": "music",
+  "draw": "Pair of long reed pipes joined at the mouth end and diverging in a V shape."
+ },
+ {
+  "name": "khene",
+  "category": "music",
+  "draw": "Two rows of long bamboo pipes of nearly equal length passing through a small wooden wind chest near the bottom."
+ },
+ {
+  "name": "sasando",
+  "category": "music",
+  "draw": "Vertical bamboo tube zither with strings around it, sitting inside a folded palm leaf resonator shaped like a fan."
+ },
+ {
+  "name": "fanfare-trumpet",
+  "category": "music",
+  "draw": "Long straight herald trumpet with a narrow flared bell and a square banner hanging from the tube."
+ },
+ {
+  "name": "bird-whistle",
+  "category": "music",
+  "draw": "Small ceramic bird-shaped whistle with a mouthpiece tail and water wave lines inside the body."
+ },
+ {
+  "name": "ear-trumpet",
+  "category": "music",
+  "draw": "Antique hearing horn: long curved tube with a wide flared mouth and a narrow earpiece."
+ },
+ {
+  "name": "darbuka",
+  "category": "music",
+  "draw": "Goblet-shaped hand drum with a tight head, a sharply narrowing waist and decorative bands on the body."
+ },
+ {
+  "name": "timbales",
+  "category": "music",
+  "draw": "Two open metal-shell drums side by side on a stand with a small cowbell mounted between them."
+ },
+ {
+  "name": "marching-tenor-drums",
+  "category": "music",
+  "draw": "Top view of a curved cluster of four drums of different sizes and two small spock drums."
+ },
+ {
+  "name": "caxixi",
+  "category": "music",
+  "draw": "Small woven basket rattle with a flat round base and a loop handle on top."
+ },
+ {
+  "name": "chimta",
+  "category": "music",
+  "draw": "Long flat fire-tong shaped instrument with pairs of small round jingles along both arms."
+ },
+ {
+  "name": "bianzhong",
+  "category": "music",
+  "draw": "Wooden rack with a row of flat bronze bells hanging from it, stepping from large to small."
+ },
+ {
+  "name": "jal-tarang",
+  "category": "music",
+  "draw": "Semicircle of porcelain bowls holding different water levels with two thin sticks."
+ },
+ {
+  "name": "temple-bell",
+  "category": "music",
+  "draw": "Large bronze bell hanging under a small roof frame with a horizontal log striker on ropes beside it."
+ },
+ {
+  "name": "musical-spoons",
+  "category": "music",
+  "draw": "Two spoons held back to back with a finger between the handles and motion lines."
+ },
+ {
+  "name": "ratchet-noisemaker",
+  "category": "music",
+  "draw": "Handle with a cogwheel and a wooden flap that spins around it, with motion arcs."
+ },
+ {
+  "name": "flexatone",
+  "category": "music",
+  "draw": "Flexible steel sheet in a wire frame with two small ball beaters on springs at the sides."
+ },
+ {
+  "name": "spring-drum",
+  "category": "music",
+  "draw": "Short tube drum with a long coiled spring hanging down from its head."
+ },
+ {
+  "name": "temple-blocks",
+  "category": "music",
+  "draw": "Row of rounded hollow wooden blocks of different sizes each with a slit mouth, on a stand."
+ },
+ {
+  "name": "clash-cymbals",
+  "category": "music",
+  "draw": "Pair of large cymbals facing each other with leather strap handles on their centres."
+ },
+ {
+  "name": "frog-guiro",
+  "category": "music",
+  "draw": "Carved wooden frog with a ridged back and a stick resting across the ridges."
+ },
+ {
+  "name": "fingering-chart",
+  "category": "music",
+  "draw": "Vertical column of circles, some filled and some open, beside a small woodwind outline."
+ },
+ {
+  "name": "music-scale",
+  "category": "music",
+  "draw": "Eight note heads climbing step by step up a five-line staff."
+ },
+ {
+  "name": "music-chord",
+  "category": "music",
+  "draw": "Three note heads stacked vertically on one stem on a five-line staff."
+ },
+ {
+  "name": "double-whole-note",
+  "category": "music",
+  "draw": "Open oval note head with two short vertical bars on each side, no stem."
+ },
+ {
+  "name": "measure-repeat",
+  "category": "music",
+  "draw": "Slanted slash with a dot on each side centred on a five-line staff."
+ },
+ {
+  "name": "multi-measure-rest",
+  "category": "music",
+  "draw": "Thick horizontal bar across the middle staff line with short end bars and a number above."
+ },
+ {
+  "name": "chant-notation",
+  "category": "music",
+  "draw": "Four-line staff with square note heads and a small C clef at the start."
+ },
+ {
+  "name": "guitar-headstock",
+  "category": "music",
+  "draw": "Guitar headstock seen from the front with three tuning pegs on each side and strings running down."
+ },
+ {
+  "name": "violin-scroll",
+  "category": "music",
+  "draw": "Close-up of a violin head: spiral scroll at the top with the pegbox and four pegs below."
+ },
+ {
+  "name": "pedalboard",
+  "category": "music",
+  "draw": "Flat board holding three stomp box pedals in a row connected by short cables."
+ },
+ {
+  "name": "patch-bay",
+  "category": "music",
+  "draw": "Long thin rack panel with two rows of jack sockets and a few patch cables plugged in."
+ },
+ {
+  "name": "flight-case",
+  "category": "music",
+  "draw": "Road case with metal corner caps, edge trims, two butterfly latches and a recessed handle."
+ },
+ {
+  "name": "cd-case",
+  "category": "music",
+  "draw": "Square jewel case with a hinge along the left edge and a disc visible through the clear front."
+ },
+ {
+  "name": "horn-speaker",
+  "category": "music",
+  "draw": "Flared horn loudspeaker mounted on a pole bracket with sound arcs from the mouth."
+ },
+ {
+  "name": "wireless-microphone",
+  "category": "music",
+  "draw": "Handheld microphone with a ball grille and a short antenna stub at the base."
+ },
+ {
+  "name": "bodypack-transmitter",
+  "category": "music",
+  "draw": "Small rectangular transmitter box with a stubby antenna, a belt clip and a thin cable."
+ },
+ {
+  "name": "binaural-microphone",
+  "category": "music",
+  "draw": "Dummy head bust in side profile with a microphone set inside the ear."
+ },
+ {
+  "name": "parabolic-microphone",
+  "category": "music",
+  "draw": "Round dish reflector with a microphone at its centre and a pistol grip handle."
+ },
+ {
+  "name": "cardioid-pattern",
+  "category": "music",
+  "draw": "Circular polar grid with a heart-shaped pickup curve drawn over it."
+ },
+ {
+  "name": "acoustic-diffuser",
+  "category": "music",
+  "draw": "Square panel made of a grid of wooden blocks at different heights like a skyline."
+ },
+ {
+  "name": "recording-studio",
+  "category": "music",
+  "draw": "Mixing console in front of a glass window with a microphone standing behind it."
+ },
+ {
+  "name": "audio-guide",
+  "category": "music",
+  "draw": "Handheld audio player with a number keypad, small speaker and a lanyard."
+ },
+ {
+  "name": "square-wave",
+  "category": "music",
+  "draw": "Square wave signal line alternating between high and low with sharp right angles."
+ },
+ {
+  "name": "sawtooth-wave",
+  "category": "music",
+  "draw": "Sawtooth signal line with long ramps rising and sudden vertical drops."
+ },
+ {
+  "name": "adsr-envelope",
+  "category": "music",
+  "draw": "Line graph rising sharply, falling to a flat sustain level and then sloping down to zero."
+ },
+ {
+  "name": "pitch-wheel",
+  "category": "music",
+  "draw": "Two vertical wheels side by side in slots on a panel, one with a centre notch."
+ },
+ {
+  "name": "spatial-audio",
+  "category": "music",
+  "draw": "Head in front view with curved orbit rings of sound waves circling around it."
+ },
+ {
+  "name": "crossfade",
+  "category": "music",
+  "draw": "Two lines crossing in an X over a horizontal slider, one fading down and one fading up."
+ },
+ {
+  "name": "music-recognition",
+  "category": "music",
+  "draw": "Smartphone screen with a music note inside concentric listening circles."
+ },
+ {
+  "name": "stage-truss",
+  "category": "music",
+  "draw": "Triangular lattice beam spanning the top with two stage lights hanging below."
+ },
+ {
+  "name": "strobe-light",
+  "category": "music",
+  "draw": "Box light with a flat face emitting a sharp starburst flash."
+ },
+ {
+  "name": "laser-show",
+  "category": "music",
+  "draw": "Several thin straight beams fanning out from one point at the bottom."
+ },
+ {
+  "name": "concert-program",
+  "category": "music",
+  "draw": "Folded booklet with a music note and text lines on its cover."
+ },
+ {
+  "name": "mic-drop",
+  "category": "music",
+  "draw": "Open hand above a microphone falling downward with motion lines."
+ },
+ {
+  "name": "air-guitar",
+  "category": "music",
+  "draw": "Person with one arm raised mid strum and the other hand fretting an invisible neck."
+ },
+ {
+  "name": "crowd-surfing",
+  "category": "music",
+  "draw": "Figure lying horizontally carried on several raised hands."
+ },
+ {
+  "name": "twirling-baton",
+  "category": "music",
+  "draw": "Long rod with rubber ball tips at both ends spinning with circular motion arcs."
+ },
+ {
+  "name": "music-band",
+  "category": "music",
+  "draw": "Three simple figures side by side holding a guitar, a microphone and drumsticks."
+ },
+ {
+  "name": "orchestra",
+  "category": "music",
+  "draw": "Rows of small seated figures in a fan shape facing a conductor in front."
+ },
+ {
+  "name": "dancer",
+  "category": "music",
+  "draw": "Single figure mid dance with one arm up, one arm out and one knee lifted."
+ },
+ {
+  "name": "tango-dance",
+  "category": "music",
+  "draw": "Couple in a deep dip with one partner leaning far back, supported by the other."
+ },
+ {
+  "name": "swing-dance",
+  "category": "music",
+  "draw": "Couple with one partner lifting the other in the air with legs kicked out."
+ },
+ {
+  "name": "disco-dance",
+  "category": "music",
+  "draw": "Figure with one arm pointing diagonally up to the sky and the other hand on the hip."
+ },
+ {
+  "name": "belly-dancer",
+  "category": "music",
+  "draw": "Dancer with a coin-fringed hip scarf, arms raised in curves and hips tilted."
+ },
+ {
+  "name": "fan-dance",
+  "category": "music",
+  "draw": "Dancer holding two large open folding fans spread out to each side."
+ },
+ {
+  "name": "irish-dance",
+  "category": "music",
+  "draw": "Figure with arms straight at the sides and one leg kicked high in front."
+ },
+ {
+  "name": "charleston-dance",
+  "category": "music",
+  "draw": "Figure in a flapper dress with knees together, feet kicked out and hands crossed at the knees."
+ },
+ {
+  "name": "cancan-dance",
+  "category": "music",
+  "draw": "Dancer holding up a ruffled skirt with one leg kicked high."
+ },
+ {
+  "name": "sword-dance",
+  "category": "music",
+  "draw": "Dancer on one foot stepping between two crossed swords laid on the ground."
+ },
+ {
+  "name": "poi-spinning",
+  "category": "music",
+  "draw": "Figure swinging two balls on cords with circular trails on each side."
+ },
+ {
+  "name": "dance-mat",
+  "category": "music",
+  "draw": "Square floor mat with four arrow panels around a centre square."
+ },
+ {
+  "name": "ranat",
+  "category": "music",
+  "draw": "Curved boat-shaped wooden resonator box on a small pedestal with a row of bars suspended across the top."
+ },
+ {
+  "name": "gong-circle",
+  "category": "music",
+  "draw": "Horseshoe-shaped low rattan frame with a ring of small kettle gongs set around it."
+ },
+ {
+  "name": "bell-tree",
+  "category": "music",
+  "draw": "Vertical rod with a stack of nested bowl-shaped bells getting smaller toward the top."
+ },
+ {
+  "name": "whirly-tube",
+  "category": "music",
+  "draw": "Corrugated flexible tube swung overhead in a circle with motion arcs."
+ },
+ {
+  "name": "cylinder-phonograph",
+  "category": "music",
+  "draw": "Small box with a wax cylinder on a horizontal spindle and a narrow horn above it."
+ },
+ {
+  "name": "sixteenth-rest",
+  "category": "music",
+  "draw": "Slanted stroke with two small dots and hooks stacked on its left side."
+ },
+ {
+  "name": "music-video",
+  "category": "music",
+  "draw": "Screen rectangle with a play triangle and a small music note in the corner."
+ },
+ {
+  "name": "audiobook",
+  "category": "music",
+  "draw": "Open book with a pair of headphones resting over its top edge."
+ },
+ {
+  "name": "explicit-content",
+  "category": "music",
+  "draw": "Rounded square containing a bold capital letter E."
+ },
+ {
+  "name": "color-guard",
+  "category": "music",
+  "draw": "Figure spinning a large flag on a long pole with a swirl of fabric around it."
+ },
+ {
+  "name": "ribbon-dance",
+  "category": "music",
+  "draw": "Figure swirling a long ribbon on a short stick into loops and spirals."
+ },
+ {
+  "name": "conga-dance",
+  "category": "music",
+  "draw": "Line of figures one behind the other with hands on the shoulders of the person in front."
+ },
+ {
+  "name": "string-winder",
+  "category": "music",
+  "draw": "Small crank handle with a slotted cup at the end that fits over a tuning peg."
+ },
+ {
+  "name": "drum-key",
+  "category": "music",
+  "draw": "Small T-shaped key with a flat wing handle and a square socket shaft."
+ },
+ {
+  "name": "drum-throne",
+  "category": "music",
+  "draw": "Round padded seat on a short column with three splayed legs."
+ },
+ {
+  "name": "keyboard-stand",
+  "category": "music",
+  "draw": "X-shaped folding stand holding a flat keyboard on top."
+ },
+ {
+  "name": "drum-practice-pad",
+  "category": "music",
+  "draw": "Round rubber pad on a small stand with two drumsticks resting across it."
+ },
+ {
+  "name": "pipa",
+  "category": "music",
+  "draw": "Vertical pear-shaped lute with no sound hole, frets running from the short neck down onto the body and a bent-back pegbox."
+ },
+ {
+  "name": "sarangi",
+  "category": "music",
+  "draw": "Squat boxy bowed instrument with a waisted body, a wide short neck and a row of small side pegs, with a bow."
+ },
+ {
+  "name": "chime-stones",
+  "category": "music",
+  "draw": "Wooden rack with a row of flat L-shaped stones of different sizes hanging from cords."
+ },
+ {
+  "name": "paiban",
+  "category": "music",
+  "draw": "Clapper of several flat wooden slats tied together at one end and fanned slightly open."
+ },
+ {
+  "name": "light-stick",
+  "category": "music",
+  "draw": "Concert light stick with a handle and a round glowing lamp head with rays."
+ },
+ {
+  "name": "harmonica-holder",
+  "category": "music",
+  "draw": "U-shaped wire neck rack holding a harmonica at mouth height."
+ },
+ {
+  "name": "record-scratching",
+  "category": "music",
+  "draw": "Hand resting on a spinning vinyl record with zigzag motion lines beside it."
+ },
+ {
+  "name": "lullaby",
+  "category": "music",
+  "draw": "Crescent moon with two small music notes floating beside it."
+ },
+ {
+  "name": "birdsong",
+  "category": "music",
+  "draw": "Small songbird on a twig with its beak open and music notes rising."
+ },
+ {
+  "name": "carol-singing",
+  "category": "music",
+  "draw": "Two figures holding an open song sheet together with a small lantern and notes above."
+ },
+ {
+  "name": "serenade",
+  "category": "music",
+  "draw": "Figure playing a guitar below a small balcony with music notes rising toward it."
+ },
+ {
+  "name": "campfire-song",
+  "category": "music",
+  "draw": "Guitar leaning beside a small campfire with music notes rising with the smoke."
+ },
+ {
+  "name": "listening-to-music",
+  "category": "music",
+  "draw": "Head and shoulders of a person wearing headphones with music notes beside them."
+ },
+ {
+  "name": "whistling",
+  "category": "music",
+  "draw": "Face in profile with pursed lips and a small music note coming out."
+ }
+]

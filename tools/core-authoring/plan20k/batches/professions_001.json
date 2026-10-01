@@ -1,0 +1,482 @@
+[
+ {
+  "name": "surgeon",
+  "category": "professions",
+  "draw": "Head and shoulders figure in a surgical cap and face mask with a scalpel raised beside the shoulder.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "dentist",
+  "category": "professions",
+  "draw": "Head and shoulders figure in a mask and head mirror holding a small dental mirror next to a large tooth.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "paramedic",
+  "category": "professions",
+  "draw": "Figure in a vest with a star of life cross on the chest carrying a boxy medical bag.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "pharmacist",
+  "category": "professions",
+  "draw": "Figure in a white coat behind a counter holding up a pill bottle, shelves of bottles behind.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "midwife",
+  "category": "professions",
+  "draw": "Figure in scrubs cradling a swaddled newborn with a stethoscope hanging from the neck.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "optometrist",
+  "category": "professions",
+  "draw": "Figure in a white coat standing beside a small eye chart with rows of shrinking letters.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "radiologist",
+  "category": "professions",
+  "draw": "Figure holding up an x-ray film showing a rib cage in front of the chest.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "physiotherapist",
+  "category": "professions",
+  "draw": "Figure in a polo shirt stretching a resistance band between both hands, a knee brace icon beside.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "psychologist",
+  "category": "professions",
+  "draw": "Seated figure with a notepad and pen facing an empty couch with a raised headrest.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "pediatrician",
+  "category": "professions",
+  "draw": "Figure with a stethoscope pressing the chest piece to a small child standing beside.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "phlebotomist",
+  "category": "professions",
+  "draw": "Figure in gloves holding a small blood collection tube beside an outstretched arm with a band.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "sonographer",
+  "category": "professions",
+  "draw": "Figure holding an ultrasound probe with a small screen showing a curved scan fan.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "dietitian",
+  "category": "professions",
+  "draw": "Figure holding a clipboard with an apple resting on top of it.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "speech-therapist",
+  "category": "professions",
+  "draw": "Figure pointing at an open mouth symbol with a speech bubble beside.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "occupational-therapist",
+  "category": "professions",
+  "draw": "Figure guiding a hand placing a peg into a pegboard.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "orthodontist",
+  "category": "professions",
+  "draw": "Figure in a mask beside a large smile showing a row of teeth with braces and wire.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "chiropractor",
+  "category": "professions",
+  "draw": "Figure placing both hands on a vertical spine column of stacked vertebrae.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "massage-therapist",
+  "category": "professions",
+  "draw": "Figure pressing both palms onto the back of a person lying face down on a table.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "acupuncturist",
+  "category": "professions",
+  "draw": "Figure holding a thin needle toward a hand with three small needles already inserted.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "anesthesiologist",
+  "category": "professions",
+  "draw": "Figure in a surgical cap holding an oval anesthesia mask with a tube.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "army-medic",
+  "category": "professions",
+  "draw": "Figure in a helmet with a cross armband on the upper arm carrying a stretcher pole.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "pharmacy-delivery-rider",
+  "category": "professions",
+  "draw": "Figure on a scooter with a box on the back marked with a medical cross.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "blood-donor",
+  "category": "professions",
+  "draw": "Seated figure squeezing a small ball with a line running from the arm to a blood bag.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "organ-donor",
+  "category": "professions",
+  "draw": "Figure with a heart shape on the chest and an open hand offering it forward.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "bodyguard",
+  "category": "professions",
+  "draw": "Head and shoulders figure in dark sunglasses with a coiled earpiece wire running to the collar.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "park-ranger",
+  "category": "professions",
+  "draw": "Figure in a flat brim campaign hat with a pine tree patch on the shoulder.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "traffic-police-officer",
+  "category": "professions",
+  "draw": "Figure in a peaked cap and white gloves holding one arm straight up with a whistle in the mouth.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "mountain-rescuer",
+  "category": "professions",
+  "draw": "Figure in a helmet with a coil of rope over the shoulder and a cross on the jacket.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "ski-patroller",
+  "category": "professions",
+  "draw": "Figure in a ski helmet and goggles with a large cross on the jacket and skis on the shoulder.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "bomb-disposal-technician",
+  "category": "professions",
+  "draw": "Bulky figure in a padded bomb suit with a large visor helmet and thick collar.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "hazmat-worker",
+  "category": "professions",
+  "draw": "Figure in a full hooded hazmat suit with a round respirator and a hazard symbol on the chest.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "wildland-firefighter",
+  "category": "professions",
+  "draw": "Figure in a brimmed hard hat carrying a long handled axe hoe tool over the shoulder.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "prison-guard",
+  "category": "professions",
+  "draw": "Figure in a peaked cap with a large key ring hanging from the belt.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "forensic-scientist",
+  "category": "professions",
+  "draw": "Figure in gloves holding a magnifying glass over a small evidence bag.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "police-dog-handler",
+  "category": "professions",
+  "draw": "Figure in a police cap holding a leash to a sitting German shepherd style dog.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "mounted-police-officer",
+  "category": "professions",
+  "draw": "Figure in a helmet riding a horse seen in side view.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "emergency-dispatcher",
+  "category": "professions",
+  "draw": "Head and shoulders figure in a headset with a boom mic in front of a map screen.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "customs-officer",
+  "category": "professions",
+  "draw": "Figure in a cap standing behind a counter with an open suitcase being inspected.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "border-guard",
+  "category": "professions",
+  "draw": "Figure in a peaked cap standing beside a striped barrier arm.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "lawyer",
+  "category": "professions",
+  "draw": "Figure in a suit holding a briefcase with a small balance scale above the shoulder.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "barrister-in-wig",
+  "category": "professions",
+  "draw": "Head and shoulders figure in a short curled court wig with a white collar tab.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "bailiff",
+  "category": "professions",
+  "draw": "Figure in a uniform standing at attention beside a courtroom rail.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "court-stenographer",
+  "category": "professions",
+  "draw": "Seated figure typing on a small stenotype machine on a stand.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "notary",
+  "category": "professions",
+  "draw": "Figure pressing a round rubber stamp onto a document.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "mayor",
+  "category": "professions",
+  "draw": "Figure wearing a heavy chain of office with a round medallion across the chest.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "diplomat",
+  "category": "professions",
+  "draw": "Figure in a suit at a table with two small crossed flags on stands.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "public-speaker",
+  "category": "professions",
+  "draw": "Figure standing behind a podium with a microphone on a gooseneck.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "juror",
+  "category": "professions",
+  "draw": "Figure seated in a box row with a numbered card held up.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "witness-oath",
+  "category": "professions",
+  "draw": "Figure with the right hand raised and the left hand resting on a closed book.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "prisoner",
+  "category": "professions",
+  "draw": "Figure in a horizontally striped uniform holding a numbered placard at the chest.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "census-taker",
+  "category": "professions",
+  "draw": "Figure with a clipboard knocking at a door outline.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "election-official",
+  "category": "professions",
+  "draw": "Figure standing beside a ballot box with a slot and a folded paper going in.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "town-crier",
+  "category": "professions",
+  "draw": "Figure in a tricorn hat ringing a hand bell and holding an unrolled scroll.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "receptionist",
+  "category": "professions",
+  "draw": "Figure in a headset behind a curved front desk with a service bell.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "accountant",
+  "category": "professions",
+  "draw": "Figure in glasses holding a calculator with a ledger sheet behind.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "banker",
+  "category": "professions",
+  "draw": "Figure in a suit standing in front of a classical bank facade with columns.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "bank-teller",
+  "category": "professions",
+  "draw": "Figure behind a counter window passing a stack of banknotes through the slot.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "stock-trader",
+  "category": "professions",
+  "draw": "Figure with a phone at the ear in front of a rising zigzag chart.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "recruiter",
+  "category": "professions",
+  "draw": "Figure holding a magnifying glass over a small person silhouette on a card.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "salesperson",
+  "category": "professions",
+  "draw": "Figure in a tie holding out a price tag.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "real-estate-agent",
+  "category": "professions",
+  "draw": "Figure holding a house key beside a small for sale sign on a post.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "insurance-agent",
+  "category": "professions",
+  "draw": "Figure holding an umbrella over a small house.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "auditor",
+  "category": "professions",
+  "draw": "Figure holding a magnifying glass over a ledger with a check column.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "data-analyst",
+  "category": "professions",
+  "draw": "Figure pointing at a screen with a bar chart and a pie chart.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "project-manager",
+  "category": "professions",
+  "draw": "Figure holding a clipboard beside a small gantt timeline of offset bars.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "presenter",
+  "category": "professions",
+  "draw": "Figure pointing a stick at a board on an easel showing a rising chart.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "intern",
+  "category": "professions",
+  "draw": "Young figure with a lanyard badge carrying a stack of folders.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "job-seeker",
+  "category": "professions",
+  "draw": "Figure holding out a resume sheet with a photo square and text lines.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "employee-badge-holder",
+  "category": "professions",
+  "draw": "Figure wearing a lanyard with a large photo ID card on the chest.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "remote-worker",
+  "category": "professions",
+  "draw": "Figure at a laptop on a small table with a house roof outline above.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "entrepreneur",
+  "category": "professions",
+  "draw": "Figure in a blazer with a small rocket rising beside the shoulder.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "secretary",
+  "category": "professions",
+  "draw": "Figure taking notes on a steno pad beside a desk telephone.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "architect",
+  "category": "professions",
+  "draw": "Figure holding a rolled blueprint under one arm with a triangle ruler in the other hand.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "civil-engineer",
+  "category": "professions",
+  "draw": "Figure in a hard hat holding a rolled plan beside a small bridge arch.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "surveyor",
+  "category": "professions",
+  "draw": "Figure looking through a theodolite on a three legged tripod.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "interior-designer",
+  "category": "professions",
+  "draw": "Figure holding a fan of color swatches beside a small armchair.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "fashion-designer",
+  "category": "professions",
+  "draw": "Figure with a measuring tape around the neck beside a dress form on a stand.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "hacker-in-hoodie",
+  "category": "professions",
+  "draw": "Hooded figure with a shadowed face behind a laptop showing a code bracket.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "system-administrator",
+  "category": "professions",
+  "draw": "Figure standing beside a server rack with rows of lights holding a cable.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "it-support-technician",
+  "category": "professions",
+  "draw": "Figure in a headset holding a wrench beside a laptop.",
+  "domain": "professions-and-roles"
+ }
+]

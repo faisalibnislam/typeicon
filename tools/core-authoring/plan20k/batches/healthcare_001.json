@@ -1,0 +1,482 @@
+[
+ {
+  "name": "pediatric-care",
+  "category": "healthcare",
+  "draw": "Teddy bear sitting upright with a stethoscope draped around its neck and the chest piece hanging on its belly.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "family-medicine",
+  "category": "healthcare",
+  "draw": "Two adult figures and one child figure side by side under a single arched roof line with a small medical cross at the peak.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "plastic-surgery",
+  "category": "healthcare",
+  "draw": "Face in side profile with dashed surgical marking lines drawn along the nose bridge and across the cheek.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "womens-health",
+  "category": "healthcare",
+  "draw": "Female symbol (circle with a small cross below) with a small heart outline inside the circle.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "mens-health",
+  "category": "healthcare",
+  "draw": "Male symbol (circle with an arrow pointing out of the upper right) with a small heart outline inside the circle.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "heart-surgery",
+  "category": "healthcare",
+  "draw": "Anatomical heart with a vertical dashed incision line down its front and a small scalpel angled beside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "organ-transplant",
+  "category": "healthcare",
+  "draw": "Kidney shape passing between two open hands, one giving from the left and one receiving on the right, with a curved arrow above.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "gastric-band",
+  "category": "healthcare",
+  "draw": "Stomach outline with an adjustable ring band clamped around its narrow upper section and a thin tube leading off.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "sports-medicine",
+  "category": "healthcare",
+  "draw": "Soccer ball with an adhesive bandage strip stuck diagonally across it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "occupational-health",
+  "category": "healthcare",
+  "draw": "Construction hard hat seen from the side with a medical cross on its front.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "travel-vaccination",
+  "category": "healthcare",
+  "draw": "Closed passport booklet with a syringe laid diagonally across its cover.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "root-canal",
+  "category": "healthcare",
+  "draw": "Tooth cross section showing two roots with a thin needle file inserted down one root canal.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "hospice",
+  "category": "healthcare",
+  "draw": "Small house outline with a bed inside and a heart floating above the roof.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "prenatal-care",
+  "category": "healthcare",
+  "draw": "Pregnant figure in profile with a stethoscope chest piece resting against the rounded belly.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "cesarean-section",
+  "category": "healthcare",
+  "draw": "Rounded pregnant belly outline with a short horizontal dashed incision line low across it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "epidural",
+  "category": "healthcare",
+  "draw": "Stack of three lower spine vertebrae seen from the side with a long needle entering the gap between two of them.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "egg-freezing",
+  "category": "healthcare",
+  "draw": "Small cryogenic vial holding a round egg cell with a snowflake beside the vial.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "chemotherapy",
+  "category": "healthcare",
+  "draw": "IV drip bag with a spiky cell symbol printed on it and a tube running down from the bottom.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "cardiac-stress-test",
+  "category": "healthcare",
+  "draw": "Figure walking on a treadmill with wires running from the chest to a small screen showing a heartbeat trace.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "sleep-study",
+  "category": "healthcare",
+  "draw": "Person asleep in bed with electrode wires running from the head to a small monitor on the bedside.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "neonatal-phototherapy",
+  "category": "healthcare",
+  "draw": "Newborn lying in an open bassinet under a horizontal lamp bar that shines rays down onto the baby.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "gene-therapy",
+  "category": "healthcare",
+  "draw": "Short DNA double helix with a syringe needle pointing into one of its strands.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "blood-draw",
+  "category": "healthcare",
+  "draw": "Forearm with a tourniquet band above the elbow and a needle with a small collection tube at the inner elbow.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "cast-saw",
+  "category": "healthcare",
+  "draw": "Handheld oscillating cast saw with a round blade at its tip cutting into a plaster cast.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "auscultation",
+  "category": "healthcare",
+  "draw": "Standing doctor figure pressing a stethoscope chest piece against the back of a seated patient.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "physical-therapy",
+  "category": "healthcare",
+  "draw": "Patient lying on a treatment table while a therapist figure bends the patient's raised leg at the knee.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "occupational-therapy",
+  "category": "healthcare",
+  "draw": "Hand placing a round peg into one of the holes of a square pegboard.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "speech-therapy",
+  "category": "healthcare",
+  "draw": "Mouth in side profile with sound wave arcs coming out and a speech bubble containing the letter A.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "art-therapy",
+  "category": "healthcare",
+  "draw": "Painter's palette with a heart shaped paint dab in the middle and a brush resting across it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "music-therapy",
+  "category": "healthcare",
+  "draw": "Musical eighth note whose note head is a heart.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "vr-therapy",
+  "category": "healthcare",
+  "draw": "Virtual reality headset seen from the front with a small heart floating above it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "therapy-putty",
+  "category": "healthcare",
+  "draw": "Hand squeezing a soft round blob of putty with finger dents pressed into it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "tooth-extraction",
+  "category": "healthcare",
+  "draw": "Molar with long roots lifted clear above a curved gum line with a single upward arrow above the tooth.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "dental-crown",
+  "category": "healthcare",
+  "draw": "Crown cap hovering just above a filed down tooth stump that sits in the gum.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "dental-filling",
+  "category": "healthcare",
+  "draw": "Molar seen from the side with a solid filled patch on its biting surface.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "dental-veneer",
+  "category": "healthcare",
+  "draw": "Front tooth with a thin curved shell sliding onto its front face.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "teeth-whitening",
+  "category": "healthcare",
+  "draw": "Front tooth with short shine lines radiating from its upper corner.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "orthodontic-headgear",
+  "category": "healthcare",
+  "draw": "Face in profile with a wire facebow coming out of the mouth and a strap wrapping around the back of the head.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "palatal-expander",
+  "category": "healthcare",
+  "draw": "Upper dental arch seen from below with a small screw expander bridging the roof of the mouth between the back teeth.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "eye-shield",
+  "category": "healthcare",
+  "draw": "Perforated oval eye shield held over an eye with two strips of tape.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "eyeglass-prescription",
+  "category": "healthcare",
+  "draw": "Prescription sheet with a pair of glasses drawn at the top and a small grid of values below.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "tumbling-e-chart",
+  "category": "healthcare",
+  "draw": "Eye chart made of capital E shapes facing different directions, getting smaller row by row.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "audiogram",
+  "category": "healthcare",
+  "draw": "Hearing test graph with a line of small circles and a line of small crosses sloping downward across a grid.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "urgent-care",
+  "category": "healthcare",
+  "draw": "Clinic storefront with a medical cross sign over the door and a lightning bolt beside the sign.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "walk-in-clinic",
+  "category": "healthcare",
+  "draw": "Open doorway with a walking figure stepping through it and a medical cross above the door.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "maternity-ward",
+  "category": "healthcare",
+  "draw": "Hospital bed with raised head and a small bassinet holding a swaddled baby beside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "intensive-care-unit",
+  "category": "healthcare",
+  "draw": "Patient in a hospital bed with a heartbeat monitor on the wall above and an IV bag on a pole beside the bed.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "mobile-clinic",
+  "category": "healthcare",
+  "draw": "Boxy van with a medical cross on its side, an awning extended over the open side door and fold down steps.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "house-call",
+  "category": "healthcare",
+  "draw": "House front door with a doctor's bag standing on the doorstep and a stethoscope looped over the bag.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "health-post",
+  "category": "healthcare",
+  "draw": "Small hut with a pitched roof and a pole flag bearing a medical cross beside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "hospital-ward",
+  "category": "healthcare",
+  "draw": "Front view of three beds in a row with a curtain rail running above them.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "childrens-hospital",
+  "category": "healthcare",
+  "draw": "Hospital building with a medical cross on the facade and a balloon tied by the entrance.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "bloodmobile",
+  "category": "healthcare",
+  "draw": "Bus seen from the side with a large blood drop on its body and an open door.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "pharmacy-drive-through",
+  "category": "healthcare",
+  "draw": "Service window in a wall passing a pill bottle down to a car parked below it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "prescription-locker",
+  "category": "healthcare",
+  "draw": "Bank of small locker doors with one door open showing a pill bottle inside and a medical cross on top.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medicine-vending-machine",
+  "category": "healthcare",
+  "draw": "Vending machine with rows of small medicine boxes behind glass and a medical cross at the top.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "health-kiosk",
+  "category": "healthcare",
+  "draw": "Freestanding booth with a screen, a small seat and a blood pressure cuff hanging from its side.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "infusion-chair",
+  "category": "healthcare",
+  "draw": "Padded reclining chair with an IV pole and drip bag standing beside the armrest.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "nurses-station",
+  "category": "healthcare",
+  "draw": "Curved counter with a computer monitor on top and a nurse cap symbol on the front panel.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "clinic-reception",
+  "category": "healthcare",
+  "draw": "Reception desk with a service bell on top and a medical cross sign on the wall behind it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "patient-call-display",
+  "category": "healthcare",
+  "draw": "Wall screen showing a large ticket number and an arrow pointing toward a room number.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "surgical-scrub-sink",
+  "category": "healthcare",
+  "draw": "Wide deep trough sink with a tall gooseneck faucet and a knee lever under the basin.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "hospital-ship",
+  "category": "healthcare",
+  "draw": "Ship seen from the side with a large medical cross on the hull and a white superstructure.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "ambulance-boat",
+  "category": "healthcare",
+  "draw": "Small motorboat with a medical cross on its cabin and a warning light on the cabin roof.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "hospital-at-home",
+  "category": "healthcare",
+  "draw": "House outline containing a hospital bed and a heartbeat line above the bed.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "paramedic-bicycle",
+  "category": "healthcare",
+  "draw": "Bicycle with panniers marked with medical crosses and a light on the handlebar.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "paramedic-response-car",
+  "category": "healthcare",
+  "draw": "Estate car seen from the side with a light bar on its roof and a medical cross on the door.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "pit-latrine",
+  "category": "healthcare",
+  "draw": "Small wooden outhouse hut with a slanted roof, a door and a vent pipe rising from the roof.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "video-consultation",
+  "category": "healthcare",
+  "draw": "Laptop whose screen shows a doctor figure wearing a stethoscope.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "doctor-chat",
+  "category": "healthcare",
+  "draw": "Speech bubble with a stethoscope drawn inside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "e-prescription",
+  "category": "healthcare",
+  "draw": "Smartphone whose screen shows a large Rx symbol.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "remote-patient-monitoring",
+  "category": "healthcare",
+  "draw": "House on the left sending a heartbeat trace through signal arcs to a monitor on the right.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "health-app",
+  "category": "healthcare",
+  "draw": "Smartphone whose screen shows a heart with a heartbeat line across it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "symptom-checker",
+  "category": "healthcare",
+  "draw": "Smartphone whose screen shows a simple body outline with a question mark beside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "online-pharmacy",
+  "category": "healthcare",
+  "draw": "Laptop whose screen shows a pill bottle with a small shopping cart below it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "prescription-delivery",
+  "category": "healthcare",
+  "draw": "Parcel box marked Rx with speed lines trailing behind it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medical-hotline",
+  "category": "healthcare",
+  "draw": "Telephone handset with a speech bubble containing a medical cross.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "ai-diagnosis",
+  "category": "healthcare",
+  "draw": "Magnifying glass over a heartbeat trace with small four point sparkles around the lens.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "wearable-ecg-patch",
+  "category": "healthcare",
+  "draw": "Chest torso outline with a small adhesive patch on the left side showing a heartbeat line.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "care-robot",
+  "category": "healthcare",
+  "draw": "Rounded humanoid robot wearing a nurse cap and holding a tray with a cup.",
+  "domain": "r2-healthcare-services"
+ }
+]

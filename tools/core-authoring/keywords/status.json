@@ -1,0 +1,98 @@
+{
+  "alert-circle": {
+    "context": "Exclamation mark inside a circle. Used for error messages, form validation, alerts, attention notices and failed states in forms, toasts and banners.",
+    "keywords": ["alert", "error", "attention", "exclamation", "important", "notice", "exclamation mark", "exclamation circle", "warning", "caution", "problem", "issue", "invalid", "validation error", "form error", "failed", "danger", "urgent", "heads up", "report", "notification"]
+  },
+  "alert-octagon": {
+    "context": "Exclamation mark inside an octagon, the shape of a stop sign. Used for critical errors, blocking failures, severe alerts, stop warnings and system outages.",
+    "keywords": ["critical", "error", "danger", "stop", "exclamation", "alert", "exclamation octagon", "critical error", "fatal", "severe", "blocker", "outage", "failure", "system error", "emergency", "halt", "warning", "incident", "breaking", "high priority", "octagon"]
+  },
+  "badge-status": {
+    "context": "Rounded square with a solid dot on its top right corner. Used for unread badges, new item markers, notification dots on app icons and status indicators.",
+    "keywords": ["badge", "notification dot", "unread", "status", "indicator", "new", "dot", "red dot", "unread badge", "app badge", "new item", "notification", "update available", "pending", "marker", "counter", "alert", "new message", "attention", "square", "corner dot"]
+  },
+  "ban": {
+    "context": "Circle crossed by a diagonal bar. Used for banned or blocked users, forbidden actions, not-allowed cursors, disabled options and prohibition signs.",
+    "keywords": ["blocked", "forbidden", "prohibited", "not allowed", "deny", "block", "banned", "no entry", "denied", "restricted", "disabled", "unavailable", "cancel", "stop", "no", "prohibition", "block user", "mute", "not permitted", "invalid", "slash circle"]
+  },
+  "bell-ring": {
+    "context": "Bell with short ringing marks on both sides. Used for an active alert, alarm going off, notifications turned on, reminder due now and ring settings.",
+    "keywords": ["ringing", "alarm", "notification", "alert", "reminder", "bell", "bell ringing", "notifications on", "active alert", "alarm clock", "wake up", "ring", "chime", "ding", "sound on", "remind me", "due now", "urgent", "notify", "school bell", "doorbell"]
+  },
+  "check-circle": {
+    "context": "Check mark inside a circle. Used for success messages, completed steps, verified items, confirmed orders, passed checks and done states in lists.",
+    "keywords": ["success", "done", "complete", "verified", "ok", "tick", "check mark", "checkmark", "completed", "confirmed", "approved", "valid", "passed", "correct", "yes", "accept", "finished", "task complete", "order confirmed", "selected", "available"]
+  },
+  "circle-check-dashed": {
+    "context": "Check mark inside a dashed circle. Used for pending approval, partially done tasks, optional steps, draft items and checks waiting to be confirmed.",
+    "keywords": ["pending", "draft", "check", "optional", "partial", "complete", "dashed circle", "pending approval", "awaiting", "unconfirmed", "tentative", "in review", "almost done", "partly done", "provisional", "check mark", "tick", "soft complete", "unverified", "status", "todo"]
+  },
+  "circle-dashed": {
+    "context": "Circle drawn with a dashed outline and nothing inside. Used for not-started tasks, empty or draft states, backlog items, placeholders and unassigned slots.",
+    "keywords": ["dashed", "empty", "draft", "not started", "placeholder", "todo", "to do", "backlog", "dashed circle", "dotted circle", "open", "unassigned", "blank", "pending", "inactive", "planned", "new", "task status", "outline", "ghost", "status"]
+  },
+  "circle-dot": {
+    "context": "Circle with a solid dot at its centre. Used for selected radio buttons, active states, recording, targets, current location and in-progress task status.",
+    "keywords": ["selected", "active", "record", "target", "point", "radio", "radio button", "option selected", "dot", "bullseye", "center", "centre", "focus", "current", "in progress", "recording", "live", "location", "checked", "choice", "status"]
+  },
+  "circle-half": {
+    "context": "Circle with one half filled solid. Used for half-complete progress, contrast and theme toggles, dark mode switches, partial states and 50 percent values.",
+    "keywords": ["half", "partial", "contrast", "50 percent", "in progress", "theme", "half filled", "half done", "halfway", "dark mode", "light mode", "theme toggle", "appearance", "brightness", "yin yang", "split", "fifty percent", "semi", "moon phase", "progress", "status"]
+  },
+  "close-circle": {
+    "context": "Diagonal cross inside a circle. Used for errors, failed states, clear buttons in search fields, cancel actions, removing tags and dismissing panels.",
+    "keywords": ["error", "cancel", "clear", "failed", "remove", "x circle", "x", "close", "dismiss", "delete", "reject", "rejected", "wrong", "incorrect", "invalid", "fail", "clear search", "clear input", "deny", "exit", "no"]
+  },
+  "flag-status": {
+    "context": "Triangular pennant flying from a pole. Used for flagged items, follow-up markers, issue priority, reporting content, milestones and goals.",
+    "keywords": ["flagged", "pennant", "marker", "priority", "follow up", "status", "flag", "report", "report content", "mark", "milestone", "goal", "finish", "important", "bookmark", "attention", "issue", "tag", "checkpoint", "destination", "start"]
+  },
+  "help": {
+    "context": "Question mark inside a circle. Used for help links, FAQs, support centres, tooltips that explain a field, onboarding tips and unknown states.",
+    "keywords": ["question", "support", "faq", "unknown", "question mark", "help center", "help centre", "get help", "assistance", "info", "guide", "tooltip", "docs", "documentation", "how to", "ask", "hint", "tip", "customer service", "what is this", "troubleshoot"]
+  },
+  "info": {
+    "context": "Lowercase letter i inside a circle. Used for information notices, details panels, tooltips, about pages, hints and neutral banners.",
+    "keywords": ["information", "about", "details", "help", "tooltip", "i", "info circle", "more info", "learn more", "notice", "note", "hint", "tip", "description", "explanation", "fyi", "guide", "properties", "info banner", "i button", "status"]
+  },
+  "loader-circle": {
+    "context": "Circular arc that runs three quarters of the way round. Used as a loading spinner, busy indicator, pending request, refresh in progress and wait states.",
+    "keywords": ["loading", "spinner", "progress", "wait", "busy", "pending", "loader", "spin", "spinning", "please wait", "processing", "buffering", "in progress", "working", "fetching", "syncing", "throbber", "load", "activity indicator", "arc", "circle"]
+  },
+  "plus-circle": {
+    "context": "Plus sign inside a circle. Used for add buttons, create new items, add to cart, expand sections, new entries in lists and floating action buttons.",
+    "keywords": ["add", "create", "new", "add circle", "plus", "add new", "add item", "create new", "insert", "increase", "more", "expand", "include", "add to cart", "add to list", "new entry", "fab", "attach", "append", "positive", "join"]
+  },
+  "progress-check": {
+    "context": "Check mark inside a ring that runs three quarters of the way round. Used for a step completed within a larger process, milestones, onboarding progress and partial completion.",
+    "keywords": ["progress", "complete", "step done", "milestone", "check", "partial", "step complete", "progress ring", "in progress", "almost done", "onboarding", "checklist progress", "tick", "check mark", "task progress", "advancing", "percent complete", "stage", "workflow", "status", "achieved"]
+  },
+  "shield-status": {
+    "context": "Shield with a pulse or heartbeat line across it. Used for system health, security status, protection monitoring, uptime checks and device safety scans.",
+    "keywords": ["health", "protection", "security status", "monitoring", "pulse", "uptime", "shield", "shield pulse", "system health", "health check", "security", "protected", "antivirus", "defence", "defense", "safety", "heartbeat", "status check", "secure", "guard", "diagnostics"]
+  },
+  "status-away": {
+    "context": "Head and shoulders of a person with a crescent moon beside them. Used for away or idle presence, inactive users, sleep mode and quiet hours in chat apps.",
+    "keywords": ["away", "idle", "inactive", "afk", "presence", "status", "user away", "be right back", "brb", "moon", "crescent", "sleep", "sleeping", "night", "quiet hours", "snooze", "offline soon", "availability", "user status", "person", "rest"]
+  },
+  "status-busy": {
+    "context": "Head and shoulders of a person with a no-entry dot beside them. Used for busy or do not disturb presence, in a meeting status, focus time and muted notifications.",
+    "keywords": ["busy", "do not disturb", "dnd", "occupied", "presence", "status", "user busy", "in a meeting", "focus", "focus mode", "unavailable", "no entry", "minus", "muted", "silent", "on a call", "availability", "user status", "person", "red status", "blocked"]
+  },
+  "status-offline": {
+    "context": "Head and shoulders of a person with an empty ring beside them. Used for offline or invisible presence, unavailable users, logged-out contacts and disconnected accounts.",
+    "keywords": ["offline", "invisible", "unavailable", "away", "presence", "status", "user offline", "not available", "logged out", "signed out", "disconnected", "inactive", "hidden", "appear offline", "empty circle", "ring", "availability", "user status", "person", "grey status", "last seen"]
+  },
+  "status-online": {
+    "context": "Head and shoulders of a person with a solid dot beside them. Used for online or available presence, active users, logged-in contacts and team member availability.",
+    "keywords": ["online", "available", "active", "presence", "present", "status", "user online", "active now", "logged in", "signed in", "connected", "green dot", "here", "ready", "free", "available now", "availability", "user status", "person", "live", "dot"]
+  },
+  "stop-sign": {
+    "context": "Octagonal road sign on a post with a horizontal bar across the middle. Used for stop warnings, halted processes, traffic and driving topics, road safety and end of route.",
+    "keywords": ["stop", "halt", "traffic sign", "road sign", "end", "octagon", "street sign", "no entry", "do not enter", "traffic", "driving", "road safety", "warning", "caution", "blocked", "stop process", "pause", "prohibited", "sign post", "signage", "danger"]
+  },
+  "warning": {
+    "context": "Exclamation mark inside a triangle. Used for warnings, caution notices, risky actions, hazard signs, unsaved changes and alert banners.",
+    "keywords": ["alert", "caution", "danger", "attention", "exclamation", "warning sign", "triangle", "exclamation triangle", "hazard", "risk", "careful", "error", "problem", "issue", "important", "beware", "unsafe", "security warning", "alert triangle", "heads up", "notice"]
+  }
+}

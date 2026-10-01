@@ -1,0 +1,1591 @@
+{
+  "pallet-display": {
+    "context": "A wooden pallet seen from the front with a pyramid of boxes stacked on it. Used for bulk promotions, warehouse club aisles and seasonal stack displays.",
+    "keywords": [
+      "pallet",
+      "box stack",
+      "bulk display",
+      "warehouse club",
+      "promo",
+      "stacked boxes",
+      "store display",
+      "shop floor",
+      "stack",
+      "boxes",
+      "cartons",
+      "promotion",
+      "discount stock",
+      "bulk buy",
+      "wholesale",
+      "merchandising",
+      "retail",
+      "pallet display"
+    ]
+  },
+  "aisle-marker-sign": {
+    "context": "A rectangular sign hanging from two wires with a large number on it. Used for supermarket aisle numbers, store maps and wayfinding.",
+    "keywords": [
+      "aisle",
+      "aisle number",
+      "hanging sign",
+      "wayfinding",
+      "store layout",
+      "signage",
+      "aisle sign",
+      "ceiling sign",
+      "supermarket",
+      "grocery",
+      "store map",
+      "navigation",
+      "number two",
+      "find product",
+      "shop layout",
+      "aisle marker sign"
+    ]
+  },
+  "window-display": {
+    "context": "A storefront window frame with a dressed mannequin and a small price tag inside the glass. Used for shop front merchandising and visual display jobs.",
+    "keywords": [
+      "shop window",
+      "storefront",
+      "display window",
+      "merchandising",
+      "boutique",
+      "window shopping",
+      "visual merchandising",
+      "mannequin",
+      "shop front",
+      "glass",
+      "display case",
+      "fashion",
+      "clothing store",
+      "retail design",
+      "window display"
+    ]
+  },
+  "gondola-shelving": {
+    "context": "A freestanding shelf unit seen from the end with shelves on both sides of a central upright panel. Used for supermarket aisles and store layout planning.",
+    "keywords": [
+      "gondola",
+      "shelf unit",
+      "store shelf",
+      "aisle shelving",
+      "fixture",
+      "supermarket",
+      "shelves",
+      "supermarket shelf",
+      "double sided shelf",
+      "store fixture",
+      "grocery aisle",
+      "product shelf",
+      "planogram",
+      "retail fixtures",
+      "gondola shelving"
+    ]
+  },
+  "slatwall-panel": {
+    "context": "A wall panel of evenly spaced horizontal grooves with two hooks and a small shelf fixed in the slots. Used for flexible wall merchandising in shops and garages.",
+    "keywords": [
+      "slatwall",
+      "wall panel",
+      "display hooks",
+      "wall fixture",
+      "merchandising",
+      "retail wall",
+      "slat wall",
+      "wall display",
+      "grooved panel",
+      "hook panel",
+      "shelf bracket",
+      "merchandising wall",
+      "hanging display",
+      "store wall",
+      "retail fitting",
+      "shop fitting",
+      "slatwall panel"
+    ]
+  },
+  "peg-hook-display": {
+    "context": "A pegboard square with two long straight hooks holding hanging blister packs. Used for small hardware, accessories and impulse products in stores.",
+    "keywords": [
+      "pegboard",
+      "peg hook",
+      "blister pack",
+      "hanging display",
+      "hardware aisle",
+      "hang tab",
+      "peg board",
+      "hanging pack",
+      "hook display",
+      "hardware store",
+      "wall hooks",
+      "accessories",
+      "small items",
+      "carded goods",
+      "hanging merchandise",
+      "retail hooks",
+      "peg hook display"
+    ]
+  },
+  "hat-display-stand": {
+    "context": "A tall pole stand with three round caps on short arms at different heights. Used in hat shops and accessory sections.",
+    "keywords": [
+      "hat stand",
+      "cap display",
+      "headwear",
+      "hat rack",
+      "baseball cap",
+      "fixture",
+      "cap stand",
+      "hat shop",
+      "beanie rack",
+      "accessories stand",
+      "tree stand",
+      "hat tree",
+      "fashion accessories",
+      "hat holder",
+      "hat display stand"
+    ]
+  },
+  "eyewear-display-tower": {
+    "context": "A narrow vertical tower with pairs of glasses resting on small ledges one above another. Used by opticians and sunglass sellers.",
+    "keywords": [
+      "sunglasses",
+      "glasses display",
+      "optical shop",
+      "eyewear",
+      "spinner rack",
+      "tower",
+      "glasses stand",
+      "sunglasses rack",
+      "optician",
+      "spectacles",
+      "eyeglasses display",
+      "sunglass tower",
+      "frames",
+      "eyewear shop",
+      "glasses holder",
+      "shades",
+      "eyewear display tower"
+    ]
+  },
+  "ring-display-tray": {
+    "context": "A shallow rectangular tray with slots and three rings standing in them. Used in jewellery shops and market stalls.",
+    "keywords": [
+      "ring tray",
+      "jewelry display",
+      "jewellery",
+      "rings",
+      "showcase",
+      "engagement ring",
+      "jewelry tray",
+      "jewellery display",
+      "ring holder",
+      "ring box",
+      "ring slots",
+      "jewelry store",
+      "jeweler",
+      "showcase tray",
+      "ring stand",
+      "accessories",
+      "ring display tray"
+    ]
+  },
+  "watch-display-cushion": {
+    "context": "A small oval pillow with a watch strap wrapped around it and the dial on top. Used for watch retail and jewellery counters.",
+    "keywords": [
+      "watch",
+      "wristwatch",
+      "cushion",
+      "watch pillow",
+      "jewelry display",
+      "timepiece",
+      "watch cushion",
+      "watch shop",
+      "watch stand",
+      "watch holder",
+      "jewelry counter",
+      "horology",
+      "luxury goods",
+      "product showcase",
+      "watch display",
+      "watch display cushion"
+    ]
+  },
+  "earring-card": {
+    "context": "A small card with a hanging hole at the top and a pair of stud earrings pushed through it. Used for packaged jewellery in shops and craft markets.",
+    "keywords": [
+      "earrings",
+      "stud earrings",
+      "jewelry card",
+      "hang tab",
+      "packaging",
+      "accessories",
+      "jewellery packaging",
+      "display card",
+      "retail card",
+      "earring packaging",
+      "studs",
+      "craft fair",
+      "earring card"
+    ]
+  },
+  "mannequin-hand": {
+    "context": "An upright hand shaped display form on a round base with a ring on one finger. Used to show rings and gloves in shops.",
+    "keywords": [
+      "hand form",
+      "glove display",
+      "jewelry display",
+      "mannequin",
+      "hand model",
+      "glove stand",
+      "hand mannequin",
+      "ring display",
+      "jewelry hand",
+      "hand stand",
+      "display hand",
+      "gloves",
+      "fashion display",
+      "accessories display",
+      "mannequin hand"
+    ]
+  },
+  "glass-door-cooler": {
+    "context": "An upright refrigerator with a full glass door, shelves of bottles and a handle bar. Used for chilled drinks in convenience stores.",
+    "keywords": [
+      "drinks cooler",
+      "beverage cooler",
+      "fridge",
+      "bottle fridge",
+      "convenience store",
+      "refrigerated",
+      "drinks fridge",
+      "chiller",
+      "display fridge",
+      "refrigerator",
+      "soda fridge",
+      "cold drinks",
+      "bottles",
+      "merchandiser",
+      "cooler",
+      "glass fridge",
+      "glass door cooler"
+    ]
+  },
+  "open-display-chiller": {
+    "context": "A tall open front refrigerated case with stepped shelves of packs and a curtain line at the top. Used for dairy and ready meals in supermarkets.",
+    "keywords": [
+      "multideck",
+      "open chiller",
+      "dairy case",
+      "grocery fridge",
+      "refrigerated shelves",
+      "cold case",
+      "open front fridge",
+      "refrigerated case",
+      "dairy chiller",
+      "chilled food",
+      "supermarket",
+      "air curtain",
+      "cold shelf",
+      "ready meals",
+      "fresh food",
+      "cooler",
+      "open display chiller"
+    ]
+  },
+  "deli-counter": {
+    "context": "A curved glass front counter with trays of sliced meat inside and a scale on top. Used for delicatessen and fresh food service areas.",
+    "keywords": [
+      "deli",
+      "butcher counter",
+      "meat counter",
+      "food counter",
+      "service counter",
+      "sliced meat",
+      "delicatessen",
+      "cold cuts",
+      "butcher",
+      "serve over",
+      "cheese counter",
+      "fresh food",
+      "supermarket deli",
+      "weighing scale",
+      "deli counter"
+    ]
+  },
+  "gravity-bin-dispenser": {
+    "context": "A clear vertical bin mounted on a wall with a lever handle at the bottom above a chute. Used for dry goods such as cereal, nuts and grains.",
+    "keywords": [
+      "bulk bin",
+      "bulk foods",
+      "dry goods",
+      "grain dispenser",
+      "cereal dispenser",
+      "nuts and candy",
+      "scoop-free",
+      "gravity bin",
+      "dry food",
+      "nuts",
+      "grains",
+      "scoop free",
+      "wall bin",
+      "lever dispenser",
+      "bulk store",
+      "refill shop",
+      "gravity bin dispenser"
+    ]
+  },
+  "pick-and-mix-bins": {
+    "context": "A row of three clear bins with propped lids and sweets inside, with a scoop hanging below. Used for self serve sweet shops and cinema counters.",
+    "keywords": [
+      "pick and mix",
+      "candy bins",
+      "sweets",
+      "bulk candy",
+      "sweet shop",
+      "self serve candy",
+      "lolly",
+      "scoop",
+      "confectionery",
+      "candy store",
+      "penny sweets",
+      "treats",
+      "pick and mix bins"
+    ]
+  },
+  "live-seafood-tank": {
+    "context": "A glass tank with a lobster at the bottom, rising bubbles and a wavy waterline. Used for fishmongers, restaurants and fresh seafood sections.",
+    "keywords": [
+      "lobster tank",
+      "fish tank",
+      "seafood counter",
+      "live lobster",
+      "aquarium",
+      "fresh seafood",
+      "fishmonger",
+      "shellfish",
+      "crab",
+      "water tank",
+      "bubbles",
+      "fish market",
+      "live seafood tank"
+    ]
+  },
+  "flower-bucket-stand": {
+    "context": "A tiered stand with three buckets on steps, each holding bunches of flowers. Used for florists and street flower stalls.",
+    "keywords": [
+      "florist",
+      "cut flowers",
+      "flower stall",
+      "bouquets",
+      "flower shop",
+      "buckets",
+      "market stand",
+      "flower buckets",
+      "bunches",
+      "blooms",
+      "market stall",
+      "flower stand",
+      "plants",
+      "floral display",
+      "flower bucket stand"
+    ]
+  },
+  "paint-chip-rack": {
+    "context": "A wall rack with rows of narrow colour strip cards, each strip showing three shade blocks. Used in paint departments and decorating stores.",
+    "keywords": [
+      "paint swatches",
+      "colour samples",
+      "color chips",
+      "paint aisle",
+      "paint colours",
+      "hardware store",
+      "swatch",
+      "colour cards",
+      "paint samples",
+      "shade cards",
+      "decorating",
+      "paint department",
+      "colour matching",
+      "wall colours",
+      "interior design",
+      "swatch rack",
+      "paint chip rack"
+    ]
+  },
+  "lumber-rack": {
+    "context": "A tall metal rack with long boards resting horizontally on cantilever arms. Used for timber yards and home improvement stores.",
+    "keywords": [
+      "timber",
+      "wood boards",
+      "lumber yard",
+      "planks",
+      "building supplies",
+      "cantilever rack",
+      "board storage",
+      "timber rack",
+      "wood storage",
+      "boards",
+      "timber yard",
+      "builders merchant",
+      "wood store",
+      "hardware store",
+      "storage rack",
+      "lumber rack"
+    ]
+  },
+  "rope-spool-rack": {
+    "context": "A frame holding three large spools of rope on a horizontal bar with the ends hanging down. Used for cut to length rope sales in hardware and marine shops.",
+    "keywords": [
+      "rope",
+      "cable reel",
+      "cordage",
+      "spools",
+      "hardware store",
+      "rope by the foot",
+      "twine",
+      "rope reel",
+      "cord spool",
+      "cut to length",
+      "rope by the metre",
+      "marine store",
+      "sold by length",
+      "rope dispenser",
+      "chandlery",
+      "spool stand",
+      "rope spool rack"
+    ]
+  },
+  "seed-packet-display": {
+    "context": "A small rack with rows of pockets each holding a seed packet showing a flower picture. Used in garden centres and farm shops.",
+    "keywords": [
+      "seeds",
+      "seed packets",
+      "garden centre",
+      "gardening",
+      "planting",
+      "seed rack",
+      "flower seeds",
+      "garden center",
+      "nursery",
+      "vegetable seeds",
+      "spinner rack",
+      "seed shop",
+      "seed packet display"
+    ]
+  },
+  "greeting-card-rack": {
+    "context": "A tiered rack with rows of folded greeting cards standing upright in pockets. Used in stationery and card shops.",
+    "keywords": [
+      "cards",
+      "greeting cards",
+      "birthday cards",
+      "stationery",
+      "card shop",
+      "card display",
+      "gift shop",
+      "card stand",
+      "gift cards",
+      "occasion cards",
+      "folded cards",
+      "card aisle",
+      "cards rack",
+      "wishes",
+      "greeting card rack"
+    ]
+  },
+  "clip-strip-display": {
+    "context": "A long vertical plastic strip with small snack bags clipped one below another and a hook at the top. Used for impulse snacks near checkouts.",
+    "keywords": [
+      "clip strip",
+      "snack bags",
+      "hanging snacks",
+      "impulse buy",
+      "chips display",
+      "hang sell",
+      "merchandising strip",
+      "snack strip",
+      "hanging strip",
+      "checkout display",
+      "convenience store",
+      "strip merchandiser",
+      "hanging bags",
+      "crisps",
+      "small packs",
+      "clip strip display"
+    ]
+  },
+  "nail-polish-display": {
+    "context": "A stepped acrylic rack with three rows of small nail polish bottles. Used in beauty shops and salons selling polish.",
+    "keywords": [
+      "nail polish",
+      "nail varnish",
+      "cosmetics display",
+      "beauty aisle",
+      "manicure",
+      "polish rack",
+      "bottles",
+      "nail lacquer",
+      "beauty store",
+      "salon",
+      "cosmetics",
+      "nail art",
+      "nail bar",
+      "colour range",
+      "beauty display",
+      "makeup",
+      "nail polish display"
+    ]
+  },
+  "shirt-folding-board": {
+    "context": "A flat hinged board with three folding panels and a folded shirt outline beside it. Used by clothing store staff to fold shirts evenly.",
+    "keywords": [
+      "folding board",
+      "shirt folder",
+      "garment folding",
+      "clothing store",
+      "tee fold",
+      "apparel",
+      "retail tool",
+      "t-shirt folder",
+      "fold board",
+      "folding tool",
+      "neat folds",
+      "laundry fold",
+      "fold shirts",
+      "retail staff",
+      "tidy stack",
+      "folding guide",
+      "shirt folding board"
+    ]
+  },
+  "waterfall-display-arm": {
+    "context": "A sloped bar sticking out of a wall panel with knobs along it and two hangers hooked on. Used to hang clothes in a cascading line.",
+    "keywords": [
+      "waterfall arm",
+      "clothing rail",
+      "hanger bar",
+      "slatwall arm",
+      "garment display",
+      "apparel fixture",
+      "wall bar",
+      "faceout",
+      "hanging arm",
+      "clothes rail",
+      "wall arm",
+      "boutique",
+      "clothing rack",
+      "retail fitting",
+      "waterfall display arm"
+    ]
+  },
+  "floor-shoe-mirror": {
+    "context": "A small low mirror tilted upward on the floor with a shoe standing beside it. Used in shoe shops so customers can see shoes on their feet.",
+    "keywords": [
+      "shoe mirror",
+      "footwear",
+      "try on shoes",
+      "shoe store",
+      "floor mirror",
+      "sneaker",
+      "fitting",
+      "footwear mirror",
+      "shoe shop",
+      "low mirror",
+      "foot mirror",
+      "sneakers",
+      "trying shoes",
+      "angled mirror",
+      "fitting mirror",
+      "footwear store",
+      "floor shoe mirror"
+    ]
+  },
+  "makeup-tester-display": {
+    "context": "A sloped counter tray holding lipsticks and round compacts with a small mirror at the back. Used in cosmetics departments for trying shades.",
+    "keywords": [
+      "makeup",
+      "cosmetics counter",
+      "lipstick",
+      "tester",
+      "beauty display",
+      "compact",
+      "vanity",
+      "cosmetics tester",
+      "lipstick display",
+      "makeup counter",
+      "beauty counter",
+      "sample station",
+      "try on makeup",
+      "beauty shop",
+      "tester stand",
+      "cosmetics store",
+      "lip colour",
+      "makeup tester display"
+    ]
+  },
+  "merchandise-table": {
+    "context": "A low table with piles of folded shirts and a small sign stand on the corner. Used for promotional tables in clothing stores.",
+    "keywords": [
+      "display table",
+      "sales table",
+      "folded clothes",
+      "apparel table",
+      "promo table",
+      "clothing pile",
+      "retail table",
+      "clothing table",
+      "sale table",
+      "apparel",
+      "shirts",
+      "fashion store",
+      "table display",
+      "sign stand",
+      "shop table",
+      "stacks",
+      "merchandise table"
+    ]
+  },
+  "folded-shirt-stack": {
+    "context": "A stack of four neatly folded T-shirts seen from the front with collars showing on top. Used for apparel shelves and laundry themes.",
+    "keywords": [
+      "folded shirts",
+      "t-shirts",
+      "clothes pile",
+      "apparel",
+      "tees",
+      "laundry",
+      "garment stack",
+      "folded clothes",
+      "clothing stack",
+      "wardrobe",
+      "shirt pile",
+      "garments",
+      "shelf stack",
+      "folded tops",
+      "folded shirt stack"
+    ]
+  },
+  "ball-cage-display": {
+    "context": "A wire mesh cage bin on the floor with sports balls poking above the rim. Used in sporting goods stores.",
+    "keywords": [
+      "ball bin",
+      "sports balls",
+      "wire cage",
+      "sporting goods",
+      "football",
+      "basketball",
+      "bulk bin",
+      "football bin",
+      "soccer",
+      "mesh cage",
+      "ball basket",
+      "sports store",
+      "ball storage",
+      "equipment bin",
+      "toy store",
+      "ball cage display"
+    ]
+  },
+  "listening-station": {
+    "context": "A pair of headphones hanging on a stand with a small screen and a play button below. Used in music stores to sample records and tracks.",
+    "keywords": [
+      "headphones",
+      "listening post",
+      "music store",
+      "demo station",
+      "audio demo",
+      "sound sample",
+      "play button",
+      "headphone stand",
+      "sample station",
+      "preview music",
+      "record shop",
+      "try before you buy",
+      "music kiosk",
+      "vinyl",
+      "sound demo",
+      "listening station"
+    ]
+  },
+  "can-pyramid-display": {
+    "context": "A pyramid of stacked cans with four on the bottom row rising to one on top. Used for grocery promotions and end aisle displays.",
+    "keywords": [
+      "can stack",
+      "canned goods",
+      "pyramid",
+      "grocery display",
+      "tins",
+      "end cap",
+      "promotion",
+      "stacked cans",
+      "supermarket promotion",
+      "food cans",
+      "pantry",
+      "special offer",
+      "tinned food",
+      "can pyramid display"
+    ]
+  },
+  "acrylic-display-riser": {
+    "context": "Three clear stepped blocks of different heights with a small product on each step. Used on counters to lift and show products.",
+    "keywords": [
+      "riser",
+      "acrylic stand",
+      "stepped display",
+      "product stand",
+      "counter display",
+      "tiered display",
+      "showcase",
+      "display riser",
+      "stepped stand",
+      "risers",
+      "tiered stand",
+      "product showcase",
+      "steps",
+      "cosmetics stand",
+      "jewelry riser",
+      "acrylic display riser"
+    ]
+  },
+  "acrylic-sign-holder": {
+    "context": "A clear stand holding an upright card with lines of text on a counter. Used for prices, menus and notices on tables and counters.",
+    "keywords": [
+      "sign holder",
+      "menu holder",
+      "table tent",
+      "counter sign",
+      "card stand",
+      "price sign",
+      "display card",
+      "menu stand",
+      "sign stand",
+      "price card",
+      "counter card",
+      "card holder",
+      "notice stand",
+      "signage",
+      "acrylic frame",
+      "flyer stand",
+      "display frame",
+      "information card",
+      "acrylic sign holder"
+    ]
+  },
+  "poster-floor-stand": {
+    "context": "A poster frame on a single post standing on a heavy round base. Used for promotions and advertising in store entrances.",
+    "keywords": [
+      "poster stand",
+      "floor sign",
+      "banner stand",
+      "advertising",
+      "sandwich board",
+      "promo sign",
+      "signage",
+      "advertising stand",
+      "sign stand",
+      "promo board",
+      "banner",
+      "display stand",
+      "notice board",
+      "shop entrance",
+      "marketing",
+      "promotion sign",
+      "poster floor stand"
+    ]
+  },
+  "phone-display-tether": {
+    "context": "A smartphone standing on a small puck base joined by a coiled security cable. Used for demo phones in electronics shops.",
+    "keywords": [
+      "security tether",
+      "phone display",
+      "anti-theft",
+      "demo phone",
+      "electronics store",
+      "puck",
+      "coiled cable",
+      "phone security",
+      "tethered phone",
+      "anti theft",
+      "mobile store",
+      "display phone",
+      "security cable",
+      "electronics shop",
+      "try phone",
+      "coiled cord",
+      "device display",
+      "phone display tether"
+    ]
+  },
+  "hosiery-leg-form": {
+    "context": "A leg shaped display form with a stocking band and a hanging loop at the thigh. Used to show tights, socks and stockings in shops.",
+    "keywords": [
+      "leg form",
+      "stocking display",
+      "tights",
+      "hosiery",
+      "sock display",
+      "mannequin leg",
+      "lingerie",
+      "tights display",
+      "socks",
+      "leg mannequin",
+      "leg stand",
+      "pantyhose",
+      "lingerie store",
+      "display form",
+      "nylon",
+      "legwear",
+      "hosiery leg form"
+    ]
+  },
+  "checkout-impulse-rack": {
+    "context": "A small rack of bins holding candy bars and gum, drawn beside the edge of a checkout counter. Used for last minute purchases at tills.",
+    "keywords": [
+      "impulse buy",
+      "candy rack",
+      "checkout display",
+      "gum",
+      "confectionery",
+      "till point",
+      "counter rack",
+      "till",
+      "counter display",
+      "snacks",
+      "queue",
+      "point of sale",
+      "sweets",
+      "last minute purchase",
+      "checkout impulse rack"
+    ]
+  },
+  "rug-flip-rack": {
+    "context": "A wall mounted rack with hinged arms that fan out, each draped with a hanging rug. Used for carpet and home furnishing displays.",
+    "keywords": [
+      "rug rack",
+      "carpet display",
+      "flip arms",
+      "mat display",
+      "floor covering",
+      "hinged rack",
+      "home store",
+      "rug display",
+      "carpet rack",
+      "wall rack",
+      "rug shop",
+      "carpet shop",
+      "rugs",
+      "textile display",
+      "rug flip rack"
+    ]
+  },
+  "tag-detacher": {
+    "context": "A dome shaped detacher fixed on a counter with a round security tag on top. Used by cashiers to remove anti theft tags after payment.",
+    "keywords": [
+      "tag remover",
+      "security tag",
+      "anti-theft",
+      "checkout",
+      "magnetic detacher",
+      "loss prevention",
+      "alarm tag",
+      "security tag remover",
+      "tag removal",
+      "anti theft",
+      "cashier tool",
+      "ink tag",
+      "clothing tag",
+      "store security",
+      "point of sale",
+      "tag detacher"
+    ]
+  },
+  "ice-merchandiser": {
+    "context": "A chest style outdoor freezer with a lid line and a snowflake on its front. Used for bagged ice sales outside convenience stores and petrol stations.",
+    "keywords": [
+      "ice freezer",
+      "bagged ice",
+      "outdoor freezer",
+      "frozen",
+      "convenience store",
+      "snowflake",
+      "cold storage",
+      "ice machine",
+      "freezer",
+      "frozen goods",
+      "gas station",
+      "ice sales",
+      "chest freezer",
+      "ice merchandiser"
+    ]
+  },
+  "paint-shaker": {
+    "context": "A boxy machine with a paint can clamped between two plates and motion lines on each side. Used in hardware stores to mix paint.",
+    "keywords": [
+      "paint mixer",
+      "paint shop",
+      "shake",
+      "mixing machine",
+      "hardware store",
+      "vibrate",
+      "colour mixing",
+      "paint mixing",
+      "paint can",
+      "shaking machine",
+      "tint machine",
+      "decorating",
+      "paint department",
+      "mix paint",
+      "can shaker",
+      "paint shaker"
+    ]
+  },
+  "propane-exchange-cage": {
+    "context": "A mesh cage holding two rows of gas cylinders. Used for cylinder swap and refill points outside shops.",
+    "keywords": [
+      "gas cylinder",
+      "propane tank",
+      "bottle exchange",
+      "lpg",
+      "cage",
+      "outdoor storage",
+      "refill",
+      "propane cage",
+      "gas bottle exchange",
+      "bbq gas",
+      "cylinder swap",
+      "tank exchange",
+      "camping gas",
+      "outdoor cage",
+      "refill station",
+      "gas tank",
+      "fuel bottles",
+      "propane exchange cage"
+    ]
+  },
+  "bread-slicer": {
+    "context": "A slicing machine with a loaf in the front slot and vertical blades above it. Used in bakeries and supermarket bakery sections.",
+    "keywords": [
+      "bakery slicer",
+      "bread machine",
+      "loaf",
+      "slice",
+      "bakery",
+      "blades",
+      "supermarket bakery",
+      "bread slicing",
+      "loaf slicer",
+      "bakery machine",
+      "slice bread",
+      "sliced loaf",
+      "bakery equipment",
+      "bread cutter",
+      "toast",
+      "sandwich bread",
+      "bread slicer"
+    ]
+  },
+  "fitting-room-tag": {
+    "context": "A plastic tag with an arched hanging loop and a large number 3 on its face. Used to count garments taken into changing rooms.",
+    "keywords": [
+      "fitting room",
+      "changing room",
+      "garment limit",
+      "try on",
+      "number tag",
+      "dressing room",
+      "clothing store",
+      "changing room tag",
+      "garment count",
+      "try on limit",
+      "fitting room number",
+      "clothes store",
+      "hanger tag",
+      "try on clothes",
+      "item count",
+      "apparel store",
+      "loss prevention",
+      "fitting room tag"
+    ]
+  },
+  "shoe-fitting-stool": {
+    "context": "A low stool seen from the side with a sloped foot rest ramp on its front edge. Used in shoe stores for trying on footwear.",
+    "keywords": [
+      "shoe stool",
+      "fitting stool",
+      "footwear",
+      "try on shoes",
+      "shoe store",
+      "ramp",
+      "seat",
+      "footwear store",
+      "foot rest",
+      "shoe shop seat",
+      "shoe fitting",
+      "sizing",
+      "shoe sizer",
+      "footstool",
+      "shoe fitting stool"
+    ]
+  },
+  "hanger-size-divider": {
+    "context": "A round disc with a slot to its centre hanging on a rail and marked with the letter M. Used to separate clothing sizes on rails.",
+    "keywords": [
+      "size divider",
+      "size marker",
+      "clothes rail",
+      "garment size",
+      "medium",
+      "rail divider",
+      "apparel",
+      "clothing rail",
+      "medium size",
+      "hanger disc",
+      "rail marker",
+      "size separator",
+      "sizing",
+      "clothes rack",
+      "small medium large",
+      "hanger size divider"
+    ]
+  },
+  "electronic-shelf-label": {
+    "context": "A small digital price label clipped to a shelf edge showing a price line and a tiny barcode. Used for dynamic pricing in supermarkets.",
+    "keywords": [
+      "digital price tag",
+      "e-ink label",
+      "shelf edge",
+      "price display",
+      "esl",
+      "barcode",
+      "smart shelf",
+      "shelf label",
+      "dynamic pricing",
+      "price tag",
+      "barcode label",
+      "electronic price",
+      "retail technology",
+      "electronic shelf label"
+    ]
+  },
+  "price-check-kiosk": {
+    "context": "A small wall mounted screen with a scanner window below and a beam line under it. Used so shoppers can scan an item to see its price.",
+    "keywords": [
+      "price checker",
+      "scan price",
+      "barcode scanner",
+      "self service",
+      "price lookup",
+      "wall kiosk",
+      "scanner",
+      "kiosk",
+      "scanner station",
+      "what does it cost",
+      "wall unit",
+      "supermarket",
+      "shopper tool",
+      "product info",
+      "price check kiosk"
+    ]
+  },
+  "bag-carousel": {
+    "context": "A rotating stand with three shopping bags hanging open on arms around a central post. Used at checkouts for carrier bags.",
+    "keywords": [
+      "bag stand",
+      "carry bags",
+      "rotating rack",
+      "bag dispenser",
+      "checkout bags",
+      "spinner",
+      "shopping bags",
+      "carrier bags",
+      "rotating bag rack",
+      "bag holder",
+      "till point",
+      "plastic bags",
+      "packing station",
+      "bagging",
+      "bag carousel"
+    ]
+  },
+  "boutique-bag": {
+    "context": "A stiff rectangular shopping bag with a looped rope handle and a folded top edge. Used for gift bags, luxury purchases and shop packaging.",
+    "keywords": [
+      "gift bag",
+      "paper bag",
+      "carrier bag",
+      "luxury shopping",
+      "rope handle",
+      "boutique",
+      "purchase",
+      "shopping bag",
+      "retail bag",
+      "fashion store",
+      "packaging",
+      "tote",
+      "boutique bag"
+    ]
+  },
+  "u-boat-stocking-cart": {
+    "context": "A long narrow flat cart with upturned ends and boxes stacked in the middle. Used by store staff to restock shelves.",
+    "keywords": [
+      "stock cart",
+      "flatbed cart",
+      "pallet jack",
+      "restocking",
+      "shelf stocking",
+      "trolley",
+      "warehouse cart",
+      "stocking cart",
+      "platform truck",
+      "boxes",
+      "utility cart",
+      "stock room",
+      "replenishment",
+      "supermarket staff",
+      "u boat stocking cart"
+    ]
+  },
+  "cart-wipes-dispenser": {
+    "context": "An upright canister of cart wipes with one wipe pulled up and a small bin at its base. Used at supermarket entrances to clean trolley handles.",
+    "keywords": [
+      "sanitizer wipes",
+      "cart wipes",
+      "hygiene",
+      "disinfectant",
+      "cleaning",
+      "wipe dispenser",
+      "supermarket",
+      "trolley wipes",
+      "hygiene station",
+      "cleaning wipes",
+      "cart handle",
+      "sanitiser",
+      "supermarket entrance",
+      "germs",
+      "clean hands",
+      "bin",
+      "cart wipes dispenser"
+    ]
+  },
+  "produce-bag-dispenser": {
+    "context": "A roll of thin plastic bags on a bar with one bag hanging down by a torn edge. Used in fruit and vegetable sections.",
+    "keywords": [
+      "produce bags",
+      "plastic bag roll",
+      "grocery",
+      "fruit bags",
+      "bag roll",
+      "supermarket",
+      "pull bag",
+      "vegetables",
+      "tear off bag",
+      "fresh produce",
+      "loose fruit",
+      "bag holder",
+      "zero waste",
+      "produce bag dispenser"
+    ]
+  },
+  "chalkboard-price-card": {
+    "context": "A small chalkboard sign on a spike pushed into a pile of apples with a price dash. Used at farm stands and market stalls.",
+    "keywords": [
+      "price sign",
+      "chalk sign",
+      "farm stand",
+      "market stall",
+      "apples",
+      "produce price",
+      "greengrocer",
+      "fruit stall",
+      "farmers market",
+      "blackboard",
+      "price ticket",
+      "fresh fruit",
+      "chalkboard price card"
+    ]
+  },
+  "store-hours-sign": {
+    "context": "A door sign hanging from a string with a clock face above a line of opening times. Used on shop doors to show when a business is open.",
+    "keywords": [
+      "opening hours",
+      "open sign",
+      "business hours",
+      "door sign",
+      "clock",
+      "schedule",
+      "shop door",
+      "closing time",
+      "hours of operation",
+      "open closed",
+      "timetable",
+      "trading hours",
+      "store hours sign"
+    ]
+  },
+  "self-order-kiosk": {
+    "context": "A tall slim kiosk with a touch screen showing a grid of tiles and a card slot below. Used for ordering food and paying without staff.",
+    "keywords": [
+      "order kiosk",
+      "touch screen",
+      "self service",
+      "ordering terminal",
+      "fast food",
+      "menu screen",
+      "pos",
+      "self checkout",
+      "order point",
+      "restaurant kiosk",
+      "card reader",
+      "digital menu",
+      "self order kiosk"
+    ]
+  },
+  "customer-service-desk": {
+    "context": "A counter desk with a round question mark sign above it. Used for help desks, returns and information points in shops.",
+    "keywords": [
+      "help desk",
+      "information desk",
+      "service counter",
+      "returns desk",
+      "enquiries",
+      "assistance",
+      "front desk",
+      "support",
+      "ask here",
+      "customer support",
+      "shop help",
+      "reception",
+      "customer service desk"
+    ]
+  },
+  "antique-cash-register": {
+    "context": "An old fashioned cash register with a number flag on top, keys and a drawer. Used for vintage shops, retro themes and sales.",
+    "keywords": [
+      "vintage register",
+      "till",
+      "retro",
+      "cash drawer",
+      "old shop",
+      "sale",
+      "checkout",
+      "old fashioned",
+      "nostalgic",
+      "cash machine",
+      "shop counter",
+      "point of sale",
+      "antique cash register"
+    ]
+  },
+  "inventory-handheld": {
+    "context": "A rugged handheld scanner computer with a screen, keys and a beam from its top edge. Used for stock takes and receiving goods.",
+    "keywords": [
+      "barcode scanner",
+      "stock take",
+      "handheld terminal",
+      "inventory scanner",
+      "mobile computer",
+      "scan gun",
+      "warehouse",
+      "stock count",
+      "scanning",
+      "logistics",
+      "receiving",
+      "rf gun",
+      "inventory handheld"
+    ]
+  },
+  "cart-escalator": {
+    "context": "An inclined moving walkway strip with a shopping cart riding up it at an angle. Used for multi floor stores and malls.",
+    "keywords": [
+      "travelator",
+      "moving walkway",
+      "cart ramp",
+      "inclined conveyor",
+      "mall",
+      "supermarket",
+      "slope",
+      "moving ramp",
+      "trolley lift",
+      "shopping centre",
+      "floor access",
+      "cart conveyor",
+      "cart escalator"
+    ]
+  },
+  "smart-shopping-cart": {
+    "context": "A shopping cart with a small screen above the handle and a scan beam from the screen. Used for scan and go shopping.",
+    "keywords": [
+      "scan and go",
+      "self checkout cart",
+      "connected cart",
+      "cart screen",
+      "retail tech",
+      "smart cart",
+      "scanner",
+      "digital trolley",
+      "cashierless",
+      "shopping trolley",
+      "barcode",
+      "tech shopping",
+      "smart shopping cart"
+    ]
+  },
+  "kids-shopping-cart": {
+    "context": "A small child sized shopping cart with a tall flag on a pole at the back. Used for family friendly stores and toy shops.",
+    "keywords": [
+      "toddler cart",
+      "mini cart",
+      "children's cart",
+      "junior trolley",
+      "family shopping",
+      "flag",
+      "kid",
+      "children cart",
+      "child trolley",
+      "small cart",
+      "kids shopping",
+      "family store",
+      "little helper",
+      "kids shopping cart"
+    ]
+  },
+  "wheelchair-shopping-cart": {
+    "context": "A side view wheelchair with a shopping basket frame attached to its front. Used for accessibility notices in shops.",
+    "keywords": [
+      "accessible cart",
+      "mobility cart",
+      "disability shopping",
+      "motorised cart",
+      "wheelchair",
+      "basket",
+      "inclusive store",
+      "accessibility",
+      "special needs",
+      "mobility aid",
+      "access",
+      "shopper support",
+      "wheelchair shopping cart"
+    ]
+  },
+  "produce-plu-sticker": {
+    "context": "An apple with a small oval sticker on its side showing a product number. Used for produce labelling and price lookup codes.",
+    "keywords": [
+      "plu sticker",
+      "fruit label",
+      "produce code",
+      "price look up",
+      "apple",
+      "grocery",
+      "barcode label",
+      "fruit sticker",
+      "checkout code",
+      "fresh produce",
+      "label",
+      "supermarket",
+      "produce plu sticker"
+    ]
+  },
+  "bulk-refill-dispenser": {
+    "context": "A row of three wall dispensers with a glass jar underneath the middle nozzle. Used for zero waste refill shops.",
+    "keywords": [
+      "refill station",
+      "zero waste",
+      "bulk bins",
+      "dry goods",
+      "gravity dispenser",
+      "eco shop",
+      "jar",
+      "reuse",
+      "bring your own container",
+      "sustainable shopping",
+      "refill store",
+      "bulk foods",
+      "bulk refill dispenser"
+    ]
+  },
+  "photo-kiosk": {
+    "context": "A kiosk with a touch screen showing a picture and a printed photo coming out of the slot below. Used for printing photos in shops.",
+    "keywords": [
+      "photo printing",
+      "print station",
+      "picture kiosk",
+      "photo booth",
+      "snapshot",
+      "image print",
+      "drugstore",
+      "photo lab",
+      "print photos",
+      "prints",
+      "self service print",
+      "memories",
+      "instant photo",
+      "photo kiosk"
+    ]
+  },
+  "movie-rental-kiosk": {
+    "context": "A kiosk with a screen and a disc dropping out of the slot below it. Used for renting films from vending units.",
+    "keywords": [
+      "dvd rental",
+      "disc kiosk",
+      "film rental",
+      "vending",
+      "blu-ray",
+      "video rental",
+      "red box style",
+      "movie night",
+      "rent a movie",
+      "vending machine",
+      "disc slot",
+      "cinema at home",
+      "entertainment",
+      "movie rental kiosk"
+    ]
+  },
+  "windowed-box-packaging": {
+    "context": "A product box with a clear cut out window on the front showing a small toy inside. Used for toy and gadget packaging.",
+    "keywords": [
+      "window box",
+      "toy packaging",
+      "retail packaging",
+      "clear window",
+      "product box",
+      "display box",
+      "boxed toy",
+      "see through",
+      "package design",
+      "gift box",
+      "product packaging",
+      "shelf ready",
+      "windowed box packaging"
+    ]
+  },
+  "refurbished-item": {
+    "context": "A box marked with two circling arrows to show a restored and renewed product. Used for renewed or recycled goods listings.",
+    "keywords": [
+      "refurbished",
+      "renewed",
+      "recycled goods",
+      "second hand",
+      "restored",
+      "reuse",
+      "pre-owned",
+      "recondition",
+      "circular economy",
+      "used goods",
+      "like new",
+      "recycle",
+      "refurbished item"
+    ]
+  },
+  "return-authorization": {
+    "context": "A form with two text lines and a large return arrow turning back beside it. Used for return merchandise requests and refund slips.",
+    "keywords": [
+      "rma",
+      "return form",
+      "refund request",
+      "return label",
+      "send back",
+      "exchange",
+      "return slip",
+      "returns",
+      "authorization",
+      "product return",
+      "merchandise return",
+      "refund",
+      "return authorization"
+    ]
+  },
+  "footfall-counter": {
+    "context": "A door frame with a sensor box above it and a person walking through. Used for counting visitors entering a shop.",
+    "keywords": [
+      "people counter",
+      "visitor count",
+      "foot traffic",
+      "entrance sensor",
+      "door counter",
+      "store traffic",
+      "analytics",
+      "customer count",
+      "shop visitors",
+      "entry sensor",
+      "attendance",
+      "retail analytics",
+      "footfall counter"
+    ]
+  },
+  "shoplifting": {
+    "context": "A jacket with a collar and a pocket with a small box being slipped into it. Used for retail theft and loss prevention topics.",
+    "keywords": [
+      "theft",
+      "stealing",
+      "loss prevention",
+      "pocketing",
+      "retail crime",
+      "shrinkage",
+      "stolen goods",
+      "shop theft",
+      "steal",
+      "security",
+      "thief",
+      "store security",
+      "shoplifting"
+    ]
+  },
+  "mystery-shopper": {
+    "context": "A person in a brimmed hat and sunglasses standing next to a shopping bag. Used for secret shopper audits and customer experience checks.",
+    "keywords": [
+      "secret shopper",
+      "undercover",
+      "audit",
+      "customer evaluation",
+      "inspector",
+      "survey",
+      "disguise",
+      "service check",
+      "incognito",
+      "spy shopper",
+      "customer experience",
+      "store review",
+      "mystery shopper"
+    ]
+  },
+  "price-history": {
+    "context": "A price tag with a small zigzag line chart drawn across its face. Used for price tracking, deal alerts and trend views.",
+    "keywords": [
+      "price chart",
+      "price tracking",
+      "price drop",
+      "price trend",
+      "price graph",
+      "historic price",
+      "deal tracker",
+      "price changes",
+      "cost over time",
+      "pricing analytics",
+      "discount history",
+      "tag chart",
+      "price history"
+    ]
+  },
+  "handmade-goods": {
+    "context": "A knitted beanie with a pom-pom and a small stitched heart on the front. Used for craft fairs, artisan shops and handmade marketplaces.",
+    "keywords": [
+      "handmade",
+      "knitted",
+      "craft fair",
+      "artisan",
+      "homemade",
+      "crochet",
+      "etsy style",
+      "hand knit",
+      "beanie",
+      "wool hat",
+      "handcrafted",
+      "craft market",
+      "small business",
+      "handmade goods"
+    ]
+  }
+}

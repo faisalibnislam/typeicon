@@ -1,0 +1,482 @@
+[
+ {
+  "name": "toilet-paper",
+  "category": "household",
+  "draw": "Front view of a toilet paper roll with a hollow core and a loose sheet hanging down.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toilet-paper-holder",
+  "category": "household",
+  "draw": "Wall bracket with a toilet roll on a bar and a short tail of paper hanging below.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toilet-paper-pack",
+  "category": "household",
+  "draw": "Plastic-wrapped pack of four toilet rolls in a square, two by two.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toilet-brush",
+  "category": "household",
+  "draw": "Toilet brush with a round bristle head standing in its cylindrical holder.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "plunger",
+  "category": "household",
+  "draw": "Plunger with a straight wooden handle and a dome-shaped rubber cup at the bottom.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bidet",
+  "category": "household",
+  "draw": "Side view of a low floor-mounted bowl with a small tap on its back rim.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "urinal",
+  "category": "household",
+  "draw": "Wall-mounted urinal, a tall rounded bowl open at the front with a flush pipe above.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "squat-toilet",
+  "category": "household",
+  "draw": "Top view of a floor-level oval pan with two ridged footrests on either side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "child-potty",
+  "category": "household",
+  "draw": "Small plastic potty chair seen from the side with a curved backrest and a round seat.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toilet-seat",
+  "category": "household",
+  "draw": "Front view of an open toilet seat ring with the lid raised behind it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dual-flush-button",
+  "category": "household",
+  "draw": "Rectangular wall plate holding two buttons, one small and one large, side by side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "pull-chain-toilet",
+  "category": "household",
+  "draw": "Toilet bowl below a high wall cistern with a hanging chain and a handle at its end.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toilet-cistern",
+  "category": "household",
+  "draw": "Toilet tank viewed from the front with the lid lifted and a float valve inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bidet-sprayer",
+  "category": "household",
+  "draw": "Handheld bidet spray nozzle with a trigger, joined to a coiled hose and a wall valve.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "portable-toilet",
+  "category": "household",
+  "draw": "Tall portable toilet cabin with a roof vent, a door and a small occupied indicator.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "outhouse",
+  "category": "household",
+  "draw": "Small wooden shed with a slanted roof and a crescent moon cut into the door.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "chamber-pot",
+  "category": "household",
+  "draw": "Short round pot with a flared rim and a loop handle on one side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "handheld-shower",
+  "category": "household",
+  "draw": "Shower handset with a round spray face and a hose curving down from its handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shower-curtain",
+  "category": "household",
+  "draw": "Shower curtain hanging in folds from rings on a straight rod, drawn half open.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shower-enclosure",
+  "category": "household",
+  "draw": "Glass shower cubicle seen from the front, a square frame with a hinged door and a shower head inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shower-caddy",
+  "category": "household",
+  "draw": "Wire caddy hooked over a shower pipe holding two bottles on stacked baskets.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shower-drain",
+  "category": "household",
+  "draw": "Square floor grate with a slotted pattern and water drops falling onto it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "floor-drain",
+  "category": "household",
+  "draw": "Round floor drain cover with a grid of slots and curved lines of water flowing into it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "drain-strainer",
+  "category": "household",
+  "draw": "Round mesh basket strainer sitting in a drain hole with a few hairs caught in it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shower-chair",
+  "category": "household",
+  "draw": "Short four-legged stool with a perforated seat and grab handles on each side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "shower-mixer",
+  "category": "household",
+  "draw": "Round thermostatic mixer valve on a wall with a lever and hot and cold marks.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bath-plug",
+  "category": "household",
+  "draw": "Round rubber sink plug with a small chain and ring attached to its top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bath-mat",
+  "category": "household",
+  "draw": "Rectangular bath mat with rounded corners and a fringe of short tassels on both ends.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "clawfoot-tub",
+  "category": "household",
+  "draw": "Freestanding roll-top bathtub raised on four curved claw feet.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hot-tub",
+  "category": "household",
+  "draw": "Round wooden tub filled with bubbling water and rising steam lines.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "baby-bathtub",
+  "category": "household",
+  "draw": "Small oval baby bath with a sloped backrest and a rubber duck floating inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bubble-bath",
+  "category": "household",
+  "draw": "Bathtub overflowing with a mound of round foam bubbles above the rim.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bath-thermometer",
+  "category": "household",
+  "draw": "Floating bath thermometer shaped like a small fish with a scale on its side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "medicine-cabinet",
+  "category": "household",
+  "draw": "Wall-mounted cabinet with a mirrored door, partly open to show a shelf with bottles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "vanity-unit",
+  "category": "household",
+  "draw": "Bathroom vanity: a basin with a tap set on a cabinet with two doors.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "pedestal-sink",
+  "category": "household",
+  "draw": "Freestanding washbasin on a single column pedestal with a tap on the back.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "vessel-sink",
+  "category": "household",
+  "draw": "Round bowl-shaped basin sitting on top of a counter with a tall tap above it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "towel-stack",
+  "category": "household",
+  "draw": "Three folded towels stacked on top of each other with rounded edges.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "heated-towel-rail",
+  "category": "household",
+  "draw": "Ladder-style radiator with several horizontal bars and a towel draped over the top rung.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "towel-ring",
+  "category": "household",
+  "draw": "Round towel ring hanging from a wall mount with a hand towel pulled through.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "robe-hook",
+  "category": "household",
+  "draw": "Double wall hook with a bathrobe hanging from it by its loop.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "grab-bar",
+  "category": "household",
+  "draw": "Horizontal wall grab rail with round flanges at each end and a hand gripping it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "soap-dish",
+  "category": "household",
+  "draw": "Shallow oval dish with ribs holding a bar of soap.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "soap-bar",
+  "category": "household",
+  "draw": "Rounded bar of soap with a small cluster of bubbles on one corner.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "soap-dispenser",
+  "category": "household",
+  "draw": "Liquid soap pump bottle with a downward spout and bubbles beside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "foam-soap-dispenser",
+  "category": "household",
+  "draw": "Soap pump bottle with a wide nozzle releasing a round blob of foam.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toothbrush-holder",
+  "category": "household",
+  "draw": "Cup-shaped holder with two toothbrushes standing in it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "rubber-duck",
+  "category": "household",
+  "draw": "Side view of a bath rubber duck with a flat base, round head and small beak.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bath-bomb",
+  "category": "household",
+  "draw": "Round bath bomb ball fizzing with small bubbles and specks on its surface.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bath-salts",
+  "category": "household",
+  "draw": "Wide glass jar of bath salt crystals with a small wooden scoop resting on it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bath-caddy",
+  "category": "household",
+  "draw": "Long tray bridging across the rim of a bathtub holding a candle and a book.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bathroom-extractor-fan",
+  "category": "household",
+  "draw": "Square wall vent grille with a fan blade shape in the middle and airflow lines.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hand-dryer",
+  "category": "household",
+  "draw": "Wall-mounted hand dryer with a downward nozzle blowing air lines onto open hands.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "paper-towel-dispenser",
+  "category": "household",
+  "draw": "Wall-mounted box dispenser with a single paper towel sheet sticking out the bottom.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "pedal-bin",
+  "category": "household",
+  "draw": "Round pedal bin with a hinged lid lifted open and a foot pedal at the front.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hand-mirror",
+  "category": "household",
+  "draw": "Oval hand mirror with a long handle and a glint line on the glass.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "compact-mirror",
+  "category": "household",
+  "draw": "Open round compact mirror with a hinge, mirror on the lid and a smaller mirror below.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "magnifying-mirror",
+  "category": "household",
+  "draw": "Round swivel mirror on a stand with a magnified eye visible in the glass.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "lighted-vanity-mirror",
+  "category": "household",
+  "draw": "Rectangular mirror framed by round light bulbs on all four sides.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wc-sign",
+  "category": "household",
+  "draw": "Rectangular sign with the letters WC in bold.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "restroom-sign",
+  "category": "household",
+  "draw": "Rectangular sign split down the middle with a man figure on one side and a woman figure on the other.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "baby-changing-table",
+  "category": "household",
+  "draw": "Changing table sign: an adult figure standing beside a baby lying on a flat table.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "changing-pad",
+  "category": "household",
+  "draw": "Padded baby changing mat with raised sides and a curved dip in the middle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "sauna-bucket",
+  "category": "household",
+  "draw": "Wooden sauna bucket with metal bands and a long-handled ladle resting inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "spray-bottle",
+  "category": "household",
+  "draw": "Cleaning spray bottle with a trigger nozzle and a fine mist coming out.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dustpan-and-brush",
+  "category": "household",
+  "draw": "Dustpan with a short handle and a hand brush lying across it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "lobby-dustpan",
+  "category": "household",
+  "draw": "Upright dustpan on a long handle with a hinged pan at the bottom.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "feather-duster",
+  "category": "household",
+  "draw": "Feather duster with a round fan of feathers on a thin handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dusting-mitt",
+  "category": "household",
+  "draw": "Fuzzy chenille mitt with a thumb and a looped nubby texture.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "microfiber-cloth",
+  "category": "household",
+  "draw": "Square cleaning cloth folded into a triangle with a quilted texture.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cleaning-sponge",
+  "category": "household",
+  "draw": "Rectangular kitchen sponge with a darker scouring layer on top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "scouring-pad",
+  "category": "household",
+  "draw": "Round steel wool pad with tangled curly lines.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "scrub-brush",
+  "category": "household",
+  "draw": "Hand scrub brush with a curved wooden back and a row of stiff bristles below.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dish-brush",
+  "category": "household",
+  "draw": "Long-handled dish brush with a round bristle head.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "sponge-wand",
+  "category": "household",
+  "draw": "Dish wand with a clear handle filled with soap and a sponge head.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bottle-brush",
+  "category": "household",
+  "draw": "Bottle cleaning brush with a twisted wire stem and a spiral cylinder of bristles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "grout-brush",
+  "category": "household",
+  "draw": "Narrow brush with a thin angled head for cleaning tile gaps, shown against a tile grid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wire-brush",
+  "category": "household",
+  "draw": "Wire brush with a flat handle and short stiff metal bristles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "grill-brush",
+  "category": "household",
+  "draw": "Barbecue grill brush with a long handle, wire bristles and a scraper blade at the tip.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "squeegee",
+  "category": "household",
+  "draw": "Window squeegee with a T-shaped rubber blade and a short handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ }
+]

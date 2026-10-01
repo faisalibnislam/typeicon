@@ -1,0 +1,482 @@
+[
+ {
+  "name": "dormant-volcano",
+  "category": "landscape",
+  "draw": "Cone volcano with a flat crater rim and no smoke, a little snow on top.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "shield-volcano",
+  "category": "landscape",
+  "draw": "Very wide gently sloping low dome volcano with a small vent and lava trickle.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cinder-cone",
+  "category": "landscape",
+  "draw": "Small steep symmetrical cone with a wide bowl crater and loose cinder dots.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "stratovolcano",
+  "category": "landscape",
+  "draw": "Tall steep cone with visible alternating layer bands and a smoking summit.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "volcano-cross-section",
+  "category": "landscape",
+  "draw": "Cut-away cone showing a magma chamber blob and a central conduit rising to the crater.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "magma-chamber",
+  "category": "landscape",
+  "draw": "Underground rounded chamber of molten rock with a pipe leading upward to the surface.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lava-flow",
+  "category": "landscape",
+  "draw": "Thick tongue of lava with crusted ripple lines flowing downhill.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lava-lake",
+  "category": "landscape",
+  "draw": "Crater bowl filled with molten lava showing cracked crust plates.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lava-fountain",
+  "category": "landscape",
+  "draw": "Jet of lava droplets spraying upward from a fissure in flat ground.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "lava-tube",
+  "category": "landscape",
+  "draw": "Rounded tunnel cross section in rock with a flat floor, like a cave tube.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "volcanic-ash-cloud",
+  "category": "landscape",
+  "draw": "Tall billowing cloud of ash rising from a volcano with falling ash dots.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "volcanic-bomb",
+  "category": "landscape",
+  "draw": "Spindle-shaped rock blob with twisted ends and a motion trail.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fissure-eruption",
+  "category": "landscape",
+  "draw": "Long crack in flat ground with a curtain of lava spurts along it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "submarine-volcano",
+  "category": "landscape",
+  "draw": "Volcano cone below wavy sea surface with bubbles rising from its vent.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "volcanic-island",
+  "category": "landscape",
+  "draw": "Cone-shaped island rising from the sea with a thin smoke plume.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "geyser",
+  "category": "landscape",
+  "draw": "Tall column of water and steam shooting up from a small mound in the ground.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "hot-spring",
+  "category": "landscape",
+  "draw": "Round pool with wavy steam lines rising from its surface, rocks around the rim.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mud-pot",
+  "category": "landscape",
+  "draw": "Bubbling mud pool with large round bubbles and a popping bubble at the surface.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "fumarole",
+  "category": "landscape",
+  "draw": "Crack in rocky ground releasing curling steam lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "caldera",
+  "category": "landscape",
+  "draw": "Wide collapsed volcanic basin with a low rim and a small cone in the middle.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pahoehoe-lava",
+  "category": "landscape",
+  "draw": "Ropy coiled lava surface drawn as looping folded bands.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "obsidian",
+  "category": "landscape",
+  "draw": "Glassy black stone with sharp conchoidal curved fracture lines and a shine mark.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pumice",
+  "category": "landscape",
+  "draw": "Rounded light stone covered with small hole dots, floating on a water line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "stalactite",
+  "category": "landscape",
+  "draw": "Several downward pointing icicle-like rock spikes hanging from a cave ceiling line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "stalagmite",
+  "category": "landscape",
+  "draw": "Several upward pointing rounded rock cones rising from a cave floor line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cave-column",
+  "category": "landscape",
+  "draw": "Stalactite and stalagmite joined into an hourglass-like column between ceiling and floor.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cave-pool",
+  "category": "landscape",
+  "draw": "Underground pool under a ceiling with hanging stalactites and drips.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ice-cave",
+  "category": "landscape",
+  "draw": "Arched cave opening with smooth ice walls and hanging icicles.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "underground-river",
+  "category": "landscape",
+  "draw": "Cave cross section with a river flowing through a tunnel under rock layers.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cave-painting",
+  "category": "landscape",
+  "draw": "Rock wall slab with a simple stick figure hunter and an animal drawn on it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "spelunking-helmet",
+  "category": "landscape",
+  "draw": "Caving helmet with a headlamp beam on its front.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rock-shelter",
+  "category": "landscape",
+  "draw": "Overhanging rock ledge forming a shallow shelter above flat ground.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "glacier",
+  "category": "landscape",
+  "draw": "Wide tongue of ice flowing down a valley between peaks with crevasse lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ice-sheet",
+  "category": "landscape",
+  "draw": "Vast flat dome of ice with a gentle curve and a cliffed edge at the sea.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ice-shelf",
+  "category": "landscape",
+  "draw": "Flat slab of ice extending over water with a straight vertical calving front.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "glacier-calving",
+  "category": "landscape",
+  "draw": "Chunk of ice breaking off a glacier front and falling into the water with a splash.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "crevasse",
+  "category": "landscape",
+  "draw": "Deep jagged crack splitting a snow surface with depth lines inside.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "moraine",
+  "category": "landscape",
+  "draw": "Ridge of mixed rocks and boulders piled at the end of a glacier tongue.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "cirque",
+  "category": "landscape",
+  "draw": "Bowl-shaped mountain hollow with a small round tarn lake inside.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ice-floe",
+  "category": "landscape",
+  "draw": "Flat irregular slabs of ice floating on wave lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "pack-ice",
+  "category": "landscape",
+  "draw": "Top view of many jagged ice pieces packed together with narrow water gaps.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "frozen-lake",
+  "category": "landscape",
+  "draw": "Oval lake surface with crack lines and a snowflake on the ice.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "icicles",
+  "category": "landscape",
+  "draw": "Row of varied length pointed icicles hanging from a roof edge line.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "permafrost",
+  "category": "landscape",
+  "draw": "Ground cross section with a thin topsoil layer over a frozen layer marked with ice crystals.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "snowdrift",
+  "category": "landscape",
+  "draw": "Smooth curved snow mound piled against a fence post with wind lines.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "snow-cornice",
+  "category": "landscape",
+  "draw": "Overhanging curl of snow on a ridge edge above a steep drop.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ice-crystal",
+  "category": "landscape",
+  "draw": "Single hexagonal plate ice crystal with simple branch marks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "hoarfrost-branch",
+  "category": "landscape",
+  "draw": "Twig covered in spiky frost crystals along its length.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "glacial-erratic",
+  "category": "landscape",
+  "draw": "Large lone boulder sitting on flat ground far from any cliff.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "frozen-waterfall",
+  "category": "landscape",
+  "draw": "Waterfall frozen into columns of icicles down a cliff face.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "tectonic-plates",
+  "category": "landscape",
+  "draw": "Two slabs of crust meeting at a boundary with arrows pushing them together.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "geological-fault",
+  "category": "landscape",
+  "draw": "Ground block split by a diagonal crack with one side offset lower.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rock-strata",
+  "category": "landscape",
+  "draw": "Stack of horizontal rock layers with different fill patterns in each band.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rock-folds",
+  "category": "landscape",
+  "draw": "Rock layers bent into a wavy arch and trough fold pattern.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "earth-layers",
+  "category": "landscape",
+  "draw": "Cut-away globe quarter showing crust, mantle, outer core and inner core rings.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "seismograph",
+  "category": "landscape",
+  "draw": "Drum with a zigzag seismic trace line and a recording needle arm.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "seismic-wave",
+  "category": "landscape",
+  "draw": "Horizontal line with a burst of sharp zigzag spikes in the middle.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "earthquake",
+  "category": "landscape",
+  "draw": "House shape tilted over a ground line split by a jagged crack with shake marks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "epicenter",
+  "category": "landscape",
+  "draw": "Concentric circle rings radiating from a dot on a map ground plane.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "richter-scale",
+  "category": "landscape",
+  "draw": "Numbered horizontal scale bar with a pointer and a small seismic zigzag.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rock-cycle",
+  "category": "landscape",
+  "draw": "Three rock shapes arranged in a triangle linked by circular arrows.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "soil-profile",
+  "category": "landscape",
+  "draw": "Vertical cut of ground showing grass on top then humus, subsoil and bedrock layers.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "erosion",
+  "category": "landscape",
+  "draw": "Rock shape being worn away with wind lines and small fragments flying off.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "gravel",
+  "category": "landscape",
+  "draw": "Heap of many small angular stones.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "sand-pile",
+  "category": "landscape",
+  "draw": "Conical heap of fine sand with dotted texture.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "clay-lump",
+  "category": "landscape",
+  "draw": "Smooth lump of clay with finger impression marks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rock-cairn",
+  "category": "landscape",
+  "draw": "Stack of four or five balanced flat stones decreasing in size toward the top.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rock-balance",
+  "category": "landscape",
+  "draw": "Two large stones balanced delicately on a thin point atop another.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "rock-sample-bag",
+  "category": "landscape",
+  "draw": "Small cloth sample bag tied at the top with a label tag.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "core-sample",
+  "category": "landscape",
+  "draw": "Cylindrical drilled rock core showing banded layers, lying at an angle.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "geologist-hammer",
+  "category": "landscape",
+  "draw": "Rock hammer with a flat square face on one side and a pointed pick on the other.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "hand-lens",
+  "category": "landscape",
+  "draw": "Small folding jeweler loupe lens in a pivoting metal cover.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "streak-plate",
+  "category": "landscape",
+  "draw": "Small white tile with a dark streak mark and a mineral chip at the end.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mohs-scale",
+  "category": "landscape",
+  "draw": "Stepped bar chart of ten rising steps with a crystal on the tallest step.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mineral-vein",
+  "category": "landscape",
+  "draw": "Rock slab crossed by a bright zigzag vein of mineral.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "ore-rock",
+  "category": "landscape",
+  "draw": "Lumpy rock with shiny metallic flecks embedded in it.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "gold-nugget",
+  "category": "landscape",
+  "draw": "Irregular rounded lumpy nugget with shine marks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "gold-panning",
+  "category": "landscape",
+  "draw": "Shallow round pan tilted with water, gravel and a few gold flecks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mine-cart",
+  "category": "landscape",
+  "draw": "Mining cart on rails filled with a heap of ore rocks.",
+  "domain": "landscape-geology-sky"
+ },
+ {
+  "name": "mine-entrance",
+  "category": "landscape",
+  "draw": "Timber-framed tunnel opening in a hillside with rail tracks leading in.",
+  "domain": "landscape-geology-sky"
+ }
+]

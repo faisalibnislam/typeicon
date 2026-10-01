@@ -1,0 +1,482 @@
+[
+ {
+  "name": "latte-art",
+  "category": "drinks",
+  "draw": "Top view of a round cup on a saucer with a leaf rosette pattern drawn in the foam.",
+  "domain": "drinks"
+ },
+ {
+  "name": "latte-macchiato",
+  "category": "drinks",
+  "draw": "Tall clear glass with a handle showing three stacked layers: milk, a thin espresso band and a foam cap.",
+  "domain": "drinks"
+ },
+ {
+  "name": "affogato",
+  "category": "drinks",
+  "draw": "Small glass cup holding a round scoop of ice cream with a stream of espresso pouring onto it.",
+  "domain": "drinks"
+ },
+ {
+  "name": "iced-coffee",
+  "category": "drinks",
+  "draw": "Tall glass with square ice cubes, a darker coffee fill and a straw sticking out at an angle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "cold-brew",
+  "category": "drinks",
+  "draw": "Mason jar with a cloth filter bag of grounds hanging inside and a string over the rim.",
+  "domain": "drinks"
+ },
+ {
+  "name": "frappe",
+  "category": "drinks",
+  "draw": "Clear plastic cup with a domed lid, a whipped cream swirl showing under the dome and a thick straw.",
+  "domain": "drinks"
+ },
+ {
+  "name": "irish-coffee",
+  "category": "drinks",
+  "draw": "Stemmed glass mug with a handle, dark coffee in the lower part and a thick band of cream on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "cezve",
+  "category": "drinks",
+  "draw": "Small long-handled coffee pot with a wide bottom, narrow waist and a pouring lip.",
+  "domain": "drinks"
+ },
+ {
+  "name": "dalgona-coffee",
+  "category": "drinks",
+  "draw": "Short glass of milk topped with a thick peaked layer of whipped coffee and a spoon.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-filter",
+  "category": "drinks",
+  "draw": "Side view of a fluted paper cone filter with pleated folds.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-bean",
+  "category": "drinks",
+  "draw": "Single oval coffee bean with a curved S-shaped crease down the middle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-grinder",
+  "category": "drinks",
+  "draw": "Manual box grinder with a crank handle on top and a small pull-out drawer at the bottom.",
+  "domain": "drinks"
+ },
+ {
+  "name": "burr-grinder",
+  "category": "drinks",
+  "draw": "Electric grinder with a cone-shaped bean hopper on top and a grounds cup in front.",
+  "domain": "drinks"
+ },
+ {
+  "name": "espresso-machine",
+  "category": "drinks",
+  "draw": "Boxy machine with a group head, a portafilter locked in and a small cup under the spouts.",
+  "domain": "drinks"
+ },
+ {
+  "name": "moka-pot",
+  "category": "drinks",
+  "draw": "Faceted stovetop pot with a pinched waist, a pointed top spout and a side handle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "french-press",
+  "category": "drinks",
+  "draw": "Cylindrical glass beaker in a frame with a plunger rod and round knob rising from the lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "pour-over-dripper",
+  "category": "drinks",
+  "draw": "Cone dripper with ridges sitting on top of a mug with a drop falling between them.",
+  "domain": "drinks"
+ },
+ {
+  "name": "siphon-coffee-maker",
+  "category": "drinks",
+  "draw": "Two stacked glass globes joined by a tube on a stand with a small flame below.",
+  "domain": "drinks"
+ },
+ {
+  "name": "drip-coffee-maker",
+  "category": "drinks",
+  "draw": "Countertop machine with a water tank at the back and a glass carafe on a hot plate.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-carafe",
+  "category": "drinks",
+  "draw": "Round glass coffee pot with a dark plastic collar, a handle and a pouring spout.",
+  "domain": "drinks"
+ },
+ {
+  "name": "percolator",
+  "category": "drinks",
+  "draw": "Tall tapered metal pot with a side handle and a small clear glass knob on the lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "cold-drip-tower",
+  "category": "drinks",
+  "draw": "Tall wooden stand with a water globe on top, a coiled tube in the middle and a carafe at the bottom.",
+  "domain": "drinks"
+ },
+ {
+  "name": "portafilter",
+  "category": "drinks",
+  "draw": "Round filter basket with a long straight handle and a double spout underneath.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-tamper",
+  "category": "drinks",
+  "draw": "Flat round metal base with a short rounded knob handle standing on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "milk-frother",
+  "category": "drinks",
+  "draw": "Handheld wand with a small wire coil whisk at the tip and a button on the grip.",
+  "domain": "drinks"
+ },
+ {
+  "name": "frothing-pitcher",
+  "category": "drinks",
+  "draw": "Small steel jug with a sharp pointed spout, a tapered body and a loop handle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-capsule",
+  "category": "drinks",
+  "draw": "Small truncated cone pod with a ridged rim and a flat foil lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-bag",
+  "category": "drinks",
+  "draw": "Stand-up pouch with a folded top, a round one-way valve and a bean on the front.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-sack",
+  "category": "drinks",
+  "draw": "Tied burlap sack with a crosshatch texture and coffee beans spilling at the base.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-cherries",
+  "category": "drinks",
+  "draw": "Short branch with two pointed leaves and a cluster of round coffee cherries.",
+  "domain": "drinks"
+ },
+ {
+  "name": "gooseneck-kettle",
+  "category": "drinks",
+  "draw": "Kettle with a slender S-curved spout rising from the base and a loop handle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-scoop",
+  "category": "drinks",
+  "draw": "Small round scoop with a straight handle holding a heap of beans.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-roaster",
+  "category": "drinks",
+  "draw": "Drum roaster with a funnel hopper on top and a round cooling tray in front.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-urn",
+  "category": "drinks",
+  "draw": "Tall cylindrical urn on short legs with a tap and a sight tube on the front.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-to-go",
+  "category": "drinks",
+  "draw": "Tapered paper cup with a raised sip lid and a band sleeve around the middle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "cup-carrier",
+  "category": "drinks",
+  "draw": "Cardboard tray holding two takeaway cups side by side.",
+  "domain": "drinks"
+ },
+ {
+  "name": "pod-coffee-machine",
+  "category": "drinks",
+  "draw": "Compact machine with a hinged lever on top, a drip tray and a mug under the spout.",
+  "domain": "drinks"
+ },
+ {
+  "name": "vietnamese-coffee-filter",
+  "category": "drinks",
+  "draw": "Small metal drip filter with a lid sitting on top of a short glass with a dark layer at the bottom.",
+  "domain": "drinks"
+ },
+ {
+  "name": "dallah",
+  "category": "drinks",
+  "draw": "Arabic coffee pot with a crescent beak spout, a pinched waist and a pointed finial lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "drip-bag-coffee",
+  "category": "drinks",
+  "draw": "Paper filter bag hooked over the rim of a cup by two side tabs.",
+  "domain": "drinks"
+ },
+ {
+  "name": "cafe-au-lait-bowl",
+  "category": "drinks",
+  "draw": "Wide handleless bowl filled with coffee and a steam curl above it.",
+  "domain": "drinks"
+ },
+ {
+  "name": "syrup-pump-bottle",
+  "category": "drinks",
+  "draw": "Tall bottle with a pump head and a curved nozzle on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "coffee-cart",
+  "category": "drinks",
+  "draw": "Small wheeled cart with a canopy and an espresso machine on the counter.",
+  "domain": "drinks"
+ },
+ {
+  "name": "sugar-packet",
+  "category": "drinks",
+  "draw": "Small rectangular paper packet with a tear notch and a few grains spilling out.",
+  "domain": "drinks"
+ },
+ {
+  "name": "creamer-cup",
+  "category": "drinks",
+  "draw": "Tiny single-serve cup with a peel-back lid lifted at one corner.",
+  "domain": "drinks"
+ },
+ {
+  "name": "sugar-bowl",
+  "category": "drinks",
+  "draw": "Round lidded bowl with two small handles and a spoon handle poking out under the lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "cream-jug",
+  "category": "drinks",
+  "draw": "Small squat pitcher with a wide pouring lip and a loop handle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "mug-tree",
+  "category": "drinks",
+  "draw": "Upright stand with short branches and two mugs hanging by their handles.",
+  "domain": "drinks"
+ },
+ {
+  "name": "tea-leaf",
+  "category": "drinks",
+  "draw": "Two pointed tea leaves and a bud on a short stem.",
+  "domain": "drinks"
+ },
+ {
+  "name": "tea-infuser",
+  "category": "drinks",
+  "draw": "Mesh ball infuser with a hinged seam and a chain ending in a hook.",
+  "domain": "drinks"
+ },
+ {
+  "name": "tea-strainer",
+  "category": "drinks",
+  "draw": "Small mesh bowl strainer with a long handle resting across the top of a cup.",
+  "domain": "drinks"
+ },
+ {
+  "name": "matcha-bowl",
+  "category": "drinks",
+  "draw": "Wide low bowl filled with frothy tea shown by a band of small foam dots.",
+  "domain": "drinks"
+ },
+ {
+  "name": "matcha-whisk",
+  "category": "drinks",
+  "draw": "Bamboo whisk with a round handle and a dome of fine curved tines.",
+  "domain": "drinks"
+ },
+ {
+  "name": "bubble-tea",
+  "category": "drinks",
+  "draw": "Sealed plastic cup with a wide straw poked through the lid and round pearls at the bottom.",
+  "domain": "drinks"
+ },
+ {
+  "name": "iced-tea",
+  "category": "drinks",
+  "draw": "Tall glass with ice cubes, a lemon wheel on the rim and a long spoon.",
+  "domain": "drinks"
+ },
+ {
+  "name": "gaiwan",
+  "category": "drinks",
+  "draw": "Small lidded tea bowl sitting on a saucer, lid slightly tilted.",
+  "domain": "drinks"
+ },
+ {
+  "name": "samovar",
+  "category": "drinks",
+  "draw": "Tall metal urn with side handles, a tap near the base and a small teapot on the crown.",
+  "domain": "drinks"
+ },
+ {
+  "name": "tulip-tea-glass",
+  "category": "drinks",
+  "draw": "Small tulip-shaped glass with a curved waist standing on a round saucer.",
+  "domain": "drinks"
+ },
+ {
+  "name": "tea-glass-holder",
+  "category": "drinks",
+  "draw": "Straight tea glass set in an ornate metal holder with a curved handle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "kulhad-cup",
+  "category": "drinks",
+  "draw": "Small unglazed clay cup without a handle, wider at the top, with steam rising.",
+  "domain": "drinks"
+ },
+ {
+  "name": "kombucha",
+  "category": "drinks",
+  "draw": "Large glass jar with a floating culture disk near the top and a cloth tied over the mouth.",
+  "domain": "drinks"
+ },
+ {
+  "name": "mate-gourd",
+  "category": "drinks",
+  "draw": "Round gourd cup filled with herbs and a metal straw with a flattened tip.",
+  "domain": "drinks"
+ },
+ {
+  "name": "tea-cozy",
+  "category": "drinks",
+  "draw": "Knitted dome cover over a teapot with only the spout and handle showing and a pompom on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "tea-tin",
+  "category": "drinks",
+  "draw": "Cylindrical tin with a fitted lid and a leaf printed on the label.",
+  "domain": "drinks"
+ },
+ {
+  "name": "kyusu",
+  "category": "drinks",
+  "draw": "Round Japanese teapot with a short spout and a straight hollow handle sticking out to the side.",
+  "domain": "drinks"
+ },
+ {
+  "name": "cast-iron-teapot",
+  "category": "drinks",
+  "draw": "Squat teapot with a dotted bumpy surface and an arched handle over the top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "moroccan-teapot",
+  "category": "drinks",
+  "draw": "Tall metal teapot with a domed pointed lid, a long curved spout and a side handle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "blooming-tea",
+  "category": "drinks",
+  "draw": "Round glass teapot with an open flower suspended in the water.",
+  "domain": "drinks"
+ },
+ {
+  "name": "mulled-wine",
+  "category": "drinks",
+  "draw": "Glass mug with a handle, dark wine, an orange slice on the rim and a star anise on top.",
+  "domain": "drinks"
+ },
+ {
+  "name": "thermos",
+  "category": "drinks",
+  "draw": "Tall vacuum flask with a cup lid on top and a screw stopper underneath.",
+  "domain": "drinks"
+ },
+ {
+  "name": "travel-mug",
+  "category": "drinks",
+  "draw": "Tall tapered insulated mug with a sliding sip lid and a side handle.",
+  "domain": "drinks"
+ },
+ {
+  "name": "camping-mug",
+  "category": "drinks",
+  "draw": "Enamel mug with a rolled rim, straight sides and a few chipped spots.",
+  "domain": "drinks"
+ },
+ {
+  "name": "paper-cup",
+  "category": "drinks",
+  "draw": "Plain tapered paper cup with a rolled rim and no lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "sippy-cup",
+  "category": "drinks",
+  "draw": "Child cup with two side handles and a spouted lid.",
+  "domain": "drinks"
+ },
+ {
+  "name": "baby-bottle",
+  "category": "drinks",
+  "draw": "Feeding bottle with measurement lines, a screw collar and a rounded nipple.",
+  "domain": "drinks"
+ },
+ {
+  "name": "milkshake",
+  "category": "drinks",
+  "draw": "Tall fluted soda glass topped with whipped cream, a cherry and a straw.",
+  "domain": "drinks"
+ },
+ {
+  "name": "hot-chocolate",
+  "category": "drinks",
+  "draw": "Mug with a heap of small marshmallows on top and a steam curl.",
+  "domain": "drinks"
+ },
+ {
+  "name": "drink-vending-machine",
+  "category": "drinks",
+  "draw": "Tall vending machine with a window of bottles in rows, a coin slot and a pickup flap at the bottom.",
+  "domain": "drinks"
+ },
+ {
+  "name": "citrus-juicer",
+  "category": "drinks",
+  "draw": "Ribbed dome reamer set in a shallow dish with a pouring lip and half a lemon above it.",
+  "domain": "drinks"
+ },
+ {
+  "name": "slushie",
+  "category": "drinks",
+  "draw": "Clear cup overflowing with a mound of crushed ice and a spoon-tipped straw.",
+  "domain": "drinks"
+ }
+]

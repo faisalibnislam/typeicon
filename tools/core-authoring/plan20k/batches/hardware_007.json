@@ -1,0 +1,194 @@
+[
+ {
+  "name": "blacksmith-forge",
+  "category": "hardware",
+  "draw": "Brick hearth with a glowing fire bed and a hood on top.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "blacksmith-tongs",
+  "category": "hardware",
+  "draw": "Long scissor like tongs with gripping jaws holding a small bar.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tap-and-die",
+  "category": "hardware",
+  "draw": "A threaded tap and a round die with holes, side by side.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "tap-wrench",
+  "category": "hardware",
+  "draw": "Straight bar handle with a small chuck in the middle holding a tap.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "die-stock",
+  "category": "hardware",
+  "draw": "Round die held in a centre ring with two long straight handles out to the sides.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "metal-lathe",
+  "category": "hardware",
+  "draw": "Long bed with a headstock chuck on the left and a tool post carriage in the middle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "milling-machine",
+  "category": "hardware",
+  "draw": "Upright column with a spindle head above a flat table with handwheels.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "cnc-router",
+  "category": "hardware",
+  "draw": "Gantry frame over a flat bed with a spindle hanging from the crossbeam.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sheet-metal-brake",
+  "category": "hardware",
+  "draw": "Long flat bed with a hinged clamping bar and a bending leaf handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "welding-machine",
+  "category": "hardware",
+  "draw": "Box unit with dials on the front, a ground clamp cable and a torch cable.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "welding-clamp",
+  "category": "hardware",
+  "draw": "Spring loaded ground clamp with copper jaws and a cable.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "crucible",
+  "category": "hardware",
+  "draw": "Deep cup shaped vessel with molten metal and tongs gripping it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "casting-mold",
+  "category": "hardware",
+  "draw": "Two part box mold with a pour hole on top and a cavity shape inside.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "quench-bucket",
+  "category": "hardware",
+  "draw": "Bucket of water with steam rising as a hot bar is dipped in.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "dovetail-joint",
+  "category": "hardware",
+  "draw": "Two boards joined at a corner with interlocking fan shaped pins and tails.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mortise-and-tenon",
+  "category": "hardware",
+  "draw": "Board with a rectangular tongue ready to slot into a hole in another board.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "finger-joint",
+  "category": "hardware",
+  "draw": "Two boards joined at a corner with interlocking square fingers.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "pocket-hole-jig",
+  "category": "hardware",
+  "draw": "Small clamp jig with an angled drill guide over a board.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "sawdust-pile",
+  "category": "hardware",
+  "draw": "Small mound of speckled dots with a saw blade edge above it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wood-shavings",
+  "category": "hardware",
+  "draw": "Several curly spiral ribbons of wood shavings.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "bandsaw-mill",
+  "category": "hardware",
+  "draw": "Log on a long track with a horizontal band saw head straddling it.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "log-splitter",
+  "category": "hardware",
+  "draw": "Horizontal beam with a hydraulic ram pushing a log into a wedge.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "screw-extractor",
+  "category": "hardware",
+  "draw": "Short bit with reverse spiral flutes tapering to a point.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "breaker-bar",
+  "category": "hardware",
+  "draw": "Very long straight bar with a hinged square drive head at the end.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "nut-driver",
+  "category": "hardware",
+  "draw": "Screwdriver handle with a shaft ending in a small hex socket.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "oil-filter-wrench",
+  "category": "hardware",
+  "draw": "Band loop wrapped around a round filter with a handle.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "oil-funnel",
+  "category": "hardware",
+  "draw": "Wide cone funnel with a long narrow spout.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "drip-pan",
+  "category": "hardware",
+  "draw": "Wide shallow rectangular tray with a small puddle drop inside.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "mechanic-creeper",
+  "category": "hardware",
+  "draw": "Flat padded board on small caster wheels with a headrest.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "parts-washer",
+  "category": "hardware",
+  "draw": "Tub on a stand with a lid, a flexible hose nozzle and a drain.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "wheel-chock",
+  "category": "hardware",
+  "draw": "Wedge shaped block resting against a tyre.",
+  "domain": "tools-hardware-construction"
+ },
+ {
+  "name": "traffic-delineator-post",
+  "category": "hardware",
+  "draw": "Tall thin flexible post with reflective bands on a round base.",
+  "domain": "tools-hardware-construction"
+ }
+]

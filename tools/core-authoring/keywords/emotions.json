@@ -1,0 +1,102 @@
+{
+  "angry": {
+    "context": "An angry face with lowered brows. Used for angry reactions, complaints and bad-experience ratings, frustration in feedback forms and chat stickers.",
+    "keywords": ["mad", "rage", "annoyed", "furious", "grumpy", "emoji", "frustrated", "upset", "irritated", "cross", "hate", "bad", "negative", "complaint", "dislike", "rating", "feedback", "reaction", "temper", "hostile", "face"]
+  },
+  "confused": {
+    "context": "A confused face with a wavy mouth. Used for 'I don't understand' reactions, help or FAQ prompts, unclear results and feedback about confusing content.",
+    "keywords": ["puzzled", "unsure", "huh", "perplexed", "bewildered", "emoji", "confusion", "uncertain", "lost", "question", "doubt", "what", "baffled", "clueless", "don't understand", "unclear", "face", "reaction", "hmm", "mixed up"]
+  },
+  "cool": {
+    "context": "A face wearing sunglasses. Used for cool or chill reactions, confident and relaxed moods, summer themes and approval in chat.",
+    "keywords": ["sunglasses", "chill", "confident", "awesome", "swag", "emoji", "relaxed", "smooth", "laid back", "shades", "summer", "sun", "sunny", "deal with it", "stylish", "face", "reaction", "calm", "hip", "nice"]
+  },
+  "cry": {
+    "context": "A crying face with a tear. Sad reactions, disappointment and hurt feelings, failed actions in playful interfaces and mood tracking use it.",
+    "keywords": ["crying", "tears", "tear", "sad", "upset", "weep", "sob", "emoji", "unhappy", "hurt", "sorrow", "grief", "disappointed", "heartbroken", "depressed", "mood", "reaction", "face", "miss you", "sorry"]
+  },
+  "grimace": {
+    "context": "A grimacing face showing clenched teeth. Used for awkward or oops moments, embarrassment and cringe reactions, and nervous 'yikes' replies in chat.",
+    "keywords": ["awkward", "cringe", "eek", "nervous", "oops", "emoji", "grimacing", "yikes", "embarrassed", "uncomfortable", "tense", "teeth", "clenched teeth", "uh oh", "sorry", "mistake", "face", "reaction", "stress", "whoops"]
+  },
+  "heart-eyes": {
+    "context": "A smiling face with hearts for eyes. Used for love and adoration reactions, favourite items, dating apps and very positive ratings.",
+    "keywords": ["love", "adore", "crush", "in love", "heart", "emoji", "hearts", "lovestruck", "infatuated", "romance", "favorite", "favourite", "cute", "amazing", "want", "dating", "valentine", "happy", "face", "reaction", "obsessed"]
+  },
+  "kiss": {
+    "context": "A face blowing a kiss with a small heart. Common in messages of love and affection, thank-you and goodbye reactions, dating apps and Valentine's content.",
+    "keywords": ["kissing", "love", "smooch", "affection", "flirt", "emoji", "blow kiss", "air kiss", "mwah", "xoxo", "heart", "romance", "dating", "valentine", "sweet", "goodbye", "thanks", "face", "reaction", "lips"]
+  },
+  "laugh": {
+    "context": "A laughing face with squinting eyes and an open grin. Used for funny reactions, jokes and humour sections, lol replies in chat and happy ratings.",
+    "keywords": ["joy", "lol", "haha", "funny", "happy", "emoji", "laughing", "lmao", "hilarious", "humor", "humour", "joke", "comedy", "giggle", "grin", "amused", "fun", "face", "reaction", "rofl"]
+  },
+  "nerd": {
+    "context": "A nerdy face with round glasses and buck teeth. Used for geeky or smart reactions, study and education apps, tech topics and playful know-it-all replies.",
+    "keywords": ["geek", "smart", "glasses", "clever", "study", "emoji", "nerdy", "geeky", "intelligent", "bookworm", "student", "school", "education", "science", "tech", "genius", "know it all", "face", "reaction", "brainy"]
+  },
+  "neutral": {
+    "context": "A neutral face with a straight mouth. Fits the middle option in ratings and satisfaction surveys, meh reactions and no-strong-feelings mood entries.",
+    "keywords": ["meh", "indifferent", "expressionless", "blank", "straight face", "emoji", "okay", "so so", "average", "neither", "unimpressed", "deadpan", "poker face", "mood", "rating", "survey", "feedback", "face", "reaction", "bored"]
+  },
+  "party-face": {
+    "context": "A face in a party hat. Used for celebrations, birthdays and anniversaries, finished goals or milestones, and festive reactions in chat.",
+    "keywords": ["party", "celebrate", "celebration", "birthday", "hooray", "festive", "emoji", "partying", "congrats", "congratulations", "fun", "party hat", "anniversary", "milestone", "success", "yay", "new year", "face", "reaction", "cheers"]
+  },
+  "poop-emoji": {
+    "context": "A smiling swirl of poop. Used for silly and joking reactions, joke ratings, potty training apps and pet waste reminders.",
+    "keywords": ["poop", "poo", "funny", "silly", "toilet", "emoji", "turd", "dung", "potty", "potty training", "bathroom", "joke", "gross", "dog poop", "pet waste", "bad", "stinky", "smelly", "face", "reaction"]
+  },
+  "relieved": {
+    "context": "A relieved face with calm, closed eyes. Shows relief after a finished task, calm and content moods, phew reactions and wellbeing check-ins.",
+    "keywords": ["calm", "relief", "phew", "content", "peaceful", "emoji", "satisfied", "relaxed", "at ease", "serene", "grateful", "pleased", "happy", "glad", "mood", "done", "face", "reaction", "soothed", "chill"]
+  },
+  "sad": {
+    "context": "A sad face with a frown. Used for bad or low ratings, error and empty states, disappointment reactions and mood trackers.",
+    "keywords": ["unhappy", "sorrow", "down", "disappointed", "frown", "emoji", "sadness", "blue", "upset", "gloomy", "dissatisfied", "negative", "bad", "poor", "rating", "feedback", "depressed", "face", "reaction", "mood"]
+  },
+  "sick": {
+    "context": "A face wearing a medical mask. Used for feeling ill, sick days and health status, flu season or infection notices, and masked reactions in chat.",
+    "keywords": ["ill", "mask", "flu", "unwell", "virus", "emoji", "sick day", "cold", "covid", "masked", "face mask", "illness", "poorly", "germs", "contagious", "quarantine", "health", "face", "reaction", "under the weather"]
+  },
+  "skull-emoji": {
+    "context": "A cartoon skull with big eye sockets. Used for 'I'm dead' laughing reactions, spooky and Halloween themes, game over screens and dark humour.",
+    "keywords": ["dead", "death", "spooky", "halloween", "lol", "emoji", "skull", "dying", "i'm dead", "dying of laughter", "creepy", "scary", "danger", "game over", "skeleton", "cartoon", "dark humor", "dark humour", "face", "reaction"]
+  },
+  "sleepy": {
+    "context": "A sleeping face with closed eyes and a Z. Used for tired moods, bedtime and sleep tracking, idle or away status and boring-content reactions.",
+    "keywords": ["sleep", "tired", "zzz", "bored", "night", "emoji", "sleeping", "asleep", "exhausted", "drowsy", "snooze", "nap", "bedtime", "idle", "away", "inactive", "boring", "rest", "face", "reaction"]
+  },
+  "smile": {
+    "context": "A simple smiling face. Happy reactions and good ratings, satisfaction surveys, friendly greetings and emoji pickers use it.",
+    "keywords": ["happy", "smiley", "emoji", "glad", "positive", "face", "smiling", "pleased", "cheerful", "joy", "good", "satisfied", "friendly", "nice", "content", "rating", "feedback", "reaction", "mood", "grin"]
+  },
+  "star-struck": {
+    "context": "A grinning face with stars for eyes. Used for amazed and excited reactions, fan moments, top content picks and very high ratings.",
+    "keywords": ["wow", "amazed", "excited", "fan", "emoji", "stars", "awe", "dazzled", "impressed", "thrilled", "famous", "celebrity", "star eyes", "incredible", "amazing", "awesome", "face", "reaction", "wonder"]
+  },
+  "surprised": {
+    "context": "A surprised face with an open mouth. Used for shock and wow reactions, unexpected results, surprise announcements and chat stickers.",
+    "keywords": ["shocked", "wow", "astonished", "amazed", "gasp", "emoji", "surprise", "omg", "startled", "stunned", "open mouth", "unexpected", "speechless", "whoa", "oh", "face", "reaction", "awe", "disbelief", "shock"]
+  },
+  "thinking": {
+    "context": "A thinking face with a raised brow and a hand on its chin. Used for 'let me think' reactions, questions and doubt, processing states in playful interfaces and quiz apps.",
+    "keywords": ["think", "hmm", "ponder", "wonder", "consider", "emoji", "thought", "pondering", "curious", "doubt", "skeptical", "sceptical", "question", "unsure", "wondering", "idea", "reflect", "face", "reaction", "deciding"]
+  },
+  "tongue-out": {
+    "context": "A face sticking out its tongue. Used for silly or cheeky reactions, jokes and teasing, playful kids' content and yummy food moments.",
+    "keywords": ["silly", "tongue", "playful", "cheeky", "joke", "emoji", "goofy", "tease", "teasing", "funny", "crazy", "yum", "yummy", "tasty", "raspberry", "prank", "kidding", "face", "reaction", "mischievous"]
+  },
+  "wink": {
+    "context": "A winking face with one eye closed. Common in playful or joking replies, hints and inside jokes, flirting and friendly chat reactions.",
+    "keywords": ["playful", "flirt", "flirty", "joke", "joking", "emoji", "face", "winking", "kidding", "teasing", "hint", "secret", "sly", "cheeky", "just kidding", "friendly", "smile", "reaction", "nudge", "mischief"]
+  },
+  "worried": {
+    "context": "A worried face with raised brows. Used for concern and anxiety in mood trackers, nervous reactions, gentle warnings and mental health check-ins.",
+    "keywords": ["anxious", "nervous", "concerned", "uneasy", "fear", "emoji", "anxiety", "worry", "scared", "afraid", "stressed", "tense", "apprehensive", "uncertain", "frightened", "mood", "face", "reaction", "concern", "uh oh"]
+  },
+  "zipper-mouth": {
+    "context": "A face with its mouth zipped shut. Used for secrets and confidential content, mute or quiet modes, no-spoilers notices and 'my lips are sealed' replies.",
+    "keywords": ["secret", "quiet", "silence", "silent", "shh", "shush", "mute", "emoji", "zip it", "lips sealed", "sealed lips", "confidential", "private", "no comment", "hush", "keep quiet", "spoiler", "zipper", "zip", "face", "reaction"]
+  }
+}

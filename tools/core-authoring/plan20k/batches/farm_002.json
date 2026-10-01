@@ -1,0 +1,482 @@
+[
+ {
+  "name": "oast-house",
+  "category": "farm",
+  "draw": "Round kiln tower with a conical roof topped by a tilted white cowl, beside a barn.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "pole-barn",
+  "category": "farm",
+  "draw": "Open-sided hay barn with a roof on tall poles sheltering stacked bales.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "milking-parlor",
+  "category": "farm",
+  "draw": "Row of cows seen from behind standing in stalls with milking cups beneath each.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "shepherd-hut",
+  "category": "farm",
+  "draw": "Small wooden hut with a curved roof on four iron wheels, steps up to the door.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "farm-stand",
+  "category": "farm",
+  "draw": "Roadside wooden produce stand with a small awning and crates of vegetables on the counter.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "biogas-digester",
+  "category": "farm",
+  "draw": "Domed tank with a gas pipe and valve, a cow dung inlet pipe on one side.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "ranch-gate",
+  "category": "farm",
+  "draw": "Two tall posts with a crossbeam arch overhead holding a hanging blank sign.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "weather-vane",
+  "category": "farm",
+  "draw": "Rooster figure on a rod above crossed compass arms marked with direction letters.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "vineyard",
+  "category": "farm",
+  "draw": "Rows of grapevines on posts and wires receding over a hill, grape bunches hanging.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "tea-plantation",
+  "category": "farm",
+  "draw": "Rounded rows of neatly clipped tea bushes wrapping around a hill.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "crawler-tractor",
+  "category": "farm",
+  "draw": "Tractor on rubber crawler tracks instead of wheels, with a cab on top.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "vintage-tractor",
+  "category": "farm",
+  "draw": "Old open tractor with large steel spoked rear wheels, a tall exhaust stack and a pan seat.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "walking-tractor",
+  "category": "farm",
+  "draw": "Two-wheeled walk-behind tractor with an engine, long handlebars and a tiller behind.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "autonomous-tractor",
+  "category": "farm",
+  "draw": "Driverless tractor with no cab and a signal wave symbol above it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "combine-harvester",
+  "category": "farm",
+  "draw": "Combine harvester from the side with a wide reel header at the front, cab and unloading auger.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "forage-harvester",
+  "category": "farm",
+  "draw": "Harvester with a tall curved spout blowing chopped crop into a trailer beside it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "cotton-picker",
+  "category": "farm",
+  "draw": "Large harvester with a boxy mesh basket on top and row units at the front.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "square-baler",
+  "category": "farm",
+  "draw": "Tractor-towed baler from the side pushing out a rectangular bale from its chute.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "round-baler",
+  "category": "farm",
+  "draw": "Baler with a rounded rear door ejecting a round bale onto the ground.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "moldboard-plow",
+  "category": "farm",
+  "draw": "Plow with several curved moldboards in a diagonal row on a frame, turning soil.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "disc-harrow",
+  "category": "farm",
+  "draw": "Frame with two gangs of round concave discs set at an angle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "field-cultivator",
+  "category": "farm",
+  "draw": "Wide toolbar frame with rows of curved spring tines raking the soil.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "seed-drill",
+  "category": "farm",
+  "draw": "Long seed hopper box on wheels with a row of tubes down to the soil.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "row-planter",
+  "category": "farm",
+  "draw": "Toolbar with several planter units, each with a small seed hopper and closing wheels.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "fertilizer-spreader",
+  "category": "farm",
+  "draw": "Tractor-mounted cone hopper with a spinning disc throwing granules in an arc.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "manure-spreader",
+  "category": "farm",
+  "draw": "Box trailer with vertical beater rollers at the back throwing clumps.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "crop-sprayer",
+  "category": "farm",
+  "draw": "Tractor with a tank and a long wide boom of nozzles spraying downward.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "crop-duster",
+  "category": "farm",
+  "draw": "Single-engine low-wing farm plane releasing a trail of spray over a field.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "spraying-drone",
+  "category": "farm",
+  "draw": "Six-rotor drone with a tank underneath spraying mist downward in cones.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hay-rake",
+  "category": "farm",
+  "draw": "Row of large spoked tine wheels on a frame raking hay into a windrow.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "tractor-loader",
+  "category": "farm",
+  "draw": "Tractor with front loader arms raising a bucket.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "farm-trailer",
+  "category": "farm",
+  "draw": "Two-wheel tipping trailer with high sides raised at an angle dumping grain.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "slurry-tanker",
+  "category": "farm",
+  "draw": "Round tank trailer with a spreader plate spraying a wide fan at the rear.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "grain-auger",
+  "category": "farm",
+  "draw": "Long inclined tube on wheels with a spiral visible at the lower end and grain pouring from the top.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hay-wagon",
+  "category": "farm",
+  "draw": "Flat wooden wagon piled high with square hay bales.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "ox-cart",
+  "category": "farm",
+  "draw": "Two-wheel wooden cart with large spoked wheels and a shaft to an ox yoke.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "ox-plow",
+  "category": "farm",
+  "draw": "Ox pulling a simple wooden plow with a handle held behind it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "threshing-machine",
+  "category": "farm",
+  "draw": "Old stationary thresher on wheels with a belt pulley on its side and straw blowing from a chute.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "steam-traction-engine",
+  "category": "farm",
+  "draw": "Steam traction engine with a tall chimney, boiler and huge rear flywheel wheels.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "tractor-tire",
+  "category": "farm",
+  "draw": "Large tractor tire seen from the side with deep chevron tread lugs.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "tractor-seat",
+  "category": "farm",
+  "draw": "Perforated metal pan seat on a curved spring stem.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "agricultural-robot",
+  "category": "farm",
+  "draw": "Small wheeled field robot with a flat body, a camera mast and a weeding arm between crop rows.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "threshing-flail",
+  "category": "farm",
+  "draw": "Two wooden sticks joined by a short leather link, the swipple at an angle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "winnowing-basket",
+  "category": "farm",
+  "draw": "Wide shallow flat basket tipped forward with grain flying and chaff drifting off.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "millstone",
+  "category": "farm",
+  "draw": "Large round grinding stone with radiating grooves and a square center hole.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "orchard-ladder",
+  "category": "farm",
+  "draw": "Tall tripod ladder with a single back pole and a tapering top.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "bushel-basket",
+  "category": "farm",
+  "draw": "Round tapered wooden bushel basket with metal bands and two side handles, full of produce.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "grain-scoop",
+  "category": "farm",
+  "draw": "Wide deep scoop shovel with raised sides and a D-grip handle, heaped with grain.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "haystack",
+  "category": "farm",
+  "draw": "Tall rounded conical haystack with a pole sticking out of the top.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "shoulder-pole",
+  "category": "farm",
+  "draw": "Carrying pole across the shoulders with a basket hanging from each end.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "egg-tray",
+  "category": "farm",
+  "draw": "Square cardboard egg flat with a grid of cups, a few eggs sitting in it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "calf-bottle",
+  "category": "farm",
+  "draw": "Large bottle with measurement marks, a long rubber teat and a hanging handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "poultry-drinker",
+  "category": "farm",
+  "draw": "Plastic bell-shaped water dome with a shallow ring of water at its base and a top handle.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "horse-collar",
+  "category": "farm",
+  "draw": "Padded oval horse collar with metal hames on its sides.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "fleece",
+  "category": "farm",
+  "draw": "Shorn sheep fleece laid flat, a wavy cloud-like outline with curly wool texture.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "plowed-field",
+  "category": "farm",
+  "draw": "Field of curved parallel furrows receding to a horizon line.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "soybean",
+  "category": "farm",
+  "draw": "Fuzzy soybean pod with three bumps and a trifoliate leaf beside it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "fertilizer-bag",
+  "category": "farm",
+  "draw": "Sack of fertilizer with a sprout symbol and a spill of granules at the base.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "crop-rotation",
+  "category": "farm",
+  "draw": "Circle of four segments each with a different plant, arrows running around the ring.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "cracked-soil",
+  "category": "farm",
+  "draw": "Dry ground broken into irregular cracked plates with a wilting sprout.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "diseased-leaf",
+  "category": "farm",
+  "draw": "Leaf with scattered dark round spots and a curled edge.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "land-parcel",
+  "category": "farm",
+  "draw": "Plot of land drawn as a grid of field rectangles with a map pin on one.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "wattle-fence",
+  "category": "farm",
+  "draw": "Low panel of woven horizontal branches weaving between upright stakes.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "bamboo-fence",
+  "category": "farm",
+  "draw": "Fence of tied vertical bamboo poles with nodes and a horizontal binding rail.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "dry-stone-wall",
+  "category": "farm",
+  "draw": "Low wall of irregular stacked stones fitted together without mortar, capped with upright stones.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "farm-gate",
+  "category": "farm",
+  "draw": "Five-bar metal field gate with a diagonal brace, hinged on a post.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "garden-gate",
+  "category": "farm",
+  "draw": "Small wooden gate with an arched top and pickets set between two posts.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "stile",
+  "category": "farm",
+  "draw": "Wooden step stile over a fence with two steps and a post to hold.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "fence-post",
+  "category": "farm",
+  "draw": "Single square wooden post with wire strands stapled to its side, driven into ground.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "gardener",
+  "category": "farm",
+  "draw": "Person in a wide sun hat and apron holding a watering can.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "shepherd",
+  "category": "farm",
+  "draw": "Person in a long coat holding a tall crook with a sheep beside them.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "slow-moving-vehicle-sign",
+  "category": "farm",
+  "draw": "Triangular emblem with a bold border and a clipped top, as mounted on the back of tractors.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "seed-packet",
+  "category": "farm",
+  "draw": "Paper seed envelope with a folded top flap, a flower picture on its face and a few seeds beside it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "garden-obelisk",
+  "category": "farm",
+  "draw": "Tall four-sided pyramid frame of thin slats with a ball finial and a vine climbing it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "rock-garden",
+  "category": "farm",
+  "draw": "Mound of rounded boulders with small tufted alpine plants tucked between them.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "hedge-shears",
+  "category": "farm",
+  "draw": "Manual shears with two long straight wavy-edged blades and two short wooden handles, blades open.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "nesting-box",
+  "category": "farm",
+  "draw": "Row of three open cubby boxes on a wall with straw and an egg in one of them.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "livestock-scale",
+  "category": "farm",
+  "draw": "Platform scale with low side rails and a dial display on a post at one end.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "cheese-press",
+  "category": "farm",
+  "draw": "Wooden frame with a round cheese mold at the bottom and a long weighted lever pressing down on it.",
+  "domain": "garden-farm-agriculture"
+ },
+ {
+  "name": "disc-mower",
+  "category": "farm",
+  "draw": "Tractor-side mower bar with a row of small round cutting discs lowered to the grass.",
+  "domain": "garden-farm-agriculture"
+ }
+]

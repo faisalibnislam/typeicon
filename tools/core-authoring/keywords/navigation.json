@@ -1,0 +1,14 @@
+{
+  "external-link": {
+    "context": "Square with an arrow breaking out of its top right corner. Used for links that open in a new tab or window, leave the current site or open another app.",
+    "keywords": ["open", "new window", "outbound", "link", "open external", "new tab", "open in new tab", "open in new window", "external", "outside link", "leave site", "go to site", "launch", "arrow out", "pop out", "redirect", "website", "url", "hyperlink", "visit", "offsite"]
+  },
+  "home": {
+    "context": "House with a pitched roof and a door in the middle. Used for home buttons, the main page, dashboards, start screens, home addresses and real estate listings.",
+    "keywords": ["house", "main", "start", "dashboard", "index", "homepage", "home page", "main page", "start page", "landing page", "back to home", "go home", "overview", "building", "residence", "address", "real estate", "property", "household", "dwelling", "welcome"]
+  },
+  "menu": {
+    "context": "Three horizontal lines of equal length stacked evenly. Used to open navigation menus, side drawers, app menus, more options on mobile and list views.",
+    "keywords": ["hamburger", "navigation", "lines", "options", "hamburger menu", "nav", "navbar", "main menu", "side menu", "drawer", "sidebar", "open menu", "toggle menu", "three lines", "list", "more", "burger", "mobile menu", "app menu", "settings", "table of contents"]
+  }
+}

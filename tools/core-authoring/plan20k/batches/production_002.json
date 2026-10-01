@@ -1,0 +1,482 @@
+[
+ {
+  "name": "theater-box-seat",
+  "category": "production",
+  "draw": "Curved balcony box with a draped curtain top and two small seated figures looking out.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "ghost-light",
+  "category": "production",
+  "draw": "Single bare light bulb in a wire cage on top of a tall stand on an empty stage floor.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "stage-flat",
+  "category": "production",
+  "draw": "Rectangular scenery panel seen from the back showing its wooden frame and a diagonal support brace.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "stage-fly-system",
+  "category": "production",
+  "draw": "Pulley at the top with a rope running down to a hanging scenery batten and a counterweight on the other side.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "revolving-stage",
+  "category": "production",
+  "draw": "Round stage platform drawn in perspective with a curved rotation arrow around its edge.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "theater-in-the-round",
+  "category": "production",
+  "draw": "Top down circular stage surrounded by rings of curved seat rows on all sides.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "prompt-box",
+  "category": "production",
+  "draw": "Small hooded box at the front center edge of a stage with a script page peeking out.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "wig-head",
+  "category": "production",
+  "draw": "Rounded mannequin head on a short stand wearing a full curly wig.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "costume-rack",
+  "category": "production",
+  "draw": "Rolling clothes rail on wheels with several hanging costumes including a cape and a dress.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "spike-mark",
+  "category": "production",
+  "draw": "Floor seen from above with a T shaped tape mark and a small footprint next to it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "surtitle-screen",
+  "category": "production",
+  "draw": "Wide narrow text screen hanging above a stage opening with two short lines of text.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "thunder-sheet",
+  "category": "production",
+  "draw": "Large thin metal sheet hanging from a bar with wavy wobble lines and a jagged bolt beside it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "wind-machine",
+  "category": "production",
+  "draw": "Slatted wooden drum covered by fabric on a stand with a crank handle on its side.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "slapstick",
+  "category": "production",
+  "draw": "Two flat wooden paddles joined at the handle and spread apart at the tip like a hinged bat.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "vaudeville-hook",
+  "category": "production",
+  "draw": "Long cane with a large curved hook reaching out from the side of a curtain.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "stagebox",
+  "category": "production",
+  "draw": "Metal box with a grid of round connector sockets on its face and a thick cable leaving from one side.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "in-ear-monitor",
+  "category": "production",
+  "draw": "Custom molded earpiece with a thin cable looping down behind an ear outline.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "line-array-speaker",
+  "category": "production",
+  "draw": "Vertical curved stack of flat speaker boxes hanging from a rigging bar.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "snow-machine",
+  "category": "production",
+  "draw": "Box machine on a stand blowing a spray of small snowflakes out of its front nozzle.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "confetti-cannon",
+  "category": "production",
+  "draw": "Handheld tube cannon angled upward bursting out a spray of small confetti pieces.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "stage-pyrotechnics",
+  "category": "production",
+  "draw": "Row of small floor boxes along a stage edge each shooting a tall column of flame and sparks.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "projection-mapping",
+  "category": "production",
+  "draw": "Building facade with a projector beam from the side and a geometric pattern painted across the facade.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "hologram-display",
+  "category": "production",
+  "draw": "Round base emitting upward light lines with a translucent figure floating above it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "mic-flag",
+  "category": "production",
+  "draw": "Handheld microphone with a square cube flag fitted around its shaft just below the grille.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "talk-show-set",
+  "category": "production",
+  "draw": "Desk on the left and a two seat sofa on the right in front of a city skyline backdrop.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "cue-light",
+  "category": "production",
+  "draw": "Small box on a stand with one lamp lit and a push button below it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "news-helicopter",
+  "category": "production",
+  "draw": "Helicopter side view with a round camera gimbal ball mounted under its nose.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "telestrator",
+  "category": "production",
+  "draw": "TV screen showing a player dot with a hand drawn curved arrow and circle drawn over it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "field-reporter",
+  "category": "production",
+  "draw": "Person holding a handheld microphone facing forward inside a camera viewfinder frame.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "sound-cart",
+  "category": "production",
+  "draw": "Wheeled cart with an audio mixer on its top shelf, an antenna pole and a small screen.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "shot-list",
+  "category": "production",
+  "draw": "Clipboard with a numbered list, each line beginning with a small camera symbol.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "director-viewfinder",
+  "category": "production",
+  "draw": "Small handheld viewfinder tube with a rectangular eyepiece hanging from a neck cord.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "film-can",
+  "category": "production",
+  "draw": "Round flat metal film tin with a lid and a label strip across the top, seen at an angle.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "film-platter",
+  "category": "production",
+  "draw": "Tall stand holding three large horizontal film platters stacked one above another.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "flatbed-film-editor",
+  "category": "production",
+  "draw": "Table top editing machine with two flat film reels on each side and a small viewing screen in the middle.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "film-trim-bin",
+  "category": "production",
+  "draw": "Canvas bin on a frame with a rack of pins above it and strips of film hanging down into it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "film-rewinder",
+  "category": "production",
+  "draw": "Bench mounted crank arm with a film reel on its spindle and a curved rotation arrow.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "jog-shuttle-wheel",
+  "category": "production",
+  "draw": "Round editing controller with a large outer spring ring around an inner dimpled jog wheel.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "intertitle-card",
+  "category": "production",
+  "draw": "Ornate rectangular frame with decorative corners and two lines of centered text inside.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "close-up-shot",
+  "category": "production",
+  "draw": "Viewfinder frame with a head and shoulders filling almost the whole frame.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "extreme-close-up-shot",
+  "category": "production",
+  "draw": "Viewfinder frame filled edge to edge by a single eye.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "wide-shot",
+  "category": "production",
+  "draw": "Viewfinder frame with a small full body figure standing on a ground line with space all around.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "medium-shot",
+  "category": "production",
+  "draw": "Viewfinder frame showing a figure from the waist up.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "two-shot",
+  "category": "production",
+  "draw": "Viewfinder frame with two figures from the waist up standing side by side.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "over-the-shoulder-shot",
+  "category": "production",
+  "draw": "Viewfinder frame with the back of a large head and shoulder in the corner facing a smaller figure.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "point-of-view-shot",
+  "category": "production",
+  "draw": "Eye outline on the left with a viewfinder frame in front of it showing two hands reaching forward.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "dutch-angle",
+  "category": "production",
+  "draw": "Viewfinder frame with a building and horizon line inside tilted at a strong diagonal.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "overhead-shot",
+  "category": "production",
+  "draw": "Viewfinder frame looking straight down on the top of a head and shoulders from above.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "dolly-zoom",
+  "category": "production",
+  "draw": "Three nested frames of shrinking size around a figure with a camera on a track below.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "tracking-shot",
+  "category": "production",
+  "draw": "Camera on a small wheeled dolly following behind a walking figure with motion lines.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "establishing-shot",
+  "category": "production",
+  "draw": "Wide viewfinder frame showing a skyline of buildings with a small title bar in the corner.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "panning-shot",
+  "category": "production",
+  "draw": "Sharp car in the center of a frame with horizontal streak lines behind it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "razor-edit-tool",
+  "category": "production",
+  "draw": "Timeline clip bar with a razor blade cutting a vertical line through its middle.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "trim-clip",
+  "category": "production",
+  "draw": "Timeline clip bar with a thick square bracket handle gripping one of its ends.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "dissolve-transition",
+  "category": "production",
+  "draw": "Two overlapping clip rectangles with a crossing X of fading lines in their overlap.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "wipe-transition",
+  "category": "production",
+  "draw": "Frame split by a diagonal edge with one side filled solid and a small arrow across the edge.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "fade-to-black",
+  "category": "production",
+  "draw": "Row of three frames going from open to half filled to fully filled solid.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "render-queue",
+  "category": "production",
+  "draw": "Stack of three film frames with a horizontal progress bar beneath them.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "timeline-marker",
+  "category": "production",
+  "draw": "Timeline ruler with a small pentagon marker flag and a thin line dropping down from it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "motion-tracking",
+  "category": "production",
+  "draw": "Crosshair target square on a moving dot with a trail of smaller dots behind it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "rotoscoping",
+  "category": "production",
+  "draw": "Figure silhouette traced by a dashed outline with small square anchor points along it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "lut-cube",
+  "category": "production",
+  "draw": "Three dimensional cube with a graded shade across its faces and a small grid on one side.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "vectorscope",
+  "category": "production",
+  "draw": "Round scope display with a crosshair, six small target boxes around the circle and a blob in the center.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "title-safe-area",
+  "category": "production",
+  "draw": "Screen rectangle with two nested dashed rectangles inside and short text lines in the middle.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "letterboxed-video",
+  "category": "production",
+  "draw": "Screen with solid black bars across the top and bottom and a wide play frame between them.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "zebra-stripes-warning",
+  "category": "production",
+  "draw": "Viewfinder frame with a patch of diagonal stripes over a bright area and a small sun.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "4k-video",
+  "category": "production",
+  "draw": "Screen outline with the text 4K centered inside it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "auto-reframe",
+  "category": "production",
+  "draw": "Wide landscape frame with a tall vertical frame inside it centered on a person silhouette.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "scene-detection",
+  "category": "production",
+  "draw": "Film strip with small scissor cut marks between some frames and a sparkle above.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "dubbing",
+  "category": "production",
+  "draw": "Studio microphone facing a screen that shows a speaking face with a speech bubble.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "lip-sync-chart",
+  "category": "production",
+  "draw": "Grid of six small mouth shapes, each open to a different shape.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "phenakistoscope",
+  "category": "production",
+  "draw": "Round disc with slots around its rim and a ring of small figures in sequence, on a handle.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "kinetoscope",
+  "category": "production",
+  "draw": "Tall wooden cabinet with a peephole viewer on top and a crank on its side.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "animation-cel",
+  "category": "production",
+  "draw": "Clear rectangular sheet with peg holes along the top and a character outline painted on it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "onion-skinning",
+  "category": "production",
+  "draw": "A figure drawn solid with two faded dashed copies of it offset behind.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "tweening",
+  "category": "production",
+  "draw": "Two solid key poses of a ball at either end with small faded balls in a row between them.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "walk-cycle",
+  "category": "production",
+  "draw": "Row of four small figure poses showing the stages of a walking step.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "bouncing-ball-animation",
+  "category": "production",
+  "draw": "Ball squashed flat on a ground line with a dotted arc path of balls rising away from it.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "character-turnaround",
+  "category": "production",
+  "draw": "Three simple figure outlines side by side showing front, side and back views.",
+  "domain": "r2-photo-video-production"
+ },
+ {
+  "name": "character-rig",
+  "category": "production",
+  "draw": "Figure outline with a skeleton of straight bones joined by round joint dots inside it.",
+  "domain": "r2-photo-video-production"
+ }
+]

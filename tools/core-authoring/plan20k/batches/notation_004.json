@@ -1,0 +1,482 @@
+[
+ {
+  "name": "ground-symbol",
+  "category": "notation",
+  "draw": "Electrical ground symbol: a vertical line ending in three horizontal bars of decreasing width.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "chassis-ground-symbol",
+  "category": "notation",
+  "draw": "Chassis ground symbol: a vertical line ending in a horizontal bar with three short slanted teeth below.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "protective-earth-symbol",
+  "category": "notation",
+  "draw": "Protective earth symbol: a ground symbol of three shrinking bars enclosed in a circle.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "battery-cell-symbol",
+  "category": "notation",
+  "draw": "Battery cell schematic symbol: a long thin line beside a short thick line, with plus and minus marks.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ac-source-symbol",
+  "category": "notation",
+  "draw": "AC voltage source schematic symbol: a circle with a single sine wave inside and leads top and bottom.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "dc-source-symbol",
+  "category": "notation",
+  "draw": "DC voltage source schematic symbol: a circle with a plus above and a minus below, with leads.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "current-source-symbol",
+  "category": "notation",
+  "draw": "Current source schematic symbol: a circle with an upward arrow inside and leads top and bottom.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "switch-symbol",
+  "category": "notation",
+  "draw": "Open switch schematic symbol: two small dots on a line with a hinged stroke lifted between them.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "push-button-symbol",
+  "category": "notation",
+  "draw": "Push button schematic symbol: a bar above two contact dots with a small plunger stem on top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fuse-symbol",
+  "category": "notation",
+  "draw": "Fuse schematic symbol: a small rectangle with a line running straight through it lengthwise.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "lamp-symbol",
+  "category": "notation",
+  "draw": "Lamp schematic symbol: a circle with a small looped filament inside and leads on each side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "motor-symbol",
+  "category": "notation",
+  "draw": "Motor schematic symbol: a circle with a capital M inside and leads on both sides.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "generator-symbol",
+  "category": "notation",
+  "draw": "Generator schematic symbol: a circle with a capital G inside and leads on both sides.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "op-amp-symbol",
+  "category": "notation",
+  "draw": "Operational amplifier symbol: a triangle pointing right with plus and minus inputs on the left side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "zener-diode-symbol",
+  "category": "notation",
+  "draw": "Zener diode symbol: a triangle pointing at a bar whose ends bend into small hooks.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "photodiode-symbol",
+  "category": "notation",
+  "draw": "Photodiode symbol: a diode triangle and bar with two small arrows pointing in toward it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "variable-resistor-symbol",
+  "category": "notation",
+  "draw": "Variable resistor symbol: a zigzag line with a diagonal arrow crossing through it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "polarized-capacitor-symbol",
+  "category": "notation",
+  "draw": "Polarized capacitor symbol: one straight plate and one curved plate facing each other with a plus mark.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "junction-dot",
+  "category": "notation",
+  "draw": "Wire junction: two crossing lines with a solid dot at the intersection showing they connect.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wire-crossover",
+  "category": "notation",
+  "draw": "Wire crossover: a horizontal wire with a small hump jumping over a vertical wire.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "thermistor-symbol",
+  "category": "notation",
+  "draw": "Thermistor symbol: a small rectangle with a diagonal line that bends flat at its lower end.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "solar-cell-symbol",
+  "category": "notation",
+  "draw": "Solar cell schematic symbol: a battery cell symbol inside a circle with two arrows pointing in.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "buzzer-symbol",
+  "category": "notation",
+  "draw": "Buzzer schematic symbol: a half circle dome sitting on a flat line with two leads.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "direct-current-symbol",
+  "category": "notation",
+  "draw": "Direct current symbol: a solid horizontal line above a row of three short dashes.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "double-insulation-symbol",
+  "category": "notation",
+  "draw": "Double insulation symbol: a small square centered inside a larger square.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "dc-polarity-symbol",
+  "category": "notation",
+  "draw": "Center positive polarity symbol: a dot inside a C shape, with a plus on one side and a minus on the other.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "electrostatic-discharge-symbol",
+  "category": "notation",
+  "draw": "Electrostatic sensitive symbol: a triangle with a hand reaching in and a slash across the hand.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "triangle-wave",
+  "category": "notation",
+  "draw": "Triangle wave: a zigzag line of equal rising and falling slopes.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "pulse-wave",
+  "category": "notation",
+  "draw": "Pulse wave: a flat line with narrow rectangular spikes at regular intervals.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "benzene-ring",
+  "category": "notation",
+  "draw": "Benzene ring: a hexagon with a circle drawn inside it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cyclohexane-chair",
+  "category": "notation",
+  "draw": "Cyclohexane chair: a zigzag six sided ring drawn in chair shaped perspective.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "lewis-dot-structure",
+  "category": "notation",
+  "draw": "Lewis dot structure: a capital letter surrounded by pairs of dots on each of its four sides.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "skeletal-formula",
+  "category": "notation",
+  "draw": "Skeletal formula: a zigzag carbon chain with an OH group at one end.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "structural-formula",
+  "category": "notation",
+  "draw": "Structural formula: a central C with single bonds to four H letters above, below and on each side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "double-bond",
+  "category": "notation",
+  "draw": "Double bond: two letters C joined by two parallel horizontal lines.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "triple-bond",
+  "category": "notation",
+  "draw": "Triple bond: two letters C joined by three parallel horizontal lines.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "wedge-dash-bond",
+  "category": "notation",
+  "draw": "Stereochemistry bonds: a central atom with one solid wedge bond and one hashed wedge bond.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "orbital-box-diagram",
+  "category": "notation",
+  "draw": "Orbital box diagram: three small squares in a row, each with an up and a down half arrow.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "bra-ket-notation",
+  "category": "notation",
+  "draw": "Bra ket notation: a psi between a vertical bar and a right angle bracket.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "magnetic-field-dots",
+  "category": "notation",
+  "draw": "Field out of page notation: a grid of small circles each with a dot at the centre.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "male-symbol",
+  "category": "notation",
+  "draw": "Male symbol: a circle with an arrow pointing out from its upper right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "female-symbol",
+  "category": "notation",
+  "draw": "Female symbol: a circle with a small cross extending straight down from its bottom.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "transgender-symbol",
+  "category": "notation",
+  "draw": "Transgender symbol: a circle with an arrow at the upper right, a cross below and a crossed arrow at the upper left.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "nonbinary-symbol",
+  "category": "notation",
+  "draw": "Nonbinary symbol: a circle with a vertical stroke above it crossed by a small asterisk like X.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "genderless-symbol",
+  "category": "notation",
+  "draw": "Genderless symbol: a plain circle with a short straight line extending from its top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "intersex-symbol",
+  "category": "notation",
+  "draw": "Intersex symbol: a circle with an arrow at the upper right and a short cross at the bottom joined into one glyph.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-terminator",
+  "category": "notation",
+  "draw": "Flowchart terminator: a stadium shape, a wide rectangle with fully rounded ends.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-document",
+  "category": "notation",
+  "draw": "Flowchart document shape: a rectangle whose bottom edge is a single wave.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-multiple-documents",
+  "category": "notation",
+  "draw": "Flowchart multiple documents: three wavy bottomed rectangles stacked and offset.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-predefined-process",
+  "category": "notation",
+  "draw": "Flowchart predefined process: a rectangle with an extra vertical line inside each end.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-manual-input",
+  "category": "notation",
+  "draw": "Flowchart manual input: a quadrilateral with a sloped top edge rising to the right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-off-page-connector",
+  "category": "notation",
+  "draw": "Flowchart off page connector: a pentagon shaped like a home plate pointing down.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-delay",
+  "category": "notation",
+  "draw": "Flowchart delay: a D shape with a flat left side and a rounded right side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-display",
+  "category": "notation",
+  "draw": "Flowchart display: a shape with a pointed left end and a rounded right end.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-punched-tape",
+  "category": "notation",
+  "draw": "Flowchart punched tape: a flag shaped rectangle with wavy top and bottom edges.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "flowchart-decision-branch",
+  "category": "notation",
+  "draw": "Flowchart decision: a diamond with a yes arrow leaving from the bottom and a no arrow from the side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "uml-class-diagram",
+  "category": "notation",
+  "draw": "UML class box: a rectangle split into three stacked compartments for name, fields and methods.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "uml-inheritance",
+  "category": "notation",
+  "draw": "UML inheritance: two boxes joined by a line ending in a hollow triangle arrowhead at the upper box.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "uml-composition",
+  "category": "notation",
+  "draw": "UML composition: two boxes joined by a line ending in a filled diamond at one box.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "uml-aggregation",
+  "category": "notation",
+  "draw": "UML aggregation: two boxes joined by a line ending in a hollow diamond at one box.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "uml-use-case",
+  "category": "notation",
+  "draw": "UML use case: a horizontal ellipse with a short text line inside, linked to a stick figure.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "uml-sequence-diagram",
+  "category": "notation",
+  "draw": "UML sequence diagram: two boxes with dashed lifelines down and horizontal message arrows between them.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "uml-state-diagram",
+  "category": "notation",
+  "draw": "UML state diagram: a solid start dot, a rounded state box and a bullseye end state joined by arrows.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "crows-foot-notation",
+  "category": "notation",
+  "draw": "Crows foot notation: a line between two boxes ending in a three pronged fork with a small bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "petri-net",
+  "category": "notation",
+  "draw": "Petri net: two circles with tokens joined by arrows through a thin vertical bar transition.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "bpmn-gateway",
+  "category": "notation",
+  "draw": "Process gateway: a diamond with a bold X inside, joined to incoming and outgoing arrows.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "aries",
+  "category": "notation",
+  "draw": "Aries glyph: a ram's horns, two curls springing outward from a single central V stem.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "taurus",
+  "category": "notation",
+  "draw": "Taurus glyph: a circle with a wide crescent of horns resting on top of it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "gemini",
+  "category": "notation",
+  "draw": "Gemini glyph: two vertical pillars joined by curved bars at top and bottom, like a Roman II.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cancer-zodiac",
+  "category": "notation",
+  "draw": "Cancer glyph: two small circles with curling tails, one at top left and one at bottom right, like a sideways 69.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "leo",
+  "category": "notation",
+  "draw": "Leo glyph: a small circle at the lower left joined to a looping stroke that ends in a curled tail.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "virgo",
+  "category": "notation",
+  "draw": "Virgo glyph: an m shape whose last leg crosses back over itself in a small loop.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "libra",
+  "category": "notation",
+  "draw": "Libra glyph: a horizontal bar beneath a rounded hump that rises in the middle, like a setting sun on the horizon.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "scorpio",
+  "category": "notation",
+  "draw": "Scorpio glyph: an m shape whose last leg ends in an upward pointing arrowhead tail.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sagittarius",
+  "category": "notation",
+  "draw": "Sagittarius glyph: a diagonal arrow pointing to the upper right with a short crossbar on its shaft.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "capricorn",
+  "category": "notation",
+  "draw": "Capricorn glyph: a V shaped stroke flowing into a looped fish tail at the right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "aquarius",
+  "category": "notation",
+  "draw": "Aquarius glyph: two parallel zigzag lines stacked one above the other, like waves of water.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "pisces",
+  "category": "notation",
+  "draw": "Pisces glyph: two outward facing arcs back to back joined by a horizontal bar through their middle.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ophiuchus",
+  "category": "notation",
+  "draw": "Ophiuchus glyph: a wavy serpent line stacked above a straight horizontal bar, like a snake held aloft.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "zodiac-wheel",
+  "category": "notation",
+  "draw": "Zodiac wheel: a circle divided into twelve equal segments with small tick marks around an inner ring.",
+  "domain": "symbols-and-notation"
+ }
+]

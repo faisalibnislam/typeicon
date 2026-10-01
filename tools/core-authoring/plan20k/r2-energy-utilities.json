@@ -1,0 +1,757 @@
+[
+  {
+    "name": "coal-power-plant",
+    "category": "utilities",
+    "draw": "Boxy plant building with one tall smokestack and a heaped coal pile beside it fed by a slanted conveyor."
+  },
+  {
+    "name": "gas-fired-power-plant",
+    "category": "utilities",
+    "draw": "Low plant building with two slim exhaust stacks and a small gas flame symbol on its front wall."
+  },
+  {
+    "name": "waste-to-energy-plant",
+    "category": "utilities",
+    "draw": "Plant building with a single chimney and a small trash bag at its entrance, a lightning bolt on the wall."
+  },
+  {
+    "name": "tidal-barrage",
+    "category": "utilities",
+    "draw": "Side view of a low wall across water with a higher water level on the sea side, a crescent moon above and a turbine circle in the wall."
+  },
+  {
+    "name": "diesel-generator",
+    "category": "utilities",
+    "draw": "Long enclosed generator box on a skid base with a vented grille at one end and a short exhaust pipe on the roof."
+  },
+  {
+    "name": "gas-turbine",
+    "category": "utilities",
+    "draw": "Side cutaway of a horizontal jet-like turbine: narrow intake, bands of compressor blades and a flared exhaust."
+  },
+  {
+    "name": "heliostat",
+    "category": "utilities",
+    "draw": "Flat square mirror tilted on a single pedestal post with a sun ray bouncing off it at an angle."
+  },
+  {
+    "name": "solar-dish-collector",
+    "category": "utilities",
+    "draw": "Large round parabolic dish on a pedestal with a receiver box held at its focal point by three struts."
+  },
+  {
+    "name": "wind-turbine-nacelle",
+    "category": "utilities",
+    "draw": "Close side view of the turbine housing box on the tower top with the rotor hub cone and blade roots at the front."
+  },
+  {
+    "name": "floating-wind-turbine",
+    "category": "utilities",
+    "draw": "Three blade wind turbine standing on a floating platform at the waterline with slanted mooring lines to the seabed."
+  },
+  {
+    "name": "bladeless-wind-turbine",
+    "category": "utilities",
+    "draw": "Tall slender tapered cone standing upright on a small base with short curved lines showing it swaying."
+  },
+  {
+    "name": "airborne-wind-kite",
+    "category": "utilities",
+    "draw": "A tethered kite high in the air with a long line down to a small ground winch box."
+  },
+  {
+    "name": "gravity-energy-storage",
+    "category": "utilities",
+    "draw": "Tall tower frame with a crane arm lifting one heavy block above a stack of blocks, an up and down arrow beside it."
+  },
+  {
+    "name": "flow-battery",
+    "category": "utilities",
+    "draw": "Two upright electrolyte tanks side by side connected by pipes to a flat cell stack between them."
+  },
+  {
+    "name": "compressed-air-storage",
+    "category": "utilities",
+    "draw": "Ground cross section with a compressor building on the surface and a pipe down into an oval underground cavern."
+  },
+  {
+    "name": "penstock",
+    "category": "utilities",
+    "draw": "Thick pipe running diagonally down a hillside from a reservoir into a small powerhouse building at the bottom."
+  },
+  {
+    "name": "francis-turbine",
+    "category": "utilities",
+    "draw": "Front view of a snail shaped spiral casing wrapping around a round runner with curved vanes."
+  },
+  {
+    "name": "district-heating-pipes",
+    "category": "utilities",
+    "draw": "Two parallel insulated pipes on short supports leading into a row of small houses, with heat wave lines above."
+  },
+  {
+    "name": "pedal-generator",
+    "category": "utilities",
+    "draw": "Bicycle mounted on a stand with its rear wheel driving a small generator box wired to a glowing bulb."
+  },
+  {
+    "name": "balcony-solar-panel",
+    "category": "utilities",
+    "draw": "Single solar panel hung on a balcony railing with a short cable and plug going into the wall."
+  },
+  {
+    "name": "solar-home-kit",
+    "category": "utilities",
+    "draw": "Small solar panel wired to a battery box and a hanging light bulb, an off grid starter set."
+  },
+  {
+    "name": "solar-still",
+    "category": "utilities",
+    "draw": "Pyramid of glass over a basin of water in the sun, condensed drops running down into a side collection trough."
+  },
+  {
+    "name": "solar-updraft-tower",
+    "category": "utilities",
+    "draw": "Very tall thin chimney rising from the middle of a wide low glass canopy roof with upward air arrows."
+  },
+  {
+    "name": "space-solar-power",
+    "category": "utilities",
+    "draw": "Satellite with wide solar wings beaming a wavy ray down to a round receiver dish on the ground."
+  },
+  {
+    "name": "portable-power-station",
+    "category": "utilities",
+    "draw": "Compact box with a carry handle on top, a battery level display and a row of outlets on the front."
+  },
+  {
+    "name": "pad-mounted-transformer",
+    "category": "utilities",
+    "draw": "Low rectangular metal box on a concrete pad with vent slits and a lightning bolt warning triangle on its door."
+  },
+  {
+    "name": "switchgear-cabinet",
+    "category": "utilities",
+    "draw": "Row of three tall metal cabinets with small windows, switches and meters on each door."
+  },
+  {
+    "name": "busbar",
+    "category": "utilities",
+    "draw": "Three parallel flat metal bars fixed to insulator blocks with bolt holes along each bar."
+  },
+  {
+    "name": "underground-power-cable",
+    "category": "utilities",
+    "draw": "Ground cross section showing a buried round cable with a warning tape line above it and grass at the surface."
+  },
+  {
+    "name": "industrial-cable-spool",
+    "category": "utilities",
+    "draw": "Large wooden spool standing on its edge with heavy cable wound around the core and the loose end trailing out."
+  },
+  {
+    "name": "bird-flight-diverter",
+    "category": "utilities",
+    "draw": "A power line with two spiral coils wrapped around it and a small bird flying above."
+  },
+  {
+    "name": "power-line-marker-ball",
+    "category": "utilities",
+    "draw": "Power lines strung between two tower tops with a large round marker ball clamped on the middle wire."
+  },
+  {
+    "name": "surge-arrester",
+    "category": "utilities",
+    "draw": "Upright ribbed porcelain column with a cap on top and a ground wire at the base, a small bolt on the side."
+  },
+  {
+    "name": "capacitor-bank",
+    "category": "utilities",
+    "draw": "Open steel frame holding two rows of upright can shaped capacitors with bushings on top."
+  },
+  {
+    "name": "h-frame-power-pole",
+    "category": "utilities",
+    "draw": "Two wooden poles joined near the top by a crossbar carrying three hanging insulators and wires."
+  },
+  {
+    "name": "grid-control-room",
+    "category": "utilities",
+    "draw": "Operator desk with two monitors facing a wide wall screen that shows a network of lines and nodes."
+  },
+  {
+    "name": "brownout",
+    "category": "utilities",
+    "draw": "Light bulb with a dimmed half and a short down arrow beside it, showing reduced voltage."
+  },
+  {
+    "name": "load-shedding",
+    "category": "utilities",
+    "draw": "Row of three small houses with the middle one dark and a clock above it showing a scheduled cut."
+  },
+  {
+    "name": "outage-map",
+    "category": "utilities",
+    "draw": "Folded map with several lightning bolt pins and one crossed out bolt marking an outage area."
+  },
+  {
+    "name": "power-surge",
+    "category": "utilities",
+    "draw": "Wall plug with a sharp spike in a line graph rising above it."
+  },
+  {
+    "name": "downed-power-line",
+    "category": "utilities",
+    "draw": "Leaning broken utility pole with a snapped wire lying on the ground and sparks at its end."
+  },
+  {
+    "name": "three-phase-power",
+    "category": "utilities",
+    "draw": "Three overlapping sine waves offset from each other along one horizontal axis."
+  },
+  {
+    "name": "alternating-current-symbol",
+    "category": "utilities",
+    "draw": "Single tilde shaped sine wave inside a circle, the AC symbol."
+  },
+  {
+    "name": "vehicle-to-grid",
+    "category": "utilities",
+    "draw": "Electric car on the left and a pylon on the right linked by a two way arrow with a bolt in the middle."
+  },
+  {
+    "name": "net-metering",
+    "category": "utilities",
+    "draw": "Round meter dial with two opposing arrows below it, one pointing to a house and one to a pylon."
+  },
+  {
+    "name": "time-of-use-pricing",
+    "category": "utilities",
+    "draw": "Clock face with a lightning bolt in the center and a small price tag hanging from its side."
+  },
+  {
+    "name": "virtual-power-plant",
+    "category": "utilities",
+    "draw": "Cloud at the top connected by lines to three small houses with solar panels and a battery below."
+  },
+  {
+    "name": "peer-to-peer-energy",
+    "category": "utilities",
+    "draw": "Two small houses side by side with a curved arrow carrying a lightning bolt from one roof to the other."
+  },
+  {
+    "name": "heat-meter",
+    "category": "utilities",
+    "draw": "Compact meter body sitting on a pipe with a small display and a thermometer mark on its face."
+  },
+  {
+    "name": "coin-meter",
+    "category": "utilities",
+    "draw": "Old boxy meter with a round dial window and a coin slot on the front with a coin going in."
+  },
+  {
+    "name": "power-pedestal",
+    "category": "utilities",
+    "draw": "Short post with a hooded top holding two outlets and a small meter, as used at marinas and campsites."
+  },
+  {
+    "name": "home-utilities",
+    "category": "utilities",
+    "draw": "Water drop, gas flame and lightning bolt arranged together in a triangle."
+  },
+  {
+    "name": "line-inspection-drone",
+    "category": "utilities",
+    "draw": "Quadcopter drone hovering beside a string of insulators hanging from a power line."
+  },
+  {
+    "name": "arc-flash-suit",
+    "category": "utilities",
+    "draw": "Front view of a protective hood with a wide dark visor over a thick protective jacket."
+  },
+  {
+    "name": "insulated-gloves",
+    "category": "utilities",
+    "draw": "Pair of long thick cuffed rubber gloves with a small lightning bolt marked on the cuff."
+  },
+  {
+    "name": "digger-derrick",
+    "category": "utilities",
+    "draw": "Utility truck with a boom arm on the back ending in a large vertical auger drilling into the ground."
+  },
+  {
+    "name": "utility-van",
+    "category": "utilities",
+    "draw": "Boxy van with ladders strapped on the roof rack and a lightning bolt and drop on its side panel."
+  },
+  {
+    "name": "plug-in-timer",
+    "category": "utilities",
+    "draw": "Plug socket adapter with a round dial on its face ringed by small push pins."
+  },
+  {
+    "name": "borehole",
+    "category": "utilities",
+    "draw": "Ground cross section with a narrow vertical pipe drilled down through layers into a wavy water layer, a pump head on top."
+  },
+  {
+    "name": "water-pumping-station",
+    "category": "utilities",
+    "draw": "Small flat roofed building with a large pipe entering one side, leaving the other and a water drop on the wall."
+  },
+  {
+    "name": "water-main",
+    "category": "utilities",
+    "draw": "Large pipe cross section in a trench under the road surface with a smaller branch pipe rising to a house."
+  },
+  {
+    "name": "reverse-osmosis-system",
+    "category": "utilities",
+    "draw": "Three upright filter canisters in a row joined by thin tubes, beside a small round storage tank."
+  },
+  {
+    "name": "aeration-basin",
+    "category": "utilities",
+    "draw": "Rectangular open tank seen at an angle with rows of rising bubbles in the water."
+  },
+  {
+    "name": "trickling-filter",
+    "category": "utilities",
+    "draw": "Round shallow bed of stones seen at an angle with a rotating sprinkler arm spraying drops across it."
+  },
+  {
+    "name": "reed-bed-filter",
+    "category": "utilities",
+    "draw": "Cross section of a gravel bed with tall reeds growing from it and water flowing through from one side."
+  },
+  {
+    "name": "grease-trap",
+    "category": "utilities",
+    "draw": "Box shaped tank with an inlet pipe, an internal baffle wall and a layer of floating grease at the top."
+  },
+  {
+    "name": "fatberg",
+    "category": "utilities",
+    "draw": "A lumpy blob of congealed fat and wipes blocking the inside of a sewer pipe cross section."
+  },
+  {
+    "name": "sewer-tunnel",
+    "category": "utilities",
+    "draw": "Arched brick tunnel seen end on with a channel of flowing water along its floor."
+  },
+  {
+    "name": "utility-tunnel",
+    "category": "utilities",
+    "draw": "Rectangular tunnel seen end on with pipes along one wall and cable trays along the other."
+  },
+  {
+    "name": "water-intake-tower",
+    "category": "utilities",
+    "draw": "Tall round tower standing in a reservoir with a narrow footbridge running to it from the shore."
+  },
+  {
+    "name": "spillway",
+    "category": "utilities",
+    "draw": "Stepped concrete chute running down from the top of a dam wall with water cascading over the steps."
+  },
+  {
+    "name": "embankment-dam",
+    "category": "utilities",
+    "draw": "Trapezoid earth embankment in side view holding back water on one side, with a rock lined slope."
+  },
+  {
+    "name": "water-outage",
+    "category": "utilities",
+    "draw": "Faucet with no flow and a dashed empty drop outline below the spout."
+  },
+  {
+    "name": "water-vending-machine",
+    "category": "utilities",
+    "draw": "Upright kiosk machine with a water drop sign on top, a coin slot and a jug under the tap."
+  },
+  {
+    "name": "handwashing-station",
+    "category": "utilities",
+    "draw": "Water container on a stand with a small tap over a basin and a bar of soap beside it."
+  },
+  {
+    "name": "composting-toilet",
+    "category": "utilities",
+    "draw": "Wooden box toilet with a lid and a small leaf symbol on its front and a vent pipe rising behind."
+  },
+  {
+    "name": "limescale",
+    "category": "utilities",
+    "draw": "Water drop above a pipe cross section narrowed by a thick crusty inner layer."
+  },
+  {
+    "name": "dry-riser-inlet",
+    "category": "utilities",
+    "draw": "Wall mounted box with a door and two round hose connectors inside, as fitted on buildings for firefighters."
+  },
+  {
+    "name": "storm-surge-barrier",
+    "category": "utilities",
+    "draw": "Row of piers across a river with curved shell shaped gates between them, water on one side."
+  },
+  {
+    "name": "shadoof",
+    "category": "utilities",
+    "draw": "Upright post with a long pivoting pole, a counterweight at one end and a bucket hanging at the other over water."
+  },
+  {
+    "name": "qanat",
+    "category": "utilities",
+    "draw": "Ground cross section with a gently sloping underground channel and a row of vertical access shafts rising to the surface."
+  },
+  {
+    "name": "leak-listening-stick",
+    "category": "utilities",
+    "draw": "Long metal rod pressed to the ground with an earpiece on top and sound waves coming from a pipe below."
+  },
+  {
+    "name": "water-valve-key",
+    "category": "utilities",
+    "draw": "Tall T shaped bar with a socket at its bottom end reaching into a small valve box in the ground."
+  },
+  {
+    "name": "manhole-cover-lifter",
+    "category": "utilities",
+    "draw": "Pair of hooked lifting keys raising the edge of a round manhole cover."
+  },
+  {
+    "name": "ground-penetrating-radar",
+    "category": "utilities",
+    "draw": "Small wheeled cart pushed by a long handle with wave lines going down into the ground to a buried pipe."
+  },
+  {
+    "name": "gas-compressor-station",
+    "category": "utilities",
+    "draw": "Small building with a cluster of pipes and valves in front and two short vent stacks on the roof."
+  },
+  {
+    "name": "pipeline-marker-post",
+    "category": "utilities",
+    "draw": "Short upright post with a slanted cap top and a flame symbol on its face, marking a buried pipeline."
+  },
+  {
+    "name": "gas-cylinder-cage",
+    "category": "utilities",
+    "draw": "Mesh cage with a padlocked door holding a row of upright gas cylinders."
+  },
+  {
+    "name": "lpg-bulk-tank",
+    "category": "utilities",
+    "draw": "Long horizontal capsule tank with rounded ends on two saddle feet and a domed valve cover on top."
+  },
+  {
+    "name": "coal-scuttle",
+    "category": "utilities",
+    "draw": "Tall metal bucket with a sloping open lip, a carry handle and lumps of coal inside."
+  },
+  {
+    "name": "charcoal-kiln",
+    "category": "utilities",
+    "draw": "Earth covered dome mound with smoke curling from a small vent on top."
+  },
+  {
+    "name": "fuel-briquettes",
+    "category": "utilities",
+    "draw": "Small pile of pillow shaped briquettes stacked in a pyramid."
+  },
+  {
+    "name": "wood-chips",
+    "category": "utilities",
+    "draw": "Mound of small angular wood chips with a few chips scattered at the base."
+  },
+  {
+    "name": "open-pit-mine",
+    "category": "utilities",
+    "draw": "Terraced pit seen in cross section with stepped benches and a small dump truck on one ledge."
+  },
+  {
+    "name": "landfill-compactor",
+    "category": "utilities",
+    "draw": "Heavy vehicle with a front blade and large spiked steel wheels rolling over a mound of trash."
+  },
+  {
+    "name": "compost-windrow",
+    "category": "utilities",
+    "draw": "Long rounded ridge of compost in side view with steam wisps rising from its top."
+  },
+  {
+    "name": "scrapyard",
+    "category": "utilities",
+    "draw": "Pile of scrap metal and a crushed car with a crane magnet hanging above."
+  },
+  {
+    "name": "illegal-dumping",
+    "category": "utilities",
+    "draw": "Heap of bags and a broken chair dumped beside a no dumping sign post."
+  },
+  {
+    "name": "bulky-waste",
+    "category": "utilities",
+    "draw": "Old sofa and a rolled mattress standing together at the curb."
+  },
+  {
+    "name": "bin-collection-day",
+    "category": "utilities",
+    "draw": "Calendar page with a wheeled trash bin drawn on it."
+  },
+  {
+    "name": "underground-bin",
+    "category": "utilities",
+    "draw": "Ground cross section with a short chute bollard above ground and a large container hidden below."
+  },
+  {
+    "name": "bin-shelter",
+    "category": "utilities",
+    "draw": "Small wooden enclosure with slatted doors and a lid roof housing two wheeled bins."
+  },
+  {
+    "name": "recycling-station",
+    "category": "utilities",
+    "draw": "Row of three bins with different lids, marked with a bottle, a paper sheet and a can."
+  },
+  {
+    "name": "curbside-recycling-box",
+    "category": "utilities",
+    "draw": "Open topped rectangular box with a bottle and a folded newspaper sticking out."
+  },
+  {
+    "name": "dog-waste-bin",
+    "category": "utilities",
+    "draw": "Small bin mounted on a post with a dog silhouette on its front."
+  },
+  {
+    "name": "wall-ashtray",
+    "category": "utilities",
+    "draw": "Slim wall mounted canister with a perforated top and a cigarette resting on it."
+  },
+  {
+    "name": "trash-chute",
+    "category": "utilities",
+    "draw": "Wall hatch with a pull down handle and a small trash bag going into the opening."
+  },
+  {
+    "name": "river-trash-boom",
+    "category": "utilities",
+    "draw": "Floating curved boom across a river catching a cluster of bottles and bags against it."
+  },
+  {
+    "name": "garden-waste-bag",
+    "category": "utilities",
+    "draw": "Large upright fabric sack with two side handles and leaves spilling from the open top."
+  },
+  {
+    "name": "recycling-bale",
+    "category": "utilities",
+    "draw": "Compressed cube of crushed cans held tight by two straps."
+  },
+  {
+    "name": "waste-hierarchy",
+    "category": "utilities",
+    "draw": "Upside down triangle divided into horizontal bands, the widest at the top."
+  },
+  {
+    "name": "overflowing-trash-can",
+    "category": "utilities",
+    "draw": "Trash can with the lid pushed up by bags and bits of litter spilling over its rim."
+  },
+  {
+    "name": "street-cleaner-cart",
+    "category": "utilities",
+    "draw": "Two wheeled push cart holding a tall bin with a broom and a dustpan clipped to its side."
+  },
+  {
+    "name": "disguised-cell-tower",
+    "category": "utilities",
+    "draw": "Cell tower shaped like a tall pine tree with branch tiers and antenna panels hidden among them."
+  },
+  {
+    "name": "mobile-cell-tower",
+    "category": "utilities",
+    "draw": "Trailer with wheels carrying a tall telescopic mast topped by antenna panels."
+  },
+  {
+    "name": "telecom-street-cabinet",
+    "category": "utilities",
+    "draw": "Tall narrow cabinet on the pavement with double doors, vent slots and a signal wave symbol."
+  },
+  {
+    "name": "street-light",
+    "category": "utilities",
+    "draw": "Tall pole with a curved arm ending in a flat downward facing lamp head casting a cone of light."
+  },
+  {
+    "name": "suspended-street-lamp",
+    "category": "utilities",
+    "draw": "Lamp hanging from a wire strung across a street between two poles."
+  },
+  {
+    "name": "street-steam-vent",
+    "category": "utilities",
+    "draw": "Tall striped tube standing in the road with a plume of steam billowing from its top."
+  },
+  {
+    "name": "utility-marking-flags",
+    "category": "utilities",
+    "draw": "Three small flags on wire stems stuck in the ground next to a painted dashed line."
+  },
+  {
+    "name": "cable-locator",
+    "category": "utilities",
+    "draw": "Handheld wand with a display at the top sweeping over the ground with signal waves below."
+  },
+  {
+    "name": "directional-drilling",
+    "category": "utilities",
+    "draw": "Small drilling rig on the surface pushing a curved drill line under a road to exit on the other side."
+  },
+  {
+    "name": "solar-panel-cleaning",
+    "category": "utilities",
+    "draw": "Solar panel at an angle with a long roller brush bar sweeping across its surface and a few drops."
+  },
+  {
+    "name": "service-drop",
+    "category": "utilities",
+    "draw": "Utility pole with a single wire sagging across to the corner of a house wall that carries a small meter box."
+  },
+  {
+    "name": "bottle-filling-station",
+    "category": "utilities",
+    "draw": "Wall mounted unit with a spout over a recess, a water bottle filling beneath it and a small counter display."
+  },
+  {
+    "name": "water-cart",
+    "category": "utilities",
+    "draw": "Two wheeled hand cart carrying a horizontal water barrel with a tap at the back."
+  },
+  {
+    "name": "trench-drain",
+    "category": "utilities",
+    "draw": "Long narrow channel set in paving covered by a slotted grate, water running into it."
+  },
+  {
+    "name": "drug-take-back-box",
+    "category": "utilities",
+    "draw": "Mailbox style drop box with a slot and a pill capsule symbol on its front."
+  },
+  {
+    "name": "misting-pole",
+    "category": "utilities",
+    "draw": "Street pole with a ring of nozzles near the top spraying fine mist downward."
+  },
+  {
+    "name": "parabolic-solar-cooker",
+    "category": "utilities",
+    "draw": "Open parabolic reflector bowl on a stand with a cooking pot held at its center and sun rays hitting it."
+  },
+  {
+    "name": "pipe-rack",
+    "category": "utilities",
+    "draw": "Steel frame bridge with several parallel pipes running along its top level."
+  },
+  {
+    "name": "lead-pipe",
+    "category": "utilities",
+    "draw": "Short bent pipe section with the letters Pb marked on it."
+  },
+  {
+    "name": "radial-gate",
+    "category": "utilities",
+    "draw": "Curved gate face held by two long pivot arms at the crest of a dam, water behind it."
+  },
+  {
+    "name": "guy-wire-anchor",
+    "category": "utilities",
+    "draw": "Utility pole with a slanted wire running down to a ground anchor wrapped in a striped guard sleeve."
+  },
+  {
+    "name": "cable-laying-ship",
+    "category": "utilities",
+    "draw": "Ship in side view with a large cable carousel on deck and a cable trailing from its stern into the sea."
+  },
+  {
+    "name": "algae-bioreactor",
+    "category": "utilities",
+    "draw": "Rack of clear horizontal tubes stacked in a zigzag with small bubbles and dots of algae inside."
+  },
+  {
+    "name": "direct-air-capture",
+    "category": "utilities",
+    "draw": "Box shaped unit with a grid of round fans on its face and CO2 arrows flowing in."
+  },
+  {
+    "name": "linear-fresnel-collector",
+    "category": "utilities",
+    "draw": "Rows of flat mirror strips on the ground reflecting sun rays up to a single raised receiver pipe."
+  },
+  {
+    "name": "wind-blade-transport",
+    "category": "utilities",
+    "draw": "Long low trailer truck carrying one very long curved turbine blade that extends past its rear."
+  },
+  {
+    "name": "sidewalk-grate",
+    "category": "utilities",
+    "draw": "Rectangular metal ventilation grate set in the pavement with parallel slots and warm air lines rising."
+  },
+  {
+    "name": "off-peak-electricity",
+    "category": "utilities",
+    "draw": "Crescent moon with a lightning bolt beside it, for cheaper night time power."
+  },
+  {
+    "name": "green-electricity",
+    "category": "utilities",
+    "draw": "Electric plug with a leaf growing from its cord."
+  },
+  {
+    "name": "treadle-pump",
+    "category": "utilities",
+    "draw": "Two foot pedals on a frame working a pair of pump cylinders with water flowing from a spout."
+  },
+  {
+    "name": "stockbridge-damper",
+    "category": "utilities",
+    "draw": "Power line with a small dumbbell shaped weight hanging below it on a short clamp."
+  },
+  {
+    "name": "monopole-power-tower",
+    "category": "utilities",
+    "draw": "Tall tapered single steel pole with three short arms on each side holding hanging insulators."
+  },
+  {
+    "name": "buttress-dam",
+    "category": "utilities",
+    "draw": "Dam wall seen from downstream supported by a row of triangular buttresses."
+  },
+  {
+    "name": "french-drain",
+    "category": "utilities",
+    "draw": "Ground cross section of a gravel filled trench with a perforated pipe along its bottom and water drops seeping in."
+  },
+  {
+    "name": "stormwater-pond",
+    "category": "utilities",
+    "draw": "Pond with sloped grassy banks and a large outlet pipe feeding runoff into it from a street drain."
+  },
+  {
+    "name": "check-dam",
+    "category": "utilities",
+    "draw": "Low wall of stacked stones across a small stream channel with water trickling over the top."
+  },
+  {
+    "name": "tide-flap-gate",
+    "category": "utilities",
+    "draw": "Round pipe outlet in a wall with a hinged flap hanging over its mouth, pushed open by outflowing water."
+  },
+  {
+    "name": "hand-crank-flashlight",
+    "category": "utilities",
+    "draw": "Flashlight with a folding crank handle on its side and a light beam from its front."
+  }
+]

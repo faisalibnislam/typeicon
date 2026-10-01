@@ -1,0 +1,206 @@
+[
+ {
+  "name": "focus-group",
+  "category": "analytics",
+  "draw": "Four small person figures seated around a round table with a speech bubble above.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-profiling",
+  "category": "analytics",
+  "draw": "Table column with a header cell and a small histogram of bars sitting above the header.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "nomogram",
+  "category": "analytics",
+  "draw": "Three parallel vertical scales with tick marks crossed by one straight diagonal line.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "axis-break",
+  "category": "analytics",
+  "draw": "Vertical chart axis interrupted by two short parallel slanted lines showing a break in scale.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "chart-crosshair",
+  "category": "analytics",
+  "draw": "Line chart with a thin vertical and horizontal line crossing at one point, a small dot at the crossing.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "dimensionality-reduction",
+  "category": "analytics",
+  "draw": "Cube with dots inside on the left, an arrow, and a flat square with the same dots on the right.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "seasonality",
+  "category": "analytics",
+  "draw": "Repeating wave line over an axis with evenly spaced vertical dashed lines marking each cycle.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "change-point",
+  "category": "analytics",
+  "draw": "Line running flat at one level then jumping to a higher level, with a vertical dashed line at the jump.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "cross-validation",
+  "category": "analytics",
+  "draw": "Three rows of five blocks each, one block filled in each row, shifting one position per row.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "sports-analytics",
+  "category": "analytics",
+  "draw": "Ball beside three small ascending bars.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "retail-analytics",
+  "category": "analytics",
+  "draw": "Shopping bag with a small bar chart on its front.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "people-analytics",
+  "category": "analytics",
+  "draw": "Person bust beside a small pie chart.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "empathy-map",
+  "category": "analytics",
+  "draw": "Square divided into four quadrants by a cross with a small head outline at the center.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "affinity-diagram",
+  "category": "analytics",
+  "draw": "Several small sticky note squares grouped into three clusters, each cluster circled.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "card-sorting",
+  "category": "analytics",
+  "draw": "Three columns with header bars, each holding small cards, and one card being moved between columns.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "pdca-cycle",
+  "category": "analytics",
+  "draw": "Circle divided into four quarters with the letters P, D, C and A and a curved arrow around the rim.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-usage",
+  "category": "analytics",
+  "draw": "Smartphone with a donut ring gauge on its screen, about two thirds filled.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "radial-heatmap",
+  "category": "analytics",
+  "draw": "Circle divided into concentric rings and radial sectors, with some cells shaded.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "liquid-fill-gauge",
+  "category": "analytics",
+  "draw": "Circle half filled with liquid that has a wavy surface line.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "chart-floating-bar",
+  "category": "analytics",
+  "draw": "Vertical bars that float above the baseline at different starting heights, like ranges from low to high.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "field-mapping",
+  "category": "analytics",
+  "draw": "Two narrow table boxes side by side with lines crossing between rows of the left box and rows of the right box.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "market-basket-analysis",
+  "category": "analytics",
+  "draw": "Shopping basket with three item dots above it joined by connecting lines.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "frequency-table",
+  "category": "analytics",
+  "draw": "Two column table whose right column holds groups of tally marks.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "probability-spinner",
+  "category": "analytics",
+  "draw": "Circle divided into four sectors with a center pin and a pointer arrow spinner.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "bubble-grid-chart",
+  "category": "analytics",
+  "draw": "Grid of circles in rows and columns, the circles varying in size.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "sparkline-table",
+  "category": "analytics",
+  "draw": "Table of three rows, each row ending with a tiny jagged line graph.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "diminishing-returns",
+  "category": "analytics",
+  "draw": "Corner axis with a curve rising steeply from the origin then bending and flattening out.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "shot-chart",
+  "category": "analytics",
+  "draw": "Half basketball court outline with a hoop arc, filled dots and small x marks scattered over it.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "pitch-heatmap",
+  "category": "analytics",
+  "draw": "Rectangular sports pitch outline with center line and circle, and a heat blotch of rings over one half.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "text-analytics",
+  "category": "analytics",
+  "draw": "Document with text lines and a small bar chart beside it.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "call-analytics",
+  "category": "analytics",
+  "draw": "Telephone handset beside three small ascending bars.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-product",
+  "category": "analytics",
+  "draw": "Open box package with a small bar chart rising out of it.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "marginal-histogram",
+  "category": "analytics",
+  "draw": "Scatter plot of dots with a row of small bars along the top edge and a column of small bars along the right edge.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "volcano-plot",
+  "category": "analytics",
+  "draw": "Dots forming a V shaped spray rising from the bottom center, with two vertical dashed lines on either side.",
+  "domain": "data-and-analytics"
+ }
+]

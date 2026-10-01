@@ -1,0 +1,482 @@
+[
+ {
+  "name": "hiragana-mu",
+  "category": "scripts",
+  "draw": "Hiragana mu (\u3080): a horizontal bar crossed by a stroke that loops at the lower left and sweeps right, with a small dash at the upper right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-me",
+  "category": "scripts",
+  "draw": "Hiragana me (\u3081): two crossing strokes forming an overlapping loop, like nu without the curl at the end.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-mo",
+  "category": "scripts",
+  "draw": "Hiragana mo (\u3082): a vertical stroke hooking right at the bottom, crossed by two short horizontal bars.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ya",
+  "category": "scripts",
+  "draw": "Hiragana ya (\u3084): a curved stroke with a small hook, a short dot like stroke and a long diagonal stroke crossing both.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-yu",
+  "category": "scripts",
+  "draw": "Hiragana yu (\u3086): a tall curved stroke on the left and a round loop on the right crossed by a vertical stroke.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-yo",
+  "category": "scripts",
+  "draw": "Hiragana yo (\u3088): a short horizontal dash crossing a vertical stroke that ends in a small loop at the bottom.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ra",
+  "category": "scripts",
+  "draw": "Hiragana ra (\u3089): a short dash on top above a stroke that drops and swings into a round bowl opening to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ri",
+  "category": "scripts",
+  "draw": "Hiragana ri (\u308a): two upright strokes, a short left one with a hook and a longer right one curving down to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ru",
+  "category": "scripts",
+  "draw": "Hiragana ru (\u308b): a zigzag stroke sweeping down into a round bowl that ends in a small closed loop at the bottom.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-re",
+  "category": "scripts",
+  "draw": "Hiragana re (\u308c): a tall vertical on the left crossed by a zigzag that ends in an upward flick to the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-ro",
+  "category": "scripts",
+  "draw": "Hiragana ro (\u308d): a zigzag stroke sweeping down into a round open bowl, like ru without the loop.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-wa",
+  "category": "scripts",
+  "draw": "Hiragana wa (\u308f): a tall vertical on the left crossed by a zigzag that swings into a wide rounded belly on the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-wo",
+  "category": "scripts",
+  "draw": "Hiragana wo (\u3092): a short horizontal bar with a slanted zigzag below it and a flat curved tail at the lower right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "hiragana-n",
+  "category": "scripts",
+  "draw": "Hiragana n (\u3093): a single stroke that drops as a long diagonal, bounces up into a small hump and ends in a rising flick.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-i",
+  "category": "scripts",
+  "draw": "Katakana i (\u30a4): a short diagonal stroke sloping down to the left with a vertical stem hanging from its middle.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-u",
+  "category": "scripts",
+  "draw": "Katakana u (\u30a6): a short vertical tick on top of a flat roof whose right side bends down into a hook to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-o",
+  "category": "scripts",
+  "draw": "Katakana o (\u30aa): a horizontal bar crossed by a hooked vertical stem, with a diagonal stroke sloping down left from the crossing.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ka",
+  "category": "scripts",
+  "draw": "Katakana ka (\u30ab): a horizontal stroke bending down at the right into a hook, crossed by a slanted stroke on the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ki",
+  "category": "scripts",
+  "draw": "Katakana ki (\u30ad): two horizontal bars crossed by a single slightly slanted vertical stroke.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ku",
+  "category": "scripts",
+  "draw": "Katakana ku (\u30af): a short stroke sloping down left, joined at its top by a stroke that runs right and bends into a long diagonal to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ke",
+  "category": "scripts",
+  "draw": "Katakana ke (\u30b1): a short diagonal sloping down left, a horizontal bar from its middle and a long stroke dropping from the bar and curving left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ko",
+  "category": "scripts",
+  "draw": "Katakana ko (\u30b3): a squared bracket of a top bar, a right upright and a bottom bar, open to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-sa",
+  "category": "scripts",
+  "draw": "Katakana sa (\u30b5): a horizontal bar crossed by two vertical strokes, the right one curving down to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-shi",
+  "category": "scripts",
+  "draw": "Katakana shi (\u30b7): two short dashes stacked on the left and a long stroke rising from the lower left to the upper right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-su",
+  "category": "scripts",
+  "draw": "Katakana su (\u30b9): a horizontal stroke bending into a long diagonal down to the left, with a short stroke branching down right from its middle.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-se",
+  "category": "scripts",
+  "draw": "Katakana se (\u30bb): a horizontal stroke with a small hook at its right end, crossed by a vertical stem that turns right into a flat base.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-so",
+  "category": "scripts",
+  "draw": "Katakana so (\u30bd): a short upright dash on the left and a long stroke sweeping down from the upper right to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ta",
+  "category": "scripts",
+  "draw": "Katakana ta (\u30bf): the ku shape of a short left diagonal and a bent long diagonal, with a small dash inside.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-chi",
+  "category": "scripts",
+  "draw": "Katakana chi (\u30c1): a short slanted dash on top, a horizontal bar and a vertical stem curving down to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-tsu",
+  "category": "scripts",
+  "draw": "Katakana tsu (\u30c4): two short upright dashes side by side at the top and a long stroke sweeping down from the upper right to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-te",
+  "category": "scripts",
+  "draw": "Katakana te (\u30c6): a short horizontal bar above a longer bar, with a stem dropping from the centre and curving to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-na",
+  "category": "scripts",
+  "draw": "Katakana na (\u30ca): a horizontal bar crossed by a vertical stroke that curves down to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-nu",
+  "category": "scripts",
+  "draw": "Katakana nu (\u30cc): a horizontal stroke bending into a long diagonal down to the left, crossed by a short stroke sloping down right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ne",
+  "category": "scripts",
+  "draw": "Katakana ne (\u30cd): a short dot on top, a bar bending into a diagonal down left, a short vertical stem and a small stroke to the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ha",
+  "category": "scripts",
+  "draw": "Katakana ha (\u30cf): two separate strokes spreading apart like a wide open inverted V with a gap at the top.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-hi",
+  "category": "scripts",
+  "draw": "Katakana hi (\u30d2): a short horizontal stroke to the right from a vertical stem that turns into a flat base at the bottom.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ho",
+  "category": "scripts",
+  "draw": "Katakana ho (\u30db): a horizontal bar crossed by a hooked vertical stem, with two small diagonal dashes spreading down on either side.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ma",
+  "category": "scripts",
+  "draw": "Katakana ma (\u30de): a horizontal bar bending into a short diagonal down to the left, with a small dash below slanting down right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-mi",
+  "category": "scripts",
+  "draw": "Katakana mi (\u30df): three short parallel strokes stacked, each sloping slightly down to the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-mu",
+  "category": "scripts",
+  "draw": "Katakana mu (\u30e0): a stroke sloping down left that turns into a flat base, with a small dash at the right end of the base.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-me",
+  "category": "scripts",
+  "draw": "Katakana me (\u30e1): a long stroke curving down to the lower left crossed by a short stroke sloping down right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-mo",
+  "category": "scripts",
+  "draw": "Katakana mo (\u30e2): two horizontal bars crossed by a vertical stem that turns right into a flat base.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ya",
+  "category": "scripts",
+  "draw": "Katakana ya (\u30e4): a horizontal stroke hooking down at its right end, crossed by a long slanted stroke.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-yu",
+  "category": "scripts",
+  "draw": "Katakana yu (\u30e6): a short top bar joined to a right upright and a long flat base that extends past both ends.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-yo",
+  "category": "scripts",
+  "draw": "Katakana yo (\u30e8): three horizontal bars joined by an upright on the right, like a backwards squared E.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ra",
+  "category": "scripts",
+  "draw": "Katakana ra (\u30e9): a short horizontal dash above a longer horizontal stroke that bends down into a hook to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ri",
+  "category": "scripts",
+  "draw": "Katakana ri (\u30ea): a short upright stroke on the left and a longer upright on the right curving down to the left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-ru",
+  "category": "scripts",
+  "draw": "Katakana ru (\u30eb): a short curved stroke on the left and an upright on the right that flicks up to the right at its foot.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-re",
+  "category": "scripts",
+  "draw": "Katakana re (\u30ec): a single vertical stroke that turns at the bottom into a rising flick to the upper right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-wa",
+  "category": "scripts",
+  "draw": "Katakana wa (\u30ef): a short upright on the left joined at the top by a roof that bends down into a hook to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-wo",
+  "category": "scripts",
+  "draw": "Katakana wo (\u30f2): two horizontal bars joined on the right by a stroke that bends down into a hook to the lower left.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "katakana-n",
+  "category": "scripts",
+  "draw": "Katakana n (\u30f3): a short dash at the upper left and a long stroke rising from the lower left to the upper right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-aa",
+  "category": "scripts",
+  "draw": "Devanagari letter aa (\u0906): a curling 3 like stroke joined by a short bar to a vertical stem, with a second vertical stem on the right, under a flat headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-i",
+  "category": "scripts",
+  "draw": "Devanagari letter i (\u0907): a curling stroke like a hooked 5 hanging below a flat headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-ii",
+  "category": "scripts",
+  "draw": "Devanagari letter ii (\u0908): the curling i stroke under a headline with a small curved hook rising above the headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-u",
+  "category": "scripts",
+  "draw": "Devanagari letter u (\u0909): a curved stroke like a 3 whose lower curve sweeps into a tail to the right, hanging from a flat headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-uu",
+  "category": "scripts",
+  "draw": "Devanagari letter uu (\u090a): the u stroke under a headline with an extra curl hooking off its lower tail.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-vocalic-r",
+  "category": "scripts",
+  "draw": "Devanagari letter vocalic r (\u090b): a curled bowl hanging from a headline with a short hooked stroke dropping on its right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-e",
+  "category": "scripts",
+  "draw": "Devanagari letter e (\u090f): a narrow angled curl like a backwards 7 folding back at the bottom, hanging below a short flat headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-ai",
+  "category": "scripts",
+  "draw": "Devanagari letter ai (\u0910): the e curl under a headline with a small slanted stroke rising above the headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-o",
+  "category": "scripts",
+  "draw": "Devanagari letter o (\u0913): the aa shape of a curled bowl and vertical stem with a small slanted stroke rising above the headline over the stem.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-au",
+  "category": "scripts",
+  "draw": "Devanagari letter au (\u0914): the aa shape of a curled bowl and vertical stem with two small slanted strokes rising above the headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-ka",
+  "category": "scripts",
+  "draw": "Devanagari letter ka (\u0915): a vertical stem through a headline with a small loop on the left and a curled hook on the right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-kha",
+  "category": "scripts",
+  "draw": "Devanagari letter kha (\u0916): a small round loop on the left joined to a vertical stem on the right, under a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-ga",
+  "category": "scripts",
+  "draw": "Devanagari letter ga (\u0917): two uprights under a headline, the left one short and hooked at its foot, the right one a full stem.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-gha",
+  "category": "scripts",
+  "draw": "Devanagari letter gha (\u0918): a small u shaped loop at the left joined to a tall vertical stem, with the headline over the stem only.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-nga",
+  "category": "scripts",
+  "draw": "Devanagari letter nga (\u0919): a curled 3 like stroke hanging from a headline with a single dot to its right.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-cha",
+  "category": "scripts",
+  "draw": "Devanagari letter cha (\u091a): a short horizontal stroke with a curled hook on the left joined to a vertical stem, under a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-chha",
+  "category": "scripts",
+  "draw": "Devanagari letter chha (\u091b): two small stacked round loops hanging from a headline with a tail on the right and no stem.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-ja",
+  "category": "scripts",
+  "draw": "Devanagari letter ja (\u091c): a zigzag stroke like a backwards z joined to a vertical stem on the right, under a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-jha",
+  "category": "scripts",
+  "draw": "Devanagari letter jha (\u091d): a curled 3 like stroke with an inner loop joined to a vertical stem on the right, under a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-nya",
+  "category": "scripts",
+  "draw": "Devanagari letter nya (\u091e): a curled stroke crossed by a horizontal bar running to a vertical stem on the right, under a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-tta",
+  "category": "scripts",
+  "draw": "Devanagari letter tta (\u091f): a single rounded hook like a backwards c with a curled tail, hanging from a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-ttha",
+  "category": "scripts",
+  "draw": "Devanagari letter ttha (\u0920): a closed round loop hanging from a headline like a small o.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-dda",
+  "category": "scripts",
+  "draw": "Devanagari letter dda (\u0921): a curved stroke like a backwards c ending in a small curl at the lower right, hanging from a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-ddha",
+  "category": "scripts",
+  "draw": "Devanagari letter ddha (\u0922): two stacked curves like a small 3 with a hook at the bottom, hanging from a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-nna",
+  "category": "scripts",
+  "draw": "Devanagari letter nna (\u0923): a loop on the left, a short horizontal bar and a tall vertical stem on the right, all under a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-ta",
+  "category": "scripts",
+  "draw": "Devanagari letter ta (\u0924): a short curved hook on the left joined by a horizontal stroke to a vertical stem, under a headline.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-tha",
+  "category": "scripts",
+  "draw": "Devanagari letter tha (\u0925): a small loop with a curl on the left joined to a vertical stem, under a headline that stops before the loop.",
+  "domain": "r2-writing-systems"
+ },
+ {
+  "name": "devanagari-da",
+  "category": "scripts",
+  "draw": "Devanagari letter da (\u0926): a curled stroke like a hooked 2 with a small tail at the bottom hanging from a headline, with no stem.",
+  "domain": "r2-writing-systems"
+ }
+]

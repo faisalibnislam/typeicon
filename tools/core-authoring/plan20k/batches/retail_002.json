@@ -1,0 +1,482 @@
+[
+ {
+  "name": "pallet-display",
+  "category": "retail",
+  "draw": "Wooden pallet on the floor with a pyramid of stacked boxes on it and a tall sign stick in the middle.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "aisle-marker-sign",
+  "category": "retail",
+  "draw": "Rectangular sign hanging from two ceiling wires with a large number on it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "window-display",
+  "category": "retail",
+  "draw": "Storefront window frame with a dress on a mannequin and a small price tag inside the glass.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "gondola-shelving",
+  "category": "retail",
+  "draw": "Freestanding shelf unit seen from the end, four shelves on each side of a central upright back panel.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "slatwall-panel",
+  "category": "retail",
+  "draw": "Wall panel of evenly spaced horizontal grooves with two hooks and a small shelf fixed into the slots.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "peg-hook-display",
+  "category": "retail",
+  "draw": "Pegboard square with two long straight hooks sticking out, each holding a hanging blister pack.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "hat-display-stand",
+  "category": "retail",
+  "draw": "Tall pole stand with three round caps on short arms at different heights.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "eyewear-display-tower",
+  "category": "retail",
+  "draw": "Narrow vertical tower with four pairs of glasses resting on small ledges, one above another.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "ring-display-tray",
+  "category": "retail",
+  "draw": "Shallow rectangular tray with rows of slots, three rings standing up in the slots.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "watch-display-cushion",
+  "category": "retail",
+  "draw": "Small oval pillow with a wristwatch strap wrapped around it and the watch face on top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "earring-card",
+  "category": "retail",
+  "draw": "Small rectangular card with a hanging hole at the top and a pair of stud earrings pushed through it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "mannequin-hand",
+  "category": "retail",
+  "draw": "Upright hand shaped display form on a round base with a ring on one finger.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "hosiery-leg-form",
+  "category": "retail",
+  "draw": "Single leg shaped display form standing on its toe, stretched stocking on it and a hook at the thigh top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "checkout-impulse-rack",
+  "category": "retail",
+  "draw": "Low slanted rack of small bins with candy bars and gum packs beside a checkout counter edge.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "glass-door-cooler",
+  "category": "retail",
+  "draw": "Upright refrigerator with a full glass door, three shelves of bottles and a handle bar.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "open-display-chiller",
+  "category": "retail",
+  "draw": "Tall open front refrigerated case with stepped shelves of packs and a curtain line at the top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "deli-counter",
+  "category": "retail",
+  "draw": "Curved glass front counter with trays of sliced meat inside and a scale on top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "gravity-bin-dispenser",
+  "category": "retail",
+  "draw": "Clear vertical bin mounted on a wall with a lever handle at the bottom above a chute.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "pick-and-mix-bins",
+  "category": "retail",
+  "draw": "Row of three clear bins with angled lids propped open, sweets inside and a small scoop hanging below.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "live-seafood-tank",
+  "category": "retail",
+  "draw": "Glass tank with a lobster at the bottom, bubbles rising and a wavy water line at the top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "flower-bucket-stand",
+  "category": "retail",
+  "draw": "Tiered stand with three metal buckets on steps, bunches of flowers standing in each.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "paint-chip-rack",
+  "category": "retail",
+  "draw": "Wall rack with rows of narrow colour strip cards standing in slots, each strip with three shade blocks.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "lumber-rack",
+  "category": "retail",
+  "draw": "Tall metal rack with long wooden boards resting horizontally on cantilever arms.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "rope-spool-rack",
+  "category": "retail",
+  "draw": "Frame holding three large spools of rope on a horizontal bar with the rope ends hanging down.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "seed-packet-display",
+  "category": "retail",
+  "draw": "Small rack with rows of pockets each holding a seed packet showing a flower picture.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "greeting-card-rack",
+  "category": "retail",
+  "draw": "Tiered rack with rows of folded greeting cards standing upright in pockets.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "nail-polish-display",
+  "category": "retail",
+  "draw": "Stepped acrylic rack with three rows of small nail polish bottles.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "clip-strip-display",
+  "category": "retail",
+  "draw": "Long vertical plastic strip with small snack bags clipped one below another and a hook at the top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "shirt-folding-board",
+  "category": "retail",
+  "draw": "Flat hinged board with three folding panels and a folded T-shirt outline beside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "waterfall-display-arm",
+  "category": "retail",
+  "draw": "Sloped bar sticking out of a wall panel with small knobs along it and two hangers hooked on.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "floor-shoe-mirror",
+  "category": "retail",
+  "draw": "Small low mirror angled upward on the floor with a shoe standing beside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "makeup-tester-display",
+  "category": "retail",
+  "draw": "Sloped counter tray holding a row of lipsticks and round compact pans, with a small mirror at the back.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "merchandise-table",
+  "category": "retail",
+  "draw": "Low table with stacks of folded shirts in piles and a small sign stand on the corner.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "folded-shirt-stack",
+  "category": "retail",
+  "draw": "Stack of four neatly folded T-shirts seen from the front with collars showing on top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "ball-cage-display",
+  "category": "retail",
+  "draw": "Wire mesh cage bin on the floor filled with sports balls poking above the rim.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "listening-station",
+  "category": "retail",
+  "draw": "Pair of headphones hanging on a stand with a small screen and a play button below.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "rug-flip-rack",
+  "category": "retail",
+  "draw": "Wall mounted rack of hinged arms fanning out, each arm draped with a hanging rug.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "can-pyramid-display",
+  "category": "retail",
+  "draw": "Pyramid of stacked cans, four on the bottom row rising to one on top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "acrylic-display-riser",
+  "category": "retail",
+  "draw": "Three clear stepped blocks of different heights with a small product on each step.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "acrylic-sign-holder",
+  "category": "retail",
+  "draw": "Clear T shaped stand holding an upright card with text lines on the counter.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "poster-floor-stand",
+  "category": "retail",
+  "draw": "Rectangular poster frame on a single post standing on a heavy round base.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "phone-display-tether",
+  "category": "retail",
+  "draw": "Smartphone standing on a small puck base connected by a coiled security cable.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "tag-detacher",
+  "category": "retail",
+  "draw": "Dome shaped magnetic device fixed on a counter with a round security tag pressed on top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "ice-merchandiser",
+  "category": "retail",
+  "draw": "Chest style outdoor freezer with double doors on the front and a snowflake on the panel.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "paint-shaker",
+  "category": "retail",
+  "draw": "Boxy machine with a paint can clamped between two plates inside and motion lines on each side.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "propane-exchange-cage",
+  "category": "retail",
+  "draw": "Metal mesh cage with a small door holding two rows of gas cylinders.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bread-slicer",
+  "category": "retail",
+  "draw": "Upright machine with a loaf of bread in a front slot and vertical blade lines behind it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "fitting-room-tag",
+  "category": "retail",
+  "draw": "Plastic tag shaped like a hanger hook with a large number 3 on its face.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "shoe-fitting-stool",
+  "category": "retail",
+  "draw": "Low stool with a sloped foot rest ramp on its front edge.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "hanger-size-divider",
+  "category": "retail",
+  "draw": "Round disc with a slot cut to the centre hung on a rail with the letter M on it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "electronic-shelf-label",
+  "category": "retail",
+  "draw": "Small rectangular digital label clipped to a shelf edge showing a price and a tiny barcode.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "price-check-kiosk",
+  "category": "retail",
+  "draw": "Small wall mounted screen with a scanner window below it and a barcode beam line.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bag-carousel",
+  "category": "retail",
+  "draw": "Rotating stand with three shopping bags hanging open on arms around a central post.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "boutique-bag",
+  "category": "retail",
+  "draw": "Stiff rectangular shopping bag with two twisted rope handles and a folded top edge.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "u-boat-stocking-cart",
+  "category": "retail",
+  "draw": "Long narrow flat cart with two upturned ends like a boat and boxes stacked in the middle.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "cart-wipes-dispenser",
+  "category": "retail",
+  "draw": "Upright stand holding a wipes canister with one wipe pulled up and a small bin at its base.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "produce-bag-dispenser",
+  "category": "retail",
+  "draw": "Roll of thin plastic bags on a horizontal bar with one bag hanging down and being pulled.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "chalkboard-price-card",
+  "category": "retail",
+  "draw": "Small chalkboard sign on a spike stuck into a pile of apples with a price dash on it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "store-hours-sign",
+  "category": "retail",
+  "draw": "Door sign on a string showing a clock face above three short lines of times.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "self-order-kiosk",
+  "category": "retail",
+  "draw": "Tall slim kiosk with a large portrait touch screen showing a grid of tiles and a card slot below.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "customer-service-desk",
+  "category": "retail",
+  "draw": "Counter desk with a round question mark sign hanging above it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "antique-cash-register",
+  "category": "retail",
+  "draw": "Ornate old cash register with a tall number flag window on top, a crank handle and piano style keys.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "inventory-handheld",
+  "category": "retail",
+  "draw": "Rugged handheld computer with a screen, a small keypad and a scanning beam from its top edge.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "cart-escalator",
+  "category": "retail",
+  "draw": "Inclined moving walkway strip with a shopping cart riding up it at an angle.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "smart-shopping-cart",
+  "category": "retail",
+  "draw": "Shopping cart with a small screen mounted on the handle and a scan beam from the screen.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "kids-shopping-cart",
+  "category": "retail",
+  "draw": "Small child sized shopping cart with a tall flag pole sticking up from the back.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "wheelchair-shopping-cart",
+  "category": "retail",
+  "draw": "Wheelchair seen from the side with a shopping basket frame attached to its front.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "produce-plu-sticker",
+  "category": "retail",
+  "draw": "Apple with a small oval sticker on its side showing a four digit number dash.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bulk-refill-dispenser",
+  "category": "retail",
+  "draw": "Row of three pump dispensers on a wall with a glass jar underneath the middle nozzle.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "photo-kiosk",
+  "category": "retail",
+  "draw": "Standing kiosk with a touch screen showing a picture and a printed photo coming out of a slot below.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "movie-rental-kiosk",
+  "category": "retail",
+  "draw": "Tall vending kiosk with a screen on the side panel and a thin disc slot below it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "windowed-box-packaging",
+  "category": "retail",
+  "draw": "Product box with a clear cut out window on the front showing a small toy inside.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "gift-wrap-roll",
+  "category": "retail",
+  "draw": "Roll of patterned wrapping paper partly unrolled with a ribbon and bow beside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "refurbished-item",
+  "category": "retail",
+  "draw": "Box with a small wrench crossed over a circular recycle arrow on its front.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "return-authorization",
+  "category": "retail",
+  "draw": "Form with a checkbox list and a large curved return arrow stamped in its corner.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "footfall-counter",
+  "category": "retail",
+  "draw": "Door frame with a small sensor box above it and a person silhouette walking through with a number counter.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "shoplifting",
+  "category": "retail",
+  "draw": "Hand slipping a small box into an open coat pocket with dashed motion lines.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "mystery-shopper",
+  "category": "retail",
+  "draw": "Person in a brimmed hat and sunglasses holding a clipboard and a shopping bag.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "price-history",
+  "category": "retail",
+  "draw": "Price tag with a small line chart zigzag drawn across its face.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "handmade-goods",
+  "category": "retail",
+  "draw": "Knitted item with a small hand stitched tag showing a heart.",
+  "domain": "r2-ecommerce-retail"
+ }
+]

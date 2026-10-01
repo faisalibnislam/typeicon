@@ -1,0 +1,482 @@
+[
+ {
+  "name": "liquid-cooling",
+  "category": "tech",
+  "draw": "Radiator block with tubes looping to a pump and a water drop.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "usb-flash-drive",
+  "category": "tech",
+  "draw": "Small stick with a plug on one end and a keyring loop on the other.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "external-hard-drive",
+  "category": "tech",
+  "draw": "Rounded rectangle drive with a cable leading out.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "memory-card-reader",
+  "category": "tech",
+  "draw": "Small box with a card half inserted in its slot.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "docking-station",
+  "category": "tech",
+  "draw": "Laptop resting on a dock base with ports on its side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "kvm-switch",
+  "category": "tech",
+  "draw": "Small box with a selector button between a monitor and a keyboard.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "blade-server",
+  "category": "tech",
+  "draw": "Chassis holding thin vertical blades side by side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "mainframe",
+  "category": "tech",
+  "draw": "Tall row of cabinets with tape reels on the front.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "supercomputer",
+  "category": "tech",
+  "draw": "Curved row of cabinets forming a partial circle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "quantum-computer",
+  "category": "tech",
+  "draw": "Tiered hanging chandelier of plates with coiled wires.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "qubit",
+  "category": "tech",
+  "draw": "Sphere with an arrow from its center and an equator ring.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "thin-client",
+  "category": "tech",
+  "draw": "Very slim box standing beside a monitor.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "single-board-computer",
+  "category": "tech",
+  "draw": "Small board with a chip, a pin header row and ports on one edge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "microcontroller",
+  "category": "tech",
+  "draw": "Small chip with pins on its two long sides only.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "breadboard",
+  "category": "tech",
+  "draw": "Rectangle with rows of tiny holes and a central channel.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "jumper-wire",
+  "category": "tech",
+  "draw": "Flexible wire with a pin at each end.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "pin-header",
+  "category": "tech",
+  "draw": "Row of short vertical pins on a plastic strip.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ribbon-cable",
+  "category": "tech",
+  "draw": "Flat wide cable of parallel lines ending in a connector.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sata-cable",
+  "category": "tech",
+  "draw": "Cable ending in an L shaped flat connector.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "usb-c-connector",
+  "category": "tech",
+  "draw": "Oval plug with a rounded slot and a cable.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "vga-connector",
+  "category": "tech",
+  "draw": "Trapezoid plug with three rows of pins and two thumb screws.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "dvi-connector",
+  "category": "tech",
+  "draw": "Wide plug with a grid of pins and a flat blade on one side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "serial-port",
+  "category": "tech",
+  "draw": "Trapezoid port with two rows of pins and screws on each side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ps2-port",
+  "category": "tech",
+  "draw": "Round port with six small pin holes and a key notch.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "audio-jack-port",
+  "category": "tech",
+  "draw": "Round port with a small central hole and a headphone plug beside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "gpio-pins",
+  "category": "tech",
+  "draw": "Double row of pins along a board edge.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "printed-circuit-board",
+  "category": "tech",
+  "draw": "Board with trace lines ending in round pads and a chip.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "transistor",
+  "category": "tech",
+  "draw": "Half round component body with three legs.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "resistor",
+  "category": "tech",
+  "draw": "Capsule body with colored bands and a wire lead on each end.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "capacitor",
+  "category": "tech",
+  "draw": "Cylinder with two legs and a stripe down one side.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "inductor-coil",
+  "category": "tech",
+  "draw": "Coil of wire wrapped around a core with two leads.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "diode",
+  "category": "tech",
+  "draw": "Small cylinder with a band at one end and two leads.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "led-component",
+  "category": "tech",
+  "draw": "Dome shaped light with two legs of different length.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "vacuum-tube",
+  "category": "tech",
+  "draw": "Glass bulb with internal plates and pins at the base.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "crystal-oscillator",
+  "category": "tech",
+  "draw": "Oval metal can with two legs and a wave line on it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "relay-switch",
+  "category": "tech",
+  "draw": "Small box with a coil symbol and a switch arm.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "potentiometer",
+  "category": "tech",
+  "draw": "Round knob on a small body with three legs.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "and-gate",
+  "category": "tech",
+  "draw": "D shaped logic gate with two input lines and one output line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "or-gate",
+  "category": "tech",
+  "draw": "Curved shield shaped logic gate with two inputs and a pointed output.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "not-gate",
+  "category": "tech",
+  "draw": "Triangle with a small circle at its tip and one input line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "xor-gate",
+  "category": "tech",
+  "draw": "Curved logic gate with an extra curved line behind the inputs.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "nand-gate",
+  "category": "tech",
+  "draw": "D shaped logic gate with a small circle at the output.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "nor-gate",
+  "category": "tech",
+  "draw": "Curved shield logic gate with a small circle at the output.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "logic-analyzer",
+  "category": "tech",
+  "draw": "Small box showing a square wave with a row of probe wires.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "mechanical-keyboard",
+  "category": "tech",
+  "draw": "Keyboard with tall separated keys and a coiled cable.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "numeric-keypad",
+  "category": "tech",
+  "draw": "Small key block in a four by three grid.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "trackball",
+  "category": "tech",
+  "draw": "Mouse body with a large ball on top.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "light-pen",
+  "category": "tech",
+  "draw": "Pen with a cable touching a monitor screen.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "punch-tape",
+  "category": "tech",
+  "draw": "Long paper tape with rows of small punched holes.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "magnetic-tape-reel",
+  "category": "tech",
+  "draw": "Large reel with spokes and tape trailing off.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "zip-disk",
+  "category": "tech",
+  "draw": "Square disk with a wide shutter slot.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "laser-disc",
+  "category": "tech",
+  "draw": "Large disc with a small center hole and ring lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "mini-disc",
+  "category": "tech",
+  "draw": "Square cartridge with a small round disc window.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "cpu-socket",
+  "category": "tech",
+  "draw": "Square socket with a lever arm on one side and a pin grid.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "expansion-card",
+  "category": "tech",
+  "draw": "Card with a gold edge connector and a metal bracket.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sound-card",
+  "category": "tech",
+  "draw": "Expansion card with round audio jacks on its bracket.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "network-card",
+  "category": "tech",
+  "draw": "Expansion card with an ethernet port on its bracket.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "bios-chip",
+  "category": "tech",
+  "draw": "Small chip with a coin battery beside it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "computer-fan",
+  "category": "tech",
+  "draw": "Square frame with a round fan blade inside.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "pixel-grid",
+  "category": "tech",
+  "draw": "Square grid with a few cells filled.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "screen-resolution",
+  "category": "tech",
+  "draw": "Monitor with arrows in its corners expanding outward.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "dual-monitor",
+  "category": "tech",
+  "draw": "Two monitors side by side on stands.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ultrawide-monitor",
+  "category": "tech",
+  "draw": "Very wide curved monitor on a stand.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "chip-wafer",
+  "category": "tech",
+  "draw": "Round disc divided into a grid of small squares.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hardware-wallet",
+  "category": "tech",
+  "draw": "Small key shaped device with a tiny screen and two buttons.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "mining-rig",
+  "category": "tech",
+  "draw": "Open frame holding a row of graphics cards.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "smart-contract",
+  "category": "tech",
+  "draw": "Document page with a cube stamp in its corner.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "distributed-ledger",
+  "category": "tech",
+  "draw": "Three ledger books linked to each other in a triangle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "bit-byte",
+  "category": "tech",
+  "draw": "Row of eight small squares with some filled.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "hexadecimal",
+  "category": "tech",
+  "draw": "Hash sign followed by the letters f and f.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "unicode-character",
+  "category": "tech",
+  "draw": "Letter U with a plus sign inside a square.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "character-encoding",
+  "category": "tech",
+  "draw": "Letter A with an arrow pointing to binary digits.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "checksum",
+  "category": "tech",
+  "draw": "Document with a hash sign and a check mark.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "public-key",
+  "category": "tech",
+  "draw": "Key with a globe on its bow.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "root-user",
+  "category": "tech",
+  "draw": "Person silhouette with a small crown and a hash sign.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "sudo-command",
+  "category": "tech",
+  "draw": "Chevron prompt with a small crown above it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "os-kernel",
+  "category": "tech",
+  "draw": "Small nut shape at the center of concentric rings.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "device-driver",
+  "category": "tech",
+  "draw": "Chip with a steering wheel drawn on it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "firmware",
+  "category": "tech",
+  "draw": "Chip with a small gear and a download arrow.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "bootloader",
+  "category": "tech",
+  "draw": "Boot shape with a power symbol on it.",
+  "domain": "dev-cloud-ai"
+ }
+]

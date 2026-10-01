@@ -1,0 +1,476 @@
+[
+ {
+  "name": "jute-fiber",
+  "category": "materials",
+  "draw": "Hank of long golden fibers hanging over a bar, ends loose and wavy.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "spinneret",
+  "category": "materials",
+  "draw": "Round nozzle plate with many small holes extruding fine parallel filaments downward.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "suede-leather",
+  "category": "materials",
+  "draw": "Leather square with a brushed nap shown by short soft strokes in one direction and a finger swipe mark.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "patent-leather",
+  "category": "materials",
+  "draw": "Glossy leather square with strong mirror shine streaks.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "vegan-leather",
+  "category": "materials",
+  "draw": "Leather hide outline with a small plant leaf inside it.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "crocodile-leather",
+  "category": "materials",
+  "draw": "Leather square embossed with large rectangular scales in a grid.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "snakeskin-leather",
+  "category": "materials",
+  "draw": "Leather strip with small overlapping diamond scales in rows.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tannery-vat",
+  "category": "materials",
+  "draw": "Round pit vat filled with liquid and a hide draped over its rim.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "hide-stretching-frame",
+  "category": "materials",
+  "draw": "Square wooden frame with a leather hide laced to it by cords at the edges.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "leather-patch",
+  "category": "materials",
+  "draw": "Rectangular leather label with stitched border and a debossed blank center.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "shearling",
+  "category": "materials",
+  "draw": "Fold of leather with a thick curly fleece lining showing along the edge.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "vellum",
+  "category": "materials",
+  "draw": "Translucent sheet overlapping a line drawing that shows faintly through it.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "crepe-paper",
+  "category": "materials",
+  "draw": "Streamer roll with a strip unrolled showing fine crinkled vertical ridges.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "seed-paper",
+  "category": "materials",
+  "draw": "Paper square with scattered seeds and a small sprout growing from one edge.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "watercolor-paper",
+  "category": "materials",
+  "draw": "Spiral pad sheet with a dotted cold press texture and a paint wash stroke.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "foam-board",
+  "category": "materials",
+  "draw": "Board edge-on showing a thick foam core between two thin paper faces.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "recycled-paper",
+  "category": "materials",
+  "draw": "Paper sheet with a recycling loop of arrows printed in its center.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "paper-reel",
+  "category": "materials",
+  "draw": "Large industrial paper roll on its side with a sheet unwinding flat.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tissue-paper",
+  "category": "materials",
+  "draw": "Thin sheets fanned out with soft folds and a crumpled corner.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "flagstone-paving",
+  "category": "materials",
+  "draw": "Ground surface made of large irregular polygon stones with gaps between.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "ashlar-wall",
+  "category": "materials",
+  "draw": "Wall of neat squared cut stone blocks in even courses with thin joints.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "gabion-wall",
+  "category": "materials",
+  "draw": "Wire mesh cage box filled with round stones.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "slump-test",
+  "category": "materials",
+  "draw": "Metal cone lifted beside a slumped mound of concrete with a ruler measuring the drop.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "concrete-formwork",
+  "category": "materials",
+  "draw": "Wooden form boards with braces holding a poured concrete wall between them.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "precast-concrete-panel",
+  "category": "materials",
+  "draw": "Flat wall panel with lifting hooks on top hanging from a crane cable.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "reinforced-concrete",
+  "category": "materials",
+  "draw": "Concrete block cross-section with a row of round rebar dots inside.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "concrete-aggregate",
+  "category": "materials",
+  "draw": "Concrete block cross-section showing embedded mixed size stones.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "hempcrete-block",
+  "category": "materials",
+  "draw": "Rectangular building block with a fibrous speckled face and a hemp leaf on it.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "rammed-earth-wall",
+  "category": "materials",
+  "draw": "Wall section with wavy horizontal compressed soil layers of varying thickness.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "clay-roof-tile",
+  "category": "materials",
+  "draw": "Row of overlapping curved S shaped roof tiles seen from the lower edge.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "firebrick",
+  "category": "materials",
+  "draw": "Single brick with small flames licking along its top edge.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "hardness-test",
+  "category": "materials",
+  "draw": "Pyramid shaped indenter pressing down on a sample leaving a square dent.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "scratch-hardness-test",
+  "category": "materials",
+  "draw": "Pointed stylus dragging across a stone sample leaving a scratch line.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "pendulum-impact-test",
+  "category": "materials",
+  "draw": "Swinging pendulum hammer on an arc striking a notched bar held on supports.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "compression-test",
+  "category": "materials",
+  "draw": "Cylinder sample squeezed between two flat plates with arrows pushing inward.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "bend-test",
+  "category": "materials",
+  "draw": "Bar resting on two supports bending downward under a center arrow.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "fatigue-test",
+  "category": "materials",
+  "draw": "Bar with a small crack beside a repeating sine wave load symbol.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "torsion-test",
+  "category": "materials",
+  "draw": "Horizontal rod with curved rotation arrows at each end twisting in opposite directions.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "shear-test",
+  "category": "materials",
+  "draw": "Block split along a line with two opposite arrows sliding the halves apart.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "drop-test",
+  "category": "materials",
+  "draw": "Box falling toward a hard floor with motion lines and a height arrow.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "abrasion-test",
+  "category": "materials",
+  "draw": "Circular rubbing head moving in a loop over a round fabric sample.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "pilling-test",
+  "category": "materials",
+  "draw": "Sweater fabric square with small fuzzy balls scattered on its surface under a magnifier.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "colorfastness-test",
+  "category": "materials",
+  "draw": "Fabric swatch beside a row of gray scale steps from dark to light.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "shrinkage-test",
+  "category": "materials",
+  "draw": "Fabric square marked with a measured inner square and arrows pointing inward.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "dye-penetrant-test",
+  "category": "materials",
+  "draw": "Metal part with a spray can revealing a bright crack line.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "ultrasonic-flaw-detection",
+  "category": "materials",
+  "draw": "Probe on a metal block with sound wave arcs inside reflecting off a hidden flaw.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "salt-spray-test",
+  "category": "materials",
+  "draw": "Cabinet chamber with a mist nozzle spraying droplets onto hanging metal samples.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "uv-weathering-test",
+  "category": "materials",
+  "draw": "Sample panel under a sun symbol and rain drops with a timer.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "metal-grain-structure",
+  "category": "materials",
+  "draw": "Circle view through a microscope showing irregular polygon grains.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "thermal-conductivity",
+  "category": "materials",
+  "draw": "Metal bar with a flame at one end and heat wave lines fading along its length.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "burst-test",
+  "category": "materials",
+  "draw": "Fabric sheet clamped in a ring bulging upward into a dome with an arrow beneath.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "peel-test",
+  "category": "materials",
+  "draw": "Tape strip peeled back from a surface at a right angle with an upward pull arrow.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "cross-cut-adhesion-test",
+  "category": "materials",
+  "draw": "Coated square cut with a lattice of crossing lines and a few flaked squares.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tear-test",
+  "category": "materials",
+  "draw": "Fabric strip with a slit and its two tongues pulled apart by opposing arrows.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "density-test",
+  "category": "materials",
+  "draw": "Solid object submerged in a graduated cylinder with the water level risen and marked.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "waterproof-fabric",
+  "category": "materials",
+  "draw": "Fabric square with round water drops beading on top and an umbrella outline.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "breathable-fabric",
+  "category": "materials",
+  "draw": "Fabric layer with wavy vapor arrows rising up through it.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "stretch-fabric",
+  "category": "materials",
+  "draw": "Fabric square pulled by arrows at both sides with curved stretched edges.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "flame-retardant-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a flame beside it held back by a shield outline.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "antimicrobial-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a shield covering a small bacteria shape.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "uv-protective-fabric",
+  "category": "materials",
+  "draw": "Fabric square with sun rays bouncing off its surface.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "windproof-fabric",
+  "category": "materials",
+  "draw": "Fabric layer with wind lines hitting it and curving away.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "quick-dry-fabric",
+  "category": "materials",
+  "draw": "Fabric square with a water drop and a speed line arrow leaving it.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "moisture-wicking-fabric",
+  "category": "materials",
+  "draw": "Fabric cross-section with drops moving from the inner side outward along arrows.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "thermal-insulation-layer",
+  "category": "materials",
+  "draw": "Stacked layers with a heat wave arrow blocked and turned back at the middle layer.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "non-slip-surface",
+  "category": "materials",
+  "draw": "Textured sole surface with grip bumps and a shoe standing firm on a slope.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "anti-static-material",
+  "category": "materials",
+  "draw": "Fabric square with a crossed out small lightning spark.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "shock-absorbing-material",
+  "category": "materials",
+  "draw": "Foam pad compressed by a downward arrow with a spring outline inside.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "tear-resistant-fabric",
+  "category": "materials",
+  "draw": "Fabric square pulled by opposing arrows with a reinforced grid holding a small cut.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "recycle-code-alu",
+  "category": "materials",
+  "draw": "Chasing arrows recycling triangle with the number 41 and ALU label below.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "recycle-code-paper",
+  "category": "materials",
+  "draw": "Chasing arrows recycling triangle with the number 20 and PAP label below.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "recycle-code-glass",
+  "category": "materials",
+  "draw": "Chasing arrows recycling triangle with the number 70 and GL label below.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "recycle-code-steel",
+  "category": "materials",
+  "draw": "Chasing arrows recycling triangle with the number 40 and FE label below.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "recycled-polyester",
+  "category": "materials",
+  "draw": "Plastic bottle with an arrow leading to a folded T-shirt.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "recycled-rubber-crumb",
+  "category": "materials",
+  "draw": "Tire with an arrow leading to a small pile of rubber granules.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "rag-rug",
+  "category": "materials",
+  "draw": "Oval rug made of braided fabric strips coiled in rings.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "organic-cotton",
+  "category": "materials",
+  "draw": "Open cotton boll with a small leaf badge on its stem.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "composite-laminate",
+  "category": "materials",
+  "draw": "Sheet edge in perspective showing stacked layers of crossing fiber directions.",
+  "domain": "r3-materials-textiles"
+ },
+ {
+  "name": "cane-webbing",
+  "category": "materials",
+  "draw": "Square panel of woven cane strands forming an open octagon lattice.",
+  "domain": "r3-materials-textiles"
+ }
+]

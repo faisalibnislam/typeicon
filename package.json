@@ -1,0 +1,34 @@
+{
+  "name": "typeicon",
+  "private": true,
+  "version": "0.1.0",
+  "description": "TypeIcon icon library, keyword ligature fonts and subset builder",
+  "packageManager": "pnpm@10.34.5",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "pnpm --filter @typeicon/web dev",
+    "build": "pnpm --filter @typeicon/web build",
+    "start": "pnpm --filter @typeicon/web start",
+    "db:start": "bash scripts/dev-db.sh start",
+    "db:stop": "bash scripts/dev-db.sh stop",
+    "db:generate": "pnpm --filter @typeicon/web db:generate",
+    "db:migrate": "pnpm --filter @typeicon/web db:migrate",
+    "core:export": ".venv/bin/python tools/core-authoring/export.py",
+    "catalog:build": ".venv/bin/typeicon-import build",
+    "catalog:load": ".venv/bin/typeicon-import db-load",
+    "release:build": ".venv/bin/typeicon-import release --version 0.3.0 --date 2026-09-30",
+    "audit:catalog": ".venv/bin/typeicon-import audit --raster",
+    "packages:generate": "node packages/scripts/generate.mjs",
+    "worker": ".venv/bin/typeicon-worker",
+    "test": "pnpm test:py && pnpm test:web",
+    "test:py": ".venv/bin/pytest -q",
+    "test:web": "pnpm --filter @typeicon/web test",
+    "test:e2e": "pnpm --filter @typeicon/web test:e2e",
+    "setup": "bash scripts/setup.sh",
+    "packages:verify": "node packages/scripts/verify.mjs",
+    "figma:build": "pnpm --filter @typeicon/figma-plugin build",
+    "test:packages": "node packages/scripts/verify.mjs && pnpm --filter @typeicon/figma-plugin test"
+  }
+}

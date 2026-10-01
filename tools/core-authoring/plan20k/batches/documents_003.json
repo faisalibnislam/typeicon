@@ -1,0 +1,248 @@
+[
+ {
+  "name": "folder-desktop",
+  "category": "documents",
+  "draw": "Folder with a small monitor on a stand on its front.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "all-in-one-printer",
+  "category": "documents",
+  "draw": "Printer with a raised scanner lid on top and a page in the output tray.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "library-book",
+  "category": "documents",
+  "draw": "Upright book with a call number label near the bottom of its spine and a barcode sticker.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "adoption-papers",
+  "category": "documents",
+  "draw": "Page with a large hand holding a small hand at the top and a signature line below.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "mortgage-document",
+  "category": "documents",
+  "draw": "Page with a small house and a percent sign at the top and text lines below.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "donation-receipt",
+  "category": "documents",
+  "draw": "Receipt slip with a zigzag bottom edge and an open hand holding a coin at the top.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "jury-summons",
+  "category": "documents",
+  "draw": "Envelope with a small gavel printed on its front and an official window.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "rubric",
+  "category": "documents",
+  "draw": "Page with a table of four scoring columns numbered 1 to 4 and criteria rows.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "size-chart",
+  "category": "documents",
+  "draw": "Table with a clothing shirt outline at the top and columns labeled S, M and L.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "energy-label",
+  "category": "documents",
+  "draw": "Tall label with a stack of stepped bars of increasing length and an arrow pointing to one.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "gift-receipt",
+  "category": "documents",
+  "draw": "Receipt slip with a zigzag bottom edge and a small ribbon bow at the top.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "inspection-tag",
+  "category": "documents",
+  "draw": "Hanging tag with a string hole and a grid of month numbers, one punched out.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "microfilm-reel",
+  "category": "documents",
+  "draw": "Small open plastic reel with a thin strip of film wound on it and a loose tail.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "document-workflow",
+  "category": "documents",
+  "draw": "Three small pages in a row joined by arrows from left to right.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "numbering-stamp",
+  "category": "documents",
+  "draw": "Hand stamp with a row of rotating number wheels visible above its base.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "paper-drill",
+  "category": "documents",
+  "draw": "Heavy press with a hollow drill bit lowered over a stack of paper.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "corner-rounder",
+  "category": "documents",
+  "draw": "Small punch with a curved blade cutting the corner of a card into a rounded shape.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "index-card-ring",
+  "category": "documents",
+  "draw": "Stack of index cards held by a metal ring through a punched hole in one corner.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "dieline",
+  "category": "documents",
+  "draw": "Flat unfolded box net outline with dashed fold lines between its panels.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "manicule",
+  "category": "documents",
+  "draw": "Printer's pointing hand symbol with an extended index finger and a small cuff.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "pay-envelope",
+  "category": "documents",
+  "draw": "Small envelope with a window showing a banknote and a line for a name.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "galley-proof",
+  "category": "documents",
+  "draw": "Long narrow strip of typeset text lines with small correction marks in the margin.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "thumbprint-signature",
+  "category": "documents",
+  "draw": "Page with text lines and an oval thumbprint whorl on the signature line.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-layers",
+  "category": "documents",
+  "draw": "Page with a folded corner and three stacked diamond layers in the middle.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "meal-planner",
+  "category": "documents",
+  "draw": "Page with a column of weekday rows and a small plate with fork and knife at the top.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "thesaurus",
+  "category": "documents",
+  "draw": "Book with two small arrows pointing in opposite directions on its cover.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "folder-public",
+  "category": "documents",
+  "draw": "Folder with a small globe on its front.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "first-day-cover",
+  "category": "documents",
+  "draw": "Envelope with a postage stamp and a round commemorative cancellation mark beside it.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "research-poster",
+  "category": "documents",
+  "draw": "Wide poster with a title bar across the top and three columns holding small charts and text.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "tabbed-notebook",
+  "category": "documents",
+  "draw": "Closed notebook with a row of stepped divider tabs sticking out of its right edge.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "aperture-card",
+  "category": "documents",
+  "draw": "Card with a rectangular film window on one side and rows of punched holes on the other.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "embossing-label-maker",
+  "category": "documents",
+  "draw": "Handheld label tool with a round letter dial on top and a strip of raised letter tape coming out.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "handwriting-recognition",
+  "category": "documents",
+  "draw": "Handwritten squiggle on the left, an arrow, and neat typed text lines on the right.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "organ-donor-card",
+  "category": "documents",
+  "draw": "Wallet card with a heart shape beside a small plus sign and a signature line.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "ration-book",
+  "category": "documents",
+  "draw": "Small booklet opened to a grid of perforated tear out stamps.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "ostracon",
+  "category": "documents",
+  "draw": "Irregular pottery shard with a few short scratched lines of writing.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "label-roll",
+  "category": "documents",
+  "draw": "Roll of blank rounded labels on a backing strip with one label peeled up.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "file-package",
+  "category": "documents",
+  "draw": "Page with a folded corner and a small closed box with a tape line in the middle.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "appointment-card",
+  "category": "documents",
+  "draw": "Small card with a calendar tile on the left and two short date and time lines on the right.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "fore-edge-painting",
+  "category": "documents",
+  "draw": "Closed book seen from its page edge, fanned slightly to reveal a small landscape painted on it.",
+  "domain": "files-and-documents"
+ },
+ {
+  "name": "compliment-slip",
+  "category": "documents",
+  "draw": "Short wide slip with a letterhead band at the top and one handwritten line below.",
+  "domain": "files-and-documents"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "product-variants",
+  "category": "retail",
+  "draw": "Three identical T-shirt silhouettes side by side, one filled, one outlined and one hatched to show colour options.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "size-guide",
+  "category": "retail",
+  "draw": "Folded T-shirt with a horizontal ruler across its chest and small tick marks along the ruler.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "size-selector",
+  "category": "retail",
+  "draw": "Row of three rounded square chips labelled S, M and L, with the middle chip filled.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "fit-scale",
+  "category": "retail",
+  "draw": "Horizontal slider line with a knob in the middle and a small shoe outline above each end.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "virtual-try-on",
+  "category": "retail",
+  "draw": "Smartphone showing a face outline wearing a pair of glasses with sparkle marks beside the frame.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "digital-product",
+  "category": "retail",
+  "draw": "Box outline with a download arrow pointing down into its open top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "print-on-demand",
+  "category": "retail",
+  "draw": "T-shirt outline with a small printer head above it spraying a square design onto the chest.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "wholesale",
+  "category": "retail",
+  "draw": "Stacked pallet of three rows of boxes with a large price tag hanging from the top corner.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "marketplace",
+  "category": "retail",
+  "draw": "Three small shop awnings side by side on one long counter, each awning a different stripe pattern.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "delivery-slot",
+  "category": "retail",
+  "draw": "Calendar page with one grid cell filled and a tiny parcel box drawn inside that cell.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "sort-by-price",
+  "category": "retail",
+  "draw": "Price tag with a pair of stacked up and down sort arrows beside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "pre-order",
+  "category": "retail",
+  "draw": "Parcel box with a calendar page leaning against its front and a small arrow pointing to the box.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "sold-out-sign",
+  "category": "retail",
+  "draw": "Rectangular sign hanging on two strings with a bold diagonal band across its face.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "new-arrival-tag",
+  "category": "retail",
+  "draw": "Pointed swing tag with a small eight point burst star on its face and a looped string.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bestseller-ribbon",
+  "category": "retail",
+  "draw": "Rosette badge with two ribbon tails and a small upward trend line inside the circle.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "limited-edition",
+  "category": "retail",
+  "draw": "Round seal with a scalloped edge and a small number 1 above a short line inside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "strikethrough-price",
+  "category": "retail",
+  "draw": "Price tag with a larger number crossed out by a diagonal line and a smaller number below it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "price-drop",
+  "category": "retail",
+  "draw": "Price tag with a bold downward arrow overlapping its lower right corner.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "price-match",
+  "category": "retail",
+  "draw": "Two price tags side by side with an equals sign between them.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "unit-price-label",
+  "category": "retail",
+  "draw": "Small rectangular shelf label split in two, a large price on the left and a small per kilogram box on the right.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "price-sticker",
+  "category": "retail",
+  "draw": "Round peel off sticker with a price dash on it and one edge lifting away from the backing.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "security-spider-wrap",
+  "category": "retail",
+  "draw": "Box wrapped with crossing cables in an X pattern that meet at a small square lock on top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "full-cart",
+  "category": "retail",
+  "draw": "Shopping cart seen from the side with boxes and a bottle piled above the basket rim.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "one-click-buy",
+  "category": "retail",
+  "draw": "Rounded button with a mouse pointer clicking it and a small lightning bolt beside the pointer.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "express-checkout",
+  "category": "retail",
+  "draw": "Shopping cart with a lightning bolt on the basket and speed lines behind it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "guest-checkout",
+  "category": "retail",
+  "draw": "Dashed outline of a person head and shoulders beside a small shopping cart.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "order-summary",
+  "category": "retail",
+  "draw": "Receipt style sheet with three item lines, a divider and a bold total line at the bottom.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "buy-button",
+  "category": "retail",
+  "draw": "Wide pill shaped button with a small shopping bag icon on its left and a text dash on its right.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "car-shaped-shopping-cart",
+  "category": "retail",
+  "draw": "Shopping cart with a toy car body attached to its front, showing a steering wheel and round headlights.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "flatbed-cart",
+  "category": "retail",
+  "draw": "Low flat platform cart on four casters with a tall upright handle frame at one end, loaded with long boards.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "stacked-shopping-carts",
+  "category": "retail",
+  "draw": "Three shopping carts nested into each other in a row, seen from the side.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "cart-token",
+  "category": "retail",
+  "draw": "Round coin sized token with a hole at the top attached to a key ring.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "checkout-divider-bar",
+  "category": "retail",
+  "draw": "Long triangular prism bar lying on a conveyor belt strip between two small items.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bagging-area",
+  "category": "retail",
+  "draw": "Flat scale platform with a shopping bag standing on it and a small arrow pointing down.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "express-lane-sign",
+  "category": "retail",
+  "draw": "Tall pole sign above a counter showing a small basket and a number 10 below it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "checkout-lane-number",
+  "category": "retail",
+  "draw": "Tall slim pole topped with a lit box showing the number 3 and light rays around it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "pole-display",
+  "category": "retail",
+  "draw": "Small two line customer display screen mounted on top of a thin pole with a round base.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "change-tray",
+  "category": "retail",
+  "draw": "Shallow rounded tray seen at an angle holding two coins and a folded banknote.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "tipping-screen",
+  "category": "retail",
+  "draw": "Tablet screen showing three rounded buttons in a row with percent signs on them.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "tablet-pos-stand",
+  "category": "retail",
+  "draw": "Tablet mounted on a swivel stand with a square card reader attached to its side.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "pos-workstation",
+  "category": "retail",
+  "draw": "Monitor on a stand above a cash drawer with a small receipt printer beside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "wrist-payment",
+  "category": "retail",
+  "draw": "Smartwatch on a strap with contactless wave arcs coming out of its face.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "virtual-card",
+  "category": "retail",
+  "draw": "Payment card drawn with a dashed outline and a small cloud symbol in its corner.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "layaway",
+  "category": "retail",
+  "draw": "Parcel box on a shelf with a hanging tag and a small calendar page leaning against it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "split-tender",
+  "category": "retail",
+  "draw": "Payment card and a banknote overlapping, with a vertical dashed line dividing them in half.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "card-charge-slip",
+  "category": "retail",
+  "draw": "Narrow paper slip with a card number dash line, an amount box and a signature squiggle at the bottom.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "mobile-wallet",
+  "category": "retail",
+  "draw": "Smartphone with a folded wallet shape and a card peeking out of it on the screen.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "payment-gateway",
+  "category": "retail",
+  "draw": "Payment card on the left, an arch shaped gate in the middle and a bank building on the right, joined by an arrow.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "chargeback",
+  "category": "retail",
+  "draw": "Payment card with a curved arrow looping back from its right edge to its left edge.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "payment-methods",
+  "category": "retail",
+  "draw": "Payment card, a banknote and a smartphone fanned out and overlapping.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "partial-refund",
+  "category": "retail",
+  "draw": "Coin with one half filled and a curved return arrow wrapping around the empty half.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "merchant-payout",
+  "category": "retail",
+  "draw": "Shop awning above a coin with a downward arrow leading into a bank building outline.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "sales-commission",
+  "category": "retail",
+  "draw": "Hand palm up receiving a small coin marked with a percent sign.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "round-up-donation",
+  "category": "retail",
+  "draw": "Coin with an upward arrow above it dropping into a small box with a heart on the front.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "multi-currency-pricing",
+  "category": "retail",
+  "draw": "Price tag with two small overlapping coins in its corner, each showing a different generic currency mark.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bill-acceptor",
+  "category": "retail",
+  "draw": "Front panel with a narrow horizontal slot and a banknote half inserted, green light dot above.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "cash-only-sign",
+  "category": "retail",
+  "draw": "Small hanging sign showing a banknote with a small crossed out card beneath it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "loyalty-punch-card",
+  "category": "retail",
+  "draw": "Rectangular card with a row of ten small circles, the first six punched out as holes.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "loyalty-tiers",
+  "category": "retail",
+  "draw": "Three stacked horizontal bars of increasing width like steps, a small crown on the top bar.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "redeem-points",
+  "category": "retail",
+  "draw": "Coin with a star flowing along a curved arrow into a wrapped gift box.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "loyalty-key-tag",
+  "category": "retail",
+  "draw": "Small rounded card with a barcode on it and a hole at one end threaded onto a key ring.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "double-points",
+  "category": "retail",
+  "draw": "Coin with a star on its face and a bold multiplication sign with the number 2 beside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "gift-with-purchase",
+  "category": "retail",
+  "draw": "Shopping bag with a small wrapped gift box and bow sitting on top of it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "free-sample-tray",
+  "category": "retail",
+  "draw": "Round serving tray holding three tiny paper cups with toothpicks sticking up from them.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "perfume-tester-strip",
+  "category": "retail",
+  "draw": "Thin paper blotter strip held upright with scent wave lines rising from its tip beside a small spray bottle.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "flash-sale",
+  "category": "retail",
+  "draw": "Price tag with a large lightning bolt across its face.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "promo-starburst",
+  "category": "retail",
+  "draw": "Jagged starburst sticker shape with a percent sign in the middle.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "bulk-discount",
+  "category": "retail",
+  "draw": "Three stacked boxes with a percent sign tag hanging from the top box.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "mail-in-rebate",
+  "category": "retail",
+  "draw": "Envelope with a coin and a curved return arrow coming out of its flap.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "daily-deal",
+  "category": "retail",
+  "draw": "Calendar page with a price tag hanging from its top ring.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "giveaway",
+  "category": "retail",
+  "draw": "Open gift box with confetti pieces and small stars bursting out of the top.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "coupon-booklet",
+  "category": "retail",
+  "draw": "Small booklet with a perforated dashed edge tearing off a coupon strip at the front.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "price-freeze",
+  "category": "retail",
+  "draw": "Price tag with a snowflake drawn on its face.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "satisfaction-guarantee",
+  "category": "retail",
+  "draw": "Round seal with a scalloped edge and a smiling face in the centre.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "buyer-protection",
+  "category": "retail",
+  "draw": "Shield outline with a shopping bag drawn inside it.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "trial-size",
+  "category": "retail",
+  "draw": "Small travel sized bottle standing beside a full sized bottle of the same shape.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "value-pack",
+  "category": "retail",
+  "draw": "Large box with a smaller box drawn in front of it and a burst tag on the corner.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "featured-product",
+  "category": "retail",
+  "draw": "Product box on a low stand with spotlight rays shining down on it from above.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "mobile-coupon",
+  "category": "retail",
+  "draw": "Smartphone with a ticket shaped coupon with notched sides shown on its screen.",
+  "domain": "r2-ecommerce-retail"
+ },
+ {
+  "name": "endcap-display",
+  "category": "retail",
+  "draw": "Short shelf unit at the end of an aisle with a large header sign on top and boxes on each shelf.",
+  "domain": "r2-ecommerce-retail"
+ }
+]

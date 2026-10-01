@@ -1,0 +1,482 @@
+[
+ {
+  "name": "deck-swab",
+  "category": "nautical",
+  "draw": "Long handled mop made of a thick bundle of rope strands, a ship's swab.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "bulbous-bow",
+  "category": "nautical",
+  "draw": "Side view of a ship bow with a rounded bulb bulging forward below the waterline.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "figurehead",
+  "category": "nautical",
+  "draw": "Carved figure of a woman leaning forward under a ship's bowsprit at the front of the bow.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "yardarm",
+  "category": "nautical",
+  "draw": "Top of a ship mast with a long horizontal yard crossing it, rigging lines running from its tips.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "bowsprit",
+  "category": "nautical",
+  "draw": "Front of a sailing ship with a long spar angling forward and up from the bow, a jib stay running to it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "anchor-chain",
+  "category": "nautical",
+  "draw": "Heavy stud link chain with oval links each having a bar across the middle, ending in an anchor shackle.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "anchor-windlass",
+  "category": "nautical",
+  "draw": "Deck winch with a horizontal drum and a notched chain wheel pulling anchor chain up from a deck pipe.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cargo-hatch",
+  "category": "nautical",
+  "draw": "Ship deck seen at an angle with a raised rectangular hatch opening and its cover panels folded back.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "watertight-door",
+  "category": "nautical",
+  "draw": "Oval ship door with rounded corners, a raised sill and several lever dogs around its edge.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "wheelhouse",
+  "category": "nautical",
+  "draw": "Small boxy cabin on a boat deck with wide front windows and a ship's wheel visible inside.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "bow-thruster",
+  "category": "nautical",
+  "draw": "Ship bow seen from the side with a round tunnel through the hull below the waterline and a small propeller inside.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ducted-propeller",
+  "category": "nautical",
+  "draw": "Ship propeller enclosed in a short round ring nozzle, seen at an angle behind a rudder.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "azimuth-thruster",
+  "category": "nautical",
+  "draw": "Pod shaped drive unit hanging below a hull on a vertical rotating strut, with a propeller at its front.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "deadeye",
+  "category": "nautical",
+  "draw": "Round wooden block with three holes in a triangle, a rope laced through it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "belaying-pin",
+  "category": "nautical",
+  "draw": "Wooden pin shaped like a small club standing in a rail, a rope coiled and hung on it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ratlines",
+  "category": "nautical",
+  "draw": "Two slanting shroud ropes from a ship's rail up to the mast, joined by short horizontal rope rungs like a ladder.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "draft-marks",
+  "category": "nautical",
+  "draw": "Ship bow in side view with a vertical scale of numbers painted on the hull above the waterline.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "companionway",
+  "category": "nautical",
+  "draw": "Steep narrow wooden ladder with handrails leading down through an open deck hatch.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "gimbal-lamp",
+  "category": "nautical",
+  "draw": "Oil lamp mounted in a swinging gimbal bracket on a wall so it stays upright when the boat tilts.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sailboat-keel",
+  "category": "nautical",
+  "draw": "Side view of a sailboat hull with a deep narrow fin keel and a heavy bulb at its tip below the waterline.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "stern-gallery",
+  "category": "nautical",
+  "draw": "Ornate back of an old sailing ship with rows of windows under a carved stern and a lantern on top.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "boat-steering-console",
+  "category": "nautical",
+  "draw": "Center console of a small boat with a steering wheel, a throttle lever and a windscreen on top.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "marine-throttle",
+  "category": "nautical",
+  "draw": "Boat throttle control box with a single lever angled forward on the side of a dashboard panel.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "wooden-hull-ribs",
+  "category": "nautical",
+  "draw": "Unfinished wooden boat hull showing a keel with curved rib frames rising from it like a skeleton.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "grapnel-anchor",
+  "category": "nautical",
+  "draw": "Small anchor with a straight shank and four curved tines spread out at the bottom like a claw.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "fluke-anchor",
+  "category": "nautical",
+  "draw": "Flat anchor with two wide pointed triangular flukes pivoting on a crossbar at the bottom of the shank.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "plow-anchor",
+  "category": "nautical",
+  "draw": "Anchor shaped like a double plowshare, one pointed blade hinged at the end of a long shank.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "mushroom-anchor",
+  "category": "nautical",
+  "draw": "Anchor with a straight shank ending in an upside down bowl like a mushroom cap.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sea-anchor",
+  "category": "nautical",
+  "draw": "Cone shaped fabric drogue on bridle lines trailing underwater behind a boat.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "lateen-sail",
+  "category": "nautical",
+  "draw": "Mast with a long diagonal yard carrying a large triangular sail angled across it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "gaff-sail",
+  "category": "nautical",
+  "draw": "Four sided sail on a mast with a slanting spar along its top edge and a boom along the bottom.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "square-sail",
+  "category": "nautical",
+  "draw": "Rectangular sail hanging from a horizontal yard on a mast, billowing forward.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "jib-sail",
+  "category": "nautical",
+  "draw": "Small triangular headsail running from the top of a forestay down to the bow of a boat.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "reefed-sail",
+  "category": "nautical",
+  "draw": "Mainsail partly lowered with its bottom section bundled along the boom and tied with a row of short reef ties.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "roller-furling-jib",
+  "category": "nautical",
+  "draw": "Headsail rolled tightly around a forestay into a long thin tube, with a round drum at the bottom.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "winch-handle",
+  "category": "nautical",
+  "draw": "L shaped metal handle with a square drive plug at one end and a round grip at the other.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "cam-cleat",
+  "category": "nautical",
+  "draw": "Two spring loaded toothed cams side by side on a base, a rope gripped between them.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "masthead-wind-vane",
+  "category": "nautical",
+  "draw": "Top of a mast with a swinging arrow vane and two small reference tabs showing wind direction.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "bosuns-chair",
+  "category": "nautical",
+  "draw": "Canvas seat hanging from a rope bridle and a hook, a sailor's hoist seat for going up a mast.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "jackline-tether",
+  "category": "nautical",
+  "draw": "Short strap with a clip at each end, one clipped to a harness and the other running along a deck line.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "southwester-hat",
+  "category": "nautical",
+  "draw": "Waterproof rain hat with a sloping brim that is much longer at the back, and chin ties.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "foul-weather-jacket",
+  "category": "nautical",
+  "draw": "Heavy hooded waterproof sailing jacket with a high collar, cuffs and a front zip.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "boat-shoes",
+  "category": "nautical",
+  "draw": "Side view of a low moccasin shoe with a leather lace running all around the top edge and a flat sole.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "boat-bailer",
+  "category": "nautical",
+  "draw": "Scoop made from a cut plastic jug with its handle intact, used to bail water from a boat.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "oarlock",
+  "category": "nautical",
+  "draw": "U shaped metal fork on a pin mounted in a boat gunwale, an oar resting in it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "windvane-steering-gear",
+  "category": "nautical",
+  "draw": "Frame on a boat's stern with an upright wind vane on top and a small rudder blade below in the water.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "sailing-trapeze",
+  "category": "nautical",
+  "draw": "Sailor standing straight out from the side of a small dinghy, hanging from a wire from the mast.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "points-of-sail",
+  "category": "nautical",
+  "draw": "Circle diagram with a wind arrow at the top and small boats around it with sails set at different angles.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "tacking-maneuver",
+  "category": "nautical",
+  "draw": "Zigzag dashed path going up toward a wind arrow with a small sailboat at each turn.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "kamal",
+  "category": "nautical",
+  "draw": "Small rectangular board with a knotted string attached to its center, an old star altitude tool.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "hand-bearing-compass",
+  "category": "nautical",
+  "draw": "Handheld compass with a round domed card window on top of a pistol style grip.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "navigation-plotter",
+  "category": "nautical",
+  "draw": "Clear square protractor ruler with a rotating compass rose disc in the middle.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "distress-flare",
+  "category": "nautical",
+  "draw": "Handheld cylindrical flare with a grip at the bottom and bright burning sparks at the top.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ships-logbook",
+  "category": "nautical",
+  "draw": "Thick bound book with an anchor on its cover and a pencil beside it.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "traverse-board",
+  "category": "nautical",
+  "draw": "Wooden board with a compass rose drawn on it, rows of small peg holes along each point and pegs on strings.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "star-compass",
+  "category": "nautical",
+  "draw": "Circle divided into many labelled segments around a small central canoe, a traditional Polynesian navigation diagram.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "ship-inclinometer",
+  "category": "nautical",
+  "draw": "Curved arc gauge with a scale in degrees and a hanging pointer showing how far a ship is heeling.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "taffrail-log",
+  "category": "nautical",
+  "draw": "Dial gauge clamped on a stern rail with a line trailing into the water to a small spinning rotor.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "burgee",
+  "category": "nautical",
+  "draw": "Triangular pennant flag on a short staff at the top of a mast, flying out to the side.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "swallowtail-burgee",
+  "category": "nautical",
+  "draw": "Flag with a deep V shaped notch cut into its fly end, forming two tails, on a short staff.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "commissioning-pennant",
+  "category": "nautical",
+  "draw": "Very long narrow tapering streamer flag flying from the top of a mast.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "dressed-ship",
+  "category": "nautical",
+  "draw": "Side view of a ship with a line of small signal flags running from the bow up over the mast and down to the stern.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "anchor-ball",
+  "category": "nautical",
+  "draw": "Front of a boat with a single round black ball hoisted in the rigging above the bow.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "motor-sailing-cone",
+  "category": "nautical",
+  "draw": "Sailboat mast with a single cone shape hoisted point down in the rigging.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "restricted-maneuverability-shapes",
+  "category": "nautical",
+  "draw": "Vertical line of three day shapes hoisted on a mast: a ball, a diamond and a ball.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "not-under-command-shapes",
+  "category": "nautical",
+  "draw": "Two round black balls hoisted one above the other on a vertical line from a mast.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "buoyancy-compensator",
+  "category": "nautical",
+  "draw": "Inflatable diving vest with shoulder straps, a waist buckle and a corrugated inflator hose on the left shoulder.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "dive-knife",
+  "category": "nautical",
+  "draw": "Blunt tipped knife in a sheath strapped around a lower leg with two rubber straps.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "dive-light",
+  "category": "nautical",
+  "draw": "Chunky underwater torch with a wide lens head, a thick body and a wrist lanyard.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "dive-slate",
+  "category": "nautical",
+  "draw": "Small white writing board with a pencil tied on a cord and a clip at the top.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "submersible-pressure-gauge",
+  "category": "nautical",
+  "draw": "Round dial gauge in a rubber boot at the end of a high pressure hose, showing tank air.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "rebreather",
+  "category": "nautical",
+  "draw": "Backpack unit with two looped breathing hoses running to a single mouthpiece at the front.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "dive-reel",
+  "category": "nautical",
+  "draw": "Spool of guideline on a frame with a pistol grip handle, a winding crank and a clip on the line end.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "full-face-dive-mask",
+  "category": "nautical",
+  "draw": "Diving mask covering the whole face in one oval shape with a built in regulator bump at the mouth.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "atmospheric-diving-suit",
+  "category": "nautical",
+  "draw": "Bulky hard shell diving suit with a domed viewport head, jointed limbs and pincer hands.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "monofin",
+  "category": "nautical",
+  "draw": "Single wide mermaid tail shaped fin with two foot pockets side by side.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "hookah-dive-compressor",
+  "category": "nautical",
+  "draw": "Small compressor on a floating ring on the water with a long air hose running down to a diver.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "underwater-habitat",
+  "category": "nautical",
+  "draw": "Cylindrical seafloor laboratory on legs with round portholes and a diver entering from below.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "diver-ok-signal",
+  "category": "nautical",
+  "draw": "Diver figure with one arm curved over the top of the head, the surface OK signal.",
+  "domain": "r2-nautical-maritime"
+ },
+ {
+  "name": "longline-fishing",
+  "category": "nautical",
+  "draw": "Horizontal fishing line held up by floats, with many short lines hanging down each ending in a hook.",
+  "domain": "r2-nautical-maritime"
+ }
+]

@@ -1,0 +1,290 @@
+{
+  "zif-socket": {
+    "context": "A zero insertion force chip socket with a grid of pin holes and its locking lever raised. Used on chip programmers, test benches and older processor boards where chips are swapped often.",
+    "keywords": ["zif socket", "zero insertion force", "chip socket", "ic socket", "dip socket", "cpu socket", "programmer socket", "eeprom programmer", "lever socket", "test socket", "chip holder", "socket lever", "integrated circuit", "burn in socket", "electronics", "component"]
+  },
+  "toroidal-inductor": {
+    "context": "A ring shaped ferrite core wrapped with turns of copper wire, with two leads below. Found in power supplies, filters and switching regulators on circuit boards.",
+    "keywords": ["toroidal inductor", "toroid", "inductor", "coil", "choke", "ferrite ring", "ferrite core", "winding", "copper coil", "power inductor", "filter inductor", "magnetic core", "emi filter", "switching regulator", "electronics", "component"]
+  },
+  "ferrite-bead": {
+    "context": "A short ferrite tube threaded on a single wire. Used on circuit boards and leads to suppress high frequency noise and interference.",
+    "keywords": ["ferrite bead", "ferrite", "bead", "emi suppression", "noise filter", "rf filter", "interference", "suppressor", "ferrite core", "choke", "high frequency", "noise suppression", "emc", "electronics", "component"]
+  },
+  "ferrite-choke": {
+    "context": "A clip-on ferrite choke made of two halves clamped around a cable. Snapped onto power, data and video cables to cut radio frequency interference.",
+    "keywords": ["ferrite choke", "clip on ferrite", "snap on ferrite", "ferrite clamp", "cable choke", "ferrite core", "emi filter", "rfi", "noise filter", "interference", "cable filter", "split core", "emc", "cable accessory", "electronics"]
+  },
+  "seven-segment-display": {
+    "context": "A display showing a figure eight built from seven bar segments plus a decimal point. Used for numbers on clocks, meters, counters and appliance panels.",
+    "keywords": ["seven segment display", "7 segment", "7-segment", "digit display", "numeric display", "led digit", "digital number", "number display", "segment display", "counter", "digital clock", "scoreboard digit", "lcd digit", "decimal point", "electronics", "display"]
+  },
+  "led-matrix": {
+    "context": "A square board covered in a grid of round LEDs. Used to show scrolling text, symbols and simple pixel graphics in signs and maker projects.",
+    "keywords": ["led matrix", "dot matrix", "led grid", "led panel", "pixel display", "8x8 matrix", "scrolling sign", "led board", "matrix display", "pixel art", "led array", "message sign", "light panel", "electronics", "display"]
+  },
+  "character-lcd": {
+    "context": "A wide LCD module showing two rows of text characters, with header pins along the top edge. A common text display for microcontroller and hobby electronics projects.",
+    "keywords": ["character lcd", "lcd module", "16x2 lcd", "text display", "alphanumeric display", "lcd screen", "liquid crystal display", "two line display", "character display", "lcd panel", "microcontroller display", "status display", "backlit lcd", "electronics", "display"]
+  },
+  "oled-display-module": {
+    "context": "A small breakout board with a dark square OLED screen and four pins along its top edge. Used as a tiny graphic screen in sensors, wearables and hobby projects.",
+    "keywords": ["oled display", "oled module", "oled screen", "small screen", "tiny display", "breakout board", "i2c display", "graphic display", "mini display", "screen module", "microcontroller screen", "monochrome display", "display board", "electronics", "display"]
+  },
+  "e-paper-display": {
+    "context": "A thin e-paper panel showing lines of text, with a flat ribbon cable at the bottom. Used in e-readers, shelf labels and low power signs that keep their image without power.",
+    "keywords": ["e-paper", "epaper", "e-ink", "eink", "electronic paper", "e-paper display", "e-reader screen", "shelf label", "low power display", "bistable display", "ribbon cable", "paper like screen", "digital signage", "electronics", "display"]
+  },
+  "led-bar-graph": {
+    "context": "A rectangular LED bar graph block with a row of vertical light segments. Shows levels such as volume, signal strength or battery charge on panels and meters.",
+    "keywords": ["led bar graph", "bar graph display", "led bar", "level meter", "vu meter", "segment bar", "level indicator", "signal meter", "audio meter", "battery level", "indicator lights", "led array", "light bar", "electronics", "display"]
+  },
+  "rgb-led": {
+    "context": "A domed LED with four legs of different lengths, one for each colour channel and a common lead. Used for colour changing lights, status indicators and mood lighting.",
+    "keywords": ["rgb led", "led", "colour led", "color led", "multicolour led", "multicolor led", "light emitting diode", "four leg led", "common anode", "common cathode", "status light", "indicator led", "mood light", "diode", "electronics", "component"]
+  },
+  "addressable-led-ring": {
+    "context": "A ring shaped circuit board carrying a circle of small square LED chips that can each be set to any colour. Used for light rings, clocks, status halos and wearables.",
+    "keywords": ["addressable led ring", "led ring", "pixel ring", "smart led", "rgb ring", "circular led", "led circle", "individually addressable", "light ring", "led strip ring", "status ring", "halo light", "maker project", "electronics", "lighting"]
+  },
+  "laser-diode-module": {
+    "context": "A small cylindrical laser module with a lens at the front, two power wires at the back and a beam leaving the lens. Used in pointers, level tools, sensors and hobby projects.",
+    "keywords": ["laser diode", "laser module", "laser", "laser beam", "laser pointer", "red laser", "dot laser", "line laser", "laser emitter", "optics", "light beam", "diode laser", "laser sensor", "electronics", "component"]
+  },
+  "photoresistor": {
+    "context": "A light dependent resistor: a small round disc with a winding track across its face and two legs. Its resistance drops in bright light, so it is used in night lights and light sensors.",
+    "keywords": ["photoresistor", "ldr", "light dependent resistor", "light sensor", "photocell", "photo resistor", "cds cell", "light detector", "ambient light", "dusk to dawn", "night light sensor", "brightness sensor", "optical sensor", "resistor", "electronics", "component"]
+  },
+  "nixie-tube": {
+    "context": "A tall glass nixie tube with a glowing numeral inside and pins at its base. Used as retro number displays in clocks, counters and vintage instruments.",
+    "keywords": ["nixie tube", "nixie", "nixie clock", "glow tube", "numeral tube", "vacuum tube", "valve", "retro display", "vintage display", "cold cathode", "neon digit", "number display", "tube clock", "electronics", "display"]
+  },
+  "piezo-disc": {
+    "context": "A thin round piezo disc: a brass plate with a smaller ceramic disc on top and two wires soldered on. Used as a contact microphone, knock sensor or simple sounder.",
+    "keywords": ["piezo disc", "piezo element", "piezoelectric", "piezo transducer", "contact microphone", "contact mic", "knock sensor", "vibration sensor", "buzzer element", "brass disc", "ceramic disc", "sounder", "pickup", "electronics", "component"]
+  },
+  "piezo-buzzer": {
+    "context": "A short cylindrical buzzer with a sound hole on top and two legs. Beeps in alarms, timers, appliances and circuit boards to signal an event.",
+    "keywords": ["piezo buzzer", "buzzer", "beeper", "active buzzer", "passive buzzer", "sounder", "beep", "alarm sound", "alert tone", "piezo speaker", "warning beep", "timer beep", "sound module", "electronics", "component"]
+  },
+  "electret-microphone": {
+    "context": "A small round electret microphone capsule with a mesh face and two pins. Found inside phones, headsets, recorders and sound sensor boards.",
+    "keywords": ["electret microphone", "electret mic", "mic capsule", "microphone capsule", "condenser mic", "microphone element", "sound sensor", "audio input", "mic module", "voice pickup", "small microphone", "tiny mic", "recording", "electronics", "component"]
+  },
+  "vibration-motor": {
+    "context": "A flat coin shaped vibration motor with two thin wires, shown with buzz marks. Gives haptic feedback in phones, watches, controllers and wearables.",
+    "keywords": ["vibration motor", "coin motor", "haptic motor", "haptics", "vibrate", "vibrating motor", "rumble", "buzz", "pancake motor", "eccentric motor", "phone vibration", "haptic feedback", "tactile feedback", "wearable", "electronics", "motor"]
+  },
+  "gear-motor": {
+    "context": "A small cylindrical DC motor joined to a gearbox with an output shaft. Drives wheels, robots, toys and slow moving mechanisms that need more torque.",
+    "keywords": ["gear motor", "gearmotor", "geared motor", "dc motor", "gearbox motor", "reduction gear", "robot motor", "toy motor", "torque", "drive motor", "motor gearbox", "wheel motor", "robotics", "electronics", "motor"]
+  },
+  "linear-actuator": {
+    "context": "An electric linear actuator: a motor housing at one end of a long tube with a push rod coming out the other. Lifts desks, opens hatches and moves parts in a straight line.",
+    "keywords": ["linear actuator", "electric actuator", "actuator", "push rod", "electric ram", "linear motor", "extend", "retract", "standing desk motor", "lift actuator", "automation", "motion control", "robotics", "electronics", "motor"]
+  },
+  "peltier-module": {
+    "context": "A thermoelectric cooler shown from the side: two ceramic plates with a row of pellets between them and two wires. One side gets cold while the other gets hot, used in mini fridges and chip coolers.",
+    "keywords": ["peltier module", "peltier", "thermoelectric cooler", "tec module", "thermoelectric", "cooling module", "heat pump", "solid state cooler", "mini fridge", "chip cooler", "hot and cold", "cooling plate", "temperature control", "electronics", "component"]
+  },
+  "case-fan": {
+    "context": "A square computer case fan with screw holes in the corners, a round hub and curved blades. Moves air through PC cases, servers and equipment enclosures to keep parts cool.",
+    "keywords": ["case fan", "pc fan", "computer fan", "cooling fan", "chassis fan", "cpu fan", "fan", "airflow", "cooler", "ventilation", "exhaust fan", "server fan", "120mm fan", "80mm fan", "pc cooling", "hardware"]
+  },
+  "solid-state-relay": {
+    "context": "A solid state relay block with four screw terminals and an indicator light. Switches mains loads such as heaters and lamps silently from a small control signal.",
+    "keywords": ["solid state relay", "ssr", "relay", "electronic relay", "ac switch", "load switch", "switching", "control relay", "heater control", "screw terminals", "no moving parts", "automation", "control panel", "electronics", "component"]
+  },
+  "contactor": {
+    "context": "An electrical contactor with rows of screw terminals along the top and bottom and a window in the middle. Switches motors, pumps and heavy loads in control panels.",
+    "keywords": ["contactor", "motor contactor", "magnetic contactor", "power relay", "motor starter", "switchgear", "control panel", "din rail", "three phase", "load switching", "industrial control", "electrical panel", "hvac", "electrical"]
+  },
+  "toroidal-transformer": {
+    "context": "A thick donut shaped toroidal transformer with a mounting bolt through the centre and wires coming out. Used in audio amplifiers and power supplies for its low hum.",
+    "keywords": ["toroidal transformer", "toroid", "transformer", "mains transformer", "power transformer", "audio transformer", "amplifier transformer", "donut transformer", "step down", "power supply", "winding", "low hum", "mounting bolt", "electronics", "component"]
+  },
+  "lipo-battery": {
+    "context": "A flat lithium polymer pouch cell with two wires leading to a small plug. Powers drones, remote control models, phones and portable gadgets.",
+    "keywords": ["lipo battery", "lipo", "li-po", "lithium polymer", "pouch cell", "lithium battery", "rechargeable battery", "drone battery", "rc battery", "battery pack", "flat battery", "battery plug", "portable power", "electronics", "battery"]
+  },
+  "battery-holder": {
+    "context": "A plastic battery holder tray with two cylindrical cells side by side and two wires out of the end. Powers toys, remotes and hobby projects from standard cells.",
+    "keywords": ["battery holder", "battery box", "battery case", "aa holder", "aaa holder", "cell holder", "battery tray", "2xaa", "battery pack", "battery compartment", "battery clip", "power supply", "diy electronics", "electronics", "battery"]
+  },
+  "battery-snap": {
+    "context": "A nine volt battery snap: a small cap with one round and one hexagonal stud and two wires. Clips onto a 9V battery to power smoke alarms, pedals and hobby circuits.",
+    "keywords": ["battery snap", "9v snap", "9 volt snap", "battery clip", "9v clip", "battery connector", "snap connector", "pp3 clip", "battery lead", "9v battery", "battery cap", "power lead", "guitar pedal", "electronics", "battery"]
+  },
+  "battery-tester": {
+    "context": "A battery tester with a needle dial above a slot that holds a cell. Checks how much charge is left in household batteries before use.",
+    "keywords": ["battery tester", "battery checker", "battery meter", "cell tester", "charge tester", "battery level", "test battery", "voltage check", "battery gauge", "needle meter", "aa tester", "battery health", "power check", "electronics", "tester"]
+  },
+  "buck-converter": {
+    "context": "A small DC to DC converter board with a round coil in the middle and screw terminals at each end. Steps a higher voltage down to a lower one for chargers and projects.",
+    "keywords": ["buck converter", "dc-dc converter", "dc to dc", "step down converter", "step-down", "voltage converter", "power module", "regulator board", "switching regulator", "voltage step down", "power board", "smps", "inductor", "electronics", "power"]
+  },
+  "voltage-regulator": {
+    "context": "A three legged voltage regulator with a metal tab, a mounting hole and a V label. Holds a circuit at a steady supply voltage on power boards and adapters.",
+    "keywords": ["voltage regulator", "linear regulator", "regulator", "to-220", "ldo", "power regulator", "fixed regulator", "3 pin regulator", "power supply", "heatsink tab", "steady voltage", "5v regulator", "power ic", "electronics", "component"]
+  },
+  "bridge-rectifier": {
+    "context": "A square bridge rectifier block with four legs and AC, plus and minus marks on top. Turns alternating current into direct current in power supplies and chargers.",
+    "keywords": ["bridge rectifier", "rectifier", "diode bridge", "full wave rectifier", "ac to dc", "rectifier bridge", "four diode", "power supply", "diode", "dc output", "mains power", "charger", "converter", "electronics", "component"]
+  },
+  "capacitor-bank": {
+    "context": "A row of three tall capacitors joined by a bus bar across their tops. Stores energy or corrects power factor in power supplies, inverters and electrical plant.",
+    "keywords": ["capacitor bank", "capacitors", "capacitor array", "energy storage", "power factor correction", "filter capacitors", "bulk capacitors", "electrolytic capacitor", "power supply", "inverter", "dc link", "bus bar", "electrical", "electronics", "component"]
+  },
+  "busbar": {
+    "context": "A flat metal bus bar with a row of evenly spaced bolt holes. Carries heavy current and shares power or earth connections inside switchboards and battery packs.",
+    "keywords": ["busbar", "bus bar", "copper bar", "earth bar", "ground bar", "neutral bar", "power distribution", "conductor", "switchboard", "distribution board", "battery busbar", "bolt holes", "high current", "electrical", "wiring"]
+  },
+  "din-rail": {
+    "context": "A length of top hat DIN rail with slotted mounting holes along its centre. Holds breakers, relays and terminal blocks in control panels and fuse boards.",
+    "keywords": ["din rail", "top hat rail", "35mm rail", "mounting rail", "rail", "control panel", "consumer unit", "fuse board", "breaker rail", "terminal rail", "enclosure", "panel building", "electrical panel", "electrical", "hardware"]
+  },
+  "slip-ring": {
+    "context": "A slip ring: a cylinder with stacked contact rings and wires out of each end. Passes power and signals across a rotating joint in turntables, cameras and wind turbines.",
+    "keywords": ["slip ring", "rotary joint", "rotating connector", "rotary union", "swivel connector", "commutator", "rotating joint", "continuous rotation", "turntable wiring", "pan tilt", "rotary electrical", "brush contact", "electronics", "connector"]
+  },
+  "rheostat": {
+    "context": "A wire wound rheostat: a coil of resistance wire with a sliding contact on a bar above it. Adjusts current by hand in labs, motor speed controls and old dimmers.",
+    "keywords": ["rheostat", "variable resistor", "slide rheostat", "sliding resistor", "wire wound resistor", "adjustable resistor", "resistance", "potentiometer", "current control", "lab equipment", "physics lab", "dimmer", "wiper", "electronics", "component"]
+  },
+  "decade-resistance-box": {
+    "context": "A decade resistance box with a row of dials on its lid and two terminals on top. Sets an exact resistance by hand when testing and calibrating circuits.",
+    "keywords": ["decade box", "decade resistance box", "resistance box", "resistor substitution box", "resistor box", "lab instrument", "test equipment", "calibration", "precision resistance", "dials", "binding posts", "bench equipment", "electronics lab", "electronics", "tester"]
+  },
+  "heating-cartridge": {
+    "context": "A cartridge heater: a short metal rod with two wires out of one end and heat waves above it. Heats 3D printer hot ends, molds and metal blocks.",
+    "keywords": ["cartridge heater", "heating cartridge", "heater cartridge", "heating element", "heater rod", "3d printer heater", "hot end", "hotend", "resistive heater", "heat", "heating", "thermal", "mold heater", "electronics", "component"]
+  },
+  "tube-socket": {
+    "context": "A vacuum tube socket with a ring of pin holes, a centre key and mounting ears. Holds valves in guitar amplifiers, hi-fi amps and vintage radios.",
+    "keywords": ["tube socket", "valve socket", "vacuum tube socket", "octal socket", "noval socket", "valve base", "tube amp", "valve amp", "guitar amplifier", "vintage radio", "hi-fi", "pin holes", "chassis mount", "electronics", "component"]
+  },
+  "shield-can": {
+    "context": "A small metal shield can with vent holes, soldered onto a circuit board. Covers radio and processor sections of phones and routers to block interference.",
+    "keywords": ["shield can", "rf shield", "emi shield", "shielding can", "shield cover", "pcb shield", "metal can", "faraday cage", "interference shield", "board shield", "radio module", "emc", "circuit board", "electronics", "component"]
+  },
+  "slot-optical-sensor": {
+    "context": "A U shaped slotted optical sensor with a gap between two uprights and legs below. Detects when something passes through the slot, as in encoders, printers and end stops.",
+    "keywords": ["slot sensor", "slotted optical switch", "photo interrupter", "photointerrupter", "optical switch", "opto interrupter", "beam break", "optical endstop", "encoder sensor", "position sensor", "infrared sensor", "u sensor", "optocoupler", "electronics", "sensor"]
+  },
+  "female-header": {
+    "context": "A female pin header: a strip with a row of square sockets on top and pins below. Takes jumper wires and plug-in boards on development and prototyping boards.",
+    "keywords": ["female header", "pin header", "header socket", "socket header", "female connector", "pin socket", "header strip", "breadboard", "jumper wire", "prototyping", "0.1 inch header", "stacking header", "development board", "electronics", "connector"]
+  },
+  "jumper-cap": {
+    "context": "A small jumper cap bridging two pins on a header strip. Sets options and configurations on circuit boards, hard drives and motherboards.",
+    "keywords": ["jumper cap", "jumper", "shunt", "jumper shunt", "jumper block", "header jumper", "pin jumper", "configuration", "bridge pins", "motherboard jumper", "short pins", "settings", "circuit board", "electronics", "connector"]
+  },
+  "wire-to-board-connector": {
+    "context": "A small keyed plastic plug with a latch on top and a row of wires entering its back. Links batteries, fans, sensors and speakers to circuit boards.",
+    "keywords": ["wire to board connector", "wire connector", "board connector", "crimp housing", "pcb connector", "cable connector", "latching connector", "keyed plug", "battery connector", "fan connector", "2 pin connector", "3 pin connector", "crimp", "electronics", "connector"]
+  },
+  "banana-plug": {
+    "context": "A banana plug with a grip body, a cable and a sprung pin tip. Used on test leads, lab power supplies and speaker wires.",
+    "keywords": ["banana plug", "4mm plug", "banana jack", "test lead", "multimeter lead", "probe plug", "binding post", "speaker plug", "speaker wire", "lab lead", "power supply lead", "spring pin", "test equipment", "electronics", "connector"]
+  },
+  "bnc-connector": {
+    "context": "A BNC plug with a bayonet collar and its locking slot, a body and a cable. Connects oscilloscopes, test gear, CCTV cameras and RF equipment.",
+    "keywords": ["bnc connector", "bnc", "bnc plug", "coax connector", "coaxial connector", "bayonet connector", "rf connector", "oscilloscope", "scope probe", "cctv connector", "video connector", "test equipment", "twist lock", "electronics", "connector"]
+  },
+  "test-hook-clip": {
+    "context": "A test hook clip: a pen shaped grabber with a thin wire hook out of its tip. Grips component legs and chip pins during testing and measurement.",
+    "keywords": ["test hook", "test clip", "hook clip", "grabber", "probe clip", "ic clip", "mini grabber", "test probe", "hook probe", "logic analyser", "logic analyzer", "multimeter accessory", "measurement", "electronics", "tester"]
+  },
+  "spade-terminal": {
+    "context": "A crimp spade terminal with a forked tip, a barrel and a wire. Fits under screw terminals on switches, terminal blocks and car wiring.",
+    "keywords": ["spade terminal", "fork terminal", "spade connector", "u terminal", "crimp terminal", "wire terminal", "insulated terminal", "crimp connector", "screw terminal", "automotive wiring", "car wiring", "wire end", "crimping", "electrical", "connector"]
+  },
+  "butt-splice-connector": {
+    "context": "A butt splice connector: a short tube with a wire entering each end, crimped in the middle. Joins two wires end to end in car, marine and household wiring.",
+    "keywords": ["butt splice", "butt connector", "splice connector", "crimp connector", "inline connector", "wire joint", "wire splice", "join wires", "wire repair", "crimp splice", "automotive wiring", "marine wiring", "crimping", "electrical", "connector"]
+  },
+  "bullet-connector": {
+    "context": "A pair of male and female bullet crimp connectors about to join. Used for quick disconnects on motors, batteries, speakers and car wiring.",
+    "keywords": ["bullet connector", "bullet plug", "male and female", "quick disconnect", "crimp connector", "rc connector", "motor connector", "gold bullet", "wire connector", "plug and socket", "speaker connector", "car wiring", "crimping", "electrical", "connector"]
+  },
+  "circular-connector": {
+    "context": "A round multi-pin connector face with a key and a threaded coupling ring. Used in aviation, military, industrial and outdoor equipment where plugs must lock tight.",
+    "keywords": ["circular connector", "round connector", "multi pin connector", "mil spec connector", "aviation plug", "aviation connector", "panel connector", "threaded connector", "locking connector", "industrial connector", "m12 connector", "waterproof connector", "sensor connector", "electronics", "connector"]
+  },
+  "micro-usb-connector": {
+    "context": "A micro USB plug with a small trapezoid metal tip, a grip and a short cable. Charges and connects older phones, power banks and small gadgets.",
+    "keywords": ["micro usb", "micro-usb", "micro usb plug", "micro b", "usb plug", "usb cable", "phone charger", "charging cable", "charger plug", "android charger", "data cable", "power bank cable", "usb connector", "electronics", "connector"]
+  },
+  "usb-type-b-connector": {
+    "context": "A USB type B plug with a square metal tip with bevelled top corners and a cable. Connects printers, scanners, audio interfaces and some lab gear to a computer.",
+    "keywords": ["usb type b", "usb b", "usb-b", "type b plug", "printer cable", "printer usb", "square usb", "usb plug", "usb cable", "scanner cable", "audio interface", "usb connector", "peripheral cable", "electronics", "connector"]
+  },
+  "usb-type-a-connector": {
+    "context": "A USB type A plug with a flat rectangular metal tip, two square holes and a cable. The standard plug for computer ports, chargers, keyboards and flash drives.",
+    "keywords": ["usb type a", "usb a", "usb-a", "type a plug", "usb plug", "usb cable", "usb connector", "standard usb", "computer port", "flash drive plug", "charger cable", "data cable", "usb 3.0", "electronics", "connector"]
+  },
+  "fiber-optic-connector": {
+    "context": "A square fibre optic plug with a thin ferrule tip, a boot and a cable. Joins optical fibres in network racks, patch panels and broadband installations.",
+    "keywords": ["fiber optic connector", "fibre optic connector", "fiber connector", "optical connector", "sc connector", "lc connector", "ferrule", "optical fiber", "optical fibre", "fiber patch cord", "patch cable", "fiber network", "broadband", "networking", "connector"]
+  },
+  "keystone-jack": {
+    "context": "A snap-in keystone jack module with a network port on its face and wire slots on top. Clips into wall plates and patch panels to terminate network cable.",
+    "keywords": ["keystone jack", "keystone module", "rj45 jack", "network jack", "ethernet jack", "wall jack", "data socket", "cat5e", "cat6", "patch panel", "wall plate", "punch down", "structured cabling", "networking", "connector"]
+  },
+  "pcie-slot": {
+    "context": "A long PCI Express expansion slot with a short and a long section and a latch at one end. Holds graphics cards and other add-in cards on a motherboard.",
+    "keywords": ["pcie slot", "pci express", "pci-e", "expansion slot", "x16 slot", "graphics card slot", "gpu slot", "motherboard slot", "add in card", "expansion card", "card slot", "pc building", "motherboard", "hardware", "computer"]
+  },
+  "dimm-slot": {
+    "context": "A long memory slot with a key notch and clips at both ends. Holds RAM sticks on computer motherboards.",
+    "keywords": ["dimm slot", "ram slot", "memory slot", "memory socket", "ddr slot", "ddr4 slot", "ddr5 slot", "motherboard", "ram", "memory module", "upgrade ram", "pc building", "retention clip", "hardware", "computer"]
+  },
+  "twisted-pair-cable": {
+    "context": "Two insulated wires twisted around each other in a regular helix. Twisting cuts interference, so pairs like this carry data in network and phone cables.",
+    "keywords": ["twisted pair", "twisted pair cable", "twisted wires", "utp", "stp", "network cable", "ethernet cable", "cat5", "cat6", "data cable", "phone cable", "wire pair", "helix", "networking", "cable"]
+  },
+  "coiled-cable": {
+    "context": "A cable wound into a tight spring coil between two plugs. Stretches and springs back, as on phone handsets, keyboards and workshop tools.",
+    "keywords": ["coiled cable", "coiled cord", "spiral cable", "curly cord", "curly cable", "spring cable", "telephone cord", "handset cord", "stretch cable", "retractable cord", "keyboard cable", "extendable cable", "coil", "electronics", "cable"]
+  },
+  "y-splitter-cable": {
+    "context": "A Y splitter cable with one plug whose cable divides into two branches, each ending in a plug. Shares one output between two devices, such as headphones or fans.",
+    "keywords": ["y splitter", "y cable", "splitter cable", "y adapter", "cable splitter", "one to two", "dual output", "headphone splitter", "fan splitter", "power splitter", "audio splitter", "branch cable", "adapter", "electronics", "cable"]
+  },
+  "heat-shrink-tubing": {
+    "context": "A piece of heat shrink tube over a wire joint with heat waves rising above it. Shrinks tight when heated to insulate and protect soldered or crimped joints.",
+    "keywords": ["heat shrink", "heat shrink tubing", "heatshrink", "shrink tube", "shrink sleeve", "insulation", "wire insulation", "wire repair", "solder joint", "heat gun", "sleeving", "cable repair", "protect wires", "electrical", "cable"]
+  },
+  "braided-cable-sleeve": {
+    "context": "A braided sleeve with a woven crosshatch pattern covering a bundle of wires. Tidies and protects cables in PCs, cars and home offices.",
+    "keywords": ["braided sleeve", "braided cable sleeve", "cable sleeve", "expandable sleeving", "mesh sleeve", "wire loom", "cable management", "cable wrap", "cable cover", "woven sleeve", "pc cable sleeve", "tidy cables", "wire protection", "electrical", "cable"]
+  },
+  "cable-ferrule": {
+    "context": "A wire end ferrule: a metal tube with a plastic collar crimped onto the end of a stranded wire. Keeps strands together in screw terminals and push-in terminals.",
+    "keywords": ["cable ferrule", "wire ferrule", "bootlace ferrule", "end sleeve", "wire end sleeve", "crimp ferrule", "insulated ferrule", "stranded wire", "screw terminal", "terminal block", "crimping", "panel wiring", "wire end", "electrical", "connector"]
+  },
+  "cable-harness": {
+    "context": "A wiring harness: a tied bundle of wires that branches out to three connectors. Routes power and signals through cars, machines and appliances.",
+    "keywords": ["cable harness", "wire harness", "wiring harness", "wiring loom", "loom", "cable assembly", "cable bundle", "automotive wiring", "car wiring", "branch wiring", "connectors", "wire bundle", "cable routing", "electrical", "cable"]
+  },
+  "cable-comb": {
+    "context": "A cable comb plate with wires passing straight through its holes. Keeps wires parallel and neat when dressing cable bundles in racks and panels.",
+    "keywords": ["cable comb", "wire comb", "cable dressing tool", "cable organiser", "cable organizer", "cable management", "neat cables", "network rack", "patch cables", "wire bundle", "cable alignment", "data cabinet", "tidy wires", "networking", "cable"]
+  },
+  "wire-marker": {
+    "context": "A printed wire marker sleeve with a number, slipped over a wire. Labels wires so each one can be identified in panels, looms and installations.",
+    "keywords": ["wire marker", "wire label", "cable marker", "cable label", "wire number", "numbered sleeve", "marker sleeve", "cable id", "wire identification", "label sleeve", "panel wiring", "cable tag", "labelling", "labeling", "electrical", "cable"]
+  },
+  "ground-strap": {
+    "context": "A flat braided ground strap with a ring terminal at each end. Bonds engines, chassis, doors and equipment racks to earth.",
+    "keywords": ["ground strap", "earth strap", "grounding strap", "bonding strap", "braided strap", "earth bond", "earth braid", "ground braid", "ring terminal", "chassis ground", "engine ground", "bonding", "grounding", "earthing", "electrical"]
+  },
+  "grounding-clamp": {
+    "context": "A ground clamp fixed around a pipe, with a wire running from its bolt to an earth symbol. Connects plumbing and metal work to the earthing system of a building.",
+    "keywords": ["grounding clamp", "ground clamp", "earth clamp", "earthing clamp", "pipe clamp", "bonding clamp", "earth bonding", "ground wire", "earth symbol", "ground symbol", "water pipe", "electrical safety", "grounding", "earthing", "electrical"]
+  },
+  "cable-tester": {
+    "context": "A network cable tester made of a main unit and a remote, each with a jack and a row of lights. Checks that every wire in a network or phone cable is connected correctly.",
+    "keywords": ["cable tester", "network cable tester", "lan tester", "ethernet tester", "rj45 tester", "wire tester", "continuity tester", "cable checker", "wiremap", "network tool", "patch cable test", "remote unit", "installer tool", "networking", "tester"]
+  }
+}

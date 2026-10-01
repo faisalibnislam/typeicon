@@ -1,0 +1,482 @@
+[
+ {
+  "name": "polygon-apothem",
+  "category": "geometry",
+  "draw": "A regular hexagon with a center dot and a line from the center meeting the middle of one side at a right angle.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "polygon-diagonals",
+  "category": "geometry",
+  "draw": "A hexagon with all the diagonals from one corner fanning across it, splitting it into triangles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "osculating-circle",
+  "category": "geometry",
+  "draw": "A curving line with a circle touching it on the inside of the bend, a radius line drawn to the touch point.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "squaring-the-circle",
+  "category": "geometry",
+  "draw": "A circle and a square of equal area drawn overlapping with a shared center.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "apollonian-gasket",
+  "category": "geometry",
+  "draw": "A large circle packed with three touching circles and ever smaller circles filling the gaps between them.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "nested-squares",
+  "category": "geometry",
+  "draw": "A square with a smaller square inside turned 45 degrees and touching its midpoints, repeated three times inward.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "curve-stitching",
+  "category": "geometry",
+  "draw": "Two perpendicular lines joined by a series of straight lines whose envelope forms a smooth curve.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "geometric-translation",
+  "category": "geometry",
+  "draw": "A triangle and an identical copy shifted up and to the side, with a straight arrow between matching corners.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "geometric-dilation",
+  "category": "geometry",
+  "draw": "A small triangle and a larger copy with dashed lines from a center dot through their matching corners.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "glide-reflection",
+  "category": "geometry",
+  "draw": "A row of footprint shaped marks alternating on either side of a dashed center line, each mirrored.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "limacon",
+  "category": "geometry",
+  "draw": "A closed looping curve like a rounded heart with a smaller loop inside it, both joined at one point.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "involute-curve",
+  "category": "geometry",
+  "draw": "A circle with a taut line unwinding from it, its free end tracing a spiral like curve outward.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cubic-curve",
+  "category": "geometry",
+  "draw": "An S shaped curve rising through the center of crossed x and y axes, flattening at the middle.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "absolute-value-graph",
+  "category": "geometry",
+  "draw": "A sharp V shaped line on crossed x and y axes with its point at the origin.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "tangent-graph",
+  "category": "geometry",
+  "draw": "Repeating curves that sweep steeply upward between dashed vertical asymptote lines on crossed axes.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "euler-spiral",
+  "category": "geometry",
+  "draw": "An S shaped double spiral with a straight middle section curling ever tighter into a coil at each end.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "fermat-spiral",
+  "category": "geometry",
+  "draw": "Two interleaved spiral arms winding out from a shared center, forming a double spiral.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "square-spiral",
+  "category": "geometry",
+  "draw": "A spiral made of straight line segments turning at right angles, growing longer at each turn.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "spiral-of-theodorus",
+  "category": "geometry",
+  "draw": "A spiral of right triangles joined at a shared center point, each one slightly larger, forming a snail shell.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "phyllotaxis-spiral",
+  "category": "geometry",
+  "draw": "Dots arranged in crossing spiral arms around a center, like the seed pattern of a sunflower head.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "tractrix",
+  "category": "geometry",
+  "draw": "A curve starting high near a vertical line and sweeping down and outward to approach a horizontal line.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "nephroid",
+  "category": "geometry",
+  "draw": "A kidney shaped closed curve with two cusps pointing inward from each side.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "epicycloid",
+  "category": "geometry",
+  "draw": "A small circle rolling around the outside of a larger circle, tracing a curve with five sharp cusps.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "conical-spiral",
+  "category": "geometry",
+  "draw": "A spiral that winds upward around an invisible cone, wide at the bottom and narrowing to a point at the top.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "penrose-tiling",
+  "category": "geometry",
+  "draw": "A tiling of kite and dart shaped pieces meeting around a central five pointed star arrangement.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "rhombille-tiling",
+  "category": "geometry",
+  "draw": "Hexagons each split into three rhombuses, making a pattern of stacked cube illusions.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "octagon-square-tiling",
+  "category": "geometry",
+  "draw": "A tiling of regular octagons with small squares filling the gaps between them.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "trihexagonal-tiling",
+  "category": "geometry",
+  "draw": "A tiling of hexagons separated by small triangles, forming a star of lines pattern.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cairo-pentagonal-tiling",
+  "category": "geometry",
+  "draw": "A tiling of irregular pentagons arranged in pairs at right angles, like a paved street.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "truchet-tiles",
+  "category": "geometry",
+  "draw": "A square grid of tiles each holding two quarter circle arcs in corners, joining into meandering curves.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "islamic-geometric-pattern",
+  "category": "geometry",
+  "draw": "An interlaced eight pointed star with a surrounding square lattice of straps, like a tiled rosette.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "aperiodic-monotile",
+  "category": "geometry",
+  "draw": "Several identical hat shaped polygon tiles fitted together in a non repeating patch.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "fish-scale-pattern",
+  "category": "geometry",
+  "draw": "Rows of overlapping semicircle scallops stacked in offset layers, like fish scales or roof shingles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "basketweave-pattern",
+  "category": "geometry",
+  "draw": "Pairs of parallel rectangles alternating between horizontal and vertical in a checkerboard layout.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "pentomino",
+  "category": "geometry",
+  "draw": "Five equal squares joined edge to edge into an irregular cross like block shape.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "hexaflexagon",
+  "category": "geometry",
+  "draw": "A flat hexagon folded from paper, divided into six triangles with alternating shaded faces.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "dragon-curve",
+  "category": "geometry",
+  "draw": "A single fractal line of short right angle turns folding into a curled dragon shaped outline.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cantor-set",
+  "category": "geometry",
+  "draw": "Stacked horizontal bars, each row splitting the one above into two with the middle third removed.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "menger-sponge",
+  "category": "geometry",
+  "draw": "A cube in three quarter view with a square hole punched through the center of each face and smaller holes around it.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "pythagoras-tree",
+  "category": "geometry",
+  "draw": "A fractal tree built from squares, each topped by a right triangle supporting two smaller squares.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "sierpinski-carpet",
+  "category": "geometry",
+  "draw": "A square with the middle ninth removed, and each remaining square having its own middle removed.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "h-tree-fractal",
+  "category": "geometry",
+  "draw": "An H shape with smaller H shapes at each of its four tips, repeated two levels deep.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "borromean-rings",
+  "category": "geometry",
+  "draw": "Three interlocking circles overlapping in a triangle arrangement, each passing over one ring and under the other.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "hopf-link",
+  "category": "geometry",
+  "draw": "Two circles linked together like a pair of chain links, each passing through the other.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triskelion",
+  "category": "geometry",
+  "draw": "Three curved spiral arms radiating from a shared center, each ending in a small coil.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "kanizsa-triangle",
+  "category": "geometry",
+  "draw": "Three black circles with wedges cut out arranged so the gaps suggest a bright white triangle between them.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "muller-lyer-illusion",
+  "category": "geometry",
+  "draw": "Two equal horizontal lines, one with inward pointing arrowheads and one with outward pointing fins.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "ebbinghaus-illusion",
+  "category": "geometry",
+  "draw": "Two equal center circles, one surrounded by large circles and one surrounded by small circles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cafe-wall-illusion",
+  "category": "geometry",
+  "draw": "Rows of alternating dark and light bricks offset from each other so the straight grout lines look tilted.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "hering-illusion",
+  "category": "geometry",
+  "draw": "Two straight parallel lines crossing a fan of radiating lines so they appear to bow outward.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "spherical-coordinates",
+  "category": "geometry",
+  "draw": "A sphere with a point on its surface, a line from the center to it and angle arcs from the vertical and horizontal axes.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "orthographic-views",
+  "category": "geometry",
+  "draw": "Front, top and side outlines of the same simple block shape arranged in an L layout with dashed alignment lines.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "delaunay-triangulation",
+  "category": "geometry",
+  "draw": "Scattered dots joined by straight lines into a mesh of irregular triangles.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "convex-hull",
+  "category": "geometry",
+  "draw": "Scattered dots with an outer polygon boundary stretched around them like a rubber band.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "riemann-sum",
+  "category": "geometry",
+  "draw": "A curve on axes with a row of rectangles beneath it whose tops touch the curve.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "area-under-curve",
+  "category": "geometry",
+  "draw": "A curve on crossed axes with the region between it and the x axis filled.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "function-mapping-diagram",
+  "category": "geometry",
+  "draw": "Two tall ovals holding dots, with arrows running from dots in the left oval to dots in the right oval.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "spherical-shell",
+  "category": "geometry",
+  "draw": "A sphere with a wedge cut away to reveal a thin hollow wall and an empty inside.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "sphere-in-cylinder",
+  "category": "geometry",
+  "draw": "A sphere fitting exactly inside a cylinder, touching its top, bottom and curved side.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "full-angle",
+  "category": "geometry",
+  "draw": "A single ray from a center dot with a circular arrow sweeping all the way around it, marking 360 degrees.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "cassini-oval",
+  "category": "geometry",
+  "draw": "A peanut shaped closed curve pinched in the middle, with two small focus dots inside its lobes.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "rhombitrihexagonal-tiling",
+  "category": "geometry",
+  "draw": "A central hexagon ringed by alternating squares and small triangles, part of a repeating tiling.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "pythagorean-tiling",
+  "category": "geometry",
+  "draw": "A tiling of large squares and small squares interlocking in a pinwheel offset, like a hopscotch paving.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "vicsek-fractal",
+  "category": "geometry",
+  "draw": "A plus shaped cross of five squares where each square is itself a smaller cross of five squares.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "ponzo-illusion",
+  "category": "geometry",
+  "draw": "Two converging railway lines with two equal horizontal bars, the upper bar looking longer.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "poggendorff-illusion",
+  "category": "geometry",
+  "draw": "A straight diagonal line interrupted by a vertical bar, its two visible parts appearing misaligned.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "jastrow-illusion",
+  "category": "geometry",
+  "draw": "Two identical curved arch shaped segments stacked one above the other, the lower one looking larger.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "hermann-grid-illusion",
+  "category": "geometry",
+  "draw": "A grid of filled squares separated by light lines, with faint grey dots suggested at the crossings.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "lattice-polygon",
+  "category": "geometry",
+  "draw": "A polygon drawn on a square grid of dots, each corner sitting exactly on a dot.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "four-color-map",
+  "category": "geometry",
+  "draw": "A square map split into irregular regions filled with four different patterns so no neighbors match.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "konigsberg-bridges",
+  "category": "geometry",
+  "draw": "A river splitting around two islands, joined to the banks and each other by seven short bridges.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "faces-edges-vertices",
+  "category": "geometry",
+  "draw": "A cube with one face shaded, one edge drawn thick and one corner marked with a dot.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "dual-polyhedron",
+  "category": "geometry",
+  "draw": "A wireframe cube with an octahedron inside whose corners touch the center of each cube face.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "polyiamond",
+  "category": "geometry",
+  "draw": "Four equal triangles joined edge to edge into an irregular zigzag strip shape.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "star-prism",
+  "category": "geometry",
+  "draw": "A five pointed star extruded into a thick three dimensional block, shown in perspective with side walls.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "kolam-pattern",
+  "category": "geometry",
+  "draw": "A square grid of dots with one continuous looping line weaving around them, as in South Indian threshold drawings.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "asanoha-pattern",
+  "category": "geometry",
+  "draw": "A six pointed star made of thin triangles radiating from a center, repeated as the Japanese hemp leaf pattern.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "euler-diagram",
+  "category": "geometry",
+  "draw": "A large circle containing a smaller circle inside it, with a third separate circle standing apart.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triple-venn-diagram",
+  "category": "geometry",
+  "draw": "Three overlapping circles arranged in a triangle, with the shared center region filled.",
+  "domain": "r2-shapes-geometry"
+ },
+ {
+  "name": "triangular-numbers",
+  "category": "geometry",
+  "draw": "Dots stacked into growing triangles: one dot, then three, then six, side by side.",
+  "domain": "r2-shapes-geometry"
+ }
+]

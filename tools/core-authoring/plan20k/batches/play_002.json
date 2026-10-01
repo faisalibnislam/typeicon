@@ -1,0 +1,482 @@
+[
+ {
+  "name": "die-face-one",
+  "category": "play",
+  "draw": "Rounded square die face with a single pip in the center.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "die-face-two",
+  "category": "play",
+  "draw": "Rounded square die face with two pips on the diagonal corners.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "die-face-three",
+  "category": "play",
+  "draw": "Rounded square die face with three pips along the diagonal.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "die-face-four",
+  "category": "play",
+  "draw": "Rounded square die face with four pips, one in each corner.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "die-face-six",
+  "category": "play",
+  "draw": "Rounded square die face with two columns of three pips.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-pair",
+  "category": "play",
+  "draw": "Two cubes in three quarter view, one tilted behind the other, showing pips on their faces.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-cup",
+  "category": "play",
+  "draw": "Tall leather shaker cup tipped on its side with two dice tumbling out of the mouth.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-tower",
+  "category": "play",
+  "draw": "Narrow upright tower with an open top and a ramp at the bottom where a die rolls out into a tray.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-tray",
+  "category": "play",
+  "draw": "Shallow hexagonal tray with raised walls seen from above with one die resting inside.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dice-bag",
+  "category": "play",
+  "draw": "Soft drawstring pouch cinched at the neck with a few dice peeking out of the top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "fudge-dice",
+  "category": "play",
+  "draw": "Cube showing a plus sign on its front face and a minus sign on its top face.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "long-die",
+  "category": "play",
+  "draw": "Long four sided stick die lying diagonally with pips on its visible long face.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "coin-flip",
+  "category": "play",
+  "draw": "Coin shown on edge in mid air above an open thumb with curved motion arcs around it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "drawing-straws",
+  "category": "play",
+  "draw": "Fist holding four straws upright with one noticeably shorter than the rest.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "draw-from-hat",
+  "category": "play",
+  "draw": "Upturned hat with folded paper slips poking out and one slip lifted above the brim.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "sudoku-grid",
+  "category": "play",
+  "draw": "Square nine by nine grid with thicker lines dividing three by three boxes and a few digits filled in.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "crossword-grid",
+  "category": "play",
+  "draw": "Square grid of cells with several black filled cells and a small clue number in a corner cell.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "nonogram-grid",
+  "category": "play",
+  "draw": "Grid with number clues along the top and left edges and some cells filled to form a picture.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "kakuro-grid",
+  "category": "play",
+  "draw": "Grid where some cells are split by a diagonal line holding clue numbers and the rest are empty boxes.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "mine-grid-puzzle",
+  "category": "play",
+  "draw": "Three by three grid of raised tiles with a flag on one tile, a round mine on another and a number on a third.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "matchstick-puzzle",
+  "category": "play",
+  "draw": "Matchsticks laid out forming a simple equation with one stick lifted and tilted.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "twisty-pyramid",
+  "category": "play",
+  "draw": "Triangular pyramid puzzle seen from the front with its face divided into smaller triangles.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "escape-room",
+  "category": "play",
+  "draw": "Closed door with a large combination padlock on it and a small puzzle piece on the frame.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "box-pushing-puzzle",
+  "category": "play",
+  "draw": "Top down grid with a small figure pushing a crate toward an X marked target cell.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "marble-run",
+  "category": "play",
+  "draw": "Zigzag track tower on a small base with a ball rolling down the ramps.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "arcade-button",
+  "category": "play",
+  "draw": "Large round push button in a raised ring bezel seen at a low three quarter angle.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "cocktail-arcade-table",
+  "category": "play",
+  "draw": "Low table cabinet with a screen set face up under its glass top and a joystick on each end.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "pinball-machine",
+  "category": "play",
+  "draw": "Pinball cabinet at three quarter view with a sloped playfield on legs and an upright backbox.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "air-hockey-table",
+  "category": "play",
+  "draw": "Rectangular table with goal slots at each short end, a center line and a round puck with a mallet.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "racing-wheel-controller",
+  "category": "play",
+  "draw": "Round steering wheel controller clamped to a desk edge with a small pedal pair below it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "motion-wand-controller",
+  "category": "play",
+  "draw": "Slim rectangular wand remote with a strap at its base and a circle button near the top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "vr-controller",
+  "category": "play",
+  "draw": "Handheld grip with a large tracking ring arching over the top and a thumbstick on its face.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "guitar-controller",
+  "category": "play",
+  "draw": "Toy guitar body with a row of five square fret buttons on the neck and a strum bar on the body.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "d-pad",
+  "category": "play",
+  "draw": "Plus shaped directional pad with a small triangle pointing out at the end of each arm.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "action-buttons",
+  "category": "play",
+  "draw": "Four round buttons arranged in a diamond pattern, each marked with a simple shape.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "game-disc-case",
+  "category": "play",
+  "draw": "Tall slim plastic case with a spine and a disc showing through a clear window on the front.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "virtual-pet",
+  "category": "play",
+  "draw": "Egg shaped keychain device with a small square screen and three buttons below, a ring at the top.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "racing-simulator-seat",
+  "category": "play",
+  "draw": "Bucket seat on a frame facing a steering wheel and a wide screen in front.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "laser-tag-vest",
+  "category": "play",
+  "draw": "Sleeveless vest with glowing round sensor pads on the chest and shoulders.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "coin-slot",
+  "category": "play",
+  "draw": "Rectangular coin door plate with a narrow slot and a coin entering it from above.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "arcade-basketball",
+  "category": "play",
+  "draw": "Arcade cabinet with a small hoop and backboard over an inclined ramp holding balls.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "platformer-game",
+  "category": "play",
+  "draw": "Small figure jumping in an arc between two raised block platforms.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "rhythm-game",
+  "category": "play",
+  "draw": "Three vertical lanes with note circles falling down toward a target line at the bottom.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "voxel-block",
+  "category": "play",
+  "draw": "Isometric cube with a jagged grass layer across the top edge and plain dirt sides.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tower-defense",
+  "category": "play",
+  "draw": "Small tower on a hill with a dashed range circle around it and a path curving past.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "battle-royale-zone",
+  "category": "play",
+  "draw": "Map square with a large dashed circle and a smaller solid circle inside it marking the shrinking zone.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "moba-map",
+  "category": "play",
+  "draw": "Square map with three lanes: two along the edges and one diagonal, and a base dot in opposite corners.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "match-three",
+  "category": "play",
+  "draw": "Three by three grid of gem shapes with three matching gems in a row highlighted and a swap arrow.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "snake-game",
+  "category": "play",
+  "draw": "Pixel snake made of square segments bending around a grid toward a single square food dot.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "brick-breaker",
+  "category": "play",
+  "draw": "Rows of bricks at the top, a small ball in the middle and a flat paddle at the bottom.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "endless-runner",
+  "category": "play",
+  "draw": "Figure running forward with a small hurdle ahead and a speed line trailing behind.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "visual-novel",
+  "category": "play",
+  "draw": "Wide dialog box at the bottom of a screen frame with a character bust silhouette above it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "city-builder-game",
+  "category": "play",
+  "draw": "Isometric grid tile with small block buildings of different heights on it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "dungeon-map",
+  "category": "play",
+  "draw": "Top down map of square rooms joined by narrow corridors with a door gap in one wall.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "strategy-map",
+  "category": "play",
+  "draw": "Map square with two small flags and a bold curved movement arrow between them.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "space-shooter",
+  "category": "play",
+  "draw": "Small arrow shaped ship at the bottom firing dashes upward toward a row of blocky targets.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "stealth-game",
+  "category": "play",
+  "draw": "Crouching figure behind a crate with a triangular vision cone sweeping past above it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "fighting-game",
+  "category": "play",
+  "draw": "Two health bars across the top of a frame with two facing figures in fighting stances below.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "bubble-shooter",
+  "category": "play",
+  "draw": "Small cannon at the bottom aiming a dotted line up at a cluster of round bubbles.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "clicker-game",
+  "category": "play",
+  "draw": "Large round button with a pointer cursor pressing it and a small plus one floating up.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "text-adventure",
+  "category": "play",
+  "draw": "Screen frame with a prompt symbol and a blinking cursor line below a small compass rose.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "level-select",
+  "category": "play",
+  "draw": "Winding dotted path linking round level nodes with a star over the last node.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "respawn",
+  "category": "play",
+  "draw": "Person silhouette inside a circular arrow that loops almost all the way around.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "save-point",
+  "category": "play",
+  "draw": "Glowing crystal floating above a short stone pedestal with small sparkles around it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "quest-marker",
+  "category": "play",
+  "draw": "Bold exclamation mark floating above a small diamond shaped marker on the ground.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "skill-tree",
+  "category": "play",
+  "draw": "Tree of round nodes linked by lines branching upward from one root node, some filled.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "crafting-bench",
+  "category": "play",
+  "draw": "Wooden workbench with a grid pattern on its top and a hammer lying across it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "pixel-sprite",
+  "category": "play",
+  "draw": "Small blocky person figure built from square pixels with a stepped outline.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "sprite-sheet",
+  "category": "play",
+  "draw": "Grid of four frames each holding the same small figure in a different walking pose.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "hitbox",
+  "category": "play",
+  "draw": "Simple figure outline surrounded by a dashed rectangle with corner handles.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "versus-badge",
+  "category": "play",
+  "draw": "Circle split by a zigzag lightning line with a bold V S across the middle.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "item-hotbar",
+  "category": "play",
+  "draw": "Horizontal row of five square item slots with one slot highlighted and a small item inside.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "character-select",
+  "category": "play",
+  "draw": "Two by three grid of portrait squares with a pointer cursor over one.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "cooldown",
+  "category": "play",
+  "draw": "Rounded square ability icon with a pie shaped shaded sweep covering part of it.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "tournament-bracket",
+  "category": "play",
+  "draw": "Bracket lines joining four slots into two and then into one final slot on the right.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "fuse-bomb",
+  "category": "play",
+  "draw": "Round cartoon bomb with a short neck and a curling lit fuse with a spark.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "mystery-box",
+  "category": "play",
+  "draw": "Cube box in three quarter view with a big question mark on its front face.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "grappling-hook",
+  "category": "play",
+  "draw": "Three pronged hook with curved tines and a coiled rope tied to its shank.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "game-master-screen",
+  "category": "play",
+  "draw": "Three panel folding screen standing upright in a zigzag with a die icon on the center panel.",
+  "domain": "games-and-play"
+ },
+ {
+  "name": "battle-mat",
+  "category": "play",
+  "draw": "Square mat with a grid of lines and a small round based miniature standing on one cell.",
+  "domain": "games-and-play"
+ }
+]

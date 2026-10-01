@@ -1,0 +1,482 @@
+[
+ {
+  "name": "cyrillic-script",
+  "category": "learning",
+  "draw": "Cyrillic capital letter zhe, a vertical stem with mirrored K-shaped arms on both sides.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "greek-script",
+  "category": "learning",
+  "draw": "Greek capital omega and lowercase alpha side by side.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "arabic-script",
+  "category": "learning",
+  "draw": "Arabic letter ain drawn as an open curve with a tail sweeping below the line.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "hebrew-script",
+  "category": "learning",
+  "draw": "Hebrew letter aleph with its diagonal stroke and two short arms.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "devanagari-script",
+  "category": "learning",
+  "draw": "Devanagari letter a with the characteristic flat headline bar across the top.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "bengali-script",
+  "category": "learning",
+  "draw": "Bengali letter a hanging from a flat top bar with its looped body.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "tamil-script",
+  "category": "learning",
+  "draw": "Tamil letter a with its rounded loops and a vertical stroke on the right.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "thai-script",
+  "category": "learning",
+  "draw": "Thai letter ko kai with its small head loop and rounded arch.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "hangul-script",
+  "category": "learning",
+  "draw": "Korean hangul syllable han built from its stacked consonant and vowel strokes.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "chinese-character",
+  "category": "learning",
+  "draw": "Chinese character wen, meaning writing, with its dot, bar and crossing strokes.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "hiragana",
+  "category": "learning",
+  "draw": "Japanese hiragana letter a with its crossing strokes and round loop.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "katakana",
+  "category": "learning",
+  "draw": "Japanese katakana letter a with its angular hooked strokes.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "georgian-script",
+  "category": "learning",
+  "draw": "Georgian letter an with its rounded curling form.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "armenian-script",
+  "category": "learning",
+  "draw": "Armenian capital letter ayb with its two stems joined by a curve at the bottom.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "ethiopic-script",
+  "category": "learning",
+  "draw": "Ethiopic syllable a with its three legs under a short top bar.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "gujarati-script",
+  "category": "learning",
+  "draw": "Gujarati letter a, a rounded form with no top bar and a curl on the right.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "gurmukhi-script",
+  "category": "learning",
+  "draw": "Gurmukhi letter ura hanging from a flat headline with its open curved body.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "telugu-script",
+  "category": "learning",
+  "draw": "Telugu letter a with its rounded body and small tick mark on top.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "kannada-script",
+  "category": "learning",
+  "draw": "Kannada letter a with its rounded loops and short hooked top stroke.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "malayalam-script",
+  "category": "learning",
+  "draw": "Malayalam letter a made of joined round loops in a row.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "sinhala-script",
+  "category": "learning",
+  "draw": "Sinhala letter a with its round curling body and upward tail.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "khmer-script",
+  "category": "learning",
+  "draw": "Khmer letter ka with its two small rounded arches and hooked foot.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "burmese-script",
+  "category": "learning",
+  "draw": "Burmese letter ka drawn as a circle open at the bottom with a small inner curl.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "tibetan-script",
+  "category": "learning",
+  "draw": "Tibetan letter ka hanging from a short top bar with its angled legs.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "runic-script",
+  "category": "learning",
+  "draw": "Single rune fehu, a vertical stem with two short strokes angled up to the right.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "morse-alphabet",
+  "category": "learning",
+  "draw": "Small chart of letters A B C each followed by its pattern of dots and dashes.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "essay",
+  "category": "learning",
+  "draw": "Page with a centered title line and indented paragraph blocks below.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "anagram",
+  "category": "learning",
+  "draw": "Row of letter tiles with a curved swap arrow between two of them.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "etymology",
+  "category": "learning",
+  "draw": "Word block on top with thin roots branching down beneath it.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "plot-diagram",
+  "category": "learning",
+  "draw": "Mountain-shaped story arc with dots marking beginning, peak and end.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "word-of-the-day",
+  "category": "learning",
+  "draw": "Calendar page with the letters Aa in the center.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "phonics",
+  "category": "learning",
+  "draw": "Letter A beside an apple with a small sound wave between them.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "braille-slate",
+  "category": "learning",
+  "draw": "Hinged metal frame with rows of small cell windows and a pointed stylus beside it.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "braille-writer",
+  "category": "learning",
+  "draw": "Compact typewriter-like machine with six keys, a space bar and paper rolled at the top.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "syllable-blocks",
+  "category": "learning",
+  "draw": "Word split into three joined blocks separated by dots.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "vowels",
+  "category": "learning",
+  "draw": "Letters A E I O U in a row with a small bar under them.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "word-family",
+  "category": "learning",
+  "draw": "House shape with a word ending on the roof and three word lines in its windows.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "book-report",
+  "category": "learning",
+  "draw": "Sheet with a small book drawing at the top and paragraph lines below.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "punctuation-marks",
+  "category": "learning",
+  "draw": "Period, comma, question mark and exclamation mark side by side.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "sand-tray",
+  "category": "learning",
+  "draw": "Shallow tray of sand with a fingertip tracing a letter shape in it.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "sandpaper-letter",
+  "category": "learning",
+  "draw": "Small board with one textured letter shape raised on its face.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "class-ring",
+  "category": "learning",
+  "draw": "Chunky ring with a large oval stone and a small mortarboard on the side.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "yearbook",
+  "category": "learning",
+  "draw": "Thick hardcover book with a laurel wreath emblem and a mortarboard on the cover.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "honor-cord",
+  "category": "learning",
+  "draw": "Braided cord looped in a U with tassels at both ends.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "academic-hood",
+  "category": "learning",
+  "draw": "Folded hood with a velvet trim band, seen hanging from the back of the shoulders.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "diploma-handover",
+  "category": "learning",
+  "draw": "Two hands passing a rolled diploma tied with a ribbon between them.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "alumni",
+  "category": "learning",
+  "draw": "Three heads with mortarboards standing in a row.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "honor-roll",
+  "category": "learning",
+  "draw": "Unrolled scroll with a star at the top and a list of name lines.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "doctoral-tam",
+  "category": "learning",
+  "draw": "Soft round velvet cap with a puffed crown and a tassel hanging off the side.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "diploma-cover",
+  "category": "learning",
+  "draw": "Open folder with a crest on the left and a certificate on the right.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "commencement-speech",
+  "category": "learning",
+  "draw": "Lectern with a mortarboard resting on top and a microphone on a short neck.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "framed-diploma",
+  "category": "learning",
+  "draw": "Certificate with a ribbon seal inside a picture frame hanging from a nail.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "academic-transcript",
+  "category": "learning",
+  "draw": "Document with a table of course lines, a grade column and a round seal at the bottom.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "video-lecture",
+  "category": "learning",
+  "draw": "Screen showing a small teacher figure beside a mini board with a play button below.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "micro-credential",
+  "category": "learning",
+  "draw": "Hexagon badge with two ribbon tails and a mortarboard in the center.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "homeschooling",
+  "category": "learning",
+  "draw": "House outline with a mortarboard sitting on the roof.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "tutoring",
+  "category": "learning",
+  "draw": "Two figures seated at a small table sharing one open book.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "lesson-plan",
+  "category": "learning",
+  "draw": "Clipboard with a numbered list and a small apple at the top.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "ai-tutor",
+  "category": "learning",
+  "draw": "Robot head with an antenna wearing a mortarboard.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "online-exam",
+  "category": "learning",
+  "draw": "Laptop screen showing answer checkboxes and a small clock in the corner.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "answer-sheet",
+  "category": "learning",
+  "draw": "Sheet with rows of small answer bubbles, a few filled in.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "multiple-choice",
+  "category": "learning",
+  "draw": "Four stacked options with letter circles A to D, one circle filled.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "fill-in-the-blank",
+  "category": "learning",
+  "draw": "Text line with an empty underlined gap in the middle.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "exam-hall",
+  "category": "learning",
+  "draw": "Top view of evenly spaced single desks in rows with a clock on the front wall.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "answer-key",
+  "category": "learning",
+  "draw": "Sheet with a key symbol in the corner and a column of letter answers.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "oral-exam",
+  "category": "learning",
+  "draw": "Student seated across a desk from an examiner with a speech bubble between them.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "proctor",
+  "category": "learning",
+  "draw": "Standing figure with a large eye symbol above rows of desks.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "exam-results",
+  "category": "learning",
+  "draw": "Opened envelope with a sheet sliding out showing a letter grade.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "graded-essay",
+  "category": "learning",
+  "draw": "Page of text lines with a circled score at the top and correction marks in the margin.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "lecture-hall",
+  "category": "learning",
+  "draw": "Tiered curved rows of seats rising toward the back and facing a small lectern.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "scholarship",
+  "category": "learning",
+  "draw": "Mortarboard floating above an open hand holding a coin.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "tuition-fee",
+  "category": "learning",
+  "draw": "Mortarboard with a price tag hanging from its tassel.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "enrollment-form",
+  "category": "learning",
+  "draw": "Clipboard form with a mortarboard at the top and a pencil across it.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "academic-calendar",
+  "category": "learning",
+  "draw": "Calendar page with a mortarboard in place of the date.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "seminar",
+  "category": "learning",
+  "draw": "Oval table seen from above with six chairs around it and papers on it.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "field-trip",
+  "category": "learning",
+  "draw": "Small bus with a pennant flag on top and a map pin above it.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "parent-teacher-meeting",
+  "category": "learning",
+  "draw": "Two adults facing a teacher across a desk with a report card on it.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "study-abroad",
+  "category": "learning",
+  "draw": "Mortarboard on top of a globe with a dotted airplane arc around it.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "vocational-training",
+  "category": "learning",
+  "draw": "Mortarboard sitting above a crossed wrench and screwdriver.",
+  "domain": "education-and-knowledge"
+ },
+ {
+  "name": "college-pennant",
+  "category": "learning",
+  "draw": "Long triangular felt pennant on a short stick with a letter on it.",
+  "domain": "education-and-knowledge"
+ }
+]

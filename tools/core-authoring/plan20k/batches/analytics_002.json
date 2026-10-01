@@ -1,0 +1,482 @@
+[
+ {
+  "name": "hypothesis-test",
+  "category": "analytics",
+  "draw": "Two overlapping bell curves side by side with a vertical dashed cutoff line between them.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "forest-plot",
+  "category": "analytics",
+  "draw": "Rows of small squares with horizontal whisker lines through them, crossed by one vertical reference line.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "mean-x-bar",
+  "category": "analytics",
+  "draw": "Letter x with a horizontal bar above it, the statistical symbol for sample mean.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "probability-tree",
+  "category": "analytics",
+  "draw": "Tree branching from a dot into two branches, each splitting into two more, with small fraction marks on the branches.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "outlier-point",
+  "category": "analytics",
+  "draw": "Tight cluster of dots with one lone dot far away ringed by a circle.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-sampling",
+  "category": "analytics",
+  "draw": "Large circle filled with dots and a smaller circle beside it holding a few of the same dots, joined by an arrow.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "likert-scale",
+  "category": "analytics",
+  "draw": "Row of five circles on a line, the middle one larger, with one circle filled to show a choice.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "nps-scale",
+  "category": "analytics",
+  "draw": "Horizontal bar divided into eleven small cells with a pointer marker above one near the right end.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "satisfaction-gauge",
+  "category": "analytics",
+  "draw": "Semicircular gauge with a sad face at the left end, a happy face at the right end and a needle pointing right.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "rating-distribution",
+  "category": "analytics",
+  "draw": "Five rows, each with a small star at the left and a horizontal bar of decreasing length.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "uptime-bars",
+  "category": "analytics",
+  "draw": "Long row of thin vertical tick bars with one or two shorter bars showing downtime.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "tally-marks",
+  "category": "analytics",
+  "draw": "Four vertical strokes crossed by one diagonal stroke, a five bar tally gate, with two more strokes beside it.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "tally-stick",
+  "category": "analytics",
+  "draw": "Long wooden stick with a row of notches cut into its top edge.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "quipu",
+  "category": "analytics",
+  "draw": "Horizontal main cord with several knotted cords hanging down, each cord showing a few knot bumps.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "census",
+  "category": "analytics",
+  "draw": "House outline beside a clipboard with a small person figure and tick lines on the sheet.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "demographics",
+  "category": "analytics",
+  "draw": "Three person figures of different sizes above a pie chart split into three slices.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "market-research",
+  "category": "analytics",
+  "draw": "Magnifying glass over a small group of three person figures.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "audience-segments",
+  "category": "analytics",
+  "draw": "Circle split into three segments, each segment holding a small person head.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "customer-churn",
+  "category": "analytics",
+  "draw": "Ring of person figures with one figure stepping out through a gap in the ring, an arrow leading away.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "retention-curve",
+  "category": "analytics",
+  "draw": "Corner axis with a curve dropping steeply at first then flattening into a level line, a small person at the top left.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "user-journey",
+  "category": "analytics",
+  "draw": "Winding dotted path connecting three circles, starting at a person figure and ending at a flag.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "user-flow",
+  "category": "analytics",
+  "draw": "Three screen rectangles connected by arrows, one splitting into two branches.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "click-heatmap",
+  "category": "analytics",
+  "draw": "Web page outline with a cursor arrow and concentric blotches of heat around a button.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "scroll-depth",
+  "category": "analytics",
+  "draw": "Tall web page outline with a scrollbar and a horizontal dashed line marking how far down the page was read.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "session-recording",
+  "category": "analytics",
+  "draw": "Browser window with a dotted cursor trail inside and a small play button in the corner.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "bounce-rate",
+  "category": "analytics",
+  "draw": "Web page outline with a curved arrow hitting the page and bouncing back out.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "click-through-rate",
+  "category": "analytics",
+  "draw": "Cursor arrow clicking a link bar with a small percent sign beside it.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "page-views",
+  "category": "analytics",
+  "draw": "Web page outline with an eye symbol in its center.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "impressions",
+  "category": "analytics",
+  "draw": "Eye symbol above three small ascending bars.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "web-analytics",
+  "category": "analytics",
+  "draw": "Browser window outline containing a small bar chart and a rising line.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "mobile-analytics",
+  "category": "analytics",
+  "draw": "Smartphone outline with a small bar chart on its screen.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "location-analytics",
+  "category": "analytics",
+  "draw": "Map pin standing over a small bar chart on a folded map outline.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "ab-testing",
+  "category": "analytics",
+  "draw": "Two side by side panels labelled with a letter A and a letter B, with a check tick beneath one.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "okr",
+  "category": "analytics",
+  "draw": "Target with an arrow in the bullseye beside three short list lines with checkbox squares.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "metric-tree",
+  "category": "analytics",
+  "draw": "Top box branching down with right angled connectors into three boxes, each holding a tiny bar chart.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "scenario-analysis",
+  "category": "analytics",
+  "draw": "Line that splits at one point into three diverging dashed paths, upper, middle and lower.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "monte-carlo-simulation",
+  "category": "analytics",
+  "draw": "Many thin faint lines fanning out from one starting point across a chart like a spray of paths.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "swot-matrix",
+  "category": "analytics",
+  "draw": "Two by two grid with the letters S, W, O and T in the four cells.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "risk-matrix",
+  "category": "analytics",
+  "draw": "Three by three grid with shading getting darker toward the top right corner, axes on the left and bottom.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "chart-cycle-diagram",
+  "category": "analytics",
+  "draw": "Four curved arrow segments forming a circle, each segment pointing to the next.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "infographic",
+  "category": "analytics",
+  "draw": "Tall page with a small pie chart at the top, a row of bars in the middle and a person figure beside text lines.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "annual-report",
+  "category": "analytics",
+  "draw": "Bound report booklet with a small bar chart on its cover and a ribbon bookmark.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "live-data",
+  "category": "analytics",
+  "draw": "Pulse line running across a frame with a solid dot at its right end and small broadcast arcs around the dot.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "monitoring-wall",
+  "category": "analytics",
+  "draw": "Two by two wall of screens, each showing a different tiny chart, on a stand.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "metadata",
+  "category": "analytics",
+  "draw": "Document with a small tag attached by a string to its corner, the tag showing short lines.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "array-data",
+  "category": "analytics",
+  "draw": "Row of five adjoining square cells with tiny index numbers underneath.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "directed-graph",
+  "category": "analytics",
+  "draw": "Four circles connected by straight lines with arrowheads showing one way links.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "ring-buffer",
+  "category": "analytics",
+  "draw": "Circular ring divided into segments, some filled, with an arrow marking the write position.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "star-schema",
+  "category": "analytics",
+  "draw": "Central table box connected by straight lines to four smaller table boxes around it like a star.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "olap-cube",
+  "category": "analytics",
+  "draw": "Isometric cube divided into a 3 by 3 grid of smaller cubes on each visible face, one slice highlighted.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-warehouse",
+  "category": "analytics",
+  "draw": "Wide warehouse building with a pitched roof and a database cylinder in its doorway.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-silo",
+  "category": "analytics",
+  "draw": "Tall farm silo with a domed top, its body banded like stacked database discs.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "graph-database",
+  "category": "analytics",
+  "draw": "Database cylinder with a small node graph of three connected dots on its face.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-entry",
+  "category": "analytics",
+  "draw": "Form sheet with lines being filled in and a keyboard below it.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-snapshot",
+  "category": "analytics",
+  "draw": "Database cylinder inside camera viewfinder corner brackets.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-collection",
+  "category": "analytics",
+  "draw": "Clipboard with a checklist and small dots flowing into its top clip.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-split",
+  "category": "analytics",
+  "draw": "One table on the left with arrows dividing into a larger and a smaller table on the right.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "missing-data",
+  "category": "analytics",
+  "draw": "Table grid with one cell drawn dashed and a small question mark inside it.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "pivot-table",
+  "category": "analytics",
+  "draw": "Table grid with a bold header row and column and a curved two way arrow at the top left corner.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "freeze-panes",
+  "category": "analytics",
+  "draw": "Spreadsheet grid with a thick line locking the top row and first column, a small snowflake in the corner.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "merge-cells",
+  "category": "analytics",
+  "draw": "Row of three cells where the inner borders have been removed to form one wide cell, with arrows pointing inward.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "split-cells",
+  "category": "analytics",
+  "draw": "One wide cell being divided by a new vertical line with two arrows pointing outward.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "conditional-formatting",
+  "category": "analytics",
+  "draw": "Column of table cells with bars of different lengths inside them and shading on some cells.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "table-row",
+  "category": "analytics",
+  "draw": "Table grid with one full horizontal row highlighted solid.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "table-column",
+  "category": "analytics",
+  "draw": "Table grid with one full vertical column highlighted solid.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "transpose-table",
+  "category": "analytics",
+  "draw": "Tall one column table and a wide one row table with a curved arrow swapping between them.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "spreadsheet-cell",
+  "category": "analytics",
+  "draw": "Grid with one selected cell drawn in a bold border and a small square fill handle at its lower right corner.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "workbook-tabs",
+  "category": "analytics",
+  "draw": "Spreadsheet grid above a row of three small tab shapes at the bottom, the first tab raised.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "sort-alphabetical",
+  "category": "analytics",
+  "draw": "Letters A and Z stacked in a column beside a vertical arrow.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "sort-numeric",
+  "category": "analytics",
+  "draw": "Numbers 1 and 9 stacked in a column beside a vertical arrow.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-flow-diagram",
+  "category": "analytics",
+  "draw": "Circle process node connected by arrows to a rectangle source and an open ended rectangle data store.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "etl-process",
+  "category": "analytics",
+  "draw": "Three boxes in a row joined by arrows: cylinder source, gear in the middle and cylinder target.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-integration",
+  "category": "analytics",
+  "draw": "Two lines from separate small cylinders merging into one line that enters a larger cylinder.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-migration",
+  "category": "analytics",
+  "draw": "Database cylinder on the left, arrow across, database cylinder on the right.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-sync",
+  "category": "analytics",
+  "draw": "Two database cylinders side by side with two circular arrows between them.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-aggregation",
+  "category": "analytics",
+  "draw": "Many small dots on the left converging through lines into one larger dot on the right.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-ingestion",
+  "category": "analytics",
+  "draw": "Wide funnel on top of a database cylinder with dots dropping into the funnel.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-hub",
+  "category": "analytics",
+  "draw": "Central database cylinder with spokes connecting to four small circles around it.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "data-mesh",
+  "category": "analytics",
+  "draw": "Grid of small squares each connected to its neighbors by short lines, forming a woven mesh.",
+  "domain": "data-and-analytics"
+ },
+ {
+  "name": "batch-processing",
+  "category": "analytics",
+  "draw": "Stack of three boxes moving along an arrow into a gear.",
+  "domain": "data-and-analytics"
+ }
+]

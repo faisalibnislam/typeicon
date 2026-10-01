@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "greek-lowercase-delta",
+    "category": "scripts",
+    "draw": "Lowercase Greek delta (δ): a round bowl at the bottom with a hooked stroke curling up and over from its top left like a small ascender."
+  },
+  {
+    "name": "greek-lowercase-omega",
+    "category": "scripts",
+    "draw": "Lowercase Greek omega (ω): a wide rounded w made of two joined bowls open at the top."
+  },
+  {
+    "name": "greek-lowercase-sigma",
+    "category": "scripts",
+    "draw": "Lowercase Greek sigma (σ): a round bowl with a short straight stroke running out to the right from its top."
+  },
+  {
+    "name": "greek-final-sigma",
+    "category": "scripts",
+    "draw": "Greek final sigma (ς): a c shape whose lower end curls down into a small hook below the baseline."
+  },
+  {
+    "name": "greek-theta-symbol",
+    "category": "scripts",
+    "draw": "Greek theta symbol, the cursive theta (ϑ): a stroke rising in a tall loop on the left that sweeps over the top and down the right side into a small open hook."
+  },
+  {
+    "name": "greek-koppa",
+    "category": "scripts",
+    "draw": "Archaic Greek koppa (Ϙ): a round circle sitting on top of a short straight vertical stem."
+  },
+  {
+    "name": "greek-sampi",
+    "category": "scripts",
+    "draw": "Greek sampi (ϡ): a large curved stroke arching over and down to the lower left with two short parallel diagonal strokes hanging inside it."
+  },
+  {
+    "name": "greek-stigma",
+    "category": "scripts",
+    "draw": "Greek stigma (ϛ): a final sigma like c with a small tail flicking right from its top and a long hook curling below the baseline."
+  },
+  {
+    "name": "cyrillic-be",
+    "category": "scripts",
+    "draw": "Cyrillic capital Be (Б): a vertical stem with a flat top bar reaching right and a closed bowl at the lower right."
+  },
+  {
+    "name": "cyrillic-ghe",
+    "category": "scripts",
+    "draw": "Cyrillic capital Ghe (Г): a vertical stem with a single horizontal arm across the top to the right, like an upside down L."
+  },
+  {
+    "name": "cyrillic-ghe-with-upturn",
+    "category": "scripts",
+    "draw": "Cyrillic capital Ghe with upturn (Ukrainian) (Ґ): an upside down L whose top arm ends in a short upward tick at the right."
+  },
+  {
+    "name": "cyrillic-ghe-with-stroke",
+    "category": "scripts",
+    "draw": "Cyrillic capital Ghe with stroke (Ғ): an upside down L with a short horizontal bar crossing the stem at mid height."
+  },
+  {
+    "name": "cyrillic-de",
+    "category": "scripts",
+    "draw": "Cyrillic capital De (Д): a narrow frame with a slanted left side and upright right side standing on a wide base bar whose ends drop as two short feet."
+  },
+  {
+    "name": "cyrillic-i",
+    "category": "scripts",
+    "draw": "Cyrillic capital I (И): a mirrored N, two vertical stems joined by a diagonal running from bottom left to top right."
+  },
+  {
+    "name": "cyrillic-short-i",
+    "category": "scripts",
+    "draw": "Cyrillic capital Short I (Й): the mirrored N shape topped by a small curved breve."
+  },
+  {
+    "name": "cyrillic-el",
+    "category": "scripts",
+    "draw": "Cyrillic capital El (Л): a flat top bar on a straight right leg and a left leg that curves outward at the foot."
+  },
+  {
+    "name": "cyrillic-pe",
+    "category": "scripts",
+    "draw": "Cyrillic capital Pe (П): two vertical stems joined by a flat bar across the top, like an open doorway."
+  },
+  {
+    "name": "cyrillic-tse",
+    "category": "scripts",
+    "draw": "Cyrillic capital Tse (Ц): a squared U with a flat base whose lower right corner extends into a short descender tail."
+  },
+  {
+    "name": "cyrillic-che",
+    "category": "scripts",
+    "draw": "Cyrillic capital Che (Ч): a short left stem bending into a bar at mid height that joins a tall right stem, like an upside down h."
+  },
+  {
+    "name": "cyrillic-sha",
+    "category": "scripts",
+    "draw": "Cyrillic capital Sha (Ш): three vertical stems joined by a flat base, like a comb with three teeth pointing up."
+  },
+  {
+    "name": "cyrillic-shcha",
+    "category": "scripts",
+    "draw": "Cyrillic capital Shcha (Щ): the three pronged Sha with a short descender tail hanging from its lower right corner."
+  },
+  {
+    "name": "cyrillic-hard-sign",
+    "category": "scripts",
+    "draw": "Cyrillic capital Hard Sign (Ъ): a short top bar at the left joined to a vertical stem with a closed bowl at the lower right."
+  },
+  {
+    "name": "cyrillic-soft-sign",
+    "category": "scripts",
+    "draw": "Cyrillic capital Soft Sign (Ь): a plain vertical stem with a closed bowl at the lower right and nothing at the top."
+  },
+  {
+    "name": "cyrillic-yeru",
+    "category": "scripts",
+    "draw": "Cyrillic capital Yeru (Ы): a stem with a bowl at the lower right followed by a separate tall vertical bar on the right."
+  },
+  {
+    "name": "cyrillic-e",
+    "category": "scripts",
+    "draw": "Cyrillic capital E (Э): a backwards C opening to the left with a short horizontal bar across its middle."
+  },
+  {
+    "name": "cyrillic-yu",
+    "category": "scripts",
+    "draw": "Cyrillic capital Yu (Ю): a vertical stem on the left joined by a short bar to a tall oval on the right."
+  },
+  {
+    "name": "cyrillic-ya",
+    "category": "scripts",
+    "draw": "Cyrillic capital Ya (Я): a mirrored R: a bowl at the upper left, a stem on the right and a diagonal leg kicking out to the lower left."
+  },
+  {
+    "name": "cyrillic-yo",
+    "category": "scripts",
+    "draw": "Cyrillic capital Yo (Ё): an E with three horizontal arms topped by two dots side by side."
+  },
+  {
+    "name": "cyrillic-ukrainian-ie",
+    "category": "scripts",
+    "draw": "Cyrillic capital Ukrainian Ie (Є): a C opening to the right with a short horizontal bar across its middle."
+  },
+  {
+    "name": "cyrillic-yi",
+    "category": "scripts",
+    "draw": "Cyrillic capital Yi (Ukrainian) (Ї): a single vertical stem with two dots side by side above it."
+  },
+  {
+    "name": "cyrillic-dje",
+    "category": "scripts",
+    "draw": "Cyrillic capital Dje (Serbian) (Ђ): a T shaped top bar whose stem has a humped arm on the right that curves down into a hook below the baseline."
+  },
+  {
+    "name": "cyrillic-tshe",
+    "category": "scripts",
+    "draw": "Cyrillic capital Tshe (Serbian) (Ћ): a T shaped top bar whose stem has a humped arm on the right ending straight at the baseline, like an h."
+  },
+  {
+    "name": "cyrillic-lje",
+    "category": "scripts",
+    "draw": "Cyrillic capital Lje (Љ): the El shape joined on its right to a stem with a closed bowl at the lower right."
+  },
+  {
+    "name": "cyrillic-nje",
+    "category": "scripts",
+    "draw": "Cyrillic capital Nje (Њ): an H whose right stem carries a closed bowl at the lower right."
+  },
+  {
+    "name": "cyrillic-dzhe",
+    "category": "scripts",
+    "draw": "Cyrillic capital Dzhe (Џ): a squared U of two stems and a flat base with a short stem dropping from the centre of the base."
+  },
+  {
+    "name": "cyrillic-short-u",
+    "category": "scripts",
+    "draw": "Cyrillic capital Short U (Belarusian) (Ў): a y like shape with a short left arm meeting a long right stroke that sweeps into a tail, topped by a curved breve."
+  },
+  {
+    "name": "cyrillic-yat",
+    "category": "scripts",
+    "draw": "Historic Cyrillic capital Yat (Ѣ): a tall stem crossed near the top by a horizontal bar, with a closed bowl at the lower right."
+  },
+  {
+    "name": "cyrillic-en-with-descender",
+    "category": "scripts",
+    "draw": "Cyrillic capital En with descender (Kazakh) (Ң): an H whose lower right corner extends into a short descender tail."
+  },
+  {
+    "name": "cyrillic-big-yus",
+    "category": "scripts",
+    "draw": "Historic Cyrillic capital Big Yus (Ѫ): a small triangle on top of a wide horizontal bar, with a central stem and two splayed legs below the bar."
+  },
+  {
+    "name": "cyrillic-little-yus",
+    "category": "scripts",
+    "draw": "Historic Cyrillic capital Little Yus (Ѧ): a tall A shape with a short vertical stem hanging from the centre of its crossbar."
+  },
+  {
+    "name": "cyrillic-ksi",
+    "category": "scripts",
+    "draw": "Historic Cyrillic capital Ksi (Ѯ): a 3 like double bowl with a small check mark above and a tail curling below the baseline."
+  },
+  {
+    "name": "hebrew-bet",
+    "category": "scripts",
+    "draw": "Hebrew letter bet (ב): a squared backwards C open to the left, with a flat roof, a right wall and a base that juts slightly past the wall."
+  },
+  {
+    "name": "hebrew-gimel",
+    "category": "scripts",
+    "draw": "Hebrew letter gimel (ג): a narrow upright stroke with a small head at the top and a short foot kicking out to the lower left."
+  },
+  {
+    "name": "hebrew-dalet",
+    "category": "scripts",
+    "draw": "Hebrew letter dalet (ד): a wide flat roof that overhangs a single right leg dropping straight down, with a sharp top right corner."
+  },
+  {
+    "name": "hebrew-he",
+    "category": "scripts",
+    "draw": "Hebrew letter he (ה): a flat roof on a full right leg, with a shorter left leg floating below the roof leaving a gap at the top left."
+  },
+  {
+    "name": "hebrew-vav",
+    "category": "scripts",
+    "draw": "Hebrew letter vav (ו): a single vertical stroke with a small head tipping to the left at the top."
+  },
+  {
+    "name": "hebrew-zayin",
+    "category": "scripts",
+    "draw": "Hebrew letter zayin (ז): a vertical stroke topped by a short horizontal head that overhangs on both sides."
+  },
+  {
+    "name": "hebrew-het",
+    "category": "scripts",
+    "draw": "Hebrew letter het (ח): a flat roof resting on two full length legs with no gap, like a doorway."
+  },
+  {
+    "name": "hebrew-tet",
+    "category": "scripts",
+    "draw": "Hebrew letter tet (ט): a rounded cup open at the top whose left arm curls inward into a small hook."
+  },
+  {
+    "name": "hebrew-yod",
+    "category": "scripts",
+    "draw": "Hebrew letter yod (י): a small comma like stroke hanging from a tiny head."
+  },
+  {
+    "name": "hebrew-kaf",
+    "category": "scripts",
+    "draw": "Hebrew letter kaf (כ): a rounded backwards C open to the left, curved top and bottom strokes joined by a right curve."
+  },
+  {
+    "name": "hebrew-lamed",
+    "category": "scripts",
+    "draw": "Hebrew letter lamed (ל): a short stem rising high on the left that turns into a horizontal stroke and curves down into a hook on the right."
+  },
+  {
+    "name": "hebrew-mem",
+    "category": "scripts",
+    "draw": "Hebrew letter mem (מ): a squared shape with a flat base and right wall, a slanted left stroke and a small gap at the bottom left."
+  },
+  {
+    "name": "hebrew-nun",
+    "category": "scripts",
+    "draw": "Hebrew letter nun (נ): a narrow backwards C with a short roof, a right stem and a flat base extending left."
+  },
+  {
+    "name": "hebrew-samekh",
+    "category": "scripts",
+    "draw": "Hebrew letter samekh (ס): a closed rounded loop with a flat top bar overhanging slightly at the top left."
+  },
+  {
+    "name": "hebrew-ayin",
+    "category": "scripts",
+    "draw": "Hebrew letter ayin (ע): two upright strokes in a y shape, the right one long and curving down to the left into a tail along the base."
+  },
+  {
+    "name": "hebrew-pe",
+    "category": "scripts",
+    "draw": "Hebrew letter pe (פ): a rounded backwards C open to the left with a small curl hanging inward from its top left corner."
+  },
+  {
+    "name": "hebrew-tsadi",
+    "category": "scripts",
+    "draw": "Hebrew letter tsadi (צ): a slanted left stroke and a short right arm joined above a flat base that extends left."
+  },
+  {
+    "name": "hebrew-qof",
+    "category": "scripts",
+    "draw": "Hebrew letter qof (ק): a flat roof curving down on the right, with a separate long stem dropping below the baseline on the left."
+  },
+  {
+    "name": "hebrew-resh",
+    "category": "scripts",
+    "draw": "Hebrew letter resh (ר): a short roof on a single right leg with a smoothly rounded top right corner."
+  },
+  {
+    "name": "hebrew-shin",
+    "category": "scripts",
+    "draw": "Hebrew letter shin (ש): three upright arms joined at a curved base, spreading upward like a crown."
+  },
+  {
+    "name": "hebrew-tav",
+    "category": "scripts",
+    "draw": "Hebrew letter tav (ת): a flat roof on a right leg and a left leg that ends in a small foot kicking left."
+  },
+  {
+    "name": "hebrew-final-kaf",
+    "category": "scripts",
+    "draw": "Hebrew final kaf (ך): a short flat roof bending into a long vertical stem that drops well below the baseline."
+  },
+  {
+    "name": "hebrew-final-mem",
+    "category": "scripts",
+    "draw": "Hebrew final mem (ם): a closed square box with a flat base and a small notch at the top left corner."
+  },
+  {
+    "name": "hebrew-final-pe",
+    "category": "scripts",
+    "draw": "Hebrew final pe (ף): a roof with an inward curl at the left joined to a long right stem dropping below the baseline."
+  },
+  {
+    "name": "hebrew-final-tsadi",
+    "category": "scripts",
+    "draw": "Hebrew final tsadi (ץ): a short left stroke and a right arm joining a long straight stem that descends below the baseline."
+  },
+  {
+    "name": "arabic-ba",
+    "category": "scripts",
+    "draw": "Arabic letter ba (ب): a wide shallow bowl like a canoe open at the top, with one dot centred below it."
+  },
+  {
+    "name": "arabic-ta",
+    "category": "scripts",
+    "draw": "Arabic letter ta (ت): the shallow canoe shaped bowl with two dots side by side above it."
+  },
+  {
+    "name": "arabic-tha",
+    "category": "scripts",
+    "draw": "Arabic letter tha (ث): the shallow canoe shaped bowl with three dots in a small triangle above it."
+  },
+  {
+    "name": "arabic-jim",
+    "category": "scripts",
+    "draw": "Arabic letter jim (ج): a short top stroke folding back into a deep reversed C sweep below, with one dot inside the curve."
+  },
+  {
+    "name": "arabic-hah",
+    "category": "scripts",
+    "draw": "Arabic letter hah (ح): a short top stroke folding back into a deep reversed C sweep below, with no dots."
+  },
+  {
+    "name": "arabic-kha",
+    "category": "scripts",
+    "draw": "Arabic letter kha (خ): the folded top stroke and deep reversed C sweep with one dot above."
+  },
+  {
+    "name": "arabic-dal",
+    "category": "scripts",
+    "draw": "Arabic letter dal (د): a small angular hook: a short slanted stroke that bends at the bottom into a flat base running left."
+  },
+  {
+    "name": "arabic-dhal",
+    "category": "scripts",
+    "draw": "Arabic letter dhal (ذ): the small angular dal hook with one dot above it."
+  },
+  {
+    "name": "arabic-ra",
+    "category": "scripts",
+    "draw": "Arabic letter ra (ر): a small curved stroke like a large comma sweeping down to the left below the line."
+  },
+  {
+    "name": "arabic-zay",
+    "category": "scripts",
+    "draw": "Arabic letter zay (ز): the comma like ra stroke with one dot above it."
+  },
+  {
+    "name": "arabic-sin",
+    "category": "scripts",
+    "draw": "Arabic letter sin (س): three small upward teeth in a row that end on the left in a deep round bowl."
+  },
+  {
+    "name": "arabic-shin",
+    "category": "scripts",
+    "draw": "Arabic letter shin (ش): the three toothed sin with three dots in a small triangle above the teeth."
+  },
+  {
+    "name": "arabic-sad",
+    "category": "scripts",
+    "draw": "Arabic letter sad (ص): a flat closed loop lying on its side with a small tooth, ending on the left in a deep round bowl."
+  },
+  {
+    "name": "arabic-dad",
+    "category": "scripts",
+    "draw": "Arabic letter dad (ض): the sad shape of a flat side loop and deep bowl, with one dot above the loop."
+  },
+  {
+    "name": "arabic-tah",
+    "category": "scripts",
+    "draw": "Arabic letter tah (ط): a flat closed loop lying on the line with a tall straight stroke rising from its left end."
+  },
+  {
+    "name": "arabic-zah",
+    "category": "scripts",
+    "draw": "Arabic letter zah (ظ): the tah shape of a flat loop and tall upright stroke, with one dot above the loop."
+  },
+  {
+    "name": "arabic-ghayn",
+    "category": "scripts",
+    "draw": "Arabic letter ghayn (غ): a small open c shaped head on a large open curve that sweeps down and around below the line, with one dot above."
+  },
+  {
+    "name": "arabic-fa",
+    "category": "scripts",
+    "draw": "Arabic letter fa (ف): a small round loop on the right end of a long flat stroke that curls up at the left, with one dot above the loop."
+  },
+  {
+    "name": "arabic-qaf",
+    "category": "scripts",
+    "draw": "Arabic letter qaf (ق): a small round loop on top of a deep round bowl sweeping below the line, with two dots above."
+  },
+  {
+    "name": "arabic-kaf",
+    "category": "scripts",
+    "draw": "Arabic letter kaf (ك): a tall upright stroke on the left joined to a flat base that curls up at the right, with a small s like squiggle inside."
+  },
+  {
+    "name": "arabic-lam",
+    "category": "scripts",
+    "draw": "Arabic letter lam (ل): a tall straight stroke that curves at its foot into a deep round bowl rising back up on the left."
+  },
+  {
+    "name": "arabic-mim",
+    "category": "scripts",
+    "draw": "Arabic letter mim (م): a small closed round loop on the line with a straight tail dropping down beneath it."
+  },
+  {
+    "name": "arabic-nun",
+    "category": "scripts",
+    "draw": "Arabic letter nun (ن): a deep round open bowl like a cup with one dot above its centre."
+  },
+  {
+    "name": "arabic-heh",
+    "category": "scripts",
+    "draw": "Arabic letter heh (ه): a small rounded teardrop loop with a smaller loop folded inside it."
+  },
+  {
+    "name": "arabic-waw",
+    "category": "scripts",
+    "draw": "Arabic letter waw (و): a small round head loop with a tail curving down and to the left below the line."
+  },
+  {
+    "name": "arabic-ya",
+    "category": "scripts",
+    "draw": "Arabic letter ya (ي): a small curl at the top right dropping into a wide bowl that sweeps back to the right under the line, with two dots below."
+  },
+  {
+    "name": "arabic-alif-maqsura",
+    "category": "scripts",
+    "draw": "Arabic letter alif maqsura (ى): the ya shape of a top curl and wide sweeping bowl with no dots."
+  },
+  {
+    "name": "arabic-hamza",
+    "category": "scripts",
+    "draw": "Arabic hamza (ء): a small standalone hooked mark like a backwards c whose lower end flicks out into a short diagonal tail."
+  },
+  {
+    "name": "arabic-ta-marbuta",
+    "category": "scripts",
+    "draw": "Arabic ta marbuta (ة): a small closed round loop like heh with two dots side by side above it."
+  },
+  {
+    "name": "arabic-lam-alif",
+    "category": "scripts",
+    "draw": "Arabic lam alif ligature (لا): two tall strokes crossing in a V that join at a small loop at the base."
+  },
+  {
+    "name": "arabic-peh",
+    "category": "scripts",
+    "draw": "Arabic script letter peh (Persian, Urdu) (پ): the shallow canoe shaped bowl with three dots in a triangle below it."
+  },
+  {
+    "name": "arabic-tcheh",
+    "category": "scripts",
+    "draw": "Arabic script letter tcheh (Persian, Urdu) (چ): the folded top stroke and deep reversed C sweep of jim with three dots inside the curve."
+  },
+  {
+    "name": "arabic-jeh",
+    "category": "scripts",
+    "draw": "Arabic script letter jeh (Persian) (ژ): the comma like ra stroke with three dots in a triangle above it."
+  },
+  {
+    "name": "arabic-gaf",
+    "category": "scripts",
+    "draw": "Arabic script letter gaf (Persian, Urdu) (گ): a tall slanted stroke on the left joined to a flat base that curls up at the right, with a second short slanted bar parallel above the top."
+  },
+  {
+    "name": "hangul-giyeok",
+    "category": "scripts",
+    "draw": "Hangul consonant giyeok (ㄱ): a horizontal stroke across the top that turns sharply down at the right end into a vertical stroke."
+  },
+  {
+    "name": "hangul-digeut",
+    "category": "scripts",
+    "draw": "Hangul consonant digeut (ㄷ): a squared C of a top bar, a left upright and a bottom bar that reaches further right than the top."
+  },
+  {
+    "name": "hangul-rieul",
+    "category": "scripts",
+    "draw": "Hangul consonant rieul (ㄹ): three horizontal strokes joined by alternating right and left uprights, like a squared S."
+  },
+  {
+    "name": "hangul-bieup",
+    "category": "scripts",
+    "draw": "Hangul consonant bieup (ㅂ): two vertical stems joined by a middle crossbar and a closed bottom bar, like an open topped box with a shelf."
+  },
+  {
+    "name": "hangul-jieut",
+    "category": "scripts",
+    "draw": "Hangul consonant jieut (ㅈ): a horizontal top bar with an upside down V hanging from its centre."
+  },
+  {
+    "name": "hangul-chieut",
+    "category": "scripts",
+    "draw": "Hangul consonant chieut (ㅊ): the jieut shape of a top bar over an upside down V, with a short tick stroke above the bar."
+  },
+  {
+    "name": "hangul-kieuk",
+    "category": "scripts",
+    "draw": "Hangul consonant kieuk (ㅋ): the giyeok right angle with an extra short horizontal stroke through its middle."
+  },
+  {
+    "name": "hangul-pieup",
+    "category": "scripts",
+    "draw": "Hangul consonant pieup (ㅍ): a top bar and a longer bottom bar joined by two short vertical stems, like a small stool."
+  },
+  {
+    "name": "hangul-hieut",
+    "category": "scripts",
+    "draw": "Hangul consonant hieut (ㅎ): a short tick on top of a horizontal bar, sitting above a small circle."
+  },
+  {
+    "name": "hangul-ssanggiyeok",
+    "category": "scripts",
+    "draw": "Hangul double consonant ssanggiyeok (ㄲ): two small giyeok right angles side by side."
+  },
+  {
+    "name": "hangul-ssangdigeut",
+    "category": "scripts",
+    "draw": "Hangul double consonant ssangdigeut (ㄸ): two small squared C digeut shapes side by side."
+  },
+  {
+    "name": "hangul-ssangbieup",
+    "category": "scripts",
+    "draw": "Hangul double consonant ssangbieup (ㅃ): two small bieup boxes with crossbars side by side."
+  },
+  {
+    "name": "hangul-ssangsiot",
+    "category": "scripts",
+    "draw": "Hangul double consonant ssangsiot (ㅆ): two small upside down V shapes like tiny tents side by side."
+  },
+  {
+    "name": "hangul-ssangjieut",
+    "category": "scripts",
+    "draw": "Hangul double consonant ssangjieut (ㅉ): two small jieut shapes, each a top bar over an upside down V, side by side."
+  },
+  {
+    "name": "hangul-a",
+    "category": "scripts",
+    "draw": "Hangul vowel a (ㅏ): a tall vertical stroke with one short horizontal tick sticking out to the right at mid height."
+  },
+  {
+    "name": "hangul-ya",
+    "category": "scripts",
+    "draw": "Hangul vowel ya (ㅑ): a tall vertical stroke with two short horizontal ticks sticking out to the right."
+  },
+  {
+    "name": "hangul-eo",
+    "category": "scripts",
+    "draw": "Hangul vowel eo (ㅓ): a tall vertical stroke with one short horizontal tick sticking out to the left at mid height."
+  },
+  {
+    "name": "hangul-yeo",
+    "category": "scripts",
+    "draw": "Hangul vowel yeo (ㅕ): a tall vertical stroke with two short horizontal ticks sticking out to the left."
+  },
+  {
+    "name": "hangul-yo",
+    "category": "scripts",
+    "draw": "Hangul vowel yo (ㅛ): a long horizontal base bar with two short vertical ticks standing on it."
+  },
+  {
+    "name": "hangul-ae",
+    "category": "scripts",
+    "draw": "Hangul vowel ae (ㅐ): two tall vertical strokes side by side with one short tick running from the left stroke toward the right one."
+  },
+  {
+    "name": "hangul-e",
+    "category": "scripts",
+    "draw": "Hangul vowel e (ㅔ): two tall vertical strokes side by side with one short tick sticking out to the left of the left stroke."
+  },
+  {
+    "name": "hangul-yae",
+    "category": "scripts",
+    "draw": "Hangul vowel yae (ㅒ): two tall vertical strokes side by side with two short ticks running from the left stroke toward the right one."
+  },
+  {
+    "name": "hangul-ye",
+    "category": "scripts",
+    "draw": "Hangul vowel ye (ㅖ): two tall vertical strokes side by side with two short ticks sticking out to the left of the left stroke."
+  },
+  {
+    "name": "hangul-wa",
+    "category": "scripts",
+    "draw": "Hangul vowel wa (ㅘ): a short upright tick standing on a horizontal bar at the lower left, beside a tall vertical with a tick to the right."
+  },
+  {
+    "name": "hangul-wae",
+    "category": "scripts",
+    "draw": "Hangul vowel wae (ㅙ): a short upright tick on a horizontal bar at the lower left, beside two tall verticals with a tick between them."
+  },
+  {
+    "name": "hangul-oe",
+    "category": "scripts",
+    "draw": "Hangul vowel oe (ㅚ): a short upright tick standing on a horizontal bar at the lower left, beside a plain tall vertical stroke."
+  },
+  {
+    "name": "hangul-wo",
+    "category": "scripts",
+    "draw": "Hangul vowel wo (ㅝ): a horizontal bar with a short stem dropping below it at the lower left, beside a tall vertical with a tick to the left."
+  },
+  {
+    "name": "hangul-we",
+    "category": "scripts",
+    "draw": "Hangul vowel we (ㅞ): a horizontal bar with a short stem dropping below it, beside two tall verticals with a tick out to the left."
+  },
+  {
+    "name": "hangul-wi",
+    "category": "scripts",
+    "draw": "Hangul vowel wi (ㅟ): a horizontal bar with a short stem dropping below it at the lower left, beside a plain tall vertical stroke."
+  },
+  {
+    "name": "hangul-ui",
+    "category": "scripts",
+    "draw": "Hangul vowel ui (ㅢ): a plain horizontal bar at the lower left beside a plain tall vertical stroke on the right."
+  },
+  {
+    "name": "hiragana-i",
+    "category": "scripts",
+    "draw": "Hiragana i (い): two short near vertical strokes side by side, the left one longer with a small hook at its foot."
+  },
+  {
+    "name": "hiragana-u",
+    "category": "scripts",
+    "draw": "Hiragana u (う): a short dash on top above a stroke that arcs right and sweeps down into a hook to the lower left."
+  },
+  {
+    "name": "hiragana-e",
+    "category": "scripts",
+    "draw": "Hiragana e (え): a short dash on top above a zigzag that runs right, cuts diagonally down left, then ends in a long flat tail to the right."
+  },
+  {
+    "name": "hiragana-o",
+    "category": "scripts",
+    "draw": "Hiragana o (お): a horizontal bar crossed by a vertical stroke that loops into a round belly on the right, with a small dash at the upper right."
+  },
+  {
+    "name": "hiragana-ka",
+    "category": "scripts",
+    "draw": "Hiragana ka (か): an angular stroke like a 7 with a hooked foot crossed by a slanted downstroke, plus a separate short dash at the right."
+  },
+  {
+    "name": "hiragana-ki",
+    "category": "scripts",
+    "draw": "Hiragana ki (き): two horizontal bars crossed by a slanted stroke, with a separate open curve at the bottom."
+  },
+  {
+    "name": "hiragana-ke",
+    "category": "scripts",
+    "draw": "Hiragana ke (け): a tall curved upright on the left, and on the right a horizontal bar crossed by a long stroke curving down to the left."
+  },
+  {
+    "name": "hiragana-ko",
+    "category": "scripts",
+    "draw": "Hiragana ko (こ): two short curved horizontal strokes stacked, the top one ending in a small hook and the bottom one curving up at the right."
+  },
+  {
+    "name": "hiragana-sa",
+    "category": "scripts",
+    "draw": "Hiragana sa (さ): a horizontal bar crossed by a slanted stroke, above a separate open curve like a backwards c."
+  },
+  {
+    "name": "hiragana-shi",
+    "category": "scripts",
+    "draw": "Hiragana shi (し): a single long stroke that drops straight down and curves up to the right at the bottom like a hook."
+  },
+  {
+    "name": "hiragana-su",
+    "category": "scripts",
+    "draw": "Hiragana su (す): a horizontal bar crossed by a vertical stroke that makes a small loop before dropping into a tail."
+  },
+  {
+    "name": "hiragana-se",
+    "category": "scripts",
+    "draw": "Hiragana se (せ): a long horizontal bar crossed by a short right upright and a longer left upright that curves into a flat base."
+  },
+  {
+    "name": "hiragana-so",
+    "category": "scripts",
+    "draw": "Hiragana so (そ): a zigzag of a short dash, a diagonal, a long horizontal and a curved tail sweeping down and back to the right."
+  },
+  {
+    "name": "hiragana-ta",
+    "category": "scripts",
+    "draw": "Hiragana ta (た): a cross shaped stroke on the left beside two short horizontal strokes stacked on the right."
+  },
+  {
+    "name": "hiragana-chi",
+    "category": "scripts",
+    "draw": "Hiragana chi (ち): a horizontal bar crossed by a slanted stroke that bends into a rounded bowl opening to the left, like a 5."
+  },
+  {
+    "name": "hiragana-tsu",
+    "category": "scripts",
+    "draw": "Hiragana tsu (つ): a single wide arch that starts flat on the left, curves over at the right and sweeps down into a hook to the lower left."
+  },
+  {
+    "name": "hiragana-te",
+    "category": "scripts",
+    "draw": "Hiragana te (て): a horizontal stroke that folds back at the right end and curves down into a long c shape."
+  },
+  {
+    "name": "hiragana-to",
+    "category": "scripts",
+    "draw": "Hiragana to (と): a short slanted stroke above a second stroke that curves down and back to the right into a flat base."
+  },
+  {
+    "name": "hiragana-na",
+    "category": "scripts",
+    "draw": "Hiragana na (な): a cross shaped stroke with a short dash on the right, above a small loop at the lower right."
+  },
+  {
+    "name": "hiragana-ni",
+    "category": "scripts",
+    "draw": "Hiragana ni (に): a tall curved upright on the left beside two short horizontal strokes stacked on the right."
+  },
+  {
+    "name": "hiragana-nu",
+    "category": "scripts",
+    "draw": "Hiragana nu (ぬ): two crossing diagonal strokes forming an overlapping loop that ends in a small round curl at the lower right."
+  },
+  {
+    "name": "hiragana-ne",
+    "category": "scripts",
+    "draw": "Hiragana ne (ね): a tall vertical stroke on the left crossed by a zigzag that loops around to the right and ends in a small curl."
+  },
+  {
+    "name": "hiragana-no",
+    "category": "scripts",
+    "draw": "Hiragana no (の): a single spiral stroke starting at the centre that curves over the top and around, like a cursive @."
+  },
+  {
+    "name": "hiragana-ha",
+    "category": "scripts",
+    "draw": "Hiragana ha (は): a tall upright on the left, and on the right a horizontal bar crossed by a stroke ending in a small loop."
+  },
+  {
+    "name": "hiragana-hi",
+    "category": "scripts",
+    "draw": "Hiragana hi (ひ): a single stroke that starts with a short flick, dips into a deep round bowl and rises with a flick at the right."
+  },
+  {
+    "name": "hiragana-fu",
+    "category": "scripts",
+    "draw": "Hiragana fu (ふ): four small separate strokes: a top curve, a central hooked bowl and a dot on each side."
+  },
+  {
+    "name": "hiragana-he",
+    "category": "scripts",
+    "draw": "Hiragana he (へ): a single stroke rising to a short peak on the left and descending in a longer gentle slope to the right."
+  },
+  {
+    "name": "hiragana-ho",
+    "category": "scripts",
+    "draw": "Hiragana ho (ほ): a tall upright on the left, and on the right two horizontal bars crossed by a stroke ending in a small loop."
+  },
+  {
+    "name": "hiragana-ma",
+    "category": "scripts",
+    "draw": "Hiragana ma (ま): two horizontal bars crossed by a vertical stroke that ends in a small loop at the bottom."
+  },
+  {
+    "name": "hiragana-mi",
+    "category": "scripts",
+    "draw": "Hiragana mi (み): a stroke that zigzags into a loop at the lower left and sweeps right, crossed by a short slanted stroke at the right."
+  },
+  {
+    "name": "hiragana-mu",
+    "category": "scripts",
+    "draw": "Hiragana mu (む): a horizontal bar crossed by a stroke that loops at the lower left and sweeps right, with a small dash at the upper right."
+  },
+  {
+    "name": "hiragana-me",
+    "category": "scripts",
+    "draw": "Hiragana me (め): two crossing strokes forming an overlapping loop, like nu without the curl at the end."
+  },
+  {
+    "name": "hiragana-mo",
+    "category": "scripts",
+    "draw": "Hiragana mo (も): a vertical stroke hooking right at the bottom, crossed by two short horizontal bars."
+  },
+  {
+    "name": "hiragana-ya",
+    "category": "scripts",
+    "draw": "Hiragana ya (や): a curved stroke with a small hook, a short dot like stroke and a long diagonal stroke crossing both."
+  },
+  {
+    "name": "hiragana-yu",
+    "category": "scripts",
+    "draw": "Hiragana yu (ゆ): a tall curved stroke on the left and a round loop on the right crossed by a vertical stroke."
+  },
+  {
+    "name": "hiragana-yo",
+    "category": "scripts",
+    "draw": "Hiragana yo (よ): a short horizontal dash crossing a vertical stroke that ends in a small loop at the bottom."
+  },
+  {
+    "name": "hiragana-ra",
+    "category": "scripts",
+    "draw": "Hiragana ra (ら): a short dash on top above a stroke that drops and swings into a round bowl opening to the lower left."
+  },
+  {
+    "name": "hiragana-ri",
+    "category": "scripts",
+    "draw": "Hiragana ri (り): two upright strokes, a short left one with a hook and a longer right one curving down to the left."
+  },
+  {
+    "name": "hiragana-ru",
+    "category": "scripts",
+    "draw": "Hiragana ru (る): a zigzag stroke sweeping down into a round bowl that ends in a small closed loop at the bottom."
+  },
+  {
+    "name": "hiragana-re",
+    "category": "scripts",
+    "draw": "Hiragana re (れ): a tall vertical on the left crossed by a zigzag that ends in an upward flick to the right."
+  },
+  {
+    "name": "hiragana-ro",
+    "category": "scripts",
+    "draw": "Hiragana ro (ろ): a zigzag stroke sweeping down into a round open bowl, like ru without the loop."
+  },
+  {
+    "name": "hiragana-wa",
+    "category": "scripts",
+    "draw": "Hiragana wa (わ): a tall vertical on the left crossed by a zigzag that swings into a wide rounded belly on the right."
+  },
+  {
+    "name": "hiragana-wo",
+    "category": "scripts",
+    "draw": "Hiragana wo (を): a short horizontal bar with a slanted zigzag below it and a flat curved tail at the lower right."
+  },
+  {
+    "name": "hiragana-n",
+    "category": "scripts",
+    "draw": "Hiragana n (ん): a single stroke that drops as a long diagonal, bounces up into a small hump and ends in a rising flick."
+  },
+  {
+    "name": "katakana-i",
+    "category": "scripts",
+    "draw": "Katakana i (イ): a short diagonal stroke sloping down to the left with a vertical stem hanging from its middle."
+  },
+  {
+    "name": "katakana-u",
+    "category": "scripts",
+    "draw": "Katakana u (ウ): a short vertical tick on top of a flat roof whose right side bends down into a hook to the lower left."
+  },
+  {
+    "name": "katakana-o",
+    "category": "scripts",
+    "draw": "Katakana o (オ): a horizontal bar crossed by a hooked vertical stem, with a diagonal stroke sloping down left from the crossing."
+  },
+  {
+    "name": "katakana-ka",
+    "category": "scripts",
+    "draw": "Katakana ka (カ): a horizontal stroke bending down at the right into a hook, crossed by a slanted stroke on the left."
+  },
+  {
+    "name": "katakana-ki",
+    "category": "scripts",
+    "draw": "Katakana ki (キ): two horizontal bars crossed by a single slightly slanted vertical stroke."
+  },
+  {
+    "name": "katakana-ku",
+    "category": "scripts",
+    "draw": "Katakana ku (ク): a short stroke sloping down left, joined at its top by a stroke that runs right and bends into a long diagonal to the lower left."
+  },
+  {
+    "name": "katakana-ke",
+    "category": "scripts",
+    "draw": "Katakana ke (ケ): a short diagonal sloping down left, a horizontal bar from its middle and a long stroke dropping from the bar and curving left."
+  },
+  {
+    "name": "katakana-ko",
+    "category": "scripts",
+    "draw": "Katakana ko (コ): a squared bracket of a top bar, a right upright and a bottom bar, open to the left."
+  },
+  {
+    "name": "katakana-sa",
+    "category": "scripts",
+    "draw": "Katakana sa (サ): a horizontal bar crossed by two vertical strokes, the right one curving down to the left."
+  },
+  {
+    "name": "katakana-shi",
+    "category": "scripts",
+    "draw": "Katakana shi (シ): two short dashes stacked on the left and a long stroke rising from the lower left to the upper right."
+  },
+  {
+    "name": "katakana-su",
+    "category": "scripts",
+    "draw": "Katakana su (ス): a horizontal stroke bending into a long diagonal down to the left, with a short stroke branching down right from its middle."
+  },
+  {
+    "name": "katakana-se",
+    "category": "scripts",
+    "draw": "Katakana se (セ): a horizontal stroke with a small hook at its right end, crossed by a vertical stem that turns right into a flat base."
+  },
+  {
+    "name": "katakana-so",
+    "category": "scripts",
+    "draw": "Katakana so (ソ): a short upright dash on the left and a long stroke sweeping down from the upper right to the lower left."
+  },
+  {
+    "name": "katakana-ta",
+    "category": "scripts",
+    "draw": "Katakana ta (タ): the ku shape of a short left diagonal and a bent long diagonal, with a small dash inside."
+  },
+  {
+    "name": "katakana-chi",
+    "category": "scripts",
+    "draw": "Katakana chi (チ): a short slanted dash on top, a horizontal bar and a vertical stem curving down to the left."
+  },
+  {
+    "name": "katakana-tsu",
+    "category": "scripts",
+    "draw": "Katakana tsu (ツ): two short upright dashes side by side at the top and a long stroke sweeping down from the upper right to the lower left."
+  },
+  {
+    "name": "katakana-te",
+    "category": "scripts",
+    "draw": "Katakana te (テ): a short horizontal bar above a longer bar, with a stem dropping from the centre and curving to the left."
+  },
+  {
+    "name": "katakana-na",
+    "category": "scripts",
+    "draw": "Katakana na (ナ): a horizontal bar crossed by a vertical stroke that curves down to the left."
+  },
+  {
+    "name": "katakana-nu",
+    "category": "scripts",
+    "draw": "Katakana nu (ヌ): a horizontal stroke bending into a long diagonal down to the left, crossed by a short stroke sloping down right."
+  },
+  {
+    "name": "katakana-ne",
+    "category": "scripts",
+    "draw": "Katakana ne (ネ): a short dot on top, a bar bending into a diagonal down left, a short vertical stem and a small stroke to the right."
+  },
+  {
+    "name": "katakana-ha",
+    "category": "scripts",
+    "draw": "Katakana ha (ハ): two separate strokes spreading apart like a wide open inverted V with a gap at the top."
+  },
+  {
+    "name": "katakana-hi",
+    "category": "scripts",
+    "draw": "Katakana hi (ヒ): a short horizontal stroke to the right from a vertical stem that turns into a flat base at the bottom."
+  },
+  {
+    "name": "katakana-ho",
+    "category": "scripts",
+    "draw": "Katakana ho (ホ): a horizontal bar crossed by a hooked vertical stem, with two small diagonal dashes spreading down on either side."
+  },
+  {
+    "name": "katakana-ma",
+    "category": "scripts",
+    "draw": "Katakana ma (マ): a horizontal bar bending into a short diagonal down to the left, with a small dash below slanting down right."
+  },
+  {
+    "name": "katakana-mi",
+    "category": "scripts",
+    "draw": "Katakana mi (ミ): three short parallel strokes stacked, each sloping slightly down to the right."
+  },
+  {
+    "name": "katakana-mu",
+    "category": "scripts",
+    "draw": "Katakana mu (ム): a stroke sloping down left that turns into a flat base, with a small dash at the right end of the base."
+  },
+  {
+    "name": "katakana-me",
+    "category": "scripts",
+    "draw": "Katakana me (メ): a long stroke curving down to the lower left crossed by a short stroke sloping down right."
+  },
+  {
+    "name": "katakana-mo",
+    "category": "scripts",
+    "draw": "Katakana mo (モ): two horizontal bars crossed by a vertical stem that turns right into a flat base."
+  },
+  {
+    "name": "katakana-ya",
+    "category": "scripts",
+    "draw": "Katakana ya (ヤ): a horizontal stroke hooking down at its right end, crossed by a long slanted stroke."
+  },
+  {
+    "name": "katakana-yu",
+    "category": "scripts",
+    "draw": "Katakana yu (ユ): a short top bar joined to a right upright and a long flat base that extends past both ends."
+  },
+  {
+    "name": "katakana-yo",
+    "category": "scripts",
+    "draw": "Katakana yo (ヨ): three horizontal bars joined by an upright on the right, like a backwards squared E."
+  },
+  {
+    "name": "katakana-ra",
+    "category": "scripts",
+    "draw": "Katakana ra (ラ): a short horizontal dash above a longer horizontal stroke that bends down into a hook to the lower left."
+  },
+  {
+    "name": "katakana-ri",
+    "category": "scripts",
+    "draw": "Katakana ri (リ): a short upright stroke on the left and a longer upright on the right curving down to the left."
+  },
+  {
+    "name": "katakana-ru",
+    "category": "scripts",
+    "draw": "Katakana ru (ル): a short curved stroke on the left and an upright on the right that flicks up to the right at its foot."
+  },
+  {
+    "name": "katakana-re",
+    "category": "scripts",
+    "draw": "Katakana re (レ): a single vertical stroke that turns at the bottom into a rising flick to the upper right."
+  },
+  {
+    "name": "katakana-wa",
+    "category": "scripts",
+    "draw": "Katakana wa (ワ): a short upright on the left joined at the top by a roof that bends down into a hook to the lower left."
+  },
+  {
+    "name": "katakana-wo",
+    "category": "scripts",
+    "draw": "Katakana wo (ヲ): two horizontal bars joined on the right by a stroke that bends down into a hook to the lower left."
+  },
+  {
+    "name": "katakana-n",
+    "category": "scripts",
+    "draw": "Katakana n (ン): a short dash at the upper left and a long stroke rising from the lower left to the upper right."
+  },
+  {
+    "name": "devanagari-aa",
+    "category": "scripts",
+    "draw": "Devanagari letter aa (आ): a curling 3 like stroke joined by a short bar to a vertical stem, with a second vertical stem on the right, under a flat headline."
+  },
+  {
+    "name": "devanagari-i",
+    "category": "scripts",
+    "draw": "Devanagari letter i (इ): a curling stroke like a hooked 5 hanging below a flat headline."
+  },
+  {
+    "name": "devanagari-ii",
+    "category": "scripts",
+    "draw": "Devanagari letter ii (ई): the curling i stroke under a headline with a small curved hook rising above the headline."
+  },
+  {
+    "name": "devanagari-u",
+    "category": "scripts",
+    "draw": "Devanagari letter u (उ): a curved stroke like a 3 whose lower curve sweeps into a tail to the right, hanging from a flat headline."
+  },
+  {
+    "name": "devanagari-uu",
+    "category": "scripts",
+    "draw": "Devanagari letter uu (ऊ): the u stroke under a headline with an extra curl hooking off its lower tail."
+  },
+  {
+    "name": "devanagari-vocalic-r",
+    "category": "scripts",
+    "draw": "Devanagari letter vocalic r (ऋ): a curled bowl hanging from a headline with a short hooked stroke dropping on its right."
+  },
+  {
+    "name": "devanagari-e",
+    "category": "scripts",
+    "draw": "Devanagari letter e (ए): a narrow angled curl like a backwards 7 folding back at the bottom, hanging below a short flat headline."
+  },
+  {
+    "name": "devanagari-ai",
+    "category": "scripts",
+    "draw": "Devanagari letter ai (ऐ): the e curl under a headline with a small slanted stroke rising above the headline."
+  },
+  {
+    "name": "devanagari-o",
+    "category": "scripts",
+    "draw": "Devanagari letter o (ओ): the aa shape of a curled bowl and vertical stem with a small slanted stroke rising above the headline over the stem."
+  },
+  {
+    "name": "devanagari-au",
+    "category": "scripts",
+    "draw": "Devanagari letter au (औ): the aa shape of a curled bowl and vertical stem with two small slanted strokes rising above the headline."
+  },
+  {
+    "name": "devanagari-ka",
+    "category": "scripts",
+    "draw": "Devanagari letter ka (क): a vertical stem through a headline with a small loop on the left and a curled hook on the right."
+  },
+  {
+    "name": "devanagari-kha",
+    "category": "scripts",
+    "draw": "Devanagari letter kha (ख): a small round loop on the left joined to a vertical stem on the right, under a headline."
+  },
+  {
+    "name": "devanagari-ga",
+    "category": "scripts",
+    "draw": "Devanagari letter ga (ग): two uprights under a headline, the left one short and hooked at its foot, the right one a full stem."
+  },
+  {
+    "name": "devanagari-gha",
+    "category": "scripts",
+    "draw": "Devanagari letter gha (घ): a small u shaped loop at the left joined to a tall vertical stem, with the headline over the stem only."
+  },
+  {
+    "name": "devanagari-nga",
+    "category": "scripts",
+    "draw": "Devanagari letter nga (ङ): a curled 3 like stroke hanging from a headline with a single dot to its right."
+  },
+  {
+    "name": "devanagari-cha",
+    "category": "scripts",
+    "draw": "Devanagari letter cha (च): a short horizontal stroke with a curled hook on the left joined to a vertical stem, under a headline."
+  },
+  {
+    "name": "devanagari-chha",
+    "category": "scripts",
+    "draw": "Devanagari letter chha (छ): two small stacked round loops hanging from a headline with a tail on the right and no stem."
+  },
+  {
+    "name": "devanagari-ja",
+    "category": "scripts",
+    "draw": "Devanagari letter ja (ज): a zigzag stroke like a backwards z joined to a vertical stem on the right, under a headline."
+  },
+  {
+    "name": "devanagari-jha",
+    "category": "scripts",
+    "draw": "Devanagari letter jha (झ): a curled 3 like stroke with an inner loop joined to a vertical stem on the right, under a headline."
+  },
+  {
+    "name": "devanagari-nya",
+    "category": "scripts",
+    "draw": "Devanagari letter nya (ञ): a curled stroke crossed by a horizontal bar running to a vertical stem on the right, under a headline."
+  },
+  {
+    "name": "devanagari-tta",
+    "category": "scripts",
+    "draw": "Devanagari letter tta (ट): a single rounded hook like a backwards c with a curled tail, hanging from a headline."
+  },
+  {
+    "name": "devanagari-ttha",
+    "category": "scripts",
+    "draw": "Devanagari letter ttha (ठ): a closed round loop hanging from a headline like a small o."
+  },
+  {
+    "name": "devanagari-dda",
+    "category": "scripts",
+    "draw": "Devanagari letter dda (ड): a curved stroke like a backwards c ending in a small curl at the lower right, hanging from a headline."
+  },
+  {
+    "name": "devanagari-ddha",
+    "category": "scripts",
+    "draw": "Devanagari letter ddha (ढ): two stacked curves like a small 3 with a hook at the bottom, hanging from a headline."
+  },
+  {
+    "name": "devanagari-nna",
+    "category": "scripts",
+    "draw": "Devanagari letter nna (ण): a loop on the left, a short horizontal bar and a tall vertical stem on the right, all under a headline."
+  },
+  {
+    "name": "devanagari-ta",
+    "category": "scripts",
+    "draw": "Devanagari letter ta (त): a short curved hook on the left joined by a horizontal stroke to a vertical stem, under a headline."
+  },
+  {
+    "name": "devanagari-tha",
+    "category": "scripts",
+    "draw": "Devanagari letter tha (थ): a small loop with a curl on the left joined to a vertical stem, under a headline that stops before the loop."
+  },
+  {
+    "name": "devanagari-da",
+    "category": "scripts",
+    "draw": "Devanagari letter da (द): a curled stroke like a hooked 2 with a small tail at the bottom hanging from a headline, with no stem."
+  },
+  {
+    "name": "devanagari-dha",
+    "category": "scripts",
+    "draw": "Devanagari letter dha (ध): a curled loop on the left joined to a tall vertical stem, with the headline above the stem only."
+  },
+  {
+    "name": "devanagari-na",
+    "category": "scripts",
+    "draw": "Devanagari letter na (न): a short curved stroke on the left joined by a low horizontal bar to a vertical stem, under a headline."
+  },
+  {
+    "name": "devanagari-pa",
+    "category": "scripts",
+    "draw": "Devanagari letter pa (प): a u shaped cup whose left arm is short and right arm is a full vertical stem, with the headline over the stem only."
+  },
+  {
+    "name": "devanagari-pha",
+    "category": "scripts",
+    "draw": "Devanagari letter pha (फ): the pa cup and stem with a small curl hooking off the right side of the stem."
+  },
+  {
+    "name": "devanagari-ba",
+    "category": "scripts",
+    "draw": "Devanagari letter ba (ब): a closed round loop joined to a vertical stem with a small diagonal stroke inside the loop, under a full headline."
+  },
+  {
+    "name": "devanagari-bha",
+    "category": "scripts",
+    "draw": "Devanagari letter bha (भ): an open cup with a small inner curl on the left joined to a vertical stem, with the headline over the stem only."
+  },
+  {
+    "name": "devanagari-ma",
+    "category": "scripts",
+    "draw": "Devanagari letter ma (म): a u shaped cup joined to a vertical stem on the right, under a full flat headline."
+  },
+  {
+    "name": "devanagari-ya",
+    "category": "scripts",
+    "draw": "Devanagari letter ya (य): a u shaped cup with a small inward hook at the top left joined to a vertical stem, with the headline over the stem."
+  },
+  {
+    "name": "devanagari-ra",
+    "category": "scripts",
+    "draw": "Devanagari letter ra (र): a short curled stroke like a small hooked 2 hanging from a short headline, with no stem."
+  },
+  {
+    "name": "devanagari-la",
+    "category": "scripts",
+    "draw": "Devanagari letter la (ल): a curled 3 like stroke on the left joined to a vertical stem on the right, under a full headline."
+  },
+  {
+    "name": "devanagari-va",
+    "category": "scripts",
+    "draw": "Devanagari letter va (व): a closed round loop on the left joined to a vertical stem on the right, under a full headline."
+  },
+  {
+    "name": "devanagari-sha",
+    "category": "scripts",
+    "draw": "Devanagari letter sha (श): a curled loop on the left with a short slanted stroke, joined to a vertical stem under a headline."
+  },
+  {
+    "name": "devanagari-ssa",
+    "category": "scripts",
+    "draw": "Devanagari letter ssa (ष): a u shaped cup crossed by a diagonal stroke and joined to a vertical stem, under a full headline."
+  },
+  {
+    "name": "devanagari-sa",
+    "category": "scripts",
+    "draw": "Devanagari letter sa (स): a curled hook on the left joined by a short bar to a vertical stem on the right, under a headline."
+  },
+  {
+    "name": "devanagari-ha",
+    "category": "scripts",
+    "draw": "Devanagari letter ha (ह): a curled stroke like a 3 with a tail flicking right at the bottom, hanging from a headline, with no stem."
+  },
+  {
+    "name": "devanagari-ksha",
+    "category": "scripts",
+    "draw": "Devanagari letter ksha (क्ष): the conjunct ksha: a looped ka like shape with a crossing curl joined to a vertical stem, under a headline."
+  },
+  {
+    "name": "devanagari-tra",
+    "category": "scripts",
+    "draw": "Devanagari letter tra (त्र): the conjunct tra: the ta shape with a small slanted stroke joining its vertical stem near the foot."
+  },
+  {
+    "name": "devanagari-gya",
+    "category": "scripts",
+    "draw": "Devanagari letter gya (ज्ञ): the conjunct gya: a zigzag ja shape fused to a curled stroke and a vertical stem, under a headline."
+  }
+]

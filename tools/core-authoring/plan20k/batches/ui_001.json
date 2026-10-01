@@ -1,0 +1,482 @@
+[
+ {
+  "name": "window-restore",
+  "category": "ui",
+  "draw": "Two overlapping square window outlines offset diagonally, the front one with a thick title bar edge.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "window-cascade",
+  "category": "ui",
+  "draw": "Three window outlines stacked diagonally from top left to bottom right, each showing a title bar strip.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "window-tile",
+  "category": "ui",
+  "draw": "Rounded screen outline divided into four equal window panes, each pane with its own thin title bar.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "window-snap",
+  "category": "ui",
+  "draw": "Screen outline with a window filling the left half and dashed placeholder rectangles in the right half.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "pop-out-window",
+  "category": "ui",
+  "draw": "Small window outline with an arrow leaving its top right corner toward a second detached window.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "virtual-desktops",
+  "category": "ui",
+  "draw": "Three small screen rectangles in a row with the middle one bold, above a short horizontal bar.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "show-desktop",
+  "category": "ui",
+  "draw": "Monitor outline whose screen is empty with two tiny windows shrunk down into the bottom edge.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "status-bar",
+  "category": "ui",
+  "draw": "Top edge of a phone outline showing a clock dash at left and tiny signal bars and battery at right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "system-tray",
+  "category": "ui",
+  "draw": "Short bar at the bottom right of a screen with an upward caret and three tiny status icons beside it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "toolbar",
+  "category": "ui",
+  "draw": "Horizontal rounded bar holding four small square tool buttons in a row, one of them highlighted.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "floating-toolbar",
+  "category": "ui",
+  "draw": "Small pill bar with three tool dots hovering above a text line, with a short shadow beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "ribbon-toolbar",
+  "category": "ui",
+  "draw": "Wide panel with a row of tab labels on top and grouped large and small buttons beneath, split by dividers.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "tool-palette",
+  "category": "ui",
+  "draw": "Tall narrow vertical strip holding a column of small tool squares, the top one filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "inspector-panel",
+  "category": "ui",
+  "draw": "Window outline with a right hand panel showing stacked label and value rows beside an empty canvas.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "scrollbar",
+  "category": "ui",
+  "draw": "Tall narrow track outline with a rounded filled thumb near the top and small caret buttons at both ends.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "tab-group",
+  "category": "ui",
+  "draw": "Three browser tabs in a row with a coloured bracket line joining the first two underneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "address-bar",
+  "category": "ui",
+  "draw": "Long rounded field with a small padlock at the left and a short dashed URL line filling the rest.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "bookmarks-bar",
+  "category": "ui",
+  "draw": "Browser window outline with a thin strip under the top bar holding three tiny bookmark ribbon shapes.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "quick-settings-panel",
+  "category": "ui",
+  "draw": "Rounded panel with a two by three grid of round toggle buttons, two of them filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "system-nav-buttons",
+  "category": "ui",
+  "draw": "Horizontal bar with a small triangle, a circle and a square spaced evenly along it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "app-icon",
+  "category": "ui",
+  "draw": "Single rounded square app tile with a simple star shape centred inside it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "app-folder",
+  "category": "ui",
+  "draw": "Rounded square containing a two by two grid of tiny rounded app tiles.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "wallpaper-screen",
+  "category": "ui",
+  "draw": "Phone outline whose screen shows a mountain and sun landscape filling the background.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "multiple-displays",
+  "category": "ui",
+  "draw": "Two monitor outlines side by side on stands, the right one slightly smaller.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "theater-mode",
+  "category": "ui",
+  "draw": "Very wide short rectangle with a play triangle in the centre and a thin bar under it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-hero",
+  "category": "ui",
+  "draw": "Page outline with a tall filled banner block across the top and three short text lines below it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-holy-grail",
+  "category": "ui",
+  "draw": "Page outline divided into a header strip, footer strip and a middle band split into left rail, content and right rail.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-bento",
+  "category": "ui",
+  "draw": "Square split into uneven rounded cells: one large tile, one tall tile and two small tiles.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-feed",
+  "category": "ui",
+  "draw": "Narrow column of three stacked cards, each with a small avatar circle and two text lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-three-column",
+  "category": "ui",
+  "draw": "Rectangle split into three equal vertical columns by two dividers, each with a short header bar.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-centered",
+  "category": "ui",
+  "draw": "Wide page outline with a narrow content column in the middle holding text lines and empty margins on both sides.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-magazine",
+  "category": "ui",
+  "draw": "Page with a big image block on the left, a headline bar above and small text columns on the right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-master-detail",
+  "category": "ui",
+  "draw": "Window split into a narrow list of stacked rows on the left and a large detail pane on the right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-pricing-tiers",
+  "category": "ui",
+  "draw": "Three vertical cards side by side, the middle one taller and filled, each with a short price line.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-profile-header",
+  "category": "ui",
+  "draw": "Page with a wide cover strip on top and an avatar circle overlapping its lower edge above text lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-sidebar-both",
+  "category": "ui",
+  "draw": "Rectangle with narrow panels on both the left and right edges framing a wide empty centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-footer-columns",
+  "category": "ui",
+  "draw": "Page outline with a deep footer area holding four short columns of tiny link lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-split-hero",
+  "category": "ui",
+  "draw": "Rectangle split in half: text lines and a button on the left, an image block with a mountain on the right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-grid-sidebar",
+  "category": "ui",
+  "draw": "Window with a narrow left sidebar and a two by two grid of tiles in the main area.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-landing-page",
+  "category": "ui",
+  "draw": "Tall page outline with a hero block, a row of three small feature squares and a button bar at the bottom.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "layout-app-shell",
+  "category": "ui",
+  "draw": "Window with a top bar, a left navigation rail with icon dots and an empty content area.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "column-guides",
+  "category": "ui",
+  "draw": "Rectangle filled with six tall translucent column bars separated by equal gutters.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "baseline-grid",
+  "category": "ui",
+  "draw": "Square with many thin evenly spaced horizontal lines and a text line sitting exactly on one of them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "icon-keylines",
+  "category": "ui",
+  "draw": "Square with a circle, an inner square and diagonal lines overlaid, like an icon design template.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "safe-area",
+  "category": "ui",
+  "draw": "Phone outline with a dashed inner rectangle inset from the rounded corners and the top notch.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "gutter-spacing",
+  "category": "ui",
+  "draw": "Two tall columns with a highlighted gap between them marked by a small double headed arrow.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "breakpoint-ruler",
+  "category": "ui",
+  "draw": "Horizontal ruler with three triangular markers pointing down at different widths.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "golden-ratio-grid",
+  "category": "ui",
+  "draw": "Rectangle subdivided into shrinking squares with a spiral arc curling through them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cascading-menu",
+  "category": "ui",
+  "draw": "Vertical menu list with one row highlighted and a second menu list opening to its side.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "mega-menu",
+  "category": "ui",
+  "draw": "Top nav bar with a wide dropdown panel under it holding three columns of short link lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "radial-menu",
+  "category": "ui",
+  "draw": "Circle divided into four pie segments around a small central dot, one segment filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "navigation-rail",
+  "category": "ui",
+  "draw": "Tall narrow vertical bar on the left edge of a window holding a column of four small icon dots.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "navigation-drawer",
+  "category": "ui",
+  "draw": "Phone outline with a panel sliding in from the left covering most of the screen, list lines inside.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "bottom-sheet",
+  "category": "ui",
+  "draw": "Phone outline with a rounded card rising from the bottom edge, a small grab bar on its top.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "action-sheet",
+  "category": "ui",
+  "draw": "Phone outline with a stack of three wide rounded buttons at the bottom and a separate cancel button beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "side-tabs",
+  "category": "ui",
+  "draw": "Window with a vertical column of tab labels on the left, one of them filled and joined to the content area.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "segmented-control",
+  "category": "ui",
+  "draw": "Pill shaped bar divided into three equal segments with the first segment filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "infinite-scroll",
+  "category": "ui",
+  "draw": "Stack of list rows fading out at the bottom above an infinity sign.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "load-more",
+  "category": "ui",
+  "draw": "List of two rows above a wide rounded button containing three dots.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "pull-refresh-gesture",
+  "category": "ui",
+  "draw": "Phone screen with list rows pushed down and a small circular refresh arrow in the gap at the top.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "list-swipe-actions",
+  "category": "ui",
+  "draw": "List row slid sideways revealing two small square action buttons at its right end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "reorder-list",
+  "category": "ui",
+  "draw": "Three list rows each with a grip dots handle at the left, the middle row lifted and offset.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "reading-progress",
+  "category": "ui",
+  "draw": "Page outline with a thin bar across the very top that is two thirds filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "parallax-scroll",
+  "category": "ui",
+  "draw": "Three layered horizontal bands, a hill, a tree line and clouds, each with a different length arrow.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "tab-order",
+  "category": "ui",
+  "draw": "Three small boxes connected by a dashed path with the numbers 1, 2 and 3 above them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "focus-ring",
+  "category": "ui",
+  "draw": "Rounded button shape surrounded by a thicker offset outline ring with a small gap between.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "skip-to-content",
+  "category": "ui",
+  "draw": "Page outline with a small button at the top left and a curved arrow jumping down past the header.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "tab-bar-mobile",
+  "category": "ui",
+  "draw": "Phone outline with a bottom bar holding four small icon dots, the first one filled and labelled by a short dash.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "confirmation-dialog",
+  "category": "ui",
+  "draw": "Rounded dialog card with two text lines and two small buttons side by side at the bottom, one filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "input-dialog",
+  "category": "ui",
+  "draw": "Dialog card with a title dash, an empty text field outline and one filled button beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "coach-mark",
+  "category": "ui",
+  "draw": "Dim rectangle with a bright circular spotlight around a small button and a pointer tooltip beside it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "notification-banner",
+  "category": "ui",
+  "draw": "Wide rounded bar at the top of a screen outline with a small bell at the left and a text line.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "push-notification",
+  "category": "ui",
+  "draw": "Phone outline with a single rounded card near the top showing a small app square and two text lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "skeleton-loader",
+  "category": "ui",
+  "draw": "Card outline with a grey circle placeholder and three rounded grey bars of different lengths.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "splash-screen",
+  "category": "ui",
+  "draw": "Phone outline with a single bold logo circle in the centre and a small spinner near the bottom.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "onboarding-screens",
+  "category": "ui",
+  "draw": "Phone outline with a simple illustration circle, a text line and three pagination dots at the bottom.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "login-form",
+  "category": "ui",
+  "draw": "Card with a user avatar circle on top, two field outlines and a filled button at the bottom.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "signup-form",
+  "category": "ui",
+  "draw": "Card with three stacked field outlines, a small checkbox line and a wide filled button at the bottom.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "consent-banner",
+  "category": "ui",
+  "draw": "Wide bar across the bottom of a screen with a cookie circle at the left and two small buttons at the right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "chat-launcher",
+  "category": "ui",
+  "draw": "Round floating button with a speech bubble inside, at the bottom right corner of a page outline.",
+  "domain": "ui-components"
+ }
+]

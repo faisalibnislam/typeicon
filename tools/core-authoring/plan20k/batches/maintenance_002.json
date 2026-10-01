@@ -1,0 +1,482 @@
+[
+ {
+  "name": "clogged-gutter",
+  "category": "maintenance",
+  "draw": "Gutter channel packed with leaves with water spilling over its front edge.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "gutter-guard",
+  "category": "maintenance",
+  "draw": "Gutter channel in three-quarter view covered by a perforated mesh strip with a leaf resting on top.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "downspout-splash-block",
+  "category": "maintenance",
+  "draw": "Downspout elbow ending above a sloped trough block on the ground with water flowing out.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "ice-dam",
+  "category": "maintenance",
+  "draw": "Roof eave cross-section with a ridge of ice at the edge, icicles below and trapped water pooled behind it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "roof-moss",
+  "category": "maintenance",
+  "draw": "Roof shingle rows with rounded fuzzy moss clumps growing between them.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "turbine-roof-vent",
+  "category": "maintenance",
+  "draw": "Round spinning vent with curved vertical vanes forming a dome, on a short base on a roof slope.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "soffit-vent",
+  "category": "maintenance",
+  "draw": "Underside of a roof eave with a rectangular perforated vent panel.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "torch-on-roofing",
+  "category": "maintenance",
+  "draw": "Flat roof with a rolled membrane being unrolled while a long propane torch flame heats its underside.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "ladder-stabilizer",
+  "category": "maintenance",
+  "draw": "Top of a ladder with a wide U-shaped standoff arm resting against a wall.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "sagging-roof",
+  "category": "maintenance",
+  "draw": "House outline with a roof ridge line dipping down in the middle.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "tarped-roof",
+  "category": "maintenance",
+  "draw": "House roof covered by a tarp held down by sandbags along its edge.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "brick-repointing",
+  "category": "maintenance",
+  "draw": "Brick wall section with a pointing trowel pressing fresh mortar into one horizontal joint.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "spalling-brick",
+  "category": "maintenance",
+  "draw": "Brick wall section where one brick has a flaking, crumbled face with small fragments falling.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "chimney-damper",
+  "category": "maintenance",
+  "draw": "Chimney flue cross-section with a hinged metal plate inside and a pull chain hanging below.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "chimney-balloon",
+  "category": "maintenance",
+  "draw": "Chimney flue cross-section with an inflated balloon plug blocking it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "window-well",
+  "category": "maintenance",
+  "draw": "Semicircular corrugated metal well around a basement window below a ground line.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "leaning-fence",
+  "category": "maintenance",
+  "draw": "Fence panel tilted at an angle with a diagonal wooden brace propping up one post.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "driveway-sealing",
+  "category": "maintenance",
+  "draw": "Driveway surface with a long-handled squeegee spreading a dark sealer layer over it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "crack-monitor-gauge",
+  "category": "maintenance",
+  "draw": "Two overlapping plastic plates with a crosshair grid fixed across a wall crack.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "foundation-underpinning",
+  "category": "maintenance",
+  "draw": "House foundation cross-section with vertical steel piers and jacks installed beneath it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "blown-in-insulation",
+  "category": "maintenance",
+  "draw": "Attic triangle with a hose blowing a cloud of loose-fill insulation onto the floor between joists.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "spray-foam-insulation",
+  "category": "maintenance",
+  "draw": "Spray gun applying a bumpy foam layer between two wall studs.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "rigid-insulation-board",
+  "category": "maintenance",
+  "draw": "Small stack of thick foam boards with one foil-faced board leaning in front.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "cavity-wall-insulation",
+  "category": "maintenance",
+  "draw": "Wall cross-section with two brick leaves and dotted insulation fill injected into the gap between them.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "weatherstripping",
+  "category": "maintenance",
+  "draw": "Roll of foam strip tape with a length being pressed along a door frame edge.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "window-shrink-film",
+  "category": "maintenance",
+  "draw": "Window with a clear film sheet over it and a hair dryer blowing warm air on the film.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "house-heat-loss",
+  "category": "maintenance",
+  "draw": "House outline with wavy heat arrows escaping out through the roof and walls.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "radiant-barrier-foil",
+  "category": "maintenance",
+  "draw": "Attic rafters lined with a shiny foil sheet and sun rays bouncing off it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "caulking-window",
+  "category": "maintenance",
+  "draw": "Caulking gun nozzle laying a bead along the edge of a window frame.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "blower-door-test",
+  "category": "maintenance",
+  "draw": "Door frame fitted with a tight panel holding a large round fan in its center.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "drafty-window",
+  "category": "maintenance",
+  "draw": "Window with curved wind lines blowing in through the gaps around the frame.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "bleeding-radiator",
+  "category": "maintenance",
+  "draw": "Radiator top corner with a small key turned in the bleed valve and a drop falling into a cloth.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "air-duct-cleaning",
+  "category": "maintenance",
+  "draw": "Rectangular air duct cross-section with a rotating brush head on a flexible shaft inside.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "hvac-manifold-gauge",
+  "category": "maintenance",
+  "draw": "Two round pressure gauges side by side on a manifold bar with three hoses hanging below.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "painters-tape",
+  "category": "maintenance",
+  "draw": "Roll of masking tape with a strip pulled out and stuck along a straight wall edge.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "paint-edger",
+  "category": "maintenance",
+  "draw": "Flat rectangular paint pad on a handle with two small guide wheels along one edge.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "paint-stir-stick",
+  "category": "maintenance",
+  "draw": "Flat wooden paddle stick with three holes near the bottom, dipped into an open paint can.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "paint-can-opener",
+  "category": "maintenance",
+  "draw": "Small flat key-shaped lever with a hooked tip prying up the lid rim of a paint can.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "wallpaper-pasting-table",
+  "category": "maintenance",
+  "draw": "Long folding trestle table with a wallpaper roll unrolled across it and a paste brush on top.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "wallpaper-seam-roller",
+  "category": "maintenance",
+  "draw": "Small narrow roller wheel on a short handle pressing the seam between two wallpaper strips.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "wallpaper-steamer",
+  "category": "maintenance",
+  "draw": "Flat rectangular steam plate on a hose connected to a small water tank, steam lines rising.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "peeling-wallpaper",
+  "category": "maintenance",
+  "draw": "Wall corner with a strip of patterned wallpaper curling away from the top.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "hanging-wallpaper",
+  "category": "maintenance",
+  "draw": "Wallpaper strip being unrolled down a wall beside a hanging plumb line.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "spackle-tub",
+  "category": "maintenance",
+  "draw": "Round tub with its lid off, filled with filler and a small putty knife resting on the rim.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "drywall-patch",
+  "category": "maintenance",
+  "draw": "Wall section with a square mesh patch stuck over a hole.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "hole-in-drywall",
+  "category": "maintenance",
+  "draw": "Wall section with a jagged hole and short cracks radiating from it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "filling-wall-crack",
+  "category": "maintenance",
+  "draw": "Wall with a zigzag crack and a filling knife pressing filler into it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "drywall-nail-pop",
+  "category": "maintenance",
+  "draw": "Wall surface with a small raised nail head bump and a circular crack around it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "inside-corner-trowel",
+  "category": "maintenance",
+  "draw": "Trowel with a blade bent at a 90 degree angle on a short handle.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "pole-sander",
+  "category": "maintenance",
+  "draw": "Rectangular sanding pad on a swivel joint attached to a long pole.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "hopper-texture-gun",
+  "category": "maintenance",
+  "draw": "Spray gun with a large open funnel hopper on top and a pistol grip.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "paint-mixer-paddle",
+  "category": "maintenance",
+  "draw": "Drill shaft ending in a spiral mixing paddle dipped in a paint bucket.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "hand-masker",
+  "category": "maintenance",
+  "draw": "Handheld tool holding a paper roll and tape roll together with a cutting edge, paper strip running out.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "plastering-trowel",
+  "category": "maintenance",
+  "draw": "Wide flat rectangular steel blade with a handle mounted on top along its length.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "grout-saw",
+  "category": "maintenance",
+  "draw": "Short handle with a narrow serrated carbide blade at one end, beside tile grout lines.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "caulk-smoothing-tool",
+  "category": "maintenance",
+  "draw": "Small flat plastic spatula with angled rounded corners smoothing a sealant bead in a corner.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "resealing-bathtub",
+  "category": "maintenance",
+  "draw": "Bathtub rim meeting a tiled wall with a fresh sealant bead being laid along the joint by a nozzle.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "deck-staining",
+  "category": "maintenance",
+  "draw": "Wooden deck boards with a wide brush applying a darker stain stripe along one board.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "floor-drum-sander",
+  "category": "maintenance",
+  "draw": "Upright walk-behind floor sanding machine with a large dust bag and a drum at the bottom.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "squeaky-floorboard",
+  "category": "maintenance",
+  "draw": "Floorboard row with one board bowed slightly and short sound lines above it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "cracked-tile",
+  "category": "maintenance",
+  "draw": "Square floor tile inside grout lines with a zigzag crack running across it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "carpet-knee-kicker",
+  "category": "maintenance",
+  "draw": "Short tool with a toothed gripping head at one end and a padded knee cushion at the other.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "cutting-in-paint",
+  "category": "maintenance",
+  "draw": "Angled brush painting a clean line where a wall meets the ceiling.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "lead-paint-test",
+  "category": "maintenance",
+  "draw": "Test swab with a colored tip pressed against a paint chip on a wall.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "tile-leveling-clip",
+  "category": "maintenance",
+  "draw": "Two tile edges with a clip rising between them and a wedge pushed through its slot.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "squeaky-door-hinge",
+  "category": "maintenance",
+  "draw": "Door hinge with an oil can nozzle dripping onto its pin and small sound lines.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "sticking-door",
+  "category": "maintenance",
+  "draw": "Door in its frame with friction marks where the top corner rubs the frame.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "broken-window-pane",
+  "category": "maintenance",
+  "draw": "Window with one pane shattered into radiating cracks and a missing shard.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "window-glazing-putty",
+  "category": "maintenance",
+  "draw": "Window pane corner with a putty knife smoothing a putty bead along the glass edge.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "screen-spline-roller",
+  "category": "maintenance",
+  "draw": "Tool with a wheel at each end of a handle pressing a spline cord into a screen frame groove.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "torn-window-screen",
+  "category": "maintenance",
+  "draw": "Window screen mesh with a ragged tear and frayed edges in the middle.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "garage-door-torsion-spring",
+  "category": "maintenance",
+  "draw": "Top of a garage door with a long coiled spring on a shaft running across above it.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "lock-rekeying",
+  "category": "maintenance",
+  "draw": "Lock cylinder cut open to show a row of pins of different heights with a new key entering.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "shelf-mounting",
+  "category": "maintenance",
+  "draw": "Wall shelf with a spirit level on top and a drill driving a screw into its bracket.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "maintenance-request",
+  "category": "maintenance",
+  "draw": "Form sheet with a small house icon at the top, lines of text and a wrench in the corner.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "home-maintenance-calendar",
+  "category": "maintenance",
+  "draw": "Calendar page with a small house and wrench on several days.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "repair-estimate",
+  "category": "maintenance",
+  "draw": "Document with a wrench and screwdriver crossed at the top and itemized lines ending in a total.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "before-after-renovation",
+  "category": "maintenance",
+  "draw": "House outline split down the middle, left half cracked and shabby, right half clean and new.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "sash-cord-weight",
+  "category": "maintenance",
+  "draw": "Sash window side with a cord running over a pulley at the top to a hanging cylindrical weight.",
+  "domain": "r3-home-maintenance"
+ },
+ {
+  "name": "pop-up-drain-stopper",
+  "category": "maintenance",
+  "draw": "Sink drain cross-section with a round stopper plug on a vertical stem linked to a horizontal pivot rod.",
+  "domain": "r3-home-maintenance"
+ }
+]

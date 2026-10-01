@@ -1,0 +1,482 @@
+[
+ {
+  "name": "tears-of-joy",
+  "category": "faces",
+  "draw": "Round face with tightly closed upturned eyes, a wide open laughing mouth and a big tear drop springing out beside each eye.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "melting-face",
+  "category": "faces",
+  "draw": "Smiling face whose lower half droops and runs down into a flat puddle at the bottom.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "upside-down-face",
+  "category": "faces",
+  "draw": "Simple smiling face drawn upside down, with the smile arc near the top and the two eyes below it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "innocent-face",
+  "category": "faces",
+  "draw": "Smiling face with closed happy eyes and a thin flat halo ring floating above the head.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "adoring-face",
+  "category": "faces",
+  "draw": "Smiling face with closed curved eyes and three small hearts floating around the head.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "zany-face",
+  "category": "faces",
+  "draw": "Tilted face with one big round eye and one small eye, and the tongue hanging out of the mouth to one side.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "money-mouth-face",
+  "category": "faces",
+  "draw": "Grinning face with its tongue sticking out and a dollar sign printed on the tongue.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "hugging-face",
+  "category": "faces",
+  "draw": "Smiling face with closed eyes and two open hands raised in front of the cheeks as if offering a hug.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "smirking-face",
+  "category": "faces",
+  "draw": "Face with half closed eyes glancing to one side and a lopsided smile raised at one corner.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "unamused-face",
+  "category": "faces",
+  "draw": "Face with flat half lidded eyes looking sideways and a short flat mouth turned down at the ends.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "eye-roll-face",
+  "category": "faces",
+  "draw": "Face with both pupils pushed up to the top of the eyes and a flat straight mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "lying-face",
+  "category": "faces",
+  "draw": "Face with a very long pointed nose sticking straight out to one side and a nervous smile.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "drooling-face",
+  "category": "faces",
+  "draw": "Face with closed dreamy eyes, a slack open mouth and a drop of drool running from one corner.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "woozy-face",
+  "category": "faces",
+  "draw": "Face with uneven eyes, one wide and one half closed, a wavy mouth and blush marks on the cheeks.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "monocle-face",
+  "category": "faces",
+  "draw": "Face with a round monocle over one eye, the other brow raised high and a short chain hanging from the lens.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "pleading-face",
+  "category": "faces",
+  "draw": "Face with huge round eyes holding big shine highlights, brows tilted up and a small frown.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "dotted-line-face",
+  "category": "faces",
+  "draw": "Face drawn entirely in a dashed outline with dashed eyes and mouth, as if fading from view.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "exhaling-face",
+  "category": "faces",
+  "draw": "Face with closed eyes and a small puff cloud blowing out from the mouth to one side, like a long sigh.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "saluting-face",
+  "category": "faces",
+  "draw": "Face with a flat hand raised to the brow in a salute and a straight mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "flushed-face",
+  "category": "faces",
+  "draw": "Face with wide round eyes, a tiny round mouth and large solid blush circles on both cheeks.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "blushing-face",
+  "category": "faces",
+  "draw": "Face with closed smiling eyes, a soft smile and short diagonal blush lines on both cheeks.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "shy-face",
+  "category": "faces",
+  "draw": "Face with eyes glancing down and away, blush marks, and two index fingertips touching together below the chin.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "determined-face",
+  "category": "faces",
+  "draw": "Face with sharply lowered brows, a tight straight mouth and a headband tied around the forehead with the knot ends flying.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "pouting-face",
+  "category": "faces",
+  "draw": "Face with lips pushed forward into a pout, one cheek puffed and brows lowered, glancing away.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "fuming-face",
+  "category": "faces",
+  "draw": "Angry face with lowered brows and gritted teeth, with puffs of steam shooting out from both sides of the head.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "cursing-face",
+  "category": "faces",
+  "draw": "Angry face whose mouth is covered by a bar of symbols such as a hash, an at sign and an exclamation mark.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "cross-eyed-face",
+  "category": "faces",
+  "draw": "Face with both pupils turned inward toward the nose and a goofy open grin.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "gap-toothed-grin",
+  "category": "faces",
+  "draw": "Wide grinning face showing a row of upper teeth with a gap where one front tooth is missing.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "smiling-tear-face",
+  "category": "faces",
+  "draw": "Smiling face with upward curved eyes and a single tear drop sliding down one cheek.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "holding-back-tears",
+  "category": "faces",
+  "draw": "Face with big glossy eyes brimming with tears along the lower lids and a pressed, wobbly mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "face-in-clouds",
+  "category": "faces",
+  "draw": "Face half hidden behind a puffy cloud, with only the eyes showing above the cloud.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "knocked-out-face",
+  "category": "faces",
+  "draw": "Face with X marks for eyes, a small open mouth and a round bump rising from the top of the head.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "injured-face",
+  "category": "faces",
+  "draw": "Face with a bandage wrapped around the top of the head and a small plaster strip on one cheek.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "cold-face",
+  "category": "faces",
+  "draw": "Face with chattering zigzag teeth, a small icicle hanging from the chin and a snowflake beside the head.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "overheated-face",
+  "category": "faces",
+  "draw": "Face with droopy eyes, the tongue hanging out and sweat drops flying off both sides of the head.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "screaming-face",
+  "category": "faces",
+  "draw": "Long face with both hands pressed on the cheeks, wide eyes and a tall oval open mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "confounded-face",
+  "category": "faces",
+  "draw": "Face with tightly squeezed eyes drawn as greater than and less than marks and a zigzag mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "nervous-laugh-face",
+  "category": "faces",
+  "draw": "Grinning face with a row of teeth, closed curved eyes and a single sweat drop on the forehead.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "jaw-drop-face",
+  "category": "faces",
+  "draw": "Face with wide eyes and the lower jaw hanging far down, making a very long open mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "mind-blown-face",
+  "category": "faces",
+  "draw": "Head whose top bursts open into a cloud blast, with wide eyes and an open mouth below.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "puffed-cheeks-face",
+  "category": "faces",
+  "draw": "Face with round inflated cheeks, eyes squeezed and lips pressed tightly shut to hold a breath.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "duck-face",
+  "category": "faces",
+  "draw": "Face with lips pushed forward into a flat beak shaped pout and one eyebrow raised, as in a selfie.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "biting-lip-face",
+  "category": "faces",
+  "draw": "Face with raised worried brows and the upper teeth pressing down on the lower lip.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "evil-grin-face",
+  "category": "faces",
+  "draw": "Face with sharply slanted brows, narrow eyes and a wide toothy grin curling up toward the cheeks.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "devil-face",
+  "category": "faces",
+  "draw": "Grinning round face with two small curved horns on top of the head and slanted brows.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "cyborg-face",
+  "category": "faces",
+  "draw": "Face split down the middle, one half human with an eye and half smile, the other half metal plates with a round lens eye.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "cute-monster-face",
+  "category": "faces",
+  "draw": "Round fuzzy edged face with one big central eye, a single small horn and two little fangs in a smile.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "see-no-evil-monkey",
+  "category": "faces",
+  "draw": "Monkey face with round ears and a muzzle, both hands covering its eyes.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "hear-no-evil-monkey",
+  "category": "faces",
+  "draw": "Monkey face with a muzzle and wide eyes, both hands pressed over its ears.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "speak-no-evil-monkey",
+  "category": "faces",
+  "draw": "Monkey face with round ears and wide eyes, both hands covering its mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "grinning-cat-face",
+  "category": "faces",
+  "draw": "Cat face with pointed ears, whiskers and a wide open grin.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "crying-cat-face",
+  "category": "faces",
+  "draw": "Cat face with pointed ears and whiskers, a sad open mouth and a tear running down one cheek.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "heart-eyes-cat-face",
+  "category": "faces",
+  "draw": "Cat face with pointed ears, whiskers, heart shaped eyes and a smile.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "weary-cat-face",
+  "category": "faces",
+  "draw": "Cat face with pointed ears, a shocked open mouth and both paws raised to the cheeks.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "sun-with-face",
+  "category": "faces",
+  "draw": "Round sun disc with a calm smiling face in the middle and short rays all around the edge.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "sour-face",
+  "category": "faces",
+  "draw": "Face with eyes squeezed shut, small puckered lips and a lemon wedge beside the cheek.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "spicy-face",
+  "category": "faces",
+  "draw": "Face with watering eyes and small flames coming out of the wide open mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "concentrating-face",
+  "category": "faces",
+  "draw": "Face with squinting eyes, lowered brows and the tip of the tongue poking out of one corner of the mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "yelling-face",
+  "category": "faces",
+  "draw": "Face with a huge open mouth and short shout lines bursting outward in front of it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "holding-nose-face",
+  "category": "faces",
+  "draw": "Face with two fingers pinching the nose, squinted eyes and wavy odor lines rising beside it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "wincing-face",
+  "category": "faces",
+  "draw": "Face with one eye squeezed shut, the other half open and clenched teeth pulled to one side.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "hair-raising-face",
+  "category": "faces",
+  "draw": "Frightened face with wide eyes, a small open mouth and spiky hair standing straight up on end.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "bubble-gum-face",
+  "category": "faces",
+  "draw": "Face with half closed eyes blowing a large round gum bubble from the lips.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "paper-bag-head",
+  "category": "faces",
+  "draw": "Paper bag pulled down over a head with two cut out eye holes and a crinkled folded top edge.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "fake-smile-mask",
+  "category": "faces",
+  "draw": "Sad face partly hidden behind a smiling mask held up in front of it on a stick.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "mixed-feelings-face",
+  "category": "faces",
+  "draw": "Face split down the middle, one half smiling with a raised brow and the other half frowning.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "emotion-wheel",
+  "category": "faces",
+  "draw": "Circle divided into wedge segments like a pie chart with a small smiling face in the center.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "mood-ring",
+  "category": "faces",
+  "draw": "Finger ring seen at an angle with a large oval stone showing a small smiling face.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "anger-symbol",
+  "category": "faces",
+  "draw": "Four curved bulging vein strokes arranged in a cross, the cartoon anger mark.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "dizzy-symbol",
+  "category": "faces",
+  "draw": "Small star with a curling spiral trail swooping behind it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "looking-eyes",
+  "category": "faces",
+  "draw": "Pair of large eyeballs side by side with the pupils glancing to one side.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "angry-speech-bubble",
+  "category": "faces",
+  "draw": "Jagged spiky speech bubble with a small cartoon anger mark inside.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "pixel-smiley",
+  "category": "faces",
+  "draw": "Smiley face built from square pixels, with a blocky circle outline, two square eyes and a stepped smile.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "emotional-intelligence",
+  "category": "faces",
+  "draw": "Head in profile with a heart shape inside the head and small radiating lines around it.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "hannya-mask",
+  "category": "faces",
+  "draw": "Demon mask with two sharp horns, wide staring eyes and a wide grimacing mouth full of teeth and fangs.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "okame-mask",
+  "category": "faces",
+  "draw": "Round smiling mask with full puffy cheeks, crescent eyes, small high dot brows and hair parted at the top.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "hyottoko-mask",
+  "category": "faces",
+  "draw": "Mask with pursed lips pushed to one side as if blowing, one eye larger than the other and a scarf knotted on top.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "kabuki-face",
+  "category": "faces",
+  "draw": "Face with bold makeup stripes sweeping up from the eyes and brows to the temples and a downturned mouth.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "peking-opera-mask",
+  "category": "faces",
+  "draw": "Face mask with symmetric bold painted patterns, wing shaped brows sweeping upward and a painted emblem on the forehead.",
+  "domain": "r2-emotions-expressions"
+ },
+ {
+  "name": "kathakali-face",
+  "category": "faces",
+  "draw": "Face with a stiff white ridged frame along the jaw, long painted eyes and a tall round crown headdress.",
+  "domain": "r2-emotions-expressions"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "name": "baguette",
+  "category": "bakery",
+  "draw": "Long thin loaf lying diagonally with four slanted score slashes along its top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bagel",
+  "category": "bakery",
+  "draw": "Front view of a thick ring of bread with a round hole and a few sesame dots on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "brioche",
+  "category": "bakery",
+  "draw": "Fluted round base like a cupcake topped with a smaller round knob of bread.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "challah",
+  "category": "bakery",
+  "draw": "Side view of a plump braided loaf showing three interwoven strands tapering at both ends.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ciabatta",
+  "category": "bakery",
+  "draw": "Flat, wide rectangular loaf with rounded corners and a few irregular flour streaks on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "focaccia",
+  "category": "bakery",
+  "draw": "Rectangular slab of bread seen from above covered in evenly spaced dimples and a small rosemary sprig.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cottage-loaf",
+  "category": "bakery",
+  "draw": "Loaf made of a small round bun sitting on top of a larger round bun, with a dimple in the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pullman-loaf",
+  "category": "bakery",
+  "draw": "Side view of a square box-shaped sandwich loaf with sharp corners and a flat top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sliced-bread",
+  "category": "bakery",
+  "draw": "Loaf in side view with three separate slices fanned out from its end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "rye-bread",
+  "category": "bakery",
+  "draw": "Oval dark loaf with a crosshatched diamond pattern scored across the top and seed dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "epi-bread",
+  "category": "bakery",
+  "draw": "Baguette cut into alternating pointed leaves along a central stem so it looks like a wheat ear.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "fougasse",
+  "category": "bakery",
+  "draw": "Flat leaf-shaped bread with a central vein slit and three angled slits on each side.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pita",
+  "category": "bakery",
+  "draw": "Round flat pocket bread cut in half so the open half-moon shows a hollow pocket.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "naan",
+  "category": "bakery",
+  "draw": "Teardrop-shaped flatbread with a few scattered bubbly char spots on the surface.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "tortillas",
+  "category": "bakery",
+  "draw": "Stack of three thin round flatbreads seen at a slight angle with a few toasted spots on the top one.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "paratha",
+  "category": "bakery",
+  "draw": "Round flatbread seen from above with a spiral of flaky layers visible on its surface.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bread-roll",
+  "category": "bakery",
+  "draw": "Small round dinner roll with a single slash across its glossy dome.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "kaiser-roll",
+  "category": "bakery",
+  "draw": "Round roll seen from above with five curved folds spiralling out from the center like a pinwheel.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "burger-bun",
+  "category": "bakery",
+  "draw": "Empty split bun: domed sesame-dotted top half floating above a flat bottom half.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "hot-dog-bun",
+  "category": "bakery",
+  "draw": "Long soft bun split along its top edge with the opening visible.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "english-muffin",
+  "category": "bakery",
+  "draw": "Flat round muffin split in half horizontally with a rough craggy inner face and cornmeal dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "crumpet",
+  "category": "bakery",
+  "draw": "Short thick round griddle cake seen at an angle with many small holes across the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "scone",
+  "category": "bakery",
+  "draw": "Tall round scone split sideways with a dollop of cream and a dab of jam in the middle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "buttermilk-biscuit",
+  "category": "bakery",
+  "draw": "Tall round biscuit in side view showing stacked flaky layers and a golden top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cornbread",
+  "category": "bakery",
+  "draw": "Square piece of cornbread with a golden grid of crumb dots and a pat of butter on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "hot-cross-bun",
+  "category": "bakery",
+  "draw": "Round glossy bun with a piped cross of icing over the top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "breadsticks",
+  "category": "bakery",
+  "draw": "Three thin long crisp sticks of bread standing in a small cup.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "croutons",
+  "category": "bakery",
+  "draw": "Four small toasted bread cubes with rough edges tumbled together.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "garlic-knot",
+  "category": "bakery",
+  "draw": "Small bread roll tied in a single loose knot with herb dots on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "toast-slice",
+  "category": "bakery",
+  "draw": "Single square slice of toasted bread with a domed top edge and a melting pat of butter.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "french-toast",
+  "category": "bakery",
+  "draw": "Two stacked thick slices of bread with a pat of butter on top and syrup dripping down the side.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "concha",
+  "category": "bakery",
+  "draw": "Domed sweet bun whose top is covered in a scored shell pattern of curved grooves.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pan-de-muerto",
+  "category": "bakery",
+  "draw": "Round domed bread with crossed bone-shaped dough strips over the top and a small ball in the center.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "panettone",
+  "category": "bakery",
+  "draw": "Tall domed cylinder of sweet bread wrapped in a paper band with a mushroom-shaped top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pandoro",
+  "category": "bakery",
+  "draw": "Tall bread shaped like an eight-pointed star in top view tapering upward, dusted with sugar dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "babka",
+  "category": "bakery",
+  "draw": "Loaf in side view with its cut end showing a marbled swirl of chocolate through the crumb.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "banana-bread",
+  "category": "bakery",
+  "draw": "Rectangular loaf with a cracked top and a halved banana lying lengthwise on it.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sourdough-starter",
+  "category": "bakery",
+  "draw": "Jar with a loose lid filled with bubbly dough and a band marking its rise.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "dough-ball",
+  "category": "bakery",
+  "draw": "Smooth round ball of dough on a surface with a light flour dusting.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "proofing-bowl",
+  "category": "bakery",
+  "draw": "Bowl covered with a cloth that bulges upward from the rising dough underneath.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "flour-sack",
+  "category": "bakery",
+  "draw": "Tied cloth sack slumped on its base with a wheat ear printed on the front.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cinnamon-roll",
+  "category": "bakery",
+  "draw": "Top view of a round pastry with a clear spiral of dough and a drizzle of icing.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pain-au-chocolat",
+  "category": "bakery",
+  "draw": "Rectangular flaky pastry roll with layered stripes and two dark chocolate ends peeking out.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "danish-pastry",
+  "category": "bakery",
+  "draw": "Square pastry with its corners folded toward the center around a round fruit filling.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "eclair",
+  "category": "bakery",
+  "draw": "Long oblong choux pastry with a smooth glaze covering the top half.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cream-puff",
+  "category": "bakery",
+  "draw": "Round puffy choux ball split in the middle with cream showing and powdered sugar dots on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "paris-brest",
+  "category": "bakery",
+  "draw": "Ring of choux pastry split horizontally with a thick band of piped cream and flaked almond dots on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "religieuse",
+  "category": "bakery",
+  "draw": "Small choux bun stacked on a larger choux bun, both glazed, with a collar of piped cream between them.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "croquembouche",
+  "category": "bakery",
+  "draw": "Tall cone tower built from stacked round cream puffs wrapped in thin spun sugar lines.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "macaron",
+  "category": "bakery",
+  "draw": "Side view of two round domed shells with ruffled feet and a thick layer of filling between them.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mille-feuille",
+  "category": "bakery",
+  "draw": "Rectangular slice showing three flaky pastry layers with cream between and a feathered icing top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "strudel",
+  "category": "bakery",
+  "draw": "Long rolled pastry log with diagonal slits along the top and a sliced end showing a spiral.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "baklava",
+  "category": "bakery",
+  "draw": "Diamond-shaped piece of pastry showing many thin horizontal layers with a nut layer in the middle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "churros",
+  "category": "bakery",
+  "draw": "Long ridged fried dough stick with star-shaped grooves, dipped into a small cup of chocolate.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "beignet",
+  "category": "bakery",
+  "draw": "Square puffy fried dough pillow heavily dusted with powdered sugar dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cannoli",
+  "category": "bakery",
+  "draw": "Crisp pastry tube lying on its side with cream filling bulging from both open ends.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "turnover",
+  "category": "bakery",
+  "draw": "Triangular pastry with a crimped edge along two sides and small steam slits on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pastry-twist",
+  "category": "bakery",
+  "draw": "Long flaky pastry strip twisted into a tight spiral with seed dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cream-horn",
+  "category": "bakery",
+  "draw": "Cone of spiralled flaky pastry lying on its side with whipped cream swirled at the wide open end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sfogliatella",
+  "category": "bakery",
+  "draw": "Shell-shaped pastry made of many thin fanned layers radiating from a pointed end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "palmier",
+  "category": "bakery",
+  "draw": "Flat pastry shaped like two scrolls curling inward to meet in the middle, forming a heart-like outline.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "vol-au-vent",
+  "category": "bakery",
+  "draw": "Small round tower of puff pastry with a hollow center holding filling and a little pastry lid on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "toaster-pastry",
+  "category": "bakery",
+  "draw": "Flat rectangle of pastry with a crimped border, iced top and sprinkles.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "egg-tart",
+  "category": "bakery",
+  "draw": "Round fluted pastry cup holding a glossy custard filling with a few caramelized spots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "fruit-tart",
+  "category": "bakery",
+  "draw": "Round tart with a fluted rim topped with circles of sliced fruit and a berry in the center.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "quiche",
+  "category": "bakery",
+  "draw": "Round fluted pastry crust filled with a flat savory custard, with one wedge cut out.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "galette",
+  "category": "bakery",
+  "draw": "Rustic round pastry with its edges folded up in pleats around an exposed fruit filling.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pie-slice",
+  "category": "bakery",
+  "draw": "Triangular wedge of pie with a curved crimped crust edge and a lattice top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "meringue-pie",
+  "category": "bakery",
+  "draw": "Wedge of pie topped with a tall layer of swirled meringue peaks.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mince-pie",
+  "category": "bakery",
+  "draw": "Small round pie in a fluted case with a star-shaped cut-out lid dusted with sugar.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cornish-pasty",
+  "category": "bakery",
+  "draw": "D-shaped pastry standing on its flat side with a rope crimp running along the top ridge.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pie-bird",
+  "category": "bakery",
+  "draw": "Small ceramic bird with an open beak poking up through the top crust of a pie.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "madeleine",
+  "category": "bakery",
+  "draw": "Small shell-shaped cake with ridged grooves fanning out from a narrow end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "canele",
+  "category": "bakery",
+  "draw": "Small tall fluted cylinder cake with deep vertical ridges and a darker caramelized top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "crepe",
+  "category": "bakery",
+  "draw": "Thin pancake folded into a triangle quarter with a drizzle of sauce.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cruller",
+  "category": "bakery",
+  "draw": "Ring doughnut with deep twisted ridges running around it and a thin glaze.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "jelly-donut",
+  "category": "bakery",
+  "draw": "Round sugar-dusted doughnut with no hole and a small blob of jam oozing from one side.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "long-john-donut",
+  "category": "bakery",
+  "draw": "Long rectangular bar-shaped doughnut with a smooth glaze on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "funnel-cake",
+  "category": "bakery",
+  "draw": "Tangled lattice of squiggly fried batter on a plate topped with powdered sugar.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "stroopwafel",
+  "category": "bakery",
+  "draw": "Thin round waffle cookie with a fine grid pattern and a visible layer of caramel between two halves.",
+  "domain": "bakery-sweets-dairy"
+ }
+]

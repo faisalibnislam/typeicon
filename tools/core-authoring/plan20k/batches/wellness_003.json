@@ -1,0 +1,482 @@
+[
+ {
+  "name": "head-massage",
+  "category": "wellness",
+  "draw": "Front view head with fingertips from both hands pressing on the scalp.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "foot-massage",
+  "category": "wellness",
+  "draw": "Side view of a bare foot with two thumbs pressing on the sole.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "reflexology-chart",
+  "category": "wellness",
+  "draw": "The sole of a foot divided into labelled zones with small dots and lines.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "acupuncture",
+  "category": "wellness",
+  "draw": "Side view of a back or shoulder outline with three thin needles inserted upright.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "cupping-therapy",
+  "category": "wellness",
+  "draw": "A back outline with four round glass cups placed on it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "acupressure-mat",
+  "category": "wellness",
+  "draw": "Three-quarter view of a flat mat covered in rows of small spiky flower discs.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "scalp-massager",
+  "category": "wellness",
+  "draw": "A handle with a spray of long curved wire prongs ending in small balls.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "foot-roller",
+  "category": "wellness",
+  "draw": "A wooden roller with ridged spikes set on a flat base with a bare foot on top.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "herbal-compress",
+  "category": "wellness",
+  "draw": "A round cloth bundle tied tightly around a short wooden handle with a tail of fabric.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "chiropractic-adjustment",
+  "category": "wellness",
+  "draw": "A spine column with two hands pressing on the vertebrae.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "singing-bowl",
+  "category": "wellness",
+  "draw": "Side view of a wide metal bowl on a small cushion with a wooden striker resting beside it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "incense-stick",
+  "category": "wellness",
+  "draw": "A thin stick standing in a small holder with a curling ribbon of smoke rising from the tip.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "smudge-stick",
+  "category": "wellness",
+  "draw": "A tied bundle of dried sage leaves with a wisp of smoke from one end.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "zen-stones",
+  "category": "wellness",
+  "draw": "A stack of four smooth flat stones balanced on each other, getting smaller toward the top.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "zen-garden",
+  "category": "wellness",
+  "draw": "Top view of a rectangle of raked sand with parallel lines circling around two rocks.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "tabletop-fountain",
+  "category": "wellness",
+  "draw": "Side view of stacked stone bowls with water spilling over from one to the next.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "spa-towels",
+  "category": "wellness",
+  "draw": "A stack of rolled towels seen from the ends, pyramid style, with a small flower on top.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "spa-slippers",
+  "category": "wellness",
+  "draw": "Top view of a pair of open toe slippers with a wide strap.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "facial-treatment",
+  "category": "wellness",
+  "draw": "Front view face with a headband, a mask covering the skin and cucumber slices on the eyes.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "food-pyramid",
+  "category": "wellness",
+  "draw": "A triangle divided into horizontal layers with small food shapes in each band.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "macronutrients",
+  "category": "wellness",
+  "draw": "A pie chart divided into three segments labelled P, C and F.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "nutrition-label",
+  "category": "wellness",
+  "draw": "A tall rectangle panel with a bold heading bar and rows of lines with values.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "protein-powder",
+  "category": "wellness",
+  "draw": "A large tub with a screw lid and a scoop of powder resting in front.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "protein-bar",
+  "category": "wellness",
+  "draw": "A wrapped bar with crimped ends and a snapped off piece showing the inside.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "energy-gel",
+  "category": "wellness",
+  "draw": "A small tear-open sachet with a notched top and a drop symbol on it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "fish-oil-capsule",
+  "category": "wellness",
+  "draw": "A clear oval softgel capsule with a small fish outline inside.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "vitamins",
+  "category": "wellness",
+  "draw": "Three capsules and tablets marked with the letters A, C and D.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "probiotic",
+  "category": "wellness",
+  "draw": "A capsule split open with small rod-shaped bacteria spilling out.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "meal-prep",
+  "category": "wellness",
+  "draw": "Three stacked rectangular food containers with lids, each divided into compartments.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "food-diary",
+  "category": "wellness",
+  "draw": "An open notebook with an apple on one page and lines on the other.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "water-intake",
+  "category": "wellness",
+  "draw": "A tall glass with measurement marks up the side, partly filled, with a water drop beside it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "smoothie",
+  "category": "wellness",
+  "draw": "A tall glass with a thick drink, a domed lid and a wide straw, with a fruit slice on the rim.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "acai-bowl",
+  "category": "wellness",
+  "draw": "Side view of a bowl topped with rows of sliced fruit, berries and granola.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "overnight-oats",
+  "category": "wellness",
+  "draw": "A mason jar filled with layered oats and fruit with a spoon sticking out.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "intermittent-fasting",
+  "category": "wellness",
+  "draw": "Top view of an empty plate with clock hands in the middle and a fork beside it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "vegetarian-symbol",
+  "category": "wellness",
+  "draw": "A square outline with a filled circle in the centre, the common vegetarian food mark.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "bmi-chart",
+  "category": "wellness",
+  "draw": "A horizontal gauge bar in four segments with a pointer arrow above one segment.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "glucose-meter",
+  "category": "wellness",
+  "draw": "A small handheld meter with a display and a test strip inserted at the top, with a blood drop.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "counting-sheep",
+  "category": "wellness",
+  "draw": "A fluffy sheep jumping over a low fence with a small Zzz above.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "sleeping-person",
+  "category": "wellness",
+  "draw": "A person lying in bed under a blanket with the head on a pillow and Zzz rising.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "snoring",
+  "category": "wellness",
+  "draw": "Side view head with closed eyes and open mouth, sound wave lines coming out.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "weighted-blanket",
+  "category": "wellness",
+  "draw": "A folded quilted blanket with a grid of small square pockets and a weight tag.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "sleep-stages",
+  "category": "wellness",
+  "draw": "A stepped line graph dropping and rising through three levels under a crescent moon.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "circadian-rhythm",
+  "category": "wellness",
+  "draw": "A circle split into a day half with a sun and a night half with a moon, arrows looping around.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "cpap-mask",
+  "category": "wellness",
+  "draw": "Front view of a nose mask with head straps and a hose running down from it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "sleeping-cap",
+  "category": "wellness",
+  "draw": "A long floppy nightcap with a pom pom at the drooping tip.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "sleepwalking",
+  "category": "wellness",
+  "draw": "Side view figure in pajamas walking with arms stretched out forward and eyes closed, Zzz above.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "yawning-face",
+  "category": "wellness",
+  "draw": "A round face with closed eyes and a wide open oval mouth with a hand partly covering it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "stress",
+  "category": "wellness",
+  "draw": "Head outline with a jagged lightning bolt inside and short tension lines around it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "burnout",
+  "category": "wellness",
+  "draw": "Head outline with a nearly empty battery inside.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "depression",
+  "category": "wellness",
+  "draw": "Head outline with a small rain cloud above it and falling drops.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "brain-fog",
+  "category": "wellness",
+  "draw": "Head outline with a hazy cloud filling the space where the brain is.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "overthinking",
+  "category": "wellness",
+  "draw": "Head outline with many looping spiral lines spilling out of the top.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "calm-mind",
+  "category": "wellness",
+  "draw": "Head outline with a few gentle horizontal wave lines inside.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "focus-mind",
+  "category": "wellness",
+  "draw": "Head outline with a target bullseye inside.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "growth-mindset",
+  "category": "wellness",
+  "draw": "Head outline with a small sprouting plant growing out of the top.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "self-hug",
+  "category": "wellness",
+  "draw": "Upper body figure with both arms wrapped around itself and a small heart.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "therapy-couch",
+  "category": "wellness",
+  "draw": "Side view of a long reclining couch with a raised headrest and a chair beside it.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "therapy-session",
+  "category": "wellness",
+  "draw": "Two figures seated in chairs facing each other with a small speech bubble between them.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "support-group",
+  "category": "wellness",
+  "draw": "Top view of a circle of chairs with small head shapes around a centre heart.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "crisis-helpline",
+  "category": "wellness",
+  "draw": "A telephone handset with a heart beside it and small signal lines.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "mood-tracker",
+  "category": "wellness",
+  "draw": "A row of three small faces going from sad to neutral to happy with a check under one.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "gratitude-journal",
+  "category": "wellness",
+  "draw": "A closed notebook with a heart on the cover and a ribbon bookmark.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "breathwork",
+  "category": "wellness",
+  "draw": "Lungs outline with curved airflow lines entering from above.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "box-breathing",
+  "category": "wellness",
+  "draw": "A square path with an arrow on each side going around and a dot at one corner.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "emotional-balance",
+  "category": "wellness",
+  "draw": "A balance scale with a heart on one pan and a brain on the other.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "social-battery",
+  "category": "wellness",
+  "draw": "A battery shape with two small people figures inside, half filled.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "work-life-balance",
+  "category": "wellness",
+  "draw": "A balance scale with a briefcase on one pan and a house on the other.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "hand-on-shoulder",
+  "category": "wellness",
+  "draw": "Two figures side by side, one resting a hand on the other shoulder.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "safe-space",
+  "category": "wellness",
+  "draw": "A simple house outline with a heart inside.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "enso-circle",
+  "category": "wellness",
+  "draw": "A single brush stroke circle that is not quite closed, thick at the start and tapering at the end.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "mandala",
+  "category": "wellness",
+  "draw": "A circular pattern of concentric rings of petals around a centre dot.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "chakras",
+  "category": "wellness",
+  "draw": "A seated meditating figure with seven small circles along the centre line from head to base.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "forest-bathing",
+  "category": "wellness",
+  "draw": "A figure standing with arms open among three tall pine trees.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "sound-bath",
+  "category": "wellness",
+  "draw": "A lying figure with a gong or singing bowl beside it and curved sound waves over the body.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "guided-meditation",
+  "category": "wellness",
+  "draw": "A meditating figure with headphones over the ears.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "relaxing-bath",
+  "category": "wellness",
+  "draw": "Side view of a bathtub with a person head and knee above bubbles and a small candle on the rim.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "scented-candle",
+  "category": "wellness",
+  "draw": "A candle in a round glass jar with a lid beside it and a curl of scent above the flame.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "cozy-blanket",
+  "category": "wellness",
+  "draw": "A figure wrapped in a thick blanket holding a steaming mug.",
+  "domain": "wellness-and-fitness"
+ },
+ {
+  "name": "digital-detox",
+  "category": "wellness",
+  "draw": "A smartphone lying face down with a small leaf growing beside it.",
+  "domain": "wellness-and-fitness"
+ }
+]

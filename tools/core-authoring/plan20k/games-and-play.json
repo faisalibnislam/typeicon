@@ -1,0 +1,1417 @@
+[
+  {
+    "name": "spade-suit",
+    "category": "play",
+    "draw": "Playing card spade: an upside down heart shape with a pointed top and a short flared stem at the bottom."
+  },
+  {
+    "name": "club-suit",
+    "category": "play",
+    "draw": "Playing card club: three round lobes arranged in a trefoil above a short flared stem."
+  },
+  {
+    "name": "card-suits",
+    "category": "play",
+    "draw": "Two by two grid of the four card suits: spade, heart, diamond and club, each small and solid."
+  },
+  {
+    "name": "joker-card",
+    "category": "play",
+    "draw": "Upright playing card showing a jester cap with three drooping bells in its center."
+  },
+  {
+    "name": "ace-card",
+    "category": "play",
+    "draw": "Upright playing card with a large single spade in the middle and a small A in the top left corner."
+  },
+  {
+    "name": "king-card",
+    "category": "play",
+    "draw": "Upright playing card with a small crown in the center and a K in the top left corner."
+  },
+  {
+    "name": "queen-card",
+    "category": "play",
+    "draw": "Upright playing card with a small tiara in the center and a Q in the top left corner."
+  },
+  {
+    "name": "jack-card",
+    "category": "play",
+    "draw": "Upright playing card with a feathered cap in the center and a J in the top left corner."
+  },
+  {
+    "name": "wild-card",
+    "category": "play",
+    "draw": "Playing card with a large circle split into four quadrants and a small star in each corner."
+  },
+  {
+    "name": "card-back",
+    "category": "play",
+    "draw": "Face down playing card with a rounded border and a diagonal lattice pattern filling its back."
+  },
+  {
+    "name": "card-shuffle",
+    "category": "play",
+    "draw": "Two halves of a deck bending toward each other in an arch as cards riffle together."
+  },
+  {
+    "name": "card-deal",
+    "category": "play",
+    "draw": "Hand at the lower left flicking a single card across toward the upper right with small motion lines."
+  },
+  {
+    "name": "draw-card",
+    "category": "play",
+    "draw": "Small deck of stacked cards with the top card lifted away and a curved arrow pulling it off."
+  },
+  {
+    "name": "cut-the-deck",
+    "category": "play",
+    "draw": "Deck of cards split into two stacks with the top stack lifted and moved to the side."
+  },
+  {
+    "name": "discard-pile",
+    "category": "play",
+    "draw": "Messy pile of playing cards lying at different angles on top of each other."
+  },
+  {
+    "name": "card-hand",
+    "category": "play",
+    "draw": "Five playing cards fanned in an arc as if held, with suit marks on the visible corners."
+  },
+  {
+    "name": "house-of-cards",
+    "category": "play",
+    "draw": "Triangle of leaning playing cards, two tiers of tented pairs with a flat card bridging them."
+  },
+  {
+    "name": "booster-pack",
+    "category": "play",
+    "draw": "Tall foil card pack with crimped zigzag seals at top and bottom and a star burst on its face."
+  },
+  {
+    "name": "card-sleeve",
+    "category": "play",
+    "draw": "Clear card sleeve with a card half slid into it, the sleeve drawn as a dashed outline slightly larger than the card."
+  },
+  {
+    "name": "card-binder",
+    "category": "play",
+    "draw": "Open binder page with a three by three grid of card pockets and ring holes on the left edge."
+  },
+  {
+    "name": "card-deck-box",
+    "category": "play",
+    "draw": "Upright box with a hinged flip lid tilted open and the top edges of cards showing inside."
+  },
+  {
+    "name": "card-table",
+    "category": "play",
+    "draw": "Square folding table seen at three quarter view with a few cards spread on its top."
+  },
+  {
+    "name": "cribbage-board",
+    "category": "play",
+    "draw": "Long narrow board with two parallel rows of peg holes along a track and two pegs standing in it."
+  },
+  {
+    "name": "mahjong-tile",
+    "category": "play",
+    "draw": "Upright rounded tile with a thick base edge and a bamboo stalk motif of two short segments on its face."
+  },
+  {
+    "name": "hanafuda-card",
+    "category": "play",
+    "draw": "Small upright card showing a full moon over a curved hill line, the classic flower card look."
+  },
+  {
+    "name": "tile-rack",
+    "category": "play",
+    "draw": "Angled wooden rack seen from the front holding a row of five square letter tiles."
+  },
+  {
+    "name": "score-pad",
+    "category": "play",
+    "draw": "Notepad with a spiral top and a two column score grid with a few tally ticks in the rows."
+  },
+  {
+    "name": "chess-board",
+    "category": "play",
+    "draw": "Square board in slight perspective with an eight by eight checker pattern of alternating filled squares."
+  },
+  {
+    "name": "chess-checkmate",
+    "category": "play",
+    "draw": "Chess king piece toppled on its side lying flat, its cross top pointing sideways."
+  },
+  {
+    "name": "checkers-piece",
+    "category": "play",
+    "draw": "Single round checker disc seen at a low angle with ridged edges and a raised ring on top."
+  },
+  {
+    "name": "checkers-king",
+    "category": "play",
+    "draw": "Two stacked checker discs with a small crown mark on the top disc."
+  },
+  {
+    "name": "go-board",
+    "category": "play",
+    "draw": "Square board with a grid of lines and a few black and white round stones sitting on intersections."
+  },
+  {
+    "name": "go-stone-bowl",
+    "category": "play",
+    "draw": "Round wooden bowl with a domed lid set beside it, a few lens shaped stones inside."
+  },
+  {
+    "name": "backgammon-board",
+    "category": "play",
+    "draw": "Open rectangular board with long narrow triangular points along both sides and a center bar."
+  },
+  {
+    "name": "doubling-cube",
+    "category": "play",
+    "draw": "Single cube in three quarter view with the number 64 on its front face."
+  },
+  {
+    "name": "mancala-board",
+    "category": "play",
+    "draw": "Long oval board with two rows of six round pits and a larger oblong store at each end."
+  },
+  {
+    "name": "nine-mens-morris",
+    "category": "play",
+    "draw": "Three nested squares joined by lines at the midpoints of each side, with dots at the corners."
+  },
+  {
+    "name": "tic-tac-toe",
+    "category": "play",
+    "draw": "Hash grid of two vertical and two horizontal lines with an X and an O in some cells."
+  },
+  {
+    "name": "four-in-a-row",
+    "category": "play",
+    "draw": "Upright grid frame on small feet with round holes, some filled with discs stacked from the bottom."
+  },
+  {
+    "name": "dots-and-boxes",
+    "category": "play",
+    "draw": "Grid of dots with a few connecting line segments and one completed filled square."
+  },
+  {
+    "name": "ludo-board",
+    "category": "play",
+    "draw": "Cross shaped track board with a large square home base in each of the four corners."
+  },
+  {
+    "name": "chinese-checkers",
+    "category": "play",
+    "draw": "Six pointed star shaped board filled with small round holes, a few marbles in one point."
+  },
+  {
+    "name": "board-game-box",
+    "category": "play",
+    "draw": "Flat rectangular game box with its lid lifted and offset, a die and a pawn shape on the lid."
+  },
+  {
+    "name": "game-board-path",
+    "category": "play",
+    "draw": "Winding track of connected square spaces from a start circle to a finish star."
+  },
+  {
+    "name": "game-spinner",
+    "category": "play",
+    "draw": "Square card with a circle split into four sectors and a pointer arrow pinned at the center."
+  },
+  {
+    "name": "meeple",
+    "category": "play",
+    "draw": "Flat stubby person shaped game token with a round head and arms and legs spread wide."
+  },
+  {
+    "name": "house-token",
+    "category": "play",
+    "draw": "Tiny board game house piece: a small cube with a pitched roof, seen at three quarter view."
+  },
+  {
+    "name": "tumbling-tower",
+    "category": "play",
+    "draw": "Tall stack of crisscrossed wooden blocks in layers of three with one block sliding out of the middle."
+  },
+  {
+    "name": "domino-tile",
+    "category": "play",
+    "draw": "Upright domino split into two halves by a center line with pips on each half."
+  },
+  {
+    "name": "domino-chain",
+    "category": "play",
+    "draw": "Row of standing dominoes in a curve with the first few tipping over onto the next."
+  },
+  {
+    "name": "tetromino",
+    "category": "play",
+    "draw": "Four square blocks joined into a T shape, drawn as a falling puzzle block."
+  },
+  {
+    "name": "shogi-piece",
+    "category": "play",
+    "draw": "Flat pentagonal wedge piece pointing upward with a short vertical mark written on its face."
+  },
+  {
+    "name": "xiangqi-piece",
+    "category": "play",
+    "draw": "Flat round disc with a double ring border and a simple character mark in the center."
+  },
+  {
+    "name": "reversi",
+    "category": "play",
+    "draw": "Round flip disc tilted to show one half dark and one half light, with a curved flip arrow."
+  },
+  {
+    "name": "peg-solitaire",
+    "category": "play",
+    "draw": "Cross shaped board of holes filled with pegs except the single empty center hole."
+  },
+  {
+    "name": "tower-of-hanoi",
+    "category": "play",
+    "draw": "Base with three upright rods, a stack of discs shrinking in size on the left rod."
+  },
+  {
+    "name": "puzzle-box",
+    "category": "play",
+    "draw": "Wooden box with a sliding panel on its side shifted out and a small keyhole shaped notch."
+  },
+  {
+    "name": "shut-the-box",
+    "category": "play",
+    "draw": "Open wooden tray with a row of numbered flip tiles, some flipped down, and two dice in front."
+  },
+  {
+    "name": "tiddlywinks",
+    "category": "play",
+    "draw": "Small cup with a tiny disc flipping through the air toward it from a larger shooting disc."
+  },
+  {
+    "name": "senet-board",
+    "category": "play",
+    "draw": "Long board divided into three rows of ten squares with a few spool shaped pieces standing on it."
+  },
+  {
+    "name": "royal-game-of-ur",
+    "category": "play",
+    "draw": "Board of squares in two blocks joined by a narrow bridge, with a rosette on some squares."
+  },
+  {
+    "name": "tafl-board",
+    "category": "play",
+    "draw": "Square grid board with a marked center square holding a king piece and marked corner squares."
+  },
+  {
+    "name": "carrom-board",
+    "category": "play",
+    "draw": "Square board with round pockets in each corner and a ring of small discs in the center circle."
+  },
+  {
+    "name": "crokinole-board",
+    "category": "play",
+    "draw": "Round board with concentric rings, a ring of small posts on the middle circle and a hole in the center."
+  },
+  {
+    "name": "sea-battle-grid",
+    "category": "play",
+    "draw": "Square grid with a long ship shape across some cells and small peg dots marking hits and misses."
+  },
+  {
+    "name": "code-breaker-game",
+    "category": "play",
+    "draw": "Board with rows of four colored peg holes and a small two by two cluster of key pegs beside each row."
+  },
+  {
+    "name": "word-dice-grid",
+    "category": "play",
+    "draw": "Four by four tray of letter cubes seen from above, each cube showing a letter."
+  },
+  {
+    "name": "tilt-maze",
+    "category": "play",
+    "draw": "Square wooden box maze with walls and holes and a small ball rolling along the path, knobs on two sides."
+  },
+  {
+    "name": "bingo-card",
+    "category": "play",
+    "draw": "Five by five grid card with a star in the center cell and a few cells covered by round markers."
+  },
+  {
+    "name": "bingo-dauber",
+    "category": "play",
+    "draw": "Squat bottle marker with a round sponge tip and a dotted circle stamp beside it."
+  },
+  {
+    "name": "game-show-buzzer",
+    "category": "play",
+    "draw": "Large round push button on a short base with a mushroom cap and a small sound burst above."
+  },
+  {
+    "name": "rulebook",
+    "category": "play",
+    "draw": "Thin stapled booklet with a die icon on the cover and a numbered list line below it."
+  },
+  {
+    "name": "cardboard-standee",
+    "category": "play",
+    "draw": "Flat cutout figure silhouette slotted upright into a small plastic stand."
+  },
+  {
+    "name": "sequence-memory-game",
+    "category": "play",
+    "draw": "Round toy split into four quadrant buttons around a center hub, one quadrant lit."
+  },
+  {
+    "name": "dice-d4",
+    "category": "play",
+    "draw": "Four sided die: a tetrahedron drawn as a triangle with a line to its center showing faces, number 4 on front."
+  },
+  {
+    "name": "dice-d8",
+    "category": "play",
+    "draw": "Eight sided die: a diamond outline with a horizontal middle edge and lines to the tips."
+  },
+  {
+    "name": "dice-d10",
+    "category": "play",
+    "draw": "Ten sided die: a kite shaped pentagonal trapezohedron with zigzag middle edges and the number 10."
+  },
+  {
+    "name": "dice-d12",
+    "category": "play",
+    "draw": "Twelve sided die: a pentagon face in the middle surrounded by a ring of partial pentagon faces."
+  },
+  {
+    "name": "dice-d20",
+    "category": "play",
+    "draw": "Twenty sided die: a hexagon outline with a central triangle face showing 20 and triangular facets around it."
+  },
+  {
+    "name": "percentile-dice",
+    "category": "play",
+    "draw": "Two ten sided dice side by side, one marked 00 and one marked 0."
+  },
+  {
+    "name": "die-face-one",
+    "category": "play",
+    "draw": "Rounded square die face with a single pip in the center."
+  },
+  {
+    "name": "die-face-two",
+    "category": "play",
+    "draw": "Rounded square die face with two pips on the diagonal corners."
+  },
+  {
+    "name": "die-face-three",
+    "category": "play",
+    "draw": "Rounded square die face with three pips along the diagonal."
+  },
+  {
+    "name": "die-face-four",
+    "category": "play",
+    "draw": "Rounded square die face with four pips, one in each corner."
+  },
+  {
+    "name": "die-face-six",
+    "category": "play",
+    "draw": "Rounded square die face with two columns of three pips."
+  },
+  {
+    "name": "dice-pair",
+    "category": "play",
+    "draw": "Two cubes in three quarter view, one tilted behind the other, showing pips on their faces."
+  },
+  {
+    "name": "dice-cup",
+    "category": "play",
+    "draw": "Tall leather shaker cup tipped on its side with two dice tumbling out of the mouth."
+  },
+  {
+    "name": "dice-tower",
+    "category": "play",
+    "draw": "Narrow upright tower with an open top and a ramp at the bottom where a die rolls out into a tray."
+  },
+  {
+    "name": "dice-tray",
+    "category": "play",
+    "draw": "Shallow hexagonal tray with raised walls seen from above with one die resting inside."
+  },
+  {
+    "name": "dice-bag",
+    "category": "play",
+    "draw": "Soft drawstring pouch cinched at the neck with a few dice peeking out of the top."
+  },
+  {
+    "name": "fudge-dice",
+    "category": "play",
+    "draw": "Cube showing a plus sign on its front face and a minus sign on its top face."
+  },
+  {
+    "name": "long-die",
+    "category": "play",
+    "draw": "Long four sided stick die lying diagonally with pips on its visible long face."
+  },
+  {
+    "name": "coin-flip",
+    "category": "play",
+    "draw": "Coin shown on edge in mid air above an open thumb with curved motion arcs around it."
+  },
+  {
+    "name": "drawing-straws",
+    "category": "play",
+    "draw": "Fist holding four straws upright with one noticeably shorter than the rest."
+  },
+  {
+    "name": "draw-from-hat",
+    "category": "play",
+    "draw": "Upturned hat with folded paper slips poking out and one slip lifted above the brim."
+  },
+  {
+    "name": "sudoku-grid",
+    "category": "play",
+    "draw": "Square nine by nine grid with thicker lines dividing three by three boxes and a few digits filled in."
+  },
+  {
+    "name": "crossword-grid",
+    "category": "play",
+    "draw": "Square grid of cells with several black filled cells and a small clue number in a corner cell."
+  },
+  {
+    "name": "nonogram-grid",
+    "category": "play",
+    "draw": "Grid with number clues along the top and left edges and some cells filled to form a picture."
+  },
+  {
+    "name": "kakuro-grid",
+    "category": "play",
+    "draw": "Grid where some cells are split by a diagonal line holding clue numbers and the rest are empty boxes."
+  },
+  {
+    "name": "mine-grid-puzzle",
+    "category": "play",
+    "draw": "Three by three grid of raised tiles with a flag on one tile, a round mine on another and a number on a third."
+  },
+  {
+    "name": "matchstick-puzzle",
+    "category": "play",
+    "draw": "Matchsticks laid out forming a simple equation with one stick lifted and tilted."
+  },
+  {
+    "name": "twisty-pyramid",
+    "category": "play",
+    "draw": "Triangular pyramid puzzle seen from the front with its face divided into smaller triangles."
+  },
+  {
+    "name": "escape-room",
+    "category": "play",
+    "draw": "Closed door with a large combination padlock on it and a small puzzle piece on the frame."
+  },
+  {
+    "name": "box-pushing-puzzle",
+    "category": "play",
+    "draw": "Top down grid with a small figure pushing a crate toward an X marked target cell."
+  },
+  {
+    "name": "marble-run",
+    "category": "play",
+    "draw": "Zigzag track tower on a small base with a ball rolling down the ramps."
+  },
+  {
+    "name": "arcade-button",
+    "category": "play",
+    "draw": "Large round push button in a raised ring bezel seen at a low three quarter angle."
+  },
+  {
+    "name": "cocktail-arcade-table",
+    "category": "play",
+    "draw": "Low table cabinet with a screen set face up under its glass top and a joystick on each end."
+  },
+  {
+    "name": "pinball-machine",
+    "category": "play",
+    "draw": "Pinball cabinet at three quarter view with a sloped playfield on legs and an upright backbox."
+  },
+  {
+    "name": "air-hockey-table",
+    "category": "play",
+    "draw": "Rectangular table with goal slots at each short end, a center line and a round puck with a mallet."
+  },
+  {
+    "name": "racing-wheel-controller",
+    "category": "play",
+    "draw": "Round steering wheel controller clamped to a desk edge with a small pedal pair below it."
+  },
+  {
+    "name": "motion-wand-controller",
+    "category": "play",
+    "draw": "Slim rectangular wand remote with a strap at its base and a circle button near the top."
+  },
+  {
+    "name": "vr-controller",
+    "category": "play",
+    "draw": "Handheld grip with a large tracking ring arching over the top and a thumbstick on its face."
+  },
+  {
+    "name": "guitar-controller",
+    "category": "play",
+    "draw": "Toy guitar body with a row of five square fret buttons on the neck and a strum bar on the body."
+  },
+  {
+    "name": "d-pad",
+    "category": "play",
+    "draw": "Plus shaped directional pad with a small triangle pointing out at the end of each arm."
+  },
+  {
+    "name": "action-buttons",
+    "category": "play",
+    "draw": "Four round buttons arranged in a diamond pattern, each marked with a simple shape."
+  },
+  {
+    "name": "game-disc-case",
+    "category": "play",
+    "draw": "Tall slim plastic case with a spine and a disc showing through a clear window on the front."
+  },
+  {
+    "name": "virtual-pet",
+    "category": "play",
+    "draw": "Egg shaped keychain device with a small square screen and three buttons below, a ring at the top."
+  },
+  {
+    "name": "racing-simulator-seat",
+    "category": "play",
+    "draw": "Bucket seat on a frame facing a steering wheel and a wide screen in front."
+  },
+  {
+    "name": "laser-tag-vest",
+    "category": "play",
+    "draw": "Sleeveless vest with glowing round sensor pads on the chest and shoulders."
+  },
+  {
+    "name": "coin-slot",
+    "category": "play",
+    "draw": "Rectangular coin door plate with a narrow slot and a coin entering it from above."
+  },
+  {
+    "name": "arcade-basketball",
+    "category": "play",
+    "draw": "Arcade cabinet with a small hoop and backboard over an inclined ramp holding balls."
+  },
+  {
+    "name": "platformer-game",
+    "category": "play",
+    "draw": "Small figure jumping in an arc between two raised block platforms."
+  },
+  {
+    "name": "rhythm-game",
+    "category": "play",
+    "draw": "Three vertical lanes with note circles falling down toward a target line at the bottom."
+  },
+  {
+    "name": "voxel-block",
+    "category": "play",
+    "draw": "Isometric cube with a jagged grass layer across the top edge and plain dirt sides."
+  },
+  {
+    "name": "tower-defense",
+    "category": "play",
+    "draw": "Small tower on a hill with a dashed range circle around it and a path curving past."
+  },
+  {
+    "name": "battle-royale-zone",
+    "category": "play",
+    "draw": "Map square with a large dashed circle and a smaller solid circle inside it marking the shrinking zone."
+  },
+  {
+    "name": "moba-map",
+    "category": "play",
+    "draw": "Square map with three lanes: two along the edges and one diagonal, and a base dot in opposite corners."
+  },
+  {
+    "name": "match-three",
+    "category": "play",
+    "draw": "Three by three grid of gem shapes with three matching gems in a row highlighted and a swap arrow."
+  },
+  {
+    "name": "snake-game",
+    "category": "play",
+    "draw": "Pixel snake made of square segments bending around a grid toward a single square food dot."
+  },
+  {
+    "name": "brick-breaker",
+    "category": "play",
+    "draw": "Rows of bricks at the top, a small ball in the middle and a flat paddle at the bottom."
+  },
+  {
+    "name": "endless-runner",
+    "category": "play",
+    "draw": "Figure running forward with a small hurdle ahead and a speed line trailing behind."
+  },
+  {
+    "name": "visual-novel",
+    "category": "play",
+    "draw": "Wide dialog box at the bottom of a screen frame with a character bust silhouette above it."
+  },
+  {
+    "name": "city-builder-game",
+    "category": "play",
+    "draw": "Isometric grid tile with small block buildings of different heights on it."
+  },
+  {
+    "name": "dungeon-map",
+    "category": "play",
+    "draw": "Top down map of square rooms joined by narrow corridors with a door gap in one wall."
+  },
+  {
+    "name": "strategy-map",
+    "category": "play",
+    "draw": "Map square with two small flags and a bold curved movement arrow between them."
+  },
+  {
+    "name": "space-shooter",
+    "category": "play",
+    "draw": "Small arrow shaped ship at the bottom firing dashes upward toward a row of blocky targets."
+  },
+  {
+    "name": "stealth-game",
+    "category": "play",
+    "draw": "Crouching figure behind a crate with a triangular vision cone sweeping past above it."
+  },
+  {
+    "name": "fighting-game",
+    "category": "play",
+    "draw": "Two health bars across the top of a frame with two facing figures in fighting stances below."
+  },
+  {
+    "name": "bubble-shooter",
+    "category": "play",
+    "draw": "Small cannon at the bottom aiming a dotted line up at a cluster of round bubbles."
+  },
+  {
+    "name": "clicker-game",
+    "category": "play",
+    "draw": "Large round button with a pointer cursor pressing it and a small plus one floating up."
+  },
+  {
+    "name": "text-adventure",
+    "category": "play",
+    "draw": "Screen frame with a prompt symbol and a blinking cursor line below a small compass rose."
+  },
+  {
+    "name": "level-select",
+    "category": "play",
+    "draw": "Winding dotted path linking round level nodes with a star over the last node."
+  },
+  {
+    "name": "respawn",
+    "category": "play",
+    "draw": "Person silhouette inside a circular arrow that loops almost all the way around."
+  },
+  {
+    "name": "save-point",
+    "category": "play",
+    "draw": "Glowing crystal floating above a short stone pedestal with small sparkles around it."
+  },
+  {
+    "name": "quest-marker",
+    "category": "play",
+    "draw": "Bold exclamation mark floating above a small diamond shaped marker on the ground."
+  },
+  {
+    "name": "skill-tree",
+    "category": "play",
+    "draw": "Tree of round nodes linked by lines branching upward from one root node, some filled."
+  },
+  {
+    "name": "crafting-bench",
+    "category": "play",
+    "draw": "Wooden workbench with a grid pattern on its top and a hammer lying across it."
+  },
+  {
+    "name": "pixel-sprite",
+    "category": "play",
+    "draw": "Small blocky person figure built from square pixels with a stepped outline."
+  },
+  {
+    "name": "sprite-sheet",
+    "category": "play",
+    "draw": "Grid of four frames each holding the same small figure in a different walking pose."
+  },
+  {
+    "name": "hitbox",
+    "category": "play",
+    "draw": "Simple figure outline surrounded by a dashed rectangle with corner handles."
+  },
+  {
+    "name": "versus-badge",
+    "category": "play",
+    "draw": "Circle split by a zigzag lightning line with a bold V S across the middle."
+  },
+  {
+    "name": "item-hotbar",
+    "category": "play",
+    "draw": "Horizontal row of five square item slots with one slot highlighted and a small item inside."
+  },
+  {
+    "name": "character-select",
+    "category": "play",
+    "draw": "Two by three grid of portrait squares with a pointer cursor over one."
+  },
+  {
+    "name": "cooldown",
+    "category": "play",
+    "draw": "Rounded square ability icon with a pie shaped shaded sweep covering part of it."
+  },
+  {
+    "name": "tournament-bracket",
+    "category": "play",
+    "draw": "Bracket lines joining four slots into two and then into one final slot on the right."
+  },
+  {
+    "name": "fuse-bomb",
+    "category": "play",
+    "draw": "Round cartoon bomb with a short neck and a curling lit fuse with a spark."
+  },
+  {
+    "name": "mystery-box",
+    "category": "play",
+    "draw": "Cube box in three quarter view with a big question mark on its front face."
+  },
+  {
+    "name": "grappling-hook",
+    "category": "play",
+    "draw": "Three pronged hook with curved tines and a coiled rope tied to its shank."
+  },
+  {
+    "name": "game-master-screen",
+    "category": "play",
+    "draw": "Three panel folding screen standing upright in a zigzag with a die icon on the center panel."
+  },
+  {
+    "name": "battle-mat",
+    "category": "play",
+    "draw": "Square mat with a grid of lines and a small round based miniature standing on one cell."
+  },
+  {
+    "name": "miniature-figure",
+    "category": "play",
+    "draw": "Small painted figure of a cloaked adventurer standing on a round base."
+  },
+  {
+    "name": "hex-grid-map",
+    "category": "play",
+    "draw": "Cluster of connected hexagon tiles forming a patch of map, a few tiles filled."
+  },
+  {
+    "name": "dungeon-door",
+    "category": "play",
+    "draw": "Arched wooden door with vertical planks, iron bands and a ring pull, set in a stone arch."
+  },
+  {
+    "name": "wall-torch",
+    "category": "play",
+    "draw": "Flaming torch in an iron wall bracket with a flame on top of a wrapped handle."
+  },
+  {
+    "name": "quest-board",
+    "category": "play",
+    "draw": "Wooden notice board on two posts with several pinned paper notes on it."
+  },
+  {
+    "name": "tavern-sign",
+    "category": "play",
+    "draw": "Hanging signboard on a bracket arm with a tankard shape painted on it."
+  },
+  {
+    "name": "coin-pouch",
+    "category": "play",
+    "draw": "Small drawstring pouch cinched at the top with a couple of coins spilling beside it."
+  },
+  {
+    "name": "amulet",
+    "category": "play",
+    "draw": "Pendant on a chain with a round setting and a gem in the middle."
+  },
+  {
+    "name": "scepter",
+    "category": "play",
+    "draw": "Royal rod with an orb and small cross on top and a decorated grip."
+  },
+  {
+    "name": "lockpick",
+    "category": "play",
+    "draw": "Slim pick with a hooked tip crossed with an L shaped tension wrench."
+  },
+  {
+    "name": "crossed-swords",
+    "category": "play",
+    "draw": "Two swords crossed in an X with their hilts at the bottom."
+  },
+  {
+    "name": "war-hammer",
+    "category": "play",
+    "draw": "Long handled hammer with a flat square head on one side and a spike on the other."
+  },
+  {
+    "name": "crossbow",
+    "category": "play",
+    "draw": "Crossbow seen from above: a horizontal bow limb across a stock with a string and loaded bolt."
+  },
+  {
+    "name": "quiver",
+    "category": "play",
+    "draw": "Tall cylindrical quiver with a shoulder strap and three arrow fletchings poking out of the top."
+  },
+  {
+    "name": "catapult",
+    "category": "play",
+    "draw": "Wooden siege catapult with a wheeled base and a throwing arm ending in a cup."
+  },
+  {
+    "name": "cannon",
+    "category": "play",
+    "draw": "Old cannon barrel resting on a two wheeled wooden carriage with a ball beside it."
+  },
+  {
+    "name": "knight-helmet",
+    "category": "play",
+    "draw": "Closed great helm with a flat top, a horizontal eye slit and breathing holes."
+  },
+  {
+    "name": "horned-helmet",
+    "category": "play",
+    "draw": "Round metal helmet with a nose guard and a curved horn sticking out on each side."
+  },
+  {
+    "name": "chestplate",
+    "category": "play",
+    "draw": "Front view of a metal breastplate with shoulder guards and a center ridge."
+  },
+  {
+    "name": "gauntlet",
+    "category": "play",
+    "draw": "Armored glove with segmented finger plates and a flared cuff."
+  },
+  {
+    "name": "chainmail-shirt",
+    "category": "play",
+    "draw": "Short sleeved shirt shape filled with a small ring mesh pattern."
+  },
+  {
+    "name": "life-counter",
+    "category": "play",
+    "draw": "Round dial with a large number window and small arrows on either side for adding or removing points."
+  },
+  {
+    "name": "photo-booth-props",
+    "category": "play",
+    "draw": "Mustache and pair of glasses each on a thin stick, crossed."
+  },
+  {
+    "name": "blindfold",
+    "category": "play",
+    "draw": "Cloth band tied around a face outline covering the eyes, with its knot ends trailing at the side."
+  },
+  {
+    "name": "bobbing-for-apples",
+    "category": "play",
+    "draw": "Tub of water with wavy surface lines and two apples floating in it."
+  },
+  {
+    "name": "charades",
+    "category": "play",
+    "draw": "Figure miming with one arm raised and a question mark in a speech bubble beside it."
+  },
+  {
+    "name": "truth-or-dare",
+    "category": "play",
+    "draw": "Two overlapping cards, one marked with a T and one with a D."
+  },
+  {
+    "name": "spin-the-bottle",
+    "category": "play",
+    "draw": "Bottle lying on its side with a circular arrow around it."
+  },
+  {
+    "name": "hot-potato",
+    "category": "play",
+    "draw": "Potato with wavy heat lines rising from it, tossed between two open hands."
+  },
+  {
+    "name": "egg-toss",
+    "category": "play",
+    "draw": "Egg flying in a dotted arc between two open hands."
+  },
+  {
+    "name": "kick-the-can",
+    "category": "play",
+    "draw": "Tin can knocked mid air above the ground with a foot swinging behind it."
+  },
+  {
+    "name": "capture-the-flag",
+    "category": "play",
+    "draw": "Field split by a center line with a flag standing on each side."
+  },
+  {
+    "name": "king-of-the-hill",
+    "category": "play",
+    "draw": "Small figure standing on the top of a rounded mound with a crown above its head."
+  },
+  {
+    "name": "dodgeball",
+    "category": "play",
+    "draw": "Figure leaning away from a ball flying at it with motion lines behind the ball."
+  },
+  {
+    "name": "gaga-pit",
+    "category": "play",
+    "draw": "Octagonal walled pit seen from above with a ball in the middle."
+  },
+  {
+    "name": "obstacle-course",
+    "category": "play",
+    "draw": "Row of a tire, a traffic cone and a low hurdle on a ground line with a dotted path through them."
+  },
+  {
+    "name": "button-whirligig",
+    "category": "play",
+    "draw": "Large button spinning on a looped string stretched between two hands."
+  },
+  {
+    "name": "croquet-set",
+    "category": "play",
+    "draw": "Croquet mallet leaning beside a wire hoop with a ball in front of it."
+  },
+  {
+    "name": "bocce-balls",
+    "category": "play",
+    "draw": "Two large balls resting beside a small target ball on the ground line."
+  },
+  {
+    "name": "kubb",
+    "category": "play",
+    "draw": "Row of small wooden blocks with a taller crowned king block standing in the middle."
+  },
+  {
+    "name": "shuffleboard-table",
+    "category": "play",
+    "draw": "Long narrow table with scoring zones marked at the far end and a weighted puck sliding toward them."
+  },
+  {
+    "name": "ladder-toss",
+    "category": "play",
+    "draw": "Ladder frame with three rungs and a bola of two balls on a cord wrapped around one rung."
+  },
+  {
+    "name": "roundnet",
+    "category": "play",
+    "draw": "Small round trampoline net on short legs with a ball bouncing above it."
+  },
+  {
+    "name": "high-striker",
+    "category": "play",
+    "draw": "Tall tower with a bell at the top, a sliding puck on a track and a mallet at the base pad."
+  },
+  {
+    "name": "bottle-knockdown",
+    "category": "play",
+    "draw": "Pyramid of six milk bottles on a stand with a ball flying toward them."
+  },
+  {
+    "name": "dunk-tank",
+    "category": "play",
+    "draw": "Tank of water with a seat above it and a round target on an arm at the side."
+  },
+  {
+    "name": "mole-whacking-game",
+    "category": "play",
+    "draw": "Mole head popping out of a round hole with a soft mallet raised above it."
+  },
+  {
+    "name": "game-booth",
+    "category": "play",
+    "draw": "Carnival stall with a striped scalloped awning and prize shelves under it."
+  },
+  {
+    "name": "haunted-house",
+    "category": "play",
+    "draw": "Crooked two story house with a pointed turret, a tilted door and a small ghost at the window."
+  },
+  {
+    "name": "drop-tower-ride",
+    "category": "play",
+    "draw": "Very tall slim tower with a ring of seats partway up and a small cap on top."
+  },
+  {
+    "name": "log-flume-ride",
+    "category": "play",
+    "draw": "Hollow log boat tilting down a steep chute with a splash at the bottom."
+  },
+  {
+    "name": "hopper-ball",
+    "category": "play",
+    "draw": "Bouncy ball with two horn shaped handles sticking up from the top."
+  },
+  {
+    "name": "jianzi",
+    "category": "play",
+    "draw": "Feather shuttlecock toy: a weighted round base disc with a tall fan of feathers rising from it."
+  },
+  {
+    "name": "daruma-otoshi",
+    "category": "play",
+    "draw": "Stack of wooden discs topped by a round headed doll with a small mallet knocking out the bottom disc."
+  },
+  {
+    "name": "gilli-danda",
+    "category": "play",
+    "draw": "Short tapered wooden peg lying on the ground with a longer stick poised to strike its tip."
+  },
+  {
+    "name": "slingshot",
+    "category": "play",
+    "draw": "Y shaped wooden fork with a rubber band and a pouch pulled back."
+  },
+  {
+    "name": "boomerang",
+    "category": "play",
+    "draw": "Curved V shaped boomerang with rounded tips and a small spin arc."
+  },
+  {
+    "name": "footbag",
+    "category": "play",
+    "draw": "Small round knitted beanbag ball with stitched panel seams."
+  },
+  {
+    "name": "plate-spinning",
+    "category": "play",
+    "draw": "Plate spinning flat on top of a thin upright stick with curved motion lines."
+  },
+  {
+    "name": "cup-stacking",
+    "category": "play",
+    "draw": "Pyramid of stacked plastic cups, three on the bottom row, two above and one on top."
+  },
+  {
+    "name": "paper-football",
+    "category": "play",
+    "draw": "Folded paper triangle flicked toward goalposts formed by two hands with thumbs touching."
+  },
+  {
+    "name": "milk-caps",
+    "category": "play",
+    "draw": "Short stack of round cardboard caps with a thicker slammer disc on top."
+  },
+  {
+    "name": "model-kit-sprue",
+    "category": "play",
+    "draw": "Rectangular plastic frame with small parts attached by thin gates inside it."
+  },
+  {
+    "name": "whoopee-cushion",
+    "category": "play",
+    "draw": "Flat round rubber cushion with a short neck spout and puff lines coming out."
+  },
+  {
+    "name": "christmas-cracker",
+    "category": "play",
+    "draw": "Tube wrapped in paper twisted closed at both ends like a large sweet."
+  },
+  {
+    "name": "eight-ball",
+    "category": "play",
+    "draw": "Solid ball with a small white circle holding the number 8."
+  },
+  {
+    "name": "billiard-triangle",
+    "category": "play",
+    "draw": "Triangular rack frame with balls packed tightly inside it."
+  },
+  {
+    "name": "cue-chalk",
+    "category": "play",
+    "draw": "Small chalk cube with a shallow hollow on top where the cue tip rubs."
+  },
+  {
+    "name": "pool-cue",
+    "category": "play",
+    "draw": "Long tapered cue stick drawn diagonally with a thick wrapped butt and a small tip."
+  },
+  {
+    "name": "throwing-dart",
+    "category": "play",
+    "draw": "Single dart pointing diagonally with a slim barrel, a needle tip and four tail flights."
+  },
+  {
+    "name": "card-up-sleeve",
+    "category": "play",
+    "draw": "Shirt cuff at a wrist with the top of a playing card peeking out from inside the sleeve."
+  },
+  {
+    "name": "card-trick",
+    "category": "play",
+    "draw": "Deck held in an open hand with one card rising out of the middle and a small sparkle above it."
+  },
+  {
+    "name": "graded-card-slab",
+    "category": "play",
+    "draw": "Trading card sealed in a thick rigid clear case with a label strip across the top."
+  },
+  {
+    "name": "game-of-goose",
+    "category": "play",
+    "draw": "Spiral track of numbered spaces winding inward to a center goal with a small goose silhouette on it."
+  },
+  {
+    "name": "logic-grid",
+    "category": "play",
+    "draw": "Square grid split into blocks with some cells marked by small X marks and one cell by a dot."
+  },
+  {
+    "name": "word-wheel",
+    "category": "play",
+    "draw": "Circle of letters in segments around a central highlighted letter."
+  },
+  {
+    "name": "dialogue-tree",
+    "category": "play",
+    "draw": "Speech bubble at the top branching down by lines into two smaller speech bubbles."
+  },
+  {
+    "name": "battle-standard",
+    "category": "play",
+    "draw": "Tall pole with a crossbar holding a hanging banner with a swallowtail notched bottom."
+  },
+  {
+    "name": "siege-tower",
+    "category": "play",
+    "draw": "Tall wooden tower on four wheels with a hinged drop ramp near its top."
+  },
+  {
+    "name": "trebuchet",
+    "category": "play",
+    "draw": "Tall A frame with a long throwing arm, a heavy counterweight box on the short end and a sling on the long end."
+  },
+  {
+    "name": "battering-ram",
+    "category": "play",
+    "draw": "Heavy log with a capped head hung under a small roofed frame on wheels."
+  },
+  {
+    "name": "balloon-stomp",
+    "category": "play",
+    "draw": "Balloon tied by a string to an ankle with a foot stepping down beside it."
+  },
+  {
+    "name": "monkey-in-the-middle",
+    "category": "play",
+    "draw": "Ball arcing high over a small center figure with arms up, between two figures on the sides."
+  },
+  {
+    "name": "tile-map",
+    "category": "play",
+    "draw": "Square grid of terrain tiles: wavy water cells, plain grass cells and a few small tree cells."
+  },
+  {
+    "name": "fog-of-war",
+    "category": "play",
+    "draw": "Square map with one corner revealed showing terrain and the rest covered by a cloudy shaded edge."
+  },
+  {
+    "name": "mana-orb",
+    "category": "play",
+    "draw": "Round glass globe filled halfway with liquid and a small highlight glint on the glass."
+  },
+  {
+    "name": "pull-lever",
+    "category": "play",
+    "draw": "Floor lever with a ball knob tilted to one side on a small curved base plate."
+  },
+  {
+    "name": "jump-pad",
+    "category": "play",
+    "draw": "Flat round pad on a coiled spring with upward arrows above it."
+  },
+  {
+    "name": "component-organizer",
+    "category": "play",
+    "draw": "Open box insert with square compartments holding small tokens and cubes."
+  },
+  {
+    "name": "token-punchboard",
+    "category": "play",
+    "draw": "Cardboard sheet with several round and square tokens punched out and one popping free."
+  },
+  {
+    "name": "linking-rings",
+    "category": "play",
+    "draw": "Three large metal rings linked together in a chain, the magic trick rings."
+  },
+  {
+    "name": "capsule-toy",
+    "category": "play",
+    "draw": "Round two tone plastic capsule split across the middle with a small toy peeking out."
+  },
+  {
+    "name": "coin-operated-ride",
+    "category": "play",
+    "draw": "Small ride on car shaped kiddie ride on a pedestal base with a coin box on the front."
+  },
+  {
+    "name": "thumb-wrestling",
+    "category": "play",
+    "draw": "Two hands gripping fingers with both thumbs raised facing each other."
+  },
+  {
+    "name": "start-select-buttons",
+    "category": "play",
+    "draw": "Two small slanted pill shaped buttons side by side on a controller face."
+  },
+  {
+    "name": "yut-sticks",
+    "category": "play",
+    "draw": "Four half round wooden sticks lying side by side, two flat side up and two round side up."
+  },
+  {
+    "name": "paddle-controller",
+    "category": "play",
+    "draw": "Small box controller with a large rotary knob and one red button on top."
+  },
+  {
+    "name": "peg-drop-board",
+    "category": "play",
+    "draw": "Upright board with rows of staggered pegs and a disc bouncing down into slots at the bottom."
+  },
+  {
+    "name": "fidget-cube",
+    "category": "play",
+    "draw": "Cube in three quarter view with a toggle switch on one face and small buttons on another."
+  },
+  {
+    "name": "typing-game",
+    "category": "play",
+    "draw": "Keyboard at the bottom with letters falling from above toward it."
+  },
+  {
+    "name": "river-rapids-ride",
+    "category": "play",
+    "draw": "Round inflatable raft with ring seats and a center wheel riding on wavy water."
+  },
+  {
+    "name": "reverse-bungee-ride",
+    "category": "play",
+    "draw": "Round seat capsule held on cords between two tall leaning towers."
+  },
+  {
+    "name": "seven-stones",
+    "category": "play",
+    "draw": "Short stack of seven flat stones piled on each other with a small ball rolling toward the stack."
+  },
+  {
+    "name": "hanetsuki-paddle",
+    "category": "play",
+    "draw": "Rectangular wooden paddle with a short handle beside a small feathered shuttle."
+  },
+  {
+    "name": "ring-and-hook-game",
+    "category": "play",
+    "draw": "Metal ring on a long string swinging in an arc toward a small hook on a wall board."
+  },
+  {
+    "name": "level-editor",
+    "category": "play",
+    "draw": "Grid canvas with a few placed blocks and a small column of tile swatches beside it."
+  },
+  {
+    "name": "move-piece",
+    "category": "play",
+    "draw": "Hand pinching a small game pawn lifted above a square board space with a curved arrow."
+  },
+  {
+    "name": "knight-move",
+    "category": "play",
+    "draw": "Three by three board of squares with an L shaped arrow bending from one corner square."
+  },
+  {
+    "name": "devil-sticks",
+    "category": "play",
+    "draw": "Center baton tilted in the air between two short hand sticks held below it."
+  },
+  {
+    "name": "hand-buzzer",
+    "category": "play",
+    "draw": "Round flat prank buzzer disc in an open palm with small zap lines around it."
+  },
+  {
+    "name": "rubber-chicken",
+    "category": "play",
+    "draw": "Limp rubber chicken hanging by its feet with its head drooping down."
+  },
+  {
+    "name": "prank-snake-can",
+    "category": "play",
+    "draw": "Open can with a coiled spring snake bursting out of the top."
+  },
+  {
+    "name": "boxing-arcade-machine",
+    "category": "play",
+    "draw": "Upright cabinet with a punching ball on a swing arm and a score display above it."
+  },
+  {
+    "name": "dice-throw",
+    "category": "play",
+    "draw": "Open hand releasing two dice that tumble through the air with curved motion lines."
+  },
+  {
+    "name": "dice-jail",
+    "category": "play",
+    "draw": "Small barred cage with a single die locked inside it."
+  },
+  {
+    "name": "board-game-shelf",
+    "category": "play",
+    "draw": "Shelf unit with flat game boxes stacked horizontally in each cubby."
+  },
+  {
+    "name": "teleport-pad",
+    "category": "play",
+    "draw": "Flat round pad on the floor with vertical light rays rising in a column from it."
+  },
+  {
+    "name": "card-playmat",
+    "category": "play",
+    "draw": "Long rectangular mat with outlined card zones and a small card placed in one zone."
+  },
+  {
+    "name": "weapon-rack",
+    "category": "play",
+    "draw": "Upright wooden rack holding a sword, a spear and an axe standing side by side."
+  },
+  {
+    "name": "training-dummy",
+    "category": "play",
+    "draw": "Straw stuffed dummy on a wooden post with a round head and a target painted on its chest."
+  },
+  {
+    "name": "follow-the-leader",
+    "category": "play",
+    "draw": "Row of three small figures in single file behind a front figure holding up a flag."
+  },
+  {
+    "name": "mud-pie",
+    "category": "play",
+    "draw": "Round pie tin filled with lumpy mud and a small twig and leaf stuck on top."
+  },
+  {
+    "name": "cake-walk",
+    "category": "play",
+    "draw": "Ring of numbered floor squares around a cake on a small stand in the center."
+  }
+]

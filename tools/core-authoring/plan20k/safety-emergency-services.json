@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "firefighter-helmet",
+    "category": "emergency",
+    "draw": "Side view of a traditional firefighter helmet with a high front shield plate and a long rear brim."
+  },
+  {
+    "name": "fire-axe",
+    "category": "emergency",
+    "draw": "Firefighter's axe with a flat blade on one side of the head and a spike pick on the other, on a straight handle."
+  },
+  {
+    "name": "halligan-bar",
+    "category": "emergency",
+    "draw": "Long forcible-entry bar with a claw fork at one end and an adze blade plus a pointed pick at the other."
+  },
+  {
+    "name": "pike-pole",
+    "category": "emergency",
+    "draw": "Long pole with a pointed tip and a curved hook just behind it, used to pull down ceilings."
+  },
+  {
+    "name": "fire-hose-coupling",
+    "category": "emergency",
+    "draw": "Two threaded hose couplings with lug ears about to join, short hose stubs leaving each side."
+  },
+  {
+    "name": "rolled-fire-hose",
+    "category": "emergency",
+    "draw": "Flat fire hose rolled into a tight double spiral disc with a coupling sticking out of the centre."
+  },
+  {
+    "name": "fire-hose-wye",
+    "category": "emergency",
+    "draw": "Y-shaped hose fitting with one inlet splitting into two outlets, each with a small lever valve."
+  },
+  {
+    "name": "fire-hose-spray",
+    "category": "emergency",
+    "draw": "Fire hose with a nozzle held level and a wide cone of water spray fanning out from it."
+  },
+  {
+    "name": "fire-bucket",
+    "category": "emergency",
+    "draw": "Conical-bottomed fire bucket hanging from a wall hook, filled with sand and marked with a flame."
+  },
+  {
+    "name": "fire-beater",
+    "category": "emergency",
+    "draw": "Long-handled wildfire flapper with a flat rectangular rubber mat at the end."
+  },
+  {
+    "name": "wildfire-backpack-pump",
+    "category": "emergency",
+    "draw": "Soft water bladder backpack with a hose leading to a hand-held slide pump nozzle."
+  },
+  {
+    "name": "pulaski-axe",
+    "category": "emergency",
+    "draw": "Wildland tool with an axe blade on one side of the head and a flat adze hoe on the other."
+  },
+  {
+    "name": "fire-rake",
+    "category": "emergency",
+    "draw": "Heavy wildland rake with a wide flat blade: long tines on one edge and a sharpened hoe edge on the other."
+  },
+  {
+    "name": "breathing-apparatus",
+    "category": "emergency",
+    "draw": "Firefighter breathing apparatus: an air cylinder on a backplate harness with a hose to a full-face mask."
+  },
+  {
+    "name": "turnout-coat",
+    "category": "emergency",
+    "draw": "Firefighter turnout coat with a high collar, front clasps and bands of reflective stripes on body and sleeves."
+  },
+  {
+    "name": "fire-alarm-strobe",
+    "category": "emergency",
+    "draw": "Wall horn-and-strobe box with a speaker grille and a bright flashing lens with rays."
+  },
+  {
+    "name": "heat-detector",
+    "category": "emergency",
+    "draw": "Low round ceiling heat detector with a thermometer symbol and wavy heat lines rising to it."
+  },
+  {
+    "name": "carbon-monoxide-detector",
+    "category": "emergency",
+    "draw": "Wall-plug detector box with a small display and the letters CO over a vent grille."
+  },
+  {
+    "name": "fire-door",
+    "category": "emergency",
+    "draw": "Heavy door with a small wired-glass window, a closer arm at the top and a flame badge on the leaf."
+  },
+  {
+    "name": "co2-fire-extinguisher",
+    "category": "emergency",
+    "draw": "Fire extinguisher cylinder with a long black discharge horn on a hose instead of a small nozzle."
+  },
+  {
+    "name": "wheeled-fire-extinguisher",
+    "category": "emergency",
+    "draw": "Large extinguisher cylinder mounted on a two-wheeled trolley with a handle and a coiled hose."
+  },
+  {
+    "name": "fire-extinguisher-ball",
+    "category": "emergency",
+    "draw": "Round ball-shaped fire extinguisher with a flame symbol, sitting in a wall bracket."
+  },
+  {
+    "name": "fire-hose-cabinet",
+    "category": "emergency",
+    "draw": "Wall cabinet with a glass door showing a coiled fire hose and a valve inside."
+  },
+  {
+    "name": "fire-department-connection",
+    "category": "emergency",
+    "draw": "Wall-mounted twin inlet fitting with two capped round hose connections side by side."
+  },
+  {
+    "name": "fire-hydrant-wrench",
+    "category": "emergency",
+    "draw": "Pentagon-socket hydrant wrench: an adjustable jaw head on a straight handle."
+  },
+  {
+    "name": "portable-fire-pump",
+    "category": "emergency",
+    "draw": "Small engine-driven pump in a tube frame with a suction hose inlet and a discharge outlet."
+  },
+  {
+    "name": "fire-monitor-nozzle",
+    "category": "emergency",
+    "draw": "Deck-mounted water cannon on a swivel base with a long barrel nozzle shooting a straight jet."
+  },
+  {
+    "name": "fire-alarm-control-panel",
+    "category": "emergency",
+    "draw": "Wall panel with a small screen, a row of zone indicator lights and a few buttons."
+  },
+  {
+    "name": "flammable-storage-cabinet",
+    "category": "emergency",
+    "draw": "Tall double-door safety cabinet with a flame symbol on the front and a raised sill."
+  },
+  {
+    "name": "smoke-ejector-fan",
+    "category": "emergency",
+    "draw": "Large portable fan in a square tube frame, blowing air lines forward to clear smoke."
+  },
+  {
+    "name": "portable-water-tank",
+    "category": "emergency",
+    "draw": "Open-top folding water tank on a square frame with water inside and a hose draining in."
+  },
+  {
+    "name": "sprinkler-riser",
+    "category": "emergency",
+    "draw": "Vertical sprinkler pipe with a big valve wheel, a pressure gauge and a small alarm bell."
+  },
+  {
+    "name": "street-fire-alarm-box",
+    "category": "emergency",
+    "draw": "Old street fire alarm box on a pedestal post with a pull handle door at the top."
+  },
+  {
+    "name": "fire-engine-pump-panel",
+    "category": "emergency",
+    "draw": "Truck pump panel with two round pressure gauges above a row of discharge lever handles."
+  },
+  {
+    "name": "fire-service-cross",
+    "category": "emergency",
+    "draw": "Fire service cross emblem: a Maltese-style cross with flared arms and a small ladder and axe in the centre."
+  },
+  {
+    "name": "helicopter-water-bucket",
+    "category": "emergency",
+    "draw": "Helicopter flying with a long cable carrying a hanging water bucket that pours water below."
+  },
+  {
+    "name": "fire-pole",
+    "category": "emergency",
+    "draw": "Vertical brass sliding pole passing through a round hole in the floor from the level above."
+  },
+  {
+    "name": "roof-ladder",
+    "category": "emergency",
+    "draw": "Straight ladder with two large folding hooks at the top for hooking over a roof ridge."
+  },
+  {
+    "name": "house-fire",
+    "category": "emergency",
+    "draw": "Small pitched-roof house with flames leaping out of the window and roof."
+  },
+  {
+    "name": "high-rise-fire",
+    "category": "emergency",
+    "draw": "Tall tower block with flames and smoke coming out of windows on the upper floors."
+  },
+  {
+    "name": "grease-fire",
+    "category": "emergency",
+    "draw": "Frying pan on a burner with a tall flame rising out of the pan."
+  },
+  {
+    "name": "electrical-fire",
+    "category": "emergency",
+    "draw": "Wall socket with a plug and flames rising from the plug connection."
+  },
+  {
+    "name": "lithium-battery-fire",
+    "category": "emergency",
+    "draw": "Swollen cylindrical battery cell with flames rising from its top terminal."
+  },
+  {
+    "name": "overloaded-socket",
+    "category": "emergency",
+    "draw": "Wall socket crammed with a multi-plug adapter and many plugs, with a small spark."
+  },
+  {
+    "name": "frayed-wire",
+    "category": "emergency",
+    "draw": "Electrical cord with its insulation split open, exposed wire strands and a spark."
+  },
+  {
+    "name": "chimney-fire",
+    "category": "emergency",
+    "draw": "Roof with a brick chimney shooting flames and sparks out of its top."
+  },
+  {
+    "name": "prescribed-burn",
+    "category": "emergency",
+    "draw": "Low line of flames moving across grass with a firefighter holding a drip torch behind it."
+  },
+  {
+    "name": "firebreak",
+    "category": "emergency",
+    "draw": "Cleared bare strip of ground between two stands of trees, flames on one side only."
+  },
+  {
+    "name": "fire-shelter",
+    "category": "emergency",
+    "draw": "Low foil tent shape lying on the ground, crinkled lines on its reflective surface."
+  },
+  {
+    "name": "fire-tornado",
+    "category": "emergency",
+    "draw": "Tall spinning column of flame twisting up from a burning forest floor."
+  },
+  {
+    "name": "burned-forest",
+    "category": "emergency",
+    "draw": "Row of blackened bare tree trunks with no leaves standing on scorched ground."
+  },
+  {
+    "name": "flying-embers",
+    "category": "emergency",
+    "draw": "Scattered glowing ember specks blown by wind lines towards a house roof."
+  },
+  {
+    "name": "fire-lane-sign",
+    "category": "emergency",
+    "draw": "Rectangular sign reading FIRE LANE with a small no-parking symbol below."
+  },
+  {
+    "name": "smokejumper",
+    "category": "emergency",
+    "draw": "Firefighter parachuting down under a round canopy with a tool pack strapped to the body."
+  },
+  {
+    "name": "fire-chief",
+    "category": "emergency",
+    "draw": "Firefighter figure wearing a white helmet with two crossed trumpets badge on the front."
+  },
+  {
+    "name": "fire-warden",
+    "category": "emergency",
+    "draw": "Person in a vest marked with a flame, holding a clipboard and pointing the way."
+  },
+  {
+    "name": "fire-drill",
+    "category": "emergency",
+    "draw": "Group of small figures walking in single file out through a door, with a ringing bell above."
+  },
+  {
+    "name": "fire-evacuation-plan",
+    "category": "emergency",
+    "draw": "Framed floor plan with room outlines, a you-are-here dot and arrows leading to an exit."
+  },
+  {
+    "name": "fireman-carry",
+    "category": "emergency",
+    "draw": "Rescuer carrying a person across the shoulders, holding an arm and a leg."
+  },
+  {
+    "name": "crawl-under-smoke",
+    "category": "emergency",
+    "draw": "Person crawling on hands and knees beneath a layer of smoke near the ceiling."
+  },
+  {
+    "name": "hydraulic-rescue-spreader",
+    "category": "emergency",
+    "draw": "Heavy hydraulic spreader with two long pointed jaw arms opening like a beak and a hose at the back."
+  },
+  {
+    "name": "hydraulic-rescue-cutter",
+    "category": "emergency",
+    "draw": "Hydraulic rescue cutter with two curved hooked blades closing like shears and a hose at the back."
+  },
+  {
+    "name": "lifting-air-bag",
+    "category": "emergency",
+    "draw": "Flat square inflatable lifting cushion wedged under a car edge, with an air hose attached."
+  },
+  {
+    "name": "confined-space-tripod",
+    "category": "emergency",
+    "draw": "Three-legged tripod over a round manhole with a winch on one leg and a rope down the centre."
+  },
+  {
+    "name": "figure-eight-descender",
+    "category": "emergency",
+    "draw": "Metal figure-eight rappelling device with a rope threaded through the large ring."
+  },
+  {
+    "name": "avalanche-probe",
+    "category": "emergency",
+    "draw": "Long thin sectioned probe pole pushed down into a snow mound."
+  },
+  {
+    "name": "search-and-rescue-dog",
+    "category": "emergency",
+    "draw": "Dog standing alert in a harness vest marked with a cross, nose to the ground."
+  },
+  {
+    "name": "hoist-rescue",
+    "category": "emergency",
+    "draw": "Helicopter hovering with a winch cable lowering a rescuer holding a second person."
+  },
+  {
+    "name": "rescue-cutoff-saw",
+    "category": "emergency",
+    "draw": "Hand-held cut-off saw with a large round cutting disc, a guard and an engine body with handles."
+  },
+  {
+    "name": "emergency-hammer",
+    "category": "emergency",
+    "draw": "Small car escape hammer with a pointed steel tip and a seat-belt cutter blade in the handle."
+  },
+  {
+    "name": "head-immobilizer",
+    "category": "emergency",
+    "draw": "Head support board with two foam side blocks and straps across the forehead and chin."
+  },
+  {
+    "name": "rubble-search-camera",
+    "category": "emergency",
+    "draw": "Small camera on the end of a long telescopic pole, pushed into a gap in a pile of rubble."
+  },
+  {
+    "name": "rescue-toboggan",
+    "category": "emergency",
+    "draw": "Boat-shaped mountain rescue sled with long handles at both ends and a patient strapped in."
+  },
+  {
+    "name": "breeches-buoy",
+    "category": "emergency",
+    "draw": "Life ring with canvas shorts hanging from a pulley that runs along a rope line."
+  },
+  {
+    "name": "trench-shoring",
+    "category": "emergency",
+    "draw": "Cross-section of a narrow trench with two wall panels held apart by screw struts."
+  },
+  {
+    "name": "mine-rescuer",
+    "category": "emergency",
+    "draw": "Rescuer in a hard hat with a head lamp and a closed-circuit breathing pack on the chest."
+  },
+  {
+    "name": "first-aider",
+    "category": "emergency",
+    "draw": "Person with an armband showing a plus sign, carrying a small first-aid bag."
+  },
+  {
+    "name": "rescue-swimmer-tow",
+    "category": "emergency",
+    "draw": "Swimmer on their side towing a person in the water by holding them under the arms."
+  },
+  {
+    "name": "aed-wall-cabinet",
+    "category": "emergency",
+    "draw": "Wall cabinet with a glass door and a heart symbol with a lightning bolt on the front."
+  },
+  {
+    "name": "air-ambulance-plane",
+    "category": "emergency",
+    "draw": "Small twin-engine plane in side view with a medical cross on the tail fin."
+  },
+  {
+    "name": "bleeding-control",
+    "category": "emergency",
+    "draw": "Two hands pressing a gauze pad firmly onto a forearm."
+  },
+  {
+    "name": "cooling-a-burn",
+    "category": "emergency",
+    "draw": "Hand held under a running tap with water streaming over the back of it."
+  },
+  {
+    "name": "first-aid-sign",
+    "category": "emergency",
+    "draw": "Square safety sign with a white plus cross in the centre of a solid square."
+  },
+  {
+    "name": "custodian-helmet",
+    "category": "emergency",
+    "draw": "Tall domed police helmet with a rounded crest, a star badge and a chin strap."
+  },
+  {
+    "name": "traffic-wand",
+    "category": "emergency",
+    "draw": "Illuminated red traffic baton wand with a handle grip and glow lines along its length."
+  },
+  {
+    "name": "police-bicycle",
+    "category": "emergency",
+    "draw": "Bicycle with a pannier and a small light on the handlebars, marked POLICE on the frame bag."
+  },
+  {
+    "name": "police-blue-lamp",
+    "category": "emergency",
+    "draw": "Old square police station lantern on a wall bracket with glowing glass panels."
+  },
+  {
+    "name": "missing-person-poster",
+    "category": "emergency",
+    "draw": "Paper notice headed MISSING with a portrait silhouette and lines of text below."
+  },
+  {
+    "name": "shoulder-radio-mic",
+    "category": "emergency",
+    "draw": "Shoulder speaker microphone clipped to a lapel, with a coiled cord and a push button."
+  },
+  {
+    "name": "traffic-police-podium",
+    "category": "emergency",
+    "draw": "Raised round traffic control stand with a small umbrella canopy on a pole over it."
+  },
+  {
+    "name": "lost-child",
+    "category": "emergency",
+    "draw": "Small child figure standing alone with a question mark above the head."
+  },
+  {
+    "name": "safety-officer",
+    "category": "emergency",
+    "draw": "Person in a hard hat and hi-vis vest holding a clipboard with a checkmark."
+  },
+  {
+    "name": "exterior-alarm-box",
+    "category": "emergency",
+    "draw": "Wall-mounted alarm siren box with a flashing lamp on top and sound lines around it."
+  },
+  {
+    "name": "wedge-barrier",
+    "category": "emergency",
+    "draw": "Rising steel wedge vehicle barrier tilted up out of the road surface."
+  },
+  {
+    "name": "key-control-cabinet",
+    "category": "emergency",
+    "draw": "Wall cabinet with its door open showing rows of hooks with hanging keys."
+  },
+  {
+    "name": "bomb-disposal-robot",
+    "category": "emergency",
+    "draw": "Tracked robot with a camera head and a jointed arm ending in a gripper claw."
+  },
+  {
+    "name": "emergency-exit-sign",
+    "category": "emergency",
+    "draw": "Rectangular exit sign with a running figure heading towards a doorway."
+  },
+  {
+    "name": "break-glass-key-box",
+    "category": "emergency",
+    "draw": "Small wall box with a glass front holding a key, and a tiny hammer hanging on a chain."
+  },
+  {
+    "name": "keep-exit-clear-sign",
+    "category": "emergency",
+    "draw": "Doorway with a stack of boxes in front of it, crossed out by a red prohibition slash."
+  },
+  {
+    "name": "shelter-in-place",
+    "category": "emergency",
+    "draw": "House outline with a person inside and a closed door and windows, arrows pointing inward."
+  },
+  {
+    "name": "stairwell-evacuation",
+    "category": "emergency",
+    "draw": "Figures walking down a zigzag staircase in single file along a handrail."
+  },
+  {
+    "name": "emergency-exit-window",
+    "category": "emergency",
+    "draw": "Vehicle window with a red pull handle and an arrow showing it swings open."
+  },
+  {
+    "name": "brace-position",
+    "category": "emergency",
+    "draw": "Seated person bent forward with head down and hands over the head behind a seat back."
+  },
+  {
+    "name": "emergency-cot",
+    "category": "emergency",
+    "draw": "Low folding camp cot with a blanket and pillow on top."
+  },
+  {
+    "name": "collapsed-building",
+    "category": "emergency",
+    "draw": "Building with its floors pancaked and tilted, broken pieces piled at the base."
+  },
+  {
+    "name": "stranded-on-roof",
+    "category": "emergency",
+    "draw": "House roof sticking out of flood water with a person on top waving an arm."
+  },
+  {
+    "name": "flooded-car",
+    "category": "emergency",
+    "draw": "Car sunk to its windows in water with ripple lines around it."
+  },
+  {
+    "name": "downed-power-line",
+    "category": "emergency",
+    "draw": "Leaning utility pole with a snapped cable lying on the ground, throwing sparks."
+  },
+  {
+    "name": "fallen-tree",
+    "category": "emergency",
+    "draw": "Uprooted tree lying across a road with its root ball in the air."
+  },
+  {
+    "name": "gas-leak",
+    "category": "emergency",
+    "draw": "Pipe with a valve and a cloud of gas puffing out of a crack in it."
+  },
+  {
+    "name": "burst-pipe",
+    "category": "emergency",
+    "draw": "Pipe section split open with water spraying out in several jets."
+  },
+  {
+    "name": "oil-spill-boom",
+    "category": "emergency",
+    "draw": "Floating chain of containment boom sections curving around a dark oil slick on water."
+  },
+  {
+    "name": "capsized-boat",
+    "category": "emergency",
+    "draw": "Small boat floating upside down with its hull showing above wavy water."
+  },
+  {
+    "name": "person-drowning",
+    "category": "emergency",
+    "draw": "Head and one raised hand just above wavy water lines."
+  },
+  {
+    "name": "fallen-through-ice",
+    "category": "emergency",
+    "draw": "Person up to the chest in a jagged hole in an ice sheet, arms on the edge."
+  },
+  {
+    "name": "hot-car-danger",
+    "category": "emergency",
+    "draw": "Parked car under a blazing sun with a thermometer showing high heat beside it."
+  },
+  {
+    "name": "emergency-broadcast",
+    "category": "emergency",
+    "draw": "Radio mast with signal waves and a warning triangle beside it."
+  },
+  {
+    "name": "phone-emergency-warning",
+    "category": "emergency",
+    "draw": "Smartphone with a large warning triangle on its screen and alert waves around it."
+  },
+  {
+    "name": "orange-smoke-canister",
+    "category": "emergency",
+    "draw": "Small handheld smoke canister with a pull ring, a thick plume of smoke rising."
+  },
+  {
+    "name": "ration-pack",
+    "category": "emergency",
+    "draw": "Sealed rectangular emergency food ration pouch with a tear notch and fork symbol."
+  },
+  {
+    "name": "water-purification-tablets",
+    "category": "emergency",
+    "draw": "Blister strip of round tablets next to a water drop."
+  },
+  {
+    "name": "relief-supplies-box",
+    "category": "emergency",
+    "draw": "Cardboard box with handshake symbol, taped shut, with a water bottle leaning on it."
+  },
+  {
+    "name": "food-aid-sack",
+    "category": "emergency",
+    "draw": "Tied grain sack printed with a wheat ear symbol."
+  },
+  {
+    "name": "supply-airdrop",
+    "category": "emergency",
+    "draw": "Crate hanging beneath an open parachute canopy, descending."
+  },
+  {
+    "name": "water-distribution-point",
+    "category": "emergency",
+    "draw": "Public water standpipe with several taps and a jerry can under one of them."
+  },
+  {
+    "name": "bucket-toilet",
+    "category": "emergency",
+    "draw": "Bucket with a toilet seat and lid fitted on top."
+  },
+  {
+    "name": "boil-water-notice",
+    "category": "emergency",
+    "draw": "Pot of boiling water with bubbles, and a notice card with a water drop beside it."
+  },
+  {
+    "name": "fallout-shelter-sign",
+    "category": "emergency",
+    "draw": "Sign with a circle containing three downward-pointing triangles."
+  },
+  {
+    "name": "furniture-anti-tip-strap",
+    "category": "emergency",
+    "draw": "Tall bookcase fixed to a wall by a short strap at the top."
+  },
+  {
+    "name": "gas-shutoff-wrench",
+    "category": "emergency",
+    "draw": "Flat four-way utility wrench fitted on a gas meter valve."
+  },
+  {
+    "name": "rescue-board",
+    "category": "emergency",
+    "draw": "Long rescue surfboard with side handles and a cross on the deck."
+  },
+  {
+    "name": "pool-rescue-hook",
+    "category": "emergency",
+    "draw": "Long pole with a large curved shepherd's crook hook at the end."
+  },
+  {
+    "name": "ice-rescue-picks",
+    "category": "emergency",
+    "draw": "Pair of handle picks with steel spikes, joined by a cord."
+  },
+  {
+    "name": "dan-buoy",
+    "category": "emergency",
+    "draw": "Man-overboard pole with a flag on top, a float in the middle and a weight at the bottom."
+  },
+  {
+    "name": "immersion-suit",
+    "category": "emergency",
+    "draw": "One-piece survival suit with a hood, built-in mitts and boots, and reflective patches."
+  },
+  {
+    "name": "rescue-strop",
+    "category": "emergency",
+    "draw": "Padded horseshoe-shaped rescue sling hanging from a hoist hook."
+  },
+  {
+    "name": "no-diving-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a diver entering water head first."
+  },
+  {
+    "name": "arc-flash-hood",
+    "category": "emergency",
+    "draw": "Heavy protective hood with a wide tinted face window and a cape over the shoulders."
+  },
+  {
+    "name": "reflective-armband",
+    "category": "emergency",
+    "draw": "Coiled slap band with reflective stripes wrapping around an arm."
+  },
+  {
+    "name": "no-smoking-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a lit cigarette."
+  },
+  {
+    "name": "no-water-on-fire-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a bucket pouring water onto flames."
+  },
+  {
+    "name": "no-elevator-in-fire-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over an elevator with flames beside it."
+  },
+  {
+    "name": "pacemaker-prohibited-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a figure with a pacemaker on the chest."
+  },
+  {
+    "name": "no-metal-objects-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a key and a watch."
+  },
+  {
+    "name": "keep-out-sign",
+    "category": "emergency",
+    "draw": "Rectangular sign reading KEEP OUT with a raised palm symbol."
+  },
+  {
+    "name": "falling-ice-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with icicles and falling ice chunks off a roof edge."
+  },
+  {
+    "name": "cliff-edge-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a figure slipping off a cliff edge."
+  },
+  {
+    "name": "asbestos-warning-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a letter A and fibre strands."
+  },
+  {
+    "name": "ladder-hazard-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a ladder tipping over with a figure on it."
+  },
+  {
+    "name": "danger-sign",
+    "category": "emergency",
+    "draw": "Rectangular notice with a solid header band reading DANGER over blank text lines."
+  },
+  {
+    "name": "safety-record-board",
+    "category": "emergency",
+    "draw": "Scoreboard sign reading DAYS WITHOUT INCIDENT with a large number."
+  },
+  {
+    "name": "airport-fire-truck",
+    "category": "emergency",
+    "draw": "Big airport crash tender in side view with a roof water cannon and large wheels."
+  },
+  {
+    "name": "brush-fire-truck",
+    "category": "emergency",
+    "draw": "Pickup-style fire truck with a water tank and hose reel on the flatbed."
+  },
+  {
+    "name": "heavy-rescue-truck",
+    "category": "emergency",
+    "draw": "Boxy rescue truck with roll-up compartment doors along its side and a light bar."
+  },
+  {
+    "name": "mobile-command-vehicle",
+    "category": "emergency",
+    "draw": "Large bus-shaped vehicle with antennas and a satellite dish on the roof."
+  },
+  {
+    "name": "pedestrian-walkway-sign",
+    "category": "emergency",
+    "draw": "Blue round mandatory sign with a walking figure on a marked footpath."
+  },
+  {
+    "name": "team-lift-sign",
+    "category": "emergency",
+    "draw": "Blue round mandatory sign with two figures lifting one heavy box together."
+  },
+  {
+    "name": "incoming-tide-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a figure on a sandbar and rising wave lines closing in."
+  },
+  {
+    "name": "submerged-rocks-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a swimmer above jagged rocks hidden under the water line."
+  },
+  {
+    "name": "max-occupancy-sign",
+    "category": "emergency",
+    "draw": "Rectangular sign with a group of figures and a large number above the word MAX."
+  },
+  {
+    "name": "hydrant-marker-plate",
+    "category": "emergency",
+    "draw": "Small wall plate with a large letter H and numbers above and below the crossbar."
+  },
+  {
+    "name": "gas-suppression-system",
+    "category": "emergency",
+    "draw": "Row of tall gas cylinders linked by a manifold pipe with a discharge nozzle."
+  },
+  {
+    "name": "flame-detector",
+    "category": "emergency",
+    "draw": "Wall-mounted detector box with a round sensing lens and a small flame symbol."
+  },
+  {
+    "name": "fire-door-holder",
+    "category": "emergency",
+    "draw": "Wall magnet unit holding an open door by a metal plate, with a flame symbol."
+  },
+  {
+    "name": "defensible-space",
+    "category": "emergency",
+    "draw": "House at the centre of rings of cleared ground, with trees kept outside the outer ring."
+  },
+  {
+    "name": "cat-in-tree-rescue",
+    "category": "emergency",
+    "draw": "Ladder leaning against a tree with a cat sitting on a branch near the top."
+  },
+  {
+    "name": "checking-breathing",
+    "category": "emergency",
+    "draw": "Rescuer's head bent beside a lying person's face, cheek near the mouth, with breath lines."
+  },
+  {
+    "name": "two-person-seat-carry",
+    "category": "emergency",
+    "draw": "Two rescuers with linked hands forming a seat, carrying a seated person between them."
+  },
+  {
+    "name": "rescue-drag",
+    "category": "emergency",
+    "draw": "Rescuer walking backwards pulling a lying person by the shoulders."
+  },
+  {
+    "name": "window-escape",
+    "category": "emergency",
+    "draw": "Person climbing out through an open window onto a ledge."
+  },
+  {
+    "name": "lightning-safety-position",
+    "category": "emergency",
+    "draw": "Person crouching low on the balls of the feet with hands over ears, lightning above."
+  },
+  {
+    "name": "incident-command-post",
+    "category": "emergency",
+    "draw": "Small tent with a flag on top, a folding table and a radio antenna beside it."
+  },
+  {
+    "name": "hazard-map",
+    "category": "emergency",
+    "draw": "Folded map with shaded danger zones and a warning triangle in one corner."
+  },
+  {
+    "name": "family-emergency-plan",
+    "category": "emergency",
+    "draw": "Clipboard with a house symbol, a checklist and a small phone icon."
+  },
+  {
+    "name": "search-party",
+    "category": "emergency",
+    "draw": "Line of figures walking side by side with flashlights, searching across a field."
+  },
+  {
+    "name": "search-pattern-map",
+    "category": "emergency",
+    "draw": "Map square with a zigzag parallel sweep search path and a start dot."
+  },
+  {
+    "name": "patrol-route",
+    "category": "emergency",
+    "draw": "Map with a dashed loop route linking several numbered checkpoint dots."
+  },
+  {
+    "name": "security-desk",
+    "category": "emergency",
+    "draw": "Reception counter with a monitor on it and a guard cap resting beside the screen."
+  },
+  {
+    "name": "emergency-supplies-shelf",
+    "category": "emergency",
+    "draw": "Shelf stocked with water jugs, cans, a flashlight and a first-aid box."
+  },
+  {
+    "name": "taped-window",
+    "category": "emergency",
+    "draw": "Window with an X of tape across its panes, ready for a storm."
+  },
+  {
+    "name": "tsunami-evacuation-tower",
+    "category": "emergency",
+    "draw": "Tall raised platform on sturdy legs with stairs climbing up to it."
+  },
+  {
+    "name": "flood-barrier-panels",
+    "category": "emergency",
+    "draw": "Row of stacked metal barrier panels slotted between posts holding back water."
+  },
+  {
+    "name": "high-water-mark",
+    "category": "emergency",
+    "draw": "Wall plaque with a wave line, an arrow pointing to it and a date line below."
+  },
+  {
+    "name": "seismic-bracing",
+    "category": "emergency",
+    "draw": "Building frame with large diagonal X braces across its bays."
+  },
+  {
+    "name": "cooling-center",
+    "category": "emergency",
+    "draw": "Public building with a large snowflake and fan symbol over its door."
+  },
+  {
+    "name": "warming-center",
+    "category": "emergency",
+    "draw": "Public building with a radiator heat symbol and a blanket over its door."
+  },
+  {
+    "name": "dam-breach",
+    "category": "emergency",
+    "draw": "Dam wall with a crack in the middle and water gushing through it."
+  },
+  {
+    "name": "shark-barrier-net",
+    "category": "emergency",
+    "draw": "Net hanging below floats across a bay with a shark fin outside it."
+  },
+  {
+    "name": "life-jacket-loaner-station",
+    "category": "emergency",
+    "draw": "Board on a post with several life jackets hanging on hooks under a small roof."
+  },
+  {
+    "name": "pool-depth-marker",
+    "category": "emergency",
+    "draw": "Pool edge tile with a depth number and a small no-diving symbol."
+  },
+  {
+    "name": "spill-kit",
+    "category": "emergency",
+    "draw": "Wheeled bin with a lid labelled SPILL KIT and absorbent pads sticking out."
+  },
+  {
+    "name": "fall-protection-anchor",
+    "category": "emergency",
+    "draw": "Roof anchor post with a D-ring on top and a lanyard clipped to it."
+  },
+  {
+    "name": "two-hand-control-buttons",
+    "category": "emergency",
+    "draw": "Machine control box with two large palm buttons spaced wide apart."
+  },
+  {
+    "name": "emergency-pull-cord",
+    "category": "emergency",
+    "draw": "Taut cord running along a conveyor with a switch box and a hand pulling it."
+  },
+  {
+    "name": "elevator-alarm-button",
+    "category": "emergency",
+    "draw": "Elevator button panel with a highlighted button showing a bell."
+  },
+  {
+    "name": "bowline-knot",
+    "category": "emergency",
+    "draw": "Rope tied in a bowline: a fixed loop at the end with a small knot collar above."
+  },
+  {
+    "name": "evacuation-sled",
+    "category": "emergency",
+    "draw": "Padded sled mattress with straps and a pull handle, sliding down stairs."
+  },
+  {
+    "name": "controlled-descent-device",
+    "category": "emergency",
+    "draw": "Wall-mounted reel with a rope running down to a person in a harness below."
+  },
+  {
+    "name": "escape-chute",
+    "category": "emergency",
+    "draw": "Long fabric tube hanging down the side of a tall building from a window."
+  },
+  {
+    "name": "coast-guard-cutter",
+    "category": "emergency",
+    "draw": "Patrol ship in side view with a diagonal hull stripe and a small helicopter deck at the back."
+  },
+  {
+    "name": "vandalism",
+    "category": "emergency",
+    "draw": "Smashed window with a spray paint scrawl on the wall beside it."
+  },
+  {
+    "name": "car-break-in",
+    "category": "emergency",
+    "draw": "Car side view with a shattered window and glass shards falling."
+  },
+  {
+    "name": "snow-cave",
+    "category": "emergency",
+    "draw": "Dome of snow with a small dark entrance tunnel dug into its side."
+  },
+  {
+    "name": "hose-bridge",
+    "category": "emergency",
+    "draw": "Low ramp over a fire hose lying on the road, with a car tyre rolling over it."
+  },
+  {
+    "name": "foam-branch-nozzle",
+    "category": "emergency",
+    "draw": "Straight foam nozzle tube with air intake holes near the inlet and a blob of foam at the tip."
+  },
+  {
+    "name": "turnout-gear-locker",
+    "category": "emergency",
+    "draw": "Open locker with a firefighter coat and helmet hanging above a pair of boots."
+  },
+  {
+    "name": "fire-extinguisher-cabinet",
+    "category": "emergency",
+    "draw": "Wall cabinet with a window door showing a fire extinguisher standing inside."
+  },
+  {
+    "name": "antique-hand-pumper",
+    "category": "emergency",
+    "draw": "Old wheeled fire cart with a long seesaw pump handle across the top."
+  },
+  {
+    "name": "steam-fire-engine",
+    "category": "emergency",
+    "draw": "Antique horse-drawn fire engine with a tall vertical boiler and a smokestack."
+  },
+  {
+    "name": "fire-perimeter-map",
+    "category": "emergency",
+    "draw": "Map with a jagged fire boundary line, a flame inside it and arrows showing spread."
+  },
+  {
+    "name": "fire-training-tower",
+    "category": "emergency",
+    "draw": "Tall concrete drill tower with rows of window openings and a ladder up one face."
+  },
+  {
+    "name": "smoke-vent",
+    "category": "emergency",
+    "draw": "Roof hatch propped open with smoke billowing out of it."
+  },
+  {
+    "name": "firefighter-switch",
+    "category": "emergency",
+    "draw": "Wall box with a big switch lever labelled FIRE, set in the off position."
+  },
+  {
+    "name": "candle-fire-hazard",
+    "category": "emergency",
+    "draw": "Lit candle next to a hanging curtain, the curtain edge catching a small flame."
+  },
+  {
+    "name": "oil-tank-fire",
+    "category": "emergency",
+    "draw": "Round industrial storage tank with tall flames and smoke pouring from its roof."
+  },
+  {
+    "name": "toxic-plume",
+    "category": "emergency",
+    "draw": "Factory chimney with a dark cloud drifting sideways marked by a skull."
+  },
+  {
+    "name": "stabilization-strut",
+    "category": "emergency",
+    "draw": "Telescopic strut propped diagonally against the side of a car to keep it steady."
+  },
+  {
+    "name": "cribbing-blocks",
+    "category": "emergency",
+    "draw": "Criss-cross stack of wooden blocks supporting the underside of a car."
+  },
+  {
+    "name": "windshield-saw",
+    "category": "emergency",
+    "draw": "Hand saw with a pointed tip and coarse teeth, cutting into a windshield edge."
+  },
+  {
+    "name": "scoop-stretcher",
+    "category": "emergency",
+    "draw": "Long split stretcher made of two hinged halves that separate lengthways, with hand holes."
+  },
+  {
+    "name": "traction-splint",
+    "category": "emergency",
+    "draw": "Leg splint frame longer than the leg, with a strap at the ankle pulling it straight."
+  },
+  {
+    "name": "extrication-vest",
+    "category": "emergency",
+    "draw": "Short vertical board vest with side flaps, a head support and buckled chest straps."
+  },
+  {
+    "name": "check-door-heat",
+    "category": "emergency",
+    "draw": "Hand held flat against a closed door with heat waves rising behind it."
+  },
+  {
+    "name": "move-to-higher-ground",
+    "category": "emergency",
+    "draw": "Person walking up a hill with an arrow pointing up, water rising behind."
+  },
+  {
+    "name": "relief-convoy",
+    "category": "emergency",
+    "draw": "Line of trucks driving one behind another, the front one flying a small flag."
+  },
+  {
+    "name": "field-kitchen",
+    "category": "emergency",
+    "draw": "Trailer with two large steaming cooking pots and a ladle."
+  },
+  {
+    "name": "hygiene-kit",
+    "category": "emergency",
+    "draw": "Zip bag with a toothbrush, a soap bar and a small towel peeking out."
+  },
+  {
+    "name": "water-bladder-tank",
+    "category": "emergency",
+    "draw": "Large flat pillow-shaped water bladder lying on the ground with a tap hose."
+  },
+  {
+    "name": "emergency-shelter-sign",
+    "category": "emergency",
+    "draw": "Sign with a house outline containing a group of figures and an arrow."
+  },
+  {
+    "name": "kill-switch-lanyard",
+    "category": "emergency",
+    "draw": "Coiled lanyard clipped to a wrist at one end and a boat engine cut-off switch at the other."
+  },
+  {
+    "name": "bilge-pump",
+    "category": "emergency",
+    "draw": "Manual boat pump: a long tube with a T-handle plunger and an outlet hose."
+  },
+  {
+    "name": "fire-proximity-suit",
+    "category": "emergency",
+    "draw": "Shiny aluminized suit with a hood, a gold face visor and reflection lines."
+  },
+  {
+    "name": "bomb-disposal-suit",
+    "category": "emergency",
+    "draw": "Bulky padded protective suit with a large helmet and a flat face visor."
+  },
+  {
+    "name": "crank-flashlight",
+    "category": "emergency",
+    "draw": "Flashlight with a folding hand crank on its side for recharging."
+  },
+  {
+    "name": "no-sitting-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a seated figure."
+  },
+  {
+    "name": "exit-door-alarm",
+    "category": "emergency",
+    "draw": "Door with a push bar and a small box above it with a bell and a warning label."
+  },
+  {
+    "name": "lifeboat-station",
+    "category": "emergency",
+    "draw": "Boathouse on the shore with a slipway running down into the sea."
+  },
+  {
+    "name": "emergency-department",
+    "category": "emergency",
+    "draw": "Hospital entrance with a canopy marked EMERGENCY and an ambulance parked under it."
+  },
+  {
+    "name": "deployed-airbag",
+    "category": "emergency",
+    "draw": "Steering wheel with a large inflated airbag cushion bursting out of its centre."
+  },
+  {
+    "name": "river-ice-jam",
+    "category": "emergency",
+    "draw": "River with broken ice slabs piled up against a bridge, water spilling over the banks."
+  },
+  {
+    "name": "quicksand-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a figure sunk to the waist in wavy sand."
+  },
+  {
+    "name": "falling-branches-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a tree dropping a broken branch towards a figure."
+  },
+  {
+    "name": "open-mine-shaft-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a figure falling into a dark vertical shaft opening."
+  },
+  {
+    "name": "no-kites-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a kite, power lines above."
+  },
+  {
+    "name": "hose-spanner-wrench",
+    "category": "emergency",
+    "draw": "Flat spanner with a curved hooked head and a pry tip, for tightening hose couplings."
+  },
+  {
+    "name": "roof-escape-hatch",
+    "category": "emergency",
+    "draw": "Square hatch in a vehicle roof tilted open with an arrow pointing up."
+  },
+  {
+    "name": "storm-damaged-roof",
+    "category": "emergency",
+    "draw": "House with missing roof shingles, a hole in the roof and debris flying off."
+  },
+  {
+    "name": "litter-wheel",
+    "category": "emergency",
+    "draw": "Single large wheel mounted under the middle of a rescue stretcher with carry handles."
+  },
+  {
+    "name": "lifeboat-davit",
+    "category": "emergency",
+    "draw": "Two curved arms on a ship's side holding a lifeboat on ropes."
+  },
+  {
+    "name": "scramble-net",
+    "category": "emergency",
+    "draw": "Rope net hanging down a ship's hull into the water."
+  },
+  {
+    "name": "mine-refuge-chamber",
+    "category": "emergency",
+    "draw": "Steel box shelter on skids inside a tunnel with a door and air tanks."
+  },
+  {
+    "name": "self-rescuer",
+    "category": "emergency",
+    "draw": "Small belt-worn canister with a mouthpiece and nose clip on a short hose."
+  },
+  {
+    "name": "bed-shaker-alarm",
+    "category": "emergency",
+    "draw": "Pillow with a small vibrating disc under it, vibration lines and a fire symbol."
+  },
+  {
+    "name": "rogue-wave",
+    "category": "emergency",
+    "draw": "Giant towering wave curling over a small ship."
+  },
+  {
+    "name": "emergency-food-bucket",
+    "category": "emergency",
+    "draw": "Lidded bucket stacked with sealed meal pouches, a fork symbol on the side."
+  },
+  {
+    "name": "help-y-signal",
+    "category": "emergency",
+    "draw": "Person standing with both arms raised in a Y shape, the signal for needing help."
+  },
+  {
+    "name": "car-fire-blanket",
+    "category": "emergency",
+    "draw": "Large fire blanket draped over a whole car, with a small flame escaping at one edge."
+  },
+  {
+    "name": "drain-cover-seal",
+    "category": "emergency",
+    "draw": "Flat square mat laid over a drain grate with a spill puddle stopped at its edge."
+  },
+  {
+    "name": "aerosol-fire-extinguisher",
+    "category": "emergency",
+    "draw": "Small spray can with a nozzle cap, spraying a mist onto a small flame."
+  },
+  {
+    "name": "no-leaning-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a figure leaning against a door."
+  },
+  {
+    "name": "no-strollers-sign",
+    "category": "emergency",
+    "draw": "Red prohibition circle with a slash over a baby stroller."
+  },
+  {
+    "name": "bull-in-field-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a bull standing side on, head lowered."
+  },
+  {
+    "name": "unsafe-structure-sign",
+    "category": "emergency",
+    "draw": "Warning triangle with a cracked building leaning to one side."
+  },
+  {
+    "name": "safety-instruction-card",
+    "category": "emergency",
+    "draw": "Folded card with small panels showing a seat belt, an oxygen mask and an exit."
+  },
+  {
+    "name": "lone-worker-alarm",
+    "category": "emergency",
+    "draw": "Small clip-on alarm device with an SOS button and a figure lying down symbol."
+  },
+  {
+    "name": "ice-rescue-sled",
+    "category": "emergency",
+    "draw": "Flat floating rescue sled with side handles and a rope, lying on cracked ice."
+  },
+  {
+    "name": "forestry-helmet",
+    "category": "emergency",
+    "draw": "Safety helmet with a flip-down mesh face visor and ear defenders on the sides."
+  },
+  {
+    "name": "powered-air-respirator",
+    "category": "emergency",
+    "draw": "Loose hood with a clear visor, connected by a hose to a battery blower unit on a belt."
+  },
+  {
+    "name": "hot-work-permit",
+    "category": "emergency",
+    "draw": "Permit form on a clipboard with a flame symbol and signature lines."
+  },
+  {
+    "name": "accident-report-book",
+    "category": "emergency",
+    "draw": "Bound logbook with a plus cross and a pen resting on the cover."
+  },
+  {
+    "name": "hypothermia-wrap",
+    "category": "emergency",
+    "draw": "Person lying wrapped tightly in layered blankets with a hood, only the face showing."
+  },
+  {
+    "name": "smoke-alarm-tester",
+    "category": "emergency",
+    "draw": "Long pole with a cup on top pressed against a ceiling smoke alarm."
+  },
+  {
+    "name": "extinguisher-training",
+    "category": "emergency",
+    "draw": "Person aiming a fire extinguisher at a small fire in a metal tray."
+  },
+  {
+    "name": "smother-pan-fire",
+    "category": "emergency",
+    "draw": "Hand placing a lid on a frying pan to smother the flames inside."
+  },
+  {
+    "name": "tyrolean-traverse",
+    "category": "emergency",
+    "draw": "Rope stretched between two cliffs with a person hanging from a pulley crossing it."
+  },
+  {
+    "name": "raker-shore",
+    "category": "emergency",
+    "draw": "Diagonal timber brace propping up a leaning wall, anchored to the ground."
+  },
+  {
+    "name": "brake-bar-rack",
+    "category": "emergency",
+    "draw": "Rope rescue descender: a long U-shaped frame with several sliding metal bars the rope weaves through."
+  },
+  {
+    "name": "firefighters-hose-line",
+    "category": "emergency",
+    "draw": "Two firefighters in helmets one behind the other holding a charged hose line."
+  },
+  {
+    "name": "ladder-rescue",
+    "category": "emergency",
+    "draw": "Firefighter climbing down a ladder carrying a person over the shoulder."
+  },
+  {
+    "name": "car-extrication",
+    "category": "emergency",
+    "draw": "Car in side view with its roof cut away and folded back, a rescue cutter beside it."
+  },
+  {
+    "name": "sandbagging",
+    "category": "emergency",
+    "draw": "Person lifting a sandbag onto a low wall of stacked sandbags."
+  },
+  {
+    "name": "cable-protector-ramp",
+    "category": "emergency",
+    "draw": "Low yellow ramp with channels covering cables across a floor."
+  },
+  {
+    "name": "cracked-wall",
+    "category": "emergency",
+    "draw": "Wall of bricks with a jagged zigzag crack running from top to bottom."
+  },
+  {
+    "name": "dry-hydrant",
+    "category": "emergency",
+    "draw": "Capped pipe standing beside a pond with its intake running under the water."
+  },
+  {
+    "name": "pole-climbing-spikes",
+    "category": "emergency",
+    "draw": "Pair of leg irons with straps and a sharp spur on the inside, for climbing utility poles."
+  },
+  {
+    "name": "hot-stick",
+    "category": "emergency",
+    "draw": "Long insulated fiberglass pole with a hook tool on the end touching a power line."
+  },
+  {
+    "name": "shock-absorbing-lanyard",
+    "category": "emergency",
+    "draw": "Fall-arrest lanyard with a snap hook at each end and a folded shock pack in the middle."
+  },
+  {
+    "name": "manhole-ventilation-blower",
+    "category": "emergency",
+    "draw": "Portable blower with a flexible duct running down into an open manhole."
+  },
+  {
+    "name": "manhole-guard",
+    "category": "emergency",
+    "draw": "Square guard rail frame standing around an open manhole."
+  },
+  {
+    "name": "portable-scene-light",
+    "category": "emergency",
+    "draw": "Tripod stand with two floodlight heads on top, beaming light down."
+  },
+  {
+    "name": "sea-dye-marker",
+    "category": "emergency",
+    "draw": "Person in the water surrounded by a bright spreading patch of marker dye."
+  },
+  {
+    "name": "radar-reflector",
+    "category": "emergency",
+    "draw": "Octahedral metal radar reflector hoisted on a boat mast."
+  },
+  {
+    "name": "tv-emergency-banner",
+    "category": "emergency",
+    "draw": "Television screen with a warning triangle and a scrolling banner along the bottom."
+  },
+  {
+    "name": "evacuation-door-tag",
+    "category": "emergency",
+    "draw": "Door hanger tag with a check mark and a house symbol, hung on a door handle."
+  },
+  {
+    "name": "building-safety-placard",
+    "category": "emergency",
+    "draw": "Notice card posted on a door with a large header and a building outline, showing it is inspected."
+  },
+  {
+    "name": "snow-emergency-route-sign",
+    "category": "emergency",
+    "draw": "Road sign with a snowflake and the words EMERGENCY ROUTE."
+  },
+  {
+    "name": "frozen-pipe",
+    "category": "emergency",
+    "draw": "Pipe section coated in frost with icicles hanging from it and a small crack."
+  },
+  {
+    "name": "crevasse-rescue",
+    "category": "emergency",
+    "draw": "Person hanging on a rope inside a deep crack in a glacier, a rescuer at the lip above."
+  },
+  {
+    "name": "injured-person",
+    "category": "emergency",
+    "draw": "Person sitting with a bandaged head and an arm in a sling."
+  },
+  {
+    "name": "stretcher-carry",
+    "category": "emergency",
+    "draw": "Two rescuers carrying a patient on a stretcher between them."
+  }
+]

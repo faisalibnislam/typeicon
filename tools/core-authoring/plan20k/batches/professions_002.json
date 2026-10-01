@@ -1,0 +1,482 @@
+[
+ {
+  "name": "data-scientist",
+  "category": "professions",
+  "draw": "Figure in glasses beside a scatter plot with a trend line.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "robotics-engineer",
+  "category": "professions",
+  "draw": "Figure holding a wrench next to a small jointed robot arm.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "drone-pilot",
+  "category": "professions",
+  "draw": "Figure holding a remote controller with a quadcopter drone hovering above.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "gamer",
+  "category": "professions",
+  "draw": "Head and shoulders figure in a headset with a mic holding a game controller.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "streamer",
+  "category": "professions",
+  "draw": "Figure in a headset in front of a microphone arm and a small webcam with a live dot.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "podcaster",
+  "category": "professions",
+  "draw": "Figure in headphones speaking into a large studio microphone on a boom arm.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "video-creator",
+  "category": "professions",
+  "draw": "Figure in front of a camera on a tripod with a ring light behind.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "news-anchor",
+  "category": "professions",
+  "draw": "Head and shoulders figure behind a desk with a stack of papers and a screen behind.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "weather-presenter",
+  "category": "professions",
+  "draw": "Figure gesturing at a map board showing a sun and a cloud.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "radio-host",
+  "category": "professions",
+  "draw": "Figure in headphones leaning to a microphone with an on air sign above.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "camera-operator",
+  "category": "professions",
+  "draw": "Figure with a large video camera resting on the shoulder.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "film-director",
+  "category": "professions",
+  "draw": "Figure holding a megaphone seated in a folding director chair.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "boom-operator",
+  "category": "professions",
+  "draw": "Figure holding a long pole with a fuzzy windscreen microphone overhead.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "sound-engineer",
+  "category": "professions",
+  "draw": "Figure in headphones with hands on a mixing desk of vertical sliders.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "editor",
+  "category": "professions",
+  "draw": "Figure in glasses marking a page with a pen, a correction squiggle on the text.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "author",
+  "category": "professions",
+  "draw": "Figure seated at a desk writing with a quill beside an open book.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "screenwriter",
+  "category": "professions",
+  "draw": "Figure typing on a typewriter with a sheet of paper sticking up.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "cartoonist",
+  "category": "professions",
+  "draw": "Figure drawing a speech bubble and a panel frame on a sketch board.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "translator",
+  "category": "professions",
+  "draw": "Figure between two speech bubbles, one with the letter A and one with a different script glyph.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "sign-language-interpreter",
+  "category": "professions",
+  "draw": "Head and shoulders figure beside two raised hands forming a sign.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "librarian",
+  "category": "professions",
+  "draw": "Figure in glasses holding a tall stack of books against the chest.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "museum-curator",
+  "category": "professions",
+  "draw": "Figure in gloves hanging a framed picture on a wall.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "tour-guide",
+  "category": "professions",
+  "draw": "Figure holding up a small flag on a stick with a group of heads behind.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "travel-agent",
+  "category": "professions",
+  "draw": "Figure beside a globe holding out a plane ticket.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "flight-attendant",
+  "category": "professions",
+  "draw": "Figure in a small cap and neck scarf pushing a narrow drinks trolley.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "air-traffic-controller",
+  "category": "professions",
+  "draw": "Figure in a headset looking at a round radar screen with a sweep line.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "ship-captain",
+  "category": "professions",
+  "draw": "Figure in a captain hat with a bearded face holding a ship wheel.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "sailor",
+  "category": "professions",
+  "draw": "Figure in a round sailor cap with a square collar and a knotted neckerchief.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "navy-officer",
+  "category": "professions",
+  "draw": "Figure in a white peaked cap with an anchor badge and shoulder boards.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "fisherman",
+  "category": "professions",
+  "draw": "Figure in a bucket hat holding a fishing rod with the line bent down.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "deep-sea-diver",
+  "category": "professions",
+  "draw": "Figure in a round brass diving helmet with a front porthole and air hose.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "scuba-diver",
+  "category": "professions",
+  "draw": "Figure in a mask and snorkel with a single air tank on the back and fins.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "lumberjack",
+  "category": "professions",
+  "draw": "Bearded figure in a checked shirt holding an axe over the shoulder.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "miner",
+  "category": "professions",
+  "draw": "Figure in a helmet with a headlamp holding a pickaxe.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "oil-rig-worker",
+  "category": "professions",
+  "draw": "Figure in a hard hat and coveralls holding a large pipe wrench beside a derrick.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "electrician",
+  "category": "professions",
+  "draw": "Figure in a hard hat holding pliers with a lightning bolt beside.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "plumber",
+  "category": "professions",
+  "draw": "Figure in a cap and overalls holding a pipe wrench beside a bent pipe.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "carpenter",
+  "category": "professions",
+  "draw": "Figure with a pencil behind the ear holding a hand saw over a plank.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "bricklayer",
+  "category": "professions",
+  "draw": "Figure holding a trowel beside a short wall of staggered bricks.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "roofer",
+  "category": "professions",
+  "draw": "Figure kneeling on a sloped roof line holding a hammer with shingles below.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "house-painter",
+  "category": "professions",
+  "draw": "Figure in a paper hat and overalls holding a long paint roller.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "locksmith",
+  "category": "professions",
+  "draw": "Figure holding a large key beside a padlock.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "blacksmith",
+  "category": "professions",
+  "draw": "Figure in a leather apron raising a hammer over an anvil.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "tailor",
+  "category": "professions",
+  "draw": "Figure with a tape measure draped around the neck holding a needle and thread.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "cobbler",
+  "category": "professions",
+  "draw": "Figure holding a hammer over a shoe on a shoe last.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "jeweler",
+  "category": "professions",
+  "draw": "Figure with an eye loupe examining a ring with a gem.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "watchmaker",
+  "category": "professions",
+  "draw": "Figure with an eye loupe holding tweezers over an open watch with gears.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "barber",
+  "category": "professions",
+  "draw": "Figure holding hair clippers beside a striped barber pole.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "hairdresser",
+  "category": "professions",
+  "draw": "Figure holding scissors and a comb beside a head with styled hair.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "makeup-artist",
+  "category": "professions",
+  "draw": "Figure holding a large fluffy makeup brush beside a face.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "tattoo-artist",
+  "category": "professions",
+  "draw": "Figure holding a tattoo machine over a forearm with a small star design.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "nail-technician",
+  "category": "professions",
+  "draw": "Figure holding a small nail polish brush over a hand with painted nails.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "florist",
+  "category": "professions",
+  "draw": "Figure in an apron holding a wrapped bouquet of flowers.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "arborist",
+  "category": "professions",
+  "draw": "Figure in a helmet in a harness on a tree trunk with a rope.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "cowboy",
+  "category": "professions",
+  "draw": "Figure in a cowboy hat and neckerchief holding a coiled lasso.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "jockey",
+  "category": "professions",
+  "draw": "Figure in a peaked riding cap and silks holding a riding crop.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "butcher",
+  "category": "professions",
+  "draw": "Figure in a striped apron holding a cleaver beside a hanging cut of meat.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "pizza-maker",
+  "category": "professions",
+  "draw": "Figure in an apron tossing a round flat dough disc above the hands.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "sushi-chef",
+  "category": "professions",
+  "draw": "Figure in a headband holding a long thin knife over a sushi roll.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "grill-master",
+  "category": "professions",
+  "draw": "Figure in an apron holding long tongs over a grill with flames.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "barista",
+  "category": "professions",
+  "draw": "Figure in an apron holding a coffee cup with a steam curl.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "bartender",
+  "category": "professions",
+  "draw": "Figure holding a cocktail shaker above a shallow glass.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "sommelier",
+  "category": "professions",
+  "draw": "Figure in a vest swirling a wine glass with a small cup on a chain at the neck.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "doorman",
+  "category": "professions",
+  "draw": "Figure in a peaked cap and long coat holding a door open.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "concierge",
+  "category": "professions",
+  "draw": "Figure behind a desk with a service bell and a key on a tag.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "bellhop",
+  "category": "professions",
+  "draw": "Figure in a round pillbox hat pushing a luggage cart with suitcases.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "valet-attendant",
+  "category": "professions",
+  "draw": "Figure in a vest holding up a car key beside a car front.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "housekeeper",
+  "category": "professions",
+  "draw": "Figure in an apron holding a spray bottle and a cloth.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "janitor",
+  "category": "professions",
+  "draw": "Figure holding a mop beside a wheeled bucket.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "window-cleaner",
+  "category": "professions",
+  "draw": "Figure hanging on a rope seat holding a squeegee against a glass pane grid.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "chimney-sweep",
+  "category": "professions",
+  "draw": "Figure in a top hat holding a round chimney brush on a long rod.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "pest-control-technician",
+  "category": "professions",
+  "draw": "Figure in a respirator mask holding a sprayer wand with a small insect beside.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "garbage-collector",
+  "category": "professions",
+  "draw": "Figure in a safety vest lifting a wheeled bin.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "street-sweeper",
+  "category": "professions",
+  "draw": "Figure in a vest holding a wide broom beside a wheeled cart.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "road-worker",
+  "category": "professions",
+  "draw": "Figure in a hard hat and striped safety vest holding a stop slow paddle sign.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "jackhammer-operator",
+  "category": "professions",
+  "draw": "Figure in ear defenders gripping a jackhammer with dust puffs at the base.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "crane-operator",
+  "category": "professions",
+  "draw": "Figure in a cab window under the arm of a tower crane with a hook.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "forklift-operator",
+  "category": "professions",
+  "draw": "Figure seated in a forklift with raised forks carrying a pallet.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "warehouse-worker",
+  "category": "professions",
+  "draw": "Figure in a vest pushing a hand truck stacked with two boxes.",
+  "domain": "professions-and-roles"
+ },
+ {
+  "name": "factory-worker",
+  "category": "professions",
+  "draw": "Figure in a hard hat and safety glasses beside a conveyor belt with a box.",
+  "domain": "professions-and-roles"
+ }
+]

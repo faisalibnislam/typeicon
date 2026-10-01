@@ -1,0 +1,482 @@
+[
+ {
+  "name": "read-receipt",
+  "category": "ui",
+  "draw": "Two overlapping check marks side by side, the right one slightly offset.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "reaction-bar",
+  "category": "ui",
+  "draw": "Pill shaped bar holding a row of four small round faces and hearts.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "avatar-group",
+  "category": "ui",
+  "draw": "Three overlapping user avatar circles in a row, each with a head and shoulders silhouette.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "activity-feed",
+  "category": "ui",
+  "draw": "Vertical line with three dots along it, each dot followed by a short text line to the right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "tag-cloud",
+  "category": "ui",
+  "draw": "Cluster of rounded pill tags of different widths stacked loosely in three rows.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "corner-ribbon",
+  "category": "ui",
+  "draw": "Card outline with a diagonal band across its top right corner.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "placeholder-box",
+  "category": "ui",
+  "draw": "Square outline with two diagonal lines crossing from corner to corner.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "testimonial-card",
+  "category": "ui",
+  "draw": "Card with a large quote mark at the top, two text lines and a small avatar circle at the bottom.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "ripple-effect",
+  "category": "ui",
+  "draw": "Fingertip touching a button with two concentric circles spreading out from the touch point.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "hover-card",
+  "category": "ui",
+  "draw": "Arrow cursor resting over an underlined word with a small profile card floating above it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "ad-slot",
+  "category": "ui",
+  "draw": "Wide rectangle with dashed border and a small corner tag, marking a reserved ad space.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "button-group",
+  "category": "ui",
+  "draw": "Three rectangular buttons joined edge to edge in a single rounded strip.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "split-button",
+  "category": "ui",
+  "draw": "Rounded button divided by a vertical line into a wide label part and a narrow part with a down caret.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "icon-button",
+  "category": "ui",
+  "draw": "Circle button outline containing a small star glyph at its centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "toggle-button",
+  "category": "ui",
+  "draw": "Rounded square button drawn sunken with an inner shadow and a bold B letter.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "knob-control",
+  "category": "ui",
+  "draw": "Round rotary knob with a pointer notch and small tick marks arced around its lower half.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "number-input",
+  "category": "ui",
+  "draw": "Field outline holding a number dash with small stacked up and down carets at its right end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "quantity-selector",
+  "category": "ui",
+  "draw": "Pill outline with a minus sign at the left, a number dash in the middle and a plus sign at the right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "stepped-slider",
+  "category": "ui",
+  "draw": "Horizontal track with five small tick marks beneath and a round thumb resting on the third tick.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "hue-slider",
+  "category": "ui",
+  "draw": "Horizontal bar with vertical gradient bands and a small circular handle sitting on it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "checkbox-indeterminate",
+  "category": "ui",
+  "draw": "Rounded square with a short thick horizontal dash across its centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "scroll-wheel-picker",
+  "category": "ui",
+  "draw": "Rounded panel with three stacked rows where the middle row is highlighted by two lines and the outer rows fade.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "time-picker",
+  "category": "ui",
+  "draw": "Clock face beside two small stacked number boxes separated by a colon.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "date-range-picker",
+  "category": "ui",
+  "draw": "Small calendar grid with a filled capsule highlight running across three adjacent days.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "text-area",
+  "category": "ui",
+  "draw": "Tall field outline with three text lines and small diagonal resize marks in its bottom right corner.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "tag-input",
+  "category": "ui",
+  "draw": "Field outline containing two small pill tags, each with a tiny x, followed by a text cursor.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "filter-chip",
+  "category": "ui",
+  "draw": "Rounded pill with a small check at the left and a short label dash.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "file-dropzone",
+  "category": "ui",
+  "draw": "Dashed rounded rectangle with a document shape and an arrow pointing down into it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "password-strength",
+  "category": "ui",
+  "draw": "Password field of dots above a bar of four segments with the first three filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "rich-text-editor",
+  "category": "ui",
+  "draw": "Window with a toolbar of B, I and U letters on top and text lines in the area below.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "dial-pad",
+  "category": "ui",
+  "draw": "Three by four grid of small circles with a filled green style call circle beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "switch-list",
+  "category": "ui",
+  "draw": "Three stacked rows each ending in a small toggle switch, the first two switched on.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "video-chapters",
+  "category": "ui",
+  "draw": "Horizontal progress track split into four segments by small gaps, the first two filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "video-player",
+  "category": "ui",
+  "draw": "Wide rectangle with a play triangle in the centre and a thin progress bar with controls along the bottom.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "sentiment-slider",
+  "category": "ui",
+  "draw": "Horizontal track from a sad face at the left to a happy face at the right with a thumb near the right end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-wait",
+  "category": "ui",
+  "draw": "Arrow pointer with a small hourglass hanging to its lower right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-progress",
+  "category": "ui",
+  "draw": "Arrow pointer with a small partial spinner circle beside its tail.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-grabbing",
+  "category": "ui",
+  "draw": "Closed fist hand viewed from the back with knuckles curled down, as when dragging.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-context-menu",
+  "category": "ui",
+  "draw": "Arrow pointer with a tiny menu card of three lines at its lower right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-cell",
+  "category": "ui",
+  "draw": "Thick bold plus sign with hollow outlined arms, like a spreadsheet cell cursor.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-col-resize",
+  "category": "ui",
+  "draw": "Two short vertical bars side by side with small arrowheads pointing outward from them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-alias",
+  "category": "ui",
+  "draw": "Arrow pointer with a small curved shortcut arrow at its lower right.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "cursor-drag",
+  "category": "ui",
+  "draw": "Arrow pointer carrying a small dashed rectangle attached to its tail.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "collaborator-cursors",
+  "category": "ui",
+  "draw": "Two arrow pointers at different angles, each trailing a small name tag rectangle.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "mouse-scroll",
+  "category": "ui",
+  "draw": "Computer mouse outline with a tall scroll wheel and small arrow chevrons above and below it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "double-click",
+  "category": "ui",
+  "draw": "Arrow pointer with two nested arc lines radiating from its tip.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "touch-target",
+  "category": "ui",
+  "draw": "Fingertip over a small button with a dashed square around the button showing the tap area.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-escape",
+  "category": "ui",
+  "draw": "Rounded square keycap with the letters esc written on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-tab",
+  "category": "ui",
+  "draw": "Wide rounded keycap with an arrow pointing to a vertical bar on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-shift",
+  "category": "ui",
+  "draw": "Rounded keycap containing an outlined upward house shaped shift arrow.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-capslock",
+  "category": "ui",
+  "draw": "Rounded keycap with an outlined shift arrow above a short bar and a tiny indicator dot.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-control",
+  "category": "ui",
+  "draw": "Rounded keycap with the letters ctrl written on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-option",
+  "category": "ui",
+  "draw": "Rounded keycap with the option symbol on its face: a line that steps down diagonally, with a short separate bar above its right end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-function",
+  "category": "ui",
+  "draw": "Rounded keycap with the letters fn written on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-backspace",
+  "category": "ui",
+  "draw": "Keycap containing a pentagon shaped delete arrow pointing to one side with a small x inside.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-delete",
+  "category": "ui",
+  "draw": "Rounded keycap with the letters del written on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-spacebar",
+  "category": "ui",
+  "draw": "Very wide flat keycap with a small open bracket symbol underlined in its centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-home",
+  "category": "ui",
+  "draw": "Rounded keycap with the word home written on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-end",
+  "category": "ui",
+  "draw": "Rounded keycap with the word end written on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-insert",
+  "category": "ui",
+  "draw": "Rounded keycap with the letters ins written on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-print-screen",
+  "category": "ui",
+  "draw": "Rounded keycap with a tiny screen outline and the letters prt sc beneath.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-menu",
+  "category": "ui",
+  "draw": "Rounded keycap with a small menu list glyph of three lines inside a tiny rectangle.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-eject",
+  "category": "ui",
+  "draw": "Rounded keycap with an upward triangle above a flat bar.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-enter",
+  "category": "ui",
+  "draw": "Tall L shaped keycap with a bent return arrow on its face.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "function-keys",
+  "category": "ui",
+  "draw": "Row of four small keycaps labelled F1 to F4 with a slightly larger gap before the last.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "arrow-keys",
+  "category": "ui",
+  "draw": "Four keycaps arranged in an inverted T, each with a small triangle pointing outward.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "wasd-keys",
+  "category": "ui",
+  "draw": "Four keycaps in an inverted T with the letters W, A, S and D on them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "key-combo",
+  "category": "ui",
+  "draw": "Two keycaps side by side joined by a small plus sign between them.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "keyboard-brightness",
+  "category": "ui",
+  "draw": "Small keyboard outline with short rays fanning out from its top edge.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "keyboard-language",
+  "category": "ui",
+  "draw": "Keyboard outline with a small globe in the top right corner.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "voice-typing",
+  "category": "ui",
+  "draw": "Keyboard outline with a small microphone sitting above its centre.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "handwriting-input",
+  "category": "ui",
+  "draw": "Rectangle input area with a looping handwritten stroke and a small pen tip at its end.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "shortcut-cheatsheet",
+  "category": "ui",
+  "draw": "Card with two columns of small keycap squares beside short description lines.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "sticky-keys",
+  "category": "ui",
+  "draw": "Keycap with a shift arrow on it and a small pushpin pressed into its top edge.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "mouse-buttons",
+  "category": "ui",
+  "draw": "Computer mouse outline with its two top buttons outlined and the left one filled.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "trackpad-gesture",
+  "category": "ui",
+  "draw": "Rounded rectangle trackpad with two fingertip dots and small arrows showing a two finger swipe.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "vibration-mode",
+  "category": "ui",
+  "draw": "Phone outline with pairs of short zigzag lines on both sides showing vibration.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "auto-rotate",
+  "category": "ui",
+  "draw": "Phone outline tilted with two curved arrows circling around it.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "system-theme",
+  "category": "ui",
+  "draw": "Circle split vertically, the left half a small sun and the right half a crescent moon.",
+  "domain": "ui-components"
+ },
+ {
+  "name": "blue-light-filter",
+  "category": "ui",
+  "draw": "Screen outline with a small crescent and short rays and a warm tinted lower half.",
+  "domain": "ui-components"
+ }
+]

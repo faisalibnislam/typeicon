@@ -1,0 +1,1687 @@
+[
+  {
+    "name": "crop-top",
+    "category": "fashion",
+    "draw": "Short sleeved T-shirt cut off well above the waist, showing a wide bare gap under the hem."
+  },
+  {
+    "name": "turtleneck",
+    "category": "fashion",
+    "draw": "Long sleeved sweater front view with a tall folded collar rolled up around the neck."
+  },
+  {
+    "name": "henley-shirt",
+    "category": "fashion",
+    "draw": "Long sleeved T-shirt with a round collarless neck and a short placket of three buttons."
+  },
+  {
+    "name": "hawaiian-shirt",
+    "category": "fashion",
+    "draw": "Short sleeved camp collar shirt with an open V neck and two hibiscus flowers printed on the front."
+  },
+  {
+    "name": "flannel-shirt",
+    "category": "fashion",
+    "draw": "Long sleeved button shirt with a plaid grid of crossing lines over the body."
+  },
+  {
+    "name": "long-sleeve-shirt",
+    "category": "fashion",
+    "draw": "Plain crew neck T-shirt with full length sleeves reaching down past the hem."
+  },
+  {
+    "name": "v-neck-shirt",
+    "category": "fashion",
+    "draw": "Short sleeved T-shirt with a deep V shaped neckline."
+  },
+  {
+    "name": "raglan-shirt",
+    "category": "fashion",
+    "draw": "T-shirt with sleeves joined by diagonal seams running from the underarm up to the collar, sleeves shaded."
+  },
+  {
+    "name": "rugby-shirt",
+    "category": "fashion",
+    "draw": "Long sleeved shirt with wide horizontal stripes, a white pointed collar and short button placket."
+  },
+  {
+    "name": "breton-shirt",
+    "category": "fashion",
+    "draw": "Long sleeved boat neck top with thin evenly spaced horizontal stripes."
+  },
+  {
+    "name": "tube-top",
+    "category": "fashion",
+    "draw": "Strapless straight band top, a short rectangle with a slight curve along the top edge."
+  },
+  {
+    "name": "halter-top",
+    "category": "fashion",
+    "draw": "Sleeveless top with straps meeting behind the neck in a V, leaving bare shoulders."
+  },
+  {
+    "name": "off-shoulder-top",
+    "category": "fashion",
+    "draw": "Top with a wide straight neckline sitting below the shoulders and short puffed sleeves at the upper arms."
+  },
+  {
+    "name": "one-shoulder-top",
+    "category": "fashion",
+    "draw": "Top with a single strap and a diagonal neckline running from one shoulder to the opposite underarm."
+  },
+  {
+    "name": "peplum-top",
+    "category": "fashion",
+    "draw": "Fitted sleeveless top with a short flared ruffle flaring out below the waist seam."
+  },
+  {
+    "name": "corset",
+    "category": "fashion",
+    "draw": "Hourglass shaped bodice front view with vertical boning lines and criss cross lacing down the centre."
+  },
+  {
+    "name": "bodysuit",
+    "category": "fashion",
+    "draw": "One piece long sleeved top that ends in a high cut brief at the hips, no legs."
+  },
+  {
+    "name": "zip-hoodie",
+    "category": "fashion",
+    "draw": "Hooded jacket with a full length centre zipper, two drawstrings and front pockets."
+  },
+  {
+    "name": "quarter-zip-pullover",
+    "category": "fashion",
+    "draw": "Long sleeved pullover with a stand collar and a short zipper running from the collar to mid chest."
+  },
+  {
+    "name": "sweater-vest",
+    "category": "fashion",
+    "draw": "Sleeveless knit vest with a V neck, ribbed armholes and a diamond argyle pattern."
+  },
+  {
+    "name": "guayabera",
+    "category": "fashion",
+    "draw": "Short sleeved shirt with four patch pockets and two vertical pleat lines down each side of the front."
+  },
+  {
+    "name": "tie-dye-shirt",
+    "category": "fashion",
+    "draw": "T-shirt with a spiral swirl pattern radiating from the centre of the chest."
+  },
+  {
+    "name": "referee-shirt",
+    "category": "fashion",
+    "draw": "Short sleeved collared shirt with bold black and white vertical stripes and a whistle on a cord."
+  },
+  {
+    "name": "sailor-suit",
+    "category": "fashion",
+    "draw": "Top with a large square sailor collar with stripes flapping at the back and a neckerchief tied at the V."
+  },
+  {
+    "name": "clerical-collar-shirt",
+    "category": "fashion",
+    "draw": "Dark shirt collar with a small white square tab at the front of the throat."
+  },
+  {
+    "name": "tailcoat",
+    "category": "fashion",
+    "draw": "Formal coat front view that is cut short at the waist in front with two long tails hanging behind the legs."
+  },
+  {
+    "name": "double-breasted-jacket",
+    "category": "fashion",
+    "draw": "Suit jacket with overlapping front panels and two vertical rows of three buttons."
+  },
+  {
+    "name": "puffer-jacket",
+    "category": "fashion",
+    "draw": "Quilted jacket made of stacked horizontal puffy baffles and a high zipped collar."
+  },
+  {
+    "name": "parka",
+    "category": "fashion",
+    "draw": "Long winter coat with a hood edged in a thick fur ruff and big flap pockets."
+  },
+  {
+    "name": "denim-jacket",
+    "category": "fashion",
+    "draw": "Button jacket with a pointed collar, two flap chest pockets and dashed stitching lines."
+  },
+  {
+    "name": "leather-jacket",
+    "category": "fashion",
+    "draw": "Biker jacket with an asymmetric diagonal zipper, wide lapels and a belted hem."
+  },
+  {
+    "name": "varsity-jacket",
+    "category": "fashion",
+    "draw": "Jacket with contrasting shaded sleeves, striped ribbed cuffs and waistband and a letter patch on the chest."
+  },
+  {
+    "name": "peacoat",
+    "category": "fashion",
+    "draw": "Short double breasted coat with a very wide collar and two rows of large buttons."
+  },
+  {
+    "name": "duffle-coat",
+    "category": "fashion",
+    "draw": "Hooded coat fastened by three horizontal toggle pegs with rope loops."
+  },
+  {
+    "name": "cape",
+    "category": "fashion",
+    "draw": "Short cloak hanging from the shoulders in a wide bell with a tied neck, no sleeves."
+  },
+  {
+    "name": "cloak",
+    "category": "fashion",
+    "draw": "Long hooded cloak falling to the ground in folds with a round clasp at the throat."
+  },
+  {
+    "name": "poncho",
+    "category": "fashion",
+    "draw": "Square poncho seen flat as a diamond with a neck opening in the middle and fringe along the edges."
+  },
+  {
+    "name": "tracksuit",
+    "category": "fashion",
+    "draw": "Zip track jacket and matching pants side by side with two stripes down each sleeve and leg."
+  },
+  {
+    "name": "scrubs",
+    "category": "fashion",
+    "draw": "Short sleeved V neck medical top with a chest pocket and a pen clipped in it."
+  },
+  {
+    "name": "high-visibility-vest",
+    "category": "fashion",
+    "draw": "Sleeveless safety vest with two horizontal reflective stripes and two vertical shoulder stripes."
+  },
+  {
+    "name": "hazmat-suit",
+    "category": "fashion",
+    "draw": "Full body protective suit with an attached hood, a large clear face visor and sealed gloves."
+  },
+  {
+    "name": "graduation-gown",
+    "category": "fashion",
+    "draw": "Academic gown with wide bell sleeves, a front opening and a hood falling over the back."
+  },
+  {
+    "name": "wetsuit",
+    "category": "fashion",
+    "draw": "Full body neoprene suit front view with long arms and legs and a zipper pull on the chest."
+  },
+  {
+    "name": "jumpsuit",
+    "category": "fashion",
+    "draw": "One piece garment with long sleeves and long legs, a collar and a belted waist."
+  },
+  {
+    "name": "romper",
+    "category": "fashion",
+    "draw": "One piece short sleeved top joined to short shorts, with a tie belt at the waist."
+  },
+  {
+    "name": "baby-onesie",
+    "category": "fashion",
+    "draw": "Tiny short sleeved bodysuit with an envelope neckline and three snap dots at the crotch."
+  },
+  {
+    "name": "nightgown",
+    "category": "fashion",
+    "draw": "Long loose sleeveless sleeping dress reaching the ankles with a gathered neckline."
+  },
+  {
+    "name": "long-johns",
+    "category": "fashion",
+    "draw": "One piece thermal underwear with long sleeves, long legs and a button placket down the chest."
+  },
+  {
+    "name": "waders",
+    "category": "fashion",
+    "draw": "Chest high waterproof pants with attached boots and adjustable shoulder straps."
+  },
+  {
+    "name": "cargo-pants",
+    "category": "fashion",
+    "draw": "Trousers with a large flap pocket on the side of each thigh."
+  },
+  {
+    "name": "sweatpants",
+    "category": "fashion",
+    "draw": "Loose trousers with a drawstring waistband and elastic cuffs gathered at the ankles."
+  },
+  {
+    "name": "bell-bottoms",
+    "category": "fashion",
+    "draw": "Trousers fitted at the thigh that flare out very wide from the knee to the hem."
+  },
+  {
+    "name": "ripped-jeans",
+    "category": "fashion",
+    "draw": "Jeans with jagged horizontal tears across both knees."
+  },
+  {
+    "name": "harem-pants",
+    "category": "fashion",
+    "draw": "Very baggy trousers with a low drop crotch and legs gathered tightly at the ankles."
+  },
+  {
+    "name": "jodhpurs",
+    "category": "fashion",
+    "draw": "Riding breeches that balloon out wide at the thighs and fit tight from the knee down."
+  },
+  {
+    "name": "lederhosen",
+    "category": "fashion",
+    "draw": "Leather shorts with an H shaped pair of suspenders joined by a chest strap."
+  },
+  {
+    "name": "kilt",
+    "category": "fashion",
+    "draw": "Knee length pleated skirt with a tartan grid, a side buckle strap and a sporran hanging in front."
+  },
+  {
+    "name": "chaps",
+    "category": "fashion",
+    "draw": "Pair of leather leg coverings with a belt at the top and fringed outer edges, open at the seat."
+  },
+  {
+    "name": "sarong",
+    "category": "fashion",
+    "draw": "Length of cloth wrapped around the hips and knotted at one side, falling to the ankle."
+  },
+  {
+    "name": "hakama",
+    "category": "fashion",
+    "draw": "Wide pleated trousers that look like a long skirt, with ties wrapped around the waist."
+  },
+  {
+    "name": "suspenders",
+    "category": "fashion",
+    "draw": "Two straps crossing in an X at the back and ending in metal clips at the bottom."
+  },
+  {
+    "name": "garter",
+    "category": "fashion",
+    "draw": "Lace elastic band with a ruffled edge and a small bow."
+  },
+  {
+    "name": "pencil-skirt",
+    "category": "fashion",
+    "draw": "Straight narrow skirt reaching the knee with a short back slit."
+  },
+  {
+    "name": "tutu",
+    "category": "fashion",
+    "draw": "Ballet skirt made of stiff layered tulle sticking straight out horizontally around a waistband."
+  },
+  {
+    "name": "hoop-skirt",
+    "category": "fashion",
+    "draw": "Bell shaped skirt with several horizontal hoop rings visible through it."
+  },
+  {
+    "name": "grass-skirt",
+    "category": "fashion",
+    "draw": "Waistband with many long vertical strands of grass hanging down."
+  },
+  {
+    "name": "ball-gown",
+    "category": "fashion",
+    "draw": "Gown with a fitted strapless bodice and a huge full skirt spreading to the floor."
+  },
+  {
+    "name": "evening-gown",
+    "category": "fashion",
+    "draw": "Slim floor length gown with thin straps and a high slit up one leg."
+  },
+  {
+    "name": "mermaid-gown",
+    "category": "fashion",
+    "draw": "Floor length gown fitted closely to the knee then flaring out wide like a fish tail."
+  },
+  {
+    "name": "wedding-gown",
+    "category": "fashion",
+    "draw": "Long white gown with a sweetheart bodice, a full skirt and a long train trailing behind."
+  },
+  {
+    "name": "wrap-dress",
+    "category": "fashion",
+    "draw": "Dress with a crossover V neckline and a tie bow at the side of the waist."
+  },
+  {
+    "name": "flapper-dress",
+    "category": "fashion",
+    "draw": "Straight drop waist sleeveless dress covered in rows of hanging fringe."
+  },
+  {
+    "name": "flamenco-dress",
+    "category": "fashion",
+    "draw": "Fitted dress that bursts into several tiers of ruffles from the knee down to the floor."
+  },
+  {
+    "name": "qipao",
+    "category": "fashion",
+    "draw": "Fitted dress with a mandarin stand collar, a diagonal closure across the chest with knot buttons and side slits."
+  },
+  {
+    "name": "ao-dai",
+    "category": "fashion",
+    "draw": "Long fitted tunic with a stand collar and side slits from the waist, worn over loose trousers."
+  },
+  {
+    "name": "hanbok",
+    "category": "fashion",
+    "draw": "Very short jacket tied with a long ribbon bow over a full high waisted bell skirt."
+  },
+  {
+    "name": "dirndl",
+    "category": "fashion",
+    "draw": "Laced bodice over a puff sleeved blouse, a full skirt and a front apron with a bow."
+  },
+  {
+    "name": "kaftan",
+    "category": "fashion",
+    "draw": "Long loose robe with very wide sleeves and an embroidered band around a V neckline."
+  },
+  {
+    "name": "abaya",
+    "category": "fashion",
+    "draw": "Long loose ankle length robe with long sleeves, open front and a plain collarless neck."
+  },
+  {
+    "name": "thobe",
+    "category": "fashion",
+    "draw": "Ankle length long sleeved robe with a small collar and a short button placket at the chest."
+  },
+  {
+    "name": "djellaba",
+    "category": "fashion",
+    "draw": "Long loose robe with long sleeves and a pointed hood hanging behind the head."
+  },
+  {
+    "name": "kurta",
+    "category": "fashion",
+    "draw": "Knee length long sleeved tunic with side slits and a button placket at the neck."
+  },
+  {
+    "name": "sherwani",
+    "category": "fashion",
+    "draw": "Long knee length coat with a stand collar and a single row of many buttons."
+  },
+  {
+    "name": "lehenga",
+    "category": "fashion",
+    "draw": "Long embroidered flared skirt paired with a short cropped blouse and a draped scarf."
+  },
+  {
+    "name": "salwar-kameez",
+    "category": "fashion",
+    "draw": "Long tunic over loose pleated trousers gathered at the ankles, with a scarf over the shoulders."
+  },
+  {
+    "name": "dashiki",
+    "category": "fashion",
+    "draw": "Loose tunic with short sleeves and a wide ornate V shaped embroidered panel around the neck."
+  },
+  {
+    "name": "huipil",
+    "category": "fashion",
+    "draw": "Square loose blouse with a round neck and bands of embroidered geometric motifs across the chest."
+  },
+  {
+    "name": "toga",
+    "category": "fashion",
+    "draw": "Figure silhouette wrapped in a long cloth draped diagonally over one shoulder with folds."
+  },
+  {
+    "name": "kente-cloth",
+    "category": "fashion",
+    "draw": "Rectangle of woven cloth made of strips with alternating blocks of zigzag and bar patterns."
+  },
+  {
+    "name": "ruff-collar",
+    "category": "fashion",
+    "draw": "Round pleated Elizabethan collar, a stiff wavy ring around the neck."
+  },
+  {
+    "name": "beaded-collar",
+    "category": "fashion",
+    "draw": "Wide flat disc necklace made of concentric rings of beads with an opening for the neck."
+  },
+  {
+    "name": "keffiyeh",
+    "category": "fashion",
+    "draw": "Folded square headscarf with a checked pattern draped over the head and held by a doubled black cord ring."
+  },
+  {
+    "name": "turban",
+    "category": "fashion",
+    "draw": "Head wrapped in cloth with layered diagonal folds rising to a peaked front."
+  },
+  {
+    "name": "fez",
+    "category": "fashion",
+    "draw": "Short flat topped cylinder hat tapering upward with a tassel hanging from the top."
+  },
+  {
+    "name": "kufi",
+    "category": "fashion",
+    "draw": "Short rounded brimless cap with a dotted embroidered pattern."
+  },
+  {
+    "name": "kippah",
+    "category": "fashion",
+    "draw": "Small round skullcap sitting on the crown of a head, seen as a shallow dome."
+  },
+  {
+    "name": "hijab",
+    "category": "fashion",
+    "draw": "Head and shoulders silhouette with a scarf covering the hair and wrapping under the chin."
+  },
+  {
+    "name": "tallit",
+    "category": "fashion",
+    "draw": "Prayer shawl rectangle with stripes near both ends and knotted fringes at the corners."
+  },
+  {
+    "name": "head-wrap",
+    "category": "fashion",
+    "draw": "Tall wrapped head scarf with fabric knotted in a large fan shaped fold on top."
+  },
+  {
+    "name": "durag",
+    "category": "fashion",
+    "draw": "Head covering tied at the back with long tails hanging down and a seam line across the top."
+  },
+  {
+    "name": "sombrero",
+    "category": "fashion",
+    "draw": "Wide brimmed hat with a tall pointed crown and a scalloped decorated edge on the brim."
+  },
+  {
+    "name": "conical-hat",
+    "category": "fashion",
+    "draw": "Wide shallow cone shaped straw hat with a chin strap, seen from the side."
+  },
+  {
+    "name": "chullo",
+    "category": "fashion",
+    "draw": "Knitted Andean hat with ear flaps ending in braided ties, patterned bands and a pompom on top."
+  },
+  {
+    "name": "tyrolean-hat",
+    "category": "fashion",
+    "draw": "Alpine felt hat with a narrow brim turned up at the back and a feather tucked into the band."
+  },
+  {
+    "name": "kokoshnik",
+    "category": "fashion",
+    "draw": "Tall crescent shaped ornate headdress with pearl dots and a veil at the back."
+  },
+  {
+    "name": "mitre",
+    "category": "fashion",
+    "draw": "Tall bishop's hat with two pointed peaks, a cross on the front and two ribbons hanging behind."
+  },
+  {
+    "name": "mantilla",
+    "category": "fashion",
+    "draw": "Lace veil draped over the head and shoulders held up by a tall comb."
+  },
+  {
+    "name": "geta",
+    "category": "fashion",
+    "draw": "Wooden sandal side view with a flat base on two tall wooden teeth and a thong strap."
+  },
+  {
+    "name": "tabi-socks",
+    "category": "fashion",
+    "draw": "Ankle sock with a split toe separating the big toe from the others."
+  },
+  {
+    "name": "curled-toe-slipper",
+    "category": "fashion",
+    "draw": "Embroidered flat slipper with a pointed toe that curls upward."
+  },
+  {
+    "name": "furoshiki",
+    "category": "fashion",
+    "draw": "Square cloth wrapped around a box and tied with a knot of two ears on top."
+  },
+  {
+    "name": "sporran",
+    "category": "fashion",
+    "draw": "Leather pouch with a flap and three tassels, hung from a chain."
+  },
+  {
+    "name": "bowler-hat",
+    "category": "fashion",
+    "draw": "Hard round dome crown with a short curled brim."
+  },
+  {
+    "name": "boater-hat",
+    "category": "fashion",
+    "draw": "Flat topped straw hat with straight sides, a striped ribbon band and a stiff flat brim."
+  },
+  {
+    "name": "flat-cap",
+    "category": "fashion",
+    "draw": "Rounded flat cap sloping forward into a short stiff brim, side view."
+  },
+  {
+    "name": "newsboy-cap",
+    "category": "fashion",
+    "draw": "Puffy eight panel cap with a button on top and a short brim."
+  },
+  {
+    "name": "bucket-hat",
+    "category": "fashion",
+    "draw": "Soft hat with a rounded crown and a downward sloping brim all around, stitched rings on the brim."
+  },
+  {
+    "name": "sun-hat",
+    "category": "fashion",
+    "draw": "Floppy extra wide brimmed hat with a ribbon band and a bow."
+  },
+  {
+    "name": "beret",
+    "category": "fashion",
+    "draw": "Soft flat round cap slanted to one side with a small stalk on top."
+  },
+  {
+    "name": "cloche-hat",
+    "category": "fashion",
+    "draw": "Bell shaped fitted hat pulled low with a small brim and a flower on the side."
+  },
+  {
+    "name": "fascinator",
+    "category": "fashion",
+    "draw": "Small decorative headpiece of a round disc with feathers and a short net veil on a headband."
+  },
+  {
+    "name": "sun-visor",
+    "category": "fashion",
+    "draw": "Headband with a large curved peak shading the eyes and no crown."
+  },
+  {
+    "name": "trapper-hat",
+    "category": "fashion",
+    "draw": "Fur hat with ear flaps hanging down on each side and a folded up front flap."
+  },
+  {
+    "name": "fur-hat",
+    "category": "fashion",
+    "draw": "Tall brimless cylindrical fur hat with a textured fluffy outline."
+  },
+  {
+    "name": "coonskin-cap",
+    "category": "fashion",
+    "draw": "Round fur cap with a striped animal tail hanging from the back."
+  },
+  {
+    "name": "balaclava",
+    "category": "fashion",
+    "draw": "Knitted head covering that shows only the eyes through an opening."
+  },
+  {
+    "name": "sailor-hat",
+    "category": "fashion",
+    "draw": "White round canvas hat with a turned up brim all around."
+  },
+  {
+    "name": "captain-hat",
+    "category": "fashion",
+    "draw": "Peaked cap with a flat top, a stiff visor, a cord across the front and an anchor badge."
+  },
+  {
+    "name": "deerstalker",
+    "category": "fashion",
+    "draw": "Cap with peaks in front and back, and ear flaps tied up on top."
+  },
+  {
+    "name": "pith-helmet",
+    "category": "fashion",
+    "draw": "Dome shaped explorer helmet with a sloped brim and a band around the base."
+  },
+  {
+    "name": "bearskin-hat",
+    "category": "fashion",
+    "draw": "Very tall furry cylindrical guards hat with a chin strap."
+  },
+  {
+    "name": "tricorn-hat",
+    "category": "fashion",
+    "draw": "Hat with the brim turned up on three sides to form a triangle."
+  },
+  {
+    "name": "bicorne-hat",
+    "category": "fashion",
+    "draw": "Wide crescent shaped hat with two points, worn sideways, with a round cockade."
+  },
+  {
+    "name": "plumed-hat",
+    "category": "fashion",
+    "draw": "Wide brimmed hat with the brim pinned up on one side and a large curling ostrich plume."
+  },
+  {
+    "name": "hennin",
+    "category": "fashion",
+    "draw": "Tall pointed cone hat with a long sheer veil flowing from the tip."
+  },
+  {
+    "name": "jester-hat",
+    "category": "fashion",
+    "draw": "Soft cap with three floppy points each ending in a small bell."
+  },
+  {
+    "name": "pillbox-hat",
+    "category": "fashion",
+    "draw": "Small round flat topped hat with straight sides and no brim, sitting on top of the head."
+  },
+  {
+    "name": "aviator-cap",
+    "category": "fashion",
+    "draw": "Leather flying helmet with ear flaps, a chin strap and goggles pushed up on the forehead."
+  },
+  {
+    "name": "rain-hat",
+    "category": "fashion",
+    "draw": "Waterproof hat with a sloping brim much longer at the back than the front and a chin strap."
+  },
+  {
+    "name": "bonnet",
+    "category": "fashion",
+    "draw": "Soft rounded hat framing the face with a ruffled edge and ribbons tied in a bow under the chin."
+  },
+  {
+    "name": "nightcap",
+    "category": "fashion",
+    "draw": "Long floppy cone shaped sleeping cap drooping to one side with a pompom at the tip."
+  },
+  {
+    "name": "propeller-beanie",
+    "category": "fashion",
+    "draw": "Striped round beanie cap with a small two bladed propeller on top."
+  },
+  {
+    "name": "swim-cap",
+    "category": "fashion",
+    "draw": "Smooth rounded rubber cap shaped like a dome, with a small ridge line at the ear."
+  },
+  {
+    "name": "bridal-veil",
+    "category": "fashion",
+    "draw": "Sheer veil falling from a small comb at the top of the head into a long flowing drape."
+  },
+  {
+    "name": "cat-ear-headband",
+    "category": "fashion",
+    "draw": "Headband with two pointed triangular cat ears on top."
+  },
+  {
+    "name": "bandana",
+    "category": "fashion",
+    "draw": "Square scarf folded into a triangle with a paisley motif and a knot at the corner."
+  },
+  {
+    "name": "earmuffs",
+    "category": "fashion",
+    "draw": "Two round fluffy ear pads joined by a curved headband."
+  },
+  {
+    "name": "hatbox",
+    "category": "fashion",
+    "draw": "Round cylindrical box with a lid and a cord handle on top."
+  },
+  {
+    "name": "cowboy-boot",
+    "category": "fashion",
+    "draw": "Tall boot with a pointed toe, an angled heel and decorative stitching curves on the shaft."
+  },
+  {
+    "name": "combat-boot",
+    "category": "fashion",
+    "draw": "High lace up boot with many eyelets, a thick lugged sole and a padded collar."
+  },
+  {
+    "name": "rain-boot",
+    "category": "fashion",
+    "draw": "Tall smooth rubber boot with a flat thick sole and a small top band."
+  },
+  {
+    "name": "snow-boot",
+    "category": "fashion",
+    "draw": "Chunky insulated boot with a fur trimmed cuff at the top and a thick treaded sole."
+  },
+  {
+    "name": "knee-high-boot",
+    "category": "fashion",
+    "draw": "Slim boot rising all the way to the knee with a medium heel and a side zip."
+  },
+  {
+    "name": "moccasin",
+    "category": "fashion",
+    "draw": "Soft leather shoe with a U shaped stitched seam over the toe and a tie at the side."
+  },
+  {
+    "name": "espadrille",
+    "category": "fashion",
+    "draw": "Canvas slip on shoe on a thick braided rope sole shown with rope lines."
+  },
+  {
+    "name": "clog",
+    "category": "fashion",
+    "draw": "Wooden shoe with a rounded bulbous toe and a thick one piece body, side view."
+  },
+  {
+    "name": "mule-shoe",
+    "category": "fashion",
+    "draw": "Backless closed toe slip on shoe with a low heel, side view."
+  },
+  {
+    "name": "ballet-flat",
+    "category": "fashion",
+    "draw": "Low cut flat shoe with a rounded toe and a small bow at the front."
+  },
+  {
+    "name": "mary-jane-shoe",
+    "category": "fashion",
+    "draw": "Flat round toe shoe with a single strap across the instep fastened by a button."
+  },
+  {
+    "name": "buckle-shoe",
+    "category": "fashion",
+    "draw": "Low heeled shoe with a large square metal buckle on the front of the tongue."
+  },
+  {
+    "name": "saddle-shoe",
+    "category": "fashion",
+    "draw": "Lace up low shoe with a contrasting shaded saddle panel across the middle."
+  },
+  {
+    "name": "pointe-shoe",
+    "category": "fashion",
+    "draw": "Satin ballet shoe standing on its squared toe with ribbons wrapping up the ankle."
+  },
+  {
+    "name": "platform-shoe",
+    "category": "fashion",
+    "draw": "Shoe on a very thick sole under both the toe and the high heel."
+  },
+  {
+    "name": "wedge-heel",
+    "category": "fashion",
+    "draw": "Shoe with a solid triangular wedge sole rising from the toe to the heel."
+  },
+  {
+    "name": "gladiator-sandal",
+    "category": "fashion",
+    "draw": "Flat sandal with many horizontal straps climbing up the ankle and shin."
+  },
+  {
+    "name": "slide-sandal",
+    "category": "fashion",
+    "draw": "Open back sandal with a single wide band across the top of the foot, three quarter view."
+  },
+  {
+    "name": "high-top-sneaker",
+    "category": "fashion",
+    "draw": "Sneaker whose collar rises above the ankle with long laces and a round ankle patch."
+  },
+  {
+    "name": "bunny-slipper",
+    "category": "fashion",
+    "draw": "Fluffy slipper with two long rabbit ears and eyes on the toe."
+  },
+  {
+    "name": "baby-bootie",
+    "category": "fashion",
+    "draw": "Small soft knitted baby shoe with a ribbed cuff and a bow."
+  },
+  {
+    "name": "tap-shoe",
+    "category": "fashion",
+    "draw": "Low heeled lace up shoe with a small metal plate on the toe and the heel."
+  },
+  {
+    "name": "boot-spur",
+    "category": "fashion",
+    "draw": "Heel spur with a U shaped band and a spiked rotating star wheel at the back."
+  },
+  {
+    "name": "shoelace",
+    "category": "fashion",
+    "draw": "Single lace tied in a bow with two loops and two aglet tipped ends."
+  },
+  {
+    "name": "shoebox",
+    "category": "fashion",
+    "draw": "Rectangular box with a lifted lid and a shoe peeking out."
+  },
+  {
+    "name": "insole",
+    "category": "fashion",
+    "draw": "Foot shaped shoe insert seen from above with a raised arch area and a heel cup."
+  },
+  {
+    "name": "shoe-last",
+    "category": "fashion",
+    "draw": "Wooden foot form used by cobblers, side view, with a hole on top."
+  },
+  {
+    "name": "shoe-rack",
+    "category": "fashion",
+    "draw": "Two tier rack holding a pair of shoes on each shelf."
+  },
+  {
+    "name": "boot-jack",
+    "category": "fashion",
+    "draw": "Flat wooden board with a U shaped notch at one end, raised on a block."
+  },
+  {
+    "name": "shoe-size-gauge",
+    "category": "fashion",
+    "draw": "Flat foot measuring plate with a heel cup, size scale lines and a sliding bar."
+  },
+  {
+    "name": "stockings",
+    "category": "fashion",
+    "draw": "Pair of sheer thigh high stockings with a lace band at the top and a seam line down the back."
+  },
+  {
+    "name": "knee-high-socks",
+    "category": "fashion",
+    "draw": "Tall sock reaching the knee with two stripes around the ribbed top."
+  },
+  {
+    "name": "leg-warmers",
+    "category": "fashion",
+    "draw": "Scrunched ribbed knit tube bunched around the lower leg and ankle."
+  },
+  {
+    "name": "crossbody-bag",
+    "category": "fashion",
+    "draw": "Small rectangular bag with a flap and a long diagonal strap crossing a torso outline."
+  },
+  {
+    "name": "messenger-bag",
+    "category": "fashion",
+    "draw": "Wide bag with a large front flap, two buckles and a long shoulder strap."
+  },
+  {
+    "name": "duffel-bag",
+    "category": "fashion",
+    "draw": "Cylinder shaped sports bag with a long zipper along the top and two handles."
+  },
+  {
+    "name": "fanny-pack",
+    "category": "fashion",
+    "draw": "Small curved zip pouch on a belt strap with a buckle."
+  },
+  {
+    "name": "drawstring-bag",
+    "category": "fashion",
+    "draw": "Soft pouch gathered at the top by a cord with two tassel ends."
+  },
+  {
+    "name": "bucket-bag",
+    "category": "fashion",
+    "draw": "Tall round bag with a drawstring cinched top and a single shoulder strap."
+  },
+  {
+    "name": "doctor-bag",
+    "category": "fashion",
+    "draw": "Wide leather bag with a hinged metal frame opening and a single handle on top."
+  },
+  {
+    "name": "money-clip",
+    "category": "fashion",
+    "draw": "Metal clip folded around a stack of folded banknotes."
+  },
+  {
+    "name": "steamer-trunk",
+    "category": "fashion",
+    "draw": "Large travel trunk with a domed lid, wooden slats, corner guards and a latch."
+  },
+  {
+    "name": "saddle-bag",
+    "category": "fashion",
+    "draw": "Rounded half moon bag with a flap and a buckle, hanging from a strap."
+  },
+  {
+    "name": "straw-bag",
+    "category": "fashion",
+    "draw": "Woven basket bag with a criss cross weave and two short handles."
+  },
+  {
+    "name": "net-bag",
+    "category": "fashion",
+    "draw": "Mesh string shopping bag with a diamond net pattern and two loop handles."
+  },
+  {
+    "name": "hoop-earring",
+    "category": "fashion",
+    "draw": "Large circular hoop earring hanging from an ear stud."
+  },
+  {
+    "name": "stud-earring",
+    "category": "fashion",
+    "draw": "Small round gem stud with a straight post and a butterfly back."
+  },
+  {
+    "name": "chandelier-earring",
+    "category": "fashion",
+    "draw": "Dangling earring with tiers of drops spreading wider toward the bottom like a chandelier."
+  },
+  {
+    "name": "ear-cuff",
+    "category": "fashion",
+    "draw": "Curved band hugging the outer rim of an ear outline with small dots."
+  },
+  {
+    "name": "nose-ring",
+    "category": "fashion",
+    "draw": "Nose side view with a small ring through the nostril."
+  },
+  {
+    "name": "brooch",
+    "category": "fashion",
+    "draw": "Oval ornamental pin with a centre stone surrounded by small dots and a pin behind."
+  },
+  {
+    "name": "cameo-brooch",
+    "category": "fashion",
+    "draw": "Oval brooch with a raised profile silhouette of a head inside a beaded frame."
+  },
+  {
+    "name": "pearl-necklace",
+    "category": "fashion",
+    "draw": "Loop of round pearls of equal size strung together with a clasp."
+  },
+  {
+    "name": "torc",
+    "category": "fashion",
+    "draw": "Rigid open ended neck ring made of twisted metal with a round knob at each end."
+  },
+  {
+    "name": "beaded-bracelet",
+    "category": "fashion",
+    "draw": "Circle of round beads threaded on an elastic band."
+  },
+  {
+    "name": "friendship-bracelet",
+    "category": "fashion",
+    "draw": "Braided thread bracelet with a chevron pattern and knotted tied ends."
+  },
+  {
+    "name": "hand-chain",
+    "category": "fashion",
+    "draw": "Bracelet linked by a chain across the back of the hand to a ring on the middle finger."
+  },
+  {
+    "name": "anklet",
+    "category": "fashion",
+    "draw": "Thin chain around an ankle with a single dangling charm."
+  },
+  {
+    "name": "cufflinks",
+    "category": "fashion",
+    "draw": "Pair of square cufflinks with a bar back, shown at an angle."
+  },
+  {
+    "name": "tie-clip",
+    "category": "fashion",
+    "draw": "Horizontal bar clip holding a necktie flat against a shirt."
+  },
+  {
+    "name": "lapel-pin",
+    "category": "fashion",
+    "draw": "Small round enamel pin with a butterfly clutch back."
+  },
+  {
+    "name": "button-badge",
+    "category": "fashion",
+    "draw": "Round flat pin back badge with a shine highlight and a curled pin visible behind the edge."
+  },
+  {
+    "name": "signet-ring",
+    "category": "fashion",
+    "draw": "Ring with a flat oval face engraved with a single letter."
+  },
+  {
+    "name": "claddagh-ring",
+    "category": "fashion",
+    "draw": "Ring with two hands holding a heart topped by a small crown."
+  },
+  {
+    "name": "dog-tags",
+    "category": "fashion",
+    "draw": "Two rounded rectangle tags with punched text lines hanging on a bead chain."
+  },
+  {
+    "name": "jewelry-box",
+    "category": "fashion",
+    "draw": "Open box with a raised lid mirror and tiered compartments with rings and a necklace."
+  },
+  {
+    "name": "ring-box",
+    "category": "fashion",
+    "draw": "Small velvet box opened with a ring standing in the slot."
+  },
+  {
+    "name": "jewelers-loupe",
+    "category": "fashion",
+    "draw": "Small folding magnifier lens in a round metal housing."
+  },
+  {
+    "name": "emerald-cut-gem",
+    "category": "fashion",
+    "draw": "Rectangular gemstone with cut corners and stepped concentric facets."
+  },
+  {
+    "name": "pear-cut-gem",
+    "category": "fashion",
+    "draw": "Teardrop shaped gemstone with facet lines from the point to the rounded end."
+  },
+  {
+    "name": "marquise-cut-gem",
+    "category": "fashion",
+    "draw": "Elongated boat shaped gemstone pointed at both ends with facet lines."
+  },
+  {
+    "name": "princess-cut-gem",
+    "category": "fashion",
+    "draw": "Square gemstone seen from above with an X of facet lines from corner to corner."
+  },
+  {
+    "name": "trillion-cut-gem",
+    "category": "fashion",
+    "draw": "Triangular gemstone with slightly curved sides and inner facet lines."
+  },
+  {
+    "name": "oval-cut-gem",
+    "category": "fashion",
+    "draw": "Oval gemstone seen from above with a ring of facet lines around a central table."
+  },
+  {
+    "name": "pocket-watch",
+    "category": "fashion",
+    "draw": "Round watch with a crown at the top and a curving chain attached."
+  },
+  {
+    "name": "chronograph-watch",
+    "category": "fashion",
+    "draw": "Round wristwatch with three small subdials on the face and two pushers beside the crown."
+  },
+  {
+    "name": "watch-strap",
+    "category": "fashion",
+    "draw": "Single watch strap with a buckle and a row of holes, curled into an arc."
+  },
+  {
+    "name": "aviator-sunglasses",
+    "category": "fashion",
+    "draw": "Sunglasses with large teardrop shaped lenses and a double bridge bar."
+  },
+  {
+    "name": "cat-eye-glasses",
+    "category": "fashion",
+    "draw": "Glasses with frames that sweep up into points at the outer top corners."
+  },
+  {
+    "name": "browline-glasses",
+    "category": "fashion",
+    "draw": "Glasses with a thick heavy top rim and thin wire lower rims."
+  },
+  {
+    "name": "wraparound-sunglasses",
+    "category": "fashion",
+    "draw": "Sporty sunglasses with a single curved shield lens wrapping around the face."
+  },
+  {
+    "name": "heart-sunglasses",
+    "category": "fashion",
+    "draw": "Novelty sunglasses with heart shaped lenses."
+  },
+  {
+    "name": "3d-glasses",
+    "category": "fashion",
+    "draw": "Cardboard glasses with two lenses, one shaded and one clear."
+  },
+  {
+    "name": "monocle",
+    "category": "fashion",
+    "draw": "Single round lens with a thin cord hanging from its rim."
+  },
+  {
+    "name": "lorgnette",
+    "category": "fashion",
+    "draw": "Pair of spectacle lenses held up by a long side handle."
+  },
+  {
+    "name": "glasses-chain",
+    "category": "fashion",
+    "draw": "Pair of glasses with a beaded chain hanging in a loop from both temple arms."
+  },
+  {
+    "name": "ski-goggles",
+    "category": "fashion",
+    "draw": "Wide goggles with a single large curved lens and a thick elastic strap."
+  },
+  {
+    "name": "swim-goggles",
+    "category": "fashion",
+    "draw": "Two small oval goggle cups joined by a nose bridge with a thin strap."
+  },
+  {
+    "name": "eye-patch",
+    "category": "fashion",
+    "draw": "Oval patch covering one eye with a strap running diagonally across the head."
+  },
+  {
+    "name": "glasses-case",
+    "category": "fashion",
+    "draw": "Hard clamshell case slightly open with a pair of glasses inside."
+  },
+  {
+    "name": "masquerade-mask",
+    "category": "fashion",
+    "draw": "Ornate eye mask with pointed corners and a stick handle on one side."
+  },
+  {
+    "name": "belt-buckle",
+    "category": "fashion",
+    "draw": "Large oval western belt buckle with an engraved star."
+  },
+  {
+    "name": "side-release-buckle",
+    "category": "fashion",
+    "draw": "Plastic strap buckle with a two pronged male clip sliding into a female socket."
+  },
+  {
+    "name": "cummerbund",
+    "category": "fashion",
+    "draw": "Wide pleated waist sash with horizontal pleats."
+  },
+  {
+    "name": "pageant-sash",
+    "category": "fashion",
+    "draw": "Wide ribbon worn diagonally across the body from one shoulder to the opposite hip."
+  },
+  {
+    "name": "bolo-tie",
+    "category": "fashion",
+    "draw": "Braided cord necktie with a round decorative slide clasp and metal tips."
+  },
+  {
+    "name": "ascot-tie",
+    "category": "fashion",
+    "draw": "Wide folded neck scarf tucked into an open shirt collar with a pin."
+  },
+  {
+    "name": "neckerchief",
+    "category": "fashion",
+    "draw": "Triangle scarf rolled and tied around the neck, ends held in a woggle ring."
+  },
+  {
+    "name": "pocket-square",
+    "category": "fashion",
+    "draw": "Suit breast pocket with a folded square of fabric peaking out in three points."
+  },
+  {
+    "name": "feather-boa",
+    "category": "fashion",
+    "draw": "Long fluffy wavy strand of feathers draped in an S curve."
+  },
+  {
+    "name": "epaulette",
+    "category": "fashion",
+    "draw": "Shoulder board with a round top and a row of hanging fringe."
+  },
+  {
+    "name": "wrist-corsage",
+    "category": "fashion",
+    "draw": "Small cluster of flowers with leaves on an elastic wrist band."
+  },
+  {
+    "name": "tie-rack",
+    "category": "fashion",
+    "draw": "Hanger bar with three neckties draped over it."
+  },
+  {
+    "name": "fingerless-gloves",
+    "category": "fashion",
+    "draw": "Knitted glove with cut off finger tubes showing the fingertips."
+  },
+  {
+    "name": "opera-gloves",
+    "category": "fashion",
+    "draw": "Long elegant glove reaching up past the elbow."
+  },
+  {
+    "name": "hand-muff",
+    "category": "fashion",
+    "draw": "Fluffy fur tube with a hand entering from each side."
+  },
+  {
+    "name": "folding-fan",
+    "category": "fashion",
+    "draw": "Hand fan opened into a half circle with radiating ribs and a pivot at the bottom."
+  },
+  {
+    "name": "handkerchief",
+    "category": "fashion",
+    "draw": "Folded square cloth with a decorative border and an embroidered corner."
+  },
+  {
+    "name": "walking-cane",
+    "category": "fashion",
+    "draw": "Straight cane with a curved crook handle and a rubber tip."
+  },
+  {
+    "name": "hair-clip",
+    "category": "fashion",
+    "draw": "Long barrette hair clip with a hinge at one end, side view."
+  },
+  {
+    "name": "hair-bow",
+    "category": "fashion",
+    "draw": "Large ribbon bow with two loops and two tails on a clip."
+  },
+  {
+    "name": "hair-stick",
+    "category": "fashion",
+    "draw": "Ornamental hair stick with a dangling charm at the top, pushed through a bun."
+  },
+  {
+    "name": "shirt-collar",
+    "category": "fashion",
+    "draw": "Close view of a pointed shirt collar with the top button and a placket."
+  },
+  {
+    "name": "jeans-pocket",
+    "category": "fashion",
+    "draw": "Pentagon shaped back jeans pocket with double stitching and a curved decorative stitch."
+  },
+  {
+    "name": "pin-cushion",
+    "category": "fashion",
+    "draw": "Tomato shaped cushion with segment lines and pins sticking out of the top."
+  },
+  {
+    "name": "thread-spool",
+    "category": "fashion",
+    "draw": "Wooden spool wound with thread and a loose strand trailing off."
+  },
+  {
+    "name": "bobbin",
+    "category": "fashion",
+    "draw": "Small round sewing machine bobbin with thread wound around the centre."
+  },
+  {
+    "name": "seam-ripper",
+    "category": "fashion",
+    "draw": "Small pen like tool with a forked hook tip, one prong with a ball end."
+  },
+  {
+    "name": "pinking-shears",
+    "category": "fashion",
+    "draw": "Scissors with zigzag toothed blades."
+  },
+  {
+    "name": "thread-snips",
+    "category": "fashion",
+    "draw": "Small spring loaded U shaped scissors with short pointed blades."
+  },
+  {
+    "name": "tailors-chalk",
+    "category": "fashion",
+    "draw": "Flat triangular chalk piece with a small chalk line drawn beside it."
+  },
+  {
+    "name": "needle-threader",
+    "category": "fashion",
+    "draw": "Small flat coin handle with a thin wire diamond loop sticking out."
+  },
+  {
+    "name": "dress-form",
+    "category": "fashion",
+    "draw": "Headless torso mannequin on a tall stand with a tripod base."
+  },
+  {
+    "name": "mannequin",
+    "category": "fashion",
+    "draw": "Full body shop display figure with a smooth featureless head standing on a round base."
+  },
+  {
+    "name": "sewing-pattern",
+    "category": "fashion",
+    "draw": "Paper pattern piece with a dashed cutting line, a notch and a grain arrow."
+  },
+  {
+    "name": "knitting-needles",
+    "category": "fashion",
+    "draw": "Two crossed knitting needles holding a few rows of knit stitches."
+  },
+  {
+    "name": "yarn-ball",
+    "category": "fashion",
+    "draw": "Round ball of yarn with wrap lines and a loose tail."
+  },
+  {
+    "name": "yarn-skein",
+    "category": "fashion",
+    "draw": "Twisted hank of yarn with a paper band around the middle."
+  },
+  {
+    "name": "crochet-hook",
+    "category": "fashion",
+    "draw": "Straight hook tool with a thumb rest and a small hooked tip, a loop of yarn on it."
+  },
+  {
+    "name": "granny-square",
+    "category": "fashion",
+    "draw": "Crochet square with concentric rings of clustered stitches and a small centre gap."
+  },
+  {
+    "name": "embroidery-hoop",
+    "category": "fashion",
+    "draw": "Round wooden hoop with a screw tab holding fabric stitched with a small flower."
+  },
+  {
+    "name": "weaving-loom",
+    "category": "fashion",
+    "draw": "Frame loom with vertical warp threads and a shuttle passing through horizontal weft."
+  },
+  {
+    "name": "weaving-shuttle",
+    "category": "fashion",
+    "draw": "Boat shaped wooden shuttle with pointed ends and a bobbin of yarn inside the slot."
+  },
+  {
+    "name": "spinning-wheel",
+    "category": "fashion",
+    "draw": "Large spoked wheel on a slanted wooden stand with a treadle and spindle."
+  },
+  {
+    "name": "drop-spindle",
+    "category": "fashion",
+    "draw": "Vertical shaft with a round whorl disc near the bottom and yarn wound on it."
+  },
+  {
+    "name": "sewn-patch",
+    "category": "fashion",
+    "draw": "Embroidered badge patch with a stitched border edge around a star."
+  },
+  {
+    "name": "sewing-pin",
+    "category": "fashion",
+    "draw": "Straight pin with a round ball head."
+  },
+  {
+    "name": "hook-and-eye",
+    "category": "fashion",
+    "draw": "Small metal hook fastener next to a matching loop eye."
+  },
+  {
+    "name": "snap-fastener",
+    "category": "fashion",
+    "draw": "Two part press stud, one with a round knob and one with a socket."
+  },
+  {
+    "name": "hook-and-loop-fastener",
+    "category": "fashion",
+    "draw": "Two strips pulled apart, one with tiny hooks and one with fuzzy loops."
+  },
+  {
+    "name": "toggle-fastener",
+    "category": "fashion",
+    "draw": "Wooden toggle peg passing through a rope loop."
+  },
+  {
+    "name": "eyelet",
+    "category": "fashion",
+    "draw": "Round metal grommet ring set into fabric with a lace passing through."
+  },
+  {
+    "name": "ribbon-spool",
+    "category": "fashion",
+    "draw": "Wide flat ribbon wound on a spool with the loose end curling away."
+  },
+  {
+    "name": "sequins",
+    "category": "fashion",
+    "draw": "Cluster of small round shiny discs each with a centre hole, overlapping."
+  },
+  {
+    "name": "lace-trim",
+    "category": "fashion",
+    "draw": "Strip of lace with a scalloped edge and small holes."
+  },
+  {
+    "name": "tassel",
+    "category": "fashion",
+    "draw": "Bundle of hanging threads gathered by a band under a loop."
+  },
+  {
+    "name": "pompom",
+    "category": "fashion",
+    "draw": "Round fluffy ball of yarn with short strands radiating out."
+  },
+  {
+    "name": "clothing-label",
+    "category": "fashion",
+    "draw": "Sewn in garment label with laundry care symbols and folded ends."
+  },
+  {
+    "name": "clothing-size",
+    "category": "fashion",
+    "draw": "Swing tag with a string loop and a large letter M."
+  },
+  {
+    "name": "clothing-security-tag",
+    "category": "fashion",
+    "draw": "Round plastic anti theft tag with a pin passing through a garment edge."
+  },
+  {
+    "name": "tracing-wheel",
+    "category": "fashion",
+    "draw": "Handle with a small spiked wheel at the end rolling a dotted line."
+  },
+  {
+    "name": "rotary-cutter",
+    "category": "fashion",
+    "draw": "Round blade on a handle with a safety guard, like a pizza cutter."
+  },
+  {
+    "name": "fabric-swatch",
+    "category": "fashion",
+    "draw": "Fan of small fabric samples with zigzag pinked edges joined at one corner."
+  },
+  {
+    "name": "leather-hide",
+    "category": "fashion",
+    "draw": "Flat stretched animal hide outline with four leg points and a stitched border."
+  },
+  {
+    "name": "knit-fabric",
+    "category": "fashion",
+    "draw": "Swatch of knitted fabric showing rows of stacked V stitches."
+  },
+  {
+    "name": "plaid-fabric",
+    "category": "fashion",
+    "draw": "Square swatch with crossing horizontal and vertical bands of different widths."
+  },
+  {
+    "name": "polka-dot-fabric",
+    "category": "fashion",
+    "draw": "Square swatch covered in evenly spaced round dots."
+  },
+  {
+    "name": "pinstripe-fabric",
+    "category": "fashion",
+    "draw": "Square swatch with thin evenly spaced vertical lines."
+  },
+  {
+    "name": "gingham-fabric",
+    "category": "fashion",
+    "draw": "Square swatch with an even checkerboard of shaded and blank squares."
+  },
+  {
+    "name": "herringbone-fabric",
+    "category": "fashion",
+    "draw": "Square swatch with columns of short slanted lines forming a zigzag."
+  },
+  {
+    "name": "argyle-fabric",
+    "category": "fashion",
+    "draw": "Square swatch with a lattice of diamonds and thin crossing diagonal lines."
+  },
+  {
+    "name": "paisley-fabric",
+    "category": "fashion",
+    "draw": "Square swatch with curved teardrop paisley motifs with swirling tips."
+  },
+  {
+    "name": "chevron-fabric",
+    "category": "fashion",
+    "draw": "Square swatch with stacked zigzag stripes."
+  },
+  {
+    "name": "camouflage-fabric",
+    "category": "fashion",
+    "draw": "Swatch covered in irregular interlocking blob shapes of two tones."
+  },
+  {
+    "name": "leopard-print",
+    "category": "fashion",
+    "draw": "Swatch covered in irregular rosette spots with open centres."
+  },
+  {
+    "name": "zebra-print",
+    "category": "fashion",
+    "draw": "Swatch covered in bold wavy tapering stripes."
+  },
+  {
+    "name": "fitting-room",
+    "category": "fashion",
+    "draw": "Booth with a half drawn curtain on a rail and a hanger symbol above."
+  },
+  {
+    "name": "clothes-rack",
+    "category": "fashion",
+    "draw": "Rolling garment rail on wheels with several hanging shirts."
+  },
+  {
+    "name": "outfit",
+    "category": "fashion",
+    "draw": "Flat lay of a shirt above a pair of trousers with a pair of shoes at the bottom."
+  },
+  {
+    "name": "catwalk",
+    "category": "fashion",
+    "draw": "Long runway platform in perspective with a model figure and spotlights."
+  },
+  {
+    "name": "tuxedo",
+    "category": "fashion",
+    "draw": "Dinner jacket with filled satin shawl lapels, a white shirt front and a bow tie at the collar."
+  },
+  {
+    "name": "sports-bra",
+    "category": "fashion",
+    "draw": "Racerback bra top with wide straps meeting in a Y at the back and a thick elastic band under the chest."
+  },
+  {
+    "name": "locket",
+    "category": "fashion",
+    "draw": "Heart shaped locket hinged open into two halves, hanging on a fine chain."
+  },
+  {
+    "name": "snowsuit",
+    "category": "fashion",
+    "draw": "Child's one piece puffy snowsuit with a hood, quilted baffle lines and elastic cuffs."
+  },
+  {
+    "name": "capri-pants",
+    "category": "fashion",
+    "draw": "Slim cropped trousers ending at mid calf with a small slit at each hem."
+  },
+  {
+    "name": "bolero-jacket",
+    "category": "fashion",
+    "draw": "Tiny cropped open front jacket with short sleeves ending well above the waist."
+  },
+  {
+    "name": "peep-toe-heel",
+    "category": "fashion",
+    "draw": "High heeled pump with a small round opening at the toe."
+  },
+  {
+    "name": "pince-nez",
+    "category": "fashion",
+    "draw": "Pair of round lenses joined by a spring bridge that clips on the nose, no arms, with a cord hanging from one lens."
+  },
+  {
+    "name": "maang-tikka",
+    "category": "fashion",
+    "draw": "Head outline with a chain running along the hair parting ending in a round pendant on the forehead."
+  },
+  {
+    "name": "armlet",
+    "category": "fashion",
+    "draw": "Upper arm outline wrapped by a band with a central ornamental medallion."
+  },
+  {
+    "name": "dive-watch",
+    "category": "fashion",
+    "draw": "Round wristwatch with a thick toothed rotating bezel marked with minute ticks and a triangle at twelve."
+  },
+  {
+    "name": "fob-watch",
+    "category": "fashion",
+    "draw": "Small upside down watch face hanging from a short strap attached to a clip pin."
+  },
+  {
+    "name": "trucker-cap",
+    "category": "fashion",
+    "draw": "Baseball cap with a solid front panel and a mesh grid back panel."
+  },
+  {
+    "name": "wristlet",
+    "category": "fashion",
+    "draw": "Small zip pouch with a short loop strap for the wrist."
+  },
+  {
+    "name": "necklace-display",
+    "category": "fashion",
+    "draw": "Velvet neck bust display stand with a necklace draped around it."
+  },
+  {
+    "name": "knitting-loom",
+    "category": "fashion",
+    "draw": "Round ring loom with pegs along the top edge and yarn wrapped around the pegs."
+  },
+  {
+    "name": "yarn-bowl",
+    "category": "fashion",
+    "draw": "Bowl with a curly J shaped slot in the side and a yarn strand feeding out of it from the ball inside."
+  },
+  {
+    "name": "fashion-sketch",
+    "category": "fashion",
+    "draw": "Paper sheet with a slender figure sketch wearing a dress and a pencil beside it."
+  },
+  {
+    "name": "jabot",
+    "category": "fashion",
+    "draw": "Lace frill cascading down from a collar in layered ruffles."
+  }
+]

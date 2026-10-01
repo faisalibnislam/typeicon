@@ -1,0 +1,482 @@
+[
+ {
+  "name": "zeta",
+  "category": "notation",
+  "draw": "Lowercase Greek zeta: a small top bar flowing into a steep diagonal and a curled tail under the baseline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "eta-letter",
+  "category": "notation",
+  "draw": "Lowercase Greek eta: an n shape whose right stem drops well below the baseline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "xi",
+  "category": "notation",
+  "draw": "Lowercase Greek xi: stacked wavy strokes like a squiggly 3 with a hooked tail below the baseline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "rho",
+  "category": "notation",
+  "draw": "Lowercase Greek rho: a round bowl with a straight stem descending from its left side below the baseline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tau",
+  "category": "notation",
+  "draw": "Lowercase Greek tau: a short horizontal top bar with a single stem curving right at the foot.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "chi",
+  "category": "notation",
+  "draw": "Lowercase Greek chi: a tall X whose one stroke is a gentle S curve and descends below the baseline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "psi",
+  "category": "notation",
+  "draw": "Greek psi: a trident shape, a U cup with a straight stem through the middle that extends below it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "kappa-letter",
+  "category": "notation",
+  "draw": "Lowercase Greek kappa: a short upright stem with two diagonal arms like a compact k.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "aleph",
+  "category": "notation",
+  "draw": "Hebrew aleph used for infinite cardinals: a slanted diagonal stroke with an upper right arm and a lower left leg.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "h-bar",
+  "category": "notation",
+  "draw": "Reduced Planck constant: an italic h with a short diagonal bar crossing its ascender.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "partial-derivative",
+  "category": "notation",
+  "draw": "Partial derivative sign: a backward 6 shape, a round bowl with a stroke curling up and over to the left.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "double-integral",
+  "category": "notation",
+  "draw": "Two tall integral signs side by side, each a long S shaped stroke with hooked ends.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "triple-integral",
+  "category": "notation",
+  "draw": "Three tall slender integral signs side by side, tightly spaced.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "contour-integral",
+  "category": "notation",
+  "draw": "A tall integral sign with a small circle threaded through the middle of its stroke.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "absolute-value",
+  "category": "notation",
+  "draw": "An x between two tall vertical bars, one on each side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "floor-function",
+  "category": "notation",
+  "draw": "An x enclosed by two brackets that have only bottom feet, like two L shapes facing inward.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "proportional-to",
+  "category": "notation",
+  "draw": "Proportionality sign: a sideways open loop like an alpha missing its right tail, open to the right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "congruent",
+  "category": "notation",
+  "draw": "Congruence sign: a tilde wave sitting above two parallel horizontal bars.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "similar-to",
+  "category": "notation",
+  "draw": "Similarity sign: two small triangles side by side with a tilde between them.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "perpendicular",
+  "category": "notation",
+  "draw": "Up tack perpendicular sign: a vertical line standing on a horizontal base line with a small right angle square in the corner.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "parallel-lines-symbol",
+  "category": "notation",
+  "draw": "Parallel sign: two slanted parallel strokes side by side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "measured-angle",
+  "category": "notation",
+  "draw": "Measured angle sign: an angle made of two rays from a vertex with a small arc drawn across the opening.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "arc-notation",
+  "category": "notation",
+  "draw": "Arc notation: two letters A and B with a smooth arc drawn over them.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "line-segment-notation",
+  "category": "notation",
+  "draw": "Line segment notation: two letters A and B with a straight bar over them.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "limit-notation",
+  "category": "notation",
+  "draw": "The letters lim above a small x with an arrow pointing to a, the limit of a function.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "derivative-notation",
+  "category": "notation",
+  "draw": "Derivative written as a stacked fraction dy over dx with a horizontal division bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "natural-numbers",
+  "category": "notation",
+  "draw": "Double struck capital N: a blackboard bold N with a doubled left stroke.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "integers-set",
+  "category": "notation",
+  "draw": "Double struck capital Z: a blackboard bold Z with a doubled diagonal stroke.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "rational-numbers",
+  "category": "notation",
+  "draw": "Double struck capital Q: a blackboard bold Q with a doubled left curve and a tail.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "real-numbers",
+  "category": "notation",
+  "draw": "Double struck capital R: a blackboard bold R with a doubled stem.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "complex-numbers",
+  "category": "notation",
+  "draw": "Double struck capital C: a blackboard bold C with a doubled inner curve.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "logical-not",
+  "category": "notation",
+  "draw": "Logical negation sign: a horizontal bar with a short vertical hook dropping down at its right end.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "implies",
+  "category": "notation",
+  "draw": "Implication sign: a double stroke arrow pointing right, two parallel shafts ending in one arrowhead.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "if-and-only-if",
+  "category": "notation",
+  "draw": "Biconditional sign: a double stroke arrow with arrowheads at both ends.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "maps-to",
+  "category": "notation",
+  "draw": "Maps to sign: a right pointing arrow whose tail ends in a short vertical bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "binomial-coefficient",
+  "category": "notation",
+  "draw": "Binomial coefficient: a small n stacked above a k inside tall parentheses, with no fraction bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "basis-point",
+  "category": "notation",
+  "draw": "Per ten thousand sign: a percent sign with three small circles below the slash instead of one.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "modulo",
+  "category": "notation",
+  "draw": "The letters mod between a small a and b, the modular arithmetic operator.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "system-of-equations",
+  "category": "notation",
+  "draw": "Two short stacked equations joined on the left by a tall curly brace.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "quadratic-equation",
+  "category": "notation",
+  "draw": "An x with a small raised 2 followed by a plus sign and a parabola sketch beside it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "dot-product",
+  "category": "notation",
+  "draw": "Two small vector letters with arrows above, separated by a bold centered dot.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "function-composition",
+  "category": "notation",
+  "draw": "Two letters f and g separated by a small hollow ring operator.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "transpose-matrix",
+  "category": "notation",
+  "draw": "A square bracket matrix with a small superscript T at its top right corner.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "imaginary-unit",
+  "category": "notation",
+  "draw": "An italic lowercase i beside a small equation showing the square root of minus one.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "euler-identity",
+  "category": "notation",
+  "draw": "The letter e with a raised i pi exponent followed by plus 1 equals 0.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "conic-sections",
+  "category": "notation",
+  "draw": "A double cone cut by a tilted plane, with the elliptical cut outline shown on its side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "parabola",
+  "category": "notation",
+  "draw": "A U shaped parabola curve opening upward on a pair of x and y axes, with a small dot at its vertex.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hyperbola",
+  "category": "notation",
+  "draw": "Two mirrored curved branches opening left and right on crossed axes with dashed diagonal asymptotes.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ellipse-foci",
+  "category": "notation",
+  "draw": "A wide ellipse with two small dots marking its foci and lines from each focus to one point on the curve.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "unit-circle",
+  "category": "notation",
+  "draw": "A circle centered on crossed axes with one radius drawn to a point and the angle arc marked at the center.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "polar-grid",
+  "category": "notation",
+  "draw": "Concentric circles crossed by radial spokes, a polar coordinate grid with one plotted point.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "three-d-axes",
+  "category": "notation",
+  "draw": "Three axes from one origin: vertical, horizontal and a diagonal receding axis, each ending in an arrowhead.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "slope-triangle",
+  "category": "notation",
+  "draw": "A rising straight line on a grid with a small right triangle underneath showing rise and run.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sierpinski-triangle",
+  "category": "notation",
+  "draw": "A triangle subdivided into smaller triangles with the middle ones left empty, two levels deep.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "koch-snowflake",
+  "category": "notation",
+  "draw": "A six pointed fractal snowflake outline whose edges have smaller triangular bumps.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "mandelbrot-set",
+  "category": "notation",
+  "draw": "The Mandelbrot set silhouette: a heart shaped cardioid with a round bulb attached on its left and tiny buds.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fractal-tree",
+  "category": "notation",
+  "draw": "A binary branching tree where each branch splits into two smaller branches, three levels deep.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "mobius-strip",
+  "category": "notation",
+  "draw": "A twisted band with a single half twist forming a figure of eight like loop in perspective.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "klein-bottle",
+  "category": "notation",
+  "draw": "A bottle whose long neck curves around and passes back into its own side, forming a closed surface.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "trefoil-knot",
+  "category": "notation",
+  "draw": "A three lobed closed knot with over and under crossings visible at the three intersections.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tesseract",
+  "category": "notation",
+  "draw": "A small cube nested inside a larger cube with lines joining their matching corners.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "octahedron",
+  "category": "notation",
+  "draw": "Two square pyramids joined base to base forming a diamond shaped solid with visible edges.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "dodecahedron",
+  "category": "notation",
+  "draw": "A twelve faced solid made of pentagons, with a central pentagon face surrounded by five others.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "icosahedron",
+  "category": "notation",
+  "draw": "A twenty faced solid of triangles with a triangular front face and a hexagonal outline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "frustum",
+  "category": "notation",
+  "draw": "A cone with its top sliced off flat, showing an elliptical top and bottom.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cube-net",
+  "category": "notation",
+  "draw": "An unfolded cube: six squares arranged in a cross shape.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "circle-radius",
+  "category": "notation",
+  "draw": "A circle with a dot at its centre and a single line to the edge labelled r.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "circle-circumference",
+  "category": "notation",
+  "draw": "A circle with a curved arrow running along its outer edge.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sector-of-circle",
+  "category": "notation",
+  "draw": "A circle with a pie slice sector outlined by two radii and the arc between them shaded.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "inscribed-angle",
+  "category": "notation",
+  "draw": "A circle with two chords meeting at a point on the edge, forming an angle marked by a small arc.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "heptagon",
+  "category": "notation",
+  "draw": "A regular seven sided polygon outline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "decagon",
+  "category": "notation",
+  "draw": "A regular ten sided polygon outline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hexagonal-prism",
+  "category": "notation",
+  "draw": "A prism with hexagonal ends drawn in perspective.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hemisphere",
+  "category": "notation",
+  "draw": "Half a sphere sitting on its flat circular base, with an elliptical rim.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "angle-bisector",
+  "category": "notation",
+  "draw": "An angle made of two rays with a dashed line splitting it into two equal arcs.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "perpendicular-bisector",
+  "category": "notation",
+  "draw": "A line segment with a dashed line crossing it at its midpoint with a right angle mark.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "line-of-symmetry",
+  "category": "notation",
+  "draw": "A simple leaf shape split down the middle by a vertical dashed line.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "rotational-symmetry",
+  "category": "notation",
+  "draw": "A three bladed pinwheel shape with a curved arrow around its centre.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tessellation-pattern",
+  "category": "notation",
+  "draw": "Interlocking hexagon tiles covering a square area with no gaps.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sine-cosine-waves",
+  "category": "notation",
+  "draw": "Two overlapping waves on an axis, one solid sine and one dashed cosine, shifted by a quarter.",
+  "domain": "symbols-and-notation"
+ }
+]

@@ -1,0 +1,837 @@
+[
+  {
+    "name": "heat-pipe",
+    "category": "hardware-pc",
+    "draw": "Two parallel pipes bent into a U shape rising from a flat copper base and threading through a stack of thin horizontal fins."
+  },
+  {
+    "name": "blower-fan",
+    "category": "hardware-pc",
+    "draw": "Radial blower fan from above: a snail-shell spiral housing around a ring of curved impeller blades, with a rectangular exhaust mouth on one side."
+  },
+  {
+    "name": "water-cooling-reservoir",
+    "category": "hardware-pc",
+    "draw": "Upright clear cylinder with a wavy coolant level line inside, capped top and bottom, with two barbed tube fittings on the top cap."
+  },
+  {
+    "name": "cpu-water-block",
+    "category": "hardware-pc",
+    "draw": "Square block from above with a round window showing fine parallel channels and two round tube fittings on its top edge."
+  },
+  {
+    "name": "thermal-pad",
+    "category": "hardware-pc",
+    "draw": "Thin soft square sheet with a faint grid texture and one corner peeling up from its backing film."
+  },
+  {
+    "name": "fan-controller",
+    "category": "hardware-pc",
+    "draw": "Small rectangular hub board with a row of four pin headers along one edge and a cable leading to a small fan outline."
+  },
+  {
+    "name": "pc-dust-filter",
+    "category": "hardware-pc",
+    "draw": "Square fine-mesh grid in a thin frame half pulled out of a slot, with a small pull tab on its edge."
+  },
+  {
+    "name": "immersion-cooling-tank",
+    "category": "hardware-pc",
+    "draw": "Open-top tank filled with liquid, several vertical server boards submerged inside and small bubbles rising to the surface."
+  },
+  {
+    "name": "laptop-cooling-pad",
+    "category": "hardware-pc",
+    "draw": "Side view of a sloped slab with a large round fan grille on top and an open laptop resting on it."
+  },
+  {
+    "name": "cpu-temperature",
+    "category": "hardware-pc",
+    "draw": "Square processor chip with short pins on all four edges and a small thermometer overlapping its lower right corner."
+  },
+  {
+    "name": "case-airflow",
+    "category": "hardware-pc",
+    "draw": "Desktop tower outline in side view with straight arrows entering the front panel and leaving through the top and back."
+  },
+  {
+    "name": "overclocking",
+    "category": "hardware-pc",
+    "draw": "Square processor chip with a speedometer gauge on its face, the needle pushed hard to the right end of the scale."
+  },
+  {
+    "name": "laptop-overheating",
+    "category": "hardware-pc",
+    "draw": "Open laptop from the side with three wavy heat lines rising from its keyboard deck."
+  },
+  {
+    "name": "static-discharge",
+    "category": "hardware-pc",
+    "draw": "Fingertip reaching toward a small chip with a jagged spark crossing the gap between them."
+  },
+  {
+    "name": "hard-drive-internals",
+    "category": "hardware-pc",
+    "draw": "Open hard drive from above: a large round platter with a center spindle and a pivoting actuator arm reaching across it from one corner."
+  },
+  {
+    "name": "atx-power-connector",
+    "category": "hardware-pc",
+    "draw": "Wide plastic plug from the front with two long rows of square pin holes, a latch clip on top and a bundle of wires leaving the back."
+  },
+  {
+    "name": "molex-connector",
+    "category": "hardware-pc",
+    "draw": "Four-pin plug from the front: a rectangular body with two chamfered top corners, four round pin holes in a row and four wires behind."
+  },
+  {
+    "name": "laptop-memory-module",
+    "category": "hardware-pc",
+    "draw": "Short wide memory stick with a small notch cut into each side edge, gold contacts along the bottom edge and two chips on its face."
+  },
+  {
+    "name": "io-shield",
+    "category": "hardware-pc",
+    "draw": "Thin rectangular metal plate with cutouts for a column of USB ports, one ethernet port and a row of round audio jacks."
+  },
+  {
+    "name": "gpu-support-bracket",
+    "category": "hardware-pc",
+    "draw": "Graphics card lying horizontally, propped from below by a vertical adjustable post standing on a flat base."
+  },
+  {
+    "name": "pcie-riser-cable",
+    "category": "hardware-pc",
+    "draw": "Flat ribbon cable folded in an S bend with a card slot connector at one end and a gold-contact edge at the other."
+  },
+  {
+    "name": "pcie-wifi-card",
+    "category": "hardware-pc",
+    "draw": "Small expansion card with a metal bracket carrying two tall antennas and a row of gold contacts along its bottom edge."
+  },
+  {
+    "name": "pin-grid-processor",
+    "category": "hardware-pc",
+    "draw": "Square processor seen from below with a dense grid of pin dots and a small triangle marking one corner."
+  },
+  {
+    "name": "chiplet-package",
+    "category": "hardware-pc",
+    "draw": "Square chip substrate from above holding one large die in the center and several smaller dies arranged around it."
+  },
+  {
+    "name": "usb-wifi-adapter",
+    "category": "hardware-pc",
+    "draw": "Small USB stick with a tall hinged antenna rising from its far end and signal arcs beside the antenna tip."
+  },
+  {
+    "name": "wireless-usb-receiver",
+    "category": "hardware-pc",
+    "draw": "Tiny stub dongle with a short USB plug and a small rounded cap, with two small signal arcs above it."
+  },
+  {
+    "name": "cable-management",
+    "category": "hardware-pc",
+    "draw": "Several cables running as a neat parallel bundle held by two straps and turning a right-angled corner together."
+  },
+  {
+    "name": "hard-drive-dock",
+    "category": "hardware-pc",
+    "draw": "Low dock base with a vertical slot on top holding a bare hard drive standing upright, and a small status light on the base."
+  },
+  {
+    "name": "drive-caddy",
+    "category": "hardware-pc",
+    "draw": "Hot-swap drive tray: a flat rectangular sled with a front bezel, a flip-out release lever handle and screw holes along its rails."
+  },
+  {
+    "name": "drive-cage",
+    "category": "hardware-pc",
+    "draw": "Open metal frame box with three stacked horizontal bays, one drive pulled partly out of the middle bay."
+  },
+  {
+    "name": "compactflash-card",
+    "category": "hardware-pc",
+    "draw": "Thick nearly square memory card with a row of small pin holes along one short edge and a label area on its face."
+  },
+  {
+    "name": "memory-card-wallet",
+    "category": "hardware-pc",
+    "draw": "Open fold-out case with two panels of small card-shaped pockets, some pockets holding memory cards."
+  },
+  {
+    "name": "tape-library",
+    "category": "hardware-pc",
+    "draw": "Tall cabinet with a glass front showing shelves of small tape cartridges in rows and a robotic picker arm on a vertical rail."
+  },
+  {
+    "name": "floppy-drive",
+    "category": "hardware-pc",
+    "draw": "Front face of a disk drive unit with a horizontal disk slot, a small eject button below it and an activity light."
+  },
+  {
+    "name": "five-inch-floppy-disk",
+    "category": "hardware-pc",
+    "draw": "Thin square flexible disk with a large round center hole, an oval read window below it and a small notch on one side edge."
+  },
+  {
+    "name": "disk-pack",
+    "category": "hardware-pc",
+    "draw": "Stack of several large platters on a shared spindle under a clear dome cover with a lifting handle on top."
+  },
+  {
+    "name": "data-cassette-recorder",
+    "category": "hardware-pc",
+    "draw": "Low box with a cassette door on top, a row of piano-key buttons along the front and a cable running out the back."
+  },
+  {
+    "name": "dna-data-storage",
+    "category": "hardware-pc",
+    "draw": "Short double helix whose rungs are drawn as small square bits, ending in a hard drive outline."
+  },
+  {
+    "name": "disk-defragmentation",
+    "category": "hardware-pc",
+    "draw": "Grid of small squares where scattered filled blocks on the left are gathered into one solid row on the right, with an arrow between."
+  },
+  {
+    "name": "disk-partition",
+    "category": "hardware-pc",
+    "draw": "Hard drive outline whose face is split by a vertical divider into two unequal sections, one filled and one empty."
+  },
+  {
+    "name": "data-recovery",
+    "category": "hardware-pc",
+    "draw": "Hard drive outline with a life ring around it."
+  },
+  {
+    "name": "mini-itx-case",
+    "category": "hardware-pc",
+    "draw": "Small cube-shaped computer case at three-quarter view with a mesh front panel and a round power button."
+  },
+  {
+    "name": "open-air-test-bench",
+    "category": "hardware-pc",
+    "draw": "Open frame of posts and a flat tray holding a motherboard, an upright graphics card and a fan, with no side panels."
+  },
+  {
+    "name": "mini-pc",
+    "category": "hardware-pc",
+    "draw": "Very low square box about the size of a hand, with a round power button and two small ports on its front edge."
+  },
+  {
+    "name": "retro-desktop-pc",
+    "category": "hardware-pc",
+    "draw": "Wide low horizontal computer case with two floppy slots on the front and a bulky boxy monitor sitting on top."
+  },
+  {
+    "name": "keyboard-computer",
+    "category": "hardware-pc",
+    "draw": "Wedge-shaped home computer where the keyboard and computer are one unit, with a cartridge slot on the back edge."
+  },
+  {
+    "name": "luggable-computer",
+    "category": "hardware-pc",
+    "draw": "Suitcase-shaped portable computer with a carry handle, a small built-in screen on its face and a detachable keyboard as its lid."
+  },
+  {
+    "name": "front-panel-computer",
+    "category": "hardware-pc",
+    "draw": "Early hobby computer box whose front panel has a row of small toggle switches and a row of indicator lights above them."
+  },
+  {
+    "name": "video-terminal",
+    "category": "hardware-pc",
+    "draw": "Boxy desktop terminal with a deep monitor showing a blinking text cursor and a keyboard attached at its base."
+  },
+  {
+    "name": "convertible-laptop",
+    "category": "hardware-pc",
+    "draw": "Laptop from the side folded into tent mode, forming an upside-down V with the screen facing out."
+  },
+  {
+    "name": "rugged-laptop",
+    "category": "hardware-pc",
+    "draw": "Closed thick laptop with rubber bumpers on each corner and a carry handle along its front edge."
+  },
+  {
+    "name": "laptop-battery",
+    "category": "hardware-pc",
+    "draw": "Removable flat battery pack with a connector notch and a row of gold contacts along one long edge."
+  },
+  {
+    "name": "tablet-keyboard-case",
+    "category": "hardware-pc",
+    "draw": "Tablet propped upright on a folding cover with a thin attached keyboard lying flat in front of it."
+  },
+  {
+    "name": "external-gpu-enclosure",
+    "category": "hardware-pc",
+    "draw": "Box with a vented side window showing a graphics card inside, connected by a cable to a small laptop."
+  },
+  {
+    "name": "pc-building",
+    "category": "hardware-pc",
+    "draw": "Desktop tower with its side panel removed showing boards inside, and a screwdriver angled into the open case."
+  },
+  {
+    "name": "computer-repair",
+    "category": "hardware-pc",
+    "draw": "Open laptop with a wrench and a screwdriver crossed over its screen."
+  },
+  {
+    "name": "computer-cluster",
+    "category": "hardware-pc",
+    "draw": "Three small towers side by side, each linked by a line to one switch box below them."
+  },
+  {
+    "name": "sim-racing-rig",
+    "category": "hardware-pc",
+    "draw": "Side view of a bucket seat on a low frame facing a steering wheel on a mount arm and a monitor in front."
+  },
+  {
+    "name": "desk-setup",
+    "category": "hardware-pc",
+    "draw": "Desk with a monitor, keyboard and mouse on top and a tower standing on the floor beside one leg."
+  },
+  {
+    "name": "keycap-puller",
+    "category": "hardware-pc",
+    "draw": "Wire tool with two curved prongs gripping a single keycap, with a looped finger handle above."
+  },
+  {
+    "name": "mechanical-key-switch",
+    "category": "hardware-pc",
+    "draw": "Keyboard switch at three-quarter view: a square housing with a cross-shaped stem on top and two metal pins below."
+  },
+  {
+    "name": "vertical-mouse",
+    "category": "hardware-pc",
+    "draw": "Tall ergonomic mouse tilted onto its side like a handshake grip, with buttons on the upper slope and a thumb rest."
+  },
+  {
+    "name": "touchpad",
+    "category": "hardware-pc",
+    "draw": "Standalone flat rectangular pad with rounded corners and a fingertip tapping its surface."
+  },
+  {
+    "name": "pen-display",
+    "category": "hardware-pc",
+    "draw": "Monitor tilted back on a low stand with a stylus drawing a curved line on its screen."
+  },
+  {
+    "name": "macro-keypad",
+    "category": "hardware-pc",
+    "draw": "Small box with a three-by-three grid of square keys and a round knob in one corner."
+  },
+  {
+    "name": "foot-pedal-switch",
+    "category": "hardware-pc",
+    "draw": "Low wedge-shaped foot pedal with a hinged top plate and a cable leading out of its back."
+  },
+  {
+    "name": "portrait-monitor",
+    "category": "hardware-pc",
+    "draw": "Monitor rotated into a tall vertical orientation on a stand with a round base."
+  },
+  {
+    "name": "triple-monitor",
+    "category": "hardware-pc",
+    "draw": "Three monitors side by side on one stand, the outer two angled inward."
+  },
+  {
+    "name": "crt-monitor",
+    "category": "hardware-pc",
+    "draw": "Deep boxy monitor at three-quarter view with a slightly curved screen and a large bulging back casing."
+  },
+  {
+    "name": "touchscreen-monitor",
+    "category": "hardware-pc",
+    "draw": "Monitor on a stand with a fingertip touching the screen and small ripple rings around the touch point."
+  },
+  {
+    "name": "portable-monitor",
+    "category": "hardware-pc",
+    "draw": "Very thin monitor propped on a folding cover stand, with a single short cable leaving its side."
+  },
+  {
+    "name": "privacy-screen-filter",
+    "category": "hardware-pc",
+    "draw": "Monitor with a filter sheet of fine vertical louver lines half slid over its screen."
+  },
+  {
+    "name": "laptop-cable-lock",
+    "category": "hardware-pc",
+    "draw": "Closed laptop with a steel cable looped from a slot on its side to a small round lock head."
+  },
+  {
+    "name": "flight-throttle",
+    "category": "hardware-pc",
+    "draw": "Desktop throttle base with a thick lever handle tilted forward and a few buttons on its grip."
+  },
+  {
+    "name": "flight-yoke-controller",
+    "category": "hardware-pc",
+    "draw": "Aircraft control yoke with a horn-shaped handle on a shaft coming out of a box clamped to a desk edge."
+  },
+  {
+    "name": "rudder-pedals",
+    "category": "hardware-pc",
+    "draw": "Pair of flat foot pedals side by side on a low base, joined by a pivoting bar."
+  },
+  {
+    "name": "3d-mouse",
+    "category": "hardware-pc",
+    "draw": "Round puck-shaped cap on a wide heavy base, with a curved arrow around the cap showing it twists and tilts."
+  },
+  {
+    "name": "sheet-fed-scanner",
+    "category": "hardware-pc",
+    "draw": "Compact document scanner with an angled paper tray at the back feeding a sheet in and an output slot at the front."
+  },
+  {
+    "name": "smart-card-reader",
+    "category": "hardware-pc",
+    "draw": "Small box with a slot on its front edge and a chip card half inserted, the chip contacts visible."
+  },
+  {
+    "name": "usb-c-multiport-adapter",
+    "category": "hardware-pc",
+    "draw": "Small flat hub body with several port openings on its edge and a short cable ending in an oval plug."
+  },
+  {
+    "name": "eye-tracker",
+    "category": "hardware-pc",
+    "draw": "Thin sensor bar with two lens dots attached under a monitor, with a dotted line of sight from an eye to the screen."
+  },
+  {
+    "name": "haptic-glove",
+    "category": "hardware-pc",
+    "draw": "Glove with thin cables running along each finger to a small module on the back of the hand."
+  },
+  {
+    "name": "pointing-stick",
+    "category": "hardware-pc",
+    "draw": "Close-up of four keyboard keys with a small round rubber nub nestled at the point where they meet."
+  },
+  {
+    "name": "mouse-bungee",
+    "category": "hardware-pc",
+    "draw": "Weighted round base with a springy arm holding a mouse cable in a clip, the cable running on to a mouse."
+  },
+  {
+    "name": "vesa-mount",
+    "category": "hardware-pc",
+    "draw": "Square plate with four screw holes in a square pattern and a round joint in the center leading to an arm."
+  },
+  {
+    "name": "keyboard-tray",
+    "category": "hardware-pc",
+    "draw": "Slide-out tray under a desk edge holding a keyboard and mouse, drawn slightly pulled out."
+  },
+  {
+    "name": "digitizer-puck",
+    "category": "hardware-pc",
+    "draw": "CAD puck with a clear round window and crosshair lines at its front, a grid of buttons behind and a trailing cable."
+  },
+  {
+    "name": "adaptive-switch",
+    "category": "hardware-pc",
+    "draw": "Large round dome button on a low base with a cable, sized to be pressed with a whole palm."
+  },
+  {
+    "name": "ball-mouse",
+    "category": "hardware-pc",
+    "draw": "Mouse flipped upside down showing a round ball held in a circular retaining ring on its underside."
+  },
+  {
+    "name": "microphone-boom-arm",
+    "category": "hardware-pc",
+    "draw": "Jointed spring arm clamped to a desk edge, holding a microphone at the end of its upper arm."
+  },
+  {
+    "name": "monitor-hood",
+    "category": "hardware-pc",
+    "draw": "Monitor with three shading panels attached along its top and both sides like a box around the screen."
+  },
+  {
+    "name": "monitor-calibrator",
+    "category": "hardware-pc",
+    "draw": "Round sensor puck hanging by its cable flat against the middle of a monitor screen."
+  },
+  {
+    "name": "dead-pixel",
+    "category": "hardware-pc",
+    "draw": "Monitor with a blank screen and a single small filled square near the center of the screen."
+  },
+  {
+    "name": "cracked-screen",
+    "category": "hardware-pc",
+    "draw": "Laptop screen with jagged crack lines radiating out from one impact point."
+  },
+  {
+    "name": "smart-glasses",
+    "category": "hardware-pc",
+    "draw": "Pair of glasses with a small camera lens at one hinge and a thin display prism in front of one lens."
+  },
+  {
+    "name": "vr-base-station",
+    "category": "hardware-pc",
+    "draw": "Small square tracking box on a tripod with fanned sweep lines spreading from its front face."
+  },
+  {
+    "name": "video-conference-bar",
+    "category": "hardware-pc",
+    "draw": "Long slim bar with a camera lens in the center and speaker grilles at both ends, mounted above a screen."
+  },
+  {
+    "name": "keyboard-and-mouse",
+    "category": "hardware-pc",
+    "draw": "Full keyboard seen from above with a mouse sitting to its right."
+  },
+  {
+    "name": "backlit-keyboard",
+    "category": "hardware-pc",
+    "draw": "Keyboard with short light rays glowing out from beneath the keys."
+  },
+  {
+    "name": "usb-power-meter",
+    "category": "hardware-pc",
+    "draw": "Small inline dongle with a digital readout window, plugged between a USB plug and a cable."
+  },
+  {
+    "name": "roll-up-keyboard",
+    "category": "hardware-pc",
+    "draw": "Flexible silicone keyboard with one end rolled up into a tube."
+  },
+  {
+    "name": "laser-projection-keyboard",
+    "category": "hardware-pc",
+    "draw": "Small projector block casting a fan of light onto a desk, where the outline of a keyboard grid appears."
+  },
+  {
+    "name": "headphone-amplifier",
+    "category": "hardware-pc",
+    "draw": "Small box with a large volume knob and a headphone jack on its front, a headphone cable plugged in."
+  },
+  {
+    "name": "screen-cleaner-spray",
+    "category": "hardware-pc",
+    "draw": "Small spray bottle misting toward a monitor screen, with a folded cloth beside it."
+  },
+  {
+    "name": "brain-computer-interface",
+    "category": "hardware-pc",
+    "draw": "Head in profile wearing a cap of electrode dots, with a cable running from the cap to a small chip."
+  },
+  {
+    "name": "omnidirectional-treadmill",
+    "category": "hardware-pc",
+    "draw": "Round shallow platform with a person figure walking in place, wearing a headset, held by a waist ring on posts."
+  },
+  {
+    "name": "infrared-blaster",
+    "category": "hardware-pc",
+    "draw": "Small round puck with a dark lens window on its edge sending wavy signal lines toward a screen."
+  },
+  {
+    "name": "keyboard-keyguard",
+    "category": "hardware-pc",
+    "draw": "Keyboard with a thick plate on top that has one round hole over each key."
+  },
+  {
+    "name": "color-grading-panel",
+    "category": "hardware-pc",
+    "draw": "Control panel with three large trackballs in a row, each surrounded by a rotating ring, and buttons above."
+  },
+  {
+    "name": "dictation-microphone",
+    "category": "hardware-pc",
+    "draw": "Handheld slim microphone with a mic grille at the top and a column of thumb buttons below it."
+  },
+  {
+    "name": "cable-raceway",
+    "category": "hardware-pc",
+    "draw": "Rectangular channel mounted along a wall with its lid partly open, showing cables running inside."
+  },
+  {
+    "name": "ceiling-access-point",
+    "category": "hardware-pc",
+    "draw": "Flat round disc mounted under a ceiling line with a small status light and wifi arcs spreading below."
+  },
+  {
+    "name": "powerline-adapter",
+    "category": "hardware-pc",
+    "draw": "Plug-in wall adapter box with prongs on its back and an ethernet port on its bottom edge, a small house wiring wave beside it."
+  },
+  {
+    "name": "poe-injector",
+    "category": "hardware-pc",
+    "draw": "Small box with two ethernet ports on its face and a power cord leaving one end, a small lightning bolt on the case."
+  },
+  {
+    "name": "wireless-bridge",
+    "category": "hardware-pc",
+    "draw": "Two small dish antennas on poles facing each other with a dashed beam running between them."
+  },
+  {
+    "name": "cable-tone-tracer",
+    "category": "hardware-pc",
+    "draw": "Pen-shaped probe wand with a pointed tip and a speaker grille, next to a small tone generator box with two clip leads."
+  },
+  {
+    "name": "network-wall-plate",
+    "category": "hardware-pc",
+    "draw": "Square wall faceplate with two ethernet jack openings side by side and two small screws."
+  },
+  {
+    "name": "network-video-recorder",
+    "category": "hardware-pc",
+    "draw": "Flat rack box with a row of small camera ports on its back and a hard drive outline visible through its top."
+  },
+  {
+    "name": "hot-aisle-containment",
+    "category": "hardware-pc",
+    "draw": "Two rows of server racks facing away from each other with a roofed enclosure between them and heat arrows rising inside."
+  },
+  {
+    "name": "raised-floor-tile",
+    "category": "hardware-pc",
+    "draw": "Square floor tile with a grid of round perforations, lifted slightly on one corner above support pedestals."
+  },
+  {
+    "name": "computer-room-air-conditioner",
+    "category": "hardware-pc",
+    "draw": "Tall floor-standing cabinet with a front grille, a small control display and arrows of cold air leaving its base."
+  },
+  {
+    "name": "rack-power-strip",
+    "category": "hardware-pc",
+    "draw": "Long vertical power strip with a column of socket outlets and a power cord leaving its top end."
+  },
+  {
+    "name": "rack-console-drawer",
+    "category": "hardware-pc",
+    "draw": "Rack-mounted drawer pulled out with a flip-up screen and a keyboard and touchpad on its tray."
+  },
+  {
+    "name": "cage-nut",
+    "category": "hardware-pc",
+    "draw": "Square nut held in a spring-steel cage with two flexible wings on its sides."
+  },
+  {
+    "name": "two-post-rack",
+    "category": "hardware-pc",
+    "draw": "Open rack of two tall upright rails with holes, standing on a base, with two flat devices mounted between them."
+  },
+  {
+    "name": "server-lift",
+    "category": "hardware-pc",
+    "draw": "Wheeled cart with a vertical mast and a flat platform raised on it, lifting a server unit."
+  },
+  {
+    "name": "containerized-data-center",
+    "category": "hardware-pc",
+    "draw": "Shipping container with its doors open showing rows of server racks inside."
+  },
+  {
+    "name": "server-rail-kit",
+    "category": "hardware-pc",
+    "draw": "Pair of long telescoping rails, one drawn partly extended in three nested sections, with mounting hooks at each end."
+  },
+  {
+    "name": "cable-management-arm",
+    "category": "hardware-pc",
+    "draw": "Hinged zigzag arm of two flat segments with cable baskets, folding between the back of a server and a rack post."
+  },
+  {
+    "name": "sim-gear-shifter",
+    "category": "hardware-pc",
+    "draw": "Gear stick with a round knob rising from a small box whose top plate shows an H-shaped slot pattern."
+  },
+  {
+    "name": "cellular-router",
+    "category": "hardware-pc",
+    "draw": "Small router box with two short paddle antennas on top and a SIM card half inserted into a slot on its side."
+  },
+  {
+    "name": "fusion-splicer",
+    "category": "hardware-pc",
+    "draw": "Compact machine with a small screen on a hinged arm and two open fiber clamps on its top with a fine fiber between them."
+  },
+  {
+    "name": "eprom-chip",
+    "category": "hardware-pc",
+    "draw": "Long two-row pin chip seen from above with a round clear window in the center of its body showing a tiny die."
+  },
+  {
+    "name": "magnetic-drum-memory",
+    "category": "hardware-pc",
+    "draw": "Horizontal metal cylinder on an axle with a row of small read heads lined up along its length."
+  },
+  {
+    "name": "dual-screen-laptop",
+    "category": "hardware-pc",
+    "draw": "Open laptop with a second wide screen strip set above the keyboard, below the main display."
+  },
+  {
+    "name": "retractable-cable",
+    "category": "hardware-pc",
+    "draw": "Round flat reel housing with a cable pulled out from both sides, each end with a small plug."
+  },
+  {
+    "name": "disk-cloning",
+    "category": "hardware-pc",
+    "draw": "Two hard drive outlines side by side with a straight arrow copying from the left drive to the right one."
+  },
+  {
+    "name": "uv-curing-station",
+    "category": "hardware-pc",
+    "draw": "Round turntable under a clear dome lid with short light rays shining down onto a small printed object."
+  },
+  {
+    "name": "compressed-air-duster",
+    "category": "hardware-pc",
+    "draw": "Aerosol can with a long thin straw nozzle at the top blowing a few short air lines."
+  },
+  {
+    "name": "usb-microscope",
+    "category": "hardware-pc",
+    "draw": "Small pen-shaped microscope held in a stand over a flat base, with a ring of light around its lens and a cable at the top."
+  },
+  {
+    "name": "cyberdeck",
+    "category": "hardware-pc",
+    "draw": "Hard-shell case opened like a clamshell with a small screen in the lid, a keyboard in the base and a stubby antenna."
+  },
+  {
+    "name": "bulging-capacitor",
+    "category": "hardware-pc",
+    "draw": "Cylindrical capacitor standing on a board with a domed swollen top and a small drip leaking down its side."
+  },
+  {
+    "name": "haptic-vest",
+    "category": "hardware-pc",
+    "draw": "Sleeveless vest from the front with a grid of small round pads over the chest and a cable leaving one side."
+  },
+  {
+    "name": "sip-and-puff-switch",
+    "category": "hardware-pc",
+    "draw": "Thin straw tube on a bendable gooseneck arm clamped to a mount, with its tip near a mouth in profile."
+  },
+  {
+    "name": "bnc-t-connector",
+    "category": "hardware-pc",
+    "draw": "T-shaped connector with three round bayonet ends, one on each arm, and small locking studs."
+  },
+  {
+    "name": "hard-drive-degausser",
+    "category": "hardware-pc",
+    "draw": "Box machine with a wide slot on its front and a hard drive sliding in, curved magnetic field lines around it."
+  },
+  {
+    "name": "power-supply-tester",
+    "category": "hardware-pc",
+    "draw": "Small handheld box with a digital readout at the top and several connector sockets of different sizes below."
+  },
+  {
+    "name": "post-diagnostic-card",
+    "category": "hardware-pc",
+    "draw": "Small expansion card with a two-digit segment display on its face and gold contacts along the bottom."
+  },
+  {
+    "name": "delta-3d-printer",
+    "category": "hardware-pc",
+    "draw": "Tall triangular frame of three upright columns with three thin arms meeting at a single print head above a round bed."
+  },
+  {
+    "name": "tangled-cables",
+    "category": "hardware-pc",
+    "draw": "Messy knot of several looping cables with plug ends sticking out in different directions."
+  },
+  {
+    "name": "fanless-industrial-pc",
+    "category": "hardware-pc",
+    "draw": "Compact box whose top and sides are covered in deep parallel cooling fins, with a row of ports on the front."
+  },
+  {
+    "name": "sata-usb-adapter",
+    "category": "hardware-pc",
+    "draw": "Short cable with a flat L-shaped drive connector at one end and a rectangular USB plug at the other."
+  },
+  {
+    "name": "loopback-plug",
+    "category": "hardware-pc",
+    "draw": "Small plug whose back has a short loop of wire running out and back into it."
+  },
+  {
+    "name": "network-operations-center",
+    "category": "hardware-pc",
+    "draw": "Operator desk with two monitors seen from behind, facing a large wall of screens showing graphs and a map."
+  },
+  {
+    "name": "depth-camera",
+    "category": "hardware-pc",
+    "draw": "Horizontal camera bar with three lenses in a row, the middle one larger, on a small tripod."
+  },
+  {
+    "name": "laptop-charging-cart",
+    "category": "hardware-pc",
+    "draw": "Wheeled cabinet with an open door showing a row of laptops standing upright in slots."
+  },
+  {
+    "name": "projector-mount",
+    "category": "hardware-pc",
+    "draw": "Projector hanging upside down from a ceiling line on a short pole mount with a light beam angled forward."
+  },
+  {
+    "name": "mouse-jiggler",
+    "category": "hardware-pc",
+    "draw": "Mouse sitting on a small flat platform with a round rotating disc under it and curved motion arrows."
+  },
+  {
+    "name": "wifi-antenna",
+    "category": "hardware-pc",
+    "draw": "Single detachable rubber antenna standing on a threaded base connector, with signal arcs beside its tip."
+  },
+  {
+    "name": "magnetic-core-memory",
+    "category": "hardware-pc",
+    "draw": "Grid of tiny rings, each threaded where horizontal and vertical wires cross."
+  },
+  {
+    "name": "keypunch-machine",
+    "category": "hardware-pc",
+    "draw": "Desk-like machine with a keyboard at the front and a card hopper and card stacker on its raised top."
+  },
+  {
+    "name": "personal-digital-assistant",
+    "category": "hardware-pc",
+    "draw": "Handheld device with a small monochrome screen, a row of round buttons below and a stylus alongside it."
+  },
+  {
+    "name": "analog-computer",
+    "category": "hardware-pc",
+    "draw": "Upright panel of round dials and patch sockets with loops of patch cords plugged between them."
+  },
+  {
+    "name": "resin-3d-printer",
+    "category": "hardware-pc",
+    "draw": "Box printer under a tinted cover with an upside-down build plate lifting a small printed object out of a shallow vat."
+  },
+  {
+    "name": "filament-spool",
+    "category": "hardware-pc",
+    "draw": "Round spool of wound filament at three-quarter view with one loose strand trailing off the side."
+  },
+  {
+    "name": "3d-printer-nozzle",
+    "category": "hardware-pc",
+    "draw": "Heater block with a cone-shaped nozzle laying a line of plastic onto a few stacked layers below."
+  },
+  {
+    "name": "laser-engraver",
+    "category": "hardware-pc",
+    "draw": "Open square gantry frame with a laser head firing a short beam down onto a board marked with a burned pattern."
+  }
+]

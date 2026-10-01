@@ -1,0 +1,1 @@
+ALTER TABLE "designs" ADD COLUMN "attributes" jsonb DEFAULT '{}'::jsonb NOT NULL;

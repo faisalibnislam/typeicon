@@ -1,0 +1,2077 @@
+[
+  {
+    "name": "window-restore",
+    "category": "ui",
+    "draw": "Two overlapping square window outlines offset diagonally, the front one with a thick title bar edge."
+  },
+  {
+    "name": "window-cascade",
+    "category": "ui",
+    "draw": "Three window outlines stacked diagonally from top left to bottom right, each showing a title bar strip."
+  },
+  {
+    "name": "window-tile",
+    "category": "ui",
+    "draw": "Rounded screen outline divided into four equal window panes, each pane with its own thin title bar."
+  },
+  {
+    "name": "window-snap",
+    "category": "ui",
+    "draw": "Screen outline with a window filling the left half and dashed placeholder rectangles in the right half."
+  },
+  {
+    "name": "pop-out-window",
+    "category": "ui",
+    "draw": "Small window outline with an arrow leaving its top right corner toward a second detached window."
+  },
+  {
+    "name": "virtual-desktops",
+    "category": "ui",
+    "draw": "Three small screen rectangles in a row with the middle one bold, above a short horizontal bar."
+  },
+  {
+    "name": "show-desktop",
+    "category": "ui",
+    "draw": "Monitor outline whose screen is empty with two tiny windows shrunk down into the bottom edge."
+  },
+  {
+    "name": "status-bar",
+    "category": "ui",
+    "draw": "Top edge of a phone outline showing a clock dash at left and tiny signal bars and battery at right."
+  },
+  {
+    "name": "system-tray",
+    "category": "ui",
+    "draw": "Short bar at the bottom right of a screen with an upward caret and three tiny status icons beside it."
+  },
+  {
+    "name": "toolbar",
+    "category": "ui",
+    "draw": "Horizontal rounded bar holding four small square tool buttons in a row, one of them highlighted."
+  },
+  {
+    "name": "floating-toolbar",
+    "category": "ui",
+    "draw": "Small pill bar with three tool dots hovering above a text line, with a short shadow beneath."
+  },
+  {
+    "name": "ribbon-toolbar",
+    "category": "ui",
+    "draw": "Wide panel with a row of tab labels on top and grouped large and small buttons beneath, split by dividers."
+  },
+  {
+    "name": "tool-palette",
+    "category": "ui",
+    "draw": "Tall narrow vertical strip holding a column of small tool squares, the top one filled."
+  },
+  {
+    "name": "inspector-panel",
+    "category": "ui",
+    "draw": "Window outline with a right hand panel showing stacked label and value rows beside an empty canvas."
+  },
+  {
+    "name": "scrollbar",
+    "category": "ui",
+    "draw": "Tall narrow track outline with a rounded filled thumb near the top and small caret buttons at both ends."
+  },
+  {
+    "name": "tab-group",
+    "category": "ui",
+    "draw": "Three browser tabs in a row with a coloured bracket line joining the first two underneath."
+  },
+  {
+    "name": "address-bar",
+    "category": "ui",
+    "draw": "Long rounded field with a small padlock at the left and a short dashed URL line filling the rest."
+  },
+  {
+    "name": "bookmarks-bar",
+    "category": "ui",
+    "draw": "Browser window outline with a thin strip under the top bar holding three tiny bookmark ribbon shapes."
+  },
+  {
+    "name": "quick-settings-panel",
+    "category": "ui",
+    "draw": "Rounded panel with a two by three grid of round toggle buttons, two of them filled."
+  },
+  {
+    "name": "system-nav-buttons",
+    "category": "ui",
+    "draw": "Horizontal bar with a small triangle, a circle and a square spaced evenly along it."
+  },
+  {
+    "name": "app-icon",
+    "category": "ui",
+    "draw": "Single rounded square app tile with a simple star shape centred inside it."
+  },
+  {
+    "name": "app-folder",
+    "category": "ui",
+    "draw": "Rounded square containing a two by two grid of tiny rounded app tiles."
+  },
+  {
+    "name": "wallpaper-screen",
+    "category": "ui",
+    "draw": "Phone outline whose screen shows a mountain and sun landscape filling the background."
+  },
+  {
+    "name": "multiple-displays",
+    "category": "ui",
+    "draw": "Two monitor outlines side by side on stands, the right one slightly smaller."
+  },
+  {
+    "name": "theater-mode",
+    "category": "ui",
+    "draw": "Very wide short rectangle with a play triangle in the centre and a thin bar under it."
+  },
+  {
+    "name": "layout-hero",
+    "category": "ui",
+    "draw": "Page outline with a tall filled banner block across the top and three short text lines below it."
+  },
+  {
+    "name": "layout-holy-grail",
+    "category": "ui",
+    "draw": "Page outline divided into a header strip, footer strip and a middle band split into left rail, content and right rail."
+  },
+  {
+    "name": "layout-bento",
+    "category": "ui",
+    "draw": "Square split into uneven rounded cells: one large tile, one tall tile and two small tiles."
+  },
+  {
+    "name": "layout-feed",
+    "category": "ui",
+    "draw": "Narrow column of three stacked cards, each with a small avatar circle and two text lines."
+  },
+  {
+    "name": "layout-three-column",
+    "category": "ui",
+    "draw": "Rectangle split into three equal vertical columns by two dividers, each with a short header bar."
+  },
+  {
+    "name": "layout-centered",
+    "category": "ui",
+    "draw": "Wide page outline with a narrow content column in the middle holding text lines and empty margins on both sides."
+  },
+  {
+    "name": "layout-magazine",
+    "category": "ui",
+    "draw": "Page with a big image block on the left, a headline bar above and small text columns on the right."
+  },
+  {
+    "name": "layout-master-detail",
+    "category": "ui",
+    "draw": "Window split into a narrow list of stacked rows on the left and a large detail pane on the right."
+  },
+  {
+    "name": "layout-pricing-tiers",
+    "category": "ui",
+    "draw": "Three vertical cards side by side, the middle one taller and filled, each with a short price line."
+  },
+  {
+    "name": "layout-profile-header",
+    "category": "ui",
+    "draw": "Page with a wide cover strip on top and an avatar circle overlapping its lower edge above text lines."
+  },
+  {
+    "name": "layout-sidebar-both",
+    "category": "ui",
+    "draw": "Rectangle with narrow panels on both the left and right edges framing a wide empty centre."
+  },
+  {
+    "name": "layout-footer-columns",
+    "category": "ui",
+    "draw": "Page outline with a deep footer area holding four short columns of tiny link lines."
+  },
+  {
+    "name": "layout-split-hero",
+    "category": "ui",
+    "draw": "Rectangle split in half: text lines and a button on the left, an image block with a mountain on the right."
+  },
+  {
+    "name": "layout-grid-sidebar",
+    "category": "ui",
+    "draw": "Window with a narrow left sidebar and a two by two grid of tiles in the main area."
+  },
+  {
+    "name": "layout-landing-page",
+    "category": "ui",
+    "draw": "Tall page outline with a hero block, a row of three small feature squares and a button bar at the bottom."
+  },
+  {
+    "name": "layout-app-shell",
+    "category": "ui",
+    "draw": "Window with a top bar, a left navigation rail with icon dots and an empty content area."
+  },
+  {
+    "name": "column-guides",
+    "category": "ui",
+    "draw": "Rectangle filled with six tall translucent column bars separated by equal gutters."
+  },
+  {
+    "name": "baseline-grid",
+    "category": "ui",
+    "draw": "Square with many thin evenly spaced horizontal lines and a text line sitting exactly on one of them."
+  },
+  {
+    "name": "pixel-grid",
+    "category": "ui",
+    "draw": "Close up of a square grid with a staircase of filled cells forming a jagged diagonal edge."
+  },
+  {
+    "name": "icon-keylines",
+    "category": "ui",
+    "draw": "Square with a circle, an inner square and diagonal lines overlaid, like an icon design template."
+  },
+  {
+    "name": "safe-area",
+    "category": "ui",
+    "draw": "Phone outline with a dashed inner rectangle inset from the rounded corners and the top notch."
+  },
+  {
+    "name": "responsive-design",
+    "category": "ui",
+    "draw": "Monitor, tablet and phone outlines overlapping from large to small, all showing the same layout."
+  },
+  {
+    "name": "gutter-spacing",
+    "category": "ui",
+    "draw": "Two tall columns with a highlighted gap between them marked by a small double headed arrow."
+  },
+  {
+    "name": "breakpoint-ruler",
+    "category": "ui",
+    "draw": "Horizontal ruler with three triangular markers pointing down at different widths."
+  },
+  {
+    "name": "golden-ratio-grid",
+    "category": "ui",
+    "draw": "Rectangle subdivided into shrinking squares with a spiral arc curling through them."
+  },
+  {
+    "name": "cascading-menu",
+    "category": "ui",
+    "draw": "Vertical menu list with one row highlighted and a second menu list opening to its side."
+  },
+  {
+    "name": "mega-menu",
+    "category": "ui",
+    "draw": "Top nav bar with a wide dropdown panel under it holding three columns of short link lines."
+  },
+  {
+    "name": "radial-menu",
+    "category": "ui",
+    "draw": "Circle divided into four pie segments around a small central dot, one segment filled."
+  },
+  {
+    "name": "navigation-rail",
+    "category": "ui",
+    "draw": "Tall narrow vertical bar on the left edge of a window holding a column of four small icon dots."
+  },
+  {
+    "name": "navigation-drawer",
+    "category": "ui",
+    "draw": "Phone outline with a panel sliding in from the left covering most of the screen, list lines inside."
+  },
+  {
+    "name": "bottom-sheet",
+    "category": "ui",
+    "draw": "Phone outline with a rounded card rising from the bottom edge, a small grab bar on its top."
+  },
+  {
+    "name": "action-sheet",
+    "category": "ui",
+    "draw": "Phone outline with a stack of three wide rounded buttons at the bottom and a separate cancel button beneath."
+  },
+  {
+    "name": "side-tabs",
+    "category": "ui",
+    "draw": "Window with a vertical column of tab labels on the left, one of them filled and joined to the content area."
+  },
+  {
+    "name": "segmented-control",
+    "category": "ui",
+    "draw": "Pill shaped bar divided into three equal segments with the first segment filled."
+  },
+  {
+    "name": "infinite-scroll",
+    "category": "ui",
+    "draw": "Stack of list rows fading out at the bottom above an infinity sign."
+  },
+  {
+    "name": "load-more",
+    "category": "ui",
+    "draw": "List of two rows above a wide rounded button containing three dots."
+  },
+  {
+    "name": "pull-refresh-gesture",
+    "category": "ui",
+    "draw": "Phone screen with list rows pushed down and a small circular refresh arrow in the gap at the top."
+  },
+  {
+    "name": "list-swipe-actions",
+    "category": "ui",
+    "draw": "List row slid sideways revealing two small square action buttons at its right end."
+  },
+  {
+    "name": "reorder-list",
+    "category": "ui",
+    "draw": "Three list rows each with a grip dots handle at the left, the middle row lifted and offset."
+  },
+  {
+    "name": "reading-progress",
+    "category": "ui",
+    "draw": "Page outline with a thin bar across the very top that is two thirds filled."
+  },
+  {
+    "name": "parallax-scroll",
+    "category": "ui",
+    "draw": "Three layered horizontal bands, a hill, a tree line and clouds, each with a different length arrow."
+  },
+  {
+    "name": "tab-order",
+    "category": "ui",
+    "draw": "Three small boxes connected by a dashed path with the numbers 1, 2 and 3 above them."
+  },
+  {
+    "name": "focus-ring",
+    "category": "ui",
+    "draw": "Rounded button shape surrounded by a thicker offset outline ring with a small gap between."
+  },
+  {
+    "name": "skip-to-content",
+    "category": "ui",
+    "draw": "Page outline with a small button at the top left and a curved arrow jumping down past the header."
+  },
+  {
+    "name": "tab-bar-mobile",
+    "category": "ui",
+    "draw": "Phone outline with a bottom bar holding four small icon dots, the first one filled and labelled by a short dash."
+  },
+  {
+    "name": "confirmation-dialog",
+    "category": "ui",
+    "draw": "Rounded dialog card with two text lines and two small buttons side by side at the bottom, one filled."
+  },
+  {
+    "name": "input-dialog",
+    "category": "ui",
+    "draw": "Dialog card with a title dash, an empty text field outline and one filled button beneath."
+  },
+  {
+    "name": "coach-mark",
+    "category": "ui",
+    "draw": "Dim rectangle with a bright circular spotlight around a small button and a pointer tooltip beside it."
+  },
+  {
+    "name": "notification-banner",
+    "category": "ui",
+    "draw": "Wide rounded bar at the top of a screen outline with a small bell at the left and a text line."
+  },
+  {
+    "name": "push-notification",
+    "category": "ui",
+    "draw": "Phone outline with a single rounded card near the top showing a small app square and two text lines."
+  },
+  {
+    "name": "skeleton-loader",
+    "category": "ui",
+    "draw": "Card outline with a grey circle placeholder and three rounded grey bars of different lengths."
+  },
+  {
+    "name": "splash-screen",
+    "category": "ui",
+    "draw": "Phone outline with a single bold logo circle in the centre and a small spinner near the bottom."
+  },
+  {
+    "name": "page-not-found",
+    "category": "ui",
+    "draw": "Browser window outline with a large sad face and a short broken link chain beneath."
+  },
+  {
+    "name": "onboarding-screens",
+    "category": "ui",
+    "draw": "Phone outline with a simple illustration circle, a text line and three pagination dots at the bottom."
+  },
+  {
+    "name": "login-form",
+    "category": "ui",
+    "draw": "Card with a user avatar circle on top, two field outlines and a filled button at the bottom."
+  },
+  {
+    "name": "signup-form",
+    "category": "ui",
+    "draw": "Card with three stacked field outlines, a small checkbox line and a wide filled button at the bottom."
+  },
+  {
+    "name": "consent-banner",
+    "category": "ui",
+    "draw": "Wide bar across the bottom of a screen with a cookie circle at the left and two small buttons at the right."
+  },
+  {
+    "name": "chat-launcher",
+    "category": "ui",
+    "draw": "Round floating button with a speech bubble inside, at the bottom right corner of a page outline."
+  },
+  {
+    "name": "read-receipt",
+    "category": "ui",
+    "draw": "Two overlapping check marks side by side, the right one slightly offset."
+  },
+  {
+    "name": "reaction-bar",
+    "category": "ui",
+    "draw": "Pill shaped bar holding a row of four small round faces and hearts."
+  },
+  {
+    "name": "avatar-group",
+    "category": "ui",
+    "draw": "Three overlapping user avatar circles in a row, each with a head and shoulders silhouette."
+  },
+  {
+    "name": "activity-feed",
+    "category": "ui",
+    "draw": "Vertical line with three dots along it, each dot followed by a short text line to the right."
+  },
+  {
+    "name": "tag-cloud",
+    "category": "ui",
+    "draw": "Cluster of rounded pill tags of different widths stacked loosely in three rows."
+  },
+  {
+    "name": "corner-ribbon",
+    "category": "ui",
+    "draw": "Card outline with a diagonal band across its top right corner."
+  },
+  {
+    "name": "placeholder-box",
+    "category": "ui",
+    "draw": "Square outline with two diagonal lines crossing from corner to corner."
+  },
+  {
+    "name": "iframe-embed",
+    "category": "ui",
+    "draw": "Browser window outline with a smaller inset window inside holding angle brackets."
+  },
+  {
+    "name": "testimonial-card",
+    "category": "ui",
+    "draw": "Card with a large quote mark at the top, two text lines and a small avatar circle at the bottom."
+  },
+  {
+    "name": "ripple-effect",
+    "category": "ui",
+    "draw": "Fingertip touching a button with two concentric circles spreading out from the touch point."
+  },
+  {
+    "name": "hover-card",
+    "category": "ui",
+    "draw": "Arrow cursor resting over an underlined word with a small profile card floating above it."
+  },
+  {
+    "name": "ad-slot",
+    "category": "ui",
+    "draw": "Wide rectangle with dashed border and a small corner tag, marking a reserved ad space."
+  },
+  {
+    "name": "button-group",
+    "category": "ui",
+    "draw": "Three rectangular buttons joined edge to edge in a single rounded strip."
+  },
+  {
+    "name": "split-button",
+    "category": "ui",
+    "draw": "Rounded button divided by a vertical line into a wide label part and a narrow part with a down caret."
+  },
+  {
+    "name": "icon-button",
+    "category": "ui",
+    "draw": "Circle button outline containing a small star glyph at its centre."
+  },
+  {
+    "name": "toggle-button",
+    "category": "ui",
+    "draw": "Rounded square button drawn sunken with an inner shadow and a bold B letter."
+  },
+  {
+    "name": "knob-control",
+    "category": "ui",
+    "draw": "Round rotary knob with a pointer notch and small tick marks arced around its lower half."
+  },
+  {
+    "name": "number-input",
+    "category": "ui",
+    "draw": "Field outline holding a number dash with small stacked up and down carets at its right end."
+  },
+  {
+    "name": "quantity-selector",
+    "category": "ui",
+    "draw": "Pill outline with a minus sign at the left, a number dash in the middle and a plus sign at the right."
+  },
+  {
+    "name": "stepped-slider",
+    "category": "ui",
+    "draw": "Horizontal track with five small tick marks beneath and a round thumb resting on the third tick."
+  },
+  {
+    "name": "hue-slider",
+    "category": "ui",
+    "draw": "Horizontal bar with vertical gradient bands and a small circular handle sitting on it."
+  },
+  {
+    "name": "checkbox-indeterminate",
+    "category": "ui",
+    "draw": "Rounded square with a short thick horizontal dash across its centre."
+  },
+  {
+    "name": "likert-scale",
+    "category": "ui",
+    "draw": "Row of five circles along a line with the fourth circle filled."
+  },
+  {
+    "name": "scroll-wheel-picker",
+    "category": "ui",
+    "draw": "Rounded panel with three stacked rows where the middle row is highlighted by two lines and the outer rows fade."
+  },
+  {
+    "name": "time-picker",
+    "category": "ui",
+    "draw": "Clock face beside two small stacked number boxes separated by a colon."
+  },
+  {
+    "name": "date-range-picker",
+    "category": "ui",
+    "draw": "Small calendar grid with a filled capsule highlight running across three adjacent days."
+  },
+  {
+    "name": "text-area",
+    "category": "ui",
+    "draw": "Tall field outline with three text lines and small diagonal resize marks in its bottom right corner."
+  },
+  {
+    "name": "autocomplete",
+    "category": "ui",
+    "draw": "Search field with typed letters and a dropdown beneath showing two suggestion rows, the first highlighted."
+  },
+  {
+    "name": "tag-input",
+    "category": "ui",
+    "draw": "Field outline containing two small pill tags, each with a tiny x, followed by a text cursor."
+  },
+  {
+    "name": "filter-chip",
+    "category": "ui",
+    "draw": "Rounded pill with a small check at the left and a short label dash."
+  },
+  {
+    "name": "file-dropzone",
+    "category": "ui",
+    "draw": "Dashed rounded rectangle with a document shape and an arrow pointing down into it."
+  },
+  {
+    "name": "password-strength",
+    "category": "ui",
+    "draw": "Password field of dots above a bar of four segments with the first three filled."
+  },
+  {
+    "name": "rich-text-editor",
+    "category": "ui",
+    "draw": "Window with a toolbar of B, I and U letters on top and text lines in the area below."
+  },
+  {
+    "name": "numeric-keypad",
+    "category": "ui",
+    "draw": "Three by four grid of small rounded keys with a taller key at the bottom right."
+  },
+  {
+    "name": "dial-pad",
+    "category": "ui",
+    "draw": "Three by four grid of small circles with a filled green style call circle beneath."
+  },
+  {
+    "name": "switch-list",
+    "category": "ui",
+    "draw": "Three stacked rows each ending in a small toggle switch, the first two switched on."
+  },
+  {
+    "name": "video-chapters",
+    "category": "ui",
+    "draw": "Horizontal progress track split into four segments by small gaps, the first two filled."
+  },
+  {
+    "name": "video-player",
+    "category": "ui",
+    "draw": "Wide rectangle with a play triangle in the centre and a thin progress bar with controls along the bottom."
+  },
+  {
+    "name": "sentiment-slider",
+    "category": "ui",
+    "draw": "Horizontal track from a sad face at the left to a happy face at the right with a thumb near the right end."
+  },
+  {
+    "name": "cursor-wait",
+    "category": "ui",
+    "draw": "Arrow pointer with a small hourglass hanging to its lower right."
+  },
+  {
+    "name": "cursor-progress",
+    "category": "ui",
+    "draw": "Arrow pointer with a small partial spinner circle beside its tail."
+  },
+  {
+    "name": "cursor-grabbing",
+    "category": "ui",
+    "draw": "Closed fist hand viewed from the back with knuckles curled down, as when dragging."
+  },
+  {
+    "name": "cursor-context-menu",
+    "category": "ui",
+    "draw": "Arrow pointer with a tiny menu card of three lines at its lower right."
+  },
+  {
+    "name": "cursor-cell",
+    "category": "ui",
+    "draw": "Thick bold plus sign with hollow outlined arms, like a spreadsheet cell cursor."
+  },
+  {
+    "name": "cursor-col-resize",
+    "category": "ui",
+    "draw": "Two short vertical bars side by side with small arrowheads pointing outward from them."
+  },
+  {
+    "name": "cursor-alias",
+    "category": "ui",
+    "draw": "Arrow pointer with a small curved shortcut arrow at its lower right."
+  },
+  {
+    "name": "cursor-drag",
+    "category": "ui",
+    "draw": "Arrow pointer carrying a small dashed rectangle attached to its tail."
+  },
+  {
+    "name": "collaborator-cursors",
+    "category": "ui",
+    "draw": "Two arrow pointers at different angles, each trailing a small name tag rectangle."
+  },
+  {
+    "name": "mouse-scroll",
+    "category": "ui",
+    "draw": "Computer mouse outline with a tall scroll wheel and small arrow chevrons above and below it."
+  },
+  {
+    "name": "double-click",
+    "category": "ui",
+    "draw": "Arrow pointer with two nested arc lines radiating from its tip."
+  },
+  {
+    "name": "touch-target",
+    "category": "ui",
+    "draw": "Fingertip over a small button with a dashed square around the button showing the tap area."
+  },
+  {
+    "name": "laser-pointer",
+    "category": "ui",
+    "draw": "Arrow pointer surrounded by a soft glowing dot and short radiating lines."
+  },
+  {
+    "name": "inspect-element",
+    "category": "ui",
+    "draw": "Arrow pointer resting on the corner of a dashed rectangle outline inside a larger square."
+  },
+  {
+    "name": "key-escape",
+    "category": "ui",
+    "draw": "Rounded square keycap with the letters esc written on its face."
+  },
+  {
+    "name": "key-tab",
+    "category": "ui",
+    "draw": "Wide rounded keycap with an arrow pointing to a vertical bar on its face."
+  },
+  {
+    "name": "key-shift",
+    "category": "ui",
+    "draw": "Rounded keycap containing an outlined upward house shaped shift arrow."
+  },
+  {
+    "name": "key-capslock",
+    "category": "ui",
+    "draw": "Rounded keycap with an outlined shift arrow above a short bar and a tiny indicator dot."
+  },
+  {
+    "name": "key-control",
+    "category": "ui",
+    "draw": "Rounded keycap with the letters ctrl written on its face."
+  },
+  {
+    "name": "key-option",
+    "category": "ui",
+    "draw": "Rounded keycap with the option symbol on its face: a line that steps down diagonally, with a short separate bar above its right end."
+  },
+  {
+    "name": "key-function",
+    "category": "ui",
+    "draw": "Rounded keycap with the letters fn written on its face."
+  },
+  {
+    "name": "key-backspace",
+    "category": "ui",
+    "draw": "Keycap containing a pentagon shaped delete arrow pointing to one side with a small x inside."
+  },
+  {
+    "name": "key-delete",
+    "category": "ui",
+    "draw": "Rounded keycap with the letters del written on its face."
+  },
+  {
+    "name": "key-spacebar",
+    "category": "ui",
+    "draw": "Very wide flat keycap with a small open bracket symbol underlined in its centre."
+  },
+  {
+    "name": "key-home",
+    "category": "ui",
+    "draw": "Rounded keycap with the word home written on its face."
+  },
+  {
+    "name": "key-end",
+    "category": "ui",
+    "draw": "Rounded keycap with the word end written on its face."
+  },
+  {
+    "name": "key-insert",
+    "category": "ui",
+    "draw": "Rounded keycap with the letters ins written on its face."
+  },
+  {
+    "name": "key-print-screen",
+    "category": "ui",
+    "draw": "Rounded keycap with a tiny screen outline and the letters prt sc beneath."
+  },
+  {
+    "name": "key-menu",
+    "category": "ui",
+    "draw": "Rounded keycap with a small menu list glyph of three lines inside a tiny rectangle."
+  },
+  {
+    "name": "key-eject",
+    "category": "ui",
+    "draw": "Rounded keycap with an upward triangle above a flat bar."
+  },
+  {
+    "name": "key-enter",
+    "category": "ui",
+    "draw": "Tall L shaped keycap with a bent return arrow on its face."
+  },
+  {
+    "name": "function-keys",
+    "category": "ui",
+    "draw": "Row of four small keycaps labelled F1 to F4 with a slightly larger gap before the last."
+  },
+  {
+    "name": "arrow-keys",
+    "category": "ui",
+    "draw": "Four keycaps arranged in an inverted T, each with a small triangle pointing outward."
+  },
+  {
+    "name": "wasd-keys",
+    "category": "ui",
+    "draw": "Four keycaps in an inverted T with the letters W, A, S and D on them."
+  },
+  {
+    "name": "key-combo",
+    "category": "ui",
+    "draw": "Two keycaps side by side joined by a small plus sign between them."
+  },
+  {
+    "name": "keyboard-brightness",
+    "category": "ui",
+    "draw": "Small keyboard outline with short rays fanning out from its top edge."
+  },
+  {
+    "name": "keyboard-language",
+    "category": "ui",
+    "draw": "Keyboard outline with a small globe in the top right corner."
+  },
+  {
+    "name": "voice-typing",
+    "category": "ui",
+    "draw": "Keyboard outline with a small microphone sitting above its centre."
+  },
+  {
+    "name": "handwriting-input",
+    "category": "ui",
+    "draw": "Rectangle input area with a looping handwritten stroke and a small pen tip at its end."
+  },
+  {
+    "name": "shortcut-cheatsheet",
+    "category": "ui",
+    "draw": "Card with two columns of small keycap squares beside short description lines."
+  },
+  {
+    "name": "sticky-keys",
+    "category": "ui",
+    "draw": "Keycap with a shift arrow on it and a small pushpin pressed into its top edge."
+  },
+  {
+    "name": "mouse-buttons",
+    "category": "ui",
+    "draw": "Computer mouse outline with its two top buttons outlined and the left one filled."
+  },
+  {
+    "name": "trackpad-gesture",
+    "category": "ui",
+    "draw": "Rounded rectangle trackpad with two fingertip dots and small arrows showing a two finger swipe."
+  },
+  {
+    "name": "vibration-mode",
+    "category": "ui",
+    "draw": "Phone outline with pairs of short zigzag lines on both sides showing vibration."
+  },
+  {
+    "name": "auto-rotate",
+    "category": "ui",
+    "draw": "Phone outline tilted with two curved arrows circling around it."
+  },
+  {
+    "name": "system-theme",
+    "category": "ui",
+    "draw": "Circle split vertically, the left half a small sun and the right half a crescent moon."
+  },
+  {
+    "name": "blue-light-filter",
+    "category": "ui",
+    "draw": "Screen outline with a small crescent and short rays and a warm tinted lower half."
+  },
+  {
+    "name": "screen-time",
+    "category": "ui",
+    "draw": "Phone outline with a small hourglass on its screen."
+  },
+  {
+    "name": "restart-device",
+    "category": "ui",
+    "draw": "Power symbol whose circle is drawn as a circular arrow looping back on itself."
+  },
+  {
+    "name": "system-update",
+    "category": "ui",
+    "draw": "Phone outline with a circular arrow on the screen and a small down arrow in its centre."
+  },
+  {
+    "name": "data-saver",
+    "category": "ui",
+    "draw": "Circle with a gap at the top and a small plus sign in its centre."
+  },
+  {
+    "name": "data-roaming",
+    "category": "ui",
+    "draw": "Signal bars with a small capital R above the tallest bar."
+  },
+  {
+    "name": "haptics",
+    "category": "ui",
+    "draw": "Fingertip pressing a surface with short curved vibration lines on both sides."
+  },
+  {
+    "name": "developer-options",
+    "category": "ui",
+    "draw": "Phone outline with a pair of curly braces in the centre of its screen."
+  },
+  {
+    "name": "invert-colors",
+    "category": "ui",
+    "draw": "Water drop shape split vertically with one half filled and one half outlined."
+  },
+  {
+    "name": "grayscale-mode",
+    "category": "ui",
+    "draw": "Circle filled with three vertical stripes in solid, hatched and empty fills."
+  },
+  {
+    "name": "storage-meter",
+    "category": "ui",
+    "draw": "Horizontal capsule bar mostly filled with a small database cylinder at its left."
+  },
+  {
+    "name": "gaming-mode",
+    "category": "ui",
+    "draw": "Phone outline turned landscape with a small gamepad shape on its screen."
+  },
+  {
+    "name": "one-handed-mode",
+    "category": "ui",
+    "draw": "Phone outline with its screen content shrunk into the lower right half and a thumb arc beside it."
+  },
+  {
+    "name": "refresh-rate",
+    "category": "ui",
+    "draw": "Screen outline with three motion lines behind a small moving ball and a tiny Hz label."
+  },
+  {
+    "name": "screen-resolution",
+    "category": "ui",
+    "draw": "Screen outline with a small grid of pixels in one corner and diagonal arrows at two corners."
+  },
+  {
+    "name": "battery-health",
+    "category": "ui",
+    "draw": "Horizontal battery outline with a small heart inside it."
+  },
+  {
+    "name": "usb-tethering",
+    "category": "ui",
+    "draw": "Phone outline connected by a cable to a small globe."
+  },
+  {
+    "name": "kids-mode",
+    "category": "ui",
+    "draw": "Phone outline with a smiling round face and a star on its screen."
+  },
+  {
+    "name": "shape-union",
+    "category": "ui",
+    "draw": "Two overlapping squares merged into one filled combined outline."
+  },
+  {
+    "name": "shape-subtract",
+    "category": "ui",
+    "draw": "Filled square with a second overlapping square cut away from its corner, shown only as a dashed outline."
+  },
+  {
+    "name": "shape-intersect",
+    "category": "ui",
+    "draw": "Two overlapping squares outlined with only their overlapping area filled."
+  },
+  {
+    "name": "shape-exclude",
+    "category": "ui",
+    "draw": "Two overlapping squares filled except for their shared overlapping area."
+  },
+  {
+    "name": "group-objects",
+    "category": "ui",
+    "draw": "Circle and square inside a dashed bounding box with small square handles at its corners."
+  },
+  {
+    "name": "ungroup-objects",
+    "category": "ui",
+    "draw": "Circle and square spread apart, each inside its own small dashed box."
+  },
+  {
+    "name": "distribute-spacing",
+    "category": "ui",
+    "draw": "Three small rectangles in a row with equal gaps marked by short arrows between them."
+  },
+  {
+    "name": "clipping-mask",
+    "category": "ui",
+    "draw": "Photo mountain shape visible only inside a circle, with the outside of the square shown dashed."
+  },
+  {
+    "name": "flatten-layers",
+    "category": "ui",
+    "draw": "Three stacked diamond layers pressed down into a single flat diamond by an arrow."
+  },
+  {
+    "name": "blend-mode",
+    "category": "ui",
+    "draw": "Two overlapping circles, the left one solid and the right one hatched, with their shared lens area left empty and a small down caret beneath."
+  },
+  {
+    "name": "drop-shadow",
+    "category": "ui",
+    "draw": "Square outline with a filled offset square behind its lower right."
+  },
+  {
+    "name": "inner-shadow",
+    "category": "ui",
+    "draw": "Square outline with a thick shaded band along its inside top and left edges."
+  },
+  {
+    "name": "corner-radius",
+    "category": "ui",
+    "draw": "Corner of a square with a rounded arc at the top right and a small radius arrow inside it."
+  },
+  {
+    "name": "stroke-width",
+    "category": "ui",
+    "draw": "Three horizontal lines stacked from thin to thick."
+  },
+  {
+    "name": "dashed-stroke",
+    "category": "ui",
+    "draw": "Horizontal dashed line above a dotted line above a solid line."
+  },
+  {
+    "name": "border-all",
+    "category": "ui",
+    "draw": "Square divided into four cells with every outer and inner line drawn bold."
+  },
+  {
+    "name": "border-outer",
+    "category": "ui",
+    "draw": "Square with a bold outer edge and faint dotted inner dividing lines."
+  },
+  {
+    "name": "border-inner",
+    "category": "ui",
+    "draw": "Square with faint dotted outer edge and bold inner cross lines."
+  },
+  {
+    "name": "line-tool",
+    "category": "ui",
+    "draw": "Diagonal straight line with a small square handle at each end."
+  },
+  {
+    "name": "connector-line",
+    "category": "ui",
+    "draw": "Two small boxes joined by an elbow line with an arrowhead at one end."
+  },
+  {
+    "name": "skew-tool",
+    "category": "ui",
+    "draw": "Square outline with a slanted parallelogram overlaid and a sideways arrow at the top."
+  },
+  {
+    "name": "perspective-grid",
+    "category": "ui",
+    "draw": "Grid of lines converging toward a vanishing point near the top centre."
+  },
+  {
+    "name": "warp-tool",
+    "category": "ui",
+    "draw": "Rectangle mesh grid with its lines bulging outward in a curved wave."
+  },
+  {
+    "name": "slice-tool",
+    "category": "ui",
+    "draw": "Small knife blade cutting diagonally across the corner of a square grid."
+  },
+  {
+    "name": "healing-brush",
+    "category": "ui",
+    "draw": "Round brush tip with a small adhesive bandage laid across it."
+  },
+  {
+    "name": "dodge-tool",
+    "category": "ui",
+    "draw": "Lollipop shape: a circle on a straight handle, drawn outlined."
+  },
+  {
+    "name": "smudge-tool",
+    "category": "ui",
+    "draw": "Pointing fingertip dragging a smeared wavy streak behind it."
+  },
+  {
+    "name": "mirror-symmetry",
+    "category": "ui",
+    "draw": "Vertical dashed axis with a half heart on the left and its mirrored outline on the right."
+  },
+  {
+    "name": "tone-curve",
+    "category": "ui",
+    "draw": "Square graph with a diagonal S shaped curve running from bottom left to top right."
+  },
+  {
+    "name": "vignette",
+    "category": "ui",
+    "draw": "Rectangle with a clear oval in the centre and hatched shading toward its corners."
+  },
+  {
+    "name": "hotspot-area",
+    "category": "ui",
+    "draw": "Screen outline with a dashed rectangle over a button and a pointing hand inside it."
+  },
+  {
+    "name": "prototype-flow",
+    "category": "ui",
+    "draw": "Two small screen rectangles joined by a curved arrow from a dot on the first screen."
+  },
+  {
+    "name": "screen-flow",
+    "category": "ui",
+    "draw": "Three small phone screens in a row connected by arrows from left to right."
+  },
+  {
+    "name": "keyframe",
+    "category": "ui",
+    "draw": "Horizontal timeline line with two filled diamonds on it."
+  },
+  {
+    "name": "motion-path",
+    "category": "ui",
+    "draw": "Small ball at the start of a dashed curving path that ends in an arrowhead."
+  },
+  {
+    "name": "animation-timeline",
+    "category": "ui",
+    "draw": "Panel with three horizontal tracks, colored bars on them and a vertical playhead line."
+  },
+  {
+    "name": "onion-skin",
+    "category": "ui",
+    "draw": "Three identical ball shapes drawn in a row, two faint outlines behind one solid."
+  },
+  {
+    "name": "before-after",
+    "category": "ui",
+    "draw": "Photo rectangle split by a vertical handle line with a round drag knob in the middle."
+  },
+  {
+    "name": "actual-size",
+    "category": "ui",
+    "draw": "Square outline containing the ratio 1:1."
+  },
+  {
+    "name": "measure-distance",
+    "category": "ui",
+    "draw": "Two small boxes with a double headed arrow between them and a number dash above."
+  },
+  {
+    "name": "artboard-grid",
+    "category": "ui",
+    "draw": "Four small artboard rectangles in a two by two grid, each with a tiny label dash above."
+  },
+  {
+    "name": "component-instance",
+    "category": "ui",
+    "draw": "Diamond outline with a smaller hollow diamond inside, marking a linked copy."
+  },
+  {
+    "name": "type-scale",
+    "category": "ui",
+    "draw": "The letter A repeated three times from large to small along a baseline."
+  },
+  {
+    "name": "color-tokens",
+    "category": "ui",
+    "draw": "Row of four vertical swatch strips from dark to light."
+  },
+  {
+    "name": "persona-card",
+    "category": "ui",
+    "draw": "Card with a user avatar at the top left and three short trait lines beside it."
+  },
+  {
+    "name": "table-row",
+    "category": "ui",
+    "draw": "Grid of three rows by three columns with the middle row filled solid."
+  },
+  {
+    "name": "table-column",
+    "category": "ui",
+    "draw": "Grid of three rows by three columns with the middle column filled solid."
+  },
+  {
+    "name": "table-cell",
+    "category": "ui",
+    "draw": "Grid of three by three cells with only the centre cell filled."
+  },
+  {
+    "name": "table-header-row",
+    "category": "ui",
+    "draw": "Table grid with its top row filled and bold, and three lighter rows beneath."
+  },
+  {
+    "name": "merge-cells",
+    "category": "ui",
+    "draw": "Two adjacent table cells joined into one wide cell with arrows pointing inward to the middle."
+  },
+  {
+    "name": "split-cells",
+    "category": "ui",
+    "draw": "One wide table cell with a vertical divider and arrows pointing outward to each side."
+  },
+  {
+    "name": "freeze-panes",
+    "category": "ui",
+    "draw": "Table grid with the top row and first column drawn thicker and a small snowflake in the corner."
+  },
+  {
+    "name": "banded-rows",
+    "category": "ui",
+    "draw": "Table with alternating filled and empty rows."
+  },
+  {
+    "name": "comparison-table",
+    "category": "ui",
+    "draw": "Table with three columns, the rows marked by small checks and dashes in each cell."
+  },
+  {
+    "name": "key-value-list",
+    "category": "ui",
+    "draw": "Two columns of short lines, bold labels on the left and lighter values on the right."
+  },
+  {
+    "name": "conditional-formatting",
+    "category": "ui",
+    "draw": "Small table grid where some cells are filled in solid, hatched and empty patterns."
+  },
+  {
+    "name": "fill-handle",
+    "category": "ui",
+    "draw": "Selected table cell with a thick border and a small filled square on its bottom right corner."
+  },
+  {
+    "name": "transpose",
+    "category": "ui",
+    "draw": "Small table grid with a curved arrow turning it from rows into columns."
+  },
+  {
+    "name": "spreadsheet-grid",
+    "category": "ui",
+    "draw": "Grid with a lettered header row A, B, C and a numbered first column."
+  },
+  {
+    "name": "nested-table",
+    "category": "ui",
+    "draw": "Table grid with a smaller table grid inside one of its cells."
+  },
+  {
+    "name": "line-numbers",
+    "category": "ui",
+    "draw": "Column of the digits 1, 2 and 3 on the left beside three text lines."
+  },
+  {
+    "name": "code-folding",
+    "category": "ui",
+    "draw": "Three code lines with a small minus box at the start and the lower lines indented."
+  },
+  {
+    "name": "minimap",
+    "category": "ui",
+    "draw": "Editor window with a narrow strip at the right edge showing tiny text lines and a highlighted viewport box."
+  },
+  {
+    "name": "multi-cursor",
+    "category": "ui",
+    "draw": "Three short text lines each ending in a tall I beam cursor at the same column."
+  },
+  {
+    "name": "indent-guides",
+    "category": "ui",
+    "draw": "Code lines at three indent levels with thin dotted vertical lines marking each level."
+  },
+  {
+    "name": "show-whitespace",
+    "category": "ui",
+    "draw": "Text line with small dots between words and a pilcrow mark at its end."
+  },
+  {
+    "name": "find-and-replace",
+    "category": "ui",
+    "draw": "Magnifying glass beside the letters A and B joined by a small arrow."
+  },
+  {
+    "name": "text-selection-handles",
+    "category": "ui",
+    "draw": "Highlighted text line with a teardrop handle at each end of the selection."
+  },
+  {
+    "name": "select-all",
+    "category": "ui",
+    "draw": "Dashed square with small corner handles surrounding three solid lines of content."
+  },
+  {
+    "name": "deselect",
+    "category": "ui",
+    "draw": "Dashed square selection frame with a small diagonal slash through its corner."
+  },
+  {
+    "name": "invert-selection",
+    "category": "ui",
+    "draw": "Square split diagonally with the outer area filled and the inner shape dashed."
+  },
+  {
+    "name": "distraction-free-mode",
+    "category": "ui",
+    "draw": "Screen outline with only a single short text line in its centre and wide empty margins."
+  },
+  {
+    "name": "reader-view",
+    "category": "ui",
+    "draw": "Browser window with a centred column of text lines and a small open book in the top bar."
+  },
+  {
+    "name": "word-wrap-toggle",
+    "category": "ui",
+    "draw": "Text line that bends at the right edge with a hooked arrow back to the start of the next line."
+  },
+  {
+    "name": "go-to-line",
+    "category": "ui",
+    "draw": "Text lines with a small arrow pointing to the highlighted third line and a hash sign."
+  },
+  {
+    "name": "comment-out",
+    "category": "ui",
+    "draw": "Two forward slashes before a faded text line."
+  },
+  {
+    "name": "syntax-highlight",
+    "category": "ui",
+    "draw": "Three code lines where some word dashes are filled solid and others are outlined."
+  },
+  {
+    "name": "format-document",
+    "category": "ui",
+    "draw": "Uneven text lines on the left and neatly aligned lines on the right joined by an arrow."
+  },
+  {
+    "name": "bracket-pair",
+    "category": "ui",
+    "draw": "Opening and closing curly braces with a small matching dot under each."
+  },
+  {
+    "name": "split-editor",
+    "category": "ui",
+    "draw": "Window divided into two panes by a vertical line, each with code lines."
+  },
+  {
+    "name": "text-direction-vertical",
+    "category": "ui",
+    "draw": "Vertical column of small letter blocks with a downward arrow beside it."
+  },
+  {
+    "name": "view-thumbnails",
+    "category": "ui",
+    "draw": "Three by three grid of small image squares each with a tiny mountain."
+  },
+  {
+    "name": "miller-columns",
+    "category": "ui",
+    "draw": "Three narrow side by side columns of list rows, with a highlighted row in each leading to the next."
+  },
+  {
+    "name": "two-page-spread",
+    "category": "ui",
+    "draw": "Open book spread of two facing page rectangles with text lines on each."
+  },
+  {
+    "name": "continuous-scroll-view",
+    "category": "ui",
+    "draw": "Two page rectangles stacked vertically with a small scroll arrow at their right."
+  },
+  {
+    "name": "presentation-mode",
+    "category": "ui",
+    "draw": "Screen on a small tripod stand showing a play triangle."
+  },
+  {
+    "name": "slide-sorter",
+    "category": "ui",
+    "draw": "Grid of six small slide rectangles in two rows, one with a bold outline."
+  },
+  {
+    "name": "speaker-notes",
+    "category": "ui",
+    "draw": "Slide rectangle above a lined notes area with a small speech bubble."
+  },
+  {
+    "name": "density-compact",
+    "category": "ui",
+    "draw": "Five tight horizontal lines packed closely together."
+  },
+  {
+    "name": "density-comfortable",
+    "category": "ui",
+    "draw": "Three horizontal lines spaced widely apart with generous gaps."
+  },
+  {
+    "name": "view-360",
+    "category": "ui",
+    "draw": "Cube outline with an elliptical arrow circling around it."
+  },
+  {
+    "name": "ar-view",
+    "category": "ui",
+    "draw": "Cube outline framed by four corner brackets."
+  },
+  {
+    "name": "view-3d",
+    "category": "ui",
+    "draw": "Wireframe cube with three short axis arrows from one corner."
+  },
+  {
+    "name": "timeline-view",
+    "category": "ui",
+    "draw": "Horizontal line with three bars of different lengths staggered above and below it."
+  },
+  {
+    "name": "focus-view",
+    "category": "ui",
+    "draw": "Single card centred with two faded cards cut off at the left and right edges."
+  },
+  {
+    "name": "outline-mode",
+    "category": "ui",
+    "draw": "Shape drawn only as thin wireframe outlines with no fill, like a circle and square overlapping."
+  },
+  {
+    "name": "infinite-canvas",
+    "category": "ui",
+    "draw": "Dotted grid that fades out at the edges with an infinity sign in the centre."
+  },
+  {
+    "name": "card-flip",
+    "category": "ui",
+    "draw": "Card outline half turned with a curved arrow around its vertical axis."
+  },
+  {
+    "name": "preview-pane",
+    "category": "ui",
+    "draw": "Window with a list on the left and a document with an eye glyph on the right."
+  },
+  {
+    "name": "hot-corner",
+    "category": "ui",
+    "draw": "Screen outline with a filled quarter circle glowing in its top right corner and an arrow pointer heading into it."
+  },
+  {
+    "name": "screen-saver",
+    "category": "ui",
+    "draw": "Monitor outline with a few small stars and a single bouncing ball trail drawn across its dark screen."
+  },
+  {
+    "name": "detach-tab",
+    "category": "ui",
+    "draw": "Row of two browser tabs on a bar with a third tab lifted off below it, trailing a short motion line."
+  },
+  {
+    "name": "tab-overview",
+    "category": "ui",
+    "draw": "Browser frame holding a two by two grid of small rounded tab thumbnails."
+  },
+  {
+    "name": "emoji-rating",
+    "category": "ui",
+    "draw": "Row of three small round faces, frowning, neutral and smiling, with the smiling one filled."
+  },
+  {
+    "name": "vote-counter",
+    "category": "ui",
+    "draw": "Vertical stack of an upward caret, a short number dash and a downward caret."
+  },
+  {
+    "name": "message-composer",
+    "category": "ui",
+    "draw": "Wide rounded text field with a paperclip at the left and a filled paper plane button at the right."
+  },
+  {
+    "name": "figure-caption",
+    "category": "ui",
+    "draw": "Image rectangle with a mountain inside and a short centred caption line beneath it."
+  },
+  {
+    "name": "callout-block",
+    "category": "ui",
+    "draw": "Rounded block with a thick bar along its left edge, a small info circle and two text lines."
+  },
+  {
+    "name": "labeled-divider",
+    "category": "ui",
+    "draw": "Horizontal line broken in the middle by a short rounded label pill."
+  },
+  {
+    "name": "user-chip",
+    "category": "ui",
+    "draw": "Rounded pill with a small avatar circle at the left end and a short name line."
+  },
+  {
+    "name": "transfer-list",
+    "category": "ui",
+    "draw": "Two small list panels side by side with a pair of opposing arrows stacked between them."
+  },
+  {
+    "name": "segmented-progress-bar",
+    "category": "ui",
+    "draw": "Row of four short separated bars along one line, the first two filled."
+  },
+  {
+    "name": "circular-slider",
+    "category": "ui",
+    "draw": "Ring shaped track with an arc filled two thirds of the way round ending in a round knob."
+  },
+  {
+    "name": "on-screen-joystick",
+    "category": "ui",
+    "draw": "Large outlined circle with a smaller filled circle offset inside it toward the upper right."
+  },
+  {
+    "name": "image-hotspot",
+    "category": "ui",
+    "draw": "Photo rectangle with a mountain and a small dot surrounded by a pulsing ring on one peak."
+  },
+  {
+    "name": "annotation-pin",
+    "category": "ui",
+    "draw": "Map style drop pin whose head is a small speech bubble with a number dash inside."
+  },
+  {
+    "name": "resizable-panels",
+    "category": "ui",
+    "draw": "Window split into two panes by a divider with a small grip of vertical dots in its middle."
+  },
+  {
+    "name": "floating-label-field",
+    "category": "ui",
+    "draw": "Field outline with a short label sitting inside a gap on its top border and text inside."
+  },
+  {
+    "name": "input-prefix",
+    "category": "ui",
+    "draw": "Field outline with a small separated box at its left end holding an at sign."
+  },
+  {
+    "name": "input-with-button",
+    "category": "ui",
+    "draw": "Long field outline joined at its right end to a filled rounded button."
+  },
+  {
+    "name": "disclosure-row",
+    "category": "ui",
+    "draw": "Wide list row with a short label line at the left and a small chevron at the right end."
+  },
+  {
+    "name": "radio-card",
+    "category": "ui",
+    "draw": "Rounded card with a filled radio dot in its top left corner and two text lines."
+  },
+  {
+    "name": "pattern-fill",
+    "category": "ui",
+    "draw": "Square outline filled with evenly spaced diagonal hatching lines."
+  },
+  {
+    "name": "noise-texture",
+    "category": "ui",
+    "draw": "Square outline filled with a scattering of tiny random dots of different sizes."
+  },
+  {
+    "name": "outline-stroke",
+    "category": "ui",
+    "draw": "Thick line shape drawn as a hollow outline with rounded ends beside a thin solid line and an arrow."
+  },
+  {
+    "name": "offset-path",
+    "category": "ui",
+    "draw": "Star shape with a second larger star outline drawn around it at an even distance."
+  },
+  {
+    "name": "constrain-proportions",
+    "category": "ui",
+    "draw": "Letters W and H stacked with a small chain link joining them at the side."
+  },
+  {
+    "name": "adjustment-layer",
+    "category": "ui",
+    "draw": "Stack of two layer diamonds with a half filled circle placed on the top layer."
+  },
+  {
+    "name": "component-variants",
+    "category": "ui",
+    "draw": "Dashed rounded rectangle holding three small diamond shapes in a row."
+  },
+  {
+    "name": "stack-layout",
+    "category": "ui",
+    "draw": "Three equal rectangles stacked vertically with equal gaps and a small arrow down the side."
+  },
+  {
+    "name": "flex-wrap",
+    "category": "ui",
+    "draw": "Two rows of small boxes with a bent arrow wrapping from the end of the top row to the start of the next."
+  },
+  {
+    "name": "absolute-position",
+    "category": "ui",
+    "draw": "Frame outline with a small box pinned inside near a corner, dashed lines measuring its offset to two edges."
+  },
+  {
+    "name": "overflow-clip",
+    "category": "ui",
+    "draw": "Frame outline with a larger shape inside cut off at the frame edge and its hidden part dashed."
+  },
+  {
+    "name": "scroll-container",
+    "category": "ui",
+    "draw": "Box outline with content lines cut off at the bottom and a slim scrollbar along its right edge."
+  },
+  {
+    "name": "background-removal",
+    "category": "ui",
+    "draw": "Person head and shoulders silhouette standing over a checkerboard background."
+  },
+  {
+    "name": "object-selection",
+    "category": "ui",
+    "draw": "Simple person silhouette surrounded by a dashed outline following its shape and a small arrow pointer."
+  },
+  {
+    "name": "rgb-channels",
+    "category": "ui",
+    "draw": "Three overlapping circles arranged in a triangle with the shared centre filled."
+  },
+  {
+    "name": "cmyk-channels",
+    "category": "ui",
+    "draw": "Four small overlapping circles in a row, each with a different fill pattern."
+  },
+  {
+    "name": "media-keys",
+    "category": "ui",
+    "draw": "Row of three keycaps showing a skip back symbol, a play pause symbol and a skip forward symbol."
+  },
+  {
+    "name": "key-meta",
+    "category": "ui",
+    "draw": "Rounded keycap with a small filled diamond in its centre."
+  },
+  {
+    "name": "key-sequence",
+    "category": "ui",
+    "draw": "Three small keycaps in a row with short arrows pointing from each to the next."
+  },
+  {
+    "name": "qwerty-layout",
+    "category": "ui",
+    "draw": "Keyboard outline with the letters Q, W, E, R, T, Y on its top row of keys."
+  },
+  {
+    "name": "cursor-rotate",
+    "category": "ui",
+    "draw": "Arrow pointer with a small curved arrow sweeping around its tip."
+  },
+  {
+    "name": "ring-silent-switch",
+    "category": "ui",
+    "draw": "Side edge of a phone with a small sliding switch and a bell glyph beside it."
+  },
+  {
+    "name": "always-on-display",
+    "category": "ui",
+    "draw": "Dark phone outline with a small dim clock dash and one tiny notification dot."
+  },
+  {
+    "name": "locate-device",
+    "category": "ui",
+    "draw": "Phone outline centred inside two concentric radar arcs with a small dot at its top."
+  },
+  {
+    "name": "device-transfer",
+    "category": "ui",
+    "draw": "Two phone outlines side by side with a curved arrow carrying a small document from one to the other."
+  },
+  {
+    "name": "device-pairing",
+    "category": "ui",
+    "draw": "Phone and small earbud case with a dashed line and small link chain between them."
+  },
+  {
+    "name": "navigation-stack",
+    "category": "ui",
+    "draw": "Three screen cards stacked in depth, the front one sliding in from the side with a short arrow."
+  },
+  {
+    "name": "page-curl",
+    "category": "ui",
+    "draw": "Page outline with its bottom right corner peeled up and folded back."
+  },
+  {
+    "name": "search-overlay",
+    "category": "ui",
+    "draw": "Dimmed hatched screen with a bright search field across its top."
+  },
+  {
+    "name": "checkbox-tree",
+    "category": "ui",
+    "draw": "Parent checkbox with a line branching to two indented child checkboxes, one ticked."
+  },
+  {
+    "name": "layout-three-pane",
+    "category": "ui",
+    "draw": "Window split into a narrow folder column, a middle list column and a wide reading pane."
+  },
+  {
+    "name": "layout-auth-split",
+    "category": "ui",
+    "draw": "Rectangle split in half with an image block on one side and two fields and a button on the other."
+  },
+  {
+    "name": "layout-article",
+    "category": "ui",
+    "draw": "Page with a bold title bar, a wide image block beneath and several text lines."
+  },
+  {
+    "name": "layout-product-detail",
+    "category": "ui",
+    "draw": "Page with a square image on the left and a title, price dash and filled button on the right."
+  },
+  {
+    "name": "isolation-mode",
+    "category": "ui",
+    "draw": "Three shapes where one bold circle stands out and the others are faint dashed outlines."
+  },
+  {
+    "name": "grid-overlay",
+    "category": "ui",
+    "draw": "Photo rectangle with a mountain divided by two vertical and two horizontal thin lines into nine parts."
+  },
+  {
+    "name": "rating-prompt",
+    "category": "ui",
+    "draw": "Dialog card with a row of five small stars and two small buttons beneath."
+  },
+  {
+    "name": "feedback-tab",
+    "category": "ui",
+    "draw": "Page outline with a narrow vertical tab stuck to its right edge holding a small speech bubble."
+  },
+  {
+    "name": "loading-overlay",
+    "category": "ui",
+    "draw": "Card outline covered by hatching with a small spinner circle in its centre."
+  },
+  {
+    "name": "stacked-toasts",
+    "category": "ui",
+    "draw": "Three rounded toast bars stacked slightly offset at the bottom of a screen outline."
+  },
+  {
+    "name": "uptime-bar",
+    "category": "ui",
+    "draw": "Row of evenly spaced thin vertical bars with one bar shorter and hatched."
+  },
+  {
+    "name": "resize-grip",
+    "category": "ui",
+    "draw": "Three short diagonal lines of decreasing length tucked into the bottom right corner of a square."
+  },
+  {
+    "name": "frosted-glass",
+    "category": "ui",
+    "draw": "Rounded translucent card drawn over two background circles whose edges appear blurred through it."
+  },
+  {
+    "name": "permission-prompt",
+    "category": "ui",
+    "draw": "Small popup card hanging from an address bar with a line of text and two buttons."
+  },
+  {
+    "name": "page-numbers",
+    "category": "ui",
+    "draw": "Page outline with text lines and a small number 1 centred at its bottom."
+  },
+  {
+    "name": "page-header-footer",
+    "category": "ui",
+    "draw": "Page outline with a filled band at its top and a filled band at its bottom around text lines."
+  },
+  {
+    "name": "watermark",
+    "category": "ui",
+    "draw": "Page outline with a large faint diagonal word stripe running across the text lines."
+  },
+  {
+    "name": "drop-cap",
+    "category": "ui",
+    "draw": "Large bold letter A in the top left of a text block with lines wrapping around it."
+  },
+  {
+    "name": "hyphenation",
+    "category": "ui",
+    "draw": "Text lines where the top line ends with a word broken by a short hyphen."
+  },
+  {
+    "name": "outlined-text",
+    "category": "ui",
+    "draw": "Capital letter A drawn as a hollow outline with a thick stroke."
+  },
+  {
+    "name": "text-shadow",
+    "category": "ui",
+    "draw": "Capital letter A with a filled copy offset behind it to the lower right."
+  },
+  {
+    "name": "small-caps",
+    "category": "ui",
+    "draw": "A tall capital A followed by two shorter capital letters of equal small height."
+  },
+  {
+    "name": "indent-markers",
+    "category": "ui",
+    "draw": "Horizontal ruler with an hourglass shaped marker of two small triangles at its left end."
+  },
+  {
+    "name": "tab-stops",
+    "category": "ui",
+    "draw": "Horizontal ruler with two small L shaped markers standing on its tick marks."
+  },
+  {
+    "name": "read-aloud",
+    "category": "ui",
+    "draw": "Three text lines with a small speaker emitting sound arcs at their right."
+  },
+  {
+    "name": "line-focus",
+    "category": "ui",
+    "draw": "Several faint text lines with one bold line highlighted by a clear band across the middle."
+  },
+  {
+    "name": "remove-duplicates",
+    "category": "ui",
+    "draw": "Two identical table rows, the lower one struck through with a diagonal line."
+  },
+  {
+    "name": "cell-dropdown",
+    "category": "ui",
+    "draw": "Selected table cell with a small down caret button at its right edge and a short list beneath."
+  },
+  {
+    "name": "group-rows",
+    "category": "ui",
+    "draw": "Table rows with a bracket along the left side joining three of them and a small minus box at its top."
+  },
+  {
+    "name": "cell-note",
+    "category": "ui",
+    "draw": "Table cell with a small filled triangle in its top right corner and a tiny note card beside it."
+  },
+  {
+    "name": "sheet-tabs",
+    "category": "ui",
+    "draw": "Grid outline with a row of three small tabs along its bottom edge, the first one filled."
+  },
+  {
+    "name": "decimal-places",
+    "category": "ui",
+    "draw": "Point followed by two zeros with a small arrow beneath showing the digits moving."
+  },
+  {
+    "name": "rotate-text",
+    "category": "ui",
+    "draw": "Letters ab tilted at an angle with a curved arrow arcing beside them."
+  },
+  {
+    "name": "slide-transition",
+    "category": "ui",
+    "draw": "Two slide rectangles overlapping at an angle with a curved arrow from the back one to the front."
+  },
+  {
+    "name": "presentation-handout",
+    "category": "ui",
+    "draw": "Page outline with three small slide rectangles on the left and lines beside each."
+  },
+  {
+    "name": "cursor-chat",
+    "category": "ui",
+    "draw": "Arrow pointer with a small rounded speech bubble attached to its lower right."
+  },
+  {
+    "name": "alpha-slider",
+    "category": "ui",
+    "draw": "Horizontal bar filled with a checkerboard pattern fading to solid, with a small round handle on it."
+  },
+  {
+    "name": "gradient-stops",
+    "category": "ui",
+    "draw": "Horizontal gradient bar with two small pointed stop markers beneath its ends and one in the middle."
+  },
+  {
+    "name": "node-editor",
+    "category": "ui",
+    "draw": "Two rounded boxes with small socket dots on their edges joined by a curved wire."
+  },
+  {
+    "name": "piano-roll",
+    "category": "ui",
+    "draw": "Grid with piano keys along the left edge and short filled note bars placed on the rows."
+  },
+  {
+    "name": "step-sequencer",
+    "category": "ui",
+    "draw": "Four by four grid of small squares with a scattered pattern of filled squares."
+  },
+  {
+    "name": "level-meter",
+    "category": "ui",
+    "draw": "Two vertical columns of stacked short bars, one taller than the other, like an audio meter."
+  },
+  {
+    "name": "transform-origin",
+    "category": "ui",
+    "draw": "Square outline with dashed centre lines and a small circled crosshair at its middle."
+  },
+  {
+    "name": "arrange-in-grid",
+    "category": "ui",
+    "draw": "Scattered small squares on the left and the same squares in a neat grid on the right joined by an arrow."
+  },
+  {
+    "name": "text-on-path",
+    "category": "ui",
+    "draw": "Row of small letter blocks following a curved arc line."
+  },
+  {
+    "name": "glyphs-panel",
+    "category": "ui",
+    "draw": "Panel with a three by three grid of cells each holding a different small letter or symbol."
+  },
+  {
+    "name": "file-dialog",
+    "category": "ui",
+    "draw": "Dialog window with a folder list, a file name field and a filled button at the bottom right."
+  },
+  {
+    "name": "progress-dialog",
+    "category": "ui",
+    "draw": "Dialog card with a title line, a partly filled progress bar and a small cancel button."
+  },
+  {
+    "name": "charge-limit",
+    "category": "ui",
+    "draw": "Horizontal battery outline filled most of the way with a dashed stop line near its end."
+  },
+  {
+    "name": "wifi-calling",
+    "category": "ui",
+    "draw": "Wifi signal arcs with a small telephone handset beneath them."
+  },
+  {
+    "name": "group-by",
+    "category": "ui",
+    "draw": "List rows sorted into two groups, each group topped by a bold header bar."
+  },
+  {
+    "name": "thumbnail-size",
+    "category": "ui",
+    "draw": "Small image square and large image square side by side with a short slider beneath."
+  },
+  {
+    "name": "pointer-trails",
+    "category": "ui",
+    "draw": "Arrow pointer followed by two fading copies of itself trailing behind."
+  },
+  {
+    "name": "pointer-size",
+    "category": "ui",
+    "draw": "Small arrow pointer beside a large arrow pointer with a short double headed arrow between them."
+  },
+  {
+    "name": "link-preview",
+    "category": "ui",
+    "draw": "Card with an image block across its top, a bold title line and a short link line beneath."
+  },
+  {
+    "name": "icon-picker",
+    "category": "ui",
+    "draw": "Popover panel holding a three by three grid of tiny shapes, one of them highlighted."
+  },
+  {
+    "name": "value-scrubber",
+    "category": "ui",
+    "draw": "Number field with a small double headed horizontal arrow cursor hovering over its label."
+  },
+  {
+    "name": "hex-color-field",
+    "category": "ui",
+    "draw": "Field outline with a small filled color square at its left and a hash sign followed by a short dash."
+  },
+  {
+    "name": "unit-input",
+    "category": "ui",
+    "draw": "Field outline with a number dash and a small separated px label at its right end."
+  },
+  {
+    "name": "shortcut-tooltip",
+    "category": "ui",
+    "draw": "Small dark tooltip bubble with a caret, holding a short label line and a tiny keycap square."
+  },
+  {
+    "name": "scroll-snap",
+    "category": "ui",
+    "draw": "Row of three cards with a vertical dashed line through the centre card that it is aligned to."
+  },
+  {
+    "name": "three-way-toggle",
+    "category": "ui",
+    "draw": "Pill shaped switch track with three small position dots and the round knob resting in the middle."
+  },
+  {
+    "name": "split-keyboard",
+    "category": "ui",
+    "draw": "Tablet outline with two separate keyboard halves placed at its lower left and lower right corners."
+  },
+  {
+    "name": "floating-keyboard",
+    "category": "ui",
+    "draw": "Tablet outline with a small compact keyboard panel hovering over the middle of its screen."
+  },
+  {
+    "name": "predictive-text",
+    "category": "ui",
+    "draw": "Row of three rounded word pills sitting above the top edge of a keyboard outline."
+  },
+  {
+    "name": "swipe-typing",
+    "category": "ui",
+    "draw": "Keyboard grid with a single continuous curving line gliding across several keys and ending in a dot."
+  },
+  {
+    "name": "autofill-field",
+    "category": "ui",
+    "draw": "Field outline with a short text dash and a small four pointed sparkle at its right end."
+  },
+  {
+    "name": "text-loupe",
+    "category": "ui",
+    "draw": "Circular magnifier bubble floating above a text line, showing an enlarged I beam cursor inside."
+  },
+  {
+    "name": "text-edit-menu",
+    "category": "ui",
+    "draw": "Small dark pill bar split into three segments with short labels, pointing down at highlighted text."
+  },
+  {
+    "name": "zoom-controls",
+    "category": "ui",
+    "draw": "Two stacked square buttons joined together, the top with a plus and the bottom with a minus."
+  },
+  {
+    "name": "desktop-icons",
+    "category": "ui",
+    "draw": "Screen outline with a column of three small squares at its left, each with a tiny label dash beneath."
+  },
+  {
+    "name": "numbered-pagination",
+    "category": "ui",
+    "draw": "Row of small square buttons holding the digits 1, 2 and 3, with the second one filled."
+  },
+  {
+    "name": "ghost-button",
+    "category": "ui",
+    "draw": "Rounded button drawn only as a dashed outline with a short label line inside."
+  },
+  {
+    "name": "loading-button",
+    "category": "ui",
+    "draw": "Filled rounded button with a small spinner arc in place of its label."
+  },
+  {
+    "name": "disabled-button",
+    "category": "ui",
+    "draw": "Rounded button filled with faint diagonal hatching and a pale label line."
+  },
+  {
+    "name": "underline-tabs",
+    "category": "ui",
+    "draw": "Row of three short tab labels with a thick underline beneath the first and a thin baseline under all."
+  },
+  {
+    "name": "text-truncate",
+    "category": "ui",
+    "draw": "Text line that ends abruptly in three small dots at the edge of a box."
+  }
+]

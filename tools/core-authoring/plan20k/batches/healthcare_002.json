@@ -1,0 +1,416 @@
+[
+ {
+  "name": "patient-portal",
+  "category": "healthcare",
+  "draw": "Browser window with a person avatar in the page and a medical cross in the header bar.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "electronic-health-record",
+  "category": "healthcare",
+  "draw": "Computer monitor showing a document with a medical cross at the top and text lines below.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "home-test-kit",
+  "category": "healthcare",
+  "draw": "Open box holding a swab, a sample tube and a return envelope.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "contact-tracing",
+  "category": "healthcare",
+  "draw": "Smartphone in the center with network lines linking it to small person heads around it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "teledermatology",
+  "category": "healthcare",
+  "draw": "Smartphone camera frame with corner brackets focused on a mole on a patch of skin.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medical-dictation",
+  "category": "healthcare",
+  "draw": "Microphone standing beside a document with a medical cross at the top.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "interpreter-services",
+  "category": "healthcare",
+  "draw": "Two overlapping speech bubbles, one containing the letter A and the other a medical cross.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "pharmacy-counter",
+  "category": "healthcare",
+  "draw": "Counter with a pharmacist figure behind it and shelves of bottles on the wall behind.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "pharmacy-shelves",
+  "category": "healthcare",
+  "draw": "Tall shelving unit with rows of bottles and boxes and a medical cross sign on top.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "pill-pouch-strip",
+  "category": "healthcare",
+  "draw": "Strip of connected clear sachets, each holding a few pills, joined end to end in a short roll.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medication-drop-box",
+  "category": "healthcare",
+  "draw": "Metal drop box on a short post with a pull down slot and a pill bottle symbol on its front.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "drug-interaction",
+  "category": "healthcare",
+  "draw": "Two different pills, a round tablet and a capsule, with a zigzag spark between them.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "dosage-schedule",
+  "category": "healthcare",
+  "draw": "Card split into two columns headed by a sun and a moon with pill dots listed under each.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "herbal-remedy",
+  "category": "healthcare",
+  "draw": "Small tincture bottle with a dropper cap and a leaf sprig beside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "placebo",
+  "category": "healthcare",
+  "draw": "Capsule drawn with a dashed outline and a question mark inside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medication-leaflet",
+  "category": "healthcare",
+  "draw": "Folded paper leaflet opening in panels with a pill symbol and small text lines.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medication-barcode-scan",
+  "category": "healthcare",
+  "draw": "Handheld barcode scanner casting a beam onto the label of a pill bottle.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medical-folder",
+  "category": "healthcare",
+  "draw": "File folder with a medical cross on its front.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "x-ray-envelope",
+  "category": "healthcare",
+  "draw": "Large envelope with a chest x-ray film sliding out of its open top.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medical-records-archive",
+  "category": "healthcare",
+  "draw": "Shelf of upright patient chart folders with colored edge tabs.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "treatment-plan",
+  "category": "healthcare",
+  "draw": "Clipboard with a numbered list, a medical cross at the top and a pill beside the first line.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "symptom-diary",
+  "category": "healthcare",
+  "draw": "Notebook with a small thermometer on its cover and a row of ticked day boxes.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medical-bill",
+  "category": "healthcare",
+  "draw": "Invoice sheet with a medical cross at the top, text lines and a dollar sign by the total.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "hippocratic-oath",
+  "category": "healthcare",
+  "draw": "Open scroll with a rod and serpent symbol at its top and lines of text below.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "surgical-checklist",
+  "category": "healthcare",
+  "draw": "Clipboard with a scalpel at the top and a column of checked boxes.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "vision-insurance",
+  "category": "healthcare",
+  "draw": "Shield with an eye drawn inside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "health-savings-account",
+  "category": "healthcare",
+  "draw": "Piggy bank with a medical cross on its side and a coin above the slot.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medical-tourism",
+  "category": "healthcare",
+  "draw": "Airplane with a medical cross on its tail flying over the curve of a globe.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "blood-type",
+  "category": "healthcare",
+  "draw": "Blood drop with the letters AB inside it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "reference-range",
+  "category": "healthcare",
+  "draw": "Horizontal bar with a shaded middle band and a triangle marker pointing to a value on it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "dna-test-kit",
+  "category": "healthcare",
+  "draw": "Small sample tube holding a cheek swab with a DNA helix on its label.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "blood-culture-bottle",
+  "category": "healthcare",
+  "draw": "Squat round bottle with a flip off cap and a barcode label on its side.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "clinical-trial",
+  "category": "healthcare",
+  "draw": "Conical lab flask with three small person figures in front of it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "patient-journey",
+  "category": "healthcare",
+  "draw": "Dotted path winding from a house to a hospital building with a location pin at the end.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "medical-appointment",
+  "category": "healthcare",
+  "draw": "Calendar page with a medical cross in one of the date squares.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "immunization-schedule",
+  "category": "healthcare",
+  "draw": "Calendar page with a syringe lying diagonally across the date grid.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "second-opinion",
+  "category": "healthcare",
+  "draw": "Two doctor figures facing each other, each with a speech bubble, over a shared clipboard.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "doctor-consultation",
+  "category": "healthcare",
+  "draw": "Doctor and patient figures seated on opposite sides of a desk.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "hospital-discharge",
+  "category": "healthcare",
+  "draw": "Figure carrying a small bag walking out through an open door with a medical cross above it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "care-team",
+  "category": "healthcare",
+  "draw": "Three figures side by side, the middle one wearing a stethoscope, with a heart above them.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "hospital-visit",
+  "category": "healthcare",
+  "draw": "Visitor holding a bunch of flowers standing beside a patient lying in a hospital bed.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "get-well-card",
+  "category": "healthcare",
+  "draw": "Folded greeting card standing open with a flower and a small adhesive bandage on its front.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "hospital-meal-tray",
+  "category": "healthcare",
+  "draw": "Tray holding a plate with a dome cover, a cup with a lid and a small bowl.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "fall-risk",
+  "category": "healthcare",
+  "draw": "Figure tipping backward mid fall with one foot lifted and motion lines under the feet.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "patient-with-iv-pole",
+  "category": "healthcare",
+  "draw": "Figure in a hospital gown walking while holding a wheeled IV pole with a drip bag.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "person-on-crutches",
+  "category": "healthcare",
+  "draw": "Figure walking with two underarm crutches and one leg bent up off the ground.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "vaccination-drive",
+  "category": "healthcare",
+  "draw": "Megaphone with a syringe beside its mouth end.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "outbreak-map",
+  "category": "healthcare",
+  "draw": "Folded map with several virus particle markers clustered in one area.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "herd-immunity",
+  "category": "healthcare",
+  "draw": "Group of person figures, most holding small shields, standing around one figure without a shield.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "arm-circumference-tape",
+  "category": "healthcare",
+  "draw": "Upper arm with a measuring strip divided into three color bands wrapped around it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "surface-disinfection",
+  "category": "healthcare",
+  "draw": "Spray bottle misting over a virus particle on a flat surface.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "uv-disinfection-robot",
+  "category": "healthcare",
+  "draw": "Tall wheeled robot column ringed by glowing light tubes with rays coming off them.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "cough-into-elbow",
+  "category": "healthcare",
+  "draw": "Figure coughing into the crook of a raised bent arm.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "oral-vaccine-drops",
+  "category": "healthcare",
+  "draw": "Dropper releasing two drops into the open mouth of a child's face.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "baby-weighing-sling",
+  "category": "healthcare",
+  "draw": "Hanging spring scale with a round dial and a baby seated in a cloth sling hooked below it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "quit-smoking",
+  "category": "healthcare",
+  "draw": "Cigarette snapped in two with a small gap between the pieces.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "nurse-cap",
+  "category": "healthcare",
+  "draw": "Traditional folded nurse cap seen from the front with a medical cross on it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "nightingale-lamp",
+  "category": "healthcare",
+  "draw": "Old style oil lamp with a long spout and a small flame at the tip.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "orthotic-insole",
+  "category": "healthcare",
+  "draw": "Shoe insole seen from the side with a raised arch contour and a deep heel cup.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "sterile-instrument-pack",
+  "category": "healthcare",
+  "draw": "Pack wrapped envelope style with folded corners and strips of indicator tape across it.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "anatomy-model",
+  "category": "healthcare",
+  "draw": "Human torso model on a stand with half the chest open showing organs inside.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "infant-length-board",
+  "category": "healthcare",
+  "draw": "Baby lying on a measuring board with a fixed headboard and a sliding footboard against the feet.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "pregnancy-wheel",
+  "category": "healthcare",
+  "draw": "Circular dial calculator with an inner rotating disc and a pointer window.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "birthing-pool",
+  "category": "healthcare",
+  "draw": "Round inflatable tub filled with water with wave lines on the surface.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "breast-milk-bag",
+  "category": "healthcare",
+  "draw": "Flat storage pouch with a zip top, measurement lines and a milk drop on the front.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "clinic-locator",
+  "category": "healthcare",
+  "draw": "Map location pin with a medical cross inside its round head.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "bifocals",
+  "category": "healthcare",
+  "draw": "Pair of eyeglasses whose lenses each show a small curved segment line across the lower half.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "urine-color-chart",
+  "category": "healthcare",
+  "draw": "Vertical strip of stacked color swatches shading from light to dark with a drop beside the top swatch.",
+  "domain": "r2-healthcare-services"
+ },
+ {
+  "name": "wheelchair-escort",
+  "category": "healthcare",
+  "draw": "Standing figure pushing a wheelchair with a seated person in it.",
+  "domain": "r2-healthcare-services"
+ }
+]

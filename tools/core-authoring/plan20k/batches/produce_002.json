@@ -1,0 +1,482 @@
+[
+ {
+  "name": "pine-nut",
+  "category": "produce",
+  "draw": "Small pile of slender teardrop kernels, each with a tiny pointed tip.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "mixed-nuts",
+  "category": "produce",
+  "draw": "Small bowl heaped with an almond, a cashew, a walnut and a hazelnut.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "sunflower-seed",
+  "category": "produce",
+  "draw": "Teardrop shaped seed with bold alternating lengthwise stripes.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "pumpkin-seeds",
+  "category": "produce",
+  "draw": "Two flat oval seeds with a raised rim and a pointed tip at one end.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "sesame-seeds",
+  "category": "produce",
+  "draw": "Scatter of small flat teardrop seeds, a few paired together.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "poppy-seed-pod",
+  "category": "produce",
+  "draw": "Round seed capsule with a flat star shaped ridged cap on top and a short stem below.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "lotus-seed-pod",
+  "category": "produce",
+  "draw": "Flat topped cone shaped pod with a round face dotted with seed holes, on a stem.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "grain-kernel",
+  "category": "produce",
+  "draw": "Single oval cereal grain seen from the side with a deep crease line down the middle.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "nutcracker",
+  "category": "produce",
+  "draw": "Hinged hand nutcracker with two long handles and ridged jaws holding a round walnut.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "tomato-slice",
+  "category": "produce",
+  "draw": "Round tomato slice with a skin rim and four seed chambers arranged around a center.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "cherry-tomatoes",
+  "category": "produce",
+  "draw": "Four small round tomatoes hanging from a branching green vine with star shaped caps.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "tomato-plant",
+  "category": "produce",
+  "draw": "Tomato plant tied to a stake with leaves and two round fruits hanging from it.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "cucumber-slice",
+  "category": "produce",
+  "draw": "Round slice with a thin skin rim and an inner three part pattern of seed dots.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "butternut-squash",
+  "category": "produce",
+  "draw": "Squash shaped like a bell with a long narrow neck, a round bulb bottom and a short stem.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "acorn-squash",
+  "category": "produce",
+  "draw": "Round squash with deep vertical ribs and a pointed base, with a thick stem on top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "pattypan-squash",
+  "category": "produce",
+  "draw": "Flying saucer shaped squash with a scalloped edge and a short stem in the center.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "bottle-gourd",
+  "category": "produce",
+  "draw": "Gourd shaped like a bottle with a small round top, a narrow waist and a large round bottom.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "bitter-melon",
+  "category": "produce",
+  "draw": "Long tapered gourd covered in rows of warty ridges and bumps.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "chayote",
+  "category": "produce",
+  "draw": "Pear shaped squash with deep puckered creases gathered at the wide bottom end.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "bell-pepper",
+  "category": "produce",
+  "draw": "Blocky pepper with three rounded lobes at the bottom and a thick curved stem on top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "bell-pepper-half",
+  "category": "produce",
+  "draw": "Bell pepper cut across showing a lobed outline, the inner walls and a central cluster of seeds.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "chili-string",
+  "category": "produce",
+  "draw": "Vertical string of dried chili peppers tied together hanging from a loop.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "okra",
+  "category": "produce",
+  "draw": "Tapered pod with a pointed tip, lengthwise ridges and a cap stem, beside a small star shaped slice.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "green-bean",
+  "category": "produce",
+  "draw": "Three long slender bean pods with gentle curves and small stem ends.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "pea-pod",
+  "category": "produce",
+  "draw": "Open pea pod split along its seam showing a row of round peas inside.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "edamame",
+  "category": "produce",
+  "draw": "Fuzzy pod with three bumps, one bean popping out of the open end.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "cauliflower",
+  "category": "produce",
+  "draw": "Rounded bumpy floret head wrapped at the base by curling leaves.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "romanesco",
+  "category": "produce",
+  "draw": "Cone shaped head made of spiraling small pointed cones.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "cabbage",
+  "category": "produce",
+  "draw": "Round head with broad leaves wrapping it and curved vein lines on the leaves.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "cabbage-half",
+  "category": "produce",
+  "draw": "Cabbage cut in half showing a thick core stem and tightly layered wavy leaf lines.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "napa-cabbage",
+  "category": "produce",
+  "draw": "Tall oblong head with pale ribbed stalks and a crinkled frilly leafy top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "bok-choy",
+  "category": "produce",
+  "draw": "Bundle of thick white spoon shaped stalks flaring into large dark rounded leaves.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "brussels-sprout",
+  "category": "produce",
+  "draw": "Tall stalk studded with small round sprout heads along its length.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "kale",
+  "category": "produce",
+  "draw": "Single long leaf with a thick center rib and a tightly curled frilly edge.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "spinach",
+  "category": "produce",
+  "draw": "Bunch of three smooth spade shaped leaves with long stems.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "swiss-chard",
+  "category": "produce",
+  "draw": "Large crinkled leaf on a thick wide stem rib with branching veins.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "arugula",
+  "category": "produce",
+  "draw": "Narrow leaf with deep rounded lobes along both sides, like a ladder of lobes.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "watercress",
+  "category": "produce",
+  "draw": "Sprig of small round leaflets arranged in pairs along a thin stem.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "endive",
+  "category": "produce",
+  "draw": "Tight torpedo shaped head of overlapping pointed leaves, narrow at the tip.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "celery",
+  "category": "produce",
+  "draw": "Bunch of ribbed stalks with a cluster of small leaves at the top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "asparagus",
+  "category": "produce",
+  "draw": "Bundle of straight spears with scaled pointed tips, tied with a band.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "artichoke",
+  "category": "produce",
+  "draw": "Globe made of layered pointed bracts overlapping like scales, on a short stem.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "leek",
+  "category": "produce",
+  "draw": "Long white cylindrical stem with roots at the bottom and flat leaves fanning out at the top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "green-onion",
+  "category": "produce",
+  "draw": "Three thin straight stalks with small white bulbs and wispy roots at the bottom.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "garlic-clove",
+  "category": "produce",
+  "draw": "Single curved garlic clove with a pointed tip and a flat root end.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "garlic-braid",
+  "category": "produce",
+  "draw": "Braided plait of garlic bulbs hanging from a loop.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "garlic-scape",
+  "category": "produce",
+  "draw": "Long stem curling into a loop with a pointed flower bud at the tip.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "onion-half",
+  "category": "produce",
+  "draw": "Onion cut in half showing concentric ring layers and a small root tuft.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "fennel",
+  "category": "produce",
+  "draw": "Round layered white bulb with stalks rising upward ending in feathery fronds.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "kohlrabi",
+  "category": "produce",
+  "draw": "Round bulb with several leaf stalks sprouting from its sides and top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "beet",
+  "category": "produce",
+  "draw": "Round root with a thin tapering tail at the bottom and leaf stalks with leaves on top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "radish",
+  "category": "produce",
+  "draw": "Small round root with a pointed thin tail, a darker top half and two leaves.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "daikon",
+  "category": "produce",
+  "draw": "Long thick white cylindrical radish tapering at the bottom with leafy tops.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "turnip",
+  "category": "produce",
+  "draw": "Flattened globe root with a clear color band line across the top half and a thin taproot.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "carrot-slices",
+  "category": "produce",
+  "draw": "Three round coin shaped carrot slices with a smaller inner core ring, stacked and overlapping.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "sweet-potato",
+  "category": "produce",
+  "draw": "Long lumpy tuber tapered at both ends with a few root hairs and eye marks.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "cassava",
+  "category": "produce",
+  "draw": "Long tapered root with rough bark ring lines, cut at the thick end to show white flesh.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "taro",
+  "category": "produce",
+  "draw": "Round hairy corm with horizontal ring lines and a short stub on top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "ginger-root",
+  "category": "produce",
+  "draw": "Knobbly branching rhizome with finger like lumps and ring lines on the skin.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "lotus-root",
+  "category": "produce",
+  "draw": "Cross section slice of lotus root showing a round outline with a ring of holes around a center hole.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "bamboo-shoot",
+  "category": "produce",
+  "draw": "Cone shaped shoot wrapped in layered pointed sheaths with a cut base.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "fiddlehead",
+  "category": "produce",
+  "draw": "Tightly coiled young fern frond curling into a spiral at the top of a short stalk.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "rhubarb",
+  "category": "produce",
+  "draw": "Several long stalks with a large wavy crinkled leaf on top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "sugarcane",
+  "category": "produce",
+  "draw": "Two long segmented stalks with visible joint rings and narrow leaves at the top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "wasabi-root",
+  "category": "produce",
+  "draw": "Thick knobbly stem with ring scars and two heart shaped leaves on long stalks.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "bean-sprout",
+  "category": "produce",
+  "draw": "Curved thin white sprout with a small bean head and a thread like root tail.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "potato-plant",
+  "category": "produce",
+  "draw": "Leafy plant above a ground line with several round potatoes hanging on roots below.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "sprouting-potato",
+  "category": "produce",
+  "draw": "Potato with a few short curled sprouts growing out of its eyes.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "squash-blossom",
+  "category": "produce",
+  "draw": "Trumpet shaped flower with pointed petals attached to a small squash.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "kidney-bean",
+  "category": "produce",
+  "draw": "Three kidney shaped beans with a small curved notch on the inner edge.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "black-eyed-pea",
+  "category": "produce",
+  "draw": "Oval bean with a dark eye spot and ring on its inner curve.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "chickpea",
+  "category": "produce",
+  "draw": "Round lumpy bean with a small pointed beak on one side.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "lentils",
+  "category": "produce",
+  "draw": "Small heap of flat round disc shaped lentils.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "mixed-beans",
+  "category": "produce",
+  "draw": "Pile of assorted beans in different shapes: kidney, round and oval with an eye.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "cocoa-pod",
+  "category": "produce",
+  "draw": "Football shaped pod with deep lengthwise ridges and a short stem.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "vanilla-bean",
+  "category": "produce",
+  "draw": "Long thin curved pod lying next to a small open orchid flower.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "carob-pod",
+  "category": "produce",
+  "draw": "Long flat curved pod with wavy edges and a row of seed bumps.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "rice-stalk",
+  "category": "produce",
+  "draw": "Stalk of rice with a drooping panicle of small oval grains hanging at the top.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "rice-grains",
+  "category": "produce",
+  "draw": "Small heap of long oval grains of rice.",
+  "domain": "fruits-vegetables-herbs"
+ },
+ {
+  "name": "barley",
+  "category": "produce",
+  "draw": "Ear of grain with plump kernels and very long straight bristle awns pointing upward.",
+  "domain": "fruits-vegetables-herbs"
+ }
+]

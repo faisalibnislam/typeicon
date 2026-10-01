@@ -1,0 +1,482 @@
+[
+ {
+  "name": "rear-defrost",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a rectangular rear window with three wavy arrows rising through it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "front-defrost",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a curved windshield outline with three wavy arrows rising through it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "door-ajar-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a car seen from above with one door swung open.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "power-steering-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a steering wheel with an exclamation mark beside it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "lane-departure",
+  "category": "vehicles",
+  "draw": "Car seen from behind drifting over one of two dashed lane lines.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "cruise-control",
+  "category": "vehicles",
+  "draw": "Speedometer dial with an arrow above it pointing to a set speed mark.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "seat-heater",
+  "category": "vehicles",
+  "draw": "Side view of a car seat with three wavy heat lines rising from the cushion.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "auto-start-stop",
+  "category": "vehicles",
+  "draw": "Letter A inside a circular arrow that almost closes on itself.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "hill-descent-control",
+  "category": "vehicles",
+  "draw": "Car in side view tilted down a slope with a downward arrow beside it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "all-wheel-drive",
+  "category": "vehicles",
+  "draw": "Chassis diagram seen from above: two axle lines joined by a center shaft with a wheel at all four corners.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "blind-spot-monitor",
+  "category": "vehicles",
+  "draw": "Car seen from above with a curved wave arc sweeping from its rear corner toward a second car.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "air-recirculation",
+  "category": "vehicles",
+  "draw": "Car silhouette in side view with a looping arrow circling inside the cabin.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "carpool",
+  "category": "vehicles",
+  "draw": "Car in side view with three passenger heads visible in the windows.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-crash",
+  "category": "vehicles",
+  "draw": "Two cars meeting nose to nose with crumpled hoods and a starburst between them.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-breakdown",
+  "category": "vehicles",
+  "draw": "Car in side view with the hood raised and smoke rising from the engine.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-insurance",
+  "category": "vehicles",
+  "draw": "Car in side view in front of a large shield outline.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "road-trip",
+  "category": "vehicles",
+  "draw": "Car in side view with a stack of suitcases strapped to the roof rack and a winding road behind.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "learner-driver-plate",
+  "category": "vehicles",
+  "draw": "Square plate showing a bold capital L, for a learner driver sign on a car.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "oil-change",
+  "category": "vehicles",
+  "draw": "Car in side view with an oil drop and a small funnel above its hood.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "truck-camper",
+  "category": "vehicles",
+  "draw": "Pickup truck in side view carrying a boxy camper unit in its bed that overhangs the cab roof.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "skip-loader-truck",
+  "category": "vehicles",
+  "draw": "Truck in side view with two lifting arms holding an open trapezoid skip bin on its back.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "milk-float",
+  "category": "vehicles",
+  "draw": "Small open-sided electric delivery van in side view carrying crates of milk bottles on its flat back.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "ice-resurfacer",
+  "category": "vehicles",
+  "draw": "Boxy rink machine in side view with a driver seated high on top and a wide squeegee trailing a glossy strip.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "surrey-bike",
+  "category": "vehicles",
+  "draw": "Four-wheeled pedal carriage in side view with two riders side by side under a fringed canopy roof.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "motorcycle-racing",
+  "category": "vehicles",
+  "draw": "Racer on a sport motorcycle leaning hard into a corner with one knee almost touching the track.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "race-start-lights",
+  "category": "vehicles",
+  "draw": "Horizontal gantry bar with a row of five round lights, all lit, hanging above a track.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "race-track",
+  "category": "vehicles",
+  "draw": "Closed looping circuit seen from above with a checkered start line across one straight.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "fuel-gauge",
+  "category": "vehicles",
+  "draw": "Semicircle dial marked E and F at the ends with a small fuel pump symbol and a needle near E.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-radio",
+  "category": "vehicles",
+  "draw": "Rectangular car stereo head unit with a small display, a round volume knob and a row of preset buttons.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-charger",
+  "category": "vehicles",
+  "draw": "Cylindrical 12 volt socket plug adapter with a spring tip and two USB ports on its end.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-sun-visor",
+  "category": "vehicles",
+  "draw": "Flip-down sun visor panel hinged along the top with a small vanity mirror on its face.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "windshield-sunshade",
+  "category": "vehicles",
+  "draw": "Windshield shape filled by an accordion-folded shade with vertical pleats.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "turn-signal",
+  "category": "vehicles",
+  "draw": "Two solid arrowheads pointing away from each other with a small gap between them, like the indicator lamps.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "ignition-key",
+  "category": "vehicles",
+  "draw": "Car key inserted into a round ignition barrel with position ticks around it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "engine-start-button",
+  "category": "vehicles",
+  "draw": "Round push button with a power symbol in the center and the words START and STOP around the ring.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "cv-joint",
+  "category": "vehicles",
+  "draw": "Short drive shaft with a ribbed accordion rubber boot at one end and a splined stub.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "obd-scanner",
+  "category": "vehicles",
+  "draw": "Handheld diagnostic reader with a screen and buttons, cable ending in a trapezoid car connector.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bull-bar",
+  "category": "vehicles",
+  "draw": "Front of an off-road vehicle seen head on with a tubular metal guard frame across the grille.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "winter-tire",
+  "category": "vehicles",
+  "draw": "Tire tread in side view with a three-peak mountain and snowflake symbol on its sidewall.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "cycling-computer",
+  "category": "vehicles",
+  "draw": "Small rectangular bike computer with a screen showing digits, clipped to a handlebar.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-pannier",
+  "category": "vehicles",
+  "draw": "Pannier bag with a rolled top hanging from a rear rack beside a bicycle wheel.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bicycle-frame",
+  "category": "vehicles",
+  "draw": "Diamond-shaped bicycle frame with no wheels: top tube, down tube, seat tube, stays and a fork.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "ride-hailing",
+  "category": "vehicles",
+  "draw": "Smartphone showing a map pin with a small car inside it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "hitchhiker",
+  "category": "vehicles",
+  "draw": "Person standing at a roadside with one arm out and thumb raised, a backpack on.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-driver",
+  "category": "vehicles",
+  "draw": "Person seen from the front sitting behind a steering wheel with both hands on it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "news-van",
+  "category": "vehicles",
+  "draw": "Van in side view with a satellite dish and a telescoping mast raised from its roof.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tiny-house-trailer",
+  "category": "vehicles",
+  "draw": "Small house with a pitched roof, door and window sitting on a two-wheeled trailer.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "gullwing-car",
+  "category": "vehicles",
+  "draw": "Low sports car seen from the front with both doors swung straight up like wings.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "abs-warning-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of the letters ABS inside a circle with curved brackets on both sides.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "brake-pad-wear-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a circle flanked by dashed curved brackets like worn pads.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "trunk-open-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a car in side view with its rear trunk lid lifted open.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "water-in-fuel-light",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of a fuel pump with a water droplet beside it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "rear-window-wiper",
+  "category": "vehicles",
+  "draw": "Rounded rectangle rear window with a single wiper arm pivoting from the bottom center and a cleared arc.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "parking-lights",
+  "category": "vehicles",
+  "draw": "Dashboard symbol of two small D-shaped lamps back to back with short rays from each.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "heated-steering-wheel",
+  "category": "vehicles",
+  "draw": "Steering wheel with three wavy heat lines rising above its rim.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "head-up-display",
+  "category": "vehicles",
+  "draw": "Windshield outline with a floating speed number and a small arrow projected in its lower middle.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "surround-view-camera",
+  "category": "vehicles",
+  "draw": "Car seen from above with small camera arcs radiating from its four sides.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "bike-bulb-horn",
+  "category": "vehicles",
+  "draw": "Rubber squeeze bulb attached to a curved brass trumpet horn with sound lines.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "ice-scraper",
+  "category": "vehicles",
+  "draw": "Flat wedge ice scraper with a short handle scraping frost lines on a window.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "fuzzy-dice",
+  "category": "vehicles",
+  "draw": "Pair of plush dice with dots hanging on a string from a rearview mirror.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "overturned-car",
+  "category": "vehicles",
+  "draw": "Car in side view lying upside down on its roof with wheels in the air.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-fire",
+  "category": "vehicles",
+  "draw": "Car in side view with flames rising from the hood.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "parallel-parking",
+  "category": "vehicles",
+  "draw": "Car easing into a gap between two parked cars along a curb, with a curved path line.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "speeding-car",
+  "category": "vehicles",
+  "draw": "Car in side view with horizontal speed lines streaming behind it.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "cab-over-truck",
+  "category": "vehicles",
+  "draw": "Truck in side view with a flat vertical front where the cab sits directly over the engine, no hood.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "mechanics-creeper",
+  "category": "vehicles",
+  "draw": "Low flat padded board on small caster wheels with a raised headrest, for sliding under cars.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "wedding-car",
+  "category": "vehicles",
+  "draw": "Car in side view with a ribbon bow on the hood and tin cans trailing behind on strings.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "parade-float",
+  "category": "vehicles",
+  "draw": "Decorated flatbed trailer covered in flowers and a large decorative shape, with a skirt hiding the wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "banana-seat-bike",
+  "category": "vehicles",
+  "draw": "Retro bicycle in side view with a long curved banana saddle, high-rise handlebars and a sissy bar.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "emergency-light-bar",
+  "category": "vehicles",
+  "draw": "Horizontal roof light bar with two domed lamps and light rays shooting out of each end.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "radar-speed-gun",
+  "category": "vehicles",
+  "draw": "Pistol-grip radar gun with a round front lens and radio waves coming out.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "starter-motor",
+  "category": "vehicles",
+  "draw": "Cylindrical electric motor with a small solenoid cylinder on top and a pinion gear at the front.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "distributor-cap",
+  "category": "vehicles",
+  "draw": "Round distributor cap with a ring of post terminals on top and wires leading off.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "window-crank",
+  "category": "vehicles",
+  "draw": "Old-fashioned car window winder handle: a short crank arm with a round knob on a door panel.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "car-location-pin",
+  "category": "vehicles",
+  "draw": "Map pin marker with a small car silhouette inside the round head.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "adult-tricycle",
+  "category": "vehicles",
+  "draw": "Upright three-wheeled bicycle in side view with one front wheel, a chain drive and a large basket between two rear wheels.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "tire-tracks",
+  "category": "vehicles",
+  "draw": "Two parallel tire track trails with zig-zag tread marks running into the distance.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "amphibious-car",
+  "category": "vehicles",
+  "draw": "Boat-shaped car hull with wheels and a small windshield, entering water with a wave line.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "billboard-truck",
+  "category": "vehicles",
+  "draw": "Truck in side view carrying a big flat rectangular advertising billboard panel on its back.",
+  "domain": "road-vehicles"
+ },
+ {
+  "name": "cb-radio",
+  "category": "vehicles",
+  "draw": "Car CB radio box with a knob and display, and a handheld microphone on a coiled cord.",
+  "domain": "road-vehicles"
+ }
+]

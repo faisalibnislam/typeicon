@@ -1,0 +1,482 @@
+[
+ {
+  "name": "window-cleaning",
+  "category": "household",
+  "draw": "Window pane with a squeegee wiping a clear stripe across it and sparkles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "extension-pole",
+  "category": "household",
+  "draw": "Telescopic cleaning pole with two visible sections and a clip head at the top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "scraper-blade",
+  "category": "household",
+  "draw": "Flat razor scraper with a wide metal blade and a short handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "mop-bucket",
+  "category": "household",
+  "draw": "Wheeled mop bucket with a wringer press on top and a mop handle standing in it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "spin-mop",
+  "category": "household",
+  "draw": "Round spin mop head with microfiber strands and a bucket with a spinning basket.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "flat-mop",
+  "category": "household",
+  "draw": "Flat rectangular mop pad on a swivel joint with a long straight handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "steam-mop",
+  "category": "household",
+  "draw": "Upright steam mop with a triangular pad and wisps of steam at the base.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "push-broom",
+  "category": "household",
+  "draw": "Wide push broom with a long rectangular bristle head on a straight pole.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "whisk-broom",
+  "category": "household",
+  "draw": "Short hand broom with a fanned bundle of straw bristles bound at the top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cobweb-duster",
+  "category": "household",
+  "draw": "Round bristle ball duster on a long pole reaching a cobweb in a corner.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "lint-roller",
+  "category": "household",
+  "draw": "Lint roller with a sticky cylinder and a handle, with a peeled strip at one edge.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "clothes-brush",
+  "category": "household",
+  "draw": "Oval wooden clothes brush with a dense pad of bristles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "rubber-gloves",
+  "category": "household",
+  "draw": "Pair of long cleaning gloves with rolled cuffs, one overlapping the other.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "carpet-beater",
+  "category": "household",
+  "draw": "Rattan carpet beater with a looping trefoil head on a long handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "carpet-cleaner",
+  "category": "household",
+  "draw": "Upright carpet cleaning machine with a clear water tank and a wide nozzle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "steam-cleaner",
+  "category": "household",
+  "draw": "Handheld steam cleaner with a nozzle releasing a puff of steam.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "pressure-washer",
+  "category": "household",
+  "draw": "Pressure washer gun with a trigger and a long lance spraying a strong jet.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "floor-scrubber",
+  "category": "household",
+  "draw": "Walk-behind floor scrubbing machine with a round brush deck and a handlebar.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "robot-vacuum",
+  "category": "household",
+  "draw": "Top view of a round robot vacuum with a bumper band and a small sensor dome.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "handheld-vacuum",
+  "category": "household",
+  "draw": "Small cordless handheld vacuum with a pistol grip and a narrow nozzle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "stick-vacuum",
+  "category": "household",
+  "draw": "Cordless stick vacuum with a motor body at the handle and a long tube to a floor head.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "upright-vacuum",
+  "category": "household",
+  "draw": "Upright vacuum cleaner with a tall body, a bag and a wide floor head.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wet-dry-vacuum",
+  "category": "household",
+  "draw": "Drum-shaped shop vacuum on casters with a flexible hose on its lid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "cleaning-caddy",
+  "category": "household",
+  "draw": "Open plastic tote with a central carrying handle holding a spray bottle and a brush.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "janitor-cart",
+  "category": "household",
+  "draw": "Cleaning trolley with shelves, a hanging bag and a mop bucket at the side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wet-floor-sign",
+  "category": "household",
+  "draw": "A-frame caution sign with a slipping person figure on it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "chore-chart",
+  "category": "household",
+  "draw": "Clipboard with a checklist of ticked boxes and a small spray bottle beside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "trash-bag",
+  "category": "household",
+  "draw": "Full garbage bag tied at the top with a knot and two ears.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bin-bag-roll",
+  "category": "household",
+  "draw": "Roll of garbage bags with one bag partly unrolled and perforation marks.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wheelie-bin",
+  "category": "household",
+  "draw": "Tall wheeled waste bin with a hinged lid and a large wheel at the back.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "bleach-bottle",
+  "category": "household",
+  "draw": "Chunky jug with a handle and a screw cap, labelled with a small drop symbol.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dish-soap",
+  "category": "household",
+  "draw": "Tall squeeze bottle with a flip-top nozzle and a plate symbol with bubbles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "toilet-cleaner",
+  "category": "household",
+  "draw": "Cleaner bottle with a bent angled neck pointing forward.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "drain-cleaner",
+  "category": "household",
+  "draw": "Heavy bottle with a child-safe cap and a curved pipe symbol on the label.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "disinfectant-wipes",
+  "category": "household",
+  "draw": "Round wipes canister with one wipe pulled up through the lid.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wet-wipes",
+  "category": "household",
+  "draw": "Soft rectangular wet wipes pack with a resealable flap and a wipe peeking out.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "paper-towel-roll",
+  "category": "household",
+  "draw": "Paper towel roll standing on a vertical holder with perforated sheets.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "tissue-box",
+  "category": "household",
+  "draw": "Square tissue box with a tissue fluffed up out of its oval opening.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "pocket-tissues",
+  "category": "household",
+  "draw": "Small flat packet of tissues with a tissue poking out of the top slit.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "furniture-polish",
+  "category": "household",
+  "draw": "Round tin of wax polish with its lid off and a cloth beside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "air-freshener-spray",
+  "category": "household",
+  "draw": "Aerosol can with a round cap spraying a mist with a small flower beside it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "plug-in-air-freshener",
+  "category": "household",
+  "draw": "Wall socket plug unit with a small scent bottle attached and scent waves rising.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "reed-diffuser",
+  "category": "household",
+  "draw": "Small bottle with several thin reeds fanning out from its neck.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "aroma-diffuser",
+  "category": "household",
+  "draw": "Dome-shaped ultrasonic diffuser releasing a soft curl of mist from the top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "drain-snake",
+  "category": "household",
+  "draw": "Coiled plumber's drain auger with a crank handle and a spiral cable end.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "fly-swatter",
+  "category": "household",
+  "draw": "Fly swatter with a square mesh paddle on a long thin handle.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "mousetrap",
+  "category": "household",
+  "draw": "Wooden spring mousetrap with a snap bar and a wedge of cheese on the trigger.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "insect-spray",
+  "category": "household",
+  "draw": "Aerosol can with a round cap and a small bug symbol, spraying a mist.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "mosquito-coil",
+  "category": "household",
+  "draw": "Spiral mosquito coil on a small stand with a thin line of smoke at its end.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "sticky-fly-trap",
+  "category": "household",
+  "draw": "Hanging strip of fly paper curling down with a few small dots stuck on it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dust-cloud",
+  "category": "household",
+  "draw": "Puff of dust particles with small dots floating around it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dust-mite",
+  "category": "household",
+  "draw": "Tiny rounded mite with eight short legs and a segmented back.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "wall-mold",
+  "category": "household",
+  "draw": "Wall corner with clusters of round fuzzy spots spreading on it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "hand-wiping",
+  "category": "household",
+  "draw": "Hand holding a cloth wiping a flat surface in a curved motion with sparkles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "disinfecting",
+  "category": "household",
+  "draw": "Spray bottle spraying a mist onto a round germ shape.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "chimney-brush",
+  "category": "household",
+  "draw": "Round wire chimney sweep brush with a spiky star head on a flexible rod.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "pool-skimmer",
+  "category": "household",
+  "draw": "Flat mesh skimmer net on a long pole with a leaf in it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "boot-scraper",
+  "category": "household",
+  "draw": "Metal boot scraper, a horizontal blade between two short posts with brushes on each side.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "doormat",
+  "category": "household",
+  "draw": "Rectangular coir doormat with a coarse texture and a thin border.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dehumidifier",
+  "category": "household",
+  "draw": "Upright box with a vent grille on top and a water drop symbol on the front tank.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "air-purifier",
+  "category": "household",
+  "draw": "Tall cylindrical air purifier with a grille band and air flow lines at the top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "humidifier",
+  "category": "household",
+  "draw": "Teardrop-shaped humidifier with a mist curl rising from its top spout.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "laundry-detergent",
+  "category": "household",
+  "draw": "Detergent bottle with a handle, a spout and a measuring cap on top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "detergent-powder",
+  "category": "household",
+  "draw": "Box of washing powder with a scoop resting on its open top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "laundry-pod",
+  "category": "household",
+  "draw": "Soft pillow-shaped detergent pod with two swirled compartments.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "fabric-softener",
+  "category": "household",
+  "draw": "Rounded bottle with a cap and a fluffy cloud symbol on the label.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dryer-sheet",
+  "category": "household",
+  "draw": "Thin rectangular sheet with a crinkled edge and small wavy scent lines.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "dryer-ball",
+  "category": "household",
+  "draw": "Round wool dryer ball with a stitched felt texture.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "lint-trap",
+  "category": "household",
+  "draw": "Dryer lint screen, a rectangular mesh frame with a layer of fluff on it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "clothespin",
+  "category": "household",
+  "draw": "Wooden clothespin with two prongs joined by a coiled spring.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "peg-bag",
+  "category": "household",
+  "draw": "Fabric peg bag on a hanger with a round opening and clothespins inside.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "clothesline",
+  "category": "household",
+  "draw": "Line strung between two posts with a shirt and a sock pegged on it.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "clothes-drying-rack",
+  "category": "household",
+  "draw": "Folding clothes airer with an A-frame and horizontal rails holding a towel.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "rotary-clothesline",
+  "category": "household",
+  "draw": "Umbrella-shaped rotary washing line on a central pole with radial lines.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "ironing-board",
+  "category": "household",
+  "draw": "Side view of an ironing board with a pointed end and crossed folding legs.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "garment-steamer",
+  "category": "household",
+  "draw": "Handheld garment steamer with a flat head releasing steam onto a hanging shirt.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "laundry-bag",
+  "category": "household",
+  "draw": "Drawstring laundry bag with clothes bulging and a cord tied at the top.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "mesh-laundry-bag",
+  "category": "household",
+  "draw": "Zippered mesh wash bag with a diamond net pattern.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "washboard",
+  "category": "household",
+  "draw": "Wooden washboard with a ridged metal panel in a frame.",
+  "domain": "bathroom-cleaning-laundry-care"
+ },
+ {
+  "name": "washtub",
+  "category": "household",
+  "draw": "Round metal washtub with two side handles and water with bubbles.",
+  "domain": "bathroom-cleaning-laundry-care"
+ }
+]

@@ -1,0 +1,1552 @@
+[
+  {
+    "name": "baguette",
+    "category": "bakery",
+    "draw": "Long thin loaf lying diagonally with four slanted score slashes along its top."
+  },
+  {
+    "name": "bagel",
+    "category": "bakery",
+    "draw": "Front view of a thick ring of bread with a round hole and a few sesame dots on top."
+  },
+  {
+    "name": "brioche",
+    "category": "bakery",
+    "draw": "Fluted round base like a cupcake topped with a smaller round knob of bread."
+  },
+  {
+    "name": "challah",
+    "category": "bakery",
+    "draw": "Side view of a plump braided loaf showing three interwoven strands tapering at both ends."
+  },
+  {
+    "name": "ciabatta",
+    "category": "bakery",
+    "draw": "Flat, wide rectangular loaf with rounded corners and a few irregular flour streaks on top."
+  },
+  {
+    "name": "focaccia",
+    "category": "bakery",
+    "draw": "Rectangular slab of bread seen from above covered in evenly spaced dimples and a small rosemary sprig."
+  },
+  {
+    "name": "cottage-loaf",
+    "category": "bakery",
+    "draw": "Loaf made of a small round bun sitting on top of a larger round bun, with a dimple in the top."
+  },
+  {
+    "name": "pullman-loaf",
+    "category": "bakery",
+    "draw": "Side view of a square box-shaped sandwich loaf with sharp corners and a flat top."
+  },
+  {
+    "name": "sliced-bread",
+    "category": "bakery",
+    "draw": "Loaf in side view with three separate slices fanned out from its end."
+  },
+  {
+    "name": "rye-bread",
+    "category": "bakery",
+    "draw": "Oval dark loaf with a crosshatched diamond pattern scored across the top and seed dots."
+  },
+  {
+    "name": "epi-bread",
+    "category": "bakery",
+    "draw": "Baguette cut into alternating pointed leaves along a central stem so it looks like a wheat ear."
+  },
+  {
+    "name": "fougasse",
+    "category": "bakery",
+    "draw": "Flat leaf-shaped bread with a central vein slit and three angled slits on each side."
+  },
+  {
+    "name": "pita",
+    "category": "bakery",
+    "draw": "Round flat pocket bread cut in half so the open half-moon shows a hollow pocket."
+  },
+  {
+    "name": "naan",
+    "category": "bakery",
+    "draw": "Teardrop-shaped flatbread with a few scattered bubbly char spots on the surface."
+  },
+  {
+    "name": "tortillas",
+    "category": "bakery",
+    "draw": "Stack of three thin round flatbreads seen at a slight angle with a few toasted spots on the top one."
+  },
+  {
+    "name": "paratha",
+    "category": "bakery",
+    "draw": "Round flatbread seen from above with a spiral of flaky layers visible on its surface."
+  },
+  {
+    "name": "bread-roll",
+    "category": "bakery",
+    "draw": "Small round dinner roll with a single slash across its glossy dome."
+  },
+  {
+    "name": "kaiser-roll",
+    "category": "bakery",
+    "draw": "Round roll seen from above with five curved folds spiralling out from the center like a pinwheel."
+  },
+  {
+    "name": "burger-bun",
+    "category": "bakery",
+    "draw": "Empty split bun: domed sesame-dotted top half floating above a flat bottom half."
+  },
+  {
+    "name": "hot-dog-bun",
+    "category": "bakery",
+    "draw": "Long soft bun split along its top edge with the opening visible."
+  },
+  {
+    "name": "english-muffin",
+    "category": "bakery",
+    "draw": "Flat round muffin split in half horizontally with a rough craggy inner face and cornmeal dots."
+  },
+  {
+    "name": "crumpet",
+    "category": "bakery",
+    "draw": "Short thick round griddle cake seen at an angle with many small holes across the top."
+  },
+  {
+    "name": "scone",
+    "category": "bakery",
+    "draw": "Tall round scone split sideways with a dollop of cream and a dab of jam in the middle."
+  },
+  {
+    "name": "buttermilk-biscuit",
+    "category": "bakery",
+    "draw": "Tall round biscuit in side view showing stacked flaky layers and a golden top."
+  },
+  {
+    "name": "cornbread",
+    "category": "bakery",
+    "draw": "Square piece of cornbread with a golden grid of crumb dots and a pat of butter on top."
+  },
+  {
+    "name": "hot-cross-bun",
+    "category": "bakery",
+    "draw": "Round glossy bun with a piped cross of icing over the top."
+  },
+  {
+    "name": "breadsticks",
+    "category": "bakery",
+    "draw": "Three thin long crisp sticks of bread standing in a small cup."
+  },
+  {
+    "name": "croutons",
+    "category": "bakery",
+    "draw": "Four small toasted bread cubes with rough edges tumbled together."
+  },
+  {
+    "name": "garlic-knot",
+    "category": "bakery",
+    "draw": "Small bread roll tied in a single loose knot with herb dots on top."
+  },
+  {
+    "name": "toast-slice",
+    "category": "bakery",
+    "draw": "Single square slice of toasted bread with a domed top edge and a melting pat of butter."
+  },
+  {
+    "name": "french-toast",
+    "category": "bakery",
+    "draw": "Two stacked thick slices of bread with a pat of butter on top and syrup dripping down the side."
+  },
+  {
+    "name": "concha",
+    "category": "bakery",
+    "draw": "Domed sweet bun whose top is covered in a scored shell pattern of curved grooves."
+  },
+  {
+    "name": "pan-de-muerto",
+    "category": "bakery",
+    "draw": "Round domed bread with crossed bone-shaped dough strips over the top and a small ball in the center."
+  },
+  {
+    "name": "panettone",
+    "category": "bakery",
+    "draw": "Tall domed cylinder of sweet bread wrapped in a paper band with a mushroom-shaped top."
+  },
+  {
+    "name": "pandoro",
+    "category": "bakery",
+    "draw": "Tall bread shaped like an eight-pointed star in top view tapering upward, dusted with sugar dots."
+  },
+  {
+    "name": "babka",
+    "category": "bakery",
+    "draw": "Loaf in side view with its cut end showing a marbled swirl of chocolate through the crumb."
+  },
+  {
+    "name": "banana-bread",
+    "category": "bakery",
+    "draw": "Rectangular loaf with a cracked top and a halved banana lying lengthwise on it."
+  },
+  {
+    "name": "sourdough-starter",
+    "category": "bakery",
+    "draw": "Jar with a loose lid filled with bubbly dough and a band marking its rise."
+  },
+  {
+    "name": "dough-ball",
+    "category": "bakery",
+    "draw": "Smooth round ball of dough on a surface with a light flour dusting."
+  },
+  {
+    "name": "proofing-bowl",
+    "category": "bakery",
+    "draw": "Bowl covered with a cloth that bulges upward from the rising dough underneath."
+  },
+  {
+    "name": "flour-sack",
+    "category": "bakery",
+    "draw": "Tied cloth sack slumped on its base with a wheat ear printed on the front."
+  },
+  {
+    "name": "cinnamon-roll",
+    "category": "bakery",
+    "draw": "Top view of a round pastry with a clear spiral of dough and a drizzle of icing."
+  },
+  {
+    "name": "pain-au-chocolat",
+    "category": "bakery",
+    "draw": "Rectangular flaky pastry roll with layered stripes and two dark chocolate ends peeking out."
+  },
+  {
+    "name": "danish-pastry",
+    "category": "bakery",
+    "draw": "Square pastry with its corners folded toward the center around a round fruit filling."
+  },
+  {
+    "name": "eclair",
+    "category": "bakery",
+    "draw": "Long oblong choux pastry with a smooth glaze covering the top half."
+  },
+  {
+    "name": "cream-puff",
+    "category": "bakery",
+    "draw": "Round puffy choux ball split in the middle with cream showing and powdered sugar dots on top."
+  },
+  {
+    "name": "paris-brest",
+    "category": "bakery",
+    "draw": "Ring of choux pastry split horizontally with a thick band of piped cream and flaked almond dots on top."
+  },
+  {
+    "name": "religieuse",
+    "category": "bakery",
+    "draw": "Small choux bun stacked on a larger choux bun, both glazed, with a collar of piped cream between them."
+  },
+  {
+    "name": "croquembouche",
+    "category": "bakery",
+    "draw": "Tall cone tower built from stacked round cream puffs wrapped in thin spun sugar lines."
+  },
+  {
+    "name": "macaron",
+    "category": "bakery",
+    "draw": "Side view of two round domed shells with ruffled feet and a thick layer of filling between them."
+  },
+  {
+    "name": "mille-feuille",
+    "category": "bakery",
+    "draw": "Rectangular slice showing three flaky pastry layers with cream between and a feathered icing top."
+  },
+  {
+    "name": "strudel",
+    "category": "bakery",
+    "draw": "Long rolled pastry log with diagonal slits along the top and a sliced end showing a spiral."
+  },
+  {
+    "name": "baklava",
+    "category": "bakery",
+    "draw": "Diamond-shaped piece of pastry showing many thin horizontal layers with a nut layer in the middle."
+  },
+  {
+    "name": "churros",
+    "category": "bakery",
+    "draw": "Long ridged fried dough stick with star-shaped grooves, dipped into a small cup of chocolate."
+  },
+  {
+    "name": "beignet",
+    "category": "bakery",
+    "draw": "Square puffy fried dough pillow heavily dusted with powdered sugar dots."
+  },
+  {
+    "name": "cannoli",
+    "category": "bakery",
+    "draw": "Crisp pastry tube lying on its side with cream filling bulging from both open ends."
+  },
+  {
+    "name": "turnover",
+    "category": "bakery",
+    "draw": "Triangular pastry with a crimped edge along two sides and small steam slits on top."
+  },
+  {
+    "name": "pastry-twist",
+    "category": "bakery",
+    "draw": "Long flaky pastry strip twisted into a tight spiral with seed dots."
+  },
+  {
+    "name": "cream-horn",
+    "category": "bakery",
+    "draw": "Cone of spiralled flaky pastry lying on its side with whipped cream swirled at the wide open end."
+  },
+  {
+    "name": "sfogliatella",
+    "category": "bakery",
+    "draw": "Shell-shaped pastry made of many thin fanned layers radiating from a pointed end."
+  },
+  {
+    "name": "palmier",
+    "category": "bakery",
+    "draw": "Flat pastry shaped like two scrolls curling inward to meet in the middle, forming a heart-like outline."
+  },
+  {
+    "name": "vol-au-vent",
+    "category": "bakery",
+    "draw": "Small round tower of puff pastry with a hollow center holding filling and a little pastry lid on top."
+  },
+  {
+    "name": "toaster-pastry",
+    "category": "bakery",
+    "draw": "Flat rectangle of pastry with a crimped border, iced top and sprinkles."
+  },
+  {
+    "name": "egg-tart",
+    "category": "bakery",
+    "draw": "Round fluted pastry cup holding a glossy custard filling with a few caramelized spots."
+  },
+  {
+    "name": "fruit-tart",
+    "category": "bakery",
+    "draw": "Round tart with a fluted rim topped with circles of sliced fruit and a berry in the center."
+  },
+  {
+    "name": "quiche",
+    "category": "bakery",
+    "draw": "Round fluted pastry crust filled with a flat savory custard, with one wedge cut out."
+  },
+  {
+    "name": "galette",
+    "category": "bakery",
+    "draw": "Rustic round pastry with its edges folded up in pleats around an exposed fruit filling."
+  },
+  {
+    "name": "pie-slice",
+    "category": "bakery",
+    "draw": "Triangular wedge of pie with a curved crimped crust edge and a lattice top."
+  },
+  {
+    "name": "meringue-pie",
+    "category": "bakery",
+    "draw": "Wedge of pie topped with a tall layer of swirled meringue peaks."
+  },
+  {
+    "name": "mince-pie",
+    "category": "bakery",
+    "draw": "Small round pie in a fluted case with a star-shaped cut-out lid dusted with sugar."
+  },
+  {
+    "name": "cornish-pasty",
+    "category": "bakery",
+    "draw": "D-shaped pastry standing on its flat side with a rope crimp running along the top ridge."
+  },
+  {
+    "name": "pie-bird",
+    "category": "bakery",
+    "draw": "Small ceramic bird with an open beak poking up through the top crust of a pie."
+  },
+  {
+    "name": "madeleine",
+    "category": "bakery",
+    "draw": "Small shell-shaped cake with ridged grooves fanning out from a narrow end."
+  },
+  {
+    "name": "canele",
+    "category": "bakery",
+    "draw": "Small tall fluted cylinder cake with deep vertical ridges and a darker caramelized top."
+  },
+  {
+    "name": "crepe",
+    "category": "bakery",
+    "draw": "Thin pancake folded into a triangle quarter with a drizzle of sauce."
+  },
+  {
+    "name": "cruller",
+    "category": "bakery",
+    "draw": "Ring doughnut with deep twisted ridges running around it and a thin glaze."
+  },
+  {
+    "name": "jelly-donut",
+    "category": "bakery",
+    "draw": "Round sugar-dusted doughnut with no hole and a small blob of jam oozing from one side."
+  },
+  {
+    "name": "long-john-donut",
+    "category": "bakery",
+    "draw": "Long rectangular bar-shaped doughnut with a smooth glaze on top."
+  },
+  {
+    "name": "funnel-cake",
+    "category": "bakery",
+    "draw": "Tangled lattice of squiggly fried batter on a plate topped with powdered sugar."
+  },
+  {
+    "name": "stroopwafel",
+    "category": "bakery",
+    "draw": "Thin round waffle cookie with a fine grid pattern and a visible layer of caramel between two halves."
+  },
+  {
+    "name": "bubble-waffle",
+    "category": "bakery",
+    "draw": "Cone of waffle folded around ice cream whose surface is covered in round bubble bumps."
+  },
+  {
+    "name": "hamantaschen",
+    "category": "bakery",
+    "draw": "Triangular cookie with its three sides folded up around a round filling in the middle."
+  },
+  {
+    "name": "cake-slice",
+    "category": "bakery",
+    "draw": "Triangular wedge of layered cake with frosting on top and a cherry on the point."
+  },
+  {
+    "name": "sheet-cake",
+    "category": "bakery",
+    "draw": "Flat rectangular cake seen at an angle with a piped shell border along the top edge."
+  },
+  {
+    "name": "wedding-cake",
+    "category": "bakery",
+    "draw": "Three-tier round cake stacked in decreasing sizes with small piped decorations on each tier."
+  },
+  {
+    "name": "bundt-cake",
+    "category": "bakery",
+    "draw": "Ring-shaped cake with fluted ridges down the sides and a hole in the middle."
+  },
+  {
+    "name": "king-cake",
+    "category": "bakery",
+    "draw": "Oval ring cake with bands of sugar sprinkles across it and a tiny crown resting on top."
+  },
+  {
+    "name": "pound-cake",
+    "category": "bakery",
+    "draw": "Rectangular loaf cake with a cracked split along the top."
+  },
+  {
+    "name": "upside-down-cake",
+    "category": "bakery",
+    "draw": "Round cake seen from above with pineapple rings and a cherry in the middle of each ring."
+  },
+  {
+    "name": "carrot-cake",
+    "category": "bakery",
+    "draw": "Slice of layered cake with frosting and a small piped carrot with leaves on top."
+  },
+  {
+    "name": "cheesecake",
+    "category": "bakery",
+    "draw": "Wedge-shaped slice with a thick smooth filling on a thin crumb base and a fruit sauce drip."
+  },
+  {
+    "name": "swiss-roll",
+    "category": "bakery",
+    "draw": "Log cake with its round cut end facing forward showing a spiral of cream."
+  },
+  {
+    "name": "yule-log",
+    "category": "bakery",
+    "draw": "Log-shaped cake with bark lines on the side, a cut stump branch and a small holly sprig."
+  },
+  {
+    "name": "charlotte-cake",
+    "category": "bakery",
+    "draw": "Round cake ringed by upright ladyfinger biscuits tied with a ribbon and topped with berries."
+  },
+  {
+    "name": "tiramisu",
+    "category": "bakery",
+    "draw": "Square portion showing alternating soaked sponge and cream layers with a dusted cocoa top."
+  },
+  {
+    "name": "lamington",
+    "category": "bakery",
+    "draw": "Cube of sponge cake coated all over in coconut flake dots."
+  },
+  {
+    "name": "petit-four",
+    "category": "bakery",
+    "draw": "Tiny square iced cake with a small piped flower on top."
+  },
+  {
+    "name": "cake-pop",
+    "category": "bakery",
+    "draw": "Round ball of cake on a stick with a coating and a few sprinkles."
+  },
+  {
+    "name": "brownie",
+    "category": "bakery",
+    "draw": "Square chunk of dense cake with a crackled top surface."
+  },
+  {
+    "name": "battenberg",
+    "category": "bakery",
+    "draw": "Rectangular cake with a square end face showing a two-by-two checkerboard of light and dark squares."
+  },
+  {
+    "name": "baumkuchen",
+    "category": "bakery",
+    "draw": "Round slice of cake with many concentric rings like a tree trunk and a hole in the middle."
+  },
+  {
+    "name": "mooncake",
+    "category": "bakery",
+    "draw": "Round pastry with a thick edge and an embossed flower pattern pressed into its top."
+  },
+  {
+    "name": "molten-lava-cake",
+    "category": "bakery",
+    "draw": "Small domed chocolate cake cut open with thick sauce flowing out onto the plate."
+  },
+  {
+    "name": "strawberry-shortcake",
+    "category": "bakery",
+    "draw": "Slice of sponge with whipped cream layers and a whole strawberry on top."
+  },
+  {
+    "name": "crepe-cake",
+    "category": "bakery",
+    "draw": "Round cake made of many thin stacked crepe layers visible on the cut side."
+  },
+  {
+    "name": "whoopie-pie",
+    "category": "bakery",
+    "draw": "Two soft round domed cakes sandwiching a thick layer of white filling."
+  },
+  {
+    "name": "mug-cake",
+    "category": "bakery",
+    "draw": "Coffee mug with a domed sponge cake rising above its rim."
+  },
+  {
+    "name": "muffin",
+    "category": "bakery",
+    "draw": "Paper-lined muffin with a big rounded top overflowing the pleated case."
+  },
+  {
+    "name": "pavlova",
+    "category": "bakery",
+    "draw": "Round meringue nest with a crisp shell and a mound of cream topped with berries."
+  },
+  {
+    "name": "meringue",
+    "category": "bakery",
+    "draw": "Single swirled meringue kiss with a pointed curled tip and ridged sides."
+  },
+  {
+    "name": "baked-alaska",
+    "category": "bakery",
+    "draw": "Dome of swirled meringue with toasted tips sitting on a flat cake base."
+  },
+  {
+    "name": "mont-blanc-dessert",
+    "category": "bakery",
+    "draw": "Small mound covered in piped strands of chestnut cream like noodles with a dusting of sugar on top."
+  },
+  {
+    "name": "christmas-pudding",
+    "category": "bakery",
+    "draw": "Round dark dome pudding with white sauce drizzled over the top and a holly sprig."
+  },
+  {
+    "name": "souffle",
+    "category": "bakery",
+    "draw": "Straight-sided ramekin with a puffed golden top rising well above the rim."
+  },
+  {
+    "name": "trifle",
+    "category": "bakery",
+    "draw": "Clear footed bowl showing stacked layers of sponge, fruit, custard and cream."
+  },
+  {
+    "name": "yogurt-parfait",
+    "category": "bakery",
+    "draw": "Tall narrow glass with alternating layers of yogurt, granola and fruit and a spoon sticking out."
+  },
+  {
+    "name": "panna-cotta",
+    "category": "bakery",
+    "draw": "Smooth dome-shaped dessert turned out on a plate with sauce pooling around its base."
+  },
+  {
+    "name": "creme-brulee",
+    "category": "bakery",
+    "draw": "Shallow round ramekin with a cracked caramel top and a spoon tapping it."
+  },
+  {
+    "name": "flan",
+    "category": "bakery",
+    "draw": "Short round custard turned out on a plate with caramel sauce running down its sides."
+  },
+  {
+    "name": "gelatin-dessert",
+    "category": "bakery",
+    "draw": "Wobbly fluted jelly on a plate with short curved motion lines on either side."
+  },
+  {
+    "name": "mochi",
+    "category": "bakery",
+    "draw": "Soft round flattened rice cake with a dusting of flour dots and a gentle sheen."
+  },
+  {
+    "name": "dorayaki",
+    "category": "bakery",
+    "draw": "Two small pancakes seen from the side with a thick layer of bean paste between them."
+  },
+  {
+    "name": "taiyaki",
+    "category": "bakery",
+    "draw": "Fish-shaped cake with a scale pattern, a round eye and a fanned tail."
+  },
+  {
+    "name": "dango",
+    "category": "bakery",
+    "draw": "Three round dumplings threaded on a thin skewer."
+  },
+  {
+    "name": "tanghulu",
+    "category": "bakery",
+    "draw": "Skewer of three glossy candied strawberries with a shine mark on each."
+  },
+  {
+    "name": "gulab-jamun",
+    "category": "bakery",
+    "draw": "Small bowl holding round dark balls half submerged in syrup."
+  },
+  {
+    "name": "jalebi",
+    "category": "bakery",
+    "draw": "Loose spiral coil of fried batter piped in overlapping loops."
+  },
+  {
+    "name": "ladoo",
+    "category": "bakery",
+    "draw": "Small pyramid of three round sweet balls with a textured dot surface on a plate."
+  },
+  {
+    "name": "sesame-balls",
+    "category": "bakery",
+    "draw": "Two round fried balls covered all over in sesame seed dots."
+  },
+  {
+    "name": "chocolate-fountain",
+    "category": "bakery",
+    "draw": "Three-tier round fountain with thick chocolate sheets flowing down between the tiers."
+  },
+  {
+    "name": "soft-serve",
+    "category": "bakery",
+    "draw": "Cone topped with a tall twisted swirl of soft ice cream ending in a curled tip."
+  },
+  {
+    "name": "popsicle",
+    "category": "bakery",
+    "draw": "Round-topped frozen ice block on a flat wooden stick with a bite taken from one corner."
+  },
+  {
+    "name": "freezer-pop",
+    "category": "bakery",
+    "draw": "Long thin plastic tube of frozen juice with sealed crimped ends and one end snipped open."
+  },
+  {
+    "name": "ice-cream-bar",
+    "category": "bakery",
+    "draw": "Rectangular coated ice cream bar on a stick with a drip line of chocolate."
+  },
+  {
+    "name": "ice-cream-sandwich",
+    "category": "bakery",
+    "draw": "Rectangular block of ice cream between two dark wafer layers with dot holes."
+  },
+  {
+    "name": "sundae",
+    "category": "bakery",
+    "draw": "Tulip glass holding scoops of ice cream topped with whipped cream and a cherry."
+  },
+  {
+    "name": "banana-split",
+    "category": "bakery",
+    "draw": "Long oval boat dish with a split banana on each side and three scoops in the middle."
+  },
+  {
+    "name": "ice-cream-cup",
+    "category": "bakery",
+    "draw": "Small paper cup with two scoops and a flat wooden spoon sticking out."
+  },
+  {
+    "name": "ice-cream-tub",
+    "category": "bakery",
+    "draw": "Round cardboard tub with a lid slightly lifted showing ice cream inside."
+  },
+  {
+    "name": "neapolitan-ice-cream",
+    "category": "bakery",
+    "draw": "Rectangular block of ice cream with three distinct vertical stripes and a scoop mark."
+  },
+  {
+    "name": "rolled-ice-cream",
+    "category": "bakery",
+    "draw": "Cup holding four upright tight rolls of ice cream with a sauce drizzle."
+  },
+  {
+    "name": "dropped-ice-cream",
+    "category": "bakery",
+    "draw": "Upside-down cone stuck in a splattered puddle of melted scoop on the ground."
+  },
+  {
+    "name": "frozen-banana",
+    "category": "bakery",
+    "draw": "Banana on a stick dipped halfway in chocolate with nut dots on the coating."
+  },
+  {
+    "name": "snow-cone",
+    "category": "bakery",
+    "draw": "Paper cone holding a rounded mound of shaved ice with syrup streaks."
+  },
+  {
+    "name": "shaved-ice",
+    "category": "bakery",
+    "draw": "Bowl with a tall mountain of fluffy shaved ice topped with fruit and syrup drizzle."
+  },
+  {
+    "name": "kulfi",
+    "category": "bakery",
+    "draw": "Tall conical frozen dessert on a stick with a few chopped nut dots."
+  },
+  {
+    "name": "gelato-pan",
+    "category": "bakery",
+    "draw": "Rectangular metal pan heaped with swirled gelato and a flat paddle spatula stuck in it."
+  },
+  {
+    "name": "ice-cream-cart",
+    "category": "bakery",
+    "draw": "Push cart with a rounded freezer box, two wheels and a small striped umbrella."
+  },
+  {
+    "name": "ice-cream-scoop",
+    "category": "bakery",
+    "draw": "Scoop tool with a long handle and a round bowl holding a ball of ice cream."
+  },
+  {
+    "name": "ice-cream-maker",
+    "category": "bakery",
+    "draw": "Wooden bucket with a crank handle on top and a metal canister inside."
+  },
+  {
+    "name": "sandwich-cookie",
+    "category": "bakery",
+    "draw": "Two round dark cookies with an embossed pattern and a white cream layer between them."
+  },
+  {
+    "name": "fortune-cookie",
+    "category": "bakery",
+    "draw": "Folded crescent cookie with a small paper slip poking out of the fold."
+  },
+  {
+    "name": "gingerbread-man",
+    "category": "bakery",
+    "draw": "Cookie shaped like a simple figure with round head and icing dots for eyes and buttons."
+  },
+  {
+    "name": "gingerbread-house",
+    "category": "bakery",
+    "draw": "Small cookie house with an icing-trimmed pitched roof, candy dots and a door."
+  },
+  {
+    "name": "lebkuchen",
+    "category": "bakery",
+    "draw": "Large heart-shaped gingerbread cookie with an iced scalloped border and a ribbon loop at the top."
+  },
+  {
+    "name": "biscotti",
+    "category": "bakery",
+    "draw": "Two long oblong slices of twice-baked biscuit with nut dots in the cut face."
+  },
+  {
+    "name": "shortbread",
+    "category": "bakery",
+    "draw": "Rectangular finger biscuit with rows of pricked fork holes."
+  },
+  {
+    "name": "thumbprint-cookie",
+    "category": "bakery",
+    "draw": "Round cookie with a rough edge and a round dip in the center filled with jam."
+  },
+  {
+    "name": "coconut-macaroon",
+    "category": "bakery",
+    "draw": "Craggy dome-shaped mound of shredded coconut with its base dipped in chocolate."
+  },
+  {
+    "name": "wafer",
+    "category": "bakery",
+    "draw": "Rectangular wafer biscuit with a crosshatched grid top and visible layered sides."
+  },
+  {
+    "name": "wafer-roll",
+    "category": "bakery",
+    "draw": "Two thin rolled tube wafers with a spiral line along their length."
+  },
+  {
+    "name": "linzer-cookie",
+    "category": "bakery",
+    "draw": "Round scalloped cookie with a small heart-shaped cut-out window showing jam underneath."
+  },
+  {
+    "name": "pinwheel-cookie",
+    "category": "bakery",
+    "draw": "Round cookie with a two-tone spiral swirl."
+  },
+  {
+    "name": "cracker",
+    "category": "bakery",
+    "draw": "Square crisp cracker with a rim and an even grid of docking holes."
+  },
+  {
+    "name": "rice-cracker",
+    "category": "bakery",
+    "draw": "Round flat puffed rice cracker wrapped with a band of seaweed."
+  },
+  {
+    "name": "ladyfinger",
+    "category": "bakery",
+    "draw": "Long flat oval sponge biscuit with sugar dots on top."
+  },
+  {
+    "name": "pizzelle",
+    "category": "bakery",
+    "draw": "Thin round wafer cookie with an embossed snowflake-like pattern."
+  },
+  {
+    "name": "granola-bar",
+    "category": "bakery",
+    "draw": "Rectangular bar with a chunky oat texture, its wrapper peeled back at one end."
+  },
+  {
+    "name": "milk-and-cookies",
+    "category": "bakery",
+    "draw": "Glass of milk standing next to a small stack of two round cookies."
+  },
+  {
+    "name": "cookie-jar",
+    "category": "bakery",
+    "draw": "Round glass jar with a knobbed lid holding stacked cookies."
+  },
+  {
+    "name": "cookie-tin",
+    "category": "bakery",
+    "draw": "Round flat tin with a lid half-off showing cookies in paper cups."
+  },
+  {
+    "name": "candy-cane",
+    "category": "bakery",
+    "draw": "Hooked striped cane with diagonal stripes."
+  },
+  {
+    "name": "gummy-bear",
+    "category": "bakery",
+    "draw": "Chubby bear-shaped gummy candy with round ears and short limbs."
+  },
+  {
+    "name": "gummy-worm",
+    "category": "bakery",
+    "draw": "Wiggly S-shaped worm candy with bands of color."
+  },
+  {
+    "name": "jelly-bean",
+    "category": "bakery",
+    "draw": "Three bean-shaped candies with glossy highlights."
+  },
+  {
+    "name": "cotton-candy",
+    "category": "bakery",
+    "draw": "Big fluffy cloud of spun sugar on a paper cone stick."
+  },
+  {
+    "name": "cotton-candy-machine",
+    "category": "bakery",
+    "draw": "Round wide spinning bowl on a cart with a cloud of floss rising from the center."
+  },
+  {
+    "name": "candy-apple",
+    "category": "bakery",
+    "draw": "Round apple coated in shiny candy with a drip pool at its base, speared on a stick."
+  },
+  {
+    "name": "rock-candy",
+    "category": "bakery",
+    "draw": "Wooden stick with a cluster of angular sugar crystals along its upper half."
+  },
+  {
+    "name": "candy-corn",
+    "category": "bakery",
+    "draw": "Triangular kernel-shaped candy with three horizontal color bands."
+  },
+  {
+    "name": "ribbon-candy",
+    "category": "bakery",
+    "draw": "Thin striped band of hard candy folded back and forth into tight waves."
+  },
+  {
+    "name": "marshmallow",
+    "category": "bakery",
+    "draw": "Short soft cylinder with slightly bulging sides seen at an angle."
+  },
+  {
+    "name": "roasted-marshmallow",
+    "category": "bakery",
+    "draw": "Marshmallow on the end of a long skewer with a toasted top and a small flame below."
+  },
+  {
+    "name": "smore",
+    "category": "bakery",
+    "draw": "Two square graham crackers sandwiching a chocolate piece and gooey marshmallow."
+  },
+  {
+    "name": "licorice",
+    "category": "bakery",
+    "draw": "Twisted rope-like candy stick with spiral grooves."
+  },
+  {
+    "name": "gumball-machine",
+    "category": "bakery",
+    "draw": "Round glass globe filled with gumballs on a stand with a coin slot and a crank."
+  },
+  {
+    "name": "chewing-gum",
+    "category": "bakery",
+    "draw": "Flat stick of gum half pulled out of its wrapper."
+  },
+  {
+    "name": "bubble-gum",
+    "category": "bakery",
+    "draw": "Big round bubble with a shine mark blown out from a small piece of gum."
+  },
+  {
+    "name": "peppermint-candy",
+    "category": "bakery",
+    "draw": "Round flat mint candy with a pinwheel of curved stripes and twisted wrapper ends."
+  },
+  {
+    "name": "chocolate-truffle",
+    "category": "bakery",
+    "draw": "Round cocoa-dusted ball sitting in a fluted paper cup."
+  },
+  {
+    "name": "chocolate-box",
+    "category": "bakery",
+    "draw": "Open box seen from above with a grid of round and square chocolates in compartments."
+  },
+  {
+    "name": "heart-chocolate",
+    "category": "bakery",
+    "draw": "Single heart-shaped chocolate wrapped in crinkled foil with a small tag."
+  },
+  {
+    "name": "chocolate-mold",
+    "category": "bakery",
+    "draw": "Flat tray with a grid of shaped cavities, one of them holding a finished chocolate."
+  },
+  {
+    "name": "fudge",
+    "category": "bakery",
+    "draw": "Stack of three square cubes of fudge with smooth tops."
+  },
+  {
+    "name": "gumdrop",
+    "category": "bakery",
+    "draw": "Dome-shaped candy with a flat base and a coating of sugar crystal dots."
+  },
+  {
+    "name": "candy-jar",
+    "category": "bakery",
+    "draw": "Glass jar with a lid filled with assorted round wrapped sweets."
+  },
+  {
+    "name": "chocolate-coin",
+    "category": "bakery",
+    "draw": "Round foil-wrapped coin with an embossed rim and a peeled edge."
+  },
+  {
+    "name": "chocolate-bunny",
+    "category": "bakery",
+    "draw": "Hollow chocolate rabbit sitting upright with long ears and a bow."
+  },
+  {
+    "name": "chocolate-strawberry",
+    "category": "bakery",
+    "draw": "Strawberry dipped halfway in chocolate with its leafy top showing."
+  },
+  {
+    "name": "sugared-almonds",
+    "category": "bakery",
+    "draw": "Small tulle pouch tied with a ribbon bow holding a few oval sugar-coated almonds."
+  },
+  {
+    "name": "sprinkles",
+    "category": "bakery",
+    "draw": "Scatter of short rounded rod-shaped sprinkles at different angles."
+  },
+  {
+    "name": "sugar-cube",
+    "category": "bakery",
+    "draw": "Two stacked sugar cubes with granular dot texture."
+  },
+  {
+    "name": "peanut-brittle",
+    "category": "bakery",
+    "draw": "Irregular flat shard of hard candy with whole peanuts embedded in it."
+  },
+  {
+    "name": "candy-wrapper",
+    "category": "bakery",
+    "draw": "Empty twisted wrapper with crinkled ends and a flat center."
+  },
+  {
+    "name": "maple-syrup",
+    "category": "bakery",
+    "draw": "Glass jug with a small finger loop handle and a maple leaf label."
+  },
+  {
+    "name": "honey-dipper",
+    "category": "bakery",
+    "draw": "Wooden honey dipper with grooved rounded head dripping a thick drop."
+  },
+  {
+    "name": "honeycomb",
+    "category": "bakery",
+    "draw": "Cluster of hexagon cells with one cell dripping honey."
+  },
+  {
+    "name": "milk-glass",
+    "category": "bakery",
+    "draw": "Tall glass filled with milk with a small splash and a highlight line."
+  },
+  {
+    "name": "milk-pail",
+    "category": "bakery",
+    "draw": "Metal bucket with a wire handle and milk splashing near the rim."
+  },
+  {
+    "name": "dairy-products",
+    "category": "bakery",
+    "draw": "Group of a milk bottle, a cheese wedge and a small yogurt cup standing together."
+  },
+  {
+    "name": "butter",
+    "category": "bakery",
+    "draw": "Rectangular stick of butter partly unwrapped with a pat sliced off."
+  },
+  {
+    "name": "butter-dish",
+    "category": "bakery",
+    "draw": "Covered rectangular dish with a domed lid lifted to show a block of butter."
+  },
+  {
+    "name": "butter-churn",
+    "category": "bakery",
+    "draw": "Tall wooden churn with metal bands and a plunger handle sticking out of the lid."
+  },
+  {
+    "name": "yogurt",
+    "category": "bakery",
+    "draw": "Short round cup with a peeled-back foil lid and a spoon."
+  },
+  {
+    "name": "whipped-cream",
+    "category": "bakery",
+    "draw": "Aerosol can with a nozzle topped with a swirl of whipped cream."
+  },
+  {
+    "name": "cheese-wheel",
+    "category": "bakery",
+    "draw": "Whole round drum of cheese with a wedge cut out showing the inside."
+  },
+  {
+    "name": "cheese-block",
+    "category": "bakery",
+    "draw": "Rectangular block of hard cheese with one thin slice falling away from the end."
+  },
+  {
+    "name": "brie",
+    "category": "bakery",
+    "draw": "Flat round cheese with a wedge cut out showing a soft center and a thin rind line."
+  },
+  {
+    "name": "camembert",
+    "category": "bakery",
+    "draw": "Round thin wooden box with its lid tilted open showing a round soft cheese inside."
+  },
+  {
+    "name": "mozzarella",
+    "category": "bakery",
+    "draw": "Smooth round ball of fresh cheese in a small bowl of liquid."
+  },
+  {
+    "name": "burrata",
+    "category": "bakery",
+    "draw": "Round pouch of cheese with a gathered knot on top, torn open to show creamy filling."
+  },
+  {
+    "name": "string-cheese",
+    "category": "bakery",
+    "draw": "Stick of cheese with strings peeling away from one end."
+  },
+  {
+    "name": "cheese-slice",
+    "category": "bakery",
+    "draw": "Square slice of processed cheese with its corner curling up."
+  },
+  {
+    "name": "blue-cheese",
+    "category": "bakery",
+    "draw": "Wedge of cheese with branching vein lines across its face."
+  },
+  {
+    "name": "goat-cheese",
+    "category": "bakery",
+    "draw": "Cylindrical log of soft cheese with one slice cut from the end."
+  },
+  {
+    "name": "cheese-cubes",
+    "category": "bakery",
+    "draw": "Three cheese cubes each speared on a cocktail pick."
+  },
+  {
+    "name": "cheese-pull",
+    "category": "bakery",
+    "draw": "Triangular slice being lifted away with long stretchy strands of melted cheese hanging below."
+  },
+  {
+    "name": "cheese-board",
+    "category": "bakery",
+    "draw": "Wooden board with a handle holding a cheese wedge, cubes and a few grapes."
+  },
+  {
+    "name": "cheese-knife",
+    "category": "bakery",
+    "draw": "Short knife with a forked tip and holes along its blade."
+  },
+  {
+    "name": "cheese-plane",
+    "category": "bakery",
+    "draw": "Flat triangular slicer with a slot blade and a short handle."
+  },
+  {
+    "name": "fried-egg",
+    "category": "bakery",
+    "draw": "Top view of a fried egg with an irregular wavy white and a round yolk."
+  },
+  {
+    "name": "boiled-egg",
+    "category": "bakery",
+    "draw": "Hard-boiled egg cut in half lengthwise showing a round yolk."
+  },
+  {
+    "name": "cracked-egg",
+    "category": "bakery",
+    "draw": "Egg split into two jagged shell halves with the yolk falling out."
+  },
+  {
+    "name": "quail-egg",
+    "category": "bakery",
+    "draw": "Small oval egg covered in irregular dark speckles."
+  },
+  {
+    "name": "egg-carton",
+    "category": "bakery",
+    "draw": "Open carton with a row of domed egg cups holding eggs and a hinged lid."
+  },
+  {
+    "name": "egg-basket",
+    "category": "bakery",
+    "draw": "Round wire basket with a handle filled with a heap of eggs."
+  },
+  {
+    "name": "egg-cup",
+    "category": "bakery",
+    "draw": "Footed cup holding a whole upright egg."
+  },
+  {
+    "name": "omelet",
+    "category": "bakery",
+    "draw": "Folded half-moon omelet on a plate with a herb sprinkle."
+  },
+  {
+    "name": "peanut-butter",
+    "category": "bakery",
+    "draw": "Wide jar with a screw lid and a peanut on the label, and a knife with a smear."
+  },
+  {
+    "name": "mustard",
+    "category": "bakery",
+    "draw": "Small pot with a notched lid and a little wooden spoon sticking out."
+  },
+  {
+    "name": "mayonnaise",
+    "category": "bakery",
+    "draw": "Wide squat jar with a glossy swirl dollop visible through the top."
+  },
+  {
+    "name": "hot-sauce",
+    "category": "bakery",
+    "draw": "Slim bottle with a long narrow neck, a small cap and a chili pepper label."
+  },
+  {
+    "name": "soy-sauce",
+    "category": "bakery",
+    "draw": "Small glass dispenser with a spout next to a shallow round dipping dish."
+  },
+  {
+    "name": "soy-fish",
+    "category": "bakery",
+    "draw": "Small fish-shaped squeeze container with a screw cap in its mouth."
+  },
+  {
+    "name": "gravy-boat",
+    "category": "bakery",
+    "draw": "Low oval sauce boat with a long pouring lip and a looped handle on a saucer."
+  },
+  {
+    "name": "oil-cruet",
+    "category": "bakery",
+    "draw": "Slender glass bottle with a stopper and a thin angled pouring spout."
+  },
+  {
+    "name": "dipping-sauce",
+    "category": "bakery",
+    "draw": "Small round ramekin filled with sauce and a chip dipping into it."
+  },
+  {
+    "name": "sauce-cup",
+    "category": "bakery",
+    "draw": "Small round plastic portion cup with a clear lid snapped on, filled with sauce."
+  },
+  {
+    "name": "sauce-packet",
+    "category": "bakery",
+    "draw": "Small rectangular sachet with a tear notch on one corner and zigzag sealed edges."
+  },
+  {
+    "name": "condiment-pump",
+    "category": "bakery",
+    "draw": "Countertop dispenser jar with a large push-down pump head and a curved spout."
+  },
+  {
+    "name": "honey-bear-bottle",
+    "category": "bakery",
+    "draw": "Squeeze bottle shaped like a sitting bear with a pointed cap on its head."
+  },
+  {
+    "name": "syrup-dispenser",
+    "category": "bakery",
+    "draw": "Glass jar with a handle and a hinged metal lid with a thumb lever."
+  },
+  {
+    "name": "sugar-dispenser",
+    "category": "bakery",
+    "draw": "Glass jar with a metal lid and a slanted pouring spout."
+  },
+  {
+    "name": "rolling-pin",
+    "category": "bakery",
+    "draw": "Cylindrical rolling pin with two handles lying on a flat sheet of dough."
+  },
+  {
+    "name": "piping-bag",
+    "category": "bakery",
+    "draw": "Cone-shaped bag with a star nozzle at the tip squeezing out a swirl of icing."
+  },
+  {
+    "name": "piping-tip",
+    "category": "bakery",
+    "draw": "Small metal cone nozzle with a star-shaped serrated opening."
+  },
+  {
+    "name": "cookie-cutter",
+    "category": "bakery",
+    "draw": "Outline of a metal cutter shaped like a gingerbread figure with a rolled edge."
+  },
+  {
+    "name": "doughnut-cutter",
+    "category": "bakery",
+    "draw": "Round cutter with an inner ring for the hole and a handle across the top."
+  },
+  {
+    "name": "muffin-tin",
+    "category": "bakery",
+    "draw": "Rectangular pan seen from above with a grid of six round cups."
+  },
+  {
+    "name": "loaf-pan",
+    "category": "bakery",
+    "draw": "Deep rectangular pan with slightly flared sides seen at an angle."
+  },
+  {
+    "name": "bundt-pan",
+    "category": "bakery",
+    "draw": "Round fluted ring pan with a central tube seen at an angle."
+  },
+  {
+    "name": "springform-pan",
+    "category": "bakery",
+    "draw": "Round pan with straight sides and a clamp latch on its side."
+  },
+  {
+    "name": "cake-pan",
+    "category": "bakery",
+    "draw": "Round shallow straight-sided pan seen at an angle."
+  },
+  {
+    "name": "tart-pan",
+    "category": "bakery",
+    "draw": "Shallow round pan with a fluted rim."
+  },
+  {
+    "name": "pie-dish",
+    "category": "bakery",
+    "draw": "Shallow round dish with a wide rim and sloped sides."
+  },
+  {
+    "name": "baking-sheet",
+    "category": "bakery",
+    "draw": "Flat rectangular sheet pan with a rim holding round cookies in rows."
+  },
+  {
+    "name": "cooling-rack",
+    "category": "bakery",
+    "draw": "Rectangular wire grid on short feet holding a couple of cookies."
+  },
+  {
+    "name": "flour-sifter",
+    "category": "bakery",
+    "draw": "Cylindrical cup sifter with a side crank handle and flour falling through a mesh bottom."
+  },
+  {
+    "name": "pastry-brush",
+    "category": "bakery",
+    "draw": "Short brush with a wooden handle and flat bristles."
+  },
+  {
+    "name": "bench-scraper",
+    "category": "bakery",
+    "draw": "Flat rectangular metal blade with a rolled handle along one long edge."
+  },
+  {
+    "name": "pastry-wheel",
+    "category": "bakery",
+    "draw": "Handle with a small fluted cutting wheel at its end."
+  },
+  {
+    "name": "pastry-blender",
+    "category": "bakery",
+    "draw": "Handle with several curved U-shaped wires for cutting in butter."
+  },
+  {
+    "name": "proofing-basket",
+    "category": "bakery",
+    "draw": "Round proofing basket with concentric coil rings seen from above at an angle."
+  },
+  {
+    "name": "bread-lame",
+    "category": "bakery",
+    "draw": "Small straight handle holding a curved razor blade for scoring dough."
+  },
+  {
+    "name": "dough-hook",
+    "category": "bakery",
+    "draw": "Spiral hook-shaped mixer attachment with a round coupling at the top."
+  },
+  {
+    "name": "offset-spatula",
+    "category": "bakery",
+    "draw": "Long thin rounded blade with a bent neck and a handle, smoothing frosting."
+  },
+  {
+    "name": "cake-turntable",
+    "category": "bakery",
+    "draw": "Flat round rotating top on a short base with a curved arrow."
+  },
+  {
+    "name": "cake-stand",
+    "category": "bakery",
+    "draw": "Round plate on a single tall pedestal foot holding a cake."
+  },
+  {
+    "name": "tiered-stand",
+    "category": "bakery",
+    "draw": "Three round plates stacked on a central rod with a looped handle on top."
+  },
+  {
+    "name": "cake-carrier",
+    "category": "bakery",
+    "draw": "Round lidded cake container with a folding carry handle over the top."
+  },
+  {
+    "name": "cupcake-liner",
+    "category": "bakery",
+    "draw": "Empty pleated paper cup with flared ridged sides."
+  },
+  {
+    "name": "doily",
+    "category": "bakery",
+    "draw": "Round lace paper mat with a scalloped edge and a ring of cut-out holes."
+  },
+  {
+    "name": "pastry-box",
+    "category": "bakery",
+    "draw": "Folded cardboard cake box with a window and string tied in a bow on top."
+  },
+  {
+    "name": "donut-box",
+    "category": "bakery",
+    "draw": "Long box with its lid flipped open showing two rows of ring doughnuts."
+  },
+  {
+    "name": "bakery-bag",
+    "category": "bakery",
+    "draw": "Paper bag with a folded rim and two baguettes sticking out of the top."
+  },
+  {
+    "name": "bread-box",
+    "category": "bakery",
+    "draw": "Box with a rolled-up tambour lid opening to show a loaf inside."
+  },
+  {
+    "name": "bread-basket",
+    "category": "bakery",
+    "draw": "Woven oval basket lined with a cloth holding a few rolls."
+  },
+  {
+    "name": "bread-machine",
+    "category": "bakery",
+    "draw": "Boxy countertop appliance with a hinged lid window showing a loaf inside."
+  },
+  {
+    "name": "toast-rack",
+    "category": "bakery",
+    "draw": "Small metal rack with arched dividers holding three upright slices of toast."
+  },
+  {
+    "name": "pastry-display",
+    "category": "bakery",
+    "draw": "Glass-fronted counter case with two shelves of cakes and pastries."
+  },
+  {
+    "name": "bakery-shop",
+    "category": "bakery",
+    "draw": "Small shopfront with a scalloped awning, a window display and a loaf sign."
+  },
+  {
+    "name": "choux-swan",
+    "category": "bakery",
+    "draw": "Cream puff shaped like a swan: a round cream body with wing-shaped pastry halves and a thin curved S-shaped neck."
+  },
+  {
+    "name": "cupcake-tower",
+    "category": "bakery",
+    "draw": "Tiered round stand holding rows of cupcakes arranged in a pyramid."
+  },
+  {
+    "name": "candy-bag",
+    "category": "bakery",
+    "draw": "Striped paper bag with its top open and round sweets and a lollipop peeking out."
+  },
+  {
+    "name": "mint-tin",
+    "category": "bakery",
+    "draw": "Small flat rectangular tin with its hinged lid open showing oval mints inside."
+  },
+  {
+    "name": "milk-splash",
+    "category": "bakery",
+    "draw": "Crown-shaped splash of milk with droplets flying up from a flat pool."
+  },
+  {
+    "name": "milk-powder",
+    "category": "bakery",
+    "draw": "Round tin with its lid off, a scoop resting on a heap of fine powder."
+  },
+  {
+    "name": "condensed-milk",
+    "category": "bakery",
+    "draw": "Short can with a punched hole in its lid and a thick ribbon of milk pouring out."
+  },
+  {
+    "name": "twin-popsicle",
+    "category": "bakery",
+    "draw": "Rectangular ice pop split down the middle with two wooden sticks at the base."
+  },
+  {
+    "name": "rocket-popsicle",
+    "category": "bakery",
+    "draw": "Ice pop in three stacked tiers narrowing to a pointed tip, on a wooden stick."
+  },
+  {
+    "name": "monkey-bread",
+    "category": "bakery",
+    "draw": "Ring-shaped loaf built from many small round dough balls stuck together."
+  },
+  {
+    "name": "bread-wreath",
+    "category": "bakery",
+    "draw": "Round braided ring of bread with a visible twisted plait running all the way around."
+  },
+  {
+    "name": "cookie-press",
+    "category": "bakery",
+    "draw": "Tube-shaped hand press with a trigger handle pushing a shaped cookie out of the nozzle."
+  },
+  {
+    "name": "pyramid-cheese",
+    "category": "bakery",
+    "draw": "Squat four-sided cheese pyramid with a flat cut top and a dusted rind."
+  },
+  {
+    "name": "provolone",
+    "category": "bakery",
+    "draw": "Pear-shaped cheese hanging from a rope tied around its narrow neck."
+  },
+  {
+    "name": "melon-pan",
+    "category": "bakery",
+    "draw": "Round domed sweet bun with a crisp top scored in a crosshatch grid."
+  },
+  {
+    "name": "princess-cake",
+    "category": "bakery",
+    "draw": "Smooth dome-shaped cake covered in a marzipan layer with a single rose on top."
+  },
+  {
+    "name": "tomato-paste-tube",
+    "category": "bakery",
+    "draw": "Squeezable metal food tube with a screw cap and its flat end rolled up."
+  },
+  {
+    "name": "cake-decorating",
+    "category": "bakery",
+    "draw": "Piping bag held over a round cake piping a swirl onto its top edge."
+  },
+  {
+    "name": "cake-cutting",
+    "category": "bakery",
+    "draw": "Round tiered cake with a knife blade pushed into it from above."
+  }
+]

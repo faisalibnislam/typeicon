@@ -1,0 +1,482 @@
+[
+ {
+  "name": "fishplate",
+  "category": "railway",
+  "draw": "Side view of two rail ends butted together with a long flat plate bolted across the joint by four bolt heads.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railroad-tie",
+  "category": "railway",
+  "draw": "A single rectangular wooden sleeper seen at an angle, with wood grain lines and a rail foot clipped across each end.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-spike",
+  "category": "railway",
+  "draw": "A long square iron spike with an offset hooked head, drawn upright with its chisel point at the bottom.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-fastening-clip",
+  "category": "railway",
+  "draw": "Cross section of a rail foot held down by a curly spring steel clip anchored into a sleeper shoulder.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "tie-plate",
+  "category": "railway",
+  "draw": "Top view of a flat ribbed steel plate with a central rail seat and four square spike holes at the corners.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-ballast",
+  "category": "railway",
+  "draw": "Cross section of a railway track: two small rails on a sleeper sitting on a trapezoid mound of angular stones.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "check-rail",
+  "category": "railway",
+  "draw": "Top view of a curved rail with a second short rail running close alongside its inner edge, bolted with spacer blocks.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "turnout-frog",
+  "category": "railway",
+  "draw": "Top view of the V shaped crossing piece where two rails meet at a point, with short wing rails flaring outward.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "switch-point-blade",
+  "category": "railway",
+  "draw": "Top view of a tapered movable rail tongue lying against a straight stock rail, with a small arrow showing its swing.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "diamond-crossing",
+  "category": "railway",
+  "draw": "Top view of two railway tracks crossing each other at a shallow angle, forming a diamond of rails in the middle.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "double-slip-switch",
+  "category": "railway",
+  "draw": "Top view of a diamond crossing with extra curved rail pairs on both sides linking the two tracks.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "scissors-crossover",
+  "category": "railway",
+  "draw": "Top view of two parallel tracks joined by two diagonal crossover tracks forming a large X between them.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "three-way-switch",
+  "category": "railway",
+  "draw": "Top view of a single track splitting into three tracks at once, left, straight and right, from one point.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "derailer",
+  "category": "railway",
+  "draw": "A small wedge shaped steel block clamped on top of one rail with a bright flag sign on a short post beside it.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-expansion-joint",
+  "category": "railway",
+  "draw": "Top view of two rail ends cut at a long diagonal angle and overlapping side by side so they can slide.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "third-rail",
+  "category": "railway",
+  "draw": "Cross section of a track with two running rails and a third rail beside them under a flat protective cover board.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "catenary-tensioner",
+  "category": "railway",
+  "draw": "A trackside mast with a pulley wheel at the top and a stack of round weights hanging from a cable below it.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-gauge",
+  "category": "railway",
+  "draw": "Front view of two rail head profiles with a horizontal dimension arrow measuring the distance between their inner edges.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "dual-gauge-track",
+  "category": "railway",
+  "draw": "Top view of a track with three rails, one outer rail shared, showing a narrow and a wide gauge on the same sleepers.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "point-motor",
+  "category": "railway",
+  "draw": "A low rectangular trackside box beside a switch blade, with a drive rod running from the box to the rails.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "switch-stand",
+  "category": "railway",
+  "draw": "A short ground lever beside the rails with a tall post topped by a round target disc that shows the switch position.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "balise",
+  "category": "railway",
+  "draw": "Top view of a flat yellow rectangular beacon box fixed on a sleeper in the middle of the track between the rails.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "axle-counter",
+  "category": "railway",
+  "draw": "Side view of a rail with a small sensor head clamped to its web and a wheel flange passing above it.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-circuit",
+  "category": "railway",
+  "draw": "Two rails as parallel lines with a battery symbol connected across one end and a relay coil across the other end.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "trackside-cabinet",
+  "category": "railway",
+  "draw": "A tall grey equipment cabinet with double doors, vents and a cable duct running down into the ground beside a rail.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railway-milepost",
+  "category": "railway",
+  "draw": "A short white post with a slanted top face showing a number, standing beside a railway track.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "gradient-post",
+  "category": "railway",
+  "draw": "A short post with two arms, one sloping up and one sloping down, each with a number, beside a track.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "speed-restriction-board",
+  "category": "railway",
+  "draw": "A tall trackside sign on a post showing a large number, marking a speed limit for trains.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "whistle-post",
+  "category": "railway",
+  "draw": "A small trackside sign on a post showing a bold letter W, telling drivers to sound the horn.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "station-name-board",
+  "category": "railway",
+  "draw": "A long rectangular sign held between two posts with a single line of text, standing on a railway platform.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "platform-number-sign",
+  "category": "railway",
+  "draw": "A square hanging sign with a large number and a small train symbol, suspended from a canopy by two rods.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "island-platform",
+  "category": "railway",
+  "draw": "Top view of a long narrow platform with tracks running along both sides and a canopy line down its middle.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-boarding-ramp",
+  "category": "railway",
+  "draw": "A short folding ramp bridging the gap from a platform edge to an open train door, with a wheelchair symbol on it.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "dispatch-paddle",
+  "category": "railway",
+  "draw": "A round signal disc on a short handle, like a lollipop, held up by a hand, used to send a train off.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-detonator",
+  "category": "railway",
+  "draw": "A small flat round disc strapped to the top of a rail with two lead straps folded under the railhead.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "crossing-bell",
+  "category": "railway",
+  "draw": "A round gong bell on a post above a crossbuck, with short sound arcs on both sides.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "gated-level-crossing",
+  "category": "railway",
+  "draw": "Top view of a road crossing a railway with two swinging gates closed across the road.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "pedestrian-level-crossing",
+  "category": "railway",
+  "draw": "Top view of a footpath crossing railway tracks with zigzag barrier fences at each side of the rails.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "railroad-crossing-marking",
+  "category": "railway",
+  "draw": "A road surface marking seen from above: a large X with the letter R on each side, as painted before a crossing.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "dwarf-signal",
+  "category": "railway",
+  "draw": "A short squat signal box sitting at ground level beside the rails, with two small round lamps in its face.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "distant-signal",
+  "category": "railway",
+  "draw": "A semaphore signal post with a single arm whose outer end is cut with a V shaped fishtail notch.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "position-light-signal",
+  "category": "railway",
+  "draw": "A round signal target on a post showing a row of three lamps in a line, like a clock hand.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "route-indicator",
+  "category": "railway",
+  "draw": "A signal head with a diagonal row of five small lamps extending out from its top corner, showing a diverging route.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "banner-repeater-signal",
+  "category": "railway",
+  "draw": "A round window on a post showing a single black bar across its centre, a repeater signal.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "signal-gantry",
+  "category": "railway",
+  "draw": "A steel lattice bridge spanning several tracks with a row of signal heads hanging from it above each track.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "cab-signal-display",
+  "category": "railway",
+  "draw": "A small dashboard screen in a train cab showing a speed dial and a colored signal aspect symbol beside it.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "signal-post-telephone",
+  "category": "railway",
+  "draw": "A small box with a handset on its side, mounted on a signal post with a telephone symbol on the door.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "signaling-panel",
+  "category": "railway",
+  "draw": "A wide control panel showing a track diagram of lines and switches with rows of small lamps and buttons below.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "single-line-token",
+  "category": "railway",
+  "draw": "A round metal disc token with a hole in the center and engraved section letters, hanging from a leather pouch.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "tablet-catcher",
+  "category": "railway",
+  "draw": "A large wire hoop on a long handle, used to hand a single line token to a passing train crew.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "block-instrument",
+  "category": "railway",
+  "draw": "A wooden box with a round dial face showing a needle pointing to line clear or train on line, and a handle below.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "ground-frame",
+  "category": "railway",
+  "draw": "A small trackside frame with two or three short levers in a row under a hinged cover, beside the rails.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "spike-maul",
+  "category": "railway",
+  "draw": "A long handled hammer with a narrow double ended head, one end long and slim for driving rail spikes.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-claw-bar",
+  "category": "railway",
+  "draw": "A long steel bar with a forked claw at one bent end, used to pull rail spikes out of sleepers.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-tongs",
+  "category": "railway",
+  "draw": "A pair of large hinged tongs with curved jaws gripping the head of a short rail section, with two handles.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-wrench",
+  "category": "railway",
+  "draw": "A very long open ended spanner with a straight handle, sized for fishplate bolts on railway joints.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-jack",
+  "category": "railway",
+  "draw": "A squat mechanical jack with a toe lifting plate under a rail and a long ratchet handle on top.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-saw",
+  "category": "railway",
+  "draw": "A portable engine driven cutoff saw with a round abrasive disc clamped over a rail section.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-drill",
+  "category": "railway",
+  "draw": "A compact drilling machine clamped to the side of a rail, with a drill bit pointing into the web.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-bender",
+  "category": "railway",
+  "draw": "A heavy steel frame with a large screw and handle clamped over a rail, bending it into a curve.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "tamping-pick",
+  "category": "railway",
+  "draw": "A pickaxe with one pointed end and one flat broad beater end, used to pack ballast under sleepers.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "ballast-fork",
+  "category": "railway",
+  "draw": "A wide fork with many long straight tines on a D handle, used to lift stones without soil.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-thermometer",
+  "category": "railway",
+  "draw": "A round dial thermometer with a magnetic base stuck to the side of a rail, needle pointing to a mark.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "thermite-welding",
+  "category": "railway",
+  "draw": "A small crucible on a stand above a gap between two rail ends, with sparks falling into a mould.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rerailing-ramp",
+  "category": "railway",
+  "draw": "A curved steel ramp placed on top of a rail with a train wheel climbing up it back onto the track.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-trolley",
+  "category": "railway",
+  "draw": "Side view of a small flat four wheeled trolley on rails with a push handle at one end.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-speeder",
+  "category": "railway",
+  "draw": "Side view of a small motorized rail car with a boxy cab, a windshield and four small flanged wheels.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-flaw-detector",
+  "category": "railway",
+  "draw": "A light walking trolley on one rail with a tall push handle and a small screen showing a pulse waveform.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-geometry-car",
+  "category": "railway",
+  "draw": "Side view of a rail coach with a sensor beam and small laser lines pointing down at the rails under its middle.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "tamping-machine",
+  "category": "railway",
+  "draw": "Side view of a long track machine with a cab at each end and a row of vibrating tines plunging into the ballast.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "ballast-regulator",
+  "category": "railway",
+  "draw": "Side view of a short track vehicle with a wide plough blade at the front and rotating brush at the rear.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "track-laying-machine",
+  "category": "railway",
+  "draw": "Side view of a gantry vehicle lifting a pre built track panel of rails and sleepers down onto the ground.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "overhead-line-vehicle",
+  "category": "railway",
+  "draw": "Side view of a rail vehicle with a raised work platform and railings reaching up to an overhead wire.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-grinding-train",
+  "category": "railway",
+  "draw": "Side view of a rail vehicle with a row of grinding stones under its body throwing a shower of sparks.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "rail-pass",
+  "category": "railway",
+  "draw": "A small folding booklet pass with a train front on its cover and a column of date boxes inside.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-timetable",
+  "category": "railway",
+  "draw": "A sheet with a train front at the top and columns of times in a grid below.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "quiet-carriage",
+  "category": "railway",
+  "draw": "Side view of a train carriage with a finger to lips symbol shown in its window.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "first-class-carriage",
+  "category": "railway",
+  "draw": "Side view of a train carriage with a large numeral 1 above its windows and a stripe along its body.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "reserved-seat-tag",
+  "category": "railway",
+  "draw": "The top of a train seat headrest with a small card clipped into a holder showing a seat number.",
+  "domain": "r3-railway-operations"
+ },
+ {
+  "name": "train-seat",
+  "category": "railway",
+  "draw": "Two upholstered train seats side by side seen from the front, with tall headrests and a shared armrest.",
+  "domain": "r3-railway-operations"
+ }
+]

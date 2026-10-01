@@ -1,0 +1,482 @@
+[
+ {
+  "name": "pancreas",
+  "category": "anatomy",
+  "draw": "Elongated tapered organ lying horizontally, a wide rounded head at one end narrowing to a thin tail, with a duct line running through it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "spleen",
+  "category": "anatomy",
+  "draw": "Curved bean-like organ shaped like a fat crescent, with a notch on the inner edge where small vessels enter.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "gallbladder",
+  "category": "anatomy",
+  "draw": "Pear-shaped sac hanging from a short curved duct, with two small round stones visible inside.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "appendix",
+  "category": "anatomy",
+  "draw": "Lower end of the large intestine drawn as a rounded pouch with a small finger-like tube hanging from it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "esophagus",
+  "category": "anatomy",
+  "draw": "Long vertical tube running from a throat outline down into the top of a stomach shape.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "trachea",
+  "category": "anatomy",
+  "draw": "Vertical windpipe tube made of stacked horizontal cartilage rings, splitting into two short branches at the bottom.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "larynx",
+  "category": "anatomy",
+  "draw": "Front view of the voice box: a shield-shaped cartilage with a notch at the top, sitting on a ringed tube.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "vocal-cords",
+  "category": "anatomy",
+  "draw": "Top view down the throat of two pale folds forming a V shape inside a rounded opening.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "diaphragm",
+  "category": "anatomy",
+  "draw": "Dome-shaped muscle arching beneath the outline of two lungs, with a small up and down arrow below it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "bronchial-tree",
+  "category": "anatomy",
+  "draw": "Windpipe splitting into two bronchi that keep branching into smaller tubes like an upside-down tree.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "alveoli",
+  "category": "anatomy",
+  "draw": "Cluster of small round air sacs like a bunch of grapes at the end of a single branching tube.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "heart-cross-section",
+  "category": "anatomy",
+  "draw": "Anatomical heart cut open to show four chambers separated by a central wall and valve lines.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "capillaries",
+  "category": "anatomy",
+  "draw": "Fine mesh of thin branching vessels linking a thicker vessel on each side.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "lymph-node",
+  "category": "anatomy",
+  "draw": "Bean-shaped node with several thin vessels entering its curved side and one leaving from the notch.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "tonsils",
+  "category": "anatomy",
+  "draw": "Wide open mouth seen from the front with the hanging uvula in the middle and an oval tonsil on either side of the throat.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "thymus",
+  "category": "anatomy",
+  "draw": "Two-lobed gland shaped like a pair of soft leaves sitting just above a small heart outline.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "bone-marrow",
+  "category": "anatomy",
+  "draw": "Long bone cut open lengthwise showing a hollow center filled with dotted spongy marrow.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "adrenal-glands",
+  "category": "anatomy",
+  "draw": "Pair of kidneys each topped by a small triangular cap gland, the caps drawn solid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "pituitary-gland",
+  "category": "anatomy",
+  "draw": "Side view of a brain with a small pea-shaped gland hanging on a short stalk from its underside.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "prostate",
+  "category": "anatomy",
+  "draw": "Walnut-shaped gland wrapped around the base of a bladder outline, with a thin tube passing through it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "salivary-glands",
+  "category": "anatomy",
+  "draw": "Head in side profile with small gland shapes near the ear and under the jaw, joined by thin ducts to the mouth.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sinuses",
+  "category": "anatomy",
+  "draw": "Front view face outline with paired air cavities drawn above the eyebrows and beside the nose.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "cochlea",
+  "category": "anatomy",
+  "draw": "Snail-shell spiral of the inner ear with a short stub where the hearing nerve leaves.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "ear-anatomy",
+  "category": "anatomy",
+  "draw": "Cross-section of the ear: the outer ear shell, a canal to the eardrum, three tiny bones and a snail spiral at the inner end.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "eye-anatomy",
+  "category": "anatomy",
+  "draw": "Side cross-section of an eyeball showing the lens at the front and the optic nerve leaving from the back.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "brain-lobes",
+  "category": "anatomy",
+  "draw": "Side view brain divided by clear lines into four lobe sections, with the small cerebellum below.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "cerebellum",
+  "category": "anatomy",
+  "draw": "Side view brain drawn in outline with the small striped cerebellum at the lower back drawn solid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "brainstem",
+  "category": "anatomy",
+  "draw": "Side view brain drawn in outline with the stalk-like brainstem descending from its base drawn solid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "brain-hemispheres",
+  "category": "anatomy",
+  "draw": "Brain seen from above, split down the middle into two matching halves with folds on each.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "synapse",
+  "category": "anatomy",
+  "draw": "Two nerve endings meeting across a small gap, with tiny dots of chemical messengers crossing between them.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "spinal-cord",
+  "category": "anatomy",
+  "draw": "Long vertical cord with pairs of nerve roots branching out to both sides at even intervals, no vertebrae shown.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "skin-layers",
+  "category": "anatomy",
+  "draw": "Square block of skin in cross-section with three stacked layers and a single hair rising from a root below.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "hair-follicle",
+  "category": "anatomy",
+  "draw": "Single hair growing out of a bulb-shaped pocket beneath a wavy skin surface line.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "tooth-anatomy",
+  "category": "anatomy",
+  "draw": "Molar cut in half showing the enamel crown, the inner pulp chamber and two roots set below a gum line.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "gums",
+  "category": "anatomy",
+  "draw": "Row of front teeth set into a curved gum band, the gums drawn as a bold scalloped shape.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "incisor",
+  "category": "anatomy",
+  "draw": "Single flat chisel-shaped front tooth with a straight biting edge and one long root.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "canine-tooth",
+  "category": "anatomy",
+  "draw": "Single pointed cuspid tooth with a sharp tip and one long tapering root.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "wisdom-tooth",
+  "category": "anatomy",
+  "draw": "Molar lying tilted inside a jaw outline, pushing sideways against the neighboring tooth.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "dental-arch",
+  "category": "anatomy",
+  "draw": "Top view of a horseshoe-shaped row of teeth, as drawn on a dental chart.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "internal-organs",
+  "category": "anatomy",
+  "draw": "Torso outline showing the lungs, heart, liver, stomach and coiled intestines stacked inside.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "digestive-system",
+  "category": "anatomy",
+  "draw": "Torso and head outline with one path from the mouth down the esophagus to the stomach and the coiled intestines.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "respiratory-system",
+  "category": "anatomy",
+  "draw": "Head and torso outline with the nasal passage and windpipe leading down into two lungs.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "circulatory-system",
+  "category": "anatomy",
+  "draw": "Standing body outline with a heart in the chest and branching vessels running out to the arms and legs.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "nervous-system",
+  "category": "anatomy",
+  "draw": "Standing body outline with the brain and spinal cord drawn solid and thin nerves branching out to the limbs.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "muscular-system",
+  "category": "anatomy",
+  "draw": "Front view figure with visible muscle bands on the chest, arms, abdomen and thighs.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "endocrine-system",
+  "category": "anatomy",
+  "draw": "Body outline with small gland dots marked in the head, neck, chest, abdomen and pelvis.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "lymphatic-system",
+  "category": "anatomy",
+  "draw": "Body outline with thin vessels along the limbs and clusters of small node dots at the neck, armpits and groin.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "male-reproductive-system",
+  "category": "anatomy",
+  "draw": "Clinical front view diagram of a bladder outline with the prostate below it and paired testes joined by thin ducts.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "femur",
+  "category": "anatomy",
+  "draw": "Long thigh bone with a ball-shaped head set at an angle on a short neck at the top and a double knob at the bottom.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "vertebra",
+  "category": "anatomy",
+  "draw": "Single vertebra seen from above: a round body with a ring behind it and three pointed bony spurs.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "hand-skeleton",
+  "category": "anatomy",
+  "draw": "Bones of the hand: small wrist bones at the base with five chains of finger bones spreading upward.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "foot-skeleton",
+  "category": "anatomy",
+  "draw": "Bones of the foot seen from above: the heel bone, small ankle bones and five chains of toe bones.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "collarbone",
+  "category": "anatomy",
+  "draw": "Slender S-curved horizontal bone with rounded ends, lying across the top of a shoulder outline.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "shoulder-blade",
+  "category": "anatomy",
+  "draw": "Flat triangular bone with a ridge across its upper part and a shallow socket at the outer corner.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "ball-and-socket-joint",
+  "category": "anatomy",
+  "draw": "Rounded bone head sitting in a cup-shaped socket, both bone ends shown in cross-section.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "red-blood-cell",
+  "category": "anatomy",
+  "draw": "Round disc cell with a dimpled center, shown face on as a ring and beside it edge on as a pinched oval.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "white-blood-cell",
+  "category": "anatomy",
+  "draw": "Round cell with a bumpy edge and a large multi-lobed nucleus inside.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "platelet",
+  "category": "anatomy",
+  "draw": "Three small irregular cell fragments with short spiky arms, grouped together.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sickle-cell",
+  "category": "anatomy",
+  "draw": "Crescent sickle-shaped red blood cell next to one normal round disc cell.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "antibody",
+  "category": "anatomy",
+  "draw": "Y-shaped antibody molecule with two arms and a stem, each part drawn as a double line.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "chromosome",
+  "category": "anatomy",
+  "draw": "X-shaped chromosome of two arms pinched together at the center, with band lines across each arm.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "cell-division",
+  "category": "anatomy",
+  "draw": "One cell pinched in the middle into two round halves, each holding its own nucleus.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "mitochondrion",
+  "category": "anatomy",
+  "draw": "Oval capsule-shaped organelle with a wavy folded inner membrane running along its length.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "cancer-cell",
+  "category": "anatomy",
+  "draw": "Irregular lumpy cell with an oversized nucleus and several small spiky protrusions on its edge.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "stem-cell",
+  "category": "anatomy",
+  "draw": "Central round cell with three short arrows leading to smaller specialized cells of different shapes.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sperm-cell",
+  "category": "anatomy",
+  "draw": "Sperm cell with an oval head and a long wavy tail.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "ovum",
+  "category": "anatomy",
+  "draw": "Large round egg cell with a thick outer ring, a small nucleus and a few tiny cells hugging its edge.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "fertilization",
+  "category": "anatomy",
+  "draw": "Large round egg cell with a single sperm cell touching its surface, the tail trailing away.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "embryo",
+  "category": "anatomy",
+  "draw": "Early embryo as a tight round ball of eight clustered cells inside a thin outer ring.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "fetus",
+  "category": "anatomy",
+  "draw": "Curled fetus in side view inside a round womb outline, with a large head, tucked knees and an umbilical cord.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "rna",
+  "category": "anatomy",
+  "draw": "Single wavy strand with short base rungs sticking out on one side only.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "bacteriophage",
+  "category": "anatomy",
+  "draw": "Virus shaped like a lunar lander: an angular head on a straight tail with jointed legs splayed below.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "spiral-bacteria",
+  "category": "anatomy",
+  "draw": "Corkscrew-shaped spiral bacterium with a small whip tail at each end.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "streptococcus",
+  "category": "anatomy",
+  "draw": "Chain of small round bacteria beads linked in a gently curving line.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "glutes",
+  "category": "anatomy",
+  "draw": "Rear view of the hips and buttocks with the gluteal muscles drawn solid and the legs in outline below.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "quadriceps",
+  "category": "anatomy",
+  "draw": "Front view of a thigh with the large four-part muscle above the knee drawn solid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "hamstrings",
+  "category": "anatomy",
+  "draw": "Rear view of a thigh with the long back-of-thigh muscles between hip and knee drawn solid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "triceps",
+  "category": "anatomy",
+  "draw": "Rear view of an upper arm with the horseshoe-shaped muscle above the elbow drawn solid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "lats",
+  "category": "anatomy",
+  "draw": "Rear view torso with the wide wing-shaped muscles on each side of the back drawn solid, forming a V.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "traps",
+  "category": "anatomy",
+  "draw": "Rear view of the neck and shoulders with the diamond-shaped trapezius muscle drawn solid from neck to mid back.",
+  "domain": "anatomy-and-conditions"
+ }
+]

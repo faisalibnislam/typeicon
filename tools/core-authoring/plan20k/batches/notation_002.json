@@ -1,0 +1,482 @@
+[
+ {
+  "name": "sigmoid-curve",
+  "category": "notation",
+  "draw": "An S shaped logistic curve rising from a low flat line to a high flat line on axes.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "exponential-curve",
+  "category": "notation",
+  "draw": "A curve on axes that starts flat and rises steeply to the upper right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "logarithmic-curve",
+  "category": "notation",
+  "draw": "A curve on axes that rises steeply first and then flattens toward the right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "step-function",
+  "category": "notation",
+  "draw": "A staircase of horizontal steps on axes with filled and hollow dots at the jumps.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "asymptote",
+  "category": "notation",
+  "draw": "A curve approaching a vertical dashed line without touching it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "vector-field",
+  "category": "notation",
+  "draw": "A grid of small arrows of varying directions forming a swirling field.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "complex-plane",
+  "category": "notation",
+  "draw": "Crossed axes labelled Re and Im with an arrow from the origin to a plotted point.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "light-cone",
+  "category": "notation",
+  "draw": "Two cones meeting tip to tip at an origin point on a vertical time axis.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "feynman-diagram",
+  "category": "notation",
+  "draw": "Two straight arrows meeting at a vertex joined by a wavy photon line to another vertex with two arrows.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "long-division",
+  "category": "notation",
+  "draw": "The long division bracket, a curved stroke joined to a top bar, with digits beneath and a quotient above.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "column-addition",
+  "category": "notation",
+  "draw": "Two stacked numbers with a plus sign on the left and a horizontal line beneath them.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "factor-tree",
+  "category": "notation",
+  "draw": "A number at the top branching down into pairs of smaller numbers, prime factors circled.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ten-frame",
+  "category": "notation",
+  "draw": "A two by five grid of squares with counters filling some of the cells.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "number-bond",
+  "category": "notation",
+  "draw": "Three circles linked by lines, one whole at the top joined to two parts below.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "pascals-triangle",
+  "category": "notation",
+  "draw": "Numbers arranged in a triangular stack, rows of 1, 1 1, 1 2 1, 1 3 3 1.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "magic-square",
+  "category": "notation",
+  "draw": "A three by three grid of numbers where every row and column sums the same.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "truth-table",
+  "category": "notation",
+  "draw": "A small grid with T and F entries in columns under headings p, q and a result column.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "roman-numerals",
+  "category": "notation",
+  "draw": "The Roman numerals I V X written in serif capitals.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "mayan-numerals",
+  "category": "notation",
+  "draw": "Mayan number glyphs: dots above horizontal bars, with a shell shape for zero.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "eastern-arabic-numerals",
+  "category": "notation",
+  "draw": "Eastern Arabic digits one, two and three written side by side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "chinese-numerals",
+  "category": "notation",
+  "draw": "Chinese numerals one, two and three: one, two and three horizontal strokes stacked.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cuneiform-numerals",
+  "category": "notation",
+  "draw": "Babylonian cuneiform numerals: rows of small wedge shaped marks pressed as if into clay.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hundred-chart",
+  "category": "notation",
+  "draw": "A ten by ten grid of small squares with a few cells highlighted in a pattern.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "place-value-chart",
+  "category": "notation",
+  "draw": "Three columns headed H, T and O with digit counters in each column.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "decimal-point",
+  "category": "notation",
+  "draw": "A number with a clearly enlarged dot between digits, such as 3.14.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ordinal-number",
+  "category": "notation",
+  "draw": "A number 1 followed by a small raised st, the ordinal first.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "odd-and-even",
+  "category": "notation",
+  "draw": "Two rows of counters, one row paired up evenly and the other with a single leftover counter.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "function-machine",
+  "category": "notation",
+  "draw": "A box with an input arrow on the left, an output arrow on the right and f of x printed on the box.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "turing-machine",
+  "category": "notation",
+  "draw": "A long tape of cells with a read and write head block and a small arrow above one cell.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "probability-scale",
+  "category": "notation",
+  "draw": "A horizontal scale from 0 to 1 with a marker pointing at one half.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "reuleaux-triangle",
+  "category": "notation",
+  "draw": "A curved triangle made of three circular arcs, each centered on the opposite corner.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "interrobang",
+  "category": "notation",
+  "draw": "Interrobang: a question mark and an exclamation mark overlaid into one glyph sharing a single dot.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "inverted-question-mark",
+  "category": "notation",
+  "draw": "Inverted question mark as used in Spanish: an upside down question mark with the dot on top.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "inverted-exclamation-mark",
+  "category": "notation",
+  "draw": "Inverted exclamation mark as used in Spanish: a dot on top and a tapering bar below.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "double-exclamation-mark",
+  "category": "notation",
+  "draw": "Two exclamation marks side by side, each a tapering bar above a dot.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "exclamation-question-mark",
+  "category": "notation",
+  "draw": "An exclamation mark followed by a question mark side by side.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "semicolon",
+  "category": "notation",
+  "draw": "A semicolon: a round dot above a comma with a short curved tail.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "colon-punctuation",
+  "category": "notation",
+  "draw": "A colon: two round dots stacked vertically.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "comma-punctuation",
+  "category": "notation",
+  "draw": "A single large comma: a round dot with a curved tail sweeping down and left.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "guillemets",
+  "category": "notation",
+  "draw": "Double angle quotation marks: two pairs of small chevrons pointing outward on either side of a short line of text.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "lenticular-brackets",
+  "category": "notation",
+  "draw": "Solid lenticular brackets: two thick bracket shapes with curved inner sides facing each other.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "dagger",
+  "category": "notation",
+  "draw": "Dagger mark: a vertical stroke with a short crossbar near the top, like a slim cross.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "double-dagger",
+  "category": "notation",
+  "draw": "Double dagger mark: a vertical stroke with two short crossbars, one near the top and one near the bottom.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "asterism-mark",
+  "category": "notation",
+  "draw": "Asterism: three small asterisks arranged in a triangle, two below and one above.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "hedera",
+  "category": "notation",
+  "draw": "Hedera ivy leaf dingbat: a heart shaped leaf with a curling stem.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "numero-sign",
+  "category": "notation",
+  "draw": "Numero sign: a capital N followed by a small raised o with a bar under it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "care-of-sign",
+  "category": "notation",
+  "draw": "Care of sign: a small c above a diagonal slash above a small o.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sound-recording-copyright",
+  "category": "notation",
+  "draw": "Sound recording copyright symbol: a capital P inside a circle.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "service-mark",
+  "category": "notation",
+  "draw": "Service mark: a small raised SM in superscript beside a short line of text.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "copyleft",
+  "category": "notation",
+  "draw": "Copyleft symbol: a reversed capital C inside a circle, opening to the left.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ditto-mark",
+  "category": "notation",
+  "draw": "Ditto mark: two short slanted strokes placed under a word in a list.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tilde",
+  "category": "notation",
+  "draw": "A single large tilde: a smooth horizontal wave with one rise and one dip.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "backslash",
+  "category": "notation",
+  "draw": "A backslash: a single stroke leaning from top left to bottom right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "vertical-bar",
+  "category": "notation",
+  "draw": "A vertical bar or pipe: one tall straight stroke with a small gap to show it is a glyph.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tironian-et",
+  "category": "notation",
+  "draw": "Tironian et: a shape like a 7 with a short foot, the old Latin sign for and.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "prime-marks",
+  "category": "notation",
+  "draw": "Prime and double prime marks: one and two slanted ticks after a number, for feet and inches.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "estimated-sign",
+  "category": "notation",
+  "draw": "Estimated sign: a slim lowercase e with a crossbar, used on packaging to mark average contents.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "acute-accent",
+  "category": "notation",
+  "draw": "The letter e with a short slanted acute accent stroke above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "circumflex-accent",
+  "category": "notation",
+  "draw": "The letter e with a small caret shaped circumflex above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "diaeresis",
+  "category": "notation",
+  "draw": "The letter e with two dots side by side above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "cedilla",
+  "category": "notation",
+  "draw": "The letter c with a small hooked cedilla tail below it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "macron",
+  "category": "notation",
+  "draw": "The letter a with a short flat bar above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "breve",
+  "category": "notation",
+  "draw": "The letter a with a small cup shaped breve above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ring-above",
+  "category": "notation",
+  "draw": "The letter a with a small circle sitting above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "tilde-accent",
+  "category": "notation",
+  "draw": "The letter n with a small wavy tilde above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ogonek",
+  "category": "notation",
+  "draw": "The letter e with a small hooked tail curling to the right at its base.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "double-acute-accent",
+  "category": "notation",
+  "draw": "The letter o with two short slanted strokes above it.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "schwa",
+  "category": "notation",
+  "draw": "Schwa: an upside down lowercase e, the neutral vowel of phonetics.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "eszett",
+  "category": "notation",
+  "draw": "Eszett sharp s: a tall German letter like a B with an open lower bowl and a long left stem.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "thorn-letter",
+  "category": "notation",
+  "draw": "Thorn letter: a tall vertical stem with a small bowl attached midway on the right.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "eth-letter",
+  "category": "notation",
+  "draw": "Eth letter: a round bowl with a curved ascender crossed by a short bar.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ae-ligature",
+  "category": "notation",
+  "draw": "Ae ligature: a lowercase a and e joined into one glyph sharing a stroke.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "oe-ligature",
+  "category": "notation",
+  "draw": "Oe ligature: a lowercase o and e joined into one glyph sharing a stroke.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "fi-ligature",
+  "category": "notation",
+  "draw": "Fi ligature: an f whose hooked top joins the dot of the i in one connected glyph.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ipa-glottal-stop",
+  "category": "notation",
+  "draw": "Glottal stop symbol: a question mark shape without the dot, sitting on the baseline.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "ipa-eng",
+  "category": "notation",
+  "draw": "Eng letter: a lowercase n whose right leg continues down below the baseline into a hook.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "serif-font",
+  "category": "notation",
+  "draw": "A capital A in a serif typeface with clear bracketed serifs at its feet.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "sans-serif-font",
+  "category": "notation",
+  "draw": "A capital A in a plain sans serif typeface with flat stroke ends.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "monospace-font",
+  "category": "notation",
+  "draw": "Three letters in a fixed width typeface, each sitting in its own equal width cell.",
+  "domain": "symbols-and-notation"
+ },
+ {
+  "name": "script-font",
+  "category": "notation",
+  "draw": "A flowing handwritten capital letter with a looped swash tail.",
+  "domain": "symbols-and-notation"
+ }
+]

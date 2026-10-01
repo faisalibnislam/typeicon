@@ -1,0 +1,482 @@
+[
+ {
+  "name": "package-dimensions",
+  "category": "stationery",
+  "draw": "Box in perspective with dimension lines and end ticks along its width, depth and height edges.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "fragile-symbol",
+  "category": "stationery",
+  "draw": "Stemmed wine glass with a crack running through its bowl, the handling mark for fragile goods.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "this-side-up",
+  "category": "stationery",
+  "draw": "Two parallel arrows pointing upward standing on a short horizontal base line, the handling mark for orientation.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "keep-dry-symbol",
+  "category": "stationery",
+  "draw": "Open umbrella with raindrops falling onto its canopy, the handling mark for keep dry.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "packing-slip",
+  "category": "stationery",
+  "draw": "Clear adhesive pouch stuck on a box surface with a folded document visible inside.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "wooden-crate",
+  "category": "stationery",
+  "draw": "Slatted wooden crate in perspective with a diagonal brace across the front face.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "shipping-pallet",
+  "category": "stationery",
+  "draw": "Flat wooden pallet in perspective with top deck boards and three support blocks underneath.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pallet-jack",
+  "category": "stationery",
+  "draw": "Manual pallet truck with two long flat forks at the bottom and a tall steering handle with a loop grip.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "twine-ball",
+  "category": "stationery",
+  "draw": "Ball of string with crossing wound strands and a loose end trailing away.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "ring-binder",
+  "category": "stationery",
+  "draw": "Upright binder with a label window on the spine, a round finger hole near its base and page edges at the side.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "binder-clip",
+  "category": "stationery",
+  "draw": "Triangular clip body with two folded wire handles raised up above it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "bulldog-clip",
+  "category": "stationery",
+  "draw": "Flat metal clip with a wide spring lever on top and a rolled hinge along the back.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "brass-fastener",
+  "category": "stationery",
+  "draw": "Round domed head with two flat prongs bent apart below it, like a split pin.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "hanging-folder",
+  "category": "stationery",
+  "draw": "File folder with hooked rails sticking out at both top corners and a small tab label.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "expanding-file",
+  "category": "stationery",
+  "draw": "Accordion file with pleated sides, a closed flap and an elastic band around it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "index-dividers",
+  "category": "stationery",
+  "draw": "Stack of sheets with staggered tabs sticking out along the right edge.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "sheet-protector",
+  "category": "stationery",
+  "draw": "Clear plastic sleeve with a row of punched holes on the left and a ruled page inside.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "magazine-file",
+  "category": "stationery",
+  "draw": "Upright holder with a slanted cutaway side and papers standing up inside it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "file-sorter",
+  "category": "stationery",
+  "draw": "Desktop rack with several vertical slots holding folders of different heights.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pocket-folder",
+  "category": "stationery",
+  "draw": "Open folder with two diagonal pockets at the bottom and a small business card slot.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "elastic-folder",
+  "category": "stationery",
+  "draw": "Closed folder with elastic bands stretched across two opposite corners.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "loose-leaf-ring",
+  "category": "stationery",
+  "draw": "Hinged metal ring holding a small stack of punched cards.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "portfolio-case",
+  "category": "stationery",
+  "draw": "Large flat case with two carrying handles and a zipper running around three sides.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "card-catalog",
+  "category": "stationery",
+  "draw": "Wooden cabinet with a grid of small drawers, each with a label holder and a pull knob.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "cash-box",
+  "category": "stationery",
+  "draw": "Metal box with a folding handle on top and a small lock plate on the front.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "comb-bound-document",
+  "category": "stationery",
+  "draw": "Stack of pages held along the left edge by a plastic comb spine with curled teeth.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "memo-clip-holder",
+  "category": "stationery",
+  "draw": "Weighted round base with a coiled wire stem ending in a small clip holding a note.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "staple-remover",
+  "category": "stationery",
+  "draw": "Pair of jaws with two curved pointed teeth meeting at the front, hinged at the back.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "hole-punch",
+  "category": "stationery",
+  "draw": "Desk punch with a long lever arm across the top and two round punch holes in the base.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "hand-hole-punch",
+  "category": "stationery",
+  "draw": "Plier style punch with two handles and a round cutter at the jaw above a small hole.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "rubber-band",
+  "category": "stationery",
+  "draw": "Loose elastic loop in a stretched irregular oval shape.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "rubber-band-ball",
+  "category": "stationery",
+  "draw": "Ball made of curved elastic bands crossing and wrapping around each other.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "tape-roll",
+  "category": "stationery",
+  "draw": "Clear adhesive tape roll with a hollow core and a short strip peeling off the edge.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "washi-tape",
+  "category": "stationery",
+  "draw": "Roll of patterned paper tape with a stripe pattern and a torn end hanging down.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "tape-dispenser",
+  "category": "stationery",
+  "draw": "Weighted desk dispenser shaped like a snail shell with a roll inside and a serrated blade at the front.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "stapled-pages",
+  "category": "stationery",
+  "draw": "Stack of pages with a single diagonal staple in the top left corner and a corner lifted.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "paperclip-dispenser",
+  "category": "stationery",
+  "draw": "Round desk holder with a magnetic top ring and paperclips clinging to it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "paper-guillotine",
+  "category": "stationery",
+  "draw": "Square cutting board with a grid and a long arm blade hinged at one corner.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "rotary-paper-trimmer",
+  "category": "stationery",
+  "draw": "Flat trimmer base with a straight rail along one edge and a small sliding cutter head on it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "cutting-mat",
+  "category": "stationery",
+  "draw": "Rectangular mat with a square grid, a diagonal line and ruler tick marks along the edges.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "t-square",
+  "category": "stationery",
+  "draw": "Long ruler blade joined at a right angle to a short thick head, forming a T.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "french-curve",
+  "category": "stationery",
+  "draw": "Flat drawing template with flowing irregular curved edges and a curved inner cutout.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "architect-scale",
+  "category": "stationery",
+  "draw": "Triangular prism ruler seen at an angle with scale tick marks on its faces.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "lettering-stencil",
+  "category": "stationery",
+  "draw": "Rectangular sheet with cut out letter shapes arranged in a row.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "circle-template",
+  "category": "stationery",
+  "draw": "Flat rectangular stencil with a row of circular holes of decreasing size.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "drafting-table",
+  "category": "stationery",
+  "draw": "Tilted drawing board on a stand with a straight parallel bar across the board.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "tracing-light-pad",
+  "category": "stationery",
+  "draw": "Flat glowing panel with short light rays around its edges and a sheet of paper on top.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "slide-rule",
+  "category": "stationery",
+  "draw": "Long ruler with a central sliding strip and a clear cursor window with a hairline.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "tally-counter",
+  "category": "stationery",
+  "draw": "Round hand counter with a four digit window, a push button on top and a finger ring below.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pantograph",
+  "category": "stationery",
+  "draw": "Lattice of four hinged bars forming a parallelogram with a stylus and a pencil at the ends.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "geometry-set",
+  "category": "stationery",
+  "draw": "Open flat tin holding a ruler, a protractor and a compass laid side by side.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "paperweight",
+  "category": "stationery",
+  "draw": "Glass dome shape with a swirl inside, resting on a sheet of paper.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "desk-nameplate",
+  "category": "stationery",
+  "draw": "Wedge shaped name block with a line of text on its angled front face.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "desk-organizer",
+  "category": "stationery",
+  "draw": "Tiered desk caddy with compartments holding pens, a notepad and scissor handles.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "desk-blotter",
+  "category": "stationery",
+  "draw": "Large rectangular desk pad with triangular leather pockets at the corners.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "newtons-cradle",
+  "category": "stationery",
+  "draw": "Frame with five balls hanging in a row on strings, the outermost ball swung out.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "business-card-holder",
+  "category": "stationery",
+  "draw": "Small angled desk stand holding an upright stack of business cards.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "mouse-pad",
+  "category": "stationery",
+  "draw": "Rounded rectangle pad with a raised wrist rest at the front and a computer mouse on it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "air-duster-can",
+  "category": "stationery",
+  "draw": "Aerosol can with a trigger nozzle and a long thin straw pointing forward.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "laptop-stand",
+  "category": "stationery",
+  "draw": "Angled open frame stand with a laptop tilted on top of it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "monitor-arm",
+  "category": "stationery",
+  "draw": "Articulated arm clamped to a desk edge holding a flat monitor out on its end.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "monitor-riser",
+  "category": "stationery",
+  "draw": "Low shelf platform with a monitor on top and a keyboard slid under it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "stationery-supplies",
+  "category": "stationery",
+  "draw": "Pencil, ruler and paperclip grouped together in a crossed arrangement.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "comb-binding-machine",
+  "category": "stationery",
+  "draw": "Machine with a punching lever on top and an open plastic comb held at the front.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "typewriter",
+  "category": "stationery",
+  "draw": "Front view of a typewriter with a roller carriage holding a sheet of paper above rows of round keys.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "adding-machine",
+  "category": "stationery",
+  "draw": "Desk calculator with a paper roll on top feeding a printed tape and a keypad below.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "time-card-machine",
+  "category": "stationery",
+  "draw": "Wall mounted box with an analog dial on top and a slot at the bottom holding an inserted time card.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "overhead-projector",
+  "category": "stationery",
+  "draw": "Box base with a flat glass stage and an arm holding a mirrored head above it.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "document-camera",
+  "category": "stationery",
+  "draw": "Base plate with a bendable arm and a camera head pointing down at a sheet of paper.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "plotter-printer",
+  "category": "stationery",
+  "draw": "Wide format printer on a stand with a long sheet of paper feeding out the front.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "microfilm-reader",
+  "category": "stationery",
+  "draw": "Desk machine with a tall viewing screen above a flat film carrier stage.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "desk-phone",
+  "category": "stationery",
+  "draw": "Office telephone with a corded handset resting on the left and a keypad with extra line buttons.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "conference-phone",
+  "category": "stationery",
+  "draw": "Low triangular device with three rounded points, a central speaker grille and small buttons.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "toner-cartridge",
+  "category": "stationery",
+  "draw": "Long boxy cartridge with a handle grip and a drum edge showing along the bottom.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "ink-cartridge",
+  "category": "stationery",
+  "draw": "Small boxy printer cartridge with a label area and a nozzle tip at its base.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "paper-jam",
+  "category": "stationery",
+  "draw": "Printer with a crumpled sheet stuck half out of its output slot.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "banknote-counter",
+  "category": "stationery",
+  "draw": "Desk machine with a hopper of notes on top and a digit display on the front.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "pneumatic-tube-carrier",
+  "category": "stationery",
+  "draw": "Clear cylindrical capsule with rounded end caps and rolled documents inside.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "stenotype-machine",
+  "category": "stationery",
+  "draw": "Small compact keyboard with few keys mounted on a short tripod stand.",
+  "domain": "office-and-stationery"
+ },
+ {
+  "name": "printing-press",
+  "category": "stationery",
+  "draw": "Hand press with a large screw and bar handle above a flat bed platen.",
+  "domain": "office-and-stationery"
+ }
+]

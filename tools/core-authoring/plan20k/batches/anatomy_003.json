@@ -1,0 +1,260 @@
+[
+ {
+  "name": "sensitive-teeth",
+  "category": "anatomy",
+  "draw": "Tooth with a small lightning bolt beside it and a snowflake above, for sensitivity to cold.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "missing-tooth",
+  "category": "anatomy",
+  "draw": "Row of front teeth with one gap in the middle.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "crooked-teeth",
+  "category": "anatomy",
+  "draw": "Row of front teeth set at uneven angles and overlapping.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "teething",
+  "category": "anatomy",
+  "draw": "Baby face with one small tooth on the lower gum and a drool drop at the lip.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "cataract",
+  "category": "anatomy",
+  "draw": "Eye in front view with the pupil clouded over by a hazy shaded disc.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "pink-eye",
+  "category": "anatomy",
+  "draw": "Eye with swollen lids and small vessel lines across the white, and a tear at the corner.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "stye",
+  "category": "anatomy",
+  "draw": "Close-up eye with a small round bump on the edge of the upper eyelid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "eye-strain",
+  "category": "anatomy",
+  "draw": "Tired eye with heavy lids and small tension lines, above a glowing screen rectangle.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "watery-eyes",
+  "category": "anatomy",
+  "draw": "Open eye with tears welling and two drops running down from the lower lid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "black-eye",
+  "category": "anatomy",
+  "draw": "Face in front view with a dark ring of bruising around one eye.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "double-vision",
+  "category": "anatomy",
+  "draw": "Two overlapping offset copies of the same eye outline, as if seen double.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "tinnitus",
+  "category": "anatomy",
+  "draw": "Ear in side view with a high-pitched zigzag sound line ringing next to it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "menstrual-cycle",
+  "category": "anatomy",
+  "draw": "Circular arrow ring with a blood drop at the top and small phase dots around it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "fatigue",
+  "category": "anatomy",
+  "draw": "Person slumped forward with drooping head and arms, a nearly empty battery above the head.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "restless-legs",
+  "category": "anatomy",
+  "draw": "Legs lying in bed under a blanket with motion lines around the calves.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "ingrown-toenail",
+  "category": "anatomy",
+  "draw": "Big toe seen from above with the nail edge curving down into swollen skin.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "limping",
+  "category": "anatomy",
+  "draw": "Person walking with one stiff leg, leaning to the side, with a small pain mark on that leg.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sick-in-bed",
+  "category": "anatomy",
+  "draw": "Person lying in bed under a blanket with a thermometer in the mouth and an ice pack on the head.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "bloating",
+  "category": "anatomy",
+  "draw": "Belly in side view puffed out with small outward arrows around it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "adams-apple",
+  "category": "anatomy",
+  "draw": "Neck in side profile with the pointed bump of the voice box standing out at the front of the throat.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "scalp",
+  "category": "anatomy",
+  "draw": "Top of a head seen from above with a center parting line and hair roots spreading from it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "placenta",
+  "category": "anatomy",
+  "draw": "Round flat disc organ with branching vessels on its surface and a twisted umbilical cord leaving the center.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "taste-buds",
+  "category": "anatomy",
+  "draw": "Close-up of the tongue tip covered in small round bumps, with one bump enlarged in a circle beside it.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "staphylococcus",
+  "category": "anatomy",
+  "draw": "Grape-like cluster of small round bacteria packed tightly together, no stem.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "joint-dislocation",
+  "category": "anatomy",
+  "draw": "Ball-and-socket joint with the rounded bone head popped out of its cup, a small gap and jolt mark between them.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "migraine",
+  "category": "anatomy",
+  "draw": "Head in side profile with a zigzag flickering arc in front of the eye and pain lines at one temple.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "aneurysm",
+  "category": "anatomy",
+  "draw": "Straight blood vessel segment with a round balloon-like bulge swelling out of one wall.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "stomach-ulcer",
+  "category": "anatomy",
+  "draw": "Stomach organ with a small round crater sore drawn on its inner wall.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "wart",
+  "category": "anatomy",
+  "draw": "Fingertip with a rough round bump covered in tiny dots.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "ringworm",
+  "category": "anatomy",
+  "draw": "Forearm with a ring-shaped rash, a raised circular border around clear skin.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "body-odor",
+  "category": "anatomy",
+  "draw": "Raised arm with wavy odor lines rising from the armpit.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "teeth-grinding",
+  "category": "anatomy",
+  "draw": "Clenched upper and lower teeth pressed together with small zigzag marks at each side.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "period-cramps",
+  "category": "anatomy",
+  "draw": "Uterus outline with small jagged pain marks around it and a single drop below.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "anatomy-figure",
+  "category": "anatomy",
+  "draw": "Standing figure split down the middle, one half a plain body outline and the other half its skeleton.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "asthma",
+  "category": "anatomy",
+  "draw": "Pair of lungs with a narrowed windpipe and short wheeze lines coming from the top.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "sprained-ankle",
+  "category": "anatomy",
+  "draw": "Ankle wrapped in a crossed elastic bandage with small swelling marks around the joint.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "slouching",
+  "category": "anatomy",
+  "draw": "Person seated in side view with a rounded hunched back and the head pushed forward.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "insomnia",
+  "category": "anatomy",
+  "draw": "Head on a pillow with both eyes wide open and a crescent moon above.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "achilles-tendon",
+  "category": "anatomy",
+  "draw": "Lower leg and heel in side view with the cord-like tendon running from calf to heel drawn solid.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "memory-loss",
+  "category": "anatomy",
+  "draw": "Head in side profile with a puzzle piece missing from the brain area and floating away.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "side-stitch",
+  "category": "anatomy",
+  "draw": "Runner in side view pressing one hand against the side of the waist, with a small pain mark.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "body-map",
+  "category": "anatomy",
+  "draw": "Two small standing figures side by side, one seen from the front and one from the back.",
+  "domain": "anatomy-and-conditions"
+ },
+ {
+  "name": "gene-mutation",
+  "category": "anatomy",
+  "draw": "Short DNA double helix with one rung broken and a mismatched piece swapped in.",
+  "domain": "anatomy-and-conditions"
+ }
+]

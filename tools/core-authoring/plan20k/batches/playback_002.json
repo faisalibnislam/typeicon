@@ -1,0 +1,440 @@
+[
+ {
+  "name": "speed-ramp",
+  "category": "playback",
+  "draw": "Timeline clip with a smooth S curve rising across it from slow to fast.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "video-stabilization",
+  "category": "playback",
+  "draw": "Video frame held steady inside a larger shaky outline marked with short wobble lines.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "earbud-case",
+  "category": "playback",
+  "draw": "Rounded pill shaped charging case with its lid flipped open showing two earbuds nested inside.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "neckband-earphones",
+  "category": "playback",
+  "draw": "U shaped flexible band worn around the neck with two short cables ending in earbuds.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "headphone-stand",
+  "category": "playback",
+  "draw": "Upright stand with a curved top hook holding a pair of over ear headphones.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "simulcast",
+  "category": "playback",
+  "draw": "Play triangle in a circle with three arrows branching out to three small screens.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "intermission",
+  "category": "playback",
+  "draw": "Stage curtains drawn closed with a small hourglass centred where they meet.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "vintage-movie-camera",
+  "category": "playback",
+  "draw": "Boxy film camera on a tripod with two round film reels on top and a hand crank on the side.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "audio-only",
+  "category": "playback",
+  "draw": "Video frame drawn with dashed edges and a pair of headphones centred inside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "video-loop",
+  "category": "playback",
+  "draw": "Video frame rectangle with a circular loop arrow around a small play triangle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "frame-capture",
+  "category": "playback",
+  "draw": "Video frame with a small camera shutter aperture in its centre and corner brackets.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "dvr",
+  "category": "playback",
+  "draw": "Flat set top recorder box with a round record dot and a small clock display on its front.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "tv-input-source",
+  "category": "playback",
+  "draw": "Television outline with an arrow entering a small rectangle on its left side.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "party-speaker",
+  "category": "playback",
+  "draw": "Tall floor speaker with two large woofer rings and light rays around the top one.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "suitcase-record-player",
+  "category": "playback",
+  "draw": "Open suitcase style case with a turntable platter and tone arm inside the lid base.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "cassette-adapter",
+  "category": "playback",
+  "draw": "Cassette tape with a thin cable coming out of its edge ending in a small jack plug.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "radio-presets",
+  "category": "playback",
+  "draw": "Row of six small numbered push buttons below a slim radio display.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "movie-poster",
+  "category": "playback",
+  "draw": "Tall rectangle poster with a film strip across the top and title lines at the bottom.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "age-rating",
+  "category": "playback",
+  "draw": "Rounded square badge containing a large number with a plus sign beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "outdoor-cinema",
+  "category": "playback",
+  "draw": "Large screen between two poles standing on grass with a few trees behind and a play triangle on it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "capture-card",
+  "category": "playback",
+  "draw": "Small rectangular box with an HDMI style port on each end and a cable plugged into one side.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "reaction-video",
+  "category": "playback",
+  "draw": "Video frame with a play triangle and a small circle in the corner holding a face.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "dolly-track",
+  "category": "playback",
+  "draw": "Camera on a short tripod mounted on a wheeled cart that sits on two straight rails.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "loop-recording",
+  "category": "playback",
+  "draw": "Record dot sitting inside a circular loop arrow.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "voice-changer",
+  "category": "playback",
+  "draw": "Microphone with a zigzag wave coming out that turns into a smooth wave after a small dial.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "parametric-equalizer",
+  "category": "playback",
+  "draw": "Horizontal grid line with a smooth curve rising in one bell peak and dipping in another, a small dot on each.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "car-infotainment",
+  "category": "playback",
+  "draw": "Car dashboard centre screen showing a small album square and a play triangle, with vents on either side.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "stadium-screen",
+  "category": "playback",
+  "draw": "Large rectangular screen raised on two tall legs above curved tiers of stadium seating.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "music-charts",
+  "category": "playback",
+  "draw": "Numbered list of three rows with a music note at the top and small up and down trend marks beside rows.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "concert-ticket",
+  "category": "playback",
+  "draw": "Ticket shape with notched sides, a perforation line and a music note on the main part.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "portable-dvd-player",
+  "category": "playback",
+  "draw": "Clamshell device opened at an angle with a screen in the lid and a disc lid on the base.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "cinema-camera",
+  "category": "playback",
+  "draw": "Boxy digital cinema camera with a large lens, a rectangular matte box in front and a top handle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "burn-disc",
+  "category": "playback",
+  "draw": "Compact disc with a small flame rising from its edge.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "optical-drive",
+  "category": "playback",
+  "draw": "Slim rectangular drive with a disc tray sliding out holding a disc.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "merge-clips",
+  "category": "playback",
+  "draw": "Two short timeline clips with arrows pushing them together into one longer clip below.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "lower-third",
+  "category": "playback",
+  "draw": "Video frame with a thick name bar across its lower left portion and a smaller bar under it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "cable-tv",
+  "category": "playback",
+  "draw": "Television set with a thick coaxial cable coming out of its back and a round screw plug at the end.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "cd-wallet",
+  "category": "playback",
+  "draw": "Zippered wallet opened flat showing a disc sitting in a clear sleeve on each page.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "cd-spindle",
+  "category": "playback",
+  "draw": "Tall stack of discs on a central post with a clear domed lid lifted above.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "directors-viewfinder",
+  "category": "playback",
+  "draw": "Small handheld lens tube with a rectangular eyepiece hanging from a neck cord.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "sleep-sounds",
+  "category": "playback",
+  "draw": "Crescent moon with a music note and two gentle wave lines beneath.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "album-carousel",
+  "category": "playback",
+  "draw": "Row of three square album covers, the centre one facing forward and the side ones angled away in perspective.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "computer-speakers",
+  "category": "playback",
+  "draw": "Two small upright speakers flanking a computer monitor on a desk line.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "shower-speaker",
+  "category": "playback",
+  "draw": "Round waterproof speaker with a suction cup on its back and water droplets beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "bone-conduction-headphones",
+  "category": "playback",
+  "draw": "Thin band wrapping behind the head with pads resting in front of the ears, seen from the side of a head outline.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "pay-per-view",
+  "category": "playback",
+  "draw": "Television screen with a coin slotting into its top edge.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "motion-capture",
+  "category": "playback",
+  "draw": "Standing figure in a plain suit with small dots on joints and a camera aimed at it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "photosensitivity-warning",
+  "category": "playback",
+  "draw": "Screen rectangle with a lightning flash inside and a small eye outline beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "silent-disco",
+  "category": "playback",
+  "draw": "Figure dancing with raised arm wearing large headphones with a glowing band.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "teletext",
+  "category": "playback",
+  "draw": "Television screen filled with blocky text rows and a three digit page number at the top.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "console-radiogram",
+  "category": "playback",
+  "draw": "Long low wooden cabinet on tapered legs with a speaker grille on one half and a lift up lid on the other.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "dialogue-enhancement",
+  "category": "playback",
+  "draw": "Speech bubble with a sound wave inside rising above a flatter background wave line.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "sports-broadcast",
+  "category": "playback",
+  "draw": "Television screen with a ball in its centre and a small live dot in the corner.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "video-rental-store",
+  "category": "playback",
+  "draw": "Small shop front with an awning and a film strip sign above the door.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "play-selection",
+  "category": "playback",
+  "draw": "Pair of square brackets enclosing a play triangle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "karaoke-microphone",
+  "category": "playback",
+  "draw": "Handheld microphone with a round speaker grille built into its wide body and small buttons on the handle.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "drive-in-speaker",
+  "category": "playback",
+  "draw": "Metal box speaker with a grille hooked over the top edge of a car window glass.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "surtitles",
+  "category": "playback",
+  "draw": "Theatre stage with open curtains and a long text bar displayed above the proscenium.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "score-overlay",
+  "category": "playback",
+  "draw": "Video frame with a small two column score box in the top left corner.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "lock-screen-player",
+  "category": "playback",
+  "draw": "Phone screen with a large clock at the top and a media card below with a play triangle and skip buttons.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "volume-mixer",
+  "category": "playback",
+  "draw": "Three horizontal slider tracks each with a small speaker on the left and knobs at different positions.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "next-episode",
+  "category": "playback",
+  "draw": "Thumbnail rectangle with a circular countdown ring around a play triangle beside it.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "audio-feedback",
+  "category": "playback",
+  "draw": "Handheld microphone pointed at a speaker with a jagged squeal wave looping between them.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "group-listening",
+  "category": "playback",
+  "draw": "Two pairs of headphones side by side joined by a small link with a music note above.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "thaumatrope",
+  "category": "playback",
+  "draw": "Round disc on a short axis with twisted strings at both sides, a bird on the disc face.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "headphone-splitter",
+  "category": "playback",
+  "draw": "Short Y shaped adapter with one jack plug at the base and two round sockets at the forked ends.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "timeline-snap",
+  "category": "playback",
+  "draw": "Horseshoe magnet above the edge of a timeline clip with a thin guide line where it snaps.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "tangled-tape",
+  "category": "playback",
+  "draw": "Cassette with a loose loop of tape spilling out of its window in tangled curls.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "video-glitch",
+  "category": "playback",
+  "draw": "Video frame with a play triangle whose horizontal slices are offset sideways like a digital glitch.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "hdmi-switch",
+  "category": "playback",
+  "draw": "Small box with three ports along one side, one port on the other and an arrow selecting between them.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "volume-buttons",
+  "category": "playback",
+  "draw": "Side edge of a phone with two elongated buttons, a small plus and minus beside them.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "earbud-tap-control",
+  "category": "playback",
+  "draw": "Single earbud seen from the side with a fingertip touching it and small ripple arcs.",
+  "domain": "r2-media-controls"
+ },
+ {
+  "name": "inline-remote",
+  "category": "playback",
+  "draw": "Earphone cable with a small oblong three button remote clip in its middle, a tiny microphone hole on it.",
+  "domain": "r2-media-controls"
+ }
+]

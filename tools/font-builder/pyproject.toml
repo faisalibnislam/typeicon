@@ -1,0 +1,25 @@
+[project]
+name = "typeicon-fonts"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+description = "TypeIcon SVG normalization and OpenType font compiler"
+# Pinned for reproducible font builds. Changing any pin changes the toolchain hash.
+dependencies = [
+  "fonttools[woff]==4.66.1",
+  "picosvg==0.23.0",
+  "skia-pathops==0.9.2",
+  "uharfbuzz==0.56.2",
+  "opentype-sanitizer==9.2.0",
+  "brotli==1.2.0",
+  "lxml==6.0.2",
+]
+
+[project.scripts]
+typeicon-fonts = "typeicon_fonts.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/typeicon_fonts"]

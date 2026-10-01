@@ -1,0 +1,687 @@
+[
+  {
+    "name": "ciborium",
+    "category": "faith",
+    "draw": "Lidded chalice-shaped cup on a tall stem and flared foot, its domed lid topped by a small cross."
+  },
+  {
+    "name": "prayer-kneeler",
+    "category": "faith",
+    "draw": "Side view of a wooden prie-dieu: a low padded kneeling step joined to an upright frame with a slanted armrest shelf on top."
+  },
+  {
+    "name": "confessional-booth",
+    "category": "faith",
+    "draw": "Front view of a wooden booth with a curtained central doorway flanked by two narrower doors and a small cross on its peaked top."
+  },
+  {
+    "name": "scapular",
+    "category": "faith",
+    "draw": "Two small rectangular cloth panels joined by two long cord loops, one panel showing a small cross."
+  },
+  {
+    "name": "saint-medal",
+    "category": "faith",
+    "draw": "Oval medal with a small robed figure and round halo in relief, hanging from a short chain loop."
+  },
+  {
+    "name": "orthodox-icon",
+    "category": "faith",
+    "draw": "Upright rectangular wooden panel with a thick raised border showing a head and shoulders figure with a large round halo."
+  },
+  {
+    "name": "iconostasis",
+    "category": "faith",
+    "draw": "Wide church screen wall with three doorways, the central one arched and double, under a row of small rectangular icon panels."
+  },
+  {
+    "name": "forehead-ashes",
+    "category": "faith",
+    "draw": "Side profile of a head with a small smudged cross marked on the forehead, for Ash Wednesday."
+  },
+  {
+    "name": "hymnal",
+    "category": "faith",
+    "draw": "Closed hardback book with a music note on the cover and a ribbon bookmark hanging from the bottom edge."
+  },
+  {
+    "name": "coptic-cross",
+    "category": "faith",
+    "draw": "Equal-armed cross whose four arms each end in three small rounded points, set over a circle."
+  },
+  {
+    "name": "tau-cross",
+    "category": "faith",
+    "draw": "T-shaped cross with a flat top bar and no upper arm, the bar ends slightly flared."
+  },
+  {
+    "name": "patriarchal-cross",
+    "category": "faith",
+    "draw": "Upright cross with two horizontal bars, the upper bar shorter than the lower one."
+  },
+  {
+    "name": "khachkar",
+    "category": "faith",
+    "draw": "Tall upright stone slab with a rounded top, carved with a cross whose arms end in curled leaves above a small rosette."
+  },
+  {
+    "name": "reliquary",
+    "category": "faith",
+    "draw": "Small ornate casket shaped like a house with a peaked roof topped by a cross, standing on four short feet."
+  },
+  {
+    "name": "sanctus-bells",
+    "category": "faith",
+    "draw": "Cluster of four small bells hanging from a cross-shaped bar held by a single short handle."
+  },
+  {
+    "name": "cross-necklace",
+    "category": "faith",
+    "draw": "Thin chain necklace hanging in a V shape with a small cross pendant at the bottom."
+  },
+  {
+    "name": "calvary-crosses",
+    "category": "faith",
+    "draw": "Three crosses standing on a rounded hill, the middle one taller than the two beside it."
+  },
+  {
+    "name": "cherub",
+    "category": "faith",
+    "draw": "Round childlike face with curly hair and a small pair of feathered wings spreading out from behind the head."
+  },
+  {
+    "name": "seraph",
+    "category": "faith",
+    "draw": "Small face at the center surrounded by six feathered wings, two pointing up, two out to the sides and two down."
+  },
+  {
+    "name": "angel-wings",
+    "category": "faith",
+    "draw": "Pair of large feathered wings spread symmetrically with a thin halo ring floating between them."
+  },
+  {
+    "name": "communion-cup-tray",
+    "category": "faith",
+    "draw": "Round tiered tray seen at an angle holding rings of many tiny cups, with a knob handle rising from the middle."
+  },
+  {
+    "name": "altar-cruets",
+    "category": "faith",
+    "draw": "Two small glass jugs with handles and stoppers standing side by side on a small oval tray."
+  },
+  {
+    "name": "prosphora",
+    "category": "faith",
+    "draw": "Round domed loaf of bread stamped on top with a square seal showing a cross that divides four small squares."
+  },
+  {
+    "name": "semantron",
+    "category": "faith",
+    "draw": "Long wooden plank held horizontally at its middle with a small wooden mallet striking it and short sound lines."
+  },
+  {
+    "name": "ihs-christogram",
+    "category": "faith",
+    "draw": "The letters IHS with a small cross rising from the bar of the H, surrounded by a ring of straight sun rays."
+  },
+  {
+    "name": "anchor-cross",
+    "category": "faith",
+    "draw": "Anchor whose upright shank and crossbar form a cross, with curved flukes at the bottom."
+  },
+  {
+    "name": "easter-lily",
+    "category": "faith",
+    "draw": "Two trumpet-shaped lily flowers opening from one stem with long narrow leaves."
+  },
+  {
+    "name": "sanctuary-lamp",
+    "category": "faith",
+    "draw": "Hanging oil lamp: a glass cup with a small flame held in a metal holder suspended from three chains."
+  },
+  {
+    "name": "galero-hat",
+    "category": "faith",
+    "draw": "Wide flat-brimmed round hat with a low crown and long cords ending in rows of tassels hanging down both sides."
+  },
+  {
+    "name": "biretta",
+    "category": "faith",
+    "draw": "Square stiff clerical cap with three curved fins on top and a small pompom in the center."
+  },
+  {
+    "name": "kamilavka",
+    "category": "faith",
+    "draw": "Tall straight-sided cylindrical clerical hat with a flat top and a long veil hanging down the back."
+  },
+  {
+    "name": "papal-tiara",
+    "category": "faith",
+    "draw": "Tall beehive-shaped crown with three stacked crown bands and a small cross on top, two ribbons hanging behind."
+  },
+  {
+    "name": "crossed-keys",
+    "category": "faith",
+    "draw": "Two large ornate keys crossed diagonally in an X with their bits at the top, tied by a cord where they cross."
+  },
+  {
+    "name": "rose-cross",
+    "category": "faith",
+    "draw": "Latin cross with a five-petal rose blooming at the point where the bars meet."
+  },
+  {
+    "name": "grotto-shrine",
+    "category": "faith",
+    "draw": "Rocky cave arch sheltering a small standing robed statue with a halo, a few candles lit at its base."
+  },
+  {
+    "name": "easter-basket",
+    "category": "faith",
+    "draw": "Woven basket with an arched handle filled with grass and three decorated eggs."
+  },
+  {
+    "name": "prayer-rope",
+    "category": "faith",
+    "draw": "Closed loop of knotted cord made of many small knot bumps, gathered at the bottom into a knotted cross and short tassel."
+  },
+  {
+    "name": "church-collection-bag",
+    "category": "faith",
+    "draw": "Velvet pouch hanging from a metal ring at the end of a long wooden handle."
+  },
+  {
+    "name": "gothic-cathedral",
+    "category": "faith",
+    "draw": "Cathedral front with two tall pointed towers flanking a large round rose window above a pointed arched doorway."
+  },
+  {
+    "name": "basilica",
+    "category": "faith",
+    "draw": "Wide church facade with columns and a triangular pediment, a large round dome topped by a small cross rising behind it."
+  },
+  {
+    "name": "monastery",
+    "category": "faith",
+    "draw": "Walled compound with a bell tower, a long roofed building behind and an arched gateway in the front wall."
+  },
+  {
+    "name": "cloister",
+    "category": "faith",
+    "draw": "Row of rounded arches on slim columns forming a covered walkway along the edge of a small square garden."
+  },
+  {
+    "name": "catacomb",
+    "category": "faith",
+    "draw": "Arched underground tunnel receding into the distance with rows of rectangular burial niches cut into both walls."
+  },
+  {
+    "name": "western-wall",
+    "category": "faith",
+    "draw": "Wall of large rectangular stone blocks in staggered courses with small plants growing from the joints and folded paper notes in the cracks."
+  },
+  {
+    "name": "river-ghat",
+    "category": "faith",
+    "draw": "Wide stone steps descending into rippling water with a small shrine with a pointed spire at the top of the steps."
+  },
+  {
+    "name": "prayer-room",
+    "category": "faith",
+    "draw": "Wayfinding sign: an open doorway outline with a small figure kneeling upright with folded hands inside it."
+  },
+  {
+    "name": "fire-temple",
+    "category": "faith",
+    "draw": "Columned temple portico on a stepped base with a large stylized flame rising above the roof."
+  },
+  {
+    "name": "bodhi-tree",
+    "category": "faith",
+    "draw": "Broad spreading tree with a thick trunk and a canopy of heart-shaped leaves with long drawn-out tips."
+  },
+  {
+    "name": "shinto-sacred-tree",
+    "category": "faith",
+    "draw": "Thick old tree trunk girded by a twisted straw rope with zigzag white paper streamers hanging from it."
+  },
+  {
+    "name": "noahs-ark",
+    "category": "faith",
+    "draw": "Wooden boat with a small house on its deck floating on waves, two giraffe necks poking out and a rainbow arc above."
+  },
+  {
+    "name": "burning-bush",
+    "category": "faith",
+    "draw": "Small rounded bush with flames rising through its branches while its leaves stay intact."
+  },
+  {
+    "name": "loaves-and-fishes",
+    "category": "faith",
+    "draw": "Small woven basket holding two round loaves with two fish lying across the front."
+  },
+  {
+    "name": "tower-of-babel",
+    "category": "faith",
+    "draw": "Tall conical tower with a spiral ramp winding around it up to an unfinished top."
+  },
+  {
+    "name": "ark-of-the-covenant",
+    "category": "faith",
+    "draw": "Rectangular chest on two long carrying poles with two kneeling winged figures facing each other on the lid."
+  },
+  {
+    "name": "pearly-gates",
+    "category": "faith",
+    "draw": "Ornate double gate with round pearl knobs along its bars, standing on a bank of clouds with rays behind."
+  },
+  {
+    "name": "ladder-to-heaven",
+    "category": "faith",
+    "draw": "Tall ladder rising from the ground up into a cloud with light rays shining down from the top."
+  },
+  {
+    "name": "forbidden-fruit",
+    "category": "faith",
+    "draw": "Apple with one leaf and a small snake coiled around its stem with its head raised."
+  },
+  {
+    "name": "parting-sea",
+    "category": "faith",
+    "draw": "Two tall curling walls of waves on either side of a dry path running between them."
+  },
+  {
+    "name": "torah-crown",
+    "category": "faith",
+    "draw": "Ornate crown with a wide band and tall arched ribs meeting at a finial, small bells hanging from its rim."
+  },
+  {
+    "name": "torah-finials",
+    "category": "faith",
+    "draw": "Pair of tall ornamental finials, each a stem topped by a pomegranate-shaped knob with tiny bells hanging from it."
+  },
+  {
+    "name": "chai-symbol",
+    "category": "faith",
+    "draw": "The two Hebrew letters Chet and Yud of the word Chai drawn as a bold standalone emblem."
+  },
+  {
+    "name": "hanukkah-gelt",
+    "category": "faith",
+    "draw": "Small mesh bag tied at the top spilling round foil-wrapped chocolate coins, one coin showing a small menorah."
+  },
+  {
+    "name": "priestly-blessing-hands",
+    "category": "faith",
+    "draw": "Two raised hands with thumbs touching and the fingers of each hand split into pairs between the middle and ring fingers."
+  },
+  {
+    "name": "memorial-candle",
+    "category": "faith",
+    "draw": "Squat glass tumbler holding a lit candle, the wax level visible through the glass."
+  },
+  {
+    "name": "priestly-breastplate",
+    "category": "faith",
+    "draw": "Square breastplate with four rows of three small gemstones set in a grid, hung by two chains from its top corners."
+  },
+  {
+    "name": "sephirot-diagram",
+    "category": "faith",
+    "draw": "Ten small circles arranged in three vertical columns joined by straight paths into the Kabbalah tree diagram."
+  },
+  {
+    "name": "wudu-station",
+    "category": "faith",
+    "draw": "Row of wall taps above a long trough with small stools in front, for washing before prayer."
+  },
+  {
+    "name": "prostration-prayer",
+    "category": "faith",
+    "draw": "Side view of a figure kneeling on a small mat with forehead and palms touching the ground."
+  },
+  {
+    "name": "attar-bottle",
+    "category": "faith",
+    "draw": "Small cut-glass perfume bottle with a round body and a very long thin stopper."
+  },
+  {
+    "name": "call-to-prayer",
+    "category": "faith",
+    "draw": "Slender minaret with a balcony, a loudspeaker horn mounted near its top and sound waves radiating out."
+  },
+  {
+    "name": "moon-sighting",
+    "category": "faith",
+    "draw": "Telescope on a tripod pointing up toward a thin crescent moon."
+  },
+  {
+    "name": "iftar-meal",
+    "category": "faith",
+    "draw": "Small bowl of dates beside a glass of water with a thin crescent moon above them."
+  },
+  {
+    "name": "tilak-mark",
+    "category": "faith",
+    "draw": "Simple face outline with a U-shaped vertical mark and a dot in the middle of the forehead."
+  },
+  {
+    "name": "sri-yantra",
+    "category": "faith",
+    "draw": "Nine interlocking triangles, some pointing up and some down, inside rings of lotus petals and a square frame with T-shaped gates."
+  },
+  {
+    "name": "kamandalu",
+    "category": "faith",
+    "draw": "Round water pot with a spout on one side and an arched carrying handle over the top."
+  },
+  {
+    "name": "paduka-sandals",
+    "category": "faith",
+    "draw": "Pair of flat wooden sandals seen from above, each with a single knob-topped post near the toe."
+  },
+  {
+    "name": "floating-flower-bowl",
+    "category": "faith",
+    "draw": "Wide shallow bowl of water with flower heads and loose petals floating on the surface around a small candle."
+  },
+  {
+    "name": "vel-spear",
+    "category": "faith",
+    "draw": "Tall straight staff topped by a broad leaf-shaped spear blade."
+  },
+  {
+    "name": "vedic-birth-chart",
+    "category": "faith",
+    "draw": "Square astrology chart divided by both diagonals and an inner diamond into twelve triangular and diamond houses."
+  },
+  {
+    "name": "shivling",
+    "category": "faith",
+    "draw": "Rounded upright stone set in a wide base with a long spout, three horizontal lines marked across the stone."
+  },
+  {
+    "name": "mangalsutra",
+    "category": "faith",
+    "draw": "Necklace of small black beads with a pair of small gold disc pendants at the center."
+  },
+  {
+    "name": "buddha-statue",
+    "category": "faith",
+    "draw": "Seated meditating figure in lotus posture with a topknot, long earlobes and hands resting in the lap, on a low base."
+  },
+  {
+    "name": "reclining-buddha",
+    "category": "faith",
+    "draw": "Long figure lying on its side with the head propped on one hand and a rounded topknot, on a low platform."
+  },
+  {
+    "name": "laughing-buddha-statue",
+    "category": "faith",
+    "draw": "Seated round-bellied smiling figure with both arms raised above its head."
+  },
+  {
+    "name": "phurba",
+    "category": "faith",
+    "draw": "Ritual peg with a three-sided triangular blade, a knotted middle grip and a small carved head at the top."
+  },
+  {
+    "name": "gau-amulet-box",
+    "category": "faith",
+    "draw": "Small ornate metal box with an arched window on its front and a loop at the top for a cord."
+  },
+  {
+    "name": "butsudan",
+    "category": "faith",
+    "draw": "Tall cabinet with its two doors open revealing tiered shelves with a small seated figure and candles inside."
+  },
+  {
+    "name": "five-ring-pagoda",
+    "category": "faith",
+    "draw": "Stacked stone monument of five shapes: a cube at the base, then a sphere, a pyramid, a crescent bowl and a jewel point on top."
+  },
+  {
+    "name": "sacred-footprints",
+    "category": "faith",
+    "draw": "Pair of foot soles side by side with a small spoked wheel in the center of each."
+  },
+  {
+    "name": "tibetan-scripture-bundle",
+    "category": "faith",
+    "draw": "Long horizontal stack of loose pages wrapped in cloth between two wooden boards and tied with a strap."
+  },
+  {
+    "name": "wisdom-eyes",
+    "category": "faith",
+    "draw": "Pair of half-closed eyes under heavy brows with a curled question-mark shaped nose between them."
+  },
+  {
+    "name": "treasure-vase",
+    "category": "faith",
+    "draw": "Plump round vase with a narrow neck and a flame-shaped jewel rising from its mouth."
+  },
+  {
+    "name": "ceremonial-parasol",
+    "category": "faith",
+    "draw": "Domed umbrella with a scalloped fringe and a jewel finial on a tall straight handle."
+  },
+  {
+    "name": "purification-basin",
+    "category": "faith",
+    "draw": "Stone water basin with a bamboo spout pouring into it and a long-handled wooden ladle resting across the top."
+  },
+  {
+    "name": "gohei-wand",
+    "category": "faith",
+    "draw": "Wooden stick with two zigzag strips of folded white paper hanging from its top."
+  },
+  {
+    "name": "jizo-statue",
+    "category": "faith",
+    "draw": "Small round-headed stone statue of a robed monk with a cloth bib tied around its neck, holding a staff."
+  },
+  {
+    "name": "kagura-bells",
+    "category": "faith",
+    "draw": "Short handle topped by three tiers of small round bells, with ribbons trailing from the handle."
+  },
+  {
+    "name": "magatama-bead",
+    "category": "faith",
+    "draw": "Comma-shaped curved jewel with a round head and tapering tail, a small hole through the head."
+  },
+  {
+    "name": "moon-blocks",
+    "category": "faith",
+    "draw": "Pair of crescent-shaped wooden divination blocks lying side by side, one flat side up and one round side up."
+  },
+  {
+    "name": "i-ching-coins",
+    "category": "faith",
+    "draw": "Three round coins with square holes in the center arranged in a small triangle."
+  },
+  {
+    "name": "village-guardian-post",
+    "category": "faith",
+    "draw": "Two tall carved wooden posts with large grinning faces and hats at the top."
+  },
+  {
+    "name": "five-elements-cycle",
+    "category": "faith",
+    "draw": "Five small circles arranged in a pentagon joined by curved arrows around the outside and a star of straight lines inside."
+  },
+  {
+    "name": "kirpan",
+    "category": "faith",
+    "draw": "Short curved ceremonial dagger in a decorated sheath hanging from a strap."
+  },
+  {
+    "name": "kanga-comb",
+    "category": "faith",
+    "draw": "Small wooden comb with a curved top edge and a single row of fine teeth."
+  },
+  {
+    "name": "ik-onkar",
+    "category": "faith",
+    "draw": "The Ik Onkar symbol: the Gurmukhi numeral one joined to a looping character with an arc sweeping over the top."
+  },
+  {
+    "name": "djed-pillar",
+    "category": "faith",
+    "draw": "Upright pillar with four stacked horizontal bars across its top, standing on a flared base."
+  },
+  {
+    "name": "canopic-jar",
+    "category": "faith",
+    "draw": "Tall rounded jar with a lid carved in the shape of an animal head."
+  },
+  {
+    "name": "sarcophagus",
+    "category": "faith",
+    "draw": "Upright human-shaped coffin with a stylized face, striped headdress and crossed arms."
+  },
+  {
+    "name": "winged-sun-disk",
+    "category": "faith",
+    "draw": "Round sun disk at the center with long outspread feathered wings on each side."
+  },
+  {
+    "name": "weighing-of-the-heart",
+    "category": "faith",
+    "draw": "Balance scale with a heart in one pan and a single feather in the other, hanging level."
+  },
+  {
+    "name": "pentacle",
+    "category": "faith",
+    "draw": "Five-pointed star drawn as one continuous interlaced line inside a circle, one point upward."
+  },
+  {
+    "name": "awen",
+    "category": "faith",
+    "draw": "Three diverging rays fanning downward beneath three small dots, enclosed in a circle."
+  },
+  {
+    "name": "spiral-goddess",
+    "category": "faith",
+    "draw": "Simple female figure with arms raised in a curve above the head and a spiral on the belly."
+  },
+  {
+    "name": "merkaba",
+    "category": "faith",
+    "draw": "Two interlocking tetrahedrons forming a three-dimensional star, drawn as a wireframe with the back edges visible."
+  },
+  {
+    "name": "vesica-piscis",
+    "category": "faith",
+    "draw": "Two equal circles overlapping so each passes through the other's center, the almond-shaped overlap emphasized."
+  },
+  {
+    "name": "flaming-chalice",
+    "category": "faith",
+    "draw": "Stemmed chalice with a large flame rising from its bowl, framed by two overlapping rings."
+  },
+  {
+    "name": "astral-projection",
+    "category": "faith",
+    "draw": "Figure lying flat on a bed with a dashed outline of the same figure floating upward above it."
+  },
+  {
+    "name": "third-eye",
+    "category": "faith",
+    "draw": "Face outline with an extra open eye in the center of the forehead surrounded by small rays."
+  },
+  {
+    "name": "aura-person",
+    "category": "faith",
+    "draw": "Standing figure surrounded by two concentric glowing outlines that follow its silhouette."
+  },
+  {
+    "name": "reiki-hands",
+    "category": "faith",
+    "draw": "Two open palms held above a lying figure with short wavy energy lines between them."
+  },
+  {
+    "name": "tea-leaf-reading",
+    "category": "faith",
+    "draw": "Top view into a teacup on a saucer with scattered tea leaf shapes on the inside of the cup."
+  },
+  {
+    "name": "incense-cone",
+    "category": "faith",
+    "draw": "Small cone of incense on a round dish with a thin curl of smoke rising from its tip."
+  },
+  {
+    "name": "worry-stone",
+    "category": "faith",
+    "draw": "Smooth oval stone with a thumb-shaped dip in the middle and a thumb resting in it."
+  },
+  {
+    "name": "medicine-wheel",
+    "category": "faith",
+    "draw": "Circle divided into four quarters by a cross, with two feathers hanging from its bottom edge."
+  },
+  {
+    "name": "talking-stick",
+    "category": "faith",
+    "draw": "Carved wooden stick with a wrapped grip, bands of beads and feathers tied near the top."
+  },
+  {
+    "name": "worship-raised-hands",
+    "category": "faith",
+    "draw": "Front view of a figure with both arms raised high overhead and palms open."
+  },
+  {
+    "name": "blessing-hand",
+    "category": "faith",
+    "draw": "Raised right hand with the index and middle fingers extended upward and the other fingers folded down."
+  },
+  {
+    "name": "baptism-immersion",
+    "category": "faith",
+    "draw": "Figure being lowered backward into water supported by another person's arm, water line at waist height."
+  },
+  {
+    "name": "anointing-oil-flask",
+    "category": "faith",
+    "draw": "Small horn-shaped flask with a stopper, tipped over with a drop of oil falling from its mouth."
+  },
+  {
+    "name": "walking-meditation",
+    "category": "faith",
+    "draw": "Side view of a figure walking slowly with an upright posture, hands clasped in front and head slightly lowered."
+  },
+  {
+    "name": "alternate-nostril-breathing",
+    "category": "faith",
+    "draw": "Face in profile with a hand raised and the thumb pressing one nostril, a small breath arrow at the nose."
+  },
+  {
+    "name": "prayer-circle",
+    "category": "faith",
+    "draw": "Top view of several figures standing in a ring holding hands around a small central flame."
+  },
+  {
+    "name": "saying-grace",
+    "category": "faith",
+    "draw": "Two folded hands raised above a plate with a fork and knife on either side."
+  },
+  {
+    "name": "laying-on-of-hands",
+    "category": "faith",
+    "draw": "Standing figure resting a hand on the bowed head of a smaller kneeling figure."
+  },
+  {
+    "name": "fire-walking",
+    "category": "faith",
+    "draw": "Figure walking barefoot across a strip of glowing coals with small flames rising."
+  },
+  {
+    "name": "illuminated-manuscript",
+    "category": "faith",
+    "draw": "Open book with a large decorated initial letter in a square frame and vine ornaments along the margins."
+  },
+  {
+    "name": "cremation-urn",
+    "category": "faith",
+    "draw": "Tall lidded urn with a rounded body, a narrow foot and a small dove motif on its front."
+  }
+]

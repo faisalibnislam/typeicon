@@ -1,0 +1,392 @@
+[
+ {
+  "name": "soliloquy-skull",
+  "category": "performing",
+  "draw": "Hand held out at arm's length holding a skull, with a profile face looking at it.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "elizabethan-playhouse",
+  "category": "performing",
+  "draw": "Round timber-framed open-roof theater building with a thatched ring roof and a small flag on top.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "noh-stage",
+  "category": "performing",
+  "draw": "Square wooden stage under a temple-style roof on four pillars with a pine tree painted on the back wall.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "kamishibai",
+  "category": "performing",
+  "draw": "Small wooden box theater with open doors showing a picture card, mounted on the back of a bicycle.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "stagehand",
+  "category": "performing",
+  "draw": "Figure dressed in black carrying a tall flat piece of scenery on one shoulder.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "playwright",
+  "category": "performing",
+  "draw": "Figure at a desk writing with a quill, a small theater mask on the corner of the page.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "choreographer",
+  "category": "performing",
+  "draw": "Figure clapping out the count with raised hands in front of a small dancer silhouette and footstep marks.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "stage-fright",
+  "category": "performing",
+  "draw": "Small trembling figure alone in a spotlight cone with sweat drops and shaking knees.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "audition",
+  "category": "performing",
+  "draw": "Figure on a stage holding a number card facing a long table with two seated judges.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "actor-headshot",
+  "category": "performing",
+  "draw": "Portrait photo of a smiling head and shoulders with a resume sheet stapled behind it.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "table-read",
+  "category": "performing",
+  "draw": "Long table seen from above with four figures each holding an open script.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "thrust-stage",
+  "category": "performing",
+  "draw": "Top-down stage projecting into curved rows of seats that wrap around three sides of it.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "pageant-wagon",
+  "category": "performing",
+  "draw": "Medieval wheeled wagon carrying a small curtained stage with a figure on top.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "periaktos",
+  "category": "performing",
+  "draw": "Tall triangular prism of scenery on a pivot base with a different painted scene on each face.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "prop-table",
+  "category": "performing",
+  "draw": "Table top covered in paper with outlined taped shapes and props like a cup and a dagger sitting in them.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "stage-blocking",
+  "category": "performing",
+  "draw": "Stage floor plan rectangle with X marks and dashed arrows showing actor movement paths.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "coconut-hoof-shells",
+  "category": "performing",
+  "draw": "Two coconut half shells clapped together open side down with small hoofprint marks below.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "stage-barricade",
+  "category": "performing",
+  "draw": "Row of interlocking metal crowd barrier panels in front of a stage edge.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "stage-dive",
+  "category": "performing",
+  "draw": "Figure lying flat and carried along on the raised hands of a crowd below a stage edge.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "safety-curtain",
+  "category": "performing",
+  "draw": "Heavy solid iron curtain half lowered across a stage opening with a warning stripe along its base.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "green-room",
+  "category": "performing",
+  "draw": "Small lounge with a sofa, a mirror and a coffee cup beside a door marked with a star.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "bunraku-puppet",
+  "category": "performing",
+  "draw": "Large puppet figure in a kimono held by a hooded black-clad operator standing behind it.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "rod-puppet",
+  "category": "performing",
+  "draw": "Puppet figure with thin rods attached to each hand and one central rod from below held by a hand.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "water-puppet",
+  "category": "performing",
+  "draw": "Small puppet figure rising from water ripples in front of a little pavilion with a hanging curtain.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "parade-puppet",
+  "category": "performing",
+  "draw": "Giant tall puppet with a big head and long draped robe carried on poles above tiny people.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "toy-theater",
+  "category": "performing",
+  "draw": "Miniature paper stage with a printed proscenium, cardboard figures on slides and a painted backdrop.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "leotard",
+  "category": "performing",
+  "draw": "Flat long-sleeved leotard garment with high-cut legs and a scoop neckline.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "half-face-mask",
+  "category": "performing",
+  "draw": "White mask covering one half of the face only, with a single eye hole and a strap.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "animal-onesie",
+  "category": "performing",
+  "draw": "One-piece hooded animal costume with ears on the hood and a tail.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "doublet",
+  "category": "performing",
+  "draw": "Fitted padded jacket with puffed sleeves, slashed panels and a row of buttons down the front.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "face-changing-opera",
+  "category": "performing",
+  "draw": "Performer sweeping a fan across the face, the face split into two different painted mask patterns.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "greek-chorus",
+  "category": "performing",
+  "draw": "Row of three identical figures in robes each holding the same mask up to the face.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "living-statue",
+  "category": "performing",
+  "draw": "Figure frozen in a pose on a low crate, painted all one tone, with a hat of coins at the base.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "one-man-band",
+  "category": "performing",
+  "draw": "Figure with a bass drum on the back, cymbals on top, a harmonica on a neck holder and a guitar.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "funhouse-mirror",
+  "category": "performing",
+  "draw": "Tall wavy-edged mirror showing a stretched, wobbly figure reflection.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "hall-of-mirrors",
+  "category": "performing",
+  "draw": "Corridor of repeating mirror frames receding into the distance with one figure reflected many times.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "clown-tiny-bike",
+  "category": "performing",
+  "draw": "Clown in a big bow tie pedaling a tiny bicycle with knees up near the chin.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "trick-roping",
+  "category": "performing",
+  "draw": "Figure standing inside a large spinning vertical rope loop, one hand raised holding the rope.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "russian-bar",
+  "category": "performing",
+  "draw": "Two base figures carrying a long flexible bar on their shoulders with an acrobat flipping above it.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "floating-ball-trick",
+  "category": "performing",
+  "draw": "Silver ball hovering above the edge of a draped cloth held by two hands, small float lines under it.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "contact-juggling",
+  "category": "performing",
+  "draw": "Clear ball balanced on the back of an open hand with a curved roll arc across the fingers.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "carnival-barker",
+  "category": "performing",
+  "draw": "Figure in a straw boater and striped vest pointing a cane and calling out through a small megaphone.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "scenic-painter",
+  "category": "performing",
+  "draw": "Figure with a long-handled brush painting a tall backdrop of hills laid on the floor.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "costume-fitting",
+  "category": "performing",
+  "draw": "Performer standing on a small box while a second figure pins the hem of a long costume.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "prompt-desk",
+  "category": "performing",
+  "draw": "Stage manager's desk with an open script, a small hooded lamp, a headset and a row of cue buttons.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "kabuki-curtain",
+  "category": "performing",
+  "draw": "Wide stage curtain with bold vertical stripes in three alternating bands, drawn partly aside.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "cabaret",
+  "category": "performing",
+  "draw": "Small round table with a shaded lamp and two glasses facing a tiny stage with a performer on a stool.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "melodrama-villain",
+  "category": "performing",
+  "draw": "Figure in a top hat and long cape twirling a curled mustache with one hand.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "tree-costume",
+  "category": "performing",
+  "draw": "Child in a tree costume with a round face hole in the trunk and leafy branches for arms.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "dance-card",
+  "category": "performing",
+  "draw": "Small folded booklet with a tassel cord and a tiny pencil, lines of names inside.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "grand-jete",
+  "category": "performing",
+  "draw": "Ballet dancer leaping in mid air with legs in a full horizontal split and arms stretched out.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "hip-hop-dance",
+  "category": "performing",
+  "draw": "Figure in a cap and baggy clothes in a low crouch with one arm crossed over the chest and the other pointing down.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "gumboot-dance",
+  "category": "performing",
+  "draw": "Figure bent forward in tall rubber boots slapping the side of one boot with a hand, one knee raised.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "water-sleeve-dance",
+  "category": "performing",
+  "draw": "Dancer flinging very long flowing white sleeves in a wide arc overhead.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "bon-odori",
+  "category": "performing",
+  "draw": "Tall wooden tower strung with round paper lanterns and small dancers circling its base.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "wheelchair-dance",
+  "category": "performing",
+  "draw": "Dancer in a wheelchair with one arm raised, holding hands with a standing partner mid spin.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "headbanging",
+  "category": "performing",
+  "draw": "Figure with long hair whipping forward and back, motion arcs around the head and a raised fist.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "pheasant-feather-headdress",
+  "category": "performing",
+  "draw": "Ornate opera crown with two very long pheasant tail feathers curving back over the head.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "khon-mask",
+  "category": "performing",
+  "draw": "Masked face with a tall tiered pointed crown rising to a spire and ornate ear flaps.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "wayang-puppet",
+  "category": "performing",
+  "draw": "Flat ornate leather puppet in profile with an elongated nose, a central stick below and thin rods on the jointed arms.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "bucket-door-prank",
+  "category": "performing",
+  "draw": "Door standing slightly ajar with a bucket balanced on top of it, a few water drops at the lip.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "dance-studio",
+  "category": "performing",
+  "draw": "Room with a full-length mirror wall, a horizontal barre along it and a dancer silhouette reflected.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "applause-meter",
+  "category": "performing",
+  "draw": "Semicircular gauge dial with a needle swinging toward the high end and a pair of clapping hands below it.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "flaming-hoop",
+  "category": "performing",
+  "draw": "Large hoop on a stand ringed with small flames all around its edge, an acrobat leaping through.",
+  "domain": "r3-performing-arts-dance"
+ },
+ {
+  "name": "sword-balancing",
+  "category": "performing",
+  "draw": "Dancer with a curved sword balanced flat on top of the head, arms curved out to the sides.",
+  "domain": "r3-performing-arts-dance"
+ }
+]

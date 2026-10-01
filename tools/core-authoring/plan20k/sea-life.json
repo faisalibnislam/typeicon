@@ -1,0 +1,1332 @@
+[
+  {
+    "name": "clownfish",
+    "category": "sea-life",
+    "draw": "Side view of a plump oval fish with three bold vertical white bands outlined across head, middle and tail base."
+  },
+  {
+    "name": "angelfish",
+    "category": "sea-life",
+    "draw": "Side view of a tall triangular fish with very long swept back dorsal and anal fins trailing past a small tail."
+  },
+  {
+    "name": "pufferfish",
+    "category": "sea-life",
+    "draw": "Front three quarter view of an inflated round ball fish covered in short spikes, with tiny fins and pouting lips."
+  },
+  {
+    "name": "swordfish",
+    "category": "sea-life",
+    "draw": "Side view of a sleek fish with a long flat sword bill extending from the snout and a crescent tail."
+  },
+  {
+    "name": "sailfish",
+    "category": "sea-life",
+    "draw": "Side view of a slim billed fish with a huge raised sail shaped dorsal fin running most of its back."
+  },
+  {
+    "name": "seahorse",
+    "category": "sea-life",
+    "draw": "Side view of an upright seahorse with a horse like head, tube snout, curled belly and a tail coiled into a spiral."
+  },
+  {
+    "name": "leafy-sea-dragon",
+    "category": "sea-life",
+    "draw": "Side view of a seahorse like body stretched horizontal with several leaf shaped frond appendages sprouting from it."
+  },
+  {
+    "name": "pipefish",
+    "category": "sea-life",
+    "draw": "Side view of a very thin straight stick bodied fish with a long tube snout and a tiny fan tail."
+  },
+  {
+    "name": "moray-eel",
+    "category": "sea-life",
+    "draw": "An eel head and thick neck emerging from a rock hole with its jaw open showing a few teeth."
+  },
+  {
+    "name": "electric-eel",
+    "category": "sea-life",
+    "draw": "Side view of a long wavy eel body with a small lightning bolt beside it."
+  },
+  {
+    "name": "garden-eel",
+    "category": "sea-life",
+    "draw": "Three thin eels poking straight up out of a sandy seabed line, heads bent slightly like stalks."
+  },
+  {
+    "name": "gulper-eel",
+    "category": "sea-life",
+    "draw": "Side view of a deep sea eel with an enormous hinged pouch mouth and a thin whip like tail."
+  },
+  {
+    "name": "eel",
+    "category": "sea-life",
+    "draw": "Side view of a long snake like fish in a gentle S curve with a continuous fin along its back and a small pointed head."
+  },
+  {
+    "name": "anglerfish",
+    "category": "sea-life",
+    "draw": "Side view of a round deep sea fish with a huge toothy underbite and a glowing lure dangling from a stalk on its head."
+  },
+  {
+    "name": "viperfish",
+    "category": "sea-life",
+    "draw": "Side view of a slender deep sea fish with oversized needle fangs jutting beyond its closed mouth."
+  },
+  {
+    "name": "barracuda",
+    "category": "sea-life",
+    "draw": "Side view of a long torpedo shaped fish with a jutting lower jaw lined with pointed teeth and a forked tail."
+  },
+  {
+    "name": "tuna",
+    "category": "sea-life",
+    "draw": "Side view of a thick torpedo shaped fish with a row of small finlets near the tail and a sharp sickle tail."
+  },
+  {
+    "name": "salmon",
+    "category": "sea-life",
+    "draw": "Side view of a fish leaping in an arc above a water line, with a hooked jaw and small adipose fin."
+  },
+  {
+    "name": "mackerel",
+    "category": "sea-life",
+    "draw": "Side view of a streamlined fish with wavy tiger stripes across its upper back and a deeply forked tail."
+  },
+  {
+    "name": "cod-fish",
+    "category": "sea-life",
+    "draw": "Side view of a heavy fish with three separate dorsal fins, a pale lateral line and a single chin barbel."
+  },
+  {
+    "name": "catfish",
+    "category": "sea-life",
+    "draw": "Side view of a flat headed fish with long whiskers drooping from both sides of its wide mouth."
+  },
+  {
+    "name": "koi",
+    "category": "sea-life",
+    "draw": "Top view of a carp curving in an S bend with flowing fins, short whisker barbels and a patch pattern on its back."
+  },
+  {
+    "name": "betta-fish",
+    "category": "sea-life",
+    "draw": "Side view of a small fish trailing huge flowing veil fins and tail that billow like fabric."
+  },
+  {
+    "name": "piranha",
+    "category": "sea-life",
+    "draw": "Side view of a deep rounded fish with a jutting lower jaw showing a row of triangular teeth."
+  },
+  {
+    "name": "flounder",
+    "category": "sea-life",
+    "draw": "Side view of a flat oval fish lying on the seabed with both eyes on its upper side and a fringe fin all around."
+  },
+  {
+    "name": "ocean-sunfish",
+    "category": "sea-life",
+    "draw": "Side view of a huge round disc shaped fish with tall dorsal and anal fins and a clipped stubby rear instead of a tail."
+  },
+  {
+    "name": "flying-fish",
+    "category": "sea-life",
+    "draw": "Side view of a small fish gliding above a wave with long wing like pectoral fins spread wide."
+  },
+  {
+    "name": "lionfish",
+    "category": "sea-life",
+    "draw": "Side view of a fish with spiky fan fins radiating like a mane and banded stripes on its body."
+  },
+  {
+    "name": "butterflyfish",
+    "category": "sea-life",
+    "draw": "Side view of a flat disc shaped fish with a pointed snout, an eye stripe and a dark eye spot near the tail."
+  },
+  {
+    "name": "surgeonfish",
+    "category": "sea-life",
+    "draw": "Side view of an oval flat fish with a small mouth, a long dorsal fin and a sharp scalpel spine at the tail base."
+  },
+  {
+    "name": "parrotfish",
+    "category": "sea-life",
+    "draw": "Side view of a chunky fish with a fused beak like mouth and large scale pattern."
+  },
+  {
+    "name": "boxfish",
+    "category": "sea-life",
+    "draw": "Side view of a cube shaped fish with a boxy rigid body, spotted pattern, tiny fins and a small tail."
+  },
+  {
+    "name": "triggerfish",
+    "category": "sea-life",
+    "draw": "Side view of a diamond shaped fish with a raised spike first dorsal fin and a small mouth at the front point."
+  },
+  {
+    "name": "moorish-idol",
+    "category": "sea-life",
+    "draw": "Side view of a disc shaped fish with bold vertical bands and a very long white streamer trailing from its dorsal fin."
+  },
+  {
+    "name": "unicornfish",
+    "category": "sea-life",
+    "draw": "Side view of an oval fish with a long straight horn projecting forward from its forehead."
+  },
+  {
+    "name": "grouper",
+    "category": "sea-life",
+    "draw": "Side view of a large heavy bodied fish with thick lips, a wide mouth and a rounded tail."
+  },
+  {
+    "name": "mudskipper",
+    "category": "sea-life",
+    "draw": "Side view of a fish propped up on its pectoral fins on a mud line with bulging eyes on top of its head."
+  },
+  {
+    "name": "archerfish",
+    "category": "sea-life",
+    "draw": "Side view of a fish at the water surface shooting a dotted jet of water up at an insect on a leaf."
+  },
+  {
+    "name": "remora",
+    "category": "sea-life",
+    "draw": "Side view of a slim fish with a flat oval ridged sucker disc on top of its head."
+  },
+  {
+    "name": "sturgeon",
+    "category": "sea-life",
+    "draw": "Side view of a long prehistoric fish with rows of bony plates, whisker barbels under a pointed snout and a shark like tail."
+  },
+  {
+    "name": "paddlefish",
+    "category": "sea-life",
+    "draw": "Side view of a fish with a long flat paddle shaped snout extending far in front of its mouth."
+  },
+  {
+    "name": "lamprey",
+    "category": "sea-life",
+    "draw": "Front view of a round sucker mouth ringed with concentric circles of small teeth."
+  },
+  {
+    "name": "pike-fish",
+    "category": "sea-life",
+    "draw": "Side view of a long slender fish with a flat duck bill jaw and its dorsal fin set far back near the tail."
+  },
+  {
+    "name": "largemouth-bass",
+    "category": "sea-life",
+    "draw": "Side view of a stocky fish with an oversized open mouth reaching back past its eye and a spiny dorsal fin."
+  },
+  {
+    "name": "mahi-mahi",
+    "category": "sea-life",
+    "draw": "Side view of a fish with a tall blunt vertical forehead, a dorsal fin running the full back and a forked tail."
+  },
+  {
+    "name": "oarfish",
+    "category": "sea-life",
+    "draw": "Side view of a very long ribbon shaped fish in waves with a tall crest of spines on its head."
+  },
+  {
+    "name": "hatchetfish",
+    "category": "sea-life",
+    "draw": "Side view of a tiny deep sea fish with a thin tail and a deep hatchet blade shaped belly and upturned eyes."
+  },
+  {
+    "name": "blobfish",
+    "category": "sea-life",
+    "draw": "Front view of a droopy gelatinous blob face with a large sagging nose and a downturned mouth."
+  },
+  {
+    "name": "barreleye",
+    "category": "sea-life",
+    "draw": "Side view of a fish whose head is a clear dome with two tube eyes visible inside pointing up."
+  },
+  {
+    "name": "tripod-fish",
+    "category": "sea-life",
+    "draw": "Side view of a fish standing on the seabed on three long stilt like fin rays."
+  },
+  {
+    "name": "stonefish",
+    "category": "sea-life",
+    "draw": "Side view of a lumpy rock like fish with warty texture, an upturned mouth and eyes on top."
+  },
+  {
+    "name": "frogfish",
+    "category": "sea-life",
+    "draw": "Side view of a round lumpy fish sitting on leg like pectoral fins with a small lure above its wide mouth."
+  },
+  {
+    "name": "batfish",
+    "category": "sea-life",
+    "draw": "Side view of a flat fish walking on leg like fins with a pointed snout horn and pouting lips."
+  },
+  {
+    "name": "discus-fish",
+    "category": "sea-life",
+    "draw": "Side view of a perfectly round flat disc fish with thin wavy vertical bands and small fins."
+  },
+  {
+    "name": "ratfish",
+    "category": "sea-life",
+    "draw": "Side view of a fish with big eyes, a rabbit like snout, wing like pectoral fins and a long thin rat tail."
+  },
+  {
+    "name": "needlefish",
+    "category": "sea-life",
+    "draw": "Side view of a very slender pencil shaped fish with long thin toothed beak jaws."
+  },
+  {
+    "name": "lanternfish",
+    "category": "sea-life",
+    "draw": "Side view of a small fish with a big eye and a row of glowing dot lights along its belly."
+  },
+  {
+    "name": "fish-school",
+    "category": "sea-life",
+    "draw": "Several small identical fish swimming in a tight group, all facing the same way in staggered rows."
+  },
+  {
+    "name": "fish-larva",
+    "category": "sea-life",
+    "draw": "Side view of a tiny transparent fish with big eyes and a round yolk sac under its belly."
+  },
+  {
+    "name": "hammerhead-shark",
+    "category": "sea-life",
+    "draw": "Top view of a shark with a wide flat T shaped hammer head with eyes at each end."
+  },
+  {
+    "name": "whale-shark",
+    "category": "sea-life",
+    "draw": "Side view of a huge shark with a wide flat squared mouth at the front and a pattern of spots on its back."
+  },
+  {
+    "name": "thresher-shark",
+    "category": "sea-life",
+    "draw": "Side view of a shark with an extremely long curved upper tail lobe as long as its body."
+  },
+  {
+    "name": "goblin-shark",
+    "category": "sea-life",
+    "draw": "Side view of a shark with a long flat blade like snout overhanging protruding jaws."
+  },
+  {
+    "name": "tiger-shark",
+    "category": "sea-life",
+    "draw": "Side view of a shark with a blunt square snout and dark vertical stripes along its back."
+  },
+  {
+    "name": "sawfish",
+    "category": "sea-life",
+    "draw": "Top view of a flattened ray like fish with a long saw shaped snout edged with teeth on both sides."
+  },
+  {
+    "name": "manta-ray",
+    "category": "sea-life",
+    "draw": "Top view of a wide diamond ray with pointed wing fins and two curled horn lobes at the front of its head."
+  },
+  {
+    "name": "stingray",
+    "category": "sea-life",
+    "draw": "Top view of a rounded flat disc ray with a long thin whip tail and a small barb."
+  },
+  {
+    "name": "eagle-ray",
+    "category": "sea-life",
+    "draw": "Top view of a ray with pointed swept back wings, a protruding rounded snout, spots and a long tail."
+  },
+  {
+    "name": "electric-ray",
+    "category": "sea-life",
+    "draw": "Top view of a nearly circular flat ray with a short thick tail and a small lightning bolt on its disc."
+  },
+  {
+    "name": "guitarfish",
+    "category": "sea-life",
+    "draw": "Top view of a fish with a flat triangular ray front body tapering into a thick shark like tail."
+  },
+  {
+    "name": "shark-fin",
+    "category": "sea-life",
+    "draw": "A single triangular dorsal fin cutting above a wavy water line."
+  },
+  {
+    "name": "shark-tooth",
+    "category": "sea-life",
+    "draw": "A single large serrated triangular shark tooth with a curved root."
+  },
+  {
+    "name": "shark-jaw",
+    "category": "sea-life",
+    "draw": "Front view of an open set of shark jaws with rows of triangular teeth around the oval opening."
+  },
+  {
+    "name": "shark-cage",
+    "category": "sea-life",
+    "draw": "A barred diving cage hanging below a water line with a shark fin circling beside it."
+  },
+  {
+    "name": "mermaids-purse",
+    "category": "sea-life",
+    "draw": "A rectangular shark egg case pouch with a curly tendril at each of its four corners."
+  },
+  {
+    "name": "humpback-whale",
+    "category": "sea-life",
+    "draw": "Side view of a whale with extra long wing like pectoral flippers and grooves along its throat."
+  },
+  {
+    "name": "dugong",
+    "category": "sea-life",
+    "draw": "Side view of a sea cow with a downturned snout and a fluked whale like tail."
+  },
+  {
+    "name": "marine-iguana",
+    "category": "sea-life",
+    "draw": "Side view of a stocky lizard with a spiky crest along its back clinging to a rock at the water line."
+  },
+  {
+    "name": "nautilus",
+    "category": "sea-life",
+    "draw": "Side view of a coiled striped spiral shell with a cluster of short tentacles and an eye at its opening."
+  },
+  {
+    "name": "dumbo-octopus",
+    "category": "sea-life",
+    "draw": "Front view of a round octopus with two ear like fins on top and short webbed arms like a skirt."
+  },
+  {
+    "name": "blue-ringed-octopus",
+    "category": "sea-life",
+    "draw": "Front view of a small octopus with its body and curling arms covered in outlined ring spots."
+  },
+  {
+    "name": "vampire-squid",
+    "category": "sea-life",
+    "draw": "Front view of a squid with its arms joined by a webbed cloak spread open like an umbrella, with two fins on top."
+  },
+  {
+    "name": "squid-ink",
+    "category": "sea-life",
+    "draw": "A squid jetting away from a billowing cloud of ink puffs behind it."
+  },
+  {
+    "name": "octopus-tentacle",
+    "category": "sea-life",
+    "draw": "A single curling octopus arm rising in an S shape with a row of round suckers along its inner edge."
+  },
+  {
+    "name": "lobster",
+    "category": "sea-life",
+    "draw": "Top view of a lobster with two large unequal crushing claws, long antennae, a segmented body and a fan tail."
+  },
+  {
+    "name": "crayfish",
+    "category": "sea-life",
+    "draw": "Side view of a small freshwater lobster with slim claws held forward and a curled segmented tail."
+  },
+  {
+    "name": "king-crab",
+    "category": "sea-life",
+    "draw": "Top view of a crab with a spiny round shell and long thick legs covered in spikes."
+  },
+  {
+    "name": "spider-crab",
+    "category": "sea-life",
+    "draw": "Top view of a small crab body with extremely long thin jointed legs spanning wide."
+  },
+  {
+    "name": "ghost-crab",
+    "category": "sea-life",
+    "draw": "Front view of a square crab with two tall upright eye stalks and one claw raised."
+  },
+  {
+    "name": "fiddler-crab",
+    "category": "sea-life",
+    "draw": "Front view of a small crab with one giant raised claw and one tiny claw."
+  },
+  {
+    "name": "crab-claw",
+    "category": "sea-life",
+    "draw": "A single crab pincer claw with a jagged edged open gripping tip."
+  },
+  {
+    "name": "krill",
+    "category": "sea-life",
+    "draw": "Side view of a small curved translucent shrimp like crustacean with many feathery legs and a black eye."
+  },
+  {
+    "name": "barnacle",
+    "category": "sea-life",
+    "draw": "A cluster of small cone shaped volcano shells with slotted openings on a rock."
+  },
+  {
+    "name": "mantis-shrimp",
+    "category": "sea-life",
+    "draw": "Side view of a shrimp with stalked eyes and folded club like raptorial front limbs held up."
+  },
+  {
+    "name": "pistol-shrimp",
+    "category": "sea-life",
+    "draw": "Side view of a small shrimp with one oversized snapping claw and a burst mark at its tip."
+  },
+  {
+    "name": "cleaner-shrimp",
+    "category": "sea-life",
+    "draw": "Side view of a slender shrimp with very long thin white antennae arching over its back."
+  },
+  {
+    "name": "giant-isopod",
+    "category": "sea-life",
+    "draw": "Top view of a large segmented oval crustacean like a big pill bug with many small legs and two tail spines."
+  },
+  {
+    "name": "lobster-trap",
+    "category": "sea-life",
+    "draw": "A rectangular slatted cage trap with a funnel entrance and a rope leading up to a small float."
+  },
+  {
+    "name": "oyster",
+    "category": "sea-life",
+    "draw": "Top view of a closed oyster with a rough craggy irregular shell edge in layered ridges."
+  },
+  {
+    "name": "pearl-oyster",
+    "category": "sea-life",
+    "draw": "An oyster shell opened on its hinge with a round shining pearl sitting inside."
+  },
+  {
+    "name": "mussel",
+    "category": "sea-life",
+    "draw": "Side view of a long dark teardrop shaped bivalve shell with fine growth lines."
+  },
+  {
+    "name": "conch",
+    "category": "sea-life",
+    "draw": "Side view of a large spiral shell with knobbed crown spikes and a flared lip opening."
+  },
+  {
+    "name": "cowrie",
+    "category": "sea-life",
+    "draw": "Top view of a glossy egg shaped shell with a narrow toothed slit opening down the middle."
+  },
+  {
+    "name": "abalone",
+    "category": "sea-life",
+    "draw": "Top view of an ear shaped flat shell with a curved row of small breathing holes near one edge."
+  },
+  {
+    "name": "whelk",
+    "category": "sea-life",
+    "draw": "Side view of a tall spiral shell with a long spire and an elongated canal at the base."
+  },
+  {
+    "name": "limpet",
+    "category": "sea-life",
+    "draw": "Side view of a low cone shaped shell stuck to a rock with ribs radiating from its peak."
+  },
+  {
+    "name": "razor-clam",
+    "category": "sea-life",
+    "draw": "A long narrow straight rectangular shell with a foot poking out of one end."
+  },
+  {
+    "name": "geoduck",
+    "category": "sea-life",
+    "draw": "A large clam shell with a long thick siphon neck stretching up from it."
+  },
+  {
+    "name": "nudibranch",
+    "category": "sea-life",
+    "draw": "Side view of a soft sea slug with two horn rhinophores on the head and a frilly gill tuft on its back."
+  },
+  {
+    "name": "blue-dragon-sea-slug",
+    "category": "sea-life",
+    "draw": "Top view of a small slug with a lizard like body and three pairs of fingered frond clusters spread out."
+  },
+  {
+    "name": "chiton",
+    "category": "sea-life",
+    "draw": "Top view of an oval mollusc with eight overlapping plates across its back and a girdle rim."
+  },
+  {
+    "name": "auger-shell",
+    "category": "sea-life",
+    "draw": "A long thin sharply pointed spiral shell like a tall screw."
+  },
+  {
+    "name": "murex-shell",
+    "category": "sea-life",
+    "draw": "Side view of a spiral shell with rows of long spines and a long straight spiny canal."
+  },
+  {
+    "name": "cone-shell",
+    "category": "sea-life",
+    "draw": "Side view of a cone shaped shell with a flat spiral top and a patterned tapering body."
+  },
+  {
+    "name": "sundial-shell",
+    "category": "sea-life",
+    "draw": "Top view of a flat round spiral shell with beaded rings winding to a center."
+  },
+  {
+    "name": "tusk-shell",
+    "category": "sea-life",
+    "draw": "A slim curved hollow tube shell tapering like a small elephant tusk."
+  },
+  {
+    "name": "sea-angel",
+    "category": "sea-life",
+    "draw": "Front view of a tiny translucent swimming snail with two wing like flaps and a small head."
+  },
+  {
+    "name": "starfish",
+    "category": "sea-life",
+    "draw": "Top view of a five armed sea star with a small circle at the center and dotted texture on its arms."
+  },
+  {
+    "name": "sunflower-starfish",
+    "category": "sea-life",
+    "draw": "Top view of a sea star with a wide central disc and many short arms radiating like petals."
+  },
+  {
+    "name": "crown-of-thorns-starfish",
+    "category": "sea-life",
+    "draw": "Top view of a many armed sea star covered in long sharp spikes."
+  },
+  {
+    "name": "brittle-starfish",
+    "category": "sea-life",
+    "draw": "Top view of a small round disc with five very thin long snaking arms."
+  },
+  {
+    "name": "sea-urchin",
+    "category": "sea-life",
+    "draw": "A round ball with long thin spines radiating out in every direction."
+  },
+  {
+    "name": "pencil-urchin",
+    "category": "sea-life",
+    "draw": "A round urchin with a few thick blunt pencil shaped spines pointing out."
+  },
+  {
+    "name": "sand-dollar-shell",
+    "category": "sea-life",
+    "draw": "Top view of a flat round disc with a five petal flower pattern of dots in the center."
+  },
+  {
+    "name": "sea-cucumber",
+    "category": "sea-life",
+    "draw": "Side view of a long soft bumpy sausage shaped body with a ring of short tentacles at one end."
+  },
+  {
+    "name": "sea-pig",
+    "category": "sea-life",
+    "draw": "Side view of a plump deep sea cucumber walking on several tube legs with antennae like feelers on top."
+  },
+  {
+    "name": "sea-lily",
+    "category": "sea-life",
+    "draw": "A feather star on a long stalk with feathery arms opening like a flower at the top."
+  },
+  {
+    "name": "box-jellyfish",
+    "category": "sea-life",
+    "draw": "Front view of a jellyfish with a square cube shaped bell and tentacles hanging from each corner."
+  },
+  {
+    "name": "moon-jellyfish",
+    "category": "sea-life",
+    "draw": "Top view of a round translucent bell with four horseshoe shaped rings in the center and a fringe edge."
+  },
+  {
+    "name": "lions-mane-jellyfish",
+    "category": "sea-life",
+    "draw": "Side view of a wide bell jellyfish with a dense mass of long hair like tentacles hanging below."
+  },
+  {
+    "name": "man-o-war",
+    "category": "sea-life",
+    "draw": "Side view of a floating crested balloon float with a ruffled top edge and long tentacles hanging below."
+  },
+  {
+    "name": "by-the-wind-sailor",
+    "category": "sea-life",
+    "draw": "Side view of a small oval raft float with a diagonal triangular sail on top and short fringe underneath."
+  },
+  {
+    "name": "comb-jelly",
+    "category": "sea-life",
+    "draw": "Side view of an oval transparent body with eight rows of comb stripes running top to bottom."
+  },
+  {
+    "name": "sea-anemone",
+    "category": "sea-life",
+    "draw": "Side view of a short stalk topped with a crown of many wavy tentacles swaying upward."
+  },
+  {
+    "name": "brain-coral",
+    "category": "sea-life",
+    "draw": "A rounded dome coral covered in winding maze like grooves."
+  },
+  {
+    "name": "staghorn-coral",
+    "category": "sea-life",
+    "draw": "A coral with several branching antler like arms forking upward from a base."
+  },
+  {
+    "name": "sea-fan",
+    "category": "sea-life",
+    "draw": "A flat fan shaped coral with a fine net lattice of branches spreading from a short stem."
+  },
+  {
+    "name": "sea-whip",
+    "category": "sea-life",
+    "draw": "A few long thin flexible rod coral stems rising and bending from a rock base."
+  },
+  {
+    "name": "table-coral",
+    "category": "sea-life",
+    "draw": "A flat wide plate shaped coral spreading horizontally on top of a short central stem."
+  },
+  {
+    "name": "pillar-coral",
+    "category": "sea-life",
+    "draw": "Several tall upright cylinder columns of coral rising from the seabed, fuzzy at their tops."
+  },
+  {
+    "name": "mushroom-coral",
+    "category": "sea-life",
+    "draw": "Top view of a round disc coral with fine ridges radiating from a central slit."
+  },
+  {
+    "name": "bubble-coral",
+    "category": "sea-life",
+    "draw": "A cluster of round grape like bubbles packed together on a coral base."
+  },
+  {
+    "name": "coral-polyp",
+    "category": "sea-life",
+    "draw": "Close up of a tiny tube shaped polyp with a ring of short tentacles opening at its top."
+  },
+  {
+    "name": "coral-nursery",
+    "category": "sea-life",
+    "draw": "Small coral fragments hanging from a frame of horizontal lines like a clothes rack underwater."
+  },
+  {
+    "name": "coral-spawning",
+    "category": "sea-life",
+    "draw": "A coral head releasing a stream of small round dots rising up into the water."
+  },
+  {
+    "name": "sea-pen",
+    "category": "sea-life",
+    "draw": "A tall feather quill shaped colony standing upright in the sand with leaf like side branches."
+  },
+  {
+    "name": "sea-sponge",
+    "category": "sea-life",
+    "draw": "A tube shaped sponge with an open top rim and small pores dotted over its body."
+  },
+  {
+    "name": "glass-sponge",
+    "category": "sea-life",
+    "draw": "A tall vase shaped sponge made of a crisscross lattice grid with a fringe at its top."
+  },
+  {
+    "name": "sea-squirt",
+    "category": "sea-life",
+    "draw": "Side view of a soft vase shaped body with two short open siphon spouts at its top."
+  },
+  {
+    "name": "plankton",
+    "category": "sea-life",
+    "draw": "A few tiny drifting shapes, a dot cell, a crescent and a small crustacean, inside a circle."
+  },
+  {
+    "name": "diatom",
+    "category": "sea-life",
+    "draw": "A tiny round pillbox cell with a radial pattern of fine lines and dots, like a lens."
+  },
+  {
+    "name": "radiolarian",
+    "category": "sea-life",
+    "draw": "A small sphere lattice with long thin spines radiating outward from its surface."
+  },
+  {
+    "name": "seaweed",
+    "category": "sea-life",
+    "draw": "Several wavy ribbon fronds growing up from a small rock and swaying to one side."
+  },
+  {
+    "name": "kelp",
+    "category": "sea-life",
+    "draw": "A tall kelp stalk with long wavy blades and small round gas bladders at their bases."
+  },
+  {
+    "name": "kelp-forest",
+    "category": "sea-life",
+    "draw": "Several tall kelp stalks rising from the seabed to a wavy surface line with a small fish between them."
+  },
+  {
+    "name": "sea-grass",
+    "category": "sea-life",
+    "draw": "A cluster of long thin straight blades growing from a sandy seabed line."
+  },
+  {
+    "name": "sea-lettuce",
+    "category": "sea-life",
+    "draw": "A thin crinkled translucent green leaf sheet with ruffled wavy edges."
+  },
+  {
+    "name": "sargassum",
+    "category": "sea-life",
+    "draw": "A floating mat of branching seaweed with small round berry floats resting on a wavy surface line."
+  },
+  {
+    "name": "sea-grapes",
+    "category": "sea-life",
+    "draw": "A creeping stem with upright stalks covered in clusters of tiny round beads."
+  },
+  {
+    "name": "samphire",
+    "category": "sea-life",
+    "draw": "A small succulent plant with jointed branching cylinder stems like tiny green fingers."
+  },
+  {
+    "name": "mangrove-tree",
+    "category": "sea-life",
+    "draw": "A tree standing above a water line on a cage of arching stilt roots."
+  },
+  {
+    "name": "algae-bloom",
+    "category": "sea-life",
+    "draw": "A wavy water surface line with a thick layer of blotchy scum and dots floating on it."
+  },
+  {
+    "name": "dune-grass",
+    "category": "sea-life",
+    "draw": "Tufts of long thin grass blades bending in the wind on top of a rounded sand dune."
+  },
+  {
+    "name": "driftwood",
+    "category": "sea-life",
+    "draw": "A weathered bare twisted branch lying on its side with worn knots and grain lines."
+  },
+  {
+    "name": "hydrothermal-vent",
+    "category": "sea-life",
+    "draw": "A tall rocky chimney on the seabed puffing a billowing plume of dark smoke upward."
+  },
+  {
+    "name": "ocean-trench",
+    "category": "sea-life",
+    "draw": "Cross section of the seabed plunging into a deep narrow V shaped trench below a wavy surface line."
+  },
+  {
+    "name": "atoll",
+    "category": "sea-life",
+    "draw": "Top view of a ring shaped reef island with a small palm, enclosing a round lagoon, surrounded by water lines."
+  },
+  {
+    "name": "salt-marsh",
+    "category": "sea-life",
+    "draw": "Reed tufts and grass growing in patches between winding tidal channels of water."
+  },
+  {
+    "name": "sandbar",
+    "category": "sea-life",
+    "draw": "A long low curved strip of sand just above a wavy water line with water on both sides."
+  },
+  {
+    "name": "sea-stack",
+    "category": "sea-life",
+    "draw": "A tall isolated rock pillar standing in the sea just off a cliff edge with waves at its base."
+  },
+  {
+    "name": "sea-arch",
+    "category": "sea-life",
+    "draw": "A rock headland with a natural arch opening through it and waves passing under."
+  },
+  {
+    "name": "sea-cliff",
+    "category": "sea-life",
+    "draw": "A tall vertical cliff face dropping straight down into waves with a grassy top edge."
+  },
+  {
+    "name": "rocky-shore",
+    "category": "sea-life",
+    "draw": "A row of rounded rocks and boulders at the edge of a wavy water line."
+  },
+  {
+    "name": "shipwreck",
+    "category": "sea-life",
+    "draw": "A broken tilted sailing ship hull resting on the seabed with a snapped mast and a small fish."
+  },
+  {
+    "name": "seamount",
+    "category": "sea-life",
+    "draw": "Cross section of an underwater mountain rising from the seabed with its peak well below the surface line."
+  },
+  {
+    "name": "ocean-current",
+    "category": "sea-life",
+    "draw": "Several long curving parallel flow arrows sweeping across wavy water lines."
+  },
+  {
+    "name": "rip-current",
+    "category": "sea-life",
+    "draw": "Top view of a beach with waves coming in and a narrow channel of arrows flowing straight back out to sea."
+  },
+  {
+    "name": "whirlpool",
+    "category": "sea-life",
+    "draw": "Top view of water spiraling inward in a tightening swirl with a dark center."
+  },
+  {
+    "name": "ocean-layers",
+    "category": "sea-life",
+    "draw": "A cross section water column split into three horizontal bands getting darker with depth, with a sun at the top."
+  },
+  {
+    "name": "bioluminescence",
+    "category": "sea-life",
+    "draw": "A dark wave line sprinkled with small glowing sparkle dots along its crest."
+  },
+  {
+    "name": "seabed",
+    "category": "sea-life",
+    "draw": "A sandy seafloor line with small rocks, a shell and a sprig of seaweed under a wavy surface line."
+  },
+  {
+    "name": "tide-pool",
+    "category": "sea-life",
+    "draw": "A small rock pool among boulders holding a starfish and a snail shell."
+  },
+  {
+    "name": "blue-hole",
+    "category": "sea-life",
+    "draw": "Top view of a dark round deep circle in the middle of a pale shallow reef."
+  },
+  {
+    "name": "cove",
+    "category": "sea-life",
+    "draw": "Top view of a curved sheltered bay coastline with an almost enclosed rounded pocket of water."
+  },
+  {
+    "name": "whale-fall",
+    "category": "sea-life",
+    "draw": "A whale skeleton lying on the seabed with its ribs up and a few small creatures around it."
+  },
+  {
+    "name": "continental-shelf",
+    "category": "sea-life",
+    "draw": "Cross section of land sloping into shallow water that steps off a ledge into a steep deep drop."
+  },
+  {
+    "name": "mudflat",
+    "category": "sea-life",
+    "draw": "A flat muddy shore with ripple lines, small holes and bird footprints below a distant water line."
+  },
+  {
+    "name": "ocean-upwelling",
+    "category": "sea-life",
+    "draw": "Cross section with curved arrows rising from deep water up the slope of a coastline to the surface."
+  },
+  {
+    "name": "ocean-gyre",
+    "category": "sea-life",
+    "draw": "Top view of a large oval loop of circling arrows with small floating debris gathered in the middle."
+  },
+  {
+    "name": "marine-snow",
+    "category": "sea-life",
+    "draw": "Dark water with many small flakes and specks drifting down toward a seabed line."
+  },
+  {
+    "name": "coastal-erosion",
+    "category": "sea-life",
+    "draw": "A cliff edge crumbling with falling rock chunks and waves hitting its base, a house near the top."
+  },
+  {
+    "name": "fish-tag",
+    "category": "sea-life",
+    "draw": "Side view of a fish with a small tracking tag clipped to its back fin and a signal arc above."
+  },
+  {
+    "name": "fish-measuring-board",
+    "category": "sea-life",
+    "draw": "A fish lying on a long board with a ruler scale marked along its edge."
+  },
+  {
+    "name": "plankton-net",
+    "category": "sea-life",
+    "draw": "A long cone shaped fine mesh net with a small collecting jar at its narrow end and a ring mouth."
+  },
+  {
+    "name": "fish-ladder",
+    "category": "sea-life",
+    "draw": "A series of stepped pools rising beside a dam with a fish leaping up between steps."
+  },
+  {
+    "name": "fish-farm-pen",
+    "category": "sea-life",
+    "draw": "A round floating net pen ring on the water surface with a mesh net hanging below and fish inside."
+  },
+  {
+    "name": "seaweed-farm",
+    "category": "sea-life",
+    "draw": "A horizontal rope between two floats with seaweed strands hanging down from it."
+  },
+  {
+    "name": "trawl-net",
+    "category": "sea-life",
+    "draw": "A long cone shaped fishing net with a wide open mouth held by floats and weights, tapering to a closed end."
+  },
+  {
+    "name": "hydrophone",
+    "category": "sea-life",
+    "draw": "An underwater microphone hanging on a cable with sound wave arcs spreading out beside it."
+  },
+  {
+    "name": "secchi-disk",
+    "category": "sea-life",
+    "draw": "A round disk divided into four quarters alternating dark and light, hanging from a marked rope."
+  },
+  {
+    "name": "profiling-float",
+    "category": "sea-life",
+    "draw": "A tall slim cylinder float bobbing upright in the water with a short antenna above the surface."
+  },
+  {
+    "name": "water-sampling-bottle",
+    "category": "sea-life",
+    "draw": "A tube shaped sampling bottle with caps at both ends clipped to a vertical cable underwater."
+  },
+  {
+    "name": "sediment-core",
+    "category": "sea-life",
+    "draw": "A clear tube holding a cylinder of seabed mud with several stacked horizontal layers."
+  },
+  {
+    "name": "survey-quadrat",
+    "category": "sea-life",
+    "draw": "A square frame divided into a grid laid on the seabed over some coral and a shell."
+  },
+  {
+    "name": "underwater-rov",
+    "category": "sea-life",
+    "draw": "A boxy remote underwater vehicle with two lights, side thrusters and a tether cable rising from its top."
+  },
+  {
+    "name": "bathysphere",
+    "category": "sea-life",
+    "draw": "A round steel diving sphere with small round portholes hanging from a cable."
+  },
+  {
+    "name": "seafloor-mapping",
+    "category": "sea-life",
+    "draw": "A boat on a water line sending a fan of sonar beams down onto an uneven seabed profile."
+  },
+  {
+    "name": "fish-finder",
+    "category": "sea-life",
+    "draw": "A small screen showing fish shaped arches above a seabed line, with a transducer cable."
+  },
+  {
+    "name": "specimen-jar",
+    "category": "sea-life",
+    "draw": "A lidded glass jar with a preserved small fish or octopus floating inside."
+  },
+  {
+    "name": "aquarium-tank",
+    "category": "sea-life",
+    "draw": "A rectangular glass fish tank with a light hood on top, a plant, gravel at the bottom and a fish."
+  },
+  {
+    "name": "aquarium-net",
+    "category": "sea-life",
+    "draw": "A small rectangular fish scoop net on a straight handle."
+  },
+  {
+    "name": "aquarium-filter",
+    "category": "sea-life",
+    "draw": "A box filter hanging on the rim of a tank edge with water pouring back in from its spout."
+  },
+  {
+    "name": "aquarium-heater",
+    "category": "sea-life",
+    "draw": "A slim glass tube heater with a control dial at its top and suction cup clips on the side."
+  },
+  {
+    "name": "aquarium-air-stone",
+    "category": "sea-life",
+    "draw": "A small cylinder stone on the tank floor with an air tube and a column of bubbles rising from it."
+  },
+  {
+    "name": "aquarium-test-kit",
+    "category": "sea-life",
+    "draw": "A small bottle and a test tube vial next to a color chart card with swatches."
+  },
+  {
+    "name": "gravel-siphon",
+    "category": "sea-life",
+    "draw": "A wide tube dipped into tank gravel connected to a hose leading down into a bucket."
+  },
+  {
+    "name": "fish-bag",
+    "category": "sea-life",
+    "draw": "A clear plastic bag tied at the top, filled with water with a small fish inside."
+  },
+  {
+    "name": "marine-reserve",
+    "category": "sea-life",
+    "draw": "A dashed boundary circle over wavy water enclosing a fish and a coral."
+  },
+  {
+    "name": "ocean-conservation",
+    "category": "sea-life",
+    "draw": "Two open cupped hands holding a wave with a small fish above it."
+  },
+  {
+    "name": "sustainable-seafood",
+    "category": "sea-life",
+    "draw": "Side view of a fish with a leaf growing out of its back in place of a dorsal fin."
+  },
+  {
+    "name": "overfishing",
+    "category": "sea-life",
+    "draw": "A bulging fishing net overflowing with many fish, with a downward trend line beside it."
+  },
+  {
+    "name": "ocean-plastic",
+    "category": "sea-life",
+    "draw": "A plastic bottle and a bag floating on a wavy water line with a fish swimming beneath."
+  },
+  {
+    "name": "microplastics",
+    "category": "sea-life",
+    "draw": "A water drop containing many tiny fragments of irregular shapes and small dots."
+  },
+  {
+    "name": "oil-spill",
+    "category": "sea-life",
+    "draw": "A dark blob slick spreading on a wavy water surface from a single drop above."
+  },
+  {
+    "name": "ghost-net",
+    "category": "sea-life",
+    "draw": "A torn tangled fishing net drifting underwater with a fish caught in its mesh."
+  },
+  {
+    "name": "ocean-acidification",
+    "category": "sea-life",
+    "draw": "A seashell partly dissolving with holes inside a water drop marked with the letters pH."
+  },
+  {
+    "name": "sea-level-rise",
+    "category": "sea-life",
+    "draw": "A measuring post standing in the sea with markings and a raised water line above the old dashed level."
+  },
+  {
+    "name": "sea-temperature",
+    "category": "sea-life",
+    "draw": "A thermometer standing in a wavy water line with its bulb below the surface."
+  },
+  {
+    "name": "salinity",
+    "category": "sea-life",
+    "draw": "A water drop with a few small salt crystal cubes inside it."
+  },
+  {
+    "name": "ocean-depth",
+    "category": "sea-life",
+    "draw": "A vertical depth scale with tick marks descending from a wavy surface line to a seabed line."
+  },
+  {
+    "name": "whale-song",
+    "category": "sea-life",
+    "draw": "Side view of a whale with curved sound wave arcs spreading from its head."
+  },
+  {
+    "name": "echolocation",
+    "category": "sea-life",
+    "draw": "Side view of a dolphin head sending arcs of sound toward a small fish that bounce back."
+  },
+  {
+    "name": "fish-migration",
+    "category": "sea-life",
+    "draw": "A fish following a long curved dashed route line that ends in a looping arrow."
+  },
+  {
+    "name": "beach-cleanup",
+    "category": "sea-life",
+    "draw": "A trash bag and a grabber tool beside a bottle on a sand line with a small wave."
+  },
+  {
+    "name": "reef-safe-sunscreen",
+    "category": "sea-life",
+    "draw": "A sunscreen squeeze tube with a small coral branch on its label."
+  },
+  {
+    "name": "sea-glass",
+    "category": "sea-life",
+    "draw": "Three small smooth rounded frosted glass pebbles with soft highlights."
+  },
+  {
+    "name": "fish-tail",
+    "category": "sea-life",
+    "draw": "A single forked caudal fish tail fin with radiating fin ray lines."
+  },
+  {
+    "name": "fish-scales",
+    "category": "sea-life",
+    "draw": "A pattern of overlapping rounded fish scales arranged in staggered rows."
+  },
+  {
+    "name": "fish-skeleton",
+    "category": "sea-life",
+    "draw": "Side view of a fish skeleton with a head, a straight spine, rib bones and a tail fin."
+  },
+  {
+    "name": "fish-eggs",
+    "category": "sea-life",
+    "draw": "A cluster of small round translucent eggs, each with a dark dot inside."
+  },
+  {
+    "name": "fish-gills",
+    "category": "sea-life",
+    "draw": "Close up side view of a fish head with a curved gill cover and several arched gill slits behind it."
+  },
+  {
+    "name": "salmon-run",
+    "category": "sea-life",
+    "draw": "Several salmon leaping upstream over a small stepped waterfall."
+  },
+  {
+    "name": "bait-ball",
+    "category": "sea-life",
+    "draw": "A tight round sphere made of many tiny fish swirling together."
+  },
+  {
+    "name": "clownfish-anemone",
+    "category": "sea-life",
+    "draw": "A small banded clownfish nestled among the wavy tentacles of a sea anemone."
+  },
+  {
+    "name": "neon-tetra",
+    "category": "sea-life",
+    "draw": "Side view of a tiny slim fish with a single bold horizontal stripe running from eye to tail."
+  },
+  {
+    "name": "arowana",
+    "category": "sea-life",
+    "draw": "Side view of a long flat silver fish with large scales, an upturned mouth and two chin barbels."
+  },
+  {
+    "name": "hagfish",
+    "category": "sea-life",
+    "draw": "Side view of an eel like fish with a blunt head fringed with short barbels and slime drips below it."
+  },
+  {
+    "name": "wobbegong",
+    "category": "sea-life",
+    "draw": "Top view of a flat carpet shark with a patterned back and a fringe of leafy tassels around its mouth."
+  },
+  {
+    "name": "frilled-shark",
+    "category": "sea-life",
+    "draw": "Side view of an eel shaped shark with frilly ruffled gill slits behind its head."
+  },
+  {
+    "name": "marine-flatworm",
+    "category": "sea-life",
+    "draw": "Top view of a thin flat oval worm with ruffled wavy edges and two small ear like flaps at the front."
+  },
+  {
+    "name": "salp-chain",
+    "category": "sea-life",
+    "draw": "A chain of linked transparent barrel shaped bodies each with a small dark spot."
+  },
+  {
+    "name": "cuttlebone",
+    "category": "sea-life",
+    "draw": "An oval flat chalky bone with a thick rim and fine curved growth lines across it."
+  },
+  {
+    "name": "aquarium-castle",
+    "category": "sea-life",
+    "draw": "A small ornamental castle with turrets and an arched doorway sitting on gravel with bubbles rising."
+  },
+  {
+    "name": "koi-pond",
+    "category": "sea-life",
+    "draw": "Top view of a curved garden pond edged with stones and two koi swimming in a circle."
+  },
+  {
+    "name": "aquarium-tunnel",
+    "category": "sea-life",
+    "draw": "An arched glass tunnel seen from the front with fish and a ray swimming overhead."
+  },
+  {
+    "name": "beached-whale",
+    "category": "sea-life",
+    "draw": "Side view of a whale lying stranded on a sand line with the waves out of reach behind it."
+  },
+  {
+    "name": "blue-carbon",
+    "category": "sea-life",
+    "draw": "A clump of sea grass on the seabed with a CO2 bubble and a downward arrow into its roots."
+  },
+  {
+    "name": "ocean-dead-zone",
+    "category": "sea-life",
+    "draw": "A water column with no life above and two fish skeletons lying on the seabed."
+  },
+  {
+    "name": "whale-and-calf",
+    "category": "sea-life",
+    "draw": "Side view of a large whale swimming with a small calf close beside and slightly above it."
+  },
+  {
+    "name": "jellyfish-bloom",
+    "category": "sea-life",
+    "draw": "A crowd of several small jellyfish drifting together at different heights."
+  },
+  {
+    "name": "crab-molt",
+    "category": "sea-life",
+    "draw": "A soft crab backing out of its empty old shell, which stays behind with an open split at its rear."
+  },
+  {
+    "name": "baleen-plates",
+    "category": "sea-life",
+    "draw": "Side view of a whale head with its mouth open showing a comb like row of baleen plates."
+  },
+  {
+    "name": "nautilus-shell-section",
+    "category": "sea-life",
+    "draw": "A spiral shell cut in half showing a row of curved chambers growing larger toward the opening."
+  },
+  {
+    "name": "giant-clam",
+    "category": "sea-life",
+    "draw": "A big clam lying open with deep wavy zigzag shell lips and a soft mantle showing between them."
+  },
+  {
+    "name": "shark-warning-sign",
+    "category": "sea-life",
+    "draw": "A triangular beach warning sign on a post showing a shark fin above a wave."
+  },
+  {
+    "name": "jellyfish-warning-sign",
+    "category": "sea-life",
+    "draw": "A triangular beach warning sign on a post showing a jellyfish."
+  }
+]

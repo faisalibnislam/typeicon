@@ -1,0 +1,1512 @@
+[
+  {
+    "name": "otoscope",
+    "category": "medical",
+    "draw": "Handheld otoscope from the side: cylindrical grip handle topped by a small head with a cone-shaped ear speculum pointing forward."
+  },
+  {
+    "name": "ophthalmoscope",
+    "category": "medical",
+    "draw": "Handheld ophthalmoscope: slim cylindrical handle topped by a flat round head with a small viewing aperture in the center."
+  },
+  {
+    "name": "reflex-hammer",
+    "category": "medical",
+    "draw": "Tomahawk reflex hammer: thin straight handle with a triangular rubber head set crosswise at the top."
+  },
+  {
+    "name": "tuning-fork",
+    "category": "medical",
+    "draw": "Tuning fork upright: two long parallel prongs joined in a U at the bottom above a short round stem."
+  },
+  {
+    "name": "penlight",
+    "category": "medical",
+    "draw": "Medical penlight like a slim pen with a pocket clip, short light rays coming from its tip."
+  },
+  {
+    "name": "tongue-depressor",
+    "category": "medical",
+    "draw": "Flat wooden tongue depressor: long narrow stick with fully rounded ends, drawn at a slight diagonal."
+  },
+  {
+    "name": "head-mirror",
+    "category": "medical",
+    "draw": "Doctor's head mirror: round concave mirror with a small center hole, attached to a headband loop."
+  },
+  {
+    "name": "pulse-oximeter",
+    "category": "medical",
+    "draw": "Fingertip pulse oximeter clip: rounded clamp with a fingertip inserted and a small screen showing a wave line."
+  },
+  {
+    "name": "lancing-device",
+    "category": "medical",
+    "draw": "Pen-shaped lancing device with a clear cap at the tip and a single blood drop just beyond it."
+  },
+  {
+    "name": "urine-dipstick",
+    "category": "medical",
+    "draw": "Long thin urine test strip with a row of four small square reagent pads along its length."
+  },
+  {
+    "name": "peak-flow-meter",
+    "category": "medical",
+    "draw": "Peak flow meter: horizontal tube with a mouthpiece at one end and a slider marker on a scale along the top."
+  },
+  {
+    "name": "spirometer",
+    "category": "medical",
+    "draw": "Handheld spirometer: small device body with a screen and a cylindrical mouthpiece tube sticking out sideways."
+  },
+  {
+    "name": "incentive-spirometer",
+    "category": "medical",
+    "draw": "Incentive spirometer: clear upright cylinder with a floating piston inside and a flexible hose ending in a mouthpiece."
+  },
+  {
+    "name": "holter-monitor",
+    "category": "medical",
+    "draw": "Small Holter monitor box on a strap with three wires ending in round electrode pads."
+  },
+  {
+    "name": "ecg-electrode",
+    "category": "medical",
+    "draw": "Round ECG electrode pad with a scalloped adhesive edge and a metal snap stud in the middle."
+  },
+  {
+    "name": "defibrillator-pads",
+    "category": "medical",
+    "draw": "Two rectangular defibrillator pads, each with a wire, joined to one plug connector."
+  },
+  {
+    "name": "patient-monitor",
+    "category": "medical",
+    "draw": "Bedside patient monitor: screen on a stand showing a heartbeat line and two small number readouts."
+  },
+  {
+    "name": "ear-thermometer",
+    "category": "medical",
+    "draw": "Ear thermometer: curved handheld body with a small screen and a short conical probe tip."
+  },
+  {
+    "name": "fetal-doppler",
+    "category": "medical",
+    "draw": "Fetal doppler: small handheld unit with screen joined by a coiled cable to a round flat probe."
+  },
+  {
+    "name": "pinard-horn",
+    "category": "medical",
+    "draw": "Pinard horn fetal stethoscope: short wooden trumpet with a wide flared bell and a flat earpiece disc on top."
+  },
+  {
+    "name": "dermatoscope",
+    "category": "medical",
+    "draw": "Dermatoscope: handheld grip topped by a round magnifying lens surrounded by a ring of tiny lights."
+  },
+  {
+    "name": "laryngoscope",
+    "category": "medical",
+    "draw": "Laryngoscope: straight cylindrical handle with a curved blade attached at a right angle at the top."
+  },
+  {
+    "name": "audiometer",
+    "category": "medical",
+    "draw": "Hearing test headphones with a sound wave beside one ear cup and a small hand-held response button on a cord."
+  },
+  {
+    "name": "tympanometer",
+    "category": "medical",
+    "draw": "Handheld tympanometer with a screen and a short probe ending in a round ear tip."
+  },
+  {
+    "name": "stadiometer",
+    "category": "medical",
+    "draw": "Height measuring rod: tall vertical ruler with tick marks and a horizontal headpiece sliding on it, on a small base."
+  },
+  {
+    "name": "hand-dynamometer",
+    "category": "medical",
+    "draw": "Hand grip dynamometer: D-shaped grip handle with a round dial gauge on top."
+  },
+  {
+    "name": "goniometer",
+    "category": "medical",
+    "draw": "Goniometer: round protractor disc with two long straight arms hinged at its center."
+  },
+  {
+    "name": "neuro-pinwheel",
+    "category": "medical",
+    "draw": "Neurological pinwheel: pen-like handle ending in a small spiked wheel."
+  },
+  {
+    "name": "baby-scale",
+    "category": "medical",
+    "draw": "Infant weighing scale: curved cradle tray on top of a low base with a small display."
+  },
+  {
+    "name": "pain-scale",
+    "category": "medical",
+    "draw": "Pain scale strip: row of three faces going from smile to neutral to frown above a ruler bar."
+  },
+  {
+    "name": "growth-chart",
+    "category": "medical",
+    "draw": "Growth chart: grid with several gently rising curves fanning out and one plotted dot."
+  },
+  {
+    "name": "breathalyzer",
+    "category": "medical",
+    "draw": "Breathalyzer: handheld device with a small screen and a straight mouthpiece tube at the top."
+  },
+  {
+    "name": "eeg-cap",
+    "category": "medical",
+    "draw": "Head in profile wearing a snug cap covered with small round electrode dots, wires gathering at the back."
+  },
+  {
+    "name": "capsule-endoscope",
+    "category": "medical",
+    "draw": "Pill camera: long capsule with a clear dome lens at one end showing a small camera eye inside."
+  },
+  {
+    "name": "endoscope",
+    "category": "medical",
+    "draw": "Flexible endoscope: control head with a knob and a long thin tube that curls in a loop to a lit tip."
+  },
+  {
+    "name": "laparoscope",
+    "category": "medical",
+    "draw": "Laparoscope: long straight rigid rod with a small camera head and a light cable at the back end."
+  },
+  {
+    "name": "ishihara-plate",
+    "category": "medical",
+    "draw": "Color vision test plate: circle filled with dots of two sizes, the larger dots forming a number."
+  },
+  {
+    "name": "phoropter",
+    "category": "medical",
+    "draw": "Phoropter: wide mask-like eye test device with two round lens windows and dials around them."
+  },
+  {
+    "name": "slit-lamp",
+    "category": "medical",
+    "draw": "Slit lamp: chin rest frame on a table with a binocular microscope on one side and a tall narrow light tower."
+  },
+  {
+    "name": "tonometer",
+    "category": "medical",
+    "draw": "Eye tonometer: small device on a stand with a round chin rest and a probe aimed at an eye from the side."
+  },
+  {
+    "name": "trial-frame",
+    "category": "medical",
+    "draw": "Optician trial frame: adjustable spectacle frame with round lens holders marked with degree ticks."
+  },
+  {
+    "name": "eye-occluder",
+    "category": "medical",
+    "draw": "Handheld eye occluder: paddle shaped like a spoon with a round flat end on a straight handle."
+  },
+  {
+    "name": "allergy-test",
+    "category": "medical",
+    "draw": "Forearm seen from above with a grid of small dots and one raised red wheal circle."
+  },
+  {
+    "name": "sonogram",
+    "category": "medical",
+    "draw": "Ultrasound printout: rectangle with a fan-shaped scan area showing a small curled baby silhouette."
+  },
+  {
+    "name": "lab-report",
+    "category": "medical",
+    "draw": "Lab report sheet with a small test tube at the top and rows of result lines with one flagged value."
+  },
+  {
+    "name": "mri-scanner",
+    "category": "medical",
+    "draw": "MRI scanner: large square machine with a deep round bore and a flat patient table sliding into it."
+  },
+  {
+    "name": "ct-scanner",
+    "category": "medical",
+    "draw": "CT scanner: thin upright ring gantry with a narrow table passing through the center."
+  },
+  {
+    "name": "x-ray-machine",
+    "category": "medical",
+    "draw": "X-ray machine: tube head on a vertical column arm pointing down at a flat patient table."
+  },
+  {
+    "name": "c-arm",
+    "category": "medical",
+    "draw": "C-arm fluoroscope: big C-shaped arm on a wheeled base, emitter at the bottom tip and detector at the top."
+  },
+  {
+    "name": "mammography-machine",
+    "category": "medical",
+    "draw": "Mammography unit: tall column with a head and two flat horizontal compression paddles."
+  },
+  {
+    "name": "ultrasound-machine",
+    "category": "medical",
+    "draw": "Ultrasound machine: wheeled cart with a screen on top, a keyboard console and a probe hanging on the side."
+  },
+  {
+    "name": "ultrasound-probe",
+    "category": "medical",
+    "draw": "Ultrasound probe from the side: rounded grip with a wide curved scanning face and a cable out the back."
+  },
+  {
+    "name": "dental-x-ray",
+    "category": "medical",
+    "draw": "Dental x-ray unit: wall-mounted jointed arm ending in a long cone tube pointing sideways."
+  },
+  {
+    "name": "x-ray-viewer",
+    "category": "medical",
+    "draw": "Light box x-ray viewer: glowing panel on a wall with a chest x-ray film clipped to it."
+  },
+  {
+    "name": "lead-apron",
+    "category": "medical",
+    "draw": "Lead x-ray apron hanging on a hook, a thick vest shape with a radiation trefoil on the chest."
+  },
+  {
+    "name": "dosimeter-badge",
+    "category": "medical",
+    "draw": "Radiation dosimeter badge: small rectangular clip badge with a trefoil symbol and a window."
+  },
+  {
+    "name": "linear-accelerator",
+    "category": "medical",
+    "draw": "Radiotherapy machine: large rotating gantry head arching over a flat treatment couch."
+  },
+  {
+    "name": "nebulizer",
+    "category": "medical",
+    "draw": "Nebulizer: small compressor box with a tube leading to a face mask with a medicine cup below it."
+  },
+  {
+    "name": "inhaler-spacer",
+    "category": "medical",
+    "draw": "Inhaler spacer: long clear tube chamber with a mouthpiece at one end and an inhaler fitted in the other."
+  },
+  {
+    "name": "oxygen-mask",
+    "category": "medical",
+    "draw": "Clear oxygen face mask covering nose and mouth, elastic strap and a tube hanging down from the bottom."
+  },
+  {
+    "name": "nasal-cannula",
+    "category": "medical",
+    "draw": "Nasal cannula: thin tube loop that goes over both ears and meets in two short prongs at the center."
+  },
+  {
+    "name": "oxygen-concentrator",
+    "category": "medical",
+    "draw": "Home oxygen concentrator: tall rounded box on wheels with a handle, a small flow knob and tubing."
+  },
+  {
+    "name": "oxygen-flowmeter",
+    "category": "medical",
+    "draw": "Wall oxygen flowmeter: clear vertical tube with a floating ball inside, a knob on top and a nozzle below."
+  },
+  {
+    "name": "suction-unit",
+    "category": "medical",
+    "draw": "Medical suction unit: wall canister jar with a gauge above it and a tube hanging down."
+  },
+  {
+    "name": "bag-valve-mask",
+    "category": "medical",
+    "draw": "Manual resuscitator: squeezable oval bag joined through a valve to a round face mask."
+  },
+  {
+    "name": "pocket-mask",
+    "category": "medical",
+    "draw": "CPR pocket mask: triangular rounded mask with a one-way valve mouthpiece on top."
+  },
+  {
+    "name": "oropharyngeal-airway",
+    "category": "medical",
+    "draw": "Oral airway: curved J-shaped plastic tube with a flat flange at the straight end."
+  },
+  {
+    "name": "endotracheal-tube",
+    "category": "medical",
+    "draw": "Breathing tube: long gently curved tube with a small inflated cuff near the tip and a connector at the top."
+  },
+  {
+    "name": "tracheostomy-tube",
+    "category": "medical",
+    "draw": "Tracheostomy tube: short curved tube attached to a flat winged neck plate."
+  },
+  {
+    "name": "insulin-pen",
+    "category": "medical",
+    "draw": "Insulin pen: thick pen with a clear cartridge window, a dial knob at the back end and a short needle at the tip."
+  },
+  {
+    "name": "insulin-pump",
+    "category": "medical",
+    "draw": "Insulin pump: small pager-like device with a screen and buttons, tubing coiling out of the top."
+  },
+  {
+    "name": "cgm-sensor",
+    "category": "medical",
+    "draw": "Continuous glucose sensor: round disc patch on the back of an upper arm with a small wireless signal."
+  },
+  {
+    "name": "auto-injector",
+    "category": "medical",
+    "draw": "Emergency auto-injector: chunky cylindrical pen with a safety cap at the back and a rounded tip."
+  },
+  {
+    "name": "pacemaker",
+    "category": "medical",
+    "draw": "Pacemaker: rounded flat metal case with two thin lead wires curving out of the top."
+  },
+  {
+    "name": "stent",
+    "category": "medical",
+    "draw": "Coronary stent: short mesh tube drawn with a diamond lattice pattern."
+  },
+  {
+    "name": "cochlear-implant",
+    "category": "medical",
+    "draw": "Cochlear implant: ear seen from the side with a round coil magnet above it joined by a wire to the ear piece."
+  },
+  {
+    "name": "hip-implant",
+    "category": "medical",
+    "draw": "Hip replacement implant: angled metal stem with a ball head sitting in a round cup."
+  },
+  {
+    "name": "knee-implant",
+    "category": "medical",
+    "draw": "Knee replacement: two metal joint pieces, a curved upper part resting on a flat tray with a stem."
+  },
+  {
+    "name": "bone-plate",
+    "category": "medical",
+    "draw": "Orthopedic bone plate: long flat metal strip with a row of screw holes along its center."
+  },
+  {
+    "name": "bone-screw",
+    "category": "medical",
+    "draw": "Orthopedic bone screw: long screw with a wide flat head and deep coarse threads."
+  },
+  {
+    "name": "external-fixator",
+    "category": "medical",
+    "draw": "External fixator: lower leg outline with two metal rings around it joined by rods and pins."
+  },
+  {
+    "name": "iud",
+    "category": "medical",
+    "draw": "Intrauterine device: small T shape with a short string hanging from the base."
+  },
+  {
+    "name": "leg-cast",
+    "category": "medical",
+    "draw": "Leg in a plaster cast from hip to toes, the toes peeking out of the foot end."
+  },
+  {
+    "name": "walking-boot",
+    "category": "medical",
+    "draw": "Orthopedic walking boot: tall rigid boot with side struts and three wide straps."
+  },
+  {
+    "name": "knee-brace",
+    "category": "medical",
+    "draw": "Knee brace: sleeve around a bent knee with side hinges and an open circle over the kneecap."
+  },
+  {
+    "name": "back-brace",
+    "category": "medical",
+    "draw": "Back brace: wide corset-like belt with vertical stays and a front closure strap."
+  },
+  {
+    "name": "wrist-brace",
+    "category": "medical",
+    "draw": "Wrist brace: glove-like support around the wrist and palm with a thumb opening and hook straps."
+  },
+  {
+    "name": "ankle-brace",
+    "category": "medical",
+    "draw": "Ankle brace: lace-up sleeve around the ankle with a figure eight strap."
+  },
+  {
+    "name": "cervical-collar",
+    "category": "medical",
+    "draw": "Neck brace collar: rigid band with a chin rest at the front and a breathing hole."
+  },
+  {
+    "name": "finger-splint",
+    "category": "medical",
+    "draw": "Finger splint: single finger held straight by a small curved metal splint taped at two points."
+  },
+  {
+    "name": "arm-sling",
+    "category": "medical",
+    "draw": "Arm sling: bent forearm cradled in a triangular cloth sling with a strap over the shoulder."
+  },
+  {
+    "name": "traction",
+    "category": "medical",
+    "draw": "Leg in traction: raised leg in a cast hanging from a cord over a pulley with a weight at the end."
+  },
+  {
+    "name": "compression-stocking",
+    "category": "medical",
+    "draw": "Compression stocking: long knee-high stocking with a ribbed band at the top and open toes."
+  },
+  {
+    "name": "prosthetic-leg",
+    "category": "medical",
+    "draw": "Prosthetic leg: socket cup at the top, a slim metal pylon and a foot shape at the bottom."
+  },
+  {
+    "name": "prosthetic-arm",
+    "category": "medical",
+    "draw": "Prosthetic arm: forearm socket with a mechanical hand with jointed segmented fingers."
+  },
+  {
+    "name": "running-blade",
+    "category": "medical",
+    "draw": "Running blade prosthesis: socket at the top curving down into a long J-shaped carbon blade."
+  },
+  {
+    "name": "exoskeleton",
+    "category": "medical",
+    "draw": "Walking exoskeleton: pair of legs with a rigid frame along the outside and round motor joints at hip and knee."
+  },
+  {
+    "name": "quad-cane",
+    "category": "medical",
+    "draw": "Quad cane: straight cane with an offset handle and a small base with four short feet."
+  },
+  {
+    "name": "forearm-crutch",
+    "category": "medical",
+    "draw": "Forearm crutch: straight shaft with a hand grip and an open cuff that wraps the forearm at the top."
+  },
+  {
+    "name": "knee-scooter",
+    "category": "medical",
+    "draw": "Knee scooter: padded knee platform on a low frame with four small wheels and a handlebar."
+  },
+  {
+    "name": "mobility-scooter",
+    "category": "medical",
+    "draw": "Mobility scooter from the side: seat with backrest, long base with small wheels and a front tiller."
+  },
+  {
+    "name": "power-wheelchair",
+    "category": "medical",
+    "draw": "Power wheelchair from the side: padded seat, small front caster, large rear wheels and a joystick on the armrest."
+  },
+  {
+    "name": "sports-wheelchair",
+    "category": "medical",
+    "draw": "Sports wheelchair: low seat with big wheels tilted strongly inward at the top."
+  },
+  {
+    "name": "patient-lift",
+    "category": "medical",
+    "draw": "Patient hoist: wheeled U base with a tall mast and boom holding a hanging sling."
+  },
+  {
+    "name": "transfer-board",
+    "category": "medical",
+    "draw": "Transfer board: long flat board with rounded ends and two hand slots bridging a wheelchair and a bed."
+  },
+  {
+    "name": "parallel-bars",
+    "category": "medical",
+    "draw": "Rehab parallel bars: two long horizontal rails on posts with a figure walking between them."
+  },
+  {
+    "name": "raised-toilet-seat",
+    "category": "medical",
+    "draw": "Raised toilet seat: thick toilet seat riser with two side armrests."
+  },
+  {
+    "name": "commode-chair",
+    "category": "medical",
+    "draw": "Commode chair: chair frame with armrests, an open toilet seat and a bucket underneath."
+  },
+  {
+    "name": "bedpan",
+    "category": "medical",
+    "draw": "Bedpan: flat oval pan with a wide rim and a short handle at one end."
+  },
+  {
+    "name": "urinal-bottle",
+    "category": "medical",
+    "draw": "Urinal bottle: plastic bottle lying on its side with an angled neck opening and a top handle."
+  },
+  {
+    "name": "reacher-grabber",
+    "category": "medical",
+    "draw": "Reacher grabber: long pole with a trigger grip at one end and small jaws at the other."
+  },
+  {
+    "name": "adaptive-spoon",
+    "category": "medical",
+    "draw": "Adaptive spoon: spoon with a very thick padded cylindrical handle and a bent neck."
+  },
+  {
+    "name": "hearing-trumpet",
+    "category": "medical",
+    "draw": "Old ear trumpet: long horn with a wide bell at one end narrowing to a curved earpiece."
+  },
+  {
+    "name": "dental-mirror",
+    "category": "medical",
+    "draw": "Dental mirror: thin straight handle ending in a small round angled mirror."
+  },
+  {
+    "name": "dental-explorer",
+    "category": "medical",
+    "draw": "Dental explorer probe: thin handle ending in a sharp curved hook tip."
+  },
+  {
+    "name": "dental-drill",
+    "category": "medical",
+    "draw": "Dental handpiece drill: slim angled handpiece with a tiny bur at the head and a hose at the back."
+  },
+  {
+    "name": "dental-chair",
+    "category": "medical",
+    "draw": "Dental chair from the side: reclined chair with headrest and an overhead lamp on an arm."
+  },
+  {
+    "name": "dental-forceps",
+    "category": "medical",
+    "draw": "Dental extraction forceps: plier-like tool with curved beaks gripping a tooth with roots."
+  },
+  {
+    "name": "dental-scaler",
+    "category": "medical",
+    "draw": "Dental scaler: thin handle with a small sickle-shaped curved blade at the tip."
+  },
+  {
+    "name": "dental-implant",
+    "category": "medical",
+    "draw": "Dental implant: tooth crown sitting on a threaded screw post in place of a root."
+  },
+  {
+    "name": "clear-aligner",
+    "category": "medical",
+    "draw": "Clear aligner tray: U-shaped transparent tray shaped like a row of teeth seen from above."
+  },
+  {
+    "name": "dental-bridge",
+    "category": "medical",
+    "draw": "Dental bridge: three joined crowns, the middle one floating over a gap between two tooth stumps."
+  },
+  {
+    "name": "broken-tooth",
+    "category": "medical",
+    "draw": "Tooth with a jagged crack line and a corner chipped off."
+  },
+  {
+    "name": "dental-impression-tray",
+    "category": "medical",
+    "draw": "Dental impression tray: U-shaped tray seen from above with a straight handle at the front."
+  },
+  {
+    "name": "saliva-ejector",
+    "category": "medical",
+    "draw": "Saliva ejector: bendable thin tube with a hooked end and a small round tip."
+  },
+  {
+    "name": "surgical-scissors",
+    "category": "medical",
+    "draw": "Surgical scissors: fine straight blades with two round finger rings."
+  },
+  {
+    "name": "hemostat",
+    "category": "medical",
+    "draw": "Hemostat clamp: scissor-like tool with serrated narrow jaws and a ratchet lock between the finger rings."
+  },
+  {
+    "name": "tissue-forceps",
+    "category": "medical",
+    "draw": "Tissue forceps: tweezers-style tool with two long arms joined at the back and small teeth at the tips."
+  },
+  {
+    "name": "needle-holder",
+    "category": "medical",
+    "draw": "Needle holder: ring handled clamp with short jaws gripping a curved suture needle."
+  },
+  {
+    "name": "surgical-retractor",
+    "category": "medical",
+    "draw": "Surgical retractor: flat handle ending in a wide right-angled blade."
+  },
+  {
+    "name": "suture-needle",
+    "category": "medical",
+    "draw": "Curved suture needle shaped like a half moon with a thread trailing from its back end."
+  },
+  {
+    "name": "stitches",
+    "category": "medical",
+    "draw": "Row of cross stitches closing a straight cut line."
+  },
+  {
+    "name": "wound-closure-strips",
+    "category": "medical",
+    "draw": "Straight cut crossed by a row of short parallel adhesive strips."
+  },
+  {
+    "name": "surgical-stapler",
+    "category": "medical",
+    "draw": "Linear surgical stapler: long slender jaws on a pistol grip handle with a trigger."
+  },
+  {
+    "name": "bone-saw",
+    "category": "medical",
+    "draw": "Oscillating bone saw: pistol-shaped power tool with a short flat saw blade at the front."
+  },
+  {
+    "name": "surgical-drill",
+    "category": "medical",
+    "draw": "Surgical bone drill: compact pistol grip power drill with a long thin drill bit."
+  },
+  {
+    "name": "surgical-mallet",
+    "category": "medical",
+    "draw": "Surgical mallet: short handle with a solid cylindrical metal head."
+  },
+  {
+    "name": "osteotome",
+    "category": "medical",
+    "draw": "Osteotome: long slim chisel with a flat bevelled blade and a round handle cap."
+  },
+  {
+    "name": "rongeur",
+    "category": "medical",
+    "draw": "Rongeur: plier-like tool with spring handles and a small cupped biting jaw at the tip."
+  },
+  {
+    "name": "curette",
+    "category": "medical",
+    "draw": "Curette: slender handle with a small spoon shaped loop at one end."
+  },
+  {
+    "name": "speculum",
+    "category": "medical",
+    "draw": "Speculum: duckbill shaped instrument with two blades open at the front and a handle below."
+  },
+  {
+    "name": "trocar",
+    "category": "medical",
+    "draw": "Trocar: sharp-tipped rod passing through a short tube port with a valve cap on top."
+  },
+  {
+    "name": "cautery-pen",
+    "category": "medical",
+    "draw": "Electrosurgical pencil: slim pen with two small buttons, a flat blade tip and a cord out the back."
+  },
+  {
+    "name": "surgical-robot",
+    "category": "medical",
+    "draw": "Surgical robot: central tower with three jointed robotic arms reaching down to a point."
+  },
+  {
+    "name": "operating-table",
+    "category": "medical",
+    "draw": "Operating table: flat padded table top on a single central column with a wide base."
+  },
+  {
+    "name": "surgical-light",
+    "category": "medical",
+    "draw": "Surgical light: large round lamp head with several light cells hanging from a jointed ceiling arm."
+  },
+  {
+    "name": "anesthesia-machine",
+    "category": "medical",
+    "draw": "Anesthesia machine: tall cart with a screen, gas flow tubes, a breathing bag and a hose."
+  },
+  {
+    "name": "instrument-tray",
+    "category": "medical",
+    "draw": "Surgical instrument tray: flat rectangular tray holding scissors, a scalpel and forceps side by side."
+  },
+  {
+    "name": "kidney-dish",
+    "category": "medical",
+    "draw": "Kidney dish: shallow bean-shaped basin seen at an angle."
+  },
+  {
+    "name": "surgical-drain",
+    "category": "medical",
+    "draw": "Wound drainage bulb: squeezable grenade-shaped bulb with a thin tube coming out the top."
+  },
+  {
+    "name": "catheter",
+    "category": "medical",
+    "draw": "Urinary catheter: long thin tube coiled in a loop with a small balloon at the tip and a Y connector at the end."
+  },
+  {
+    "name": "urine-bag",
+    "category": "medical",
+    "draw": "Urine drainage bag: flat bag with volume marks, a tube at the top and a tap valve at the bottom."
+  },
+  {
+    "name": "ostomy-bag",
+    "category": "medical",
+    "draw": "Ostomy pouch: rounded bag with a circular flange ring near the top."
+  },
+  {
+    "name": "feeding-tube",
+    "category": "medical",
+    "draw": "Nasogastric feeding tube: thin tube with a funnel connector at one end and a rounded tip at the other, loosely curved."
+  },
+  {
+    "name": "iv-cannula",
+    "category": "medical",
+    "draw": "IV cannula: short needle with a wing clip and a colored port cap on top."
+  },
+  {
+    "name": "butterfly-needle",
+    "category": "medical",
+    "draw": "Butterfly needle: short needle with two flat plastic wings and a thin tube trailing behind."
+  },
+  {
+    "name": "biopsy-needle",
+    "category": "medical",
+    "draw": "Biopsy needle: long thin needle with a pistol-like spring handle."
+  },
+  {
+    "name": "tourniquet",
+    "category": "medical",
+    "draw": "Emergency tourniquet: strap loop with a windlass rod and a small clip."
+  },
+  {
+    "name": "surgical-cap",
+    "category": "medical",
+    "draw": "Surgical cap: rounded cloth cap with ties at the back."
+  },
+  {
+    "name": "surgical-gown",
+    "category": "medical",
+    "draw": "Surgical gown: long sleeved gown with knitted cuffs and a tie at the waist."
+  },
+  {
+    "name": "hospital-gown",
+    "category": "medical",
+    "draw": "Patient gown: short sleeved loose gown with a small dot pattern and ties at the back."
+  },
+  {
+    "name": "medical-gloves",
+    "category": "medical",
+    "draw": "Pair of medical exam gloves with long rolled cuffs, one lying over the other."
+  },
+  {
+    "name": "glove-box",
+    "category": "medical",
+    "draw": "Box of disposable gloves with an oval opening at the top and a glove poking out."
+  },
+  {
+    "name": "n95-respirator",
+    "category": "medical",
+    "draw": "Cup shaped respirator mask with a nose clip at the top and two head straps."
+  },
+  {
+    "name": "shoe-covers",
+    "category": "medical",
+    "draw": "Pair of disposable shoe covers: puffy booties with elastic openings."
+  },
+  {
+    "name": "surgical-loupes",
+    "category": "medical",
+    "draw": "Surgical loupes: glasses with two small telescope tubes fixed in the lenses."
+  },
+  {
+    "name": "gurney",
+    "category": "medical",
+    "draw": "Gurney: flat padded stretcher on a wheeled frame with a raised backrest."
+  },
+  {
+    "name": "stretcher",
+    "category": "medical",
+    "draw": "Carry stretcher: canvas bed between two long poles with handles at each end."
+  },
+  {
+    "name": "spine-board",
+    "category": "medical",
+    "draw": "Spine board: long flat board with hand holes along the edges and cross straps."
+  },
+  {
+    "name": "stokes-basket",
+    "category": "medical",
+    "draw": "Rescue basket stretcher: shallow body-shaped basket with a wire rim."
+  },
+  {
+    "name": "evacuation-chair",
+    "category": "medical",
+    "draw": "Stair evacuation chair: folding chair on tracks with a long handle for tipping down stairs."
+  },
+  {
+    "name": "exam-table",
+    "category": "medical",
+    "draw": "Medical exam table: padded table with a raised head section, a paper roll and a step below."
+  },
+  {
+    "name": "overbed-table",
+    "category": "medical",
+    "draw": "Overbed table: narrow tabletop on a single post over a C-shaped wheeled base."
+  },
+  {
+    "name": "privacy-curtain",
+    "category": "medical",
+    "draw": "Hospital privacy curtain: ceiling track with a curtain hanging in folds on small hooks."
+  },
+  {
+    "name": "nurse-call-button",
+    "category": "medical",
+    "draw": "Nurse call handset: pendant remote on a cord with a big round button with a cross."
+  },
+  {
+    "name": "iv-pole",
+    "category": "medical",
+    "draw": "IV pole: tall thin stand with a hook at the top and a star-shaped wheeled base."
+  },
+  {
+    "name": "infusion-pump",
+    "category": "medical",
+    "draw": "Infusion pump: boxy unit clamped to a pole, with a small screen, keypad and a tube running through it."
+  },
+  {
+    "name": "syringe-pump",
+    "category": "medical",
+    "draw": "Syringe pump: flat horizontal device holding a syringe with a pusher block behind the plunger."
+  },
+  {
+    "name": "dialysis-machine",
+    "category": "medical",
+    "draw": "Dialysis machine: tall cart with a screen at the top, a round pump and a filter cylinder on the side."
+  },
+  {
+    "name": "baby-incubator",
+    "category": "medical",
+    "draw": "Infant incubator: clear rectangular hood with round arm ports on a stand."
+  },
+  {
+    "name": "hospital-bassinet",
+    "category": "medical",
+    "draw": "Hospital bassinet: clear tub cot on a small wheeled cart."
+  },
+  {
+    "name": "crash-cart",
+    "category": "medical",
+    "draw": "Crash cart: wheeled cart with stacked drawers and a defibrillator sitting on top."
+  },
+  {
+    "name": "medical-waste-bin",
+    "category": "medical",
+    "draw": "Clinical waste bin: pedal bin with a lid and a biohazard symbol on the front."
+  },
+  {
+    "name": "sharps-container",
+    "category": "medical",
+    "draw": "Sharps container: box with a narrow slot in the lid and a syringe going into it."
+  },
+  {
+    "name": "biohazard-bag",
+    "category": "medical",
+    "draw": "Biohazard waste bag: tied bag with a biohazard symbol on the side."
+  },
+  {
+    "name": "autoclave",
+    "category": "medical",
+    "draw": "Autoclave: box sterilizer with a round door on the front, a pressure gauge and control panel."
+  },
+  {
+    "name": "hospital-pager",
+    "category": "medical",
+    "draw": "Pager: small rectangular device with a narrow screen, a belt clip and one button."
+  },
+  {
+    "name": "patient-wristband",
+    "category": "medical",
+    "draw": "Hospital wristband: plastic band with a label strip and a barcode, closed in a loop."
+  },
+  {
+    "name": "paramedic-bag",
+    "category": "medical",
+    "draw": "Paramedic backpack: large pack with side pockets and a cross on the front flap."
+  },
+  {
+    "name": "hyperbaric-chamber",
+    "category": "medical",
+    "draw": "Hyperbaric chamber: long clear tube chamber lying horizontally with a hatch and a patient inside."
+  },
+  {
+    "name": "iron-lung",
+    "category": "medical",
+    "draw": "Iron lung: large horizontal cylinder with portholes and a patient head sticking out one end."
+  },
+  {
+    "name": "medical-drone",
+    "category": "medical",
+    "draw": "Delivery drone with four rotors carrying a box marked with a cross."
+  },
+  {
+    "name": "medical-tent",
+    "category": "medical",
+    "draw": "Field hospital tent: gabled tent with a cross on the door flap."
+  },
+  {
+    "name": "organ-transport-box",
+    "category": "medical",
+    "draw": "Organ transport cooler: carry box with a handle and a heart symbol on the side."
+  },
+  {
+    "name": "medical-alert-bracelet",
+    "category": "medical",
+    "draw": "Medical alert bracelet: chain band with an oval tag showing a small snake staff symbol."
+  },
+  {
+    "name": "fall-alert-pendant",
+    "category": "medical",
+    "draw": "Personal alarm pendant: round button pendant on a neck cord with signal waves."
+  },
+  {
+    "name": "triage-tag",
+    "category": "medical",
+    "draw": "Triage tag: paper tag with a string loop and colored tear-off strips at the bottom."
+  },
+  {
+    "name": "emergency-blanket",
+    "category": "medical",
+    "draw": "Foil emergency blanket: crinkled sheet wrapped around shoulders, with shine lines."
+  },
+  {
+    "name": "trauma-shears",
+    "category": "medical",
+    "draw": "Trauma shears: angled blades bent at the pivot with a blunt tip and large plastic handles."
+  },
+  {
+    "name": "ice-pack",
+    "category": "medical",
+    "draw": "Gel ice pack: rounded rectangle pack with a snowflake on it."
+  },
+  {
+    "name": "heating-pad",
+    "category": "medical",
+    "draw": "Heating pad: quilted pad with a cord running to a small hand controller."
+  },
+  {
+    "name": "cpr-manikin",
+    "category": "medical",
+    "draw": "CPR training manikin: torso with head tilted back and hands pressing on the chest."
+  },
+  {
+    "name": "ivf",
+    "category": "medical",
+    "draw": "IVF: fine glass pipette approaching a round egg cell held by a blunt pipette on the other side."
+  },
+  {
+    "name": "petri-dish",
+    "category": "medical",
+    "draw": "Petri dish seen at an angle: shallow round dish with a few colony dots inside."
+  },
+  {
+    "name": "micropipette",
+    "category": "medical",
+    "draw": "Micropipette: thick handheld pipette with a plunger button on top and a disposable cone tip."
+  },
+  {
+    "name": "centrifuge",
+    "category": "medical",
+    "draw": "Benchtop centrifuge: round lid box seen from above, with sample tubes arranged in a circle inside."
+  },
+  {
+    "name": "test-tube-rack",
+    "category": "medical",
+    "draw": "Test tube rack: row of test tubes standing upright in a rack with holes."
+  },
+  {
+    "name": "microplate",
+    "category": "medical",
+    "draw": "Well plate: rectangular tray with a grid of small round wells."
+  },
+  {
+    "name": "microscope-slide",
+    "category": "medical",
+    "draw": "Microscope slide: long thin glass rectangle with a small square cover slip in the middle."
+  },
+  {
+    "name": "specimen-cup",
+    "category": "medical",
+    "draw": "Specimen cup: short cylindrical cup with a screw lid and a label."
+  },
+  {
+    "name": "blood-collection-tube",
+    "category": "medical",
+    "draw": "Blood collection tube: test tube with a thick rubber stopper, a label and blood filled halfway."
+  },
+  {
+    "name": "swab-test",
+    "category": "medical",
+    "draw": "Long swab stick with a cotton tip beside an open collection tube."
+  },
+  {
+    "name": "rapid-test",
+    "category": "medical",
+    "draw": "Rapid test cassette: flat rectangle with a small round sample well and a window showing two lines."
+  },
+  {
+    "name": "pregnancy-test",
+    "category": "medical",
+    "draw": "Pregnancy test stick: long plastic stick with a cap at one end and a window with two lines."
+  },
+  {
+    "name": "inoculation-loop",
+    "category": "medical",
+    "draw": "Inoculation loop: thin handle ending in a wire with a small circle loop."
+  },
+  {
+    "name": "liquid-nitrogen-dewar",
+    "category": "medical",
+    "draw": "Cryogenic dewar: squat round tank with a narrow neck and vapor wisps rising out."
+  },
+  {
+    "name": "biosafety-cabinet",
+    "category": "medical",
+    "draw": "Biosafety cabinet: boxy workstation with a sloped glass front sash and an open work area below."
+  },
+  {
+    "name": "pcr-machine",
+    "category": "medical",
+    "draw": "PCR thermal cycler: low box with a hinged lid and a grid of sample tubes in the block."
+  },
+  {
+    "name": "gel-electrophoresis",
+    "category": "medical",
+    "draw": "Electrophoresis gel: rectangle with several vertical lanes of short horizontal bands."
+  },
+  {
+    "name": "vortex-mixer",
+    "category": "medical",
+    "draw": "Vortex mixer: small round base with a cup on top holding a tube with a swirl line."
+  },
+  {
+    "name": "lab-incubator",
+    "category": "medical",
+    "draw": "Lab incubator: cabinet with a glass door showing shelves with petri dishes and a temperature display."
+  },
+  {
+    "name": "wash-bottle",
+    "category": "medical",
+    "draw": "Lab wash bottle: squeezable bottle with a long bent spout tube coming from the cap."
+  },
+  {
+    "name": "ampoule",
+    "category": "medical",
+    "draw": "Glass ampoule: small bottle with a narrow waist neck and a pointed sealed tip."
+  },
+  {
+    "name": "vaccination-card",
+    "category": "medical",
+    "draw": "Vaccination record card with a syringe symbol and rows of check boxes."
+  },
+  {
+    "name": "vaccine-cooler",
+    "category": "medical",
+    "draw": "Vaccine carrier: insulated box with a lid and a handle marked with a snowflake."
+  },
+  {
+    "name": "microneedle-patch",
+    "category": "medical",
+    "draw": "Microneedle patch: square patch seen from the side with a row of tiny cone spikes underneath."
+  },
+  {
+    "name": "softgel",
+    "category": "medical",
+    "draw": "Softgel capsule: glossy oval gel capsule with a shine highlight."
+  },
+  {
+    "name": "lozenge",
+    "category": "medical",
+    "draw": "Throat lozenge: diamond shaped sweet in a twisted wrapper."
+  },
+  {
+    "name": "syrup-bottle",
+    "category": "medical",
+    "draw": "Cough syrup bottle: brown bottle with a label and a measuring cup upside down on the cap."
+  },
+  {
+    "name": "medicine-cup",
+    "category": "medical",
+    "draw": "Dosing cup: small plastic cup with measuring lines up its side."
+  },
+  {
+    "name": "oral-syringe",
+    "category": "medical",
+    "draw": "Oral dosing syringe: needle-free syringe with a short round nozzle and measurement marks."
+  },
+  {
+    "name": "dosing-spoon",
+    "category": "medical",
+    "draw": "Medicine spoon: tubular spoon with a measured handle and a scooped end."
+  },
+  {
+    "name": "nasal-spray",
+    "category": "medical",
+    "draw": "Nasal spray: small bottle with a short tapered nozzle and a spray mist from the tip."
+  },
+  {
+    "name": "throat-spray",
+    "category": "medical",
+    "draw": "Throat spray: bottle with a long curved spray arm and a mist cloud at the end."
+  },
+  {
+    "name": "suppository",
+    "category": "medical",
+    "draw": "Suppository: smooth bullet shape with a rounded tip, lying on its side."
+  },
+  {
+    "name": "transdermal-patch",
+    "category": "medical",
+    "draw": "Skin patch: square adhesive patch on an upper arm with a small peeled corner."
+  },
+  {
+    "name": "powder-sachet",
+    "category": "medical",
+    "draw": "Medicine sachet: small rectangular packet with a torn corner and powder spilling out."
+  },
+  {
+    "name": "blister-pack",
+    "category": "medical",
+    "draw": "Pill blister pack: rectangular foil card with two rows of round bubbles, one pressed empty."
+  },
+  {
+    "name": "contraceptive-pill-pack",
+    "category": "medical",
+    "draw": "Birth control pill pack: round dial case with pills arranged in a ring."
+  },
+  {
+    "name": "pill-organizer",
+    "category": "medical",
+    "draw": "Weekly pill organizer: long box with seven small compartments with flip lids, one open."
+  },
+  {
+    "name": "pill-cutter",
+    "category": "medical",
+    "draw": "Pill splitter: small hinged box with a blade in the lid and a tablet inside."
+  },
+  {
+    "name": "medicine-box",
+    "category": "medical",
+    "draw": "Medicine carton: small cardboard box with a cross and a blister pack partly pulled out."
+  },
+  {
+    "name": "medicine-bag",
+    "category": "medical",
+    "draw": "Pharmacy bag: folded paper bag with a cross on the front."
+  },
+  {
+    "name": "pill-counting-tray",
+    "category": "medical",
+    "draw": "Pill counting tray: tray with a channel along one side, pills on it and a spatula."
+  },
+  {
+    "name": "apothecary-jar",
+    "category": "medical",
+    "draw": "Apothecary jar: waisted ceramic jar with a lid and a blank banner label."
+  },
+  {
+    "name": "enema-bulb",
+    "category": "medical",
+    "draw": "Rubber bulb syringe: round squeezable bulb with a long tapered nozzle."
+  },
+  {
+    "name": "nasal-aspirator",
+    "category": "medical",
+    "draw": "Baby nasal aspirator: small rubber bulb with a short soft tip."
+  },
+  {
+    "name": "breast-pump",
+    "category": "medical",
+    "draw": "Breast pump: funnel shaped flange joined to a small bottle with a hand lever."
+  },
+  {
+    "name": "umbilical-clamp",
+    "category": "medical",
+    "draw": "Umbilical cord clamp: small plastic clamp with two jaws and a locking tooth at the end."
+  },
+  {
+    "name": "bowl-of-hygieia",
+    "category": "medical",
+    "draw": "Bowl of Hygieia: stemmed cup with one snake winding around the stem and leaning over the rim."
+  },
+  {
+    "name": "plague-doctor-mask",
+    "category": "medical",
+    "draw": "Plague doctor mask in profile: long curved beak with round goggle eyes and a hat above."
+  },
+  {
+    "name": "cotton-ball",
+    "category": "medical",
+    "draw": "Fluffy cotton ball with a soft bumpy outline."
+  },
+  {
+    "name": "alcohol-swab",
+    "category": "medical",
+    "draw": "Alcohol prep pad: small square sachet with a torn open corner and a wet pad peeking out."
+  },
+  {
+    "name": "medical-tape",
+    "category": "medical",
+    "draw": "Roll of medical tape with a torn strip pulled out."
+  },
+  {
+    "name": "gauze-pad",
+    "category": "medical",
+    "draw": "Folded gauze pad: square pad with a woven grid texture."
+  },
+  {
+    "name": "medical-scale",
+    "category": "medical",
+    "draw": "Doctor's balance beam scale: tall column with a sliding weight beam at the top and a platform at the base."
+  },
+  {
+    "name": "health-insurance-card",
+    "category": "medical",
+    "draw": "Health card: rounded card with a cross in one corner and a few text lines."
+  },
+  {
+    "name": "pill-crusher",
+    "category": "medical",
+    "draw": "Pill crusher: round two-part screw device with a tablet between the halves."
+  },
+  {
+    "name": "medical-ventilator",
+    "category": "medical",
+    "draw": "Medical ventilator: rolling stand with a screen on top and two corrugated breathing hoses looping out."
+  },
+  {
+    "name": "vein-finder",
+    "category": "medical",
+    "draw": "Handheld vein finder held over a forearm, projecting a lit patch that shows branching vein lines."
+  },
+  {
+    "name": "amsler-grid",
+    "category": "medical",
+    "draw": "Amsler grid: square grid of fine lines with a single dot in the center."
+  },
+  {
+    "name": "stool-test",
+    "category": "medical",
+    "draw": "Stool sample tube: small tube with a screw cap that has a tiny scoop attached underneath."
+  },
+  {
+    "name": "fetal-monitor",
+    "category": "medical",
+    "draw": "Fetal monitor: machine with a paper strip printing two wavy lines and two round belt sensors on cables."
+  },
+  {
+    "name": "ecg-machine",
+    "category": "medical",
+    "draw": "ECG machine: wheeled cart unit with a screen, a paper roll printing a heartbeat line and a bundle of lead wires."
+  },
+  {
+    "name": "sponge-forceps",
+    "category": "medical",
+    "draw": "Sponge forceps: long ring handled forceps with oval ring shaped jaws at the tips."
+  },
+  {
+    "name": "suction-tip",
+    "category": "medical",
+    "draw": "Yankauer suction tip: rigid curved tube with a bulb shaped tip and a hose connector at the back."
+  },
+  {
+    "name": "operating-microscope",
+    "category": "medical",
+    "draw": "Operating microscope: large floor stand with a long boom arm holding a binocular microscope head downward."
+  },
+  {
+    "name": "cold-spray",
+    "category": "medical",
+    "draw": "Cold spray can: aerosol can with a snowflake label spraying a mist cloud onto a knee."
+  },
+  {
+    "name": "patient-trapeze",
+    "category": "medical",
+    "draw": "Patient trapeze: hospital bed with an overhead frame and a triangular handle hanging from a strap."
+  },
+  {
+    "name": "medical-fridge",
+    "category": "medical",
+    "draw": "Medical refrigerator: tall fridge with a glass door showing vials on shelves and a cross on top."
+  },
+  {
+    "name": "beach-wheelchair",
+    "category": "medical",
+    "draw": "Beach wheelchair: seat on a frame with three fat balloon wheels."
+  },
+  {
+    "name": "wheelchair-lift",
+    "category": "medical",
+    "draw": "Wheelchair platform lift: flat platform with side rails and a wheelchair on it, raised on a lift column."
+  },
+  {
+    "name": "halo-brace",
+    "category": "medical",
+    "draw": "Halo brace: head in profile inside a ring fixed by pins, with four rods running down to a vest."
+  },
+  {
+    "name": "ankle-foot-orthosis",
+    "category": "medical",
+    "draw": "Ankle foot orthosis: L-shaped plastic splint running up the back of the calf and under the foot with a strap."
+  },
+  {
+    "name": "cell-culture-flask",
+    "category": "medical",
+    "draw": "Cell culture flask: flat rectangular flask with an angled neck and a vented cap, lying on its side."
+  },
+  {
+    "name": "multichannel-pipette",
+    "category": "medical",
+    "draw": "Multichannel pipette: handheld pipette whose base widens into a bar with eight tips in a row."
+  },
+  {
+    "name": "laser-eye-surgery",
+    "category": "medical",
+    "draw": "Eye seen from the front with a thin laser beam coming down onto the pupil and a small starburst."
+  },
+  {
+    "name": "nasal-strip",
+    "category": "medical",
+    "draw": "Nose in profile with a flexible adhesive strip across the bridge."
+  },
+  {
+    "name": "pacifier-thermometer",
+    "category": "medical",
+    "draw": "Pacifier thermometer: baby pacifier with a small digital display on the shield."
+  },
+  {
+    "name": "saliva-collection-tube",
+    "category": "medical",
+    "draw": "Saliva test tube: slim tube with a wide funnel on top and a cap hanging on the side."
+  },
+  {
+    "name": "heel-prick-test",
+    "category": "medical",
+    "draw": "Newborn heel prick: small baby foot sole with a single drop of blood at the heel."
+  },
+  {
+    "name": "blood-spot-card",
+    "category": "medical",
+    "draw": "Blood spot card: paper card with a row of printed circles, two of them filled with dots of blood."
+  },
+  {
+    "name": "heart-valve",
+    "category": "medical",
+    "draw": "Mechanical heart valve: round ring with two half disc leaflets hinged open in the middle."
+  },
+  {
+    "name": "intraocular-lens",
+    "category": "medical",
+    "draw": "Intraocular lens: small round lens with two thin curved spring arms sweeping out from opposite sides."
+  },
+  {
+    "name": "spinal-fusion",
+    "category": "medical",
+    "draw": "Spinal fusion: two stacked vertebrae joined by a vertical rod held with two screws."
+  },
+  {
+    "name": "laryngeal-mask-airway",
+    "category": "medical",
+    "draw": "Laryngeal mask airway: tube ending in an oval inflatable cuffed mask."
+  },
+  {
+    "name": "sock-aid",
+    "category": "medical",
+    "draw": "Sock aid: curved plastic trough with a sock stretched over it and two long pull cords."
+  },
+  {
+    "name": "two-handled-cup",
+    "category": "medical",
+    "draw": "Two handled cup: sippy cup with a spouted lid and a handle on each side."
+  },
+  {
+    "name": "biohazard",
+    "category": "medical",
+    "draw": "Biohazard symbol: three interlocking open crescents arranged around a small center ring."
+  },
+  {
+    "name": "wheelchair-ramp",
+    "category": "medical",
+    "draw": "Wheelchair ramp: sloped ramp with a side handrail leading up to a doorway step."
+  },
+  {
+    "name": "pedal-exerciser",
+    "category": "medical",
+    "draw": "Pedal exerciser: small low frame with two pedals on a crank set on the floor."
+  },
+  {
+    "name": "shoulder-pulley",
+    "category": "medical",
+    "draw": "Shoulder pulley: rope running over a pulley on a door top with a handle at each end."
+  },
+  {
+    "name": "rehab-stairs",
+    "category": "medical",
+    "draw": "Rehab training stairs: short set of steps up and down with handrails on both sides."
+  },
+  {
+    "name": "cheek-retractor",
+    "category": "medical",
+    "draw": "Dental cheek retractor: C shaped clear plastic frame holding the lips open around a row of teeth."
+  },
+  {
+    "name": "ambulance-motorcycle",
+    "category": "medical",
+    "draw": "Motorcycle ambulance: motorbike from the side with a box pannier marked with a cross and a light bar."
+  },
+  {
+    "name": "automatic-pill-dispenser",
+    "category": "medical",
+    "draw": "Automatic pill dispenser: round device with a carousel of small cups under a lid and a clock face."
+  },
+  {
+    "name": "exam-stool",
+    "category": "medical",
+    "draw": "Exam stool: round padded seat on a single gas lift post with a five wheeled base."
+  },
+  {
+    "name": "vacuum-extractor",
+    "category": "medical",
+    "draw": "Obstetric vacuum extractor: soft round cup on a short stem with a T handle and a pump hose."
+  },
+  {
+    "name": "ear-syringe",
+    "category": "medical",
+    "draw": "Ear irrigation syringe: large metal syringe with three finger rings and a short blunt nozzle."
+  },
+  {
+    "name": "oxygen-tent",
+    "category": "medical",
+    "draw": "Oxygen tent: clear plastic canopy draped over the head end of a bed on a frame, with a hose attached."
+  },
+  {
+    "name": "emesis-bag",
+    "category": "medical",
+    "draw": "Emesis bag: tall plastic bag with volume marks hanging from a rigid round ring opening."
+  },
+  {
+    "name": "post-op-shoe",
+    "category": "medical",
+    "draw": "Post-op shoe: flat rigid sole open-toe sandal with two wide hook and loop straps."
+  }
+]

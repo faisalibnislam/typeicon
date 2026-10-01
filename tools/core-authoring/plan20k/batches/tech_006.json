@@ -1,0 +1,170 @@
+[
+ {
+  "name": "symlink",
+  "category": "tech",
+  "draw": "Document page with a link chain curling off it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "file-permissions",
+  "category": "tech",
+  "draw": "Document with a small grid of three check marks.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "split-terminal",
+  "category": "tech",
+  "draw": "Terminal window divided into two panes, each with a prompt.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "line-numbers",
+  "category": "tech",
+  "draw": "Column of numbers beside short text lines.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-minimap",
+  "category": "tech",
+  "draw": "Narrow strip of tiny lines with a highlighted viewport box.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "single-sign-on",
+  "category": "tech",
+  "draw": "One key with three lines fanning out to three small app windows.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "mac-address",
+  "category": "tech",
+  "draw": "Network card chip with six pairs of dots separated by colons below it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "bastion-host",
+  "category": "tech",
+  "draw": "Castle tower with a small server box set into its base.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-signing",
+  "category": "tech",
+  "draw": "Angle code brackets above a signature squiggle and a small seal.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "software-bill-of-materials",
+  "category": "tech",
+  "draw": "Clipboard list with a small package cube beside each line.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "code-freeze",
+  "category": "tech",
+  "draw": "Angle code brackets with a snowflake between them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "tokenizer",
+  "category": "tech",
+  "draw": "Line of text split into three separate rounded token blocks.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "model-quantization",
+  "category": "tech",
+  "draw": "Smooth curve overlaid by a stepped staircase line that follows it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "knowledge-distillation",
+  "category": "tech",
+  "draw": "Large brain funnelling down through a funnel into a small brain.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "federated-learning",
+  "category": "tech",
+  "draw": "Three small phones sending lines up to one central brain.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "transfer-learning",
+  "category": "tech",
+  "draw": "Brain on the left with an arrow carrying a small block to a second brain.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "ai-guardrails",
+  "category": "tech",
+  "draw": "Road lane lined by guard rails with a sparkle in the lane.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "diffusion-model",
+  "category": "tech",
+  "draw": "Square of scattered noise dots turning into a clean image frame with an arrow.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "autoencoder",
+  "category": "tech",
+  "draw": "Network of dots shaped like a bow tie, wide at both ends and narrow in the middle.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "generative-adversarial-network",
+  "category": "tech",
+  "draw": "Two robot heads facing each other with opposing arrows between them.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "recurrent-neural-network",
+  "category": "tech",
+  "draw": "Single circle node with a looping arrow leaving and re entering it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "semantic-query",
+  "category": "tech",
+  "draw": "Magnifying glass with a small brain inside its lens.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "robotic-process-automation",
+  "category": "tech",
+  "draw": "Robot arm pressing a cursor arrow onto a window.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "low-code-builder",
+  "category": "tech",
+  "draw": "Three stacked puzzle blocks with a small code bracket on the top block.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "multi-core-processor",
+  "category": "tech",
+  "draw": "Processor chip with its center divided into four square cores.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "geo-replication",
+  "category": "tech",
+  "draw": "Globe with a database cylinder on each side joined by an arc.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "api-versioning",
+  "category": "tech",
+  "draw": "Rounded box with angle brackets and a small version tag hanging from it.",
+  "domain": "dev-cloud-ai"
+ },
+ {
+  "name": "breaking-change",
+  "category": "tech",
+  "draw": "Angle code bracket cracked through the middle with a small jagged line.",
+  "domain": "dev-cloud-ai"
+ }
+]

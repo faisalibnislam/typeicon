@@ -1,0 +1,254 @@
+{
+  "ankle": {
+    "context": "A foot in side view with the ankle joint marked. Used in physiotherapy and sports injury apps, orthopedic clinic pages, symptom checkers and body-part pickers.",
+    "keywords": ["joint", "foot", "heel", "achilles", "achilles tendon", "sprain", "sprained ankle", "twisted ankle", "ankle injury", "talus", "lower leg", "orthopedic", "orthopaedic", "physiotherapy", "physical therapy", "sports injury", "podiatry", "ligament", "body part", "anatomy", "limb", "mobility"]
+  },
+  "baby-feet": {
+    "context": "Two small footprints side by side, the size of a baby's. Common on birth announcements, baby registries, maternity and newborn care pages and parenting apps.",
+    "keywords": ["baby", "newborn", "infant", "footprints", "baby footprints", "tiny feet", "birth", "birth announcement", "new baby", "baby shower", "maternity", "nursery", "parenting", "toddler", "pregnancy", "due date", "neonatal", "kids", "child", "baby registry", "first steps"]
+  },
+  "back-body": {
+    "context": "A torso seen from behind, with the spine and shoulder blades drawn in. Used for back pain in symptom checkers, physiotherapy and posture apps, massage menus and body maps.",
+    "keywords": ["back", "back pain", "backache", "lower back", "upper back", "spine", "spinal", "shoulder blades", "scapula", "posture", "torso", "rear view", "body back", "chiropractic", "chiropractor", "physiotherapy", "physio", "massage", "lumbar", "sciatica", "anatomy", "body map"]
+  },
+  "beard": {
+    "context": "A full beard joined to a moustache, drawn without the rest of the face. Barbershops, grooming and shaving products, avatar builders and style guides use it.",
+    "keywords": ["facial hair", "moustache", "mustache", "stubble", "goatee", "barber", "barbershop", "grooming", "beard trim", "shave", "shaving", "razor", "beard oil", "man", "male", "men's grooming", "whiskers", "hipster", "movember", "avatar", "style"]
+  },
+  "belly-button": {
+    "context": "A torso with the navel marked at its centre. Found in anatomy references, body maps in symptom checkers, piercing studio menus and pregnancy or fitness apps.",
+    "keywords": ["navel", "belly", "tummy", "stomach", "abdomen", "abdominal", "umbilicus", "torso", "midriff", "core", "abs", "piercing", "navel piercing", "body map", "anatomy", "waist", "pregnancy", "fitness"]
+  },
+  "bicep": {
+    "context": "An arm bent at the elbow with the biceps flexed. Used for strength training, gym and workout apps, fitness goals and anything meaning strong or tough.",
+    "keywords": ["biceps", "muscle", "arm", "flex", "flexed arm", "strong", "strength", "gym", "fitness", "workout", "exercise", "weightlifting", "bodybuilding", "power", "training", "strength training", "muscles", "curl", "tough", "healthy", "sport", "athlete"]
+  },
+  "bladder": {
+    "context": "The urinary bladder drawn as an anatomical organ. Used in urology and continence care, urinary health content, medical diagrams and symptom checkers.",
+    "keywords": ["urinary", "urinary bladder", "urology", "urologist", "urine", "pee", "urination", "incontinence", "uti", "urinary tract", "urinary tract infection", "cystitis", "organ", "anatomy", "pelvic", "continence", "bathroom", "toilet", "kidney", "medical"]
+  },
+  "blood-drop": {
+    "context": "A single drop of blood. Used for blood donation drives, blood type and blood test results, bleeding or injury warnings and period or cycle trackers.",
+    "keywords": ["blood", "drop", "droplet", "donate blood", "blood donation", "donor", "blood type", "blood group", "blood test", "bleed", "bleeding", "plasma", "haemoglobin", "hemoglobin", "glucose", "blood sugar", "diabetes", "period", "menstruation", "injury", "transfusion", "hematology", "haematology"]
+  },
+  "bone": {
+    "context": "A single bone. Shows up in orthopedic and fracture content, bone health and calcium information, anatomy apps and dog treat or pet shop menus.",
+    "keywords": ["skeleton", "anatomy", "fracture", "broken bone", "orthopedic", "orthopaedic", "calcium", "bone density", "osteoporosis", "femur", "x-ray", "joint", "dog bone", "dog treat", "pet", "chew", "bones", "skeletal", "radiology"]
+  },
+  "brain": {
+    "context": "A brain seen from the side, with its folds drawn in. Used for thinking, ideas and intelligence, neurology and psychology content, memory training and AI or machine learning tools.",
+    "keywords": ["mind", "think", "thinking", "thought", "intelligence", "smart", "idea", "knowledge", "memory", "learn", "learning", "neurology", "neuroscience", "psychology", "cognitive", "cerebrum", "cerebral", "head", "iq", "genius", "brainstorm", "mental", "ai", "machine learning", "artificial intelligence", "logic", "study"]
+  },
+  "cell": {
+    "context": "A living cell with its nucleus in the middle. Biology lessons, life sciences and lab software, microbiology and stem cell research content all use it.",
+    "keywords": ["biology", "nucleus", "cytoplasm", "membrane", "microbiology", "organism", "life science", "science", "cell biology", "stem cell", "cellular", "amoeba", "microscope", "lab", "research", "education", "anatomy", "tissue", "single cell", "cell division"]
+  },
+  "chest": {
+    "context": "A bare torso showing the chest muscles. Used for chest workouts in fitness apps, body maps and symptom checkers, and upper-body sizing in clothing guides.",
+    "keywords": ["torso", "pecs", "pectoral", "pectorals", "upper body", "thorax", "breast", "chest muscles", "chest workout", "bench press", "gym", "fitness", "bodybuilding", "body map", "chest pain", "anatomy", "trunk", "men's health", "chest size", "measurement"]
+  },
+  "dna": {
+    "context": "Two twisting strands joined by rungs, the DNA double helix. Common in genetics and ancestry tests, biology and biotech content, research labs and topics about identity or origin.",
+    "keywords": ["genetics", "gene", "genes", "genome", "helix", "double helix", "biology", "chromosome", "genetic test", "ancestry", "heredity", "biotech", "biotechnology", "science", "research", "molecule", "sequencing", "deoxyribonucleic acid", "lab", "evolution", "mutation", "identity"]
+  },
+  "ear": {
+    "context": "A human ear in side view. Used for hearing and audiology, listening or audio settings, ear, nose and throat clinics and body-part pickers.",
+    "keywords": ["hear", "hearing", "listen", "listening", "sound", "audio", "audiology", "ent", "ear nose throat", "earlobe", "earring", "piercing", "deaf", "hard of hearing", "body part", "anatomy", "head", "auditory", "ear pain", "earache"]
+  },
+  "ear-hearing": {
+    "context": "An ear with sound waves beside it. Fits hearing tests, audio and volume settings, listening modes and audiology services.",
+    "keywords": ["hearing", "hear", "listen", "listening", "sound", "sound waves", "audio", "volume", "loud", "noise", "hearing test", "audiology", "audiologist", "eavesdrop", "audible", "acoustic", "ear", "listening mode", "podcast", "voice"]
+  },
+  "elbow": {
+    "context": "An arm bent at the elbow with the joint marked. Used for elbow pain and injury in physiotherapy apps, sports medicine, orthopedic pages and body maps.",
+    "keywords": ["joint", "arm", "bend", "bent arm", "tennis elbow", "golfer's elbow", "limb", "forearm", "upper arm", "orthopedic", "orthopaedic", "physiotherapy", "physio", "sports injury", "ulna", "humerus", "body map", "anatomy", "pain", "sprain", "tendon"]
+  },
+  "eye-closed": {
+    "context": "A closed eye with lashes along the lid. Used to hide a password or private content, for sleep and rest modes, blink detection and eye health apps.",
+    "keywords": ["closed eye", "sleep", "sleeping", "blink", "hidden", "hide", "invisible", "hide password", "rest", "relax", "eye", "eyelid", "lashes", "eyelashes", "nap", "private", "visibility off", "meditation", "eyes shut", "dream", "calm"]
+  },
+  "eyeball": {
+    "context": "An eyeball with its pupil turned to one side. Used for vision and eye care, looking or watching, view counts and anatomy content.",
+    "keywords": ["eye", "vision", "sight", "optic", "look", "looking", "watch", "see", "view", "views", "pupil", "iris", "eye care", "ophthalmology", "optometry", "anatomy", "glance", "side eye", "peek", "observe", "spy"]
+  },
+  "eyebrow": {
+    "context": "An eye with a raised eyebrow above it. Brow shaping and beauty salons, makeup tutorials and reactions that show doubt or curiosity use it.",
+    "keywords": ["brow", "brows", "eye", "face", "expression", "raised eyebrow", "skeptical", "sceptical", "doubt", "curious", "beauty", "makeup", "brow shaping", "threading", "microblading", "waxing", "salon", "cosmetics", "frown", "suspicious"]
+  },
+  "eyelashes": {
+    "context": "An open eye fringed with long eyelashes. Used by beauty salons and lash studios, mascara and makeup products, cosmetics shops and eye-care apps.",
+    "keywords": ["lashes", "lash", "false lashes", "lash extensions", "mascara", "eye", "beauty", "makeup", "make-up", "cosmetics", "salon", "eyeliner", "glamour", "feminine", "eye makeup", "lash lift", "curl", "lash studio", "beauty salon"]
+  },
+  "face": {
+    "context": "A human face seen from the front. Used for profile pictures, face recognition and face unlock, skin care, camera portrait modes and people directories.",
+    "keywords": ["person", "human", "portrait", "head", "facial", "facial recognition", "face recognition", "face unlock", "face scan", "skin care", "skincare", "avatar", "profile", "user", "selfie", "portrait mode", "people", "identity", "complexion", "beauty"]
+  },
+  "fingernail": {
+    "context": "A fingertip with its nail. Common in nail salons and manicure booking, nail polish shops, beauty apps and hand care content.",
+    "keywords": ["nail", "nails", "manicure", "finger", "fingertip", "beauty", "polish", "nail polish", "nail art", "nail salon", "gel nails", "acrylic nails", "pedicure", "cuticle", "beauty salon", "cosmetics", "hand care", "varnish", "nail varnish"]
+  },
+  "fist": {
+    "context": "A clenched fist seen from the front. Used for strength and determination, solidarity and protest, fighting or boxing and power-ups in games.",
+    "keywords": ["punch", "power", "strength", "strong", "solidarity", "protest", "resistance", "fight", "fighting", "boxing", "martial arts", "clenched hand", "unity", "rally", "determination", "raised fist", "knuckles", "hit", "activism", "rights", "combat"]
+  },
+  "foot": {
+    "context": "A human foot in side view. Used for podiatry and foot care, walking or step counts, shoe size guides and body maps.",
+    "keywords": ["feet", "heel", "toes", "sole", "arch", "walk", "walking", "steps", "podiatry", "podiatrist", "chiropody", "foot care", "shoe size", "barefoot", "ankle", "foot pain", "orthotics", "body part", "anatomy", "pedicure", "lower body"]
+  },
+  "footprints": {
+    "context": "Two footprints, one a step ahead of the other. Step counts in fitness apps, trails and hiking routes, progress tracking and follow-the-path hints all use it.",
+    "keywords": ["feet", "steps", "step", "walk", "walking", "trail", "track", "tracking", "path", "footsteps", "hike", "hiking", "pedometer", "step counter", "trace", "journey", "follow", "prints", "barefoot", "carbon footprint", "route"]
+  },
+  "hair": {
+    "context": "A head of long hair framing a face. Used by hair salons and barbers, hairstyle pickers in avatar builders, hair care products and wig shops.",
+    "keywords": ["hairstyle", "haircut", "hairdo", "salon", "hair salon", "hairdresser", "barber", "hair care", "shampoo", "wig", "long hair", "blow dry", "styling", "locks", "woman", "beauty", "hair colour", "hair color", "dye", "avatar"]
+  },
+  "hand": {
+    "context": "An open hand with the palm facing forward. Used for stop or halt, raise hand in meetings, waving hello, high fives and pan tools in design apps.",
+    "keywords": ["palm", "stop", "halt", "high five", "wave", "hi", "hello", "fingers", "raise hand", "raised hand", "open palm", "five", "gesture", "touch", "hand tracking", "manual", "pan tool", "pan", "move", "human", "body part"]
+  },
+  "hand-open": {
+    "context": "A hand with the fingers spread wide apart. Fits high fives, the number five, open or release actions, pan and move tools and gesture guides.",
+    "keywords": ["palm", "fingers", "spread", "spread fingers", "open", "open palm", "five", "5", "number five", "high five", "release", "pan", "move tool", "grab", "gesture", "wave", "stop", "hi", "hello", "body part", "hand gesture"]
+  },
+  "head": {
+    "context": "A human head in side profile. Used for people and profile sections, mind and thinking topics, headaches in symptom checkers and silhouette avatars.",
+    "keywords": ["profile", "side profile", "person", "human", "silhouette", "mind", "face", "user", "avatar", "headache", "migraine", "thinking", "psychology", "skull", "anonymous", "portrait", "identity", "brain", "neck", "body part"]
+  },
+  "heart-organ": {
+    "context": "The anatomical heart with its main vessels, drawn as the real organ and not a love heart. Used in cardiology, heart health, anatomy lessons and hospital apps.",
+    "keywords": ["heart", "anatomical heart", "real heart", "cardiac", "cardiology", "cardiologist", "organ", "anatomy", "cardiovascular", "aorta", "ventricle", "artery", "heart health", "heart disease", "heart attack", "surgery", "transplant", "circulation", "medical", "biology", "heartbeat"]
+  },
+  "hip": {
+    "context": "A lower body with one hip marked. Hip pain and hip replacement content, orthopedic and physiotherapy services and body maps in symptom checkers use it.",
+    "keywords": ["joint", "pelvis", "hips", "waist", "hip replacement", "hip pain", "hip joint", "lower body", "thigh", "orthopedic", "orthopaedic", "physiotherapy", "arthritis", "bursitis", "body map", "anatomy", "mobility", "sciatica", "hip bone"]
+  },
+  "intestines": {
+    "context": "The large intestine framing the coiled small intestine. Used in gastroenterology, gut health and digestion content, probiotics and nutrition apps and anatomy lessons.",
+    "keywords": ["bowel", "bowels", "gut", "gut health", "digestion", "digestive system", "colon", "small intestine", "large intestine", "gastroenterology", "gastro", "ibs", "irritable bowel", "probiotics", "stomach ache", "organ", "anatomy", "abdomen", "colonoscopy", "microbiome", "constipation", "diarrhea", "diarrhoea"]
+  },
+  "iris": {
+    "context": "The iris and pupil of an eye seen from the front. Used for iris scan and biometric login, eye exams and vision care, and camera focus settings.",
+    "keywords": ["eye", "pupil", "scan", "iris scan", "retina", "retina scan", "biometric", "biometrics", "eye recognition", "vision", "eye exam", "ophthalmology", "security", "identity", "verification", "eye colour", "eye color", "focus", "lens", "optometry"]
+  },
+  "jaw": {
+    "context": "A head in profile with the jawline marked. Found in dental and orthodontic care, jaw pain and TMJ content, facial surgery and contouring treatments.",
+    "keywords": ["mandible", "jawbone", "chin", "jawline", "tmj", "jaw pain", "dental", "dentist", "orthodontics", "orthodontist", "bite", "teeth grinding", "bruxism", "face", "facial", "contour", "profile", "oral surgery", "lower jaw", "anatomy"]
+  },
+  "kidney": {
+    "context": "A single kidney with its ureter. Used in nephrology and urology, kidney health and dialysis content, organ donation and anatomy lessons.",
+    "keywords": ["renal", "urology", "nephrology", "nephrologist", "organ", "anatomy", "ureter", "dialysis", "kidney stone", "kidney disease", "kidney failure", "organ donation", "transplant", "urinary", "filtration", "bean", "medical", "bladder"]
+  },
+  "kidneys": {
+    "context": "A pair of kidneys, each with its ureter. Used for the urinary system, kidney function tests, dialysis and nephrology services and anatomy diagrams.",
+    "keywords": ["kidney", "renal", "urology", "nephrology", "urinary system", "urinary tract", "ureters", "organ", "organs", "anatomy", "dialysis", "kidney function", "kidney disease", "transplant", "organ donation", "filtration", "medical", "pair", "both kidneys", "bladder"]
+  },
+  "knee": {
+    "context": "A bent leg with the knee marked. Used for knee pain, sports injuries, knee replacement and physiotherapy, and body maps.",
+    "keywords": ["joint", "leg", "kneecap", "patella", "bent leg", "knee pain", "knee injury", "knee replacement", "acl", "meniscus", "arthritis", "sit", "kneel", "orthopedic", "orthopaedic", "physiotherapy", "sports injury", "running", "body map", "anatomy"]
+  },
+  "leg": {
+    "context": "A leg and foot in side view. Lower-body workouts, leg injuries and body maps, walking and mobility, and inseam or length guides for clothing all use it.",
+    "keywords": ["limb", "thigh", "calf", "shin", "lower body", "walk", "walking", "legs", "foot", "leg day", "squat", "workout", "fitness", "running", "knee", "mobility", "inseam", "prosthetic", "amputation", "anatomy", "body part", "stride"]
+  },
+  "lips": {
+    "context": "A pair of closed lips. Used for lipstick and makeup shops, beauty salons, kiss or love reactions and lip care products.",
+    "keywords": ["kiss", "mouth", "lipstick", "lip gloss", "lip balm", "lip care", "beauty", "makeup", "cosmetics", "smooch", "pout", "love", "romance", "flirt", "lip filler", "lip", "red lips", "kissing", "valentine"]
+  },
+  "liver": {
+    "context": "The liver drawn as an anatomical organ. Used in hepatology and liver health content, alcohol and detox information, blood test results and anatomy lessons.",
+    "keywords": ["hepatic", "hepatology", "organ", "anatomy", "digestion", "digestive system", "detox", "alcohol", "liver disease", "fatty liver", "hepatitis", "cirrhosis", "liver function", "bile", "gallbladder", "medical", "metabolism", "transplant"]
+  },
+  "lungs": {
+    "context": "A pair of lungs with the windpipe above them. Common in breathing exercises, respiratory health and pulmonology, asthma and quit-smoking content, and air quality apps.",
+    "keywords": ["breathe", "breathing", "breath", "respiratory", "respiration", "pulmonary", "pulmonology", "organ", "anatomy", "windpipe", "trachea", "bronchi", "asthma", "copd", "smoking", "quit smoking", "oxygen", "air quality", "lung capacity", "pneumonia", "chest", "inhale", "exhale"]
+  },
+  "mouth": {
+    "context": "An open mouth. Used for speaking and voice input, oral health and dental care, eating or taste, and talking avatars.",
+    "keywords": ["speak", "speaking", "talk", "talking", "voice", "say", "lips", "oral", "oral health", "open mouth", "shout", "yell", "eat", "eating", "taste", "dental", "teeth", "tongue", "sing", "singing", "speech", "yawn", "gasp"]
+  },
+  "muscle-fiber": {
+    "context": "A spindle-shaped muscle with its fibres drawn along its length. Used for muscle anatomy, sports science and physiology lessons, strength and recovery apps and muscle strain content.",
+    "keywords": ["muscle", "muscles", "fibre", "fiber", "muscle fibre", "tissue", "anatomy", "physiology", "strength", "sports science", "muscle strain", "pulled muscle", "recovery", "tendon", "myology", "skeletal muscle", "protein", "growth", "workout", "bodybuilding", "biology", "sinew"]
+  },
+  "mustache": {
+    "context": "A curled moustache on its own. Barbers and grooming shops, costume and disguise themes, retro styling and November fundraising campaigns use it.",
+    "keywords": ["moustache", "facial hair", "barber", "barbershop", "grooming", "man", "male", "movember", "handlebar", "handlebar moustache", "disguise", "costume", "hipster", "gentleman", "retro", "vintage", "shave", "whiskers", "beard", "men's grooming"]
+  },
+  "neck": {
+    "context": "Chin, neck and shoulders seen from the front. Used for neck pain and posture content, throat symptoms, necklace or collar sizing and body maps.",
+    "keywords": ["throat", "nape", "cervical", "cervical spine", "shoulders", "posture", "neck pain", "stiff neck", "whiplash", "collar", "collar size", "necklace", "thyroid", "chin", "body map", "anatomy", "massage", "physiotherapy", "sore throat", "upper body"]
+  },
+  "neuron": {
+    "context": "A nerve cell with branching dendrites and a long axon. Used in neuroscience and neurology, brain research, biology lessons and neural network or AI topics.",
+    "keywords": ["nerve", "nerve cell", "neurology", "neuroscience", "brain", "synapse", "neural", "neural network", "dendrite", "axon", "nervous system", "biology", "science", "cell", "neurotransmitter", "ai", "machine learning", "deep learning", "research", "signal", "neurons"]
+  },
+  "nose": {
+    "context": "A nose in side profile. Used for smell and scent, perfume and fragrance shops, allergy or cold symptoms, and ear, nose and throat clinics.",
+    "keywords": ["smell", "scent", "sniff", "face", "nostril", "nostrils", "fragrance", "perfume", "odor", "odour", "aroma", "ent", "ear nose throat", "allergy", "runny nose", "congestion", "sinus", "rhinoplasty", "nose job", "breathe", "profile"]
+  },
+  "pelvis": {
+    "context": "The pelvis bone seen from the front. Found in anatomy and orthopedics, pelvic floor and women's health, hip fracture content and radiology.",
+    "keywords": ["hip bone", "hips", "skeleton", "bone", "sacrum", "coccyx", "tailbone", "ilium", "pelvic", "pelvic floor", "pelvic pain", "women's health", "orthopedic", "orthopaedic", "anatomy", "radiology", "x-ray", "hip fracture", "childbirth", "lower body"]
+  },
+  "pregnant": {
+    "context": "Side profile of a pregnant person with a rounded belly. Used for maternity services, pregnancy trackers, antenatal care, priority seating or parking signs and parental leave.",
+    "keywords": ["pregnancy", "maternity", "expecting", "expectant mother", "mother", "mom", "mum", "baby bump", "bump", "prenatal", "antenatal", "obstetrics", "midwife", "birth", "due date", "fertility", "parental leave", "maternity leave", "priority seating", "woman", "gestation", "trimester"]
+  },
+  "ribs": {
+    "context": "A rib cage seen from the front. Used in anatomy and radiology, chest injuries and broken ribs, skeleton sets and Halloween costumes.",
+    "keywords": ["ribcage", "rib cage", "chest", "skeleton", "thorax", "anatomy", "bones", "sternum", "breastbone", "broken rib", "fracture", "chest x-ray", "radiology", "torso", "lungs", "halloween", "costume", "bone structure"]
+  },
+  "shoulder": {
+    "context": "An upper body with one shoulder marked. Used for shoulder pain and frozen shoulder, rotator cuff injuries, physiotherapy and body maps.",
+    "keywords": ["joint", "upper body", "deltoid", "posture", "pain", "shoulder pain", "frozen shoulder", "rotator cuff", "dislocation", "collarbone", "clavicle", "arm", "orthopedic", "orthopaedic", "physiotherapy", "body map", "anatomy", "massage", "sports injury", "shoulders"]
+  },
+  "skeleton": {
+    "context": "A simple full human skeleton. Anatomy and biology lessons, x-ray and orthopedic content, Halloween themes and games use it.",
+    "keywords": ["bones", "anatomy", "x-ray", "halloween", "skull", "spooky", "dead", "death", "undead", "skeletal system", "orthopedic", "biology", "spine", "ribs", "human body", "costume", "horror", "radiology", "science", "education"]
+  },
+  "skull": {
+    "context": "A human skull seen from the front. Used for danger, poison and hazard warnings, death or game over states, pirate and Halloween themes, and anatomy.",
+    "keywords": ["skeleton", "head", "anatomy", "death", "dead", "danger", "hazard", "poison", "toxic", "warning", "deadly", "halloween", "pirate", "jolly roger", "spooky", "game over", "cranium", "bone", "horror", "goth", "killed"]
+  },
+  "spine": {
+    "context": "A column of stacked vertebrae. Used for back and spinal health, chiropractic and physiotherapy, posture apps and orthopedic surgery pages.",
+    "keywords": ["vertebrae", "vertebra", "backbone", "back", "spinal column", "spinal cord", "posture", "chiropractic", "chiropractor", "skeleton", "back pain", "scoliosis", "disc", "slipped disc", "lumbar", "cervical", "orthopedic", "orthopaedic", "physiotherapy", "neurosurgery", "anatomy"]
+  },
+  "stomach": {
+    "context": "The stomach drawn as an anatomical organ. Used for digestion and gut health, stomach aches and nausea in symptom checkers, diet apps and gastroenterology.",
+    "keywords": ["digestion", "digestive system", "gastric", "belly", "tummy", "organ", "gut", "stomach ache", "stomachache", "tummy ache", "nausea", "indigestion", "heartburn", "acid reflux", "ulcer", "gastroenterology", "hunger", "anatomy", "abdomen", "bloating", "diet"]
+  },
+  "teeth": {
+    "context": "A wide grin showing a row of teeth. Common for dentists and dental care, smile and whitening services, braces and orthodontics, and grinning reactions.",
+    "keywords": ["dental", "dentist", "tooth", "grin", "smile", "whitening", "teeth whitening", "braces", "orthodontics", "orthodontist", "bite", "mouth", "oral health", "oral hygiene", "brushing", "dentures", "veneers", "cheesy grin", "chew", "floss"]
+  },
+  "thyroid": {
+    "context": "The butterfly-shaped thyroid gland. Used in endocrinology, thyroid and hormone tests, throat and neck health, and medical diagrams.",
+    "keywords": ["gland", "endocrine", "endocrinology", "hormone", "hormones", "throat", "neck", "organ", "hypothyroidism", "hyperthyroidism", "goitre", "goiter", "metabolism", "butterfly gland", "tsh", "iodine", "anatomy", "medical", "blood test", "thyroxine"]
+  },
+  "toe": {
+    "context": "The front of a foot seen from above, showing the toes. Used for podiatry and foot care, pedicures and nail salons, and toe or foot injuries.",
+    "keywords": ["toes", "foot", "feet", "big toe", "little toe", "podiatry", "podiatrist", "foot care", "pedicure", "toenail", "toenails", "bunion", "gout", "ingrown toenail", "stubbed toe", "barefoot", "nail salon", "anatomy", "digits"]
+  },
+  "tongue": {
+    "context": "A tongue sticking out of an open mouth. Taste and flavour content, food and cooking apps, cheeky or silly reactions and oral health pages use it.",
+    "keywords": ["taste", "tasting", "flavour", "flavor", "lick", "licking", "mouth", "cheeky", "silly", "playful", "tongue out", "taste buds", "yum", "delicious", "raspberry", "oral health", "tease", "rude", "funny", "lick lips"]
+  },
+  "tooth": {
+    "context": "A single molar tooth. Used for dentists and dental clinics, oral health and hygiene, toothache, and kids' dental or tooth fairy content.",
+    "keywords": ["dental", "dentist", "teeth", "mouth", "molar", "toothache", "cavity", "filling", "root canal", "crown", "oral health", "oral hygiene", "dental clinic", "orthodontist", "tooth fairy", "baby tooth", "enamel", "wisdom tooth", "dental care", "checkup"]
+  },
+  "vein": {
+    "context": "A blood vessel with blood cells flowing inside. Used in circulation and cardiovascular content, blood tests and vein care, and anatomy lessons.",
+    "keywords": ["blood vessel", "artery", "arteries", "veins", "capillary", "circulation", "vascular", "cardiovascular", "blood", "blood cells", "red blood cells", "blood flow", "varicose veins", "anatomy", "haematology", "hematology", "cholesterol", "clot", "thrombosis", "iv"]
+  },
+  "womb": {
+    "context": "The uterus with the fallopian tubes and ovaries. Used for women's health and gynaecology, fertility and IVF, period and cycle tracking, and pregnancy care.",
+    "keywords": ["uterus", "gynecology", "gynaecology", "fertility", "ivf", "pregnancy", "ovaries", "ovary", "fallopian tubes", "women", "women's health", "female reproductive system", "reproductive health", "menstruation", "period", "menstrual cycle", "cycle tracking", "endometriosis", "pcos", "obstetrics", "conception", "hysterectomy"]
+  },
+  "wrist": {
+    "context": "A hand and forearm with the wrist marked. Used for wrist pain and sprains, carpal tunnel and repetitive strain, watch or wearable sizing and body maps.",
+    "keywords": ["joint", "hand", "forearm", "carpal", "carpal tunnel", "sprain", "sprained wrist", "rsi", "repetitive strain", "fracture", "brace", "wearable", "watch", "bracelet", "pulse", "orthopedic", "physiotherapy", "body map", "anatomy"]
+  }
+}

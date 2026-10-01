@@ -1,0 +1,224 @@
+[
+ {
+  "name": "pistil",
+  "category": "plants",
+  "draw": "Vase-shaped organ with a round ovary base, a thin style and a sticky flat stigma on top.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "flower-cross-section",
+  "category": "plants",
+  "draw": "Flower cut in half showing petals, stamens around a central pistil and the ovary with ovules.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "stem-cross-section",
+  "category": "plants",
+  "draw": "Circle of a cut stem showing a ring of small vascular bundle dots around the center.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leaf-stoma",
+  "category": "plants",
+  "draw": "Leaf pore made of two bean-shaped guard cells around a slit opening.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-cell",
+  "category": "plants",
+  "draw": "Rectangular cell with a thick wall, a large central vacuole, a nucleus and small oval chloroplasts.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "chloroplast",
+  "category": "plants",
+  "draw": "Oval organelle with stacks of flat discs inside connected by thin lines.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "photosynthesis",
+  "category": "plants",
+  "draw": "Leaf with a sun above and curved arrows showing light coming in and gas leaving.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "phototropism",
+  "category": "plants",
+  "draw": "Potted seedling bending its stem toward a sun at one side.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-growth",
+  "category": "plants",
+  "draw": "Row of three stages: seed, small sprout and larger leafy plant, rising in height.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-graft",
+  "category": "plants",
+  "draw": "Two stems joined at a slanted cut and bound together with a wrap of tape.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "herbarium-specimen",
+  "category": "plants",
+  "draw": "Pressed plant with roots and leaves taped flat on a paper sheet with a label in one corner.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leaf-scan",
+  "category": "plants",
+  "draw": "Leaf framed by four corner brackets of a camera scan viewfinder.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-full-sun",
+  "category": "plants",
+  "draw": "Small potted plant under a full sun with rays.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-partial-shade",
+  "category": "plants",
+  "draw": "Small potted plant under a half-filled sun disc.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-full-shade",
+  "category": "plants",
+  "draw": "Small potted plant under a solid cloud with no sun.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-watering",
+  "category": "plants",
+  "draw": "Potted plant with three water drops falling onto its leaves from above.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-humidity",
+  "category": "plants",
+  "draw": "Potted plant surrounded by a few small droplets and a curved vapor line.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-temperature",
+  "category": "plants",
+  "draw": "Potted plant beside a small thermometer.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-height",
+  "category": "plants",
+  "draw": "Potted plant with a vertical double-ended measuring arrow beside it.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-spacing",
+  "category": "plants",
+  "draw": "Two small plants on a ground line with a horizontal double-ended arrow between them.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "poisonous-plant",
+  "category": "plants",
+  "draw": "Leaf with a small skull symbol on it.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "wilted-plant",
+  "category": "plants",
+  "draw": "Potted plant with drooping limp leaves hanging over the rim.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-cutting",
+  "category": "plants",
+  "draw": "Stem cutting with two leaves standing in a glass of water with thin roots growing at the bottom.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "leaf-propagation",
+  "category": "plants",
+  "draw": "Single plump succulent leaf lying on soil with tiny roots and a small new rosette at its base.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-division",
+  "category": "plants",
+  "draw": "Plant clump with its roots split into two halves pulled apart with a small gap.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "repotting",
+  "category": "plants",
+  "draw": "Plant with its root ball lifted between a small pot and a larger pot, with an arrow.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "hydroponic-plant",
+  "category": "plants",
+  "draw": "Plant held in a net cup above a water tank with bare roots dangling into water and bubbles.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "seedling-tray",
+  "category": "plants",
+  "draw": "Grid tray of small cells, each holding a tiny two-leaf sprout.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-marker",
+  "category": "plants",
+  "draw": "Small pointed label stake stuck in soil next to a young sprout.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "climbing-plant",
+  "category": "plants",
+  "draw": "Vine with leaves winding up a lattice trellis.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "espalier-tree",
+  "category": "plants",
+  "draw": "Tree trained flat against a wall with a straight trunk and pairs of horizontal arms in tiers.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "living-wall",
+  "category": "plants",
+  "draw": "Wall panel covered in a grid of leafy plant pockets.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "plant-mister",
+  "category": "plants",
+  "draw": "Small spray bottle misting fine dots onto a leaf.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "sowing-seeds",
+  "category": "plants",
+  "draw": "Hand dropping seeds into a furrow in the soil.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "sowing-depth",
+  "category": "plants",
+  "draw": "Cross-section of soil with a seed below the surface and a vertical measure arrow.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "sprout-in-hands",
+  "category": "plants",
+  "draw": "Two cupped hands holding a small mound of soil with a sprout growing from it.",
+  "domain": "plants-trees-flowers"
+ },
+ {
+  "name": "reforestation",
+  "category": "plants",
+  "draw": "Row of three young saplings of increasing size growing from a ground line.",
+  "domain": "plants-trees-flowers"
+ }
+]

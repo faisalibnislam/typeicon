@@ -1,0 +1,482 @@
+[
+ {
+  "name": "wafer-roll",
+  "category": "bakery",
+  "draw": "Two thin rolled tube wafers with a spiral line along their length.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "linzer-cookie",
+  "category": "bakery",
+  "draw": "Round scalloped cookie with a small heart-shaped cut-out window showing jam underneath.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pinwheel-cookie",
+  "category": "bakery",
+  "draw": "Round cookie with a two-tone spiral swirl.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cracker",
+  "category": "bakery",
+  "draw": "Square crisp cracker with a rim and an even grid of docking holes.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "rice-cracker",
+  "category": "bakery",
+  "draw": "Round flat puffed rice cracker wrapped with a band of seaweed.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ladyfinger",
+  "category": "bakery",
+  "draw": "Long flat oval sponge biscuit with sugar dots on top.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "pizzelle",
+  "category": "bakery",
+  "draw": "Thin round wafer cookie with an embossed snowflake-like pattern.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "granola-bar",
+  "category": "bakery",
+  "draw": "Rectangular bar with a chunky oat texture, its wrapper peeled back at one end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "milk-and-cookies",
+  "category": "bakery",
+  "draw": "Glass of milk standing next to a small stack of two round cookies.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cookie-jar",
+  "category": "bakery",
+  "draw": "Round glass jar with a knobbed lid holding stacked cookies.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cookie-tin",
+  "category": "bakery",
+  "draw": "Round flat tin with a lid half-off showing cookies in paper cups.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "candy-cane",
+  "category": "bakery",
+  "draw": "Hooked striped cane with diagonal stripes.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gummy-bear",
+  "category": "bakery",
+  "draw": "Chubby bear-shaped gummy candy with round ears and short limbs.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gummy-worm",
+  "category": "bakery",
+  "draw": "Wiggly S-shaped worm candy with bands of color.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "jelly-bean",
+  "category": "bakery",
+  "draw": "Three bean-shaped candies with glossy highlights.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cotton-candy",
+  "category": "bakery",
+  "draw": "Big fluffy cloud of spun sugar on a paper cone stick.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cotton-candy-machine",
+  "category": "bakery",
+  "draw": "Round wide spinning bowl on a cart with a cloud of floss rising from the center.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "candy-apple",
+  "category": "bakery",
+  "draw": "Round apple coated in shiny candy with a drip pool at its base, speared on a stick.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "rock-candy",
+  "category": "bakery",
+  "draw": "Wooden stick with a cluster of angular sugar crystals along its upper half.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "candy-corn",
+  "category": "bakery",
+  "draw": "Triangular kernel-shaped candy with three horizontal color bands.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "ribbon-candy",
+  "category": "bakery",
+  "draw": "Thin striped band of hard candy folded back and forth into tight waves.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "marshmallow",
+  "category": "bakery",
+  "draw": "Short soft cylinder with slightly bulging sides seen at an angle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "roasted-marshmallow",
+  "category": "bakery",
+  "draw": "Marshmallow on the end of a long skewer with a toasted top and a small flame below.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "smore",
+  "category": "bakery",
+  "draw": "Two square graham crackers sandwiching a chocolate piece and gooey marshmallow.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "licorice",
+  "category": "bakery",
+  "draw": "Twisted rope-like candy stick with spiral grooves.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gumball-machine",
+  "category": "bakery",
+  "draw": "Round glass globe filled with gumballs on a stand with a coin slot and a crank.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "chewing-gum",
+  "category": "bakery",
+  "draw": "Flat stick of gum half pulled out of its wrapper.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "bubble-gum",
+  "category": "bakery",
+  "draw": "Big round bubble with a shine mark blown out from a small piece of gum.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "peppermint-candy",
+  "category": "bakery",
+  "draw": "Round flat mint candy with a pinwheel of curved stripes and twisted wrapper ends.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "chocolate-truffle",
+  "category": "bakery",
+  "draw": "Round cocoa-dusted ball sitting in a fluted paper cup.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "chocolate-box",
+  "category": "bakery",
+  "draw": "Open box seen from above with a grid of round and square chocolates in compartments.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "heart-chocolate",
+  "category": "bakery",
+  "draw": "Single heart-shaped chocolate wrapped in crinkled foil with a small tag.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "chocolate-mold",
+  "category": "bakery",
+  "draw": "Flat tray with a grid of shaped cavities, one of them holding a finished chocolate.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "fudge",
+  "category": "bakery",
+  "draw": "Stack of three square cubes of fudge with smooth tops.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "gumdrop",
+  "category": "bakery",
+  "draw": "Dome-shaped candy with a flat base and a coating of sugar crystal dots.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "candy-jar",
+  "category": "bakery",
+  "draw": "Glass jar with a lid filled with assorted round wrapped sweets.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "chocolate-coin",
+  "category": "bakery",
+  "draw": "Round foil-wrapped coin with an embossed rim and a peeled edge.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "chocolate-bunny",
+  "category": "bakery",
+  "draw": "Hollow chocolate rabbit sitting upright with long ears and a bow.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "chocolate-strawberry",
+  "category": "bakery",
+  "draw": "Strawberry dipped halfway in chocolate with its leafy top showing.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sugared-almonds",
+  "category": "bakery",
+  "draw": "Small tulle pouch tied with a ribbon bow holding a few oval sugar-coated almonds.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sprinkles",
+  "category": "bakery",
+  "draw": "Scatter of short rounded rod-shaped sprinkles at different angles.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "sugar-cube",
+  "category": "bakery",
+  "draw": "Two stacked sugar cubes with granular dot texture.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "peanut-brittle",
+  "category": "bakery",
+  "draw": "Irregular flat shard of hard candy with whole peanuts embedded in it.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "candy-wrapper",
+  "category": "bakery",
+  "draw": "Empty twisted wrapper with crinkled ends and a flat center.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "maple-syrup",
+  "category": "bakery",
+  "draw": "Glass jug with a small finger loop handle and a maple leaf label.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "honey-dipper",
+  "category": "bakery",
+  "draw": "Wooden honey dipper with grooved rounded head dripping a thick drop.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "honeycomb",
+  "category": "bakery",
+  "draw": "Cluster of hexagon cells with one cell dripping honey.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "milk-glass",
+  "category": "bakery",
+  "draw": "Tall glass filled with milk with a small splash and a highlight line.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "milk-pail",
+  "category": "bakery",
+  "draw": "Metal bucket with a wire handle and milk splashing near the rim.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "dairy-products",
+  "category": "bakery",
+  "draw": "Group of a milk bottle, a cheese wedge and a small yogurt cup standing together.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "butter",
+  "category": "bakery",
+  "draw": "Rectangular stick of butter partly unwrapped with a pat sliced off.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "butter-dish",
+  "category": "bakery",
+  "draw": "Covered rectangular dish with a domed lid lifted to show a block of butter.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "butter-churn",
+  "category": "bakery",
+  "draw": "Tall wooden churn with metal bands and a plunger handle sticking out of the lid.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "yogurt",
+  "category": "bakery",
+  "draw": "Short round cup with a peeled-back foil lid and a spoon.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "whipped-cream",
+  "category": "bakery",
+  "draw": "Aerosol can with a nozzle topped with a swirl of whipped cream.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheese-wheel",
+  "category": "bakery",
+  "draw": "Whole round drum of cheese with a wedge cut out showing the inside.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheese-block",
+  "category": "bakery",
+  "draw": "Rectangular block of hard cheese with one thin slice falling away from the end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "brie",
+  "category": "bakery",
+  "draw": "Flat round cheese with a wedge cut out showing a soft center and a thin rind line.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "camembert",
+  "category": "bakery",
+  "draw": "Round thin wooden box with its lid tilted open showing a round soft cheese inside.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mozzarella",
+  "category": "bakery",
+  "draw": "Smooth round ball of fresh cheese in a small bowl of liquid.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "burrata",
+  "category": "bakery",
+  "draw": "Round pouch of cheese with a gathered knot on top, torn open to show creamy filling.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "string-cheese",
+  "category": "bakery",
+  "draw": "Stick of cheese with strings peeling away from one end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheese-slice",
+  "category": "bakery",
+  "draw": "Square slice of processed cheese with its corner curling up.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "blue-cheese",
+  "category": "bakery",
+  "draw": "Wedge of cheese with branching vein lines across its face.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "goat-cheese",
+  "category": "bakery",
+  "draw": "Cylindrical log of soft cheese with one slice cut from the end.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheese-cubes",
+  "category": "bakery",
+  "draw": "Three cheese cubes each speared on a cocktail pick.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheese-pull",
+  "category": "bakery",
+  "draw": "Triangular slice being lifted away with long stretchy strands of melted cheese hanging below.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheese-board",
+  "category": "bakery",
+  "draw": "Wooden board with a handle holding a cheese wedge, cubes and a few grapes.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheese-knife",
+  "category": "bakery",
+  "draw": "Short knife with a forked tip and holes along its blade.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cheese-plane",
+  "category": "bakery",
+  "draw": "Flat triangular slicer with a slot blade and a short handle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "fried-egg",
+  "category": "bakery",
+  "draw": "Top view of a fried egg with an irregular wavy white and a round yolk.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "boiled-egg",
+  "category": "bakery",
+  "draw": "Hard-boiled egg cut in half lengthwise showing a round yolk.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "cracked-egg",
+  "category": "bakery",
+  "draw": "Egg split into two jagged shell halves with the yolk falling out.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "quail-egg",
+  "category": "bakery",
+  "draw": "Small oval egg covered in irregular dark speckles.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "egg-carton",
+  "category": "bakery",
+  "draw": "Open carton with a row of domed egg cups holding eggs and a hinged lid.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "egg-basket",
+  "category": "bakery",
+  "draw": "Round wire basket with a handle filled with a heap of eggs.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "egg-cup",
+  "category": "bakery",
+  "draw": "Footed cup holding a whole upright egg.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "omelet",
+  "category": "bakery",
+  "draw": "Folded half-moon omelet on a plate with a herb sprinkle.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "peanut-butter",
+  "category": "bakery",
+  "draw": "Wide jar with a screw lid and a peanut on the label, and a knife with a smear.",
+  "domain": "bakery-sweets-dairy"
+ },
+ {
+  "name": "mustard",
+  "category": "bakery",
+  "draw": "Small pot with a notched lid and a little wooden spoon sticking out.",
+  "domain": "bakery-sweets-dairy"
+ }
+]

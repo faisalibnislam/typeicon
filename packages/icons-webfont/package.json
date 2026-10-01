@@ -1,0 +1,25 @@
+{
+  "name": "@typeicon/icons-webfont",
+  "version": "0.1.0",
+  "description": "TypeIcon keyword-ligature webfonts (woff2/woff) with CSS class and ligature stylesheets.",
+  "private": true,
+  "license": "SEE LICENSE IN dist/licenses/ATTRIBUTION.md",
+  "sideEffects": [
+    "*.css"
+  ],
+  "style": "./dist/css/typeicon.css",
+  "exports": {
+    ".": "./dist/css/typeicon.css",
+    "./typeicon.css": "./dist/css/typeicon.css",
+    "./css/*": "./dist/css/*",
+    "./webfonts/*": "./dist/webfonts/*",
+    "./licenses/*": "./dist/licenses/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "generate": "node ../scripts/generate.mjs"
+  }
+}

@@ -1,0 +1,2172 @@
+[
+ {
+  "name": "git-stash",
+  "category": "tech",
+  "draw": "Stack of three shallow drawer trays with a small commit dot being tucked into the top one."
+ },
+ {
+  "name": "git-cherry-pick",
+  "category": "tech",
+  "draw": "Commit graph line of three dots with one dot plucked off to the side as a cherry on a stem."
+ },
+ {
+  "name": "git-blame",
+  "category": "tech",
+  "draw": "Code lines with a small person head beside each line on the left margin."
+ },
+ {
+  "name": "git-bisect",
+  "category": "tech",
+  "draw": "Vertical commit line cut through its midpoint by a short bar, with a magnifier over one half."
+ },
+ {
+  "name": "git-submodule",
+  "category": "tech",
+  "draw": "Repository box containing a smaller nested repository box with a commit dot."
+ },
+ {
+  "name": "git-worktree",
+  "category": "tech",
+  "draw": "One commit dot branching into two separate folder shapes below it."
+ },
+ {
+  "name": "git-tag-annotated",
+  "category": "tech",
+  "draw": "Commit dot on a line with a tag shape hanging from it holding two text lines."
+ },
+ {
+  "name": "git-pull",
+  "category": "tech",
+  "draw": "Cloud outline at top with an arrow coming down onto a commit dot on a short line."
+ },
+ {
+  "name": "git-hook",
+  "category": "tech",
+  "draw": "Commit dot on a vertical line with a fishing hook hanging from it."
+ },
+ {
+  "name": "git-ignore-file",
+  "category": "tech",
+  "draw": "Document page with a slash-through circle in its lower corner and dotted text lines."
+ },
+ {
+  "name": "git-log",
+  "category": "tech",
+  "draw": "Vertical line of commit dots, each with a short text line to its right."
+ },
+ {
+  "name": "git-diff-split",
+  "category": "tech",
+  "draw": "Two side by side panes with minus signs on the left lines and plus signs on the right lines."
+ },
+ {
+  "name": "pull-request-approved",
+  "category": "tech",
+  "draw": "Two commit dots joined by a curved branch line with a large check in a circle at the tip."
+ },
+ {
+  "name": "patch-file",
+  "category": "tech",
+  "draw": "Document page with a stitched square patch sewn onto its center."
+ },
+ {
+  "name": "monorepo",
+  "category": "tech",
+  "draw": "One large repository box containing a two by two grid of small package cubes."
+ },
+ {
+  "name": "build-status",
+  "category": "tech",
+  "draw": "Hammer beside a round status light holding a check mark."
+ },
+ {
+  "name": "nightly-build",
+  "category": "tech",
+  "draw": "Crescent moon over a small gear with a hammer head crossing it."
+ },
+ {
+  "name": "test-coverage",
+  "category": "tech",
+  "draw": "Page of code lines with a progress ring three quarters filled in the lower corner."
+ },
+ {
+  "name": "end-to-end-test",
+  "category": "tech",
+  "draw": "Two small circles at the ends of a long horizontal line with a check mark in the middle."
+ },
+ {
+  "name": "smoke-test",
+  "category": "tech",
+  "draw": "Laptop with a wisp of smoke rising from its screen and a check mark beside it."
+ },
+ {
+  "name": "load-test",
+  "category": "tech",
+  "draw": "Server box pressed under a heavy weight block marked with a small gauge needle."
+ },
+ {
+  "name": "test-case",
+  "category": "tech",
+  "draw": "Clipboard holding a single checkbox with a small flask on the clip."
+ },
+ {
+  "name": "canary-deployment",
+  "category": "tech",
+  "draw": "Small songbird perched on top of a server box."
+ },
+ {
+  "name": "blue-green-deployment",
+  "category": "tech",
+  "draw": "Two identical server boxes side by side with a toggle switch between them."
+ },
+ {
+  "name": "rolling-update",
+  "category": "tech",
+  "draw": "Row of three server boxes with a circular refresh arrow sweeping across their tops."
+ },
+ {
+  "name": "feature-flag",
+  "category": "tech",
+  "draw": "Pennant flag on a pole with a toggle switch at the base of the pole."
+ },
+ {
+  "name": "artifact-registry",
+  "category": "tech",
+  "draw": "Shelf holding three sealed boxes, each with a small hanging tag."
+ },
+ {
+  "name": "cron-job",
+  "category": "tech",
+  "draw": "Clock face with a small gear overlapping its lower right."
+ },
+ {
+  "name": "job-scheduler",
+  "category": "tech",
+  "draw": "Calendar page with a gear in its center and a clock hand on the gear."
+ },
+ {
+  "name": "background-job",
+  "category": "tech",
+  "draw": "Gear drawn half hidden behind a window outline."
+ },
+ {
+  "name": "worker-process",
+  "category": "tech",
+  "draw": "Gear with a small hard hat sitting on top of it."
+ },
+ {
+  "name": "daemon-process",
+  "category": "tech",
+  "draw": "Gear with two small horns and a pointed tail, a friendly background process."
+ },
+ {
+  "name": "merge-queue",
+  "category": "tech",
+  "draw": "Three arrows lined up in single file converging into one line."
+ },
+ {
+  "name": "release-train",
+  "category": "tech",
+  "draw": "Small train engine pulling two carriages, each marked with a version tag."
+ },
+ {
+  "name": "deployment-pipeline",
+  "category": "tech",
+  "draw": "Conveyor belt carrying a box toward a cloud at its far end."
+ },
+ {
+  "name": "devops-loop",
+  "category": "tech",
+  "draw": "Infinity loop with a small gear on the left loop and a rocket on the right loop."
+ },
+ {
+  "name": "build-cache",
+  "category": "tech",
+  "draw": "Box with a lightning bolt beside a stack of three layered disks."
+ },
+ {
+  "name": "code-coverage-report",
+  "category": "tech",
+  "draw": "Page with three horizontal progress bars and a percentage sign."
+ },
+ {
+  "name": "staging-environment",
+  "category": "tech",
+  "draw": "Theatre stage platform with side curtains and a server box standing on it."
+ },
+ {
+  "name": "dev-environment",
+  "category": "tech",
+  "draw": "Laptop with code brackets on the screen and a small wrench beside it."
+ },
+ {
+  "name": "yaml-file",
+  "category": "tech",
+  "draw": "Document page with dash-prefixed lines stepping in by indentation."
+ },
+ {
+  "name": "env-file",
+  "category": "tech",
+  "draw": "Document page with key equals value lines and a small padlock in the corner."
+ },
+ {
+  "name": "container-file",
+  "category": "tech",
+  "draw": "Document page with a shipping container outline drawn on it."
+ },
+ {
+  "name": "infrastructure-as-code",
+  "category": "tech",
+  "draw": "Curly code brackets enclosing a small stack of servers."
+ },
+ {
+  "name": "script-file",
+  "category": "tech",
+  "draw": "Document page with a scroll curl at the top and code brackets in the middle."
+ },
+ {
+  "name": "shell-script",
+  "category": "tech",
+  "draw": "Document page with a chevron prompt and underscore cursor."
+ },
+ {
+  "name": "sql-file",
+  "category": "tech",
+  "draw": "Document page with a small database cylinder in its corner."
+ },
+ {
+  "name": "xml-file",
+  "category": "tech",
+  "draw": "Document page with angle brackets and a slash inside."
+ },
+ {
+  "name": "html-file",
+  "category": "tech",
+  "draw": "Document page with an angle bracket tag and an equals sign."
+ },
+ {
+  "name": "css-file",
+  "category": "tech",
+  "draw": "Document page with a hash sign and a pair of curly braces."
+ },
+ {
+  "name": "code-file",
+  "category": "tech",
+  "draw": "Document page with a folded corner and angle code brackets in the middle."
+ },
+ {
+  "name": "binary-file",
+  "category": "tech",
+  "draw": "Document page filled with two rows of ones and zeros."
+ },
+ {
+  "name": "license-file",
+  "category": "tech",
+  "draw": "Document page with a small scale of justice on it."
+ },
+ {
+  "name": "lockfile",
+  "category": "tech",
+  "draw": "Document page with a padlock over a list of dependency lines."
+ },
+ {
+  "name": "iso-image",
+  "category": "tech",
+  "draw": "Optical disc overlapping the corner of a document page."
+ },
+ {
+  "name": "disk-image",
+  "category": "tech",
+  "draw": "Hard drive shape inside a dashed frame outline."
+ },
+ {
+  "name": "microservices",
+  "category": "tech",
+  "draw": "Six small hexagons linked by short lines in a honeycomb cluster."
+ },
+ {
+  "name": "monolithic-architecture",
+  "category": "tech",
+  "draw": "Single tall solid block divided by horizontal layer lines."
+ },
+ {
+  "name": "service-mesh",
+  "category": "tech",
+  "draw": "Four small boxes at the corners, each linked to every other box by crossing lines."
+ },
+ {
+  "name": "sidecar-container",
+  "category": "tech",
+  "draw": "Large container box with a small container box attached to its side."
+ },
+ {
+  "name": "api-gateway",
+  "category": "tech",
+  "draw": "Archway gate with three lines fanning out behind it to small boxes."
+ },
+ {
+  "name": "load-balancer",
+  "category": "tech",
+  "draw": "One circle at top splitting into three lines that lead to three boxes below."
+ },
+ {
+  "name": "reverse-proxy",
+  "category": "tech",
+  "draw": "Globe on the left, a shield box in the middle and a server on the right joined by one line."
+ },
+ {
+  "name": "proxy-server",
+  "category": "tech",
+  "draw": "Server box standing between two person heads with a line passing through it."
+ },
+ {
+  "name": "content-delivery-network",
+  "category": "tech",
+  "draw": "Globe with four small server nodes placed around its outline."
+ },
+ {
+  "name": "edge-computing",
+  "category": "tech",
+  "draw": "Cloud with a line dropping to a small chip at the edge of a network line."
+ },
+ {
+  "name": "event-bus",
+  "category": "tech",
+  "draw": "Horizontal bus bar with three short lines dropping down to small boxes."
+ },
+ {
+  "name": "message-broker",
+  "category": "tech",
+  "draw": "Central hub box with envelopes arriving on the left and leaving on the right."
+ },
+ {
+  "name": "pub-sub",
+  "category": "tech",
+  "draw": "Broadcast tower on the left sending arcs toward three small boxes on the right."
+ },
+ {
+  "name": "event-stream",
+  "category": "tech",
+  "draw": "Wavy line carrying small square packets along its length."
+ },
+ {
+  "name": "event-driven",
+  "category": "tech",
+  "draw": "Lightning bolt striking a small box that emits a ripple ring."
+ },
+ {
+  "name": "client-server",
+  "category": "tech",
+  "draw": "Laptop on the left linked by a double line to a server tower on the right."
+ },
+ {
+  "name": "peer-to-peer",
+  "category": "tech",
+  "draw": "Three laptops in a triangle, each connected to the other two."
+ },
+ {
+  "name": "cache-memory",
+  "category": "tech",
+  "draw": "Chip outline with a lightning bolt in its center."
+ },
+ {
+  "name": "rate-limiter",
+  "category": "tech",
+  "draw": "Funnel with a speedometer needle beside its spout."
+ },
+ {
+  "name": "circuit-breaker-pattern",
+  "category": "tech",
+  "draw": "Service box with a broken chain link and a small lightning bolt."
+ },
+ {
+  "name": "retry-policy",
+  "category": "tech",
+  "draw": "Circular arrow wrapped around the number three."
+ },
+ {
+  "name": "request-timeout",
+  "category": "tech",
+  "draw": "Hourglass with a broken link chain beneath it."
+ },
+ {
+  "name": "callback-function",
+  "category": "tech",
+  "draw": "Function parentheses with a curved arrow looping back into them."
+ },
+ {
+  "name": "object-storage-bucket",
+  "category": "tech",
+  "draw": "Pail bucket holding three small cubes."
+ },
+ {
+  "name": "cloud-database",
+  "category": "tech",
+  "draw": "Cloud outline with a database cylinder in front of its base."
+ },
+ {
+  "name": "cloud-server",
+  "category": "tech",
+  "draw": "Cloud outline resting on top of a server box."
+ },
+ {
+  "name": "cloud-backup",
+  "category": "tech",
+  "draw": "Cloud with a clock history arrow inside."
+ },
+ {
+  "name": "multi-cloud",
+  "category": "tech",
+  "draw": "Three overlapping cloud outlines of different sizes."
+ },
+ {
+  "name": "hybrid-cloud",
+  "category": "tech",
+  "draw": "Cloud outline on the left joined by a line to a small office building on the right."
+ },
+ {
+  "name": "private-cloud",
+  "category": "tech",
+  "draw": "Cloud outline enclosed by a rounded fence of pickets."
+ },
+ {
+  "name": "cloud-region",
+  "category": "tech",
+  "draw": "Map pin standing on a cloud outline."
+ },
+ {
+  "name": "availability-zone",
+  "category": "tech",
+  "draw": "Three dashed boxes side by side, each holding a small server."
+ },
+ {
+  "name": "virtual-machine",
+  "category": "tech",
+  "draw": "Dashed monitor outline with a smaller solid monitor inside."
+ },
+ {
+  "name": "hypervisor",
+  "category": "tech",
+  "draw": "Thick layer bar at the bottom supporting three small window boxes above it."
+ },
+ {
+  "name": "container-registry",
+  "category": "tech",
+  "draw": "Stacked shipping containers on a shelf with a tag hanging from the shelf."
+ },
+ {
+  "name": "autoscaling",
+  "category": "tech",
+  "draw": "Three server boxes of increasing size with small arrows between them."
+ },
+ {
+  "name": "horizontal-scaling",
+  "category": "tech",
+  "draw": "Row of identical server boxes with a plus sign adding one more at the end."
+ },
+ {
+  "name": "vertical-scaling",
+  "category": "tech",
+  "draw": "Server box growing taller with a stretch arrow on its top edge."
+ },
+ {
+  "name": "high-availability",
+  "category": "tech",
+  "draw": "Two server boxes joined by a heartbeat line."
+ },
+ {
+  "name": "failover",
+  "category": "tech",
+  "draw": "Server box with a crossed status light and an arrow jumping to a second server."
+ },
+ {
+  "name": "data-replication",
+  "category": "tech",
+  "draw": "Database cylinder with a copy arrow pointing to an identical cylinder."
+ },
+ {
+  "name": "database-shard",
+  "category": "tech",
+  "draw": "Database cylinder split into three separated horizontal slices."
+ },
+ {
+  "name": "database-index",
+  "category": "tech",
+  "draw": "Database cylinder with a bookmark tab sticking out of its side."
+ },
+ {
+  "name": "database-transaction",
+  "category": "tech",
+  "draw": "Database cylinder with two opposite exchange arrows on its front."
+ },
+ {
+  "name": "primary-key",
+  "category": "tech",
+  "draw": "Key with a small number one on its bow."
+ },
+ {
+  "name": "sql-join",
+  "category": "tech",
+  "draw": "Two overlapping circles with only the shared lens area filled."
+ },
+ {
+  "name": "full-outer-join",
+  "category": "tech",
+  "draw": "Two overlapping circles fully filled with the overlap outlined."
+ },
+ {
+  "name": "stored-procedure",
+  "category": "tech",
+  "draw": "Database cylinder with a small scroll of code in front of it."
+ },
+ {
+  "name": "key-value-store",
+  "category": "tech",
+  "draw": "Two columns of small rounded cells with a key above the left column."
+ },
+ {
+  "name": "document-database",
+  "category": "tech",
+  "draw": "Stack of document pages resting on a database cylinder."
+ },
+ {
+  "name": "time-series-database",
+  "category": "tech",
+  "draw": "Database cylinder with a zigzag line chart across its front."
+ },
+ {
+  "name": "vector-database",
+  "category": "tech",
+  "draw": "Database cylinder with three arrows fanning out from a point on its front."
+ },
+ {
+  "name": "data-lake",
+  "category": "tech",
+  "draw": "Lake shape with small ones and zeros floating on its surface."
+ },
+ {
+  "name": "data-lineage",
+  "category": "tech",
+  "draw": "Three dots chained left to right with a branch splitting from the middle dot."
+ },
+ {
+  "name": "data-catalog",
+  "category": "tech",
+  "draw": "Card index box with a database cylinder on the front card."
+ },
+ {
+  "name": "big-data",
+  "category": "tech",
+  "draw": "Large database cylinder surrounded by many small dots."
+ },
+ {
+  "name": "data-mining",
+  "category": "tech",
+  "draw": "Pickaxe striking a pile of ones and zeros."
+ },
+ {
+  "name": "data-cleaning",
+  "category": "tech",
+  "draw": "Broom sweeping across a small table grid."
+ },
+ {
+  "name": "dns-server",
+  "category": "tech",
+  "draw": "Server box with a small address book page in front of it."
+ },
+ {
+  "name": "domain-name",
+  "category": "tech",
+  "draw": "Globe above a text bar with a dot in it, like a web address."
+ },
+ {
+  "name": "ip-address",
+  "category": "tech",
+  "draw": "Map pin holding four dots separated like an address."
+ },
+ {
+  "name": "subnet",
+  "category": "tech",
+  "draw": "Large rounded box divided into four smaller boxes, each with a dot."
+ },
+ {
+  "name": "network-gateway",
+  "category": "tech",
+  "draw": "Gateway arch with a network line passing through it."
+ },
+ {
+  "name": "network-packet",
+  "category": "tech",
+  "draw": "Small parcel box with a header strip and binary dots on its side."
+ },
+ {
+  "name": "packet-loss",
+  "category": "tech",
+  "draw": "Row of three small packets with the middle one broken into pieces."
+ },
+ {
+  "name": "network-latency",
+  "category": "tech",
+  "draw": "Two dots joined by a line with an hourglass on the line."
+ },
+ {
+  "name": "ping-network",
+  "category": "tech",
+  "draw": "Dot sending concentric arcs toward a second dot."
+ },
+ {
+  "name": "traceroute",
+  "category": "tech",
+  "draw": "Dotted path hopping across four dots to a small flag."
+ },
+ {
+  "name": "port-number",
+  "category": "tech",
+  "draw": "Wall socket outline with a hash sign above it."
+ },
+ {
+  "name": "http-request",
+  "category": "tech",
+  "draw": "Arrow going from a browser window to a server box."
+ },
+ {
+  "name": "api-endpoint",
+  "category": "tech",
+  "draw": "Line ending in a filled target circle with angle brackets beside it."
+ },
+ {
+  "name": "sdk-toolkit",
+  "category": "tech",
+  "draw": "Toolbox with angle code brackets on its front."
+ },
+ {
+  "name": "websocket",
+  "category": "tech",
+  "draw": "Two plugs facing each other with a double headed arrow between them."
+ },
+ {
+  "name": "query-string",
+  "category": "tech",
+  "draw": "Link chain followed by a question mark and an equals sign."
+ },
+ {
+  "name": "url-slug",
+  "category": "tech",
+  "draw": "Slug creature with a link chain on its back."
+ },
+ {
+  "name": "lan-network",
+  "category": "tech",
+  "draw": "Three computers connected to a single horizontal line under a house roof."
+ },
+ {
+  "name": "wan-network",
+  "category": "tech",
+  "draw": "Globe with three small buildings linked by long arcs."
+ },
+ {
+  "name": "ring-topology",
+  "category": "tech",
+  "draw": "Six dots evenly placed on a circle line."
+ },
+ {
+  "name": "bus-topology",
+  "category": "tech",
+  "draw": "Horizontal line with small squares hanging from it above and below."
+ },
+ {
+  "name": "osi-layers",
+  "category": "tech",
+  "draw": "Seven thin stacked horizontal bars in a column."
+ },
+ {
+  "name": "protocol-stack",
+  "category": "tech",
+  "draw": "Four stacked rounded bars with a small arrow down the side."
+ },
+ {
+  "name": "patch-panel",
+  "category": "tech",
+  "draw": "Long horizontal panel with two rows of small square ports."
+ },
+ {
+  "name": "wireless-access-point",
+  "category": "tech",
+  "draw": "Round disc with wifi arcs rising above it."
+ },
+ {
+  "name": "fiber-optic-cable",
+  "category": "tech",
+  "draw": "Cable end with light rays bursting from its tip."
+ },
+ {
+  "name": "sfp-transceiver",
+  "category": "tech",
+  "draw": "Small rectangular module with a pull tab loop and contact strip."
+ },
+ {
+  "name": "iot-device",
+  "category": "tech",
+  "draw": "Small chip with wifi arcs above it inside a house outline."
+ },
+ {
+  "name": "sensor-node",
+  "category": "tech",
+  "draw": "Circle with a center dot and short waves radiating on both sides."
+ },
+ {
+  "name": "proximity-beacon",
+  "category": "tech",
+  "draw": "Small round puck with signal arcs on both sides."
+ },
+ {
+  "name": "intranet",
+  "category": "tech",
+  "draw": "Globe inside a building outline."
+ },
+ {
+  "name": "offline-mode",
+  "category": "tech",
+  "draw": "Cloud with a small airplane flying beneath it."
+ },
+ {
+  "name": "network-firewall-rule",
+  "category": "tech",
+  "draw": "Brick wall with a small list page in front of it."
+ },
+ {
+  "name": "ddos-attack",
+  "category": "tech",
+  "draw": "Many small arrows converging on a single server box."
+ },
+ {
+  "name": "port-scan",
+  "category": "tech",
+  "draw": "Row of small doors with a magnifier over them."
+ },
+ {
+  "name": "downtime",
+  "category": "tech",
+  "draw": "Server box with a flat line and a small zzz above it."
+ },
+ {
+  "name": "observability",
+  "category": "tech",
+  "draw": "Eye with a small line graph drawn in its iris."
+ },
+ {
+  "name": "distributed-tracing",
+  "category": "tech",
+  "draw": "Horizontal waterfall of staggered bars joined by thin lines."
+ },
+ {
+  "name": "flame-graph",
+  "category": "tech",
+  "draw": "Stacked bars of varied width shaped like a flame."
+ },
+ {
+  "name": "log-aggregation",
+  "category": "tech",
+  "draw": "Three log pages funnelled into one cylinder."
+ },
+ {
+  "name": "metrics-dashboard",
+  "category": "tech",
+  "draw": "Screen with a gauge, a bar chart and a line graph in panels."
+ },
+ {
+  "name": "alert-rule",
+  "category": "tech",
+  "draw": "Bell connected by a line to a small threshold bar."
+ },
+ {
+  "name": "postmortem",
+  "category": "tech",
+  "draw": "Clipboard with a magnifying glass over a small broken server."
+ },
+ {
+  "name": "error-budget",
+  "category": "tech",
+  "draw": "Pie chart with a small warning triangle in one slice."
+ },
+ {
+  "name": "sla-agreement",
+  "category": "tech",
+  "draw": "Document with a small clock and a signature line."
+ },
+ {
+  "name": "chaos-engineering",
+  "category": "tech",
+  "draw": "Server box with a monkey face peeking over its top edge."
+ },
+ {
+  "name": "disaster-recovery",
+  "category": "tech",
+  "draw": "Server box with a life ring around it."
+ },
+ {
+  "name": "system-snapshot",
+  "category": "tech",
+  "draw": "Server box inside camera viewfinder corners."
+ },
+ {
+  "name": "raid-array",
+  "category": "tech",
+  "draw": "Four hard drive boxes in a row joined by a bracket above."
+ },
+ {
+  "name": "storage-array",
+  "category": "tech",
+  "draw": "Tall cabinet with rows of drive slots and status lights."
+ },
+ {
+  "name": "block-storage",
+  "category": "tech",
+  "draw": "Three flat blocks stacked and joined edge to edge."
+ },
+ {
+  "name": "tape-backup",
+  "category": "tech",
+  "draw": "Rectangular tape cartridge with two reel holes and a label."
+ },
+ {
+  "name": "system-monitor",
+  "category": "tech",
+  "draw": "Window with three small vertical bar meters."
+ },
+ {
+  "name": "process-tree",
+  "category": "tech",
+  "draw": "Gear at the top with lines branching down to three smaller gears."
+ },
+ {
+  "name": "execution-thread",
+  "category": "tech",
+  "draw": "Sewing needle trailing a long wavy thread through three dots."
+ },
+ {
+  "name": "multithreading",
+  "category": "tech",
+  "draw": "Three parallel wavy threads running side by side with arrow tips."
+ },
+ {
+  "name": "mutex",
+  "category": "tech",
+  "draw": "Padlock sitting on a single wavy thread line."
+ },
+ {
+  "name": "deadlock",
+  "category": "tech",
+  "draw": "Two arrows chasing each other in a circle, each blocked by a padlock."
+ },
+ {
+  "name": "race-condition",
+  "category": "tech",
+  "draw": "Two arrows racing toward one box with a finish flag above it."
+ },
+ {
+  "name": "memory-leak",
+  "category": "tech",
+  "draw": "RAM stick with drops dripping from its bottom edge."
+ },
+ {
+  "name": "heap-memory",
+  "category": "tech",
+  "draw": "Pile of uneven stacked blocks."
+ },
+ {
+  "name": "event-loop",
+  "category": "tech",
+  "draw": "Circular arrow with small task squares riding around it."
+ },
+ {
+  "name": "stack-trace",
+  "category": "tech",
+  "draw": "List of indented lines with an arrow pointing to the top line."
+ },
+ {
+  "name": "exception-error",
+  "category": "tech",
+  "draw": "Curly braces around an exclamation mark."
+ },
+ {
+  "name": "syntax-error",
+  "category": "tech",
+  "draw": "Code line with a wavy underline beneath one word."
+ },
+ {
+  "name": "compile-error",
+  "category": "tech",
+  "draw": "Gear with a broken code bracket in front of it."
+ },
+ {
+  "name": "null-pointer",
+  "category": "tech",
+  "draw": "Arrow pointing into an empty dashed circle."
+ },
+ {
+  "name": "infinite-loop",
+  "category": "tech",
+  "draw": "Circular arrow with an infinity mark inside it."
+ },
+ {
+  "name": "recursion",
+  "category": "tech",
+  "draw": "Nested squares shrinking toward the center with a curved arrow."
+ },
+ {
+  "name": "conditional-branch",
+  "category": "tech",
+  "draw": "Diamond with two lines exiting, one ending in a check and one in a cross."
+ },
+ {
+  "name": "switch-case",
+  "category": "tech",
+  "draw": "Single line splitting into three parallel lines like a railway switch."
+ },
+ {
+  "name": "boolean-type",
+  "category": "tech",
+  "draw": "Pill shape split in half with a check on one side and a cross on the other."
+ },
+ {
+  "name": "string-type",
+  "category": "tech",
+  "draw": "Quotation marks around the letters abc."
+ },
+ {
+  "name": "integer-type",
+  "category": "tech",
+  "draw": "Hash sign beside the digits 123."
+ },
+ {
+  "name": "linked-list",
+  "category": "tech",
+  "draw": "Three boxes in a row joined by arrows from a dot in each box."
+ },
+ {
+  "name": "hash-map",
+  "category": "tech",
+  "draw": "Two columns of cells with arrows from the left cells to the right cells."
+ },
+ {
+  "name": "hash-function",
+  "category": "tech",
+  "draw": "Hash sign with an arrow turning a long line into a short block."
+ },
+ {
+  "name": "sorting-algorithm",
+  "category": "tech",
+  "draw": "Bars of increasing height with a swap arrow arcing over two of them."
+ },
+ {
+  "name": "tree-traversal",
+  "category": "tech",
+  "draw": "Small tree of nodes with a dotted path winding around it."
+ },
+ {
+  "name": "trie-structure",
+  "category": "tech",
+  "draw": "Root dot with branches ending in small letters."
+ },
+ {
+  "name": "big-o-notation",
+  "category": "tech",
+  "draw": "Capital O followed by parentheses with a small n inside."
+ },
+ {
+  "name": "pointer-reference",
+  "category": "tech",
+  "draw": "Ampersand with an arrow extending from it."
+ },
+ {
+  "name": "class-object",
+  "category": "tech",
+  "draw": "Box divided into three stacked sections under a title bar."
+ },
+ {
+  "name": "inheritance",
+  "category": "tech",
+  "draw": "Two boxes with a hollow triangle arrow pointing from the lower box to the upper one."
+ },
+ {
+  "name": "code-interface",
+  "category": "tech",
+  "draw": "Circle on a stick connected to a class box, the lollipop notation."
+ },
+ {
+  "name": "code-module",
+  "category": "tech",
+  "draw": "Cube with angle code brackets on its front face."
+ },
+ {
+  "name": "namespace",
+  "category": "tech",
+  "draw": "Folder shape with curly braces on its tab."
+ },
+ {
+  "name": "import-statement",
+  "category": "tech",
+  "draw": "Box with an arrow entering it and code brackets above."
+ },
+ {
+  "name": "enum-type",
+  "category": "tech",
+  "draw": "Short numbered list of three items inside curly braces."
+ },
+ {
+  "name": "constant-value",
+  "category": "tech",
+  "draw": "Padlock with a pi sign on its body."
+ },
+ {
+  "name": "generic-type",
+  "category": "tech",
+  "draw": "Angle brackets around a capital letter T."
+ },
+ {
+  "name": "type-annotation",
+  "category": "tech",
+  "draw": "Colon followed by a capital letter T in a box."
+ },
+ {
+  "name": "iterator",
+  "category": "tech",
+  "draw": "Arrow stepping through a row of dots one by one."
+ },
+ {
+  "name": "code-decorator",
+  "category": "tech",
+  "draw": "At sign sitting on top of function parentheses."
+ },
+ {
+  "name": "async-await",
+  "category": "tech",
+  "draw": "Hourglass beside a forward arrow."
+ },
+ {
+  "name": "code-comment",
+  "category": "tech",
+  "draw": "Two slashes followed by a speech bubble."
+ },
+ {
+  "name": "todo-comment",
+  "category": "tech",
+  "draw": "Code line with a small empty check box before it."
+ },
+ {
+  "name": "autocomplete",
+  "category": "tech",
+  "draw": "Text cursor with a dropdown list of three suggestions below."
+ },
+ {
+  "name": "code-formatter",
+  "category": "tech",
+  "draw": "Messy lines on the left becoming neat indented lines on the right, with a wand between."
+ },
+ {
+  "name": "linter",
+  "category": "tech",
+  "draw": "Lint roller rolling over code lines."
+ },
+ {
+  "name": "refactor",
+  "category": "tech",
+  "draw": "Code brackets with a circular arrow around them."
+ },
+ {
+  "name": "minify",
+  "category": "tech",
+  "draw": "Code page with inward arrows squeezing it from both sides."
+ },
+ {
+  "name": "compiler",
+  "category": "tech",
+  "draw": "Code page entering a gear and coming out as ones and zeros."
+ },
+ {
+  "name": "code-interpreter",
+  "category": "tech",
+  "draw": "Code brackets with a speech bubble beside them."
+ },
+ {
+  "name": "transpiler",
+  "category": "tech",
+  "draw": "Two code pages with a swap arrow between them."
+ },
+ {
+  "name": "bundler",
+  "category": "tech",
+  "draw": "Several small files tied together with a string into one bundle."
+ },
+ {
+  "name": "dependency-tree",
+  "category": "tech",
+  "draw": "Box at top with lines to two boxes and one more box below them."
+ },
+ {
+  "name": "plugin-socket",
+  "category": "tech",
+  "draw": "Wall socket with a puzzle piece plugged into it."
+ },
+ {
+  "name": "hot-reload",
+  "category": "tech",
+  "draw": "Flame beside a circular refresh arrow."
+ },
+ {
+  "name": "repl-prompt",
+  "category": "tech",
+  "draw": "Three chevrons followed by a cursor inside a window."
+ },
+ {
+  "name": "notebook-cell",
+  "category": "tech",
+  "draw": "Page with two stacked cells, each with a small play button on its left."
+ },
+ {
+  "name": "inspect-element",
+  "category": "tech",
+  "draw": "Cursor arrow clicking on a dashed box with angle brackets."
+ },
+ {
+  "name": "watch-expression",
+  "category": "tech",
+  "draw": "Eye above code brackets."
+ },
+ {
+  "name": "profiler",
+  "category": "tech",
+  "draw": "Stopwatch with code brackets on its face."
+ },
+ {
+  "name": "performance-trace",
+  "category": "tech",
+  "draw": "Timeline with bars of varied length and a small stopwatch."
+ },
+ {
+  "name": "rubber-duck-debugging",
+  "category": "tech",
+  "draw": "Rubber duck sitting beside a small bug."
+ },
+ {
+  "name": "spaghetti-code",
+  "category": "tech",
+  "draw": "Tangled noodle lines on a plate with code brackets above."
+ },
+ {
+  "name": "technical-debt",
+  "category": "tech",
+  "draw": "Code bracket chained to a heavy ball."
+ },
+ {
+  "name": "legacy-code",
+  "category": "tech",
+  "draw": "Code page with a cobweb in its corner."
+ },
+ {
+  "name": "code-smell",
+  "category": "tech",
+  "draw": "Code brackets with wavy stink lines rising above."
+ },
+ {
+  "name": "pair-programming",
+  "category": "tech",
+  "draw": "Two person heads sharing one laptop."
+ },
+ {
+  "name": "hackathon",
+  "category": "tech",
+  "draw": "Laptop with a flame and a stopwatch."
+ },
+ {
+  "name": "code-contributor",
+  "category": "tech",
+  "draw": "Person head with a small commit dot badge."
+ },
+ {
+  "name": "feature-request",
+  "category": "tech",
+  "draw": "Speech bubble with a lightbulb and a plus sign."
+ },
+ {
+  "name": "user-story",
+  "category": "tech",
+  "draw": "Index card with a person head and three text lines."
+ },
+ {
+  "name": "story-points",
+  "category": "tech",
+  "draw": "Playing card with a number in the corner and a dot pattern."
+ },
+ {
+  "name": "burndown-chart",
+  "category": "tech",
+  "draw": "Line graph dropping from top left to bottom right with a flame at the start."
+ },
+ {
+  "name": "velocity-chart",
+  "category": "tech",
+  "draw": "Bar chart with speed lines trailing the tallest bar."
+ },
+ {
+  "name": "waterfall-methodology",
+  "category": "tech",
+  "draw": "Five step boxes cascading down and to the right joined by arrows."
+ },
+ {
+  "name": "css-selector",
+  "category": "tech",
+  "draw": "Hash sign pointing into a dashed box."
+ },
+ {
+  "name": "responsive-design",
+  "category": "tech",
+  "draw": "Desktop monitor, tablet and phone overlapping in size order."
+ },
+ {
+  "name": "media-query",
+  "category": "tech",
+  "draw": "Phone and monitor with an at sign between them."
+ },
+ {
+  "name": "flexbox",
+  "category": "tech",
+  "draw": "Container box with three flexible boxes in a row and double arrows."
+ },
+ {
+  "name": "css-grid",
+  "category": "tech",
+  "draw": "Box divided into a three by three grid with one cell spanning two columns."
+ },
+ {
+  "name": "virtual-dom",
+  "category": "tech",
+  "draw": "Dashed tree of nodes behind a solid tree of nodes."
+ },
+ {
+  "name": "single-page-app",
+  "category": "tech",
+  "draw": "Browser window with one page and a looping arrow inside it."
+ },
+ {
+  "name": "progressive-web-app",
+  "category": "tech",
+  "draw": "Phone and browser window merged with a download plus badge."
+ },
+ {
+  "name": "service-worker",
+  "category": "tech",
+  "draw": "Gear inside a browser window outline."
+ },
+ {
+  "name": "web-worker",
+  "category": "tech",
+  "draw": "Browser window with a small hard hat in the corner."
+ },
+ {
+  "name": "server-side-rendering",
+  "category": "tech",
+  "draw": "Server box emitting a finished browser page."
+ },
+ {
+  "name": "page-not-found",
+  "category": "tech",
+  "draw": "Browser window with a sad face and the digits 404."
+ },
+ {
+  "name": "server-error",
+  "category": "tech",
+  "draw": "Browser window with a broken server and the digits 500."
+ },
+ {
+  "name": "access-forbidden",
+  "category": "tech",
+  "draw": "Browser window with a raised hand stop sign."
+ },
+ {
+  "name": "robots-txt",
+  "category": "tech",
+  "draw": "Document page with a small robot head on it."
+ },
+ {
+  "name": "favicon",
+  "category": "tech",
+  "draw": "Browser tab with a small star inside it."
+ },
+ {
+  "name": "web-accessibility",
+  "category": "tech",
+  "draw": "Browser window with a person accessibility figure."
+ },
+ {
+  "name": "cors-policy",
+  "category": "tech",
+  "draw": "Two globes with a shield between them."
+ },
+ {
+  "name": "url-shortener",
+  "category": "tech",
+  "draw": "Link chain with inward arrows compressing it."
+ },
+ {
+  "name": "web-scraper",
+  "category": "tech",
+  "draw": "Browser page with a spatula scraping lines off it."
+ },
+ {
+  "name": "headless-browser",
+  "category": "tech",
+  "draw": "Browser window with no title bar and a gear in its center."
+ },
+ {
+  "name": "iframe-embed",
+  "category": "tech",
+  "draw": "Browser window containing a smaller window with angle brackets."
+ },
+ {
+  "name": "neural-network",
+  "category": "tech",
+  "draw": "Three columns of circles fully connected by lines between the columns."
+ },
+ {
+  "name": "ai-agent",
+  "category": "tech",
+  "draw": "Robot head with a small checklist beside it."
+ },
+ {
+  "name": "large-language-model",
+  "category": "tech",
+  "draw": "Stack of book pages with a sparkle above them."
+ },
+ {
+  "name": "prompt-input",
+  "category": "tech",
+  "draw": "Text field with a cursor and a sparkle send button."
+ },
+ {
+  "name": "prompt-engineering",
+  "category": "tech",
+  "draw": "Text field with a wrench beside it."
+ },
+ {
+  "name": "vector-embedding",
+  "category": "tech",
+  "draw": "Point cloud with arrows from the origin to three points."
+ },
+ {
+  "name": "attention-mechanism",
+  "category": "tech",
+  "draw": "Row of dots with arcs connecting every dot to one highlighted dot."
+ },
+ {
+  "name": "transformer-model",
+  "category": "tech",
+  "draw": "Two stacked blocks with arrows between them and a small eye on top."
+ },
+ {
+  "name": "generative-ai",
+  "category": "tech",
+  "draw": "Magic wand drawing a sparkle over an image frame."
+ },
+ {
+  "name": "text-to-image",
+  "category": "tech",
+  "draw": "Letter T with an arrow to a small mountain image frame."
+ },
+ {
+  "name": "text-to-speech",
+  "category": "tech",
+  "draw": "Letter T with an arrow to sound waves."
+ },
+ {
+  "name": "computer-vision",
+  "category": "tech",
+  "draw": "Eye inside a chip outline with pins."
+ },
+ {
+  "name": "object-detection",
+  "category": "tech",
+  "draw": "Two dashed bounding boxes around simple shapes, each with a small label tab."
+ },
+ {
+  "name": "image-segmentation",
+  "category": "tech",
+  "draw": "Image frame with a mountain divided into outlined regions."
+ },
+ {
+  "name": "pose-estimation",
+  "category": "tech",
+  "draw": "Stick figure of joints drawn as dots connected by lines."
+ },
+ {
+  "name": "natural-language-processing",
+  "category": "tech",
+  "draw": "Speech bubble with a gear inside."
+ },
+ {
+  "name": "sentiment-analysis",
+  "category": "tech",
+  "draw": "Speech bubble with a smile and a small gauge."
+ },
+ {
+  "name": "data-classification",
+  "category": "tech",
+  "draw": "Three different shapes dropping into three matching bins."
+ },
+ {
+  "name": "data-clustering",
+  "category": "tech",
+  "draw": "Three groups of dots, each circled."
+ },
+ {
+  "name": "decision-tree",
+  "category": "tech",
+  "draw": "Diamond node splitting into two branches that end in leaf dots."
+ },
+ {
+  "name": "random-forest",
+  "category": "tech",
+  "draw": "Three small trees made of nodes side by side."
+ },
+ {
+  "name": "gradient-descent",
+  "category": "tech",
+  "draw": "Curved bowl line with a ball stepping down to the bottom."
+ },
+ {
+  "name": "loss-curve",
+  "category": "tech",
+  "draw": "Axis with a curve dropping steeply then flattening out."
+ },
+ {
+  "name": "overfitting",
+  "category": "tech",
+  "draw": "Scatter dots with a wiggly line passing through every dot."
+ },
+ {
+  "name": "training-data",
+  "category": "tech",
+  "draw": "Stack of data cylinders feeding an arrow into a brain."
+ },
+ {
+  "name": "data-labeling",
+  "category": "tech",
+  "draw": "Image frame with a tag hanging from its corner."
+ },
+ {
+  "name": "model-training",
+  "category": "tech",
+  "draw": "Brain above a progress bar with a small dumbbell."
+ },
+ {
+  "name": "model-inference",
+  "category": "tech",
+  "draw": "Brain with an arrow in and an arrow out producing a check."
+ },
+ {
+  "name": "fine-tuning",
+  "category": "tech",
+  "draw": "Brain with a tuning knob beside it."
+ },
+ {
+  "name": "reinforcement-learning",
+  "category": "tech",
+  "draw": "Robot head with a looping arrow and a star reward."
+ },
+ {
+  "name": "convolution-kernel",
+  "category": "tech",
+  "draw": "Small three by three grid sliding over a larger grid."
+ },
+ {
+  "name": "feature-map",
+  "category": "tech",
+  "draw": "Stack of three offset grids."
+ },
+ {
+  "name": "confusion-matrix",
+  "category": "tech",
+  "draw": "Two by two grid with a check in the two diagonal cells."
+ },
+ {
+  "name": "roc-curve",
+  "category": "tech",
+  "draw": "Square axis with a bowed curve above the diagonal line."
+ },
+ {
+  "name": "hyperparameter",
+  "category": "tech",
+  "draw": "Three slider controls beside a small brain."
+ },
+ {
+  "name": "model-weights",
+  "category": "tech",
+  "draw": "Kettlebell with a small node network on it."
+ },
+ {
+  "name": "retrieval-augmented-generation",
+  "category": "tech",
+  "draw": "Magnifier over a document feeding into a sparkle."
+ },
+ {
+  "name": "context-window",
+  "category": "tech",
+  "draw": "Window frame containing a row of token squares."
+ },
+ {
+  "name": "ai-hallucination",
+  "category": "tech",
+  "draw": "Robot head with a swirl above it."
+ },
+ {
+  "name": "synthetic-data",
+  "category": "tech",
+  "draw": "Table grid with a magic wand over it."
+ },
+ {
+  "name": "anomaly-detection",
+  "category": "tech",
+  "draw": "Line of dots with one far off dot circled."
+ },
+ {
+  "name": "recommendation-engine",
+  "category": "tech",
+  "draw": "Gear with three small thumbs up cards around it."
+ },
+ {
+  "name": "digital-twin",
+  "category": "tech",
+  "draw": "Solid machine outline beside an identical dashed outline."
+ },
+ {
+  "name": "humanoid-robot",
+  "category": "tech",
+  "draw": "Full body robot with arms, legs and a round head."
+ },
+ {
+  "name": "multi-agent-system",
+  "category": "tech",
+  "draw": "Three small robot heads connected in a triangle."
+ },
+ {
+  "name": "ai-model",
+  "category": "tech",
+  "draw": "Cube with a neural network pattern on one face."
+ },
+ {
+  "name": "neural-processing-unit",
+  "category": "tech",
+  "draw": "Chip with a small neural network in its center."
+ },
+ {
+  "name": "gpu-graphics-card",
+  "category": "tech",
+  "draw": "Long card with two round fans and a bracket on one end."
+ },
+ {
+  "name": "tensor-cube",
+  "category": "tech",
+  "draw": "Cube with each face divided into a grid of cells."
+ },
+ {
+  "name": "perceptron",
+  "category": "tech",
+  "draw": "Three input lines merging into one circle with one output line."
+ },
+ {
+  "name": "activation-function",
+  "category": "tech",
+  "draw": "Axis with an S shaped curve."
+ },
+ {
+  "name": "chain-of-thought",
+  "category": "tech",
+  "draw": "Speech bubbles linked in a chain by small links."
+ },
+ {
+  "name": "ai-safety",
+  "category": "tech",
+  "draw": "Shield with a sparkle inside."
+ },
+ {
+  "name": "motherboard",
+  "category": "tech",
+  "draw": "Square board with a chip socket, expansion slots and trace lines."
+ },
+ {
+  "name": "cpu-cooler",
+  "category": "tech",
+  "draw": "Square heat sink with a round fan on its face."
+ },
+ {
+  "name": "heat-sink",
+  "category": "tech",
+  "draw": "Block with tall parallel fins rising from its top."
+ },
+ {
+  "name": "thermal-paste",
+  "category": "tech",
+  "draw": "Small syringe tube squeezing a paste dot onto a chip."
+ },
+ {
+  "name": "power-supply-unit",
+  "category": "tech",
+  "draw": "Box with a fan grille on its side and a bundle of cables."
+ },
+ {
+  "name": "liquid-cooling",
+  "category": "tech",
+  "draw": "Radiator block with tubes looping to a pump and a water drop."
+ },
+ {
+  "name": "usb-flash-drive",
+  "category": "tech",
+  "draw": "Small stick with a plug on one end and a keyring loop on the other."
+ },
+ {
+  "name": "external-hard-drive",
+  "category": "tech",
+  "draw": "Rounded rectangle drive with a cable leading out."
+ },
+ {
+  "name": "memory-card-reader",
+  "category": "tech",
+  "draw": "Small box with a card half inserted in its slot."
+ },
+ {
+  "name": "docking-station",
+  "category": "tech",
+  "draw": "Laptop resting on a dock base with ports on its side."
+ },
+ {
+  "name": "kvm-switch",
+  "category": "tech",
+  "draw": "Small box with a selector button between a monitor and a keyboard."
+ },
+ {
+  "name": "blade-server",
+  "category": "tech",
+  "draw": "Chassis holding thin vertical blades side by side."
+ },
+ {
+  "name": "mainframe",
+  "category": "tech",
+  "draw": "Tall row of cabinets with tape reels on the front."
+ },
+ {
+  "name": "supercomputer",
+  "category": "tech",
+  "draw": "Curved row of cabinets forming a partial circle."
+ },
+ {
+  "name": "quantum-computer",
+  "category": "tech",
+  "draw": "Tiered hanging chandelier of plates with coiled wires."
+ },
+ {
+  "name": "qubit",
+  "category": "tech",
+  "draw": "Sphere with an arrow from its center and an equator ring."
+ },
+ {
+  "name": "thin-client",
+  "category": "tech",
+  "draw": "Very slim box standing beside a monitor."
+ },
+ {
+  "name": "single-board-computer",
+  "category": "tech",
+  "draw": "Small board with a chip, a pin header row and ports on one edge."
+ },
+ {
+  "name": "microcontroller",
+  "category": "tech",
+  "draw": "Small chip with pins on its two long sides only."
+ },
+ {
+  "name": "breadboard",
+  "category": "tech",
+  "draw": "Rectangle with rows of tiny holes and a central channel."
+ },
+ {
+  "name": "jumper-wire",
+  "category": "tech",
+  "draw": "Flexible wire with a pin at each end."
+ },
+ {
+  "name": "pin-header",
+  "category": "tech",
+  "draw": "Row of short vertical pins on a plastic strip."
+ },
+ {
+  "name": "ribbon-cable",
+  "category": "tech",
+  "draw": "Flat wide cable of parallel lines ending in a connector."
+ },
+ {
+  "name": "sata-cable",
+  "category": "tech",
+  "draw": "Cable ending in an L shaped flat connector."
+ },
+ {
+  "name": "usb-c-connector",
+  "category": "tech",
+  "draw": "Oval plug with a rounded slot and a cable."
+ },
+ {
+  "name": "vga-connector",
+  "category": "tech",
+  "draw": "Trapezoid plug with three rows of pins and two thumb screws."
+ },
+ {
+  "name": "dvi-connector",
+  "category": "tech",
+  "draw": "Wide plug with a grid of pins and a flat blade on one side."
+ },
+ {
+  "name": "serial-port",
+  "category": "tech",
+  "draw": "Trapezoid port with two rows of pins and screws on each side."
+ },
+ {
+  "name": "ps2-port",
+  "category": "tech",
+  "draw": "Round port with six small pin holes and a key notch."
+ },
+ {
+  "name": "audio-jack-port",
+  "category": "tech",
+  "draw": "Round port with a small central hole and a headphone plug beside it."
+ },
+ {
+  "name": "gpio-pins",
+  "category": "tech",
+  "draw": "Double row of pins along a board edge."
+ },
+ {
+  "name": "printed-circuit-board",
+  "category": "tech",
+  "draw": "Board with trace lines ending in round pads and a chip."
+ },
+ {
+  "name": "transistor",
+  "category": "tech",
+  "draw": "Half round component body with three legs."
+ },
+ {
+  "name": "resistor",
+  "category": "tech",
+  "draw": "Capsule body with colored bands and a wire lead on each end."
+ },
+ {
+  "name": "capacitor",
+  "category": "tech",
+  "draw": "Cylinder with two legs and a stripe down one side."
+ },
+ {
+  "name": "inductor-coil",
+  "category": "tech",
+  "draw": "Coil of wire wrapped around a core with two leads."
+ },
+ {
+  "name": "diode",
+  "category": "tech",
+  "draw": "Small cylinder with a band at one end and two leads."
+ },
+ {
+  "name": "led-component",
+  "category": "tech",
+  "draw": "Dome shaped light with two legs of different length."
+ },
+ {
+  "name": "vacuum-tube",
+  "category": "tech",
+  "draw": "Glass bulb with internal plates and pins at the base."
+ },
+ {
+  "name": "crystal-oscillator",
+  "category": "tech",
+  "draw": "Oval metal can with two legs and a wave line on it."
+ },
+ {
+  "name": "relay-switch",
+  "category": "tech",
+  "draw": "Small box with a coil symbol and a switch arm."
+ },
+ {
+  "name": "potentiometer",
+  "category": "tech",
+  "draw": "Round knob on a small body with three legs."
+ },
+ {
+  "name": "and-gate",
+  "category": "tech",
+  "draw": "D shaped logic gate with two input lines and one output line."
+ },
+ {
+  "name": "or-gate",
+  "category": "tech",
+  "draw": "Curved shield shaped logic gate with two inputs and a pointed output."
+ },
+ {
+  "name": "not-gate",
+  "category": "tech",
+  "draw": "Triangle with a small circle at its tip and one input line."
+ },
+ {
+  "name": "xor-gate",
+  "category": "tech",
+  "draw": "Curved logic gate with an extra curved line behind the inputs."
+ },
+ {
+  "name": "nand-gate",
+  "category": "tech",
+  "draw": "D shaped logic gate with a small circle at the output."
+ },
+ {
+  "name": "nor-gate",
+  "category": "tech",
+  "draw": "Curved shield logic gate with a small circle at the output."
+ },
+ {
+  "name": "logic-analyzer",
+  "category": "tech",
+  "draw": "Small box showing a square wave with a row of probe wires."
+ },
+ {
+  "name": "mechanical-keyboard",
+  "category": "tech",
+  "draw": "Keyboard with tall separated keys and a coiled cable."
+ },
+ {
+  "name": "numeric-keypad",
+  "category": "tech",
+  "draw": "Small key block in a four by three grid."
+ },
+ {
+  "name": "trackball",
+  "category": "tech",
+  "draw": "Mouse body with a large ball on top."
+ },
+ {
+  "name": "light-pen",
+  "category": "tech",
+  "draw": "Pen with a cable touching a monitor screen."
+ },
+ {
+  "name": "punch-tape",
+  "category": "tech",
+  "draw": "Long paper tape with rows of small punched holes."
+ },
+ {
+  "name": "magnetic-tape-reel",
+  "category": "tech",
+  "draw": "Large reel with spokes and tape trailing off."
+ },
+ {
+  "name": "zip-disk",
+  "category": "tech",
+  "draw": "Square disk with a wide shutter slot."
+ },
+ {
+  "name": "laser-disc",
+  "category": "tech",
+  "draw": "Large disc with a small center hole and ring lines."
+ },
+ {
+  "name": "mini-disc",
+  "category": "tech",
+  "draw": "Square cartridge with a small round disc window."
+ },
+ {
+  "name": "cpu-socket",
+  "category": "tech",
+  "draw": "Square socket with a lever arm on one side and a pin grid."
+ },
+ {
+  "name": "expansion-card",
+  "category": "tech",
+  "draw": "Card with a gold edge connector and a metal bracket."
+ },
+ {
+  "name": "sound-card",
+  "category": "tech",
+  "draw": "Expansion card with round audio jacks on its bracket."
+ },
+ {
+  "name": "network-card",
+  "category": "tech",
+  "draw": "Expansion card with an ethernet port on its bracket."
+ },
+ {
+  "name": "bios-chip",
+  "category": "tech",
+  "draw": "Small chip with a coin battery beside it."
+ },
+ {
+  "name": "computer-fan",
+  "category": "tech",
+  "draw": "Square frame with a round fan blade inside."
+ },
+ {
+  "name": "pixel-grid",
+  "category": "tech",
+  "draw": "Square grid with a few cells filled."
+ },
+ {
+  "name": "screen-resolution",
+  "category": "tech",
+  "draw": "Monitor with arrows in its corners expanding outward."
+ },
+ {
+  "name": "dual-monitor",
+  "category": "tech",
+  "draw": "Two monitors side by side on stands."
+ },
+ {
+  "name": "ultrawide-monitor",
+  "category": "tech",
+  "draw": "Very wide curved monitor on a stand."
+ },
+ {
+  "name": "chip-wafer",
+  "category": "tech",
+  "draw": "Round disc divided into a grid of small squares."
+ },
+ {
+  "name": "hardware-wallet",
+  "category": "tech",
+  "draw": "Small key shaped device with a tiny screen and two buttons."
+ },
+ {
+  "name": "mining-rig",
+  "category": "tech",
+  "draw": "Open frame holding a row of graphics cards."
+ },
+ {
+  "name": "smart-contract",
+  "category": "tech",
+  "draw": "Document page with a cube stamp in its corner."
+ },
+ {
+  "name": "distributed-ledger",
+  "category": "tech",
+  "draw": "Three ledger books linked to each other in a triangle."
+ },
+ {
+  "name": "bit-byte",
+  "category": "tech",
+  "draw": "Row of eight small squares with some filled."
+ },
+ {
+  "name": "hexadecimal",
+  "category": "tech",
+  "draw": "Hash sign followed by the letters f and f."
+ },
+ {
+  "name": "ascii-code",
+  "category": "tech",
+  "draw": "Letter A with the number 65 beside it."
+ },
+ {
+  "name": "unicode-character",
+  "category": "tech",
+  "draw": "Letter U with a plus sign inside a square."
+ },
+ {
+  "name": "character-encoding",
+  "category": "tech",
+  "draw": "Letter A with an arrow pointing to binary digits."
+ },
+ {
+  "name": "checksum",
+  "category": "tech",
+  "draw": "Document with a hash sign and a check mark."
+ },
+ {
+  "name": "public-key",
+  "category": "tech",
+  "draw": "Key with a globe on its bow."
+ },
+ {
+  "name": "root-user",
+  "category": "tech",
+  "draw": "Person silhouette with a small crown and a hash sign."
+ },
+ {
+  "name": "sudo-command",
+  "category": "tech",
+  "draw": "Chevron prompt with a small crown above it."
+ },
+ {
+  "name": "os-kernel",
+  "category": "tech",
+  "draw": "Small nut shape at the center of concentric rings."
+ },
+ {
+  "name": "device-driver",
+  "category": "tech",
+  "draw": "Chip with a steering wheel drawn on it."
+ },
+ {
+  "name": "firmware",
+  "category": "tech",
+  "draw": "Chip with a small gear and a download arrow."
+ },
+ {
+  "name": "bootloader",
+  "category": "tech",
+  "draw": "Boot shape with a power symbol on it."
+ },
+ {
+  "name": "symlink",
+  "category": "tech",
+  "draw": "Document page with a link chain curling off it."
+ },
+ {
+  "name": "file-permissions",
+  "category": "tech",
+  "draw": "Document with a small grid of three check marks."
+ },
+ {
+  "name": "split-terminal",
+  "category": "tech",
+  "draw": "Terminal window divided into two panes, each with a prompt."
+ },
+ {
+  "name": "line-numbers",
+  "category": "tech",
+  "draw": "Column of numbers beside short text lines."
+ },
+ {
+  "name": "code-minimap",
+  "category": "tech",
+  "draw": "Narrow strip of tiny lines with a highlighted viewport box."
+ },
+ {
+  "name": "single-sign-on",
+  "category": "tech",
+  "draw": "One key with three lines fanning out to three small app windows."
+ },
+ {
+  "name": "mac-address",
+  "category": "tech",
+  "draw": "Network card chip with six pairs of dots separated by colons below it."
+ },
+ {
+  "name": "bastion-host",
+  "category": "tech",
+  "draw": "Castle tower with a small server box set into its base."
+ },
+ {
+  "name": "code-signing",
+  "category": "tech",
+  "draw": "Angle code brackets above a signature squiggle and a small seal."
+ },
+ {
+  "name": "software-bill-of-materials",
+  "category": "tech",
+  "draw": "Clipboard list with a small package cube beside each line."
+ },
+ {
+  "name": "code-freeze",
+  "category": "tech",
+  "draw": "Angle code brackets with a snowflake between them."
+ },
+ {
+  "name": "tokenizer",
+  "category": "tech",
+  "draw": "Line of text split into three separate rounded token blocks."
+ },
+ {
+  "name": "model-quantization",
+  "category": "tech",
+  "draw": "Smooth curve overlaid by a stepped staircase line that follows it."
+ },
+ {
+  "name": "knowledge-distillation",
+  "category": "tech",
+  "draw": "Large brain funnelling down through a funnel into a small brain."
+ },
+ {
+  "name": "federated-learning",
+  "category": "tech",
+  "draw": "Three small phones sending lines up to one central brain."
+ },
+ {
+  "name": "transfer-learning",
+  "category": "tech",
+  "draw": "Brain on the left with an arrow carrying a small block to a second brain."
+ },
+ {
+  "name": "ai-guardrails",
+  "category": "tech",
+  "draw": "Road lane lined by guard rails with a sparkle in the lane."
+ },
+ {
+  "name": "diffusion-model",
+  "category": "tech",
+  "draw": "Square of scattered noise dots turning into a clean image frame with an arrow."
+ },
+ {
+  "name": "autoencoder",
+  "category": "tech",
+  "draw": "Network of dots shaped like a bow tie, wide at both ends and narrow in the middle."
+ },
+ {
+  "name": "generative-adversarial-network",
+  "category": "tech",
+  "draw": "Two robot heads facing each other with opposing arrows between them."
+ },
+ {
+  "name": "recurrent-neural-network",
+  "category": "tech",
+  "draw": "Single circle node with a looping arrow leaving and re entering it."
+ },
+ {
+  "name": "semantic-query",
+  "category": "tech",
+  "draw": "Magnifying glass with a small brain inside its lens."
+ },
+ {
+  "name": "robotic-process-automation",
+  "category": "tech",
+  "draw": "Robot arm pressing a cursor arrow onto a window."
+ },
+ {
+  "name": "low-code-builder",
+  "category": "tech",
+  "draw": "Three stacked puzzle blocks with a small code bracket on the top block."
+ },
+ {
+  "name": "multi-core-processor",
+  "category": "tech",
+  "draw": "Processor chip with its center divided into four square cores."
+ },
+ {
+  "name": "geo-replication",
+  "category": "tech",
+  "draw": "Globe with a database cylinder on each side joined by an arc."
+ },
+ {
+  "name": "api-versioning",
+  "category": "tech",
+  "draw": "Rounded box with angle brackets and a small version tag hanging from it."
+ },
+ {
+  "name": "breaking-change",
+  "category": "tech",
+  "draw": "Angle code bracket cracked through the middle with a small jagged line."
+ },
+ {
+  "name": "deprecated-code",
+  "category": "tech",
+  "draw": "Angle code brackets with a horizontal strikethrough line."
+ },
+ {
+  "name": "dead-code",
+  "category": "tech",
+  "draw": "Angle code brackets resting against a small rounded tombstone."
+ }
+]
